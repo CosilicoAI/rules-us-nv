@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-549"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-549"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="549"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-549/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-549/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-549/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-549/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_549">
+        <num>549</num>
+        <heading>EXTENSION WORK IN</heading>
+        <section eId="sec_549-005">
+          <num>549.005</num>
+          <heading>State land grant institutions.</heading>
+          <content>
+            <p>The
+state land grant institutions of the University of Nevada are the University of
+Nevada, Las Vegas, the University of Nevada, Reno, and the Desert Research
+Institute.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+2658)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_549-010">
+          <num>549.010</num>
+          <heading>Cooperative agreements between boards of county commissioners
+and Nevada System of Higher Education.</heading>
+          <content>
+            <p>To
+provide for continued educational, research, outreach and service programs
+pertaining to agriculture, community development, health and nutrition,
+horticulture, personal and family development, and natural resources in the
+rural and urban communities in the State of Nevada, the Director of the
+Agricultural Extension Department of the Public Service Division of the Nevada
+System of Higher Education and the boards of county commissioners of any or all
+of the respective counties of the State of Nevada may enter into cooperative
+agreements and activities subject to the provisions of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:94:1947; 1943 NCL ï¿½ 356.1]—(NRS A1969,
+1444;1993,
+413;1999,
+2550)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_549-020">
+          <num>549.020</num>
+          <heading>Preparation and adoption of budget; levy of tax; disposition of
+proceeds; payment of claims; Stateï¿½s cooperative share.</heading>
+          <subsection eId="549-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director of the Agricultural
+Extension Department of the Public Service Division of the Nevada System of
+Higher Education shall prepare and submit to the board of county commissioners,
+for each county participating, an annual financial budget covering the county,
+state and federal funds cooperating in the cost of educational, research,
+outreach and service programs pertaining to agriculture, community development,
+health and nutrition, horticulture, personal and family development, and
+natural resources in the rural and urban communities in the State of Nevada.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="549-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The budget must be adopted by the board
+of county commissioners and certified as a part of the annual county budget,
+and the county tax levy provided for agricultural extension work in the annual
+county budget must include a levy of not less than 1 cent on each $100 of
+taxable property. If the proceeds of the county tax levy of 1 cent are
+insufficient to meet the countyï¿½s share of the cooperative agricultural
+extension work, as provided in the combined annual financial budget, the board
+of county commissioners may, by unanimous vote, levy an additional tax so that
+the total in no instance exceeds 5 cents on each $100 of the county tax rate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="549-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The proceeds of such a tax must be
+placed in the agricultural extension fund in each county treasury and must be
+paid out on claims drawn by the agricultural extension agent of the county as
+designated by the Director of the Agricultural Extension Department of the
+Public Service Division of the Nevada System of Higher Education, when approved
+by the Director and countersigned by the Treasurer of the Nevada System of
+Higher Education.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="549-020__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A record of all such claims approved
+and paid, segregated by counties, must be kept by the Treasurer of the Nevada
+System of Higher Education. The cost of maintaining the record must be paid
+from state funds provided for by this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="549-020__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Stateï¿½s cooperative share of the
+cost of such agricultural extension work, as entered in the budget described in
+this section, must not be more than a sum equal to the proceeds of 1 cent of
+such county tax rate; but when the proceeds of a 1-cent tax rate are
+insufficient to carry out the provisions of the budget previously adopted, the
+Director of the Agricultural Extension Department of the Public Service
+Division of the Nevada System of Higher Education is authorized to supplement
+the Stateï¿½s cooperative share from the funds as may be made available in the
+Public Service Division Fund of the Nevada System of Higher Education.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [2:94:1947; 1943 NCL ï¿½ 356.2]—(NRS A1969,
+1444;1993,
+413;1999,
+2550)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_549-030">
+          <num>549.030</num>
+          <heading>Filing of copy of budget with Nevada System of Higher Education;
+modification of budget.</heading>
+          <subsection eId="549-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A certified copy of the county
+extension work budget as adopted and approved pursuant toNRS 549.020must be filed with the
+Treasurer of the Nevada System of Higher Education within 10 days after its
+approval by the board of county commissioners.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="549-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Necessary modifications thereof,
+involving county and state funds, resulting from leaves of absence without pay,
+resignations, changes in salary, dismissals or employment of any cooperative
+agent, variations in expense accounts or otherwise, not involving an increase
+in the total expenditures provided to be paid from the funds and consistent
+with the purposes of this chapter, may be made by filing with the Treasurer of
+the Nevada System of Higher Education and the board of county commissioners a
+revised budget, approved by the Director of the Agricultural Extension
+Department of the Public Service Division of the Nevada System of Higher
+Education and countersigned by the Treasurer of the Nevada System of Higher
+Education.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [3:94:1947; 1943 NCL ï¿½ 356.3]—(NRS A1969,
+1444;1993,
+414)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_549-040">
+          <num>549.040</num>
+          <heading>Legislative appropriations.</heading>
+          <content>
+            <p>Funds
+to carry out the provisions of this chapter shall be provided by direct
+legislative appropriation from the General Fund.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [4:94:1947; 1943 NCL ï¿½ 356.4]—(NRS A1961,
+513)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_549-050">
+          <num>549.050</num>
+          <heading>Expenditure of Stateï¿½s cooperative share.</heading>
+          <content>
+            <p>All moneys appropriated pursuant toNRS 549.040must be expended under the
+direction of the Director of the Agricultural Extension Department of the
+Public Service Division of the Nevada System of Higher Education to the extent
+of the financial budget for cooperation between the State and the respective
+counties provided for inNRS 549.020.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [5:94:1947; 1943 NCL ï¿½ 356.5]—(NRS A1969,
+1445;1993,
+414)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_549-060">
+          <num>549.060</num>
+          <heading>Participation of counties in extension work.</heading>
+          <content>
+            <p>Any county in the state which has agreed or
+shall agree to participate in cooperative work in agricultural extension under
+the provisions of this chapter or acts previously passed by the Legislature and
+approved by the Governor shall, by the provisions hereof, come under this
+chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [6:94:1947; 1943 NCL ï¿½ 356.6]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_549-070">
+          <num>549.070</num>
+          <heading>Transitional provisions.</heading>
+          <subsection eId="549-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>All supplies, materials, equipment,
+property or land acquired for the use of county agricultural extension offices
+under the provisions of chapter 213, Statutes of Nevada 1919, shall remain the
+property of the county extension offices set up under the provisions of this
+chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="549-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any and all contracts for the purchase
+of equipment, property or land of any type or description made under the
+provisions of chapter 213, Statutes of Nevada 1919, shall remain in full force
+and effect until the completion of such contracts.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [7:94:1947; 1943 NCL ï¿½ 356.7]</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,2878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-690B"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-690B"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="690B"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-690B/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-690B/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-690B/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-690B/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_690B">
+        <num>690B</num>
+        <heading>CASUALTY INSURANCE</heading>
+        <section eId="sec_690B-010">
+          <num>690B.010</num>
+          <heading>Other applicable provisions.</heading>
+          <content>
+            <p>All
+contracts of casualty insurance covering subjects resident, located or to be
+performed in this State are subject to the applicable provisions ofchapter 687Bof NRS (the insurance contract),
+and to other applicable provisions of this Code.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1777)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-012">
+          <num>690B.012</num>
+          <heading>Claims: Approval or denial; request for additional information
+or time; payment; interest on unpaid claim.</heading>
+          <subsection eId="690B-012__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsections 2, 3 and 4, an insurer shall approve or deny a claim of its insured
+relating to a contract of casualty insurance within 30 days after the insurer
+receives the claim. If the claim is approved, the insurer shall pay the claim
+within 30 days after it is approved. If the approved claim is not paid within
+that period, the insurer shall pay interest on the claim at the rate of
+interest established pursuant toNRS 99.040.
+The interest must be calculated from the date the payment is due until the
+claim is paid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-012__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the insurer requires additional
+information or time to determine whether to approve or deny a claim, it shall
+notify the policyholder of its request for the additional information or time
+within 20 days after it receives the policyholderï¿½s claim, and at least once
+every 30 days thereafter, until the claim is approved or denied. The notice
+must set forth the reason why the additional information or time is required.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-012__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The insurer shall approve or deny the
+claim within:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-012__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Thirty days after it receives the additional
+information; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-012__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Thirty-one days after the last timely notice
+was provided pursuant to subsection 2,
+ï¿½whichever is
+later.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-012__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the claim is approved, the insurer
+shall pay the claim within 30 days after it is approved. If the approved claim
+is not paid within that period, the insurer shall pay interest on the claim in
+the manner prescribed in subsection 1.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+1329)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-016">
+          <num>690B.016</num>
+          <heading>Insurer required to notify insured or claimant of right to have
+repairs made at licensed body shop of his or her choice; prohibition against
+insurerï¿½s knowing recommendation of unlicensed body shop or required
+patronization of particular body shop; insurer entitled to rely on validity of
+license number in estimates or invoices from body shop.</heading>
+          <subsection eId="690B-016__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An insured or a claimant under a policy
+of insurance may have repairs to a motor vehicle made at the licensed body shop
+of the insuredï¿½s or claimantï¿½s choice. An insurer of motor vehicles shall
+notify the insured or the claimant of this right when the insurer is first
+contacted concerning a claim for damage to a motor vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-016__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An insurer of motor vehicles or a
+representative of the insurer shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-016__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Knowingly recommend to an insured or a
+claimant, or direct an insured or a claimant to, a body shop in this State
+which is not licensed pursuant toNRS
+487.630;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-016__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Require an insured or a claimant to patronize
+any licensed body shop in this State in preference to another such business.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-016__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The provisions of this section do not
+require an insurer to pay more than the reasonable rate required pursuant to a
+policy of insurance for repairs to a motor vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-016__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>For the purposes of this section, an
+insurer is entitled to rely upon the validity of the license number included by
+the body shop on its estimates and invoices for repairs.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+1002; A1989,
+2045;2003,
+516;2005,
+927)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-017">
+          <num>690B.017</num>
+          <heading>Provisions for arbitration not binding.</heading>
+          <content>
+            <p>No
+provision for arbitration contained in an automobile liability or motor vehicle
+liability insurance policy delivered, issued for delivery or renewed in this
+State is binding upon the named insured or any other person who makes a claim
+under the policy.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1979,
+1517)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-020">
+          <num>690B.020</num>
+          <heading>Coverage for uninsured or hit-and-run vehicles required;
+exceptions; insolvency of insurer; payment; presumption.</heading>
+          <subsection eId="690B-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section andNRS 690B.035, no policy
+insuring against liability arising out of the ownership, maintenance or use of
+any motor vehicle may be delivered or issued for delivery in this State unless
+coverage is provided therein or supplemental thereto for the protection of
+persons insured thereunder who are legally entitled to recover damages, from
+owners or operators of uninsured or hit-and-run motor vehicles, for bodily
+injury, sickness or disease, including death, resulting from the ownership,
+maintenance or use of the uninsured or hit-and-run motor vehicle. No such
+coverage is required in or supplemental to a policy issued to the State of
+Nevada or any political subdivision thereof, or where rejected in writing, on a
+form furnished by the insurer describing the coverage being rejected, by an
+insured named therein, or upon any renewal of such a policy unless the coverage
+is then requested in writing by the named insured. The coverage required in
+this section may be referred to as ï¿½uninsured vehicle coverage.ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The amount of coverage to be provided
+must be not less than the minimum limits for liability insurance for bodily
+injury provided for underchapter 485of NRS,
+but may be in any greater amount.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>For the purposes of this section, the
+term ï¿½uninsured motor vehicleï¿½ means a motor vehicle:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-020__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>With respect to which there is not available
+at the Department of Motor Vehicles evidence of financial responsibility as
+required bychapter 485of NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-020__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>With respect to the ownership, maintenance or
+use of which there is no liability insurance for bodily injury or bond
+applicable at the time of the crash or, to the extent of such deficiency, any
+liability insurance for bodily injury or bond in force is less than the amount
+required byNRS 485.210;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-020__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>With respect to the ownership, maintenance or
+use of which the company writing any applicable liability insurance for bodily
+injury or bond denies coverage or is insolvent;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-020__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Used without the permission of its owner if
+there is no liability insurance for bodily injury or bond applicable to the
+operator;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-020__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Used with the permission of its owner who has
+insurance which does not provide coverage for the operation of the motor
+vehicle by any person other than the owner if there is no liability insurance
+for bodily injury or bond applicable to the operator; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-020__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The owner or operator of which is unknown or
+after reasonable diligence cannot be found if:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="690B-020__subsec_3__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The bodily injury or death has
+resulted from physical contact of the automobile with the named insured or the
+person claiming under the named insured or with an automobile which the named
+insured or such a person is occupying; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="690B-020__subsec_3__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The named insured or someone on behalf
+of the named insured has reported the crash within the time required byNRS 484E.030,484E.040or484E.050to the police department of the
+city where it occurred or, if it occurred in an unincorporated area, to the
+sheriff of the county or to the Nevada Highway Patrol.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-020__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>For the purposes of this section, the
+term ï¿½uninsured motor vehicleï¿½ also includes, subject to the terms and
+conditions of coverage, an insured other motor vehicle where:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-020__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The liability insurer of the other motor
+vehicle is unable because of its insolvency to make payment with respect to the
+legal liability of its insured within the limits specified in its policy;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-020__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The occurrence out of which legal liability
+arose took place while the uninsured vehicle coverage required under paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-020__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>was in effect; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-020__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The insolvency of the liability insurer of
+the other motor vehicle existed at the time of, or within 2 years after, the
+occurrence.
+ï¿½Nothing
+contained in this subsection prevents any insurer from providing protection
+from insolvency to its insureds under more favorable terms.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-020__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If payment is made to any person under
+uninsured vehicle coverage, and subject to the terms of the coverage, to the
+extent of such payment the insurer is entitled to the proceeds of any
+settlement or recovery from any person legally responsible for the bodily
+injury as to which payment was made, and to amounts recoverable from the assets
+of the insolvent insurer of the other motor vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-020__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A vehicle involved in a crash which
+results in bodily injury or death shall be presumed to be an uninsured motor
+vehicle if no evidence of financial responsibility is supplied to the
+Department of Motor Vehicles in the manner required bychapter 485of NRS within 60 days after the crash
+occurs.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1777; A1971,
+1954;1973,
+839;1977,
+438;1979,
+1518;1985,
+1999;1987,
+1098;2001,
+2635;2011,
+114;2015,
+1695;2021,
+127)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-023">
+          <num>690B.023</num>
+          <heading>Evidence of insurance: Insurer required to provide to insured on
+approved form; contents; electronic format; liability for damages to mobile
+electronic device presented to provide such evidence.</heading>
+          <subsection eId="690B-023__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, if insurance for the operation of a motor vehicle required
+pursuant toNRS 485.185is provided by a
+contract of insurance, the insurer shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-023__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Provide evidence of insurance to the insured
+on a form approved by the Commissioner. The evidence of insurance must include:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="690B-023__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The name and address of the
+policyholder;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="690B-023__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The name and address of the insurer;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="690B-023__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Vehicle information, consisting of:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) The year, make and complete
+identification number of the insured vehicle or vehicles; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) The word ï¿½Fleetï¿½ and the name
+of the registered owner if the vehicle is covered under a fleet policy written
+on an any auto basis or blanket policy basis;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="690B-023__subsec_1__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>The term of the insurance, including
+the day, month and year on which the policy:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) Becomes effective; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) Expires;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="690B-023__subsec_1__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>The number of the policy;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="690B-023__subsec_1__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>A statement that the coverage meets
+the requirements set forth inNRS 485.185;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="690B-023__subsec_1__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>The statement ï¿½This evidence of
+insurance must be carried in the insured motor vehicle for production upon
+demand.ï¿½ The statement must be prominently displayed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="690B-023__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide new evidence of insurance if:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="690B-023__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The information regarding the insured
+vehicle or vehicles required pursuant to subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="690B-023__subsec_1__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="690B-023__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>no
+longer is accurate;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="690B-023__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>An additional motor vehicle is added
+to the policy;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="690B-023__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>A new number is assigned to the
+policy; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="690B-023__subsec_1__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>The insured notifies the insurer that
+the original evidence of insurance has been lost.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-023__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon the request of an insured and to
+the extent available, the insurer may provide the evidence of insurance in an
+electronic format, approved by the Commissioner, that can be displayed on a
+mobile electronic device. The electronic format must provide for the inclusion
+of all information required by paragraph</p>
+            </content>
+            <paragraph eId="690B-023__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1. An insured who
+makes such a request may also request that the insurer provide the insured with
+the form provided for in subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-023__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person who presents a mobile
+electronic device to another person to provide evidence of insurance assumes
+all liability for any resulting damage to the mobile electronic device.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1695; A1985,
+1560;1987,
+1100,1498,1499;1991,
+1632;1993,
+2490;1995,
+2743;2011,
+3385;2013,
+1890;2015,
+798,3485)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-024">
+          <num>690B.024</num>
+          <heading>Authority of claimant to authorize other party to receive
+certain information; obligation of insurer of other party to provide certain
+information relating to claim for compensation under policy of motor vehicle
+insurance.</heading>
+          <subsection eId="690B-024__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A claimant or any attorney representing
+the claimant may provide to the party against whom a claim is asserted for
+compensation or damages for any mental or physical injury under a policy of
+motor vehicle insurance or any attorney of the party and to the insurer of the
+party a written authorization to receive all medical reports, records, films
+and bills related to the claim from the providers of health care. An
+authorization so provided may not be revoked without cause.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-024__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a written authorization is provided
+pursuant to subsection 1, the insurer of the party shall, within 5 business
+days after receiving the written authorization, disclose to the claimant or any
+attorney representing the claimant a copy of the declarations page of the
+policy of motor vehicle insurance. The insurer of the party may redact personal
+information from the declarations page of the policy, except that the name of
+the party and the policy limits must not be redacted.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-024__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>At the written request of the claimant
+or the attorney of the claimant, copies of all medical reports, records, films
+and bills obtained by a written authorization pursuant to subsection 1 must be
+provided to the claimant or the attorney of the claimant within 30 days after
+the date they are received by the party, any attorney of the party or the
+insurer of the party. If the claimant or the attorney of the claimant makes a
+written request for the medical reports, records, films and bills, the claimant
+or the attorney of the claimant shall pay for the reasonable costs of copying
+the medical reports, records, films and bills.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-024__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½provider of
+health careï¿½ has the meaning ascribed to it inNRS 629.031.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+2499; A2021,
+1420)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-025">
+          <num>690B.025</num>
+          <heading>Primary and excess coverage; garage operator who loans vehicle
+to customer required to provide notice to customer regarding coverage;
+modification of provision by written agreement; applicability.</heading>
+          <subsection eId="690B-025__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If two or more policies of liability
+insurance covering the same motor vehicle are in effect when the motor vehicle
+is involved in an incident which results in a claim against the policies:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-025__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the motor vehicle was being operated by a
+person engaged in the business of selling, repairing, servicing, delivering,
+testing, road testing, parking or storing motor vehicles, or by an agent or
+employee of the person while in pursuit of that business, the policy issued to
+that business shall be deemed to be primary and any other policy shall be
+deemed to provide excess coverage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-025__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the motor vehicle was being operated by a
+person described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-025__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>in any pursuit other than of that business,
+or by some other person, the policy issued to the operator of the vehicle shall
+be deemed to be primary and any policy issued to the business shall be deemed
+to provide excess coverage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-025__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If, while the vehicle of the customer was
+being repaired or serviced in the bailment of a garage operator engaged in the
+business of repairing or servicing motor vehicles, the customer is lent by the
+garage operator a motor vehicle for use during the time required to complete
+the repairs or service, the policy issued to the customer shall be deemed to be
+primary and all other policies shall be deemed to provide excess coverage. A
+garage operator engaged in the business of repairing or servicing motor
+vehicles who loans a customer a vehicle for use during the time required to
+complete the repairs or service shall provide express notice to the customer
+that the customerï¿½s policy of insurance will provide primary coverage while the
+customer is operating that vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-025__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions in subsection 1 may be
+modified but only by a written agreement signed by all the insurers who have
+issued policies applicable to a claim described in subsection 1 and by all the
+insureds under those policies.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-025__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>This section applies only to policies
+of liability insurance issued or renewed on or after July 1, 1981.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+180; A1987,
+451)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-028">
+          <num>690B.028</num>
+          <heading>Insurer prohibited from taking adverse action because of
+violation of speed limit in certain cases.</heading>
+          <content>
+            <p>An
+insurer shall not impose on an insured or group of insured an increase in rates
+for motor vehicle insurance because of a conviction or a finding by a juvenile
+court of a violation of the speed limit under the circumstances described in
+subsection 1 ofNRS 484B.617, nor
+shall an insurer cancel or refuse to renew a policy of insurance for that
+reason.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2525)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-029">
+          <num>690B.029</num>
+          <heading>Mandatory provision for reduction of premiums for persons 55
+years of age or older in certain circumstances; requirements relating to course
+of traffic safety; approval of policy by Commissioner.</heading>
+          <subsection eId="690B-029__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A policy of insurance against liability
+arising out of the ownership, maintenance or use of a motor vehicle delivered
+or issued for delivery in this State to a person who is 55 years of age or
+older must contain a provision for the reduction in the premiums for 3-year
+periods if the insured:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-029__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Successfully completes, after attaining 55
+years of age and every 3 years thereafter, a course of traffic safety approved
+by the Department of Motor Vehicles; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-029__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For the 3-year period before completing the
+course of traffic safety and each 3-year period thereafter:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="690B-029__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Is not involved in a crash involving a
+motor vehicle for which the insured is at fault;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="690B-029__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Maintains a driving record free of
+violations; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="690B-029__subsec_1__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Has not been convicted of, or entered
+a plea of guilty, guilty but mentally ill or nolo contendere to, a moving
+traffic violation or an offense involving:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) The operation of a motor vehicle
+while under the influence of intoxicating liquor or a controlled substance; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) Any other conduct prohibited byNRS 484C.110,484C.120,484C.130or484C.430or a law of any other
+jurisdiction that prohibits the same or similar conduct.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-029__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The reduction in the premiums provided
+for in subsection 1 must be based on the actuarial and loss experience data
+available to each insurer and must be approved by the Commissioner. Each
+reduction must be calculated based on the amount of the premium before any
+reduction in that premium is made pursuant to this section, and not on the
+amount of the premium once it has been reduced.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-029__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A course of traffic safety that an
+insured is required to complete as the result of moving traffic violations must
+not be used as the basis for a reduction in premiums pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-029__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The organization that offers a course
+of traffic safety approved by the Department of Motor Vehicles shall issue a
+certificate to each person who successfully completes the course. A person must
+use the certificate to qualify for the reduction in the premiums pursuant to
+this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-029__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Commissioner shall review and
+approve or disapprove a policy of insurance that offers a reduction in the
+premiums pursuant to subsection 1. An insurer must receive written approval
+from the Commissioner before delivering or issuing a policy with a provision
+containing such a reduction.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+1679; A1995,
+2481;1999,
+3436;2001,
+2636;2003,
+1505;2005,
+172;2007,
+1484;2009,
+1890;2015,
+1697)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-031">
+          <num>690B.031</num>
+          <heading>Reduction in premium of certain policies of insurance required
+if motor vehicle is equipped with air bag and other safety device; calculation;
+approval of Commissioner.</heading>
+          <subsection eId="690B-031__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A policy of insurance providing
+coverage arising out of the ownership, maintenance or use of a motor vehicle,
+other than a motorcycle, which is delivered or issued for delivery in this
+State and includes coverage for the payment of reasonable and necessary medical
+expenses or uninsured and underinsured motorists coverage, or both, must
+contain a provision for the reduction in the premium for such coverage if the
+motor vehicle:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-031__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is equipped with an air bag on the driverï¿½s
+side of the front seat or air bags on the driverï¿½s side and passengerï¿½s side of
+the front seat; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-031__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Contains any other safety device, other than
+safety belts, which substantially enhances the safety of the occupants of the
+motor vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-031__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The reduction in premiums required by
+subsection 1 must be based upon the actuarial and loss experience data
+available to each insurer and must be approved by the Commissioner. The insurer
+may offer additional reductions in premiums pursuant to the requirements set
+forth in subsection 1 if they are approved by the Commissioner. Each reduction
+must be calculated based on the amount of the premium before any reduction in
+that premium is made pursuant to this section, and not on the amount of the
+premium once it has been reduced.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-031__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner shall review and
+approve or disapprove each policy of insurance that offers a reduction in the
+premiums provided for in this section. An insurer must receive the written
+approval of the Commissioner before delivering or issuing for delivery a policy
+that provides for such a reduction.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1993,
+2495; A2021,
+502)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-035">
+          <num>690B.035</num>
+          <heading>Policy covering damage to one or more of operatorï¿½s vehicles.</heading>
+          <content>
+            <p>An insurer may issue to a holder of an
+operatorï¿½s policy of liability insurance a policy covering damage to one or
+more of the operatorï¿½s vehicles. The policy is not required to provide
+liability insurance or uninsured vehicle coverage.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1098)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-037">
+          <num>690B.037</num>
+          <heading>Authority of owner or authorized agent to give consent for
+towing and storage of damaged motor vehicle.</heading>
+          <subsection eId="690B-037__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the insurer provides notice to the
+owner or the authorized agent of the owner that the motor vehicle is a total
+loss vehicle as that term is defined inNRS
+487.790, the motor vehicle to be towed and placed in storage at the
+direction and expense of the insurer; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-037__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the insurer provides notice to the
+owner or the authorized agent of the owner that the motor vehicle is a
+repairable vehicle, the motor vehicle to be towed to a repair shop designated
+by the owner or the authorized agent of the owner.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2011,
+1404)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-040">
+          <num>690B.040</num>
+          <heading>Policy providing certain automobile coverage in Mexico.</heading>
+          <content>
+            <p>An authorized casualty insurer may issue
+through its licensed agents an automobile insurance policy in which coverage
+for liability resulting from bodily injury and property damage occurring in
+Mexico is provided by an insurer authorized to transact and transacting such
+insurance in Mexico under the laws of Mexico, in a portion of such policy or
+endorsement thereon or rider attached thereto executed by or on behalf of such
+other insurer, and whether or not such other insurer is authorized to transact
+insurance in this State.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1778)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-090">
+          <num>690B.090</num>
+          <heading>Issuance authorized.</heading>
+          <subsection eId="690B-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any casualty insurer may provide
+industrial insurance pursuant to the general provisions ofchapters 616Ato617,
+inclusive, of NRS concerning the respective rights and obligations of employees
+and their employers, if the insurer:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-090__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Has a certificate of authority issued by the
+Commissioner pursuant tochapter 680Aof
+NRS; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-090__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is specifically qualified pursuant to
+paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-090__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 1 ofNRS
+681A.020.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The insurance may be purchased by
+qualified employers to secure the payment of compensation for employees injured
+in the course of employment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-090__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The employer shall bear the costs for
+private insurance.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2059)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-100">
+          <num>690B.100</num>
+          <heading>Definitions.</heading>
+          <subsection eId="690B-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Homeï¿½ means a structure used primarily
+for residential purposes and includes, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-100__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A single-family dwelling;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-100__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A unit in a multiple-family structure;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-100__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A mobile home; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-100__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The common elements of a common-interest
+community, as defined inNRS 116.017,
+and any appurtenance to the common elements.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½Insurance for home protectionï¿½ means a
+contract of insurance, which affords coverage over a specified term for a
+predetermined fee, under which a person, other than the manufacturer, builder,
+seller or lessor of the home, agrees to repair, replace or indemnify from the
+cost of repair or replacement based upon the failure of any structure,
+component, system or appliance of the home. The term does not include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-100__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A contract which insures against any
+consequential losses caused by the defects or failures.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-100__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An annual home service agreement on household
+appliances, systems and components if the agreement principally provides for
+service, repair or replacement due to normal wear and tear or inherent defect.
+Such agreements may include provisions for incidental indemnity or for service
+or repair of roof leaks.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1321; A1995,
+1630,2558;1997,
+650;1999,
+1447;2003,
+3317)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-110">
+          <num>690B.110</num>
+          <heading>Applicability of other provisions.</heading>
+          <subsection eId="690B-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as provided in subsection 2 andNRS 690B.100to690B.180, inclusive, insurance for home
+protection is subject to all applicable provisions of this Code.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions ofchapters 687Aand692Cof NRS do not apply to insurance for home protection.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1323)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-120">
+          <num>690B.120</num>
+          <heading>Exemption of person selling insurance from licensing
+requirements as agent, broker or solicitor.</heading>
+          <subsection eId="690B-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The personï¿½s sales activity is
+conducted pursuant to a written contract with the insurer which regulates his
+or her activity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The person holds a valid brokerï¿½s,
+broker-salespersonï¿½s or salespersonï¿½s license issued pursuant tochapter 645of NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1323)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-130">
+          <num>690B.130</num>
+          <heading>Deposit of securities or surety bond; maintenance of capital
+stock or surplus, premium reserves and losses and loss expense reserves.</heading>
+          <subsection eId="690B-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, an insurer who issues policies of insurance for home protection,
+other than casualty insurance, shall deposit, in accordance withchapter 682Bof NRS, securities having a market
+value of not less than $50,000, unless the insurer furnishes evidence
+satisfactory to the Commissioner of maintaining a deposit of not less than that
+amount which complies with the requirements of the state of domicile of the
+insurer and is held for the protection of all holders of insurance contracts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In lieu of the deposit of securities,
+the insurer may post with the Commissioner a surety bond of not less than
+$50,000 executed by an insurer who has a valid certificate of authority issued
+by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-130__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The insurer shall maintain:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-130__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unimpaired paid-in capital stock or
+unimpaired basic surplus, or a combination thereof, in an amount not less than
+10 percent of the amount charged as premiums for insurance currently in effect,
+but not less than $50,000, nor more than is required byNRS 680A.120for a certificate of
+authority.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-130__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Unearned premium reserves as required byNRS 681B.060.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-130__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Losses and loss expense reserves as required
+by subsection 1 ofNRS 681B.050.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1321; A1991,
+2034;1995,
+1630)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-140">
+          <num>690B.140</num>
+          <heading>Investments in tangible personal property: Limitation; waiver.</heading>
+          <content>
+            <p>An insurer who issues policies of insurance
+for home protection, other than casualty insurance, may make investments in
+tangible personal property for use in fulfilling its obligations to repair or
+replace components, systems or appliances of the home under its contracts of
+insurance for home protection, in an amount not to exceed 35 percent of its
+assets, as determined pursuant toNRS
+681B.010, unless the Commissioner, whenever the Commissioner deems it
+appropriate, waives this limitation by regulation.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1322; A1999,
+1448)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-150">
+          <num>690B.150</num>
+          <heading>Filing of annual and quarterly statements.</heading>
+          <subsection eId="690B-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The annual statement required byNRS 680A.270in the form prescribed by the
+Commissioner on or before March 1 of each year to cover the preceding calendar
+year; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The quarterly statements required byNRS 680A.270in accordance with the
+provisions of subsection 5 of that section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1322; A1991,
+2034;2019,
+1706)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-155">
+          <num>690B.155</num>
+          <heading>Provision requiring binding arbitration authorized; procedures
+for arbitration.</heading>
+          <subsection eId="690B-155__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Subject to the approval of the
+Commissioner, a contract of insurance for home protection may include a
+provision which requires the parties to the contract to submit for binding
+arbitration any dispute between the parties concerning any matter directly or
+indirectly related to, or associated with, the contract.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-155__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3, the arbitration must be conducted pursuant to the rules for
+commercial arbitration established by the American Arbitration Association. The
+insurer is responsible for any administrative fees and expenses relating to the
+arbitration, except that the insurer is not responsible for attorneyï¿½s fees and
+fees for expert witnesses unless those fees are awarded by the arbitrator.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-155__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a provision described in subsection
+1 is included in a contract of insurance for home protection, the provision
+shall not be deemed unenforceable as an unreasonable contract of adhesion if
+the provision is included in compliance with the provisions of subsection 1.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2557)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-160">
+          <num>690B.160</num>
+          <heading>Contracts: Specifications; cancellation; renewal.</heading>
+          <subsection eId="690B-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A contract of insurance for home
+protection must specify:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-160__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The structures, components, systems and
+appliances covered by the provisions of the contract.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-160__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any exclusions from and limitations on
+coverage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-160__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The period during which the contract will be
+in effect, and the renewal terms, if any.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-160__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The services to be performed by the insurer
+and the terms and conditions of the insurerï¿½s performance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-160__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The copayment, service fee or deductible
+charge, if any, to be charged to the insured.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-160__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>All limitations regarding the performance of
+services, including any restrictions as to the time during or geographical area
+within which services may be requested or will be performed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-160__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>That the insurer will commence an
+investigation of a claim upon a request from the insured by telephone, without
+any requirement that claim forms or applications be filed before the
+commencement of the investigation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-160__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>That, except in an emergency, including,
+without limitation, the loss of heating, cooling, plumbing or electrical
+service by the insured, services will be initiated by or under the direction of
+the insurer within 48 hours after the conclusion of an investigation of a
+claim. Work must commence on an emergency not later than 24 hours after the
+report of the claim. The Commissioner may adopt regulations to define
+ï¿½emergencyï¿½ for the purposes of this paragraph.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-160__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Other conditions and provisions pertaining to
+the coverage as required by the insurance laws of this State or regulations
+adopted by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Insurance for home protection may not
+be cancelled during the term for which it is issued, except:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-160__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For nonpayment of the fee for the contract.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-160__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For fraud or misrepresentation of facts
+material to the issuance or renewal of the contract.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-160__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Insurance which provides coverage before the
+home is sold if the sale is not made. The cancellation must be made in
+accordance with the contract provisions.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-160__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Insurance for home protection is not
+renewable unless its terms provide otherwise.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1322; A1999,
+1448)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-170">
+          <num>690B.170</num>
+          <heading>Contracts: Regulations on content.</heading>
+          <subsection eId="690B-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Obtain fairness in the exclusions from
+the coverage provided; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Avoid illusory coverage caused by the
+nature or extent of the coverage exclusions.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1323)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-175">
+          <num>690B.175</num>
+          <heading>Regulations regarding administrative expenses for insurers and
+accounting standards.</heading>
+          <subsection eId="690B-175__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Defining administrative expenses for
+insurers who issue policies of insurance for home protection, and setting
+limitations on the amounts of such expenses as a percentage of total premiums;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-175__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Defining accounting standards to be
+used for such insurers.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1630)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-180">
+          <num>690B.180</num>
+          <heading>Prohibited acts.</heading>
+          <subsection eId="690B-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Engage in any other business of
+insurance or real estate pursuant tochapters 645to645H, inclusive, of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Assume reinsurance from any other
+insurer.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1322; A1999,
+1449;2017,
+3105)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-200">
+          <num>690B.200</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 690B.200to690B.360, inclusive, unless the context
+otherwise requires, the words and terms defined inNRS 690B.210to690B.240, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+921,3479;
+A2017,
+2376)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-210">
+          <num>690B.210</num>
+          <heading>ï¿½Claims-made policyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Claims-made
+policyï¿½ means a policy of professional liability insurance that provides
+coverage only for claims that arise from incidents or events which occur while
+the policy is in force and which are reported to the insurer while the policy
+is in force.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+921,3479)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-220">
+          <num>690B.220</num>
+          <heading>ï¿½Extended reporting endorsementï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Extended reporting endorsementï¿½ means an
+endorsement to a claims-made policy which requires the payment of a separate
+premium and which provides coverage for claims that arise from incidents or
+events which occur while the claims-made policy is in force but which are
+reported to the insurer after the claims-made policy is terminated.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+921,3479)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-230">
+          <num>690B.230</num>
+          <heading>ï¿½Practitionerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Practitionerï¿½
+means a practitioner who provides health care.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+922,3479)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-240">
+          <num>690B.240</num>
+          <heading>ï¿½Professional liability insuranceï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Professional liability insuranceï¿½ means a
+policy of insurance covering the liability of a practitioner for a breach of
+his or her professional duty toward a patient.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+922,3479)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-250">
+          <num>690B.250</num>
+          <heading>Practitioners of the healing arts: Reports to licensing boards;
+availability for public inspection.</heading>
+          <subsection eId="690B-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each insurer which issues a policy of
+insurance covering the liability of a practitioner licensed pursuant tochapters 630to640,
+inclusive, of NRS or who holds a license or limited license issued pursuant tochapter 653of NRS for a breach of his or her
+professional duty toward a patient shall report to the board which licensed the
+practitioner within 45 days each settlement or award made or judgment rendered
+by reason of a claim, if the settlement, award or judgment is for more than
+$5,000, giving the name of the claimant and the practitioner and the
+circumstances of the case.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A practitioner licensed pursuant tochapters 630to640,
+inclusive, of NRS or who holds a license or limited license issued pursuant tochapter 653of NRS who does not have insurance
+covering liability for a breach of his or her professional duty toward a
+patient shall report to the board which issued the practitionerï¿½s license
+within 45 days of each settlement or award made or judgment rendered by reason
+of a claim, if the settlement, award or judgment is for more than $5,000,
+giving the practitionerï¿½s name, the name of the claimant and the circumstances
+of the case.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-250__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>These reports are public records and
+must be made available for public inspection within a reasonable time after
+they are received by the licensing board.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+589; A1985,
+2246;2002
+Special Session, 24;2003,
+3480;2017,
+2376;2019,
+2740;2023,
+1710)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-270">
+          <num>690B.270</num>
+          <heading>Disclosure to practitioner of reasons for failure to issue
+professional liability insurance.</heading>
+          <content>
+            <p>If
+an insurer declines to issue to a practitioner licensed pursuant tochapter 630,631,632or633of
+NRS a policy of professional liability insurance, the insurer shall, upon the
+request of the practitioner, disclose to the practitioner the reasons the
+insurer declined to issue the policy.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+3361)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-280">
+          <num>690B.280</num>
+          <heading>Disclosure to practitioner of reasons for higher premium.</heading>
+          <content>
+            <p>If an insurer, for a policy of professional
+liability insurance for a practitioner licensed pursuant tochapter 630,631,632or633of
+NRS, sets the premium for the policy for the practitioner at a rate that is
+higher than the standard rate of the insurer for the applicable type of policy
+and specialty of the practitioner, the insurer shall, upon the request of the
+practitioner, disclose the reasons the insurer set the premium for the policy
+at the higher rate.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+3361)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-290">
+          <num>690B.290</num>
+          <heading>Insurer offering to issue claims-made policy required to offer
+extended reporting endorsement to certain practitioners; disclosure of formula
+used to determine premium.</heading>
+          <subsection eId="690B-290__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Offer to issue an extended reporting
+endorsement to the practitioner; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-290__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Disclose to the practitioner the cost
+formula that the insurer uses to determine the premium for the extended
+reporting endorsement. The cost formula must be based on:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-290__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An amount that is not more than twice the
+amount of the premium for the claims-made policy at the time of the termination
+of that policy; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-290__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The rates filed by the insurer and approved
+by the Commissioner.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+922)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-300">
+          <num>690B.300</num>
+          <heading>Prohibition against setting different premium rates based on
+number of babies delivered for certain practitioners; exception.</heading>
+          <subsection eId="690B-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, if an insurer issues a policy of professional liability insurance to a
+practitioner licensed pursuant tochapter 630,632or633of
+NRS who delivers one or more babies per year, the insurer shall not set the
+premium for the policy at a rate that is different from the rate set for such a
+policy issued by the insurer to any other practitioner licensed pursuant tochapter 630,632or633of NRS who delivers one or more babies
+per year if the difference in rates is based in whole or in part upon the
+number of babies delivered per year by the practitioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If an insurer issues a policy of
+professional liability insurance to a practitioner licensed pursuant tochapter 630,632or633of NRS who delivers one or more babies
+per year, the insurer may set the premium for the policy at a rate that is different,
+based in whole or in part upon the number of babies delivered per year by the
+practitioner, from the rate set for such a policy issued by the insurer to any
+other practitioner licensed pursuant tochapter
+630,632or633of NRS who delivers one or more babies per year if the insurer:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-300__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Bases the difference upon actuarial and loss
+experience data available to the insurer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-300__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Obtains the approval of the Commissioner for
+the difference in rates.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-300__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The provisions of this section do not
+prohibit an insurer from setting the premium for a policy of professional liability
+insurance issued to a practitioner licensed pursuant tochapter 630,632or633of NRS who delivers one or more babies
+per year at a rate that is different from the rate set for such a policy issued
+by the insurer to any other practitioner licensed pursuant tochapter 630,632or633of NRS who delivers one or more babies
+per year if the difference in rates is based solely upon factors other than the
+number of babies delivered per year by the practitioner.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+922)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-310">
+          <num>690B.310</num>
+          <heading>Prohibition against confidentiality of certain information
+relating to settlement of claim or action for breach of professional duty of
+certain practitioners.</heading>
+          <subsection eId="690B-310__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If an agreement settles a claim or
+action against a practitioner licensed pursuant tochapter
+630,631,632or633of NRS for a breach of his or her
+professional duty toward a patient, the following terms of the agreement must
+not be made confidential:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-310__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The names of the parties;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-310__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The date of the incidents or events giving
+rise to the claim or action;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-310__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The nature of the claim or action as set
+forth in the complaint and the answer that is filed with the district court;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-310__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The effective date of the agreement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-310__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any provision of an agreement to settle
+a claim or action that conflicts with this section is void.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+924)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-320">
+          <num>690B.320</num>
+          <heading>Additional requirements for insurer offering to issue
+claims-made policy to certain practitioners.</heading>
+          <subsection eId="690B-320__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If an insurer offers to issue a
+claims-made policy to a practitioner licensed pursuant tochapters 630to640,
+inclusive, of NRS or who holds a license or limited license issued pursuant tochapter 653of NRS, the insurer shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-320__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Offer to issue to the practitioner an
+extended reporting endorsement without a time limitation for reporting a claim.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-320__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Disclose to the practitioner the premium for
+the extended reporting endorsement and the cost formula that the insurer uses
+to determine the premium for the extended reporting endorsement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-320__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Disclose to the practitioner the portion of
+the premium attributable to funding the extended reporting endorsement offered
+at no additional cost to the practitioner in the event of the practitionerï¿½s
+death, disability or retirement, if such a benefit is offered.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-320__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Disclose to the practitioner the vesting
+requirements for the extended reporting endorsement offered at no additional
+cost to the practitioner in the event of the practitionerï¿½s death or
+retirement, if such a benefit is offered. If such a benefit is not offered, the
+absence of such a benefit must be disclosed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-320__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Include, as part of the insurance contract,
+language which must be approved by the Commissioner and which must be
+substantially similar to the following:
+If we adopt any revision that would
+broaden the coverage under this policy without any additional premium either
+within the policy period or within 60 days before the policy period, the
+broadened coverage will immediately apply to this policy.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-320__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The disclosures required by subsection
+1 must be made as part of the offer and acceptance at the inception of the
+policy and again at each renewal in the form of an endorsement attached to the
+insurance contract and approved by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-320__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The requirements set forth in this
+section are in addition to the requirements set forth inNRS 690B.290.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+3479; A2019,
+2740;2023,
+1711)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-330">
+          <num>690B.330</num>
+          <heading>Required reduction in premium for implementation of qualified
+risk management system; regulations; applicability.</heading>
+          <subsection eId="690B-330__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In each rating plan of an insurer that
+issues a policy of professional liability insurance to a practitioner licensed
+pursuant tochapter 630or633of NRS, the insurer shall provide for a
+reduction in the premium for the policy if the practitioner implements a
+qualified risk management system. The amount of the reduction in the premium
+must be determined by the Commissioner in accordance with the applicable
+standards for rates established inNRS
+686B.010to686B.1799, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-330__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A qualified risk management system must
+comply with all requirements established by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-330__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner shall adopt
+regulations to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-330__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Establish the requirements for a qualified
+risk management system; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-330__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Carry out the provisions of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-330__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The provisions of this section apply to
+all rating plans which an insurer that issues a policy of professional
+liability insurance to a practitioner licensed pursuant tochapter 630or633of NRS files with the Commissioner on and after the effective date of the
+regulations adopted by the Commissioner pursuant to this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+3480; A2019,
+1440)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-350">
+          <num>690B.350</num>
+          <heading>Essential medical specialties: Determination, cancellation,
+termination or nonrenewal of professional liability insurance.</heading>
+          <subsection eId="690B-350__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The requirements of this section apply
+only if, after a hearing convened at the discretion of the Commissioner, the
+Commissioner determines that the market for professional liability insurance
+issued to any class, type or specialty of practitioner licensed pursuant tochapter 630,631or633of NRS is not competitive and that such
+insurance is unavailable or unaffordable for a substantial number of such
+practitioners.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-350__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Commissioner convenes a hearing
+pursuant to subsection 1 and issues a finding that the market for professional
+liability insurance issued to any class, type or specialty of practitioner
+licensed pursuant tochapter 630,631or633of
+NRS is not competitive, the Commissioner may designate that class, type or
+specialty of practitioner to be an essential medical specialty.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-350__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, if an insurer intends to cancel, terminate or otherwise not renew all
+policies of professional liability insurance that it has issued to any class,
+type or specialty of practitioner licensed pursuant tochapter 630,631or633of NRS, the insurer must provide 120
+daysï¿½ notice of its intended action to the Commissioner and the practitioners
+before its intended action becomes effective.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-350__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If an insurer intends to cancel,
+terminate or otherwise not renew a specific policy of professional liability
+insurance that it has issued to a practitioner who is practicing in one or more
+of the essential medical specialties designated by the Commissioner:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-350__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The insurer must provide 120 daysï¿½ notice to
+the practitioner before its intended action becomes effective; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-350__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Commissioner may require the insurer to
+delay its intended action for a period of not more than 60 days if the
+Commissioner determines that a replacement policy is not readily available to
+the practitioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-350__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If an insurer intends to cancel,
+terminate or otherwise not renew all policies of professional liability
+insurance that it has issued to practitioners who are practicing in one or more
+of the essential medical specialties designated by the Commissioner:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-350__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The insurer must provide 120 daysï¿½ notice of
+its intended action to the Commissioner and the practitioners before its
+intended action becomes effective; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-350__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Commissioner may require the insurer to
+delay its intended action for a period of not more than 60 days if the
+Commissioner determines that replacement policies are not readily available to
+the practitioners.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-350__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Commissioner may adopt any
+regulations that are necessary to carry out the provisions of this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+922; A2003,
+3361;2017,
+2377)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-360">
+          <num>690B.360</num>
+          <heading>Information pertinent to monitoring compliance with applicable
+standards for rates: Commissioner authorized to collect; analysis; report to
+Legislature required under certain circumstances.</heading>
+          <subsection eId="690B-360__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner may collect all
+information which is pertinent to monitoring whether an insurer that issues
+professional liability insurance for a practitioner licensed pursuant tochapter 630,631,632or633of
+NRS is complying with the applicable standards for rates established inNRS 686B.010to686B.1799, inclusive. Such information
+may include, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-360__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The amount of gross premiums collected with
+regard to each medical specialty;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-360__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Information relating to loss ratios; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-360__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Information reported pursuant toNRS 679B.430and679B.440.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-360__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In addition to the information
+collected pursuant to subsection 1, the Commissioner may request any additional
+information from an insurer:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-360__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Whose rates and credit utilization are
+materially different from other insurers in the market for professional
+liability insurance for a practitioner licensed pursuant tochapter 630,631,632or633of
+NRS in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-360__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Whose credit utilization shows a substantial
+change from the previous year; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-360__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Whose information collected pursuant to
+subsection 1 indicates a potentially adverse trend.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-360__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Commissioner requests additional
+information from an insurer pursuant to subsection 2, the Commissioner may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-360__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Determine whether the additional information
+offers a reasonable explanation for the results described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-360__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-360__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-360__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 2; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-360__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Take any steps permitted by law that are
+necessary and appropriate to assure the ongoing stability of the market for
+professional liability insurance for a practitioner licensed pursuant tochapter 630,631,632or633of
+NRS in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-360__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>On an ongoing basis, the Commissioner
+may analyze and evaluate the information collected pursuant to this section to
+determine trends in and measure the health of the market for professional
+liability insurance for a practitioner licensed pursuant tochapter 630,631,632or633of
+NRS in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-360__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If the Commissioner convenes a hearing
+pursuant to subsection 1 ofNRS 690B.350and determines that the market for professional liability insurance issued to
+any class, type or specialty of practitioner licensed pursuant tochapter 630,631or633of NRS is not competitive and that such
+insurance is unavailable or unaffordable for a substantial number of such
+practitioners, the Commissioner shall prepare and submit a report of the
+Commissionerï¿½s findings and recommendations to the Director of the Legislative
+Counsel Bureau for transmittal to members of the Legislature.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+923; A2017,
+2378;2019,
+1440,1706)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-400">
+          <num>690B.400</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 690B.400to690B.495, inclusive, the words and terms
+defined inNRS 690B.410to690B.430, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1375,1398;
+A2021,
+3763)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-410">
+          <num>690B.410</num>
+          <heading>ï¿½Driverï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Driverï¿½
+has the meaning ascribed to it inNRS
+706A.040.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1375,1398)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-415">
+          <num>690B.415</num>
+          <heading>ï¿½Monitored autonomous vehicle providerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Monitored autonomous vehicle providerï¿½ has
+the meaning ascribed to it inNRS 706A.047.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3762)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-420">
+          <num>690B.420</num>
+          <heading>ï¿½Transportation network companyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Transportation network companyï¿½ has the
+meaning ascribed to it inNRS 706A.050.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1375,1398)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-425">
+          <num>690B.425</num>
+          <heading>ï¿½Transportation network company insuranceï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Transportation network company insuranceï¿½
+means a policy of insurance that includes coverage specifically for the use of
+a vehicle by a driver or monitored autonomous vehicle provider pursuant toNRS 690B.400to690B.495, inclusive.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1375,1398;
+A2021,
+3763)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-430">
+          <num>690B.430</num>
+          <heading>ï¿½Transportation servicesï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Transportation
+servicesï¿½ has the meaning ascribed to it inNRS
+706A.060.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1375,1398)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-450">
+          <num>690B.450</num>
+          <heading>Applicability.</heading>
+          <content>
+            <p>The
+provisions ofNRS 690B.400to690B.495, inclusive, do not apply to a
+person who is regulated pursuant tochapter 704or706of NRS unless the person holds a permit
+issued pursuant toNRS 706A.130.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1375,1398;
+A2021,
+3763)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-460">
+          <num>690B.460</num>
+          <heading>Required disclosures by transportation network companies to
+drivers.</heading>
+          <subsection eId="690B-460__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Disclose the insurance coverage and
+limits of liability that the transportation network company provides for a
+driver while the driver is providing transportation services; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-460__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Notify the person that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-460__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>His or her insurance for the operation of a
+motor vehicle required pursuant toNRS
+485.185may not provide coverage for the use of a motor vehicle to provide
+transportation services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-460__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If comprehensive or collision coverage was
+purchased in addition to such insurance, the comprehensive or collision
+coverage may not apply to any damage which results from the use of the motor
+vehicle while a driver is providing transportation services or logged into the
+digital network or software application service of a transportation network
+company and available to receive requests for transportation services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-460__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Disclose to the person that, if there
+is a lien against a vehicle used by a driver to provide transportation
+services, the driver must notify the lienholder that the vehicle is being used
+to provide transportation services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-460__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Disclose to the person that the use of
+a vehicle to provide transportation services may violate the contract between a
+driver and a lienholder.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1376,1398)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-470">
+          <num>690B.470</num>
+          <heading>Transportation network company insurance: Minimum coverage
+requirements for drivers, transportation network companies and monitored autonomous
+vehicle providers; additional coverage; duties of insurer; payment of claims;
+transportation network company not deemed owner of vehicle.</heading>
+          <subsection eId="690B-470__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every transportation network company or
+driver shall continuously provide, during any period in which the driver is
+providing transportation services, transportation network company insurance
+provided by an insurance company licensed by the Division of Insurance of the
+Department of Business and Industry and approved to do business in this State
+or a broker licensed pursuant tochapter 685Aof NRS or procured directly from a nonadmitted insurer, as defined inNRS 685A.0375:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-470__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In an amount of not less than $1,500,000 for
+bodily injury to or death of one or more persons and injury to or destruction
+of property of others in any one accident or motor vehicle crash that occurs
+while the driver is providing transportation services;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-470__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In an amount of not less than $50,000 for
+bodily injury to or death of one person in any one accident or motor vehicle
+crash that occurs while the driver is logged into the digital network or
+software application service of the transportation network company and
+available to receive requests for transportation services but is not otherwise
+providing transportation services;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-470__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Subject to the minimum amount for one person
+required by paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-470__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>, in an amount of not less than $100,000 for bodily
+injury to or death of two or more persons in any one accident or motor vehicle
+crash that occurs while the driver is logged into the digital network or
+software application service of the transportation network company and
+available to receive requests for transportation services but is not otherwise
+providing transportation services; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-470__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In an amount of not less than $25,000 for
+injury to or destruction of property of others in any one accident or motor
+vehicle crash that occurs while the driver is logged into the digital network
+or software application service of the transportation network company and
+available to receive requests for transportation services but is not otherwise
+providing transportation services,
+ï¿½for the
+payment of tort liabilities arising from the maintenance or use of the motor
+vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-470__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Every monitored autonomous vehicle
+provider shall continuously provide, during any period in which a monitored
+autonomous vehicle provider is operating a monitored autonomous vehicle,
+transportation network company insurance provided by an insurance company
+licensed by the Division of Insurance of the Department of Business and
+Industry and approved to do business in this State or a broker licensed
+pursuant tochapter 685Aof NRS or procured
+directly from a nonadmitted insurer, as defined inNRS 685A.0375, in an amount of not less
+than $1,500,000 for bodily injury to or destruction of property of others in
+any one accident or motor vehicle crash that occurs while the monitored
+autonomous vehicle provider is operating a monitored autonomous vehicle for the
+payment of tort liabilities arising from the maintenance or use of the monitored
+autonomous vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-470__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The transportation network company
+insurance required by subsection 1 or 2, as applicable, may be provided through
+one or a combination of insurance policies provided by the transportation
+network company, the driver, the monitored autonomous vehicle provider, both
+the transportation network company and the driver or both the transportation
+network company and the monitored autonomous vehicle provider.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-470__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Every transportation network company
+shall continuously provide, during any period in which the driver or monitored
+autonomous vehicle provider is providing transportation services,
+transportation network company insurance provided by an insurance company
+licensed by the Division of Insurance of the Department of Business and
+Industry and approved to do business in this State or a broker licensed
+pursuant tochapter 685Aof NRS or procured
+directly from a nonadmitted insurer, as defined inNRS 685A.0375, which meets the
+requirements of subsection 1 or 2, as applicable, as primary insurance if the
+insurance provided by the driver or monitored autonomous vehicle provider:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-470__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Lapses; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-470__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Fails to meet the requirements of subsection
+1 or 2, as applicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-470__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Notwithstanding the provisions ofNRS 485.185and485.186which require the owner or operator
+of a motor vehicle to provide insurance, transportation network company
+insurance shall be deemed to satisfy the requirements ofNRS 485.185or485.186, as appropriate, regardless of
+whether the insurance is provided by the transportation network company, the
+driver, the monitored autonomous vehicle provider, both the transportation
+network company and the driver or both the transportation network company and
+the monitored autonomous vehicle provider, if the transportation network
+company insurance otherwise satisfies the requirements ofNRS 485.185or485.186, as appropriate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-470__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>In addition to the coverage required
+pursuant to subsection 1 or 2, as applicable, a policy of transportation
+network company insurance may include additional coverage, including, without
+limitation, coverage for medical payments, coverage for uninsured or
+underinsured motorists, comprehensive coverage and collision coverage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-470__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>An insurer who provides transportation
+network company insurance shall not require a policy of insurance for the
+operation of a motor vehicle required pursuant toNRS 485.185or485.186, as appropriate, to deny a claim
+before the transportation network company insurance provides coverage for a
+claim.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-470__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>An insurer who provides transportation
+network company insurance has a duty to defend and indemnify the driver or
+monitored autonomous vehicle provider and the transportation network company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-470__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>An insurer who provides transportation
+network company insurance which includes comprehensive coverage or collision
+coverage for the operation of a motor vehicle against which a lienholder holds
+a lien shall issue any payment for a claim under such coverage:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-470__subsec_9__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Directly to the person who performs repairs
+upon the vehicle; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-470__subsec_9__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Jointly to the owner of the vehicle and the
+lienholder.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-470__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>A transportation network company that
+provides transportation network company insurance for a motor vehicle is not
+deemed to be the owner of the motor vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-470__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>As used in this section, ï¿½monitored
+autonomous vehicleï¿½ has the meaning ascribed to it inNRS 706A.045.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1376,1398;
+A2021,
+3763)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-480">
+          <num>690B.480</num>
+          <heading>Insurer not required to offer transportation network company
+insurance; authority of insurer to offer transportation network company
+insurance and charge additional premium; rights of insurer excluding
+transportation network company insurance coverage.</heading>
+          <subsection eId="690B-480__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A policy of insurance for the operation
+of a motor vehicle required pursuant toNRS
+485.185or485.186, as appropriate,
+is not required to include transportation network company insurance. An insurer
+providing a policy which excludes transportation network company insurance does
+not have a duty to defend or indemnify a driver or monitored autonomous vehicle
+provider for any claim arising during any period in which the driver or
+monitored autonomous vehicle provider is logged into the digital network or
+software application service of the transportation network company, available
+to receive requests for transportation services or providing transportation
+services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-480__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An insurer who provides a policy of
+insurance for the operation of a motor vehicle required pursuant toNRS 485.185or485.186, as appropriate, may include
+transportation network company insurance in such a policy. An insurer may
+charge an additional premium for the inclusion of transportation network
+company insurance in such a policy.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-480__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An insurer who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-480__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Defends or indemnifies a driver or monitored
+autonomous vehicle provider for a claim arising during any period in which the
+driver or monitored autonomous vehicle provider is logged into the digital
+network or software application service of the transportation network company,
+available to receive requests for transportation services or providing
+transportation services; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-480__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Excludes transportation network company
+insurance from the policy of insurance for the operation of a motor vehicle
+provided to the driver or monitored autonomous vehicle provider,
+ï¿½has the
+right of contribution against other insurers who provide coverage to the driver
+or monitored autonomous vehicle provider to satisfy the coverage required byNRS 690B.470at the time of the loss.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1377,1400;
+A2021,
+3765)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-490">
+          <num>690B.490</num>
+          <heading>Required cooperation and sharing of information during
+investigation.</heading>
+          <subsection eId="690B-490__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The date and time of an accident or
+motor vehicle crash involving a driver or monitored autonomous vehicle
+provider.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-490__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The dates and times that the driver or
+monitored autonomous vehicle provider involved in an accident or motor vehicle
+crash logged into the digital network or software application service of the
+transportation network company for a period of 12 hours immediately preceding
+and 12 hours immediately following the accident or motor vehicle crash.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-490__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The dates and times that the driver or
+monitored autonomous vehicle provider involved in an accident or motor vehicle
+crash logged out of the digital network or software application service of the
+transportation network company for a period of 12 hours immediately preceding
+and 12 hours immediately following the accident or motor vehicle crash.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-490__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A clear description of the coverage, exclusions
+and limits provided under any policy of transportation network company
+insurance which applies.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1378,1400;
+A2021,
+3766)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-493">
+          <num>690B.493</num>
+          <heading>Monitored autonomous vehicle required to contain evidence of
+coverage; provision of proof of coverage and certain disclosure to law
+enforcement and other party if vehicle involved in accident or motor vehicle
+crash.</heading>
+          <subsection eId="690B-493__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A monitored autonomous vehicle provider
+shall ensure that proof of coverage under a policy of transportation network
+company insurance is contained within the monitored autonomous vehicle of the
+monitored autonomous vehicle provider at all times when the monitored
+autonomous vehicle provider is operating the monitored autonomous vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-493__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the monitored autonomous vehicle of
+a monitored autonomous vehicle provider is involved in an accident or motor
+vehicle crash, the monitored autonomous vehicle provider shall ensure that any
+law enforcement officer and any party with whom the monitored autonomous
+vehicle is involved in the accident or motor vehicle crash is provided with:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="690B-493__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Proof of coverage under a policy of transportation
+network company insurance; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="690B-493__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A disclosure as to whether the monitored
+autonomous vehicle provider was logged into the digital network or software
+application service of the transportation network company, available to receive
+requests for transportation services or providing transportation services at
+the time of the accident or motor vehicle crash.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="690B-493__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½monitored
+autonomous vehicleï¿½ has the meaning ascribed to it inNRS 706A.045.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3762)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_690B-495">
+          <num>690B.495</num>
+          <heading>Driver required to carry evidence of coverage; required
+provision of proof of coverage and certain disclosure to law enforcement
+officer and party required if driver involved in accident or motor vehicle
+crash.</heading>
+          <subsection eId="690B-495__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A driver shall carry proof of coverage
+under a policy of transportation network company insurance at all times when
+the driver is logged into the digital network or software application service
+of the transportation network company, available to receive requests for
+transportation services or providing transportation services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="690B-495__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A driver shall provide proof of
+coverage under a policy of transportation network company insurance and
+disclose whether he or she was logged into the digital network or software
+application service of the transportation network company, available to receive
+requests for transportation services or providing transportation services at
+the time of an accident or motor vehicle crash upon request to a law
+enforcement officer and to any party with whom the driver is involved in an
+accident or motor vehicle crash.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1378,1401)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

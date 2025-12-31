@@ -1,0 +1,4625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-548"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-548"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="548"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-548/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-548/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-548/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-548/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_548">
+        <num>548</num>
+        <heading>CONSERVATION</heading>
+        <section eId="sec_548-010">
+          <num>548.010</num>
+          <heading>Short title.</heading>
+          <content>
+            <p>This
+chapter may be known and cited as the Conservation Districts Law.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:212:1937; 1931 NCL ï¿½ 6870.01]—(NRS A1973,
+738)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-015">
+          <num>548.015</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, the following terms have the meanings attributed to them
+inNRS 548.020to548.090, inclusive, unless the context
+otherwise requires.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:212:1937; 1931 NCL ï¿½ 6870.03]—(NRS A2011,
+2480)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-020">
+          <num>548.020</num>
+          <heading>ï¿½Agencies of the United Statesï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Agencies of the United Statesï¿½ includes the
+United States of America, the Natural Resources Conservation Service and the
+Forest Service of the United States Department of Agriculture, the Bureau of
+Land Management and the Fish and Wildlife Service of the United States
+Department of the Interior, and any other agency or instrumentality, corporate
+or otherwise, of the United States of America.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:212:1937; 1931 NCL ï¿½ 6870.03]—(NRS A2015,
+1984)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-025">
+          <num>548.025</num>
+          <heading>ï¿½Agency of this Stateï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Agency
+of this Stateï¿½ includes the government of this State and any subdivision,
+agency or instrumentality, corporate or otherwise, of the government of this
+State.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:212:1937; 1931 NCL ï¿½ 6870.03]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-030">
+          <num>548.030</num>
+          <heading>ï¿½Commissionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Commissionï¿½
+means the State Conservation Commission in the State Department of Conservation
+and Natural Resources.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:212:1937; 1931 NCL ï¿½ 6870.03]—(NRS A1973,
+738;1977,
+1172)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-032">
+          <num>548.032</num>
+          <heading>ï¿½Conservation districtï¿½ and ï¿½districtï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Conservation districtï¿½ or ï¿½districtï¿½ means a
+governmental subdivision of this State, and a public body corporate and
+politic, organized in accordance with the provisions of this chapter for the
+purposes, with the powers, and subject to the restrictions set forth in this
+chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+737; A1977,
+1172)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-040">
+          <num>548.040</num>
+          <heading>ï¿½Due noticeï¿½ defined.</heading>
+          <subsection eId="548-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Due noticeï¿½ means notice:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-040__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Published at least twice, with an interval of
+at least 7 days between the two publication dates, in a newspaper or other
+publication of general circulation within the appropriate area; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-040__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If no such publication of general circulation
+is available, by posting at a reasonable number of conspicuous places within
+the appropriate area, such posting to include, where possible, posting at
+public places where it may be customary to post notices concerning county or
+municipal affairs generally.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>At any hearing held pursuant to such
+notice, at the time and place designated in such notice, adjournment may be
+made from time to time without the necessity of renewing such notice for such
+adjourned dates.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:212:1937; 1931 NCL ï¿½ 6870.03]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-045">
+          <num>548.045</num>
+          <heading>ï¿½Governmentï¿½ and ï¿½governmentalï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Governmentï¿½ or ï¿½governmentalï¿½ includes the
+government of this State, the United States Government, and any subdivision,
+agency or instrumentality, corporate or otherwise, of either of them.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:212:1937; 1931 NCL ï¿½ 6870.03]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-050">
+          <num>548.050</num>
+          <heading>ï¿½Land occupierï¿½ and ï¿½occupier of landï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Land occupierï¿½ or ï¿½occupier of landï¿½ means
+any person, firm or corporation which holds title to, or is in legal possession
+of, any lands lying within a district organized under the provisions of this
+chapter, whether as owner or as lessee or tenant under a lease or rental
+agreement for a term of 1 year or longer, but does not include transient users.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:212:1937; 1931 NCL ï¿½ 6870.03]—(NRS A1973,
+738)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-055">
+          <num>548.055</num>
+          <heading>ï¿½Nominating petitionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Nominating
+petitionï¿½ means a petition to nominate candidates for the office of supervisor
+of a conservation district.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:212:1937; 1931 NCL ï¿½ 6870.03]—(NRS A1973,
+738;1975,
+899)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-065">
+          <num>548.065</num>
+          <heading>ï¿½Petitionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Petitionï¿½
+means a petition filed under the provisions ofNRS 548.185for the creation of a district.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:212:1937; 1931 NCL ï¿½ 6870.03]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-067">
+          <num>548.067</num>
+          <heading>ï¿½Programï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Programï¿½
+means the Conservation Districts Program in the State Department of
+Conservation and Natural Resources.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2011,
+2480)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-069">
+          <num>548.069</num>
+          <heading>ï¿½Renewable natural resourcesï¿½ and ï¿½resourcesï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Renewable natural resourcesï¿½ or ï¿½resourcesï¿½
+includes land, soil, water, vegetation, trees, natural landscape and open
+space.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+737)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-075">
+          <num>548.075</num>
+          <heading>ï¿½Stateï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Stateï¿½
+means the State of Nevada.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:212:1937; 1931 NCL ï¿½ 6870.03]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-085">
+          <num>548.085</num>
+          <heading>ï¿½Supervisorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Supervisorï¿½
+means one of the members of the governing body of a district, elected or
+appointed in accordance with the provisions of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:212:1937; 1931 NCL ï¿½ 6870.03]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-090">
+          <num>548.090</num>
+          <heading>ï¿½United Statesï¿½ defined.</heading>
+          <content>
+            <p>ï¿½United
+Statesï¿½ includes the United States of America, the Natural Resources
+Conservation Service and the Forest Service of the United States Department of
+Agriculture, the Bureau of Land Management and the Fish and Wildlife Service of
+the United States Department of the Interior, and any other agency or
+instrumentality, corporate or otherwise, of the United States of America.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:212:1937; 1931 NCL ï¿½ 6870.03]—(NRS A2015,
+1984)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-095">
+          <num>548.095</num>
+          <heading>Legislative declaration: Generally.</heading>
+          <subsection eId="548-095__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>That the renewable natural resources of
+the State of Nevada are basic assets.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-095__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>That they are being affected by the
+ever-increasing demands of farm and ranch operations and by changes in land use
+from agricultural to nonagricultural uses, such as, but not limited to,
+residential and commercial developments, highways and airports.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-095__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>That conservation, protection, and
+controlled development of these renewable natural resources are necessary at
+such rate and such levels of quality as will meet the needs of the people of
+this State.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:212:1937; 1931 NCL ï¿½ 6870.02]—(NRS A1973,
+738)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-100">
+          <num>548.100</num>
+          <heading>Legislative declaration: Consequences for failure to plan for
+conservation.</heading>
+          <content>
+            <p>It is hereby
+declared, as a matter of legislative determination, that the consequences of
+failing to plan for and accomplish the conservation and controlled development of
+the renewable resources of the State of Nevada are to handicap economic
+development and cause degeneration of environmental conditions important to
+future generations.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:212:1937; 1931 NCL ï¿½ 6870.02]—(NRS A1973,
+739)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-105">
+          <num>548.105</num>
+          <heading>Legislative declaration: Leadership by local communities;
+appropriations.</heading>
+          <subsection eId="548-105__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>It is hereby declared, as a matter of
+legislative determination, that persons in local communities are best able to
+provide basic leadership and direction for the planning and accomplishment of
+the conservation and development of renewable natural resources through
+organization and operation of conservation districts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-105__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Recognizing the importance of locally
+led efforts for the conservation of renewable natural resources, the
+Legislature will strive to provide appropriations to conservation districts at
+a level comparable to the appropriations provided to similar districts in other
+western states.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:212:1937; 1931 NCL ï¿½ 6870.02]—(NRS A1973,
+740;2015,
+1984)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-110">
+          <num>548.110</num>
+          <heading>Legislative declaration: Need for conservation.</heading>
+          <content>
+            <p>It is hereby declared to be the policy of the
+Legislature to recognize the ever-increasing demands on the renewable natural
+resources of the State and the need to conserve, protect and develop such
+resources at such levels of quality as will meet the needs of the people of the
+State.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:212:1937; 1931 NCL ï¿½ 6870.02]—(NRS A1973,
+740)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-113">
+          <num>548.113</num>
+          <heading>Legislative declaration: Special expertise of conservation
+districts.</heading>
+          <content>
+            <p>It is hereby declared,
+as a matter of legislative determination, that conservation districts may be
+recognized as having special expertise regarding local conditions, conservation
+of renewable natural resources and the coordination of local programs which
+makes conservation districts uniquely suitable to serve as cooperating agencies
+for the purpose of the National Environmental Policy Act of 1969, 42 U.S.C. ï¿½ï¿½
+4321 et seq., and any other federal laws regarding land management, and to
+provide local government coordination for the purposes of the Federal Land
+Policy and Management Act of 1976, 43 U.S.C. ï¿½ï¿½ 1701 et seq., and any other
+federal laws regarding land management.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1982)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-115">
+          <num>548.115</num>
+          <heading>Creation; number and appointment of members.</heading>
+          <content>
+            <p>The State Conservation Commission, consisting
+of two ex officio members and seven members appointed by the Governor, is
+hereby created.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:212:1937; A1951,
+190]—(NRS A1973,
+741;1977,
+1244)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-120">
+          <num>548.120</num>
+          <heading>Ex officio members and alternates.</heading>
+          <subsection eId="548-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The following shall serve, ex officio,
+as members of the Commission:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-120__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Dean of the Max C. Fleischmann College of
+Agriculture of the University of Nevada, Reno.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-120__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Director of the State Department of
+Agriculture.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The ex officio members may appoint, in
+writing, alternates to attend any meeting of the Commission. Ex officio members
+or their alternates have full voting powers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An ex officio member of the Commission
+shall serve on the Commission as long as the ex officio member retains the
+office by virtue of which he or she is serving on the Commission.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:212:1937; A1951,
+190]—(NRS A1960,
+431;1961,
+513;1969,
+1443;1973,
+741;1993,
+1704;1999,
+3634)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-125">
+          <num>548.125</num>
+          <heading>Appointment and terms of office of appointed members; vacancies.</heading>
+          <subsection eId="548-125__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>For the purposes of this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-125__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Area 1 consists of Elko, Eureka, Humboldt,
+Lander and Pershing Counties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-125__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Area 2 consists of Carson City and Churchill,
+Douglas, Lyon, Mineral, Storey and Washoe Counties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-125__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Area 3 consists of Clark, Esmeralda, Lincoln,
+Nye and White Pine Counties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-125__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Not later than September 1, 1973, the
+Nevada Association of Conservation Districts shall submit to the Governor a
+list of at least 15 persons, no more than one of whom resides in any one county
+or conservation district. The list shall include five persons from each of the
+areas designated in subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-125__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Governor shall appoint to the
+Commission one person from each area for a term of 2 years, one person from
+each area for a term of 4 years, and a member at large, from any area, for a
+term of 4 years. Upon the expiration of these initial terms, each member shall
+be appointed for a term of 4 years, except to fill a vacancy for the unexpired
+term.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-125__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>At least 60 days prior to the
+expiration of each group of terms, the Nevada Association of Conservation
+Districts shall submit to the Governor a list of at least nine persons, no more
+than one of whom resides in any one county or conservation district. The list
+shall include three persons from each of the areas designated in subsection 1.
+The Governor shall appoint a person from the same area to succeed each member
+whose term expires, except that the successor of the member at large may be
+from any area.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-125__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Any appointed member who fails to
+attend three consecutive, regular meetings of the Commission shall, at the
+recommendation of the Commission, be replaced for the balance of such memberï¿½s
+term of office.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-125__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Vacancies shall be filled by
+appointment by the Governor from the names on the last list presented to the
+Governor by the Nevada Association of Conservation Districts.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:212:1937; A1951,
+190]—(NRS A1973,
+741;2021,
+94)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-135">
+          <num>548.135</num>
+          <heading>Seal.</heading>
+          <content>
+            <p>The
+Commission shall adopt a seal, which seal shall be judicially noticed.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:212:1937; A1951,
+190]—(NRS A1973,
+742)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-140">
+          <num>548.140</num>
+          <heading>Chair.</heading>
+          <content>
+            <p>The
+Commission shall designate its Chair annually from among its appointed members.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:212:1937; A1951,
+190]—(NRS A1973,
+742)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-145">
+          <num>548.145</num>
+          <heading>Compensation of members and employees; operating expenses.</heading>
+          <subsection eId="548-145__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each member of the Commission is
+entitled to receive a salary of not more than $80, as fixed by the Commission,
+for each dayï¿½s attendance at a meeting of the Commission.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-145__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>While engaged in the business of the
+Commission, each member and employee of the Commission is entitled to receive
+the per diem allowance and travel expenses provided for state officers and
+employees generally.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-145__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Director of the State Department of
+Conservation and Natural Resources shall include in his or her budget the money
+necessary for the operating expenses of the Commission.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:212:1937; A1951,
+190]—(NRS A1973,
+742;1977,
+1244;1981,
+1988;1985,
+437;1989,
+1719)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-148">
+          <num>548.148</num>
+          <heading>Meetings.</heading>
+          <content>
+            <p>The
+Commission may meet regularly at quarterly intervals. Additional meetings may
+be held as required.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+737; A1983,
+1447)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-150">
+          <num>548.150</num>
+          <heading>Quorum.</heading>
+          <content>
+            <p>A majority
+of the Commission shall constitute a quorum, and the concurrence of a majority
+of the quorum in any matter within their duties shall be required for its
+determination.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:212:1937; A1951,
+190]—(NRS A1973,
+742)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-155">
+          <num>548.155</num>
+          <heading>Personnel: Employment; compensation; surety bonds; delegation of
+authority.</heading>
+          <subsection eId="548-155__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commission may employ such
+personnel, permanent and temporary, as it may require, and shall determine
+their qualifications, duties and compensation, subject to the limitations of
+the laws of the State of Nevada.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-155__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commission may provide for the
+execution of surety bonds for all employees and officers who shall be entrusted
+with funds or property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-155__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commission may delegate to its
+Chair, to one or more of its members, or to one or more agents or employees,
+such powers and duties as it may deem proper.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:212:1937; A1951,
+190]—(NRS A1973,
+742)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-157">
+          <num>548.157</num>
+          <heading>Conservation Districts Program in State Department of
+Conservation and Natural Resources to supply staff.</heading>
+          <content>
+            <p>The
+Program shall perform staff services for the Commission in carrying out its
+responsibilities under this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+737; A2011,
+2480)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-160">
+          <num>548.160</num>
+          <heading>Rules and regulations.</heading>
+          <content>
+            <p>The
+Commission may adopt and promulgate such rules and regulations as may be
+necessary for the execution of its functions under this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:212:1937; A1951,
+190]—(NRS A1973,
+743)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-165">
+          <num>548.165</num>
+          <heading>Records.</heading>
+          <content>
+            <p>The
+Commission shall keep a full and accurate record of its official actions and
+all proceedings, and of all resolutions, regulations and orders issued or
+adopted.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:212:1937; A1951,
+190]—(NRS A1973,
+743;1979,
+118)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-170">
+          <num>548.170</num>
+          <heading>Attorney General to provide legal services.</heading>
+          <content>
+            <p>The Attorney General shall provide such legal
+services as the Commission may require.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:212:1937; A1951,
+190]—(NRS A1973,
+743)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-175">
+          <num>548.175</num>
+          <heading>General powers and duties.</heading>
+          <subsection eId="548-175__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To carry out the policies of this State
+in programs at the state level for the conservation of the renewable natural
+resources of this State and to represent the State in matters affecting such
+resources.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-175__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To offer such assistance as may be
+appropriate to the supervisors of conservation districts in the carrying out of
+any of their powers and programs, to propose programs and to assist and guide
+districts in the preparation and carrying out of programs authorized under this
+chapter, to review district programs, to coordinate the programs of the
+districts and resolve any conflicts in such programs, and to facilitate,
+promote, assist, harmonize, coordinate and guide the programs and activities of
+districts as they relate to other special-purpose districts, counties and other
+public agencies.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-175__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>To keep the supervisors of each of the
+districts informed of the activities and experience of all other districts
+organized pursuant to this chapter, and to facilitate an interchange of advice
+and experience among those districts and promote cooperation among them.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-175__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>To secure the cooperation and
+assistance of the United States, any of its agencies and of other agencies of
+this State in the work of conservation districts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-175__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>To serve, along with conservation
+districts, as the official state agency for cooperating with the Natural
+Resources Conservation Service of the United States Department of Agriculture
+in carrying on conservation operations within the boundaries of conservation
+districts as created under this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-175__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>To enlist the cooperation and
+collaboration of state, federal, interstate, local, public and private agencies
+with the conservation districts and to facilitate arrangements under which the
+conservation districts may serve county governing bodies and other agencies as
+their local operating agencies in the administration of any activity concerned
+with the conservation and use of renewable natural resources.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-175__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>To make available, with the assistance
+of the Program, information concerning the needs and the work of the districts
+and the Commission to the Director of the State Department of Conservation and
+Natural Resources, the Legislature, executive agencies and political
+subdivisions of this State, cooperating federal agencies and the general
+public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-175__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>To cooperate with and give such
+assistance as may be requested by cities, counties, irrigation districts, and
+other special-purpose districts in the State of Nevada for the purpose of
+cooperating with the United States through the Secretary of Agriculture in the
+furtherance of conservation, pursuant to the provisions of the Watershed
+Protection and Flood Prevention Act, 16 U.S.C. ï¿½ï¿½ 1001 et seq., and the
+requirements of other special programs of the United States Department of
+Agriculture.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-175__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>Pursuant to procedures developed
+mutually by the Commission and federal, state and local agencies that are
+authorized to plan or administer activities significantly affecting the
+conservation and use of renewable natural resources, to receive from those
+agencies, for review and comment, suitable descriptions of their plans,
+programs and activities for purposes of coordination with the conservation
+districtsï¿½ programs and to arrange for and participate in conferences necessary
+to avoid conflict among the plans and programs, to call attention to omissions
+and to avoid duplication of effort.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-175__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>To submit, with the assistance of the
+Program, a report to the Director of the State Department of Conservation and
+Natural Resources whenever the Commission determines that there exists a
+substantial conflict between the program of a district and the proposed plans
+or activities directly affecting the conservation of natural resources prepared
+by any other local governmental unit or agency of this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-175__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>By administrative order of the
+Commission, upon the written request of the board of supervisors of the
+conservation district or districts involved, with a showing that the request
+has been approved by a majority vote of the members of each of the boards
+involved:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-175__subsec_11__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To transfer lands from one district
+established under the provisions of this chapter to another.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-175__subsec_11__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To divide a single district into two or more
+districts, each of which must, thereafter, operate as a separate district under
+the provisions of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-175__subsec_11__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>To consolidate two or more districts
+established under the provisions of this chapter into a single district under
+the provisions of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-175__subsec_11__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>To inform the Program of any action taken
+pursuant to this subsection for its approval of any new name and the
+appropriate entry in the Programï¿½s records of the changes made.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-175__subsec_12">
+            <num>12.</num>
+            <content>
+              <p>To authorize the change of name of any
+district, upon receipt by the Commission of a resolution by the board of
+supervisors of the district for such a change and to present the resolution to
+the Program for processing and recording in accordance with the provisions ofNRS 548.240.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-175__subsec_13">
+            <num>13.</num>
+            <content>
+              <p>To apply for any available grants and
+to accept and use any grants, gifts or donations to make available grants of
+money to qualified conservation districts to aid the districts in carrying out
+the provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:212:1937; A1951,
+190]—(NRS A1973,
+743;1977,
+1173;1985,
+777;1995,
+1922;2005,
+121;2011,
+2481)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-178">
+          <num>548.178</num>
+          <heading>Establishment of programs for distributing grants to
+conservation districts; qualifications for grant; use of grant; distribution of
+unequal amounts; regulations.</heading>
+          <subsection eId="548-178__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commission may establish programs
+for distributing, within the limits of legislative appropriations and other
+available money, grants of money to conservation districts. Distribution of
+such grants must be made in the following manner:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-178__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided in subsection 4,
+the Commission shall distribute grants of money provided by legislative
+appropriation in equal amounts to each conservation district which the
+Commission determines qualifies for a grant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-178__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Commission may distribute grants of money
+provided by sources other than legislative appropriation in such amounts and
+subject to such conditions as the Commission determines appropriate to any
+conservation district which the Commission determines qualifies for a grant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-178__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commission may determine that a
+conservation district qualifies for a grant of money pursuant to this section
+if the district demonstrates to the satisfaction of the Commission that the
+district:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-178__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Has been established in accordance with the
+provisions of this chapter; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-178__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is in compliance with all of the requirements
+of this chapter and the regulations of the Commission adopted pursuant thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-178__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as may otherwise be provided as
+a condition of a grant of money distributed by the Commission pursuant to
+paragraph</p>
+            </content>
+            <paragraph eId="548-178__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1, a conservation district that is awarded a grant
+of money pursuant to this section may use the money for reasonable and
+necessary expenses incurred by the district in carrying out its duties and
+authorities in accordance with this chapter and the annual district budget
+approved by the Commission.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-178__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>With regard to money provided by
+legislative appropriation, the Commission may distribute grants of money to
+conservation districts in unequal amounts if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-178__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The grants of money are for a specific
+competitive grant program for which the Legislature expressly appropriated
+money; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-178__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The competitive grant program described in
+paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-178__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>is governed by regulations specifically adopted to govern that
+competitive grant program and those regulations expressly state that the grants
+of money may be distributed in unequal amounts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-178__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Commission may adopt such regulations
+as it considers necessary to carry out the provisions of this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1922; A2005,
+122;2015,
+84)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-180">
+          <num>548.180</num>
+          <heading>Cooperation of state agencies and state institutions with
+Commission.</heading>
+          <content>
+            <p>Upon request of the
+Commission, for the purpose of carrying out any of its functions, the
+supervising officer of any state agency, or of any state institution of
+learning, shall, insofar as may be possible under available appropriation and
+having due regard to the needs of the agency to which the request is directed,
+assign or detail to the Commission members of the staff or personnel of such agency
+or institution of learning, and make such special reports, surveys or studies
+as the Commission may request.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:212:1937; A1951,
+190]—(NRS A1973,
+745)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-185">
+          <num>548.185</num>
+          <heading>Petition for organization of district: Filing; contents;
+consolidation of petitions.</heading>
+          <subsection eId="548-185__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any 10 occupiers of land lying within
+the limits of the territory proposed to be organized into a district may file a
+petition with the Commission asking that a conservation district be organized to
+function in the territory described in the petition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-185__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The petition shall set forth:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-185__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The proposed name of the district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-185__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>That there is need, in the interest of public
+health, safety and welfare, for a conservation district to function in the territory
+described in the petition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-185__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A description of the territory proposed to be
+organized as a district, which shall consist of one or more townships created
+pursuant tochapter 257of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-185__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A request that a referendum be held within
+the territory so defined on the question of the creation of a conservation
+district in such territory, and that the Commission determine that such a
+district be created.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-185__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Where more than one petition is filed
+covering parts of the same territory, the Commission may consolidate all or any
+such petitions.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:212:1937; A1947,
+431;1951,
+190]—(NRS A1973,
+745;1975,
+900;2011,
+2482)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-190">
+          <num>548.190</num>
+          <heading>Hearing on petition: Notice; inclusion of other territory.</heading>
+          <subsection eId="548-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Within 30 days after such a petition
+has been filed with the Commission, it shall cause due notice to be given of a
+proposed hearing upon:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-190__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The question of the desirability and necessity,
+in the interest of the public health, safety and welfare, of the creation of
+such district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-190__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The question of the appropriate boundaries to
+be assigned to such district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-190__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The propriety of the petition and other
+proceedings taken under this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-190__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>All questions relevant to such inquiries.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All occupiers of land within the limits
+of the territory described in the petition, and of lands within any territory
+considered for addition to such described territory, and all other interested
+persons, shall have the right to attend such hearings and to be heard.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-190__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If it shall appear upon the hearing
+that it may be desirable to include, within the proposed district, territory
+outside of the area within which due notice of the hearing has been given, the
+hearing shall be adjourned and due notice of further hearing shall be given
+throughout the entire area considered for inclusion in the district, and such
+further hearing shall be held.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:212:1937; A1947,
+431;1951,
+190]—(NRS A1973,
+746;2011,
+2483)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-195">
+          <num>548.195</num>
+          <heading>Determination of need for district: Factors for consideration by
+Commission; township or townships included in district; determination without
+hearing authorized.</heading>
+          <subsection eId="548-195__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>After such hearing, if the Commission
+determines, upon the facts presented at such hearing and upon such other
+relevant facts and information as may be available, that there is need, in the
+interest of the public health, safety and welfare, for a conservation district
+to function in the territory considered at the hearing, the Commission shall
+make and record such determination, and shall determine the township or
+townships to be included in the district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-195__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In making such determination, the
+Commission shall give due weight and consideration to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-195__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The topography of the area considered and of
+the State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-195__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The composition of soils therein.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-195__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The distribution of erosion.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-195__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The prevailing land use practices.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-195__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The desirability and necessity of including
+within the boundaries the particular lands under consideration and the benefits
+such lands may receive from being included within such boundaries.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-195__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The relation of the proposed area to existing
+watersheds and agricultural regions, and to other conservation districts
+already organized or proposed for organization under the provisions of this
+chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-195__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Such other physical, geographical and
+economic factors as are relevant, having due regard to the legislative
+determinations set forth inNRS 548.095to548.113, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-195__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>After consideration of the petition and
+of any other evidence of interest in the organization of a district, and of the
+relevant factors regarding the need for a district to function in the territory
+being considered, the Commission may make the determination of such need
+without holding a hearing.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:212:1937; A1947,
+431;1951,
+190]—(NRS A1973,
+746;1975,
+900;2011,
+2483;2015,
+1984)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-200">
+          <num>548.200</num>
+          <heading>Denial of petition if Commission determines there is no need for
+district; filing of subsequent petition after determination.</heading>
+          <subsection eId="548-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Commission shall determine after
+the hearing and after due consideration of the relevant facts that there is no
+need for a conservation district to function in the territory considered at the
+hearing, the Commission shall make and record such determination and shall deny
+the petition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>After 6 months shall have expired from
+the date of the denial of any such petition, subsequent petitions covering the
+same territory may be filed and new hearings held and determinations made
+thereon.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:212:1937; A1947,
+431;1951,
+190]—(NRS A1973,
+747)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-205">
+          <num>548.205</num>
+          <heading>Determination of administrative practicability and feasibility;
+referendum on proposition of creation of district.</heading>
+          <subsection eId="548-205__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>After the Commission has made and
+recorded a determination that there is need, in the interest of the public
+health, safety and welfare, for the organization of a district in a particular
+territory and has determined the township or townships to be included, the
+Commission shall consider the question whether the operation of a district
+within such territory with the powers conferred upon conservation districts in
+this chapter is administratively practicable and feasible.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-205__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To assist the Commission in the
+determination of such administrative practicability and feasibility, the
+Commission shall, within a reasonable time after entry of the finding that
+there is need for the organization of the proposed district and the determination
+of its territory, hold a referendum within the proposed district upon the
+proposition of the creation of the district, and shall cause due notice of such
+referendum to be given.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-205__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The question shall be submitted by
+ballots upon which the words ï¿½For creation of a conservation district
+consisting of the township (or townships) of ........................ in the
+county (or counties) of ........................ï¿½ and ï¿½Against creation of a
+conservation district consisting of the township (or townships) of
+........................ in the county (or counties) of
+........................ï¿½ shall be printed, with a square before each
+proposition and a direction to insert an X mark in the square before one or the
+other of the propositions, as the voter may favor or oppose creation of such
+district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-205__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>All persons determined by the county
+clerk or clerks to be registered voters residing within the boundaries of the
+proposed conservation district shall be eligible to vote in such referendum.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:212:1937; A1947,
+431;1951,
+190]—(NRS A1973,
+747;1975,
+901)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-210">
+          <num>548.210</num>
+          <heading>Commission to supervise hearings and referendum; conduct of
+referendum; informalities not to invalidate.</heading>
+          <subsection eId="548-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commission shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-210__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Pay all expenses for the issuance of such
+notices and the conduct of such hearings and referendum.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-210__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Supervise the conduct of such hearings and
+referendum.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-210__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Issue appropriate regulations governing the
+conduct of such hearings and referendum, and providing for the registration
+prior to the date of the referendum of all eligible voters, or prescribing some
+other appropriate procedure for the determination of those eligible as voters
+in such referendum.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>No informalities in the conduct of such
+referendum or in any matters relating thereto shall invalidate the referendum
+or the result thereof if notice thereof shall have been given substantially as
+provided in this chapter and the referendum shall have been fairly conducted.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:212:1937; A1947,
+431;1951,
+190]—(NRS A1973,
+747)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-215">
+          <num>548.215</num>
+          <heading>Administrative practicability and feasibility of district:
+Publication of results of referendum; denial of petition; factors for
+consideration by Commission; organization of district upon favorable
+determination.</heading>
+          <subsection eId="548-215__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commission shall publish the result
+of the referendum and shall thereafter consider and determine whether the
+operation of the district is administratively practicable and feasible.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-215__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Commission determines that the
+operation of such district is not administratively practicable and feasible,
+the Commission shall record such determination and deny the petition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-215__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Commission determines that the
+operation of the district is administratively practicable and feasible, the
+Commission shall record such determination and shall proceed with the
+organization of the district in the manner provided in this chapter. The
+Commission shall not determine that the operation of the proposed district is
+administratively practicable and feasible unless at least a majority of the
+votes cast in the referendum upon the creation of the district are cast in
+favor of the creation of such district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-215__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In making such determination, the
+Commission shall give due regard and weight to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-215__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The attitudes of the occupiers of lands lying
+within the defined boundaries.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-215__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The number of eligible registered voters who
+voted in the referendum.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-215__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The proportion of the votes cast in such
+referendum in favor of the creation of the district to the total number of
+votes cast.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-215__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The approximate wealth and income of the land
+occupiers of the proposed district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-215__subsec_4__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The probable expense of carrying on
+erosion-control operations within such district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-215__subsec_4__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Such other economic and social factors as may
+be relevant to such determination, having due regard to the legislative
+determinations set forth inNRS 548.095to548.113, inclusive.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:212:1937; A1947,
+431;1951,
+190]—(NRS A1973,
+748;1975,
+901;2015,
+1985)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-220">
+          <num>548.220</num>
+          <heading>Subsequent petition after determination by Commission that
+operation of district is not administratively practicable and feasible.</heading>
+          <content>
+            <p>After 6 months shall have expired from the
+date of entry of a determination by the Commission that operation of a proposed
+district is not administratively practicable and feasible, and denial of a
+petition pursuant to such determination, subsequent petitions may be filed and
+action taken thereon in accordance with the provisions of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:212:1937; A1947,
+431;1951,
+190]—(NRS A1973,
+748;2011,
+2484)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-225">
+          <num>548.225</num>
+          <heading>Appointment of temporary supervisors; termination of
+appointments upon election of supervisors.</heading>
+          <subsection eId="548-225__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Commission determines that the
+operation of the proposed district within the defined boundaries is
+administratively practicable and feasible, the Commission shall appoint five
+supervisors to act as the governing body of the district until the time of the
+election of five supervisors by the qualified electors of the district, at
+which time such appointments shall be terminated. The number of supervisors
+elected to 2-year and 4-year terms shall correspond to the respective numbers
+so elected in all other districts at that particular election.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-225__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The five supervisors appointed by the
+Commission shall be persons who are by training and experience qualified to
+perform the specialized, skilled services which will be required of them in the
+performance of their duties hereunder.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:212:1937; A1947,
+431;1951,
+190] + [Part 7:212:1937; A1945,
+28;1947,
+431;1951,
+190]—(NRS A1973,
+749;1975,
+902)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-230">
+          <num>548.230</num>
+          <heading>Procedure to make district a governmental subdivision and
+corporate and political public body.</heading>
+          <content>
+            <p>The
+district shall be a governmental subdivision of this State and a public body
+corporate and politic upon the taking of the proceedings designated inNRS 548.235and548.240.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:212:1937; A1947,
+431;1951,
+190]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-235">
+          <num>548.235</num>
+          <heading>Temporary supervisors to present application to Program;
+contents of application and statements.</heading>
+          <subsection eId="548-235__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The five appointed supervisors shall
+present to the Program an application signed by them, which states:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-235__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>That a petition for the creation of the
+district was filed with the Commission pursuant to the provisions of this
+chapter, and that the proceedings specified in this chapter were taken pursuant
+to that petition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-235__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>That the application is being filed in order
+to complete the organization of the district as a governmental subdivision and
+a public body, corporate and politic, under this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-235__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>That the Commission has appointed them as
+supervisors.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-235__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The name and official residence of each of
+the supervisors, together with a certified copy of the appointments evidencing
+their right to office.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-235__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The term of office of each of the
+supervisors.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-235__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The name which is proposed for the district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-235__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The location of the principal office of the
+supervisors of the district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-235__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The application must be subscribed and
+sworn to by each of the supervisors before a person authorized to take and
+certify oaths, who shall certify upon the application that the person
+personally knows the supervisors and knows them to be the officers as affirmed
+in the application, and that each has subscribed thereto in the officerï¿½s
+presence.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-235__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The application must be accompanied by
+a statement by the Commission:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-235__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>That a petition was filed, notice issued and
+hearing held as required by this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-235__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>That the Commission did determine that there
+is need, in the interest of the public health, safety and welfare, for a
+conservation district to function in the proposed territory and did define the
+township or townships to be included.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-235__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>That notice was given and a referendum held
+on the question of the creation of such a district, and that a majority of the
+votes cast in such referendum were in favor of the creation of the district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-235__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>That thereafter the Commission did determine
+that the operation of the proposed district is administratively practicable and
+feasible.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-235__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The statement must set forth the
+township or townships to be included.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:212:1937; A1947,
+431;1951,
+190]—(NRS A1973,
+749;1975,
+902;1985,
+779;2011,
+2484)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-240">
+          <num>548.240</num>
+          <heading>Program to examine and record application and statement; action
+if name of district similar to name of another district; when district
+constituted; certificate of organization; boundaries.</heading>
+          <subsection eId="548-240__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Program shall examine the
+application and statement, and if the Program finds that the name proposed for
+the district is not identical with that of any other conservation district of
+this State or so nearly similar as to lead to confusion or uncertainty, the
+Program shall record them in an appropriate book of record.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-240__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Program finds that the name
+proposed for the district is identical with that of any other conservation
+district of this State, or so nearly similar as to lead to confusion and
+uncertainty, the Program shall notify the Commission. The Commission shall
+thereupon submit a new name for the district. Upon receipt of a new name, free
+of such defects, the Program shall record the application and statement, with
+the name so modified, in an appropriate book of record.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-240__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>When the application and statement have
+been recorded, the district becomes a governmental subdivision of this State
+and a public body corporate and politic.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-240__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Program shall make and issue to the
+supervisors a certificate, over the signature of a member of the staff of the
+Program, of the organization of the district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-240__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The boundaries of the district must
+include the territory determined by the Commission, but must not include any
+area included within the boundaries of another conservation district organized
+under the provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:212:1937; A1947,
+431;1951,
+190]—(NRS A1973,
+750;1985,
+780;2011,
+2484)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-245">
+          <num>548.245</num>
+          <heading>Proof of establishment of district.</heading>
+          <subsection eId="548-245__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In any suit, action or proceeding
+involving the validity or enforcement of, or relating to, any contract,
+proceeding or action of the district, the district shall be deemed to have been
+established in accordance with the provisions of this chapter upon proof of the
+issuance of the certificate by the Program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-245__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A copy of such a certificate issued by
+the Program is admissible in evidence in any such suit, action or proceeding
+and is proof of the contents thereof.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:212:1937; A1947,
+431;1951,
+190]—(NRS A1985,
+780;2011,
+2485)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-250">
+          <num>548.250</num>
+          <heading>Nominating petitions for candidates for supervisors; signatures.</heading>
+          <subsection eId="548-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Within 30 days after the date of
+issuance by the Program of a certificate of organization of a conservation
+district, nominating petitions may be filed with the Commission to nominate
+candidates for supervisors at large of the district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commission may extend the time
+within which nominating petitions may be filed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-250__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>No nominating petition may be accepted
+by the Commission unless it is subscribed by three or more registered voters
+residing within the district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-250__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Registered voters of the district may
+sign more than one nominating petition to nominate more than one candidate for
+supervisor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 6:212:1937; A1945,
+28;1947,
+431;1951,
+190]—(NRS A1973,
+750;1975,
+903;1985,
+781;2011,
+2485)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-255">
+          <num>548.255</num>
+          <heading>Notice of election.</heading>
+          <content>
+            <p>The
+Commission shall give due notice of an election to be held for the election of
+five supervisors for the district.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 6:212:1937; A1945,
+28;1947,
+431;1951,
+190]—(NRS A1973,
+751)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-260">
+          <num>548.260</num>
+          <heading>Arrangement of names of candidates for supervisors.</heading>
+          <content>
+            <p>The names of all nominees on behalf of whom
+such nominating petitions have been filed within the time designated inNRS 548.250shall be printed, arranged in
+alphabetical order of the surnames, upon ballots, with a square before each
+name and a direction to insert an X mark in the square before any five names to
+indicate the voterï¿½s preference.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 6:212:1937; A1945,
+28;1947,
+431;1951,
+190]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-265">
+          <num>548.265</num>
+          <heading>Eligibility to vote at election.</heading>
+          <content>
+            <p>All
+registered voters residing within the district are eligible to vote in such
+election.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 6:212:1937; A1945,
+28;1947,
+431;1951,
+190]—(NRS A1973,
+751;1975,
+903)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-270">
+          <num>548.270</num>
+          <heading>Duties of Commission.</heading>
+          <subsection eId="548-270__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Supervise the conduct of such election.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-270__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Prescribe regulations governing the
+conduct of such election.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-270__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Publish the results thereof.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 6:212:1937; A1945,
+28;1947,
+431;1951,
+190]—(NRS A1973,
+751;1975,
+903)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-275">
+          <num>548.275</num>
+          <heading>Election of supervisors; terms of office.</heading>
+          <subsection eId="548-275__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In the election held in 1976, two terms
+of 4 years each and three terms of 2 years each shall be allocated among the
+candidates in descending order of number of votes received.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-275__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Supervisors who receive an equal number
+of votes shall draw lots to determine their terms.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-275__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>After that election, supervisors shall
+be elected for terms of 4 years.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 6:212:1937; A1945,
+28;1947,
+431;1951,
+190]—(NRS A1973,
+751;1975,
+903)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-280">
+          <num>548.280</num>
+          <heading>District to be governed by elected and appointed supervisors.</heading>
+          <content>
+            <p>Each district shall be governed by a board
+consisting of five supervisors elected at large and one or more appointed
+supervisors, as provided in this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:212:1937; A1945,
+28;1947,
+431;1951,
+190]—(NRS A1973,
+751;2011,
+683)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-283">
+          <num>548.283</num>
+          <heading>Appointment of supervisors to represent cities and counties;
+alternates.</heading>
+          <subsection eId="548-283__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The governing bodies of any
+incorporated cities located within the boundaries of the district shall appoint
+a representative to represent them as a supervisor on the governing board of
+the district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-283__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the cities cannot agree on one
+representative to serve as a supervisor, the Commission shall choose the
+representative from the nominees proposed by the cities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-283__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The governing bodies of any counties
+located within the boundaries of the district shall each appoint a
+representative to represent the governing body as a supervisor on the governing
+board of the district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-283__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Each representative of a city or county
+shall designate an alternate to replace the representative in the
+representativeï¿½s absence from meetings of the supervisors of the district. The representative
+shall send a written notice to the authority which appointed him or her
+containing the name and address of the person so designated. The notice must be
+sent in such a manner that it will be received before the date of the meeting
+which the alternate is to attend. An alternate has all of the duties, rights
+and privileges of the replaced representative.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+738; A1987,
+131;2011,
+683)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-285">
+          <num>548.285</num>
+          <heading>Procedure for election of supervisors.</heading>
+          <subsection eId="548-285__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The county clerk of the county in which
+a conservation district is situated, or the county clerkï¿½s designee, shall
+conduct a biennial nonpartisan election for the replacement of any supervisors
+whose terms are about to expire and shall pay all costs of that election from
+county funds.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-285__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The election must be held either at a
+mass meeting of electors, held in a centrally located public meeting place
+within the district, or as part of the general election.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-285__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a mass meeting is held for the
+election, it must be held on one of the first 10 days of November in each
+even-numbered year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-285__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the election is held at a mass
+meeting:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-285__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The chair of the district supervisors shall
+preside at this meeting and the secretary of the district shall keep a record
+of transactions at the meeting.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-285__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Nominations of candidates must be made
+verbally from the floor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-285__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Voting must be by secret ballot. The chair of
+the district supervisors shall appoint three electors present to act, without
+pay, as judges and tellers to count the votes at the conclusion of voting.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-285__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If the election is held as part of the
+general election:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-285__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Candidates are bound by the election laws
+governing county elections.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-285__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Ballots must be provided bearing the names of
+candidates in alphabetical order by surnames with a square before each name and
+a direction to insert an X mark in the square before the name or names of the
+voterï¿½s choice.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-285__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>At the close of polling, the sealed ballot
+boxes must be delivered unopened to the county clerk or the county clerkï¿½s
+designee, who shall appoint three electors to act, without pay, as judges and
+tellers to open the boxes and count the votes.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-285__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The result of the election must be
+certified to the Commission and to the Program by the county clerk or the
+county clerkï¿½s designee, within 1 week following the date of election.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-285__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>If a conservation district embodies
+land lying in more than one county, the county clerks of the respective
+counties shall confer and delegate to the clerk of the county having the
+greatest number of qualified electors of the conservation district the duty of
+carrying out the provisions of this section and shall reimburse that county on
+a pro rata basis for their respective countiesï¿½ shares of the expenses of
+conducting the election.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:212:1937; A1945,
+28;1947,
+431;1951,
+190]—(NRS A1957,
+235;1973,
+751;1975,
+904;1985,
+781;2011,
+2485)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-290">
+          <num>548.290</num>
+          <heading>Terms of office.</heading>
+          <subsection eId="548-290__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each supervisor who is appointed under
+the provisions ofNRS 548.283shall
+serve for a term of 2 years.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-290__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Elected supervisors shall take office
+on the 1st Monday in January following their election.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:212:1937; A1945,
+28;1947,
+431;1951,
+190]—(NRS A1973,
+753;1975,
+905)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-295">
+          <num>548.295</num>
+          <heading>Vacancy in office.</heading>
+          <subsection eId="548-295__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A vacancy in the office of supervisor
+of a district must be filled for the unexpired term as soon as practicable
+after the office becomes vacant, by appointment by the remaining supervisors of
+the district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-295__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The chair of the governing body of a
+district shall certify all such appointments immediately to the Commission and
+to the Program.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:212:1937; A1945,
+28;1947,
+431;1951,
+190]—(NRS A1973,
+753;1985,
+782;2001,
+288;2011,
+2486)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-300">
+          <num>548.300</num>
+          <heading>Removal from office.</heading>
+          <content>
+            <p>A
+supervisor may be removed by the Commission, upon notice and hearing, for malfeasance
+in office, neglect of duty or absence from four consecutive meetings without
+sufficient cause.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:212:1937; A1945,
+28;1947,
+431;1951,
+190]—(NRS A1973,
+753;1987,
+131)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-305">
+          <num>548.305</num>
+          <heading>Quorum.</heading>
+          <content>
+            <p>A majority
+of the supervisors constitutes a quorum, and except as otherwise provided inNRS 241.0355, the concurrence of a
+majority of the quorum in any matter within their duties is required for their
+determination.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:212:1937; A1945,
+28;1947,
+431;1951,
+190]—(NRS A1973,
+753;2001,
+1129)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-310">
+          <num>548.310</num>
+          <heading>Compensation and expenses.</heading>
+          <content>
+            <p>A
+supervisor shall receive no compensation for his or her services, but the
+supervisor shall be entitled to expenses, including traveling expenses,
+necessarily incurred in the discharge of the supervisorï¿½s duties, not to exceed
+amounts provided by law for county officials.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:212:1937; A1945,
+28;1947,
+431;1951,
+190]—(NRS A1973,
+753)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-315">
+          <num>548.315</num>
+          <heading>Chair, secretary and other employees: Designation and
+employment; delegation of powers and duties; surety bonds.</heading>
+          <subsection eId="548-315__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The supervisors shall designate a chair
+and may, from time to time, change such designation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-315__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The supervisors may employ a secretary,
+technical experts, and such other officers, agents and employees, permanent and
+temporary, as they may require, and shall determine their qualifications,
+duties and compensation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-315__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The supervisors may delegate to their
+chair, to one or more supervisors, or to one or more agents or employees such
+powers and duties as they may deem proper.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-315__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The supervisors may provide for the
+execution of surety bonds for all employees and officers who shall be entrusted
+with funds or property.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:212:1937; A1945,
+28;1947,
+431;1951,
+190]—(NRS A1973,
+754)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-320">
+          <num>548.320</num>
+          <heading>Records; annual audit of accounts.</heading>
+          <subsection eId="548-320__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Provide for the keeping of a full and
+accurate record of all proceedings and of all resolutions, regulations and
+orders issued or adopted.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-320__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Provide for an annual audit of the
+accounts of receipts and disbursements.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:212:1937; A1945,
+28;1947,
+431;1951,
+190]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-325">
+          <num>548.325</num>
+          <heading>District attorneys to provide legal services.</heading>
+          <content>
+            <p>District attorneys shall provide such legal
+services as the supervisors may require.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:212:1937; A1945,
+28;1947,
+431;1951,
+190]—(NRS A1973,
+754)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-330">
+          <num>548.330</num>
+          <heading>Supervisors to furnish Commission information.</heading>
+          <subsection eId="548-330__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Copies of such ordinances, rules,
+regulations, orders, contracts, forms and other documents as they shall adopt
+or employ; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-330__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Such other information concerning their
+activities as the Commission may require in the performance of its duties under
+this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:212:1937; A1945,
+28;1947,
+431;1951,
+190]—(NRS A1973,
+754)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-335">
+          <num>548.335</num>
+          <heading>City or county representatives may advise and consult with
+supervisors.</heading>
+          <content>
+            <p>The supervisors may
+invite the legislative body of any municipality or county located near the
+territory comprising the district to designate a representative to advise and consult
+with the supervisors of the district on all questions of program and policy
+which may affect the property, water supply or other interests of such
+municipality or county.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:212:1937; A1945,
+28;1947,
+431;1951,
+190]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-340">
+          <num>548.340</num>
+          <heading>Conservation district is governmental subdivision; exercise of
+public powers.</heading>
+          <content>
+            <p>A conservation
+district organized under the provisions of this chapter shall constitute a
+governmental subdivision of this State and a public body corporate and politic,
+exercising public powers.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 8:212:1937; 1931 NCL ï¿½ 6870.08]—(NRS A1973,
+754)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-345">
+          <num>548.345</num>
+          <heading>Surveys, investigations and research.</heading>
+          <content>
+            <p>In
+addition to other powers granted in this chapter, a district and the supervisors
+thereof shall have the power to conduct surveys, investigations and research
+relating to the conservation of renewable natural resources and the preventive
+and control measures needed, to publish the results of such surveys,
+investigations or research, and to disseminate information concerning such
+preventive and control measures; but in order to avoid duplication of research
+activities, no district shall initiate any research program except in
+cooperation with the government of this State or any of its agencies, or with
+the United States or any of its agencies.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 8:212:1937; 1931 NCL ï¿½ 6870.08]—(NRS A1973,
+754)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-350">
+          <num>548.350</num>
+          <heading>Demonstrational projects.</heading>
+          <content>
+            <p>In
+addition to other powers granted in this chapter, a district and the
+supervisors thereof shall have the power to conduct demonstrational projects
+within the district on lands owned or controlled by this State or any of its
+agencies, with the cooperation of the agency administering and having
+jurisdiction thereof, and on any other lands within the district, upon
+obtaining the consent of the occupier of such lands or the necessary rights or
+interests in such lands, in order to demonstrate by example the means, methods
+and measures by which renewable natural resources may be conserved.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 8:212:1937; 1931 NCL ï¿½ 6870.08]—(NRS A1973,
+754)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-355">
+          <num>548.355</num>
+          <heading>Preventive and control measures; repair and restoration of
+property.</heading>
+          <subsection eId="548-355__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Carry out preventive and control
+measures within the district, including, but not limited to, engineering
+operations, methods of cultivation, the growing of vegetation and changes in
+the use of land; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-355__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Repair and restore property within the
+district, including, but not limited to, wetlands, stream corridors and other
+riparian property,
+ï¿½on land
+owned or controlled by any government or municipal corporation, with the
+cooperation of the agency administering and having jurisdiction thereof, and on
+any other land within the district, upon obtaining the consent of all persons
+holding any relevant rights or interests in such land.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 8:212:1937; 1931 NCL ï¿½ 6870.08]—(NRS A1973,
+755;2001,
+288)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-360">
+          <num>548.360</num>
+          <heading>Cooperation and agreements with agencies for conserving
+renewable natural resources.</heading>
+          <content>
+            <p>In
+addition to other powers granted in this chapter, a district and the
+supervisors thereof may cooperate or enter into agreements with and, within the
+limits of appropriations made available to it by law and any money it acquires
+from any other source, furnish financial or other aid to any governmental or
+other agency, or any occupier of land within the district, in conserving
+renewable natural resources within the district, subject to such conditions as
+the supervisors may deem necessary to advance the purposes of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 8:212:1937; 1931 NCL ï¿½ 6870.08]—(NRS A1973,
+755;2001,
+288)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-365">
+          <num>548.365</num>
+          <heading>Availability of agricultural and engineering machinery,
+fertilizer and seeds.</heading>
+          <content>
+            <p>In addition
+to other powers granted in this chapter, a district and the supervisors thereof
+shall have the power to make available, on such terms as it shall prescribe, to
+land occupiers within the district, agricultural and engineering machinery and
+equipment, fertilizer, seeds and seedlings, and such other material or
+equipment as will assist such land occupiers in carrying on operations upon
+their lands for the conservation of renewable natural resources.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 8:212:1937; 1931 NCL ï¿½ 6870.08]—(NRS A1973,
+755)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-370">
+          <num>548.370</num>
+          <heading>Construction, operation and maintenance of facilities and
+structures.</heading>
+          <content>
+            <p>In addition to other
+powers granted in this chapter, a district and the supervisors thereof shall
+have the power to construct, operate, improve and maintain such facilities and
+structures as may be necessary or convenient for the performance of any of the
+operations authorized in this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 8:212:1937; 1931 NCL ï¿½ 6870.08]—(NRS A1973,
+755)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-375">
+          <num>548.375</num>
+          <heading>Comprehensive plans for conservation.</heading>
+          <subsection eId="548-375__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To develop comprehensive plans for the
+conservation of renewable natural resources within the district, which plans
+shall specify in such detail as may be possible the acts, procedures,
+performances, and avoidances which are necessary or desirable for the
+effectuation of such plans, including the specification of engineering
+operations, methods of cultivation, the growing of vegetation, cropping
+programs, tillage practices, and changes in the use of land; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-375__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To publish such plans and information
+and bring them to the attention of occupiers of lands within the district.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 8:212:1937; 1931 NCL ï¿½ 6870.08]—(NRS A1973,
+755)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-380">
+          <num>548.380</num>
+          <heading>Administration of projects; acceptance of gifts; participation
+in cost-sharing on federally financed projects.</heading>
+          <subsection eId="548-380__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Manage or administer any project for
+the conservation of a renewable natural resource located within its boundaries
+undertaken by any person, municipal corporation or government.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-380__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Act as an agent of any person,
+municipal corporation or government in connection with the acquisition,
+construction, operation or administration of any project for the conservation
+of a renewable natural resource within its boundaries.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-380__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Accept donations, gifts and
+contributions in money, services, materials or any other form from any source,
+and use or expend such money, services, materials or other contributions in
+carrying on its operations.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-380__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Participate in cost-sharing on
+federally financed projects.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 8:212:1937; 1931 NCL ï¿½ 6870.08]—(NRS A1973,
+756;2001,
+289)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-385">
+          <num>548.385</num>
+          <heading>Capacity to sue and be sued; seal; perpetual succession;
+execution of contracts; rules and regulations.</heading>
+          <subsection eId="548-385__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To sue and be sued in the name of the
+district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-385__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To have a seal, which seal shall be
+judicially noticed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-385__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>To have perpetual succession, unless
+terminated as provided in this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-385__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>To make and execute contracts and other
+instruments necessary or convenient to the exercise of its powers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-385__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>To make, and from time to time amend
+and repeal, rules and regulations not inconsistent with this chapter, to carry
+into effect its purposes and powers.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 8:212:1937; 1931 NCL ï¿½ 6870.08]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-390">
+          <num>548.390</num>
+          <heading>Conditions for extension of benefits to lands not controlled by
+State or its agencies.</heading>
+          <content>
+            <p>As a
+condition to the extending of any benefits under this chapter to, or the
+performance of work upon, any lands not owned or controlled by this State or
+any of its agencies, the supervisors may require contributions in money,
+services, materials or otherwise to any operations conferring such benefits,
+and may require land occupiers to enter into and perform such agreements or
+covenants as to the permanent use of such lands as will tend to prevent or
+control erosion thereon.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 8:212:1937; 1931 NCL ï¿½ 6870.08]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-393">
+          <num>548.393</num>
+          <heading>Acquisition and disposition of property: Power to acquire,
+maintain and improve property; use of income received therefrom; disposal.</heading>
+          <subsection eId="548-393__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Obtain options upon and acquire, by
+purchase, exchange, lease, gift, grant, bequest, devise or otherwise, except by
+adverse possession, any property, real or personal, or rights or interests
+therein;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-393__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Maintain, administer and improve any
+properties acquired;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-393__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Receive income from such properties and
+expend that income; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-393__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Sell, lease or otherwise dispose of any
+of its property or interests therein.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+1682)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-395">
+          <num>548.395</num>
+          <heading>Acquisition and disposition of property: Applicability of other
+laws.</heading>
+          <content>
+            <p>No provisions with respect
+to the acquisition, operation or disposition of property by other public bodies
+shall be applicable to a district organized under this chapter unless the
+Legislature shall specifically so state.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 8:212:1937; 1931 NCL ï¿½ 6870.08]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-397">
+          <num>548.397</num>
+          <heading>Acquisition and disposition of property: Payments in lieu of
+taxes; amount; collection.</heading>
+          <subsection eId="548-397__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a district acquires real property on
+or after July 1, 2003, which is not exempt from property taxes at the time it
+is acquired by the district, the board of county commissioners of the county in
+which the property is located shall determine whether the district is required
+to make payments in lieu of taxes on the property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-397__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In determining whether to require the
+district to make payments in lieu of taxes, the board shall consider the
+contributions made by the district to the community, such as providing a
+meeting place for community activities and such other factors as the board
+determines appropriate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-397__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the district is required to make
+payments in lieu of taxes, the amount of the payments must be equal to the
+property taxes which would have been payable on the property if it were not
+exempt from taxation. The county assessor of the county in which the property
+is located shall, solely for the purpose of facilitating the payments in lieu
+of taxes, assess the property in the same manner as the taxable property in the
+county is assessed. The ex officio tax receiver of that county shall mail to
+the district an individual bill for the payment in lieu of taxes in the same
+manner as is required byNRS 361.480for
+an individual tax bill.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-397__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The payments in lieu of taxes are due
+at the same time and must be collected, accounted for and distributed in the
+same manner as if the property remained taxable after it was acquired by the
+district, except that no lien attaches upon any property or money of the
+district by virtue of any failure to make all or any part of the payments.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+1683)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-400">
+          <num>548.400</num>
+          <heading>Cooperation between districts.</heading>
+          <subsection eId="548-400__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The supervisors of any two or more
+districts organized under the provisions of this chapter may cooperate with and
+enter into agreements with one another in the exercise of any or all powers
+conferred in this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-400__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any district may enter into such
+agreements with a district or districts in adjoining states to carry out such
+purposes if the law in the other states permits the districts in the states to
+enter into the agreements.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [13:212:1937; 1931 NCL ï¿½ 6870.13]—(NRS A1973,
+756)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-405">
+          <num>548.405</num>
+          <heading>Cooperation of state agencies and political subdivisions;
+applicability of regulations for use of land to publicly owned land.</heading>
+          <subsection eId="548-405__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Agencies of this State which shall have
+jurisdiction over, or be charged with the administration of, any state-owned
+lands, and agencies of any county or other governmental subdivision of the
+State which shall have jurisdiction over, or be charged with the administration
+of, any county-owned or other publicly owned lands, lying within the boundaries
+of any district organized under this chapter, shall cooperate to the fullest
+extent with the supervisors of such districts in the effectuation of programs
+and operations undertaken by the supervisors under the provisions of this
+chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-405__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The supervisors of such districts shall
+be given free access to enter and perform work upon such publicly owned lands.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-405__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The provisions of land use regulations
+adopted pursuant toNRS 548.410to548.435, inclusive, shall have the force
+and effect of law over all such publicly owned lands, and shall be in all
+respects observed by the agencies administering such lands.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [14:212:1937; 1931 NCL ï¿½ 6870.14]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-4051">
+          <num>548.4051</num>
+          <heading>ï¿½Parcelï¿½ defined.</heading>
+          <content>
+            <p>As
+used inNRS 548.4051to548.4056, inclusive, ï¿½parcelï¿½ has the
+meaning ascribed to it inNRS 361A.065.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1982)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-4052">
+          <num>548.4052</num>
+          <heading>Annual fee on parcels in district: Imposition; collection and
+deposit; use.</heading>
+          <subsection eId="548-4052__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Subject to the provisions ofNRS 548.4053and548.4054, and only after receiving the
+approval of a majority of the registered voters of the conservation district
+voting on the question at a primary, general or special election held pursuant
+toNRS 548.4053or at an election
+conducted by mail pursuant toNRS 548.4054:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-4052__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a conservation district includes land
+lying in only one county, the board of county commissioners of the county shall
+impose, on behalf of the conservation district, an annual fee of not more than
+$25 on each parcel in the conservation district; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-4052__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a conservation district includes land
+lying in more than one county, the boards of county commissioners of the
+respective counties shall impose, on behalf of the conservation district, an
+annual fee of not more than $25 on each parcel in the conservation district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-4052__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A fee imposed pursuant to subsection 1
+must be collected as are other fees and taxes imposed by the board of county
+commissioners are collected. A board of county commissioners that imposes the
+fee shall establish a separate fund in the county treasury for the receipt and
+expenditure of and accounting for the proceeds of the fee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-4052__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Money collected pursuant to this
+section may be used only for the purposes of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1982)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-4053">
+          <num>548.4053</num>
+          <heading>Annual fee on parcels in district: Submission of question to
+voters upon receipt of petition; notice of election; contents of ballot;
+approval by voters.</heading>
+          <subsection eId="548-4053__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A board of county commissioners shall
+submit to the voters a question of whether to impose a fee described inNRS 548.4052upon receipt of a petition
+requesting the election and prescribing the amount of the proposed fee. The
+petition must be signed by a majority of the supervisors of the conservation
+district or not less than 10 percent of the registered voters of the
+conservation district. The board of county commissioners shall direct the
+county clerk of the county or the county clerkï¿½s designee to conduct an
+election on the question.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-4053__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a conservation district includes
+land lying in more than one county, the petition described in subsection 1 must
+be submitted to the board of county commissioners of each such county and each
+respective board of county commissioners shall submit the question to the
+registered voters of the conservation district who live in the county. Each
+respective board of county commissioners shall direct the county clerk of the
+county or the county clerkï¿½s designee to conduct an election on the question.
+The county clerks of the respective counties shall confer and delegate to the
+county clerk, or the county clerkï¿½s designee, of the county having the greatest
+number of qualified electors of the conservation district the duty of carrying
+out the provisions of this section and shall reimburse that county on a pro
+rata basis for their respective countiesï¿½ shares of the expenses of conducting
+the election.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-4053__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Notice of an election or elections on
+the question of whether to impose a fee described inNRS 548.4052must be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-4053__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Published at least once each week for 4 weeks
+before the date of the election in a newspaper of general circulation in the
+county or counties in which the election or elections are to be held; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-4053__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Posted continuously on the Internet website
+of the county or counties beginning not less than 30 days before the date of
+the election.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-4053__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>At the election, the ballot must
+contain the words ï¿½Shall a fee of not more than $_____ per parcel be approved
+for the conservation district?ï¿½ or words equivalent thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-4053__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If a majority of the registered voters
+of the conservation district voting on the question approve the imposition of
+the fee, the fee must be imposed beginning on July 1 of the year next following
+the election or elections.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1982)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-4054">
+          <num>548.4054</num>
+          <heading>Annual fee on parcels in district: Election by mail in lieu of
+primary special or general election; date of election; mailing and marking
+ballots; appointment of electors to count votes; approval by voters.</heading>
+          <subsection eId="548-4054__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In lieu of conducting the election
+required byNRS 548.4052at a primary,
+general or special election pursuant toNRS
+548.4053, the board or boards of county commissioners, as applicable, may
+direct that the election be conducted by mail in accordance with this section.
+Except as otherwise provided in this section, the provisions ofNRS 548.4053govern an election conducted
+pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-4054__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the election is conducted by mail:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-4054__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The board or boards of county commissioners,
+as applicable, shall establish the date by which marked mailing ballots must be
+mailed by voters to the county clerk or the county clerkï¿½s designee pursuant to
+paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-4054__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>. That date is the date of the election for the purposes of
+subsection 3 ofNRS 548.4053.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-4054__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>On or after the first date of publication or
+posting, whichever occurs first, of the notice required by subsection 3 ofNRS 548.4053, but not later than 5
+business days after that date, the county clerk or the county clerkï¿½s designee
+shall cause to be mailed to each registered voter in the conservation district:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="548-4054__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>An official mailing ballot;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="548-4054__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A return envelope; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="548-4054__subsec_2__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Instructions regarding the manner of
+marking and returning the ballot. The instructions must set forth the date
+established pursuant to paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="548-4054__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>by which the ballot must be mailed by the
+voter to the county clerk or the county clerkï¿½s designee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-4054__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Upon receipt of a mailing ballot, the
+registered voter must, in accordance with the instructions, mark and fold the
+ballot, deposit and seal the ballot in the return envelope, affix his or her
+signature on the back of the envelope and mail the envelope to the county clerk
+or the county clerkï¿½s designee. The ballot shall be deemed timely mailed if the
+envelope is postmarked not later than 3 business days after the date
+established pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-4054__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>by which the ballot must be mailed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-4054__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>At the close of polling, the county clerk or
+the county clerkï¿½s designee shall appoint three electors who are not
+supervisors of the conservation district to act, without pay, as judges and
+tellers to open the envelopes and count the votes.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-4054__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a majority of the electors of the
+conservation district voting on the question at an election conducted pursuant
+to this section approve the imposition of the fee, the fee must be imposed
+beginning on July 1 of the year next following the election.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1983)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-4055">
+          <num>548.4055</num>
+          <heading>Annual fee on parcels in district: Procedures for increase,
+decrease or elimination.</heading>
+          <content>
+            <p>A fee
+imposed pursuant toNRS 548.4052and548.4053or548.4054, as applicable, may not be
+increased, decreased or eliminated except according to the same procedures
+prescribed inNRS 548.4052and548.4053or548.4054, as applicable, for imposing the
+fee.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1984)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-4056">
+          <num>548.4056</num>
+          <heading>Appropriation of money to provide programs for renewable natural
+resources.</heading>
+          <content>
+            <p>A board of county
+commissioners may appropriate money from the county general fund to a
+conservation district for the purpose of providing programs for renewable
+natural resources regardless of whether a fee is imposed pursuant toNRS 548.4052and548.4053or548.4054, as applicable.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1984)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-410">
+          <num>548.410</num>
+          <heading>Petition to formulate regulations; formulation; hearings;
+determination of whether referendum to be held.</heading>
+          <subsection eId="548-410__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The supervisors of any district may
+file petitions with the Commission at any time to request it to formulate land
+use regulations applicable to the district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-410__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commission shall prescribe the form
+of the petition, which shall be, as nearly as practicable, in the form
+prescribed in this chapter for petitions to organize a district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-410__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commission shall have authority to
+formulate regulations, based upon the petition, governing the use of lands
+within a district in the interest of conserving renewable natural resources and
+preventing and controlling soil erosion and sedimentation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-410__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Commission shall conduct, after due
+notice, public meetings and public hearings within the district or districts
+concerned upon such regulations as it deems necessary to assist it in
+consideration thereof.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-410__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Commission shall determine, on the
+basis of information presented in the petition or brought out in public
+hearings, and on the basis of the number of petitioners in relation to the
+total number of occupiers of land lying within the district, whether it can
+render a reasonable determination of approval or denial of the petition without
+holding a referendum, or whether a referendum shall be held.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 9:212:1937; 1931 NCL ï¿½ 6870.09]—(NRS A1973,
+756)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-415">
+          <num>548.415</num>
+          <heading>Proposed ordinance; notices and supervision of referendum; form
+of question; eligibility to vote; informalities not to invalidate referendum.</heading>
+          <subsection eId="548-415__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The proposed regulations shall be
+embodied in a proposed ordinance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-415__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Copies of such proposed ordinance shall
+be available for the inspection of all eligible voters during the period
+between publication of such notice and the date of the referendum.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-415__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The notices of the referendum shall
+recite the contents of such proposed ordinance, or shall state where copies of
+such proposed ordinance can be examined.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-415__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The question shall be submitted by
+ballots, upon which the words ï¿½For approval of proposed ordinance No. ........,
+prescribing land use regulations for conservation of soil and prevention of
+erosionï¿½ and ï¿½Against approval of proposed ordinance No. ........, prescribing
+land use regulations for conservation of soil and prevention of erosionï¿½ shall
+be printed, with a square before each proposition and a direction to insert an
+X mark in the square before one or the other of the propositions as the voter
+may favor or oppose approval of such proposed ordinance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-415__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Commission shall supervise such
+referendum, shall prescribe appropriate regulations governing the conduct
+thereof, and shall publish the result thereof.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-415__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>All persons determined by the county
+clerk or clerks to be registered voters residing within the district are
+eligible to vote in such referendum.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-415__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>No informalities in the conduct of such
+referendum or in any matters relating thereto invalidate the referendum or the
+result thereof if notice thereof was given substantially as provided in this
+chapter and the referendum was fairly conducted.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 9:212:1937; 1931 NCL ï¿½ 6870.09]—(NRS A1973,
+757;1975,
+905)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-420">
+          <num>548.420</num>
+          <heading>Approval of proposed ordinance; effect of regulations.</heading>
+          <subsection eId="548-420__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commission shall not have authority
+to enact such proposed ordinance into law unless at least a majority of the
+votes cast in such referendum shall have been cast for approval of the proposed
+ordinance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-420__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The approval of the proposed ordinance
+by a majority of the votes cast in such referendum shall not be deemed to
+require the Commission to enact such proposed ordinance into law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-420__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Land use regulations prescribed in
+ordinances adopted pursuant to the provisions ofNRS 548.410to548.435, inclusive, by the Commission shall
+have the force and effect of law in the conservation district and shall be
+binding and obligatory upon all occupiers of lands within such district.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 9:212:1937; 1931 NCL ï¿½ 6870.09]—(NRS A1973,
+758)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-425">
+          <num>548.425</num>
+          <heading>Procedure for amendment or repeal of regulations.</heading>
+          <subsection eId="548-425__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any occupier of land within such
+district may at any time file a petition with the Commission asking that any or
+all of the land use regulations prescribed in any ordinance adopted by the
+Commission under the provisions ofNRS
+548.410to548.435, inclusive, shall
+be amended, supplemented or repealed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-425__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Land use regulations prescribed in any
+ordinance adopted pursuant to the provisions ofNRS 548.410to548.435, inclusive, shall not be amended,
+supplemented or repealed except in accordance with the procedure prescribed inNRS 548.410to548.435, inclusive, for adoption of land
+use regulations.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-425__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Referenda on adoption, amendment,
+supplementation or repeal of land use regulations shall not be held more often
+than once in 6 months.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 9:212:1937; 1931 NCL ï¿½ 6870.09]—(NRS A1973,
+758)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-430">
+          <num>548.430</num>
+          <heading>Permissible provisions.</heading>
+          <subsection eId="548-430__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The regulations to be adopted by the
+Commission under the provisions ofNRS
+548.410to548.435, inclusive, may
+include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-430__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Provisions requiring the carrying out of
+necessary engineering operations, including the construction of terraces,
+terrace outlets, check dikes, dams, ponds, ditches and other necessary
+structures.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-430__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provisions requiring observance of particular
+methods of cultivation, including contour cultivating, contour furrowing,
+lister furrowing, sowing, planting, strip cropping, seeding, and planting of
+lands to water-conserving and erosion-preventing plants, trees and grasses,
+forestation, and revegetation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-430__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Specifications of cropping programs and
+tillage practices to be observed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-430__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Provisions requiring the retirement from
+cultivation of highly erosive areas or of areas on which erosion may not be
+adequately controlled if cultivation is carried on.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-430__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Provisions for such other means, measures,
+operations, and programs as may assist conservation of renewable natural
+resources and prevent or control soil erosion and sedimentation in the
+conservation district, having due regard to the legislative findings set forth
+inNRS 548.095to548.113, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-430__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½revegetationï¿½
+has the meaning ascribed to it inNRS
+528.097.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 9:212:1937; 1931 NCL ï¿½ 6870.09]—(NRS A1973,
+758;2015,
+1985;2021,
+632)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-435">
+          <num>548.435</num>
+          <heading>Uniformity of regulations; availability to occupiers of lands
+within district.</heading>
+          <subsection eId="548-435__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The regulations shall be uniform
+throughout the territory comprising the land use district, except that the
+Commission may classify the lands within the district with reference to such
+factors as soil type, degree of slope, degree of erosion threatened or
+existing, cropping and tillage practices in use, and other relevant factors,
+and may provide regulations varying with the type or class of land affected,
+but uniform as to all lands within each class or type.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-435__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Copies of land use regulations adopted
+under the provisions ofNRS 548.410to548.435, inclusive, shall be printed and
+made available to all occupiers of lands lying within the district.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 9:212:1937; 1931 NCL ï¿½ 6870.09]—(NRS A1973,
+758)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-440">
+          <num>548.440</num>
+          <heading>Enforcement of regulations; damages.</heading>
+          <subsection eId="548-440__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commission or supervisors shall
+have authority to go upon any lands within the land use district to determine
+whether land use regulations adopted under the provisions ofNRS 548.410to548.435, inclusive, are being observed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-440__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commission is authorized to provide
+by ordinance that any land occupier who shall sustain damages from any
+violation of such regulations by any other land occupier may recover damages at
+law from such other land occupier for such violation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [10:212:1937; 1931 NCL ï¿½ 6870.10]—(NRS A1967,
+611;1973,
+759)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-445">
+          <num>548.445</num>
+          <heading>Petition to require observance: Contents; joinder of owner as
+defendant.</heading>
+          <subsection eId="548-445__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Where the Commission shall find that
+any of the provisions of land use regulations prescribed in an ordinance
+adopted in accordance with the provisions ofNRS
+548.410to548.435, inclusive, are
+not being observed on particular lands, and that such nonobservance tends to
+increase erosion on other lands and is interfering with the prevention or
+control of erosion on other lands within a land use district, the Commission
+may present to the district court having jurisdiction a petition, duly
+verified:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-445__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Setting forth the adoption of the ordinance
+prescribing land use regulations, the failure of the defendant land occupier to
+observe such regulations, and to perform particular work, operations or
+avoidances as required thereby, and that such nonobservance tends to increase
+erosion on such lands and is interfering with the prevention or control of
+erosion on other lands within the land use district; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-445__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Praying the court to require the defendant to
+perform the work, operations or avoidances within a reasonable time and to
+order that, if the defendant shall fail so to perform, the Commission may go on
+the land, perform the work or other operations or otherwise bring the condition
+of such lands into conformity with the requirements of such regulations, and
+recover the costs and expenses thereof, with interest, from the occupier of
+such land.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="548-445__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In all cases where the person, in
+possession of lands, who shall fail to perform such work, operations or
+avoidances shall not be the owner, the owner of such lands shall be joined as a
+party defendant.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 11:212:1937; 1931 NCL ï¿½ 6870.11]—(NRS A1973,
+759)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-450">
+          <num>548.450</num>
+          <heading>Petition to require observance: Service of process; hearing;
+appointment of master; order of court.</heading>
+          <subsection eId="548-450__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon the presentation of the petition,
+the court shall cause process to be issued against the defendant, and shall
+hear the case.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-450__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If it shall appear to the court that
+testimony is necessary for the proper disposition of the matter, the court may
+take evidence or appoint a master to take such evidence as it may direct and
+report the same to the court with the masterï¿½s findings of fact and conclusions
+of law, which shall constitute a part of the proceedings upon which the
+determination of the court shall be made.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-450__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The court may dismiss the petition; or
+it may require the defendant to perform the work, operations or avoidances, and
+may provide that upon the failure of the defendant to initiate such performance
+within the time specified in the order of the court, and to prosecute the same
+to completion with reasonable diligence, the Commission may enter upon the
+lands involved and perform the work or operations or otherwise bring the
+condition of such lands into conformity with the requirements of the
+regulations and recover the costs and expenses thereof, with interest at the
+rate of 5 percent per annum, from the occupier of such lands.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 11:212:1937; 1931 NCL ï¿½ 6870.11]—(NRS A1973,
+759)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-455">
+          <num>548.455</num>
+          <heading>Petition to require observance: Court to retain jurisdiction
+until work completed; entry of judgment for costs and expenses; judgment as
+lien.</heading>
+          <subsection eId="548-455__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The court shall retain jurisdiction of
+the case until after the work has been completed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-455__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon completion of such work pursuant
+to such order of the court, the Commission may file a petition with the court,
+a copy of which shall be served upon the defendant in the case, stating the
+costs and expenses sustained by them in the performance of the work and praying
+judgment therefor with interest.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-455__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The court shall have jurisdiction to
+enter judgment for the amount of such costs and expenses, with interest at the
+rate of 5 percent per annum until paid, together with the costs of suit,
+including a reasonable attorneyï¿½s fee to be fixed by the court.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-455__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Commission shall have further
+authority to certify to the county recorder of the county or counties in which
+any of the lands of the land use district are situated the amount of such
+judgment, which shall be a lien upon such lands, and shall be collected as
+general taxes upon real property are collected. The procedure for collection of
+delinquent general taxes upon real property shall be applicable to the
+collection of such judgments. When such judgment shall be paid or collected,
+the proceeds shall be paid over to the Commission.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 11:212:1937; 1931 NCL ï¿½ 6870.11]—(NRS A1973,
+760)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-460">
+          <num>548.460</num>
+          <heading>Board of adjustment: Establishment.</heading>
+          <content>
+            <p>Where
+the Commission shall adopt an ordinance prescribing land use regulations in
+accordance with the provisions ofNRS
+548.410to548.435, inclusive, they shall
+further provide by ordinance for the establishment of a board of adjustment.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 12:212:1937; 1931 NCL ï¿½ 6870.12]—(NRS A1973,
+760)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-465">
+          <num>548.465</num>
+          <heading>Board of adjustment: Number, appointment and terms of members.</heading>
+          <subsection eId="548-465__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board of adjustment shall consist
+of three members appointed by the Commission, with the advice and approval of
+the supervisors of the district or districts for which the board has been
+established.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-465__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each member shall be appointed for a
+term of 3 years, except that the members first appointed shall be appointed for
+terms of 1, 2 and 3 years, respectively.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-465__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Members of the Commission and the
+supervisors of the district or districts shall be ineligible to appointment as
+members of the board of adjustment during their tenure of such other office.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 12:212:1937; 1931 NCL ï¿½ 6870.12]—(NRS A1973,
+760)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-470">
+          <num>548.470</num>
+          <heading>Board of adjustment: Vacancies.</heading>
+          <content>
+            <p>Vacancies
+in the board of adjustment shall be filled in the same manner as original
+appointments, and shall be for the unexpired term of the member whose office
+becomes vacant.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 12:212:1937; 1931 NCL ï¿½ 6870.12]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-475">
+          <num>548.475</num>
+          <heading>Board of adjustment: Removal of member.</heading>
+          <content>
+            <p>A
+member of the board of adjustment shall be removed from office, upon notice and
+hearing, for neglect of duty or malfeasance in office, but for no other reason.
+The hearing shall be conducted jointly by the Commission and the supervisors of
+the district or districts.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 12:212:1937; 1931 NCL ï¿½ 6870.12]—(NRS A1973,
+761)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-480">
+          <num>548.480</num>
+          <heading>Board of adjustment: Compensation of members and employees.</heading>
+          <subsection eId="548-480__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The members of the board of adjustment
+are entitled to receive a salary of not more than $80 per day, as fixed by the
+board, for time spent on the work of the board of adjustment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-480__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>While engaged in the business of the
+board, each member and employee of the board is entitled to receive the per
+diem allowance and travel expenses provided for state officers and employees
+generally.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 12:212:1937; 1931 NCL ï¿½ 6870.12]—(NRS A1973,
+761;1989,
+1719)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-485">
+          <num>548.485</num>
+          <heading>Board of adjustment: Chair.</heading>
+          <subsection eId="548-485__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board of adjustment shall designate
+a chair from among its members, and may, from time to time, change such
+designation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-485__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The chair or, in the chairï¿½s absence,
+such other member of the board as the chair may designate to serve as acting
+chair may administer oaths and compel the attendance of witnesses.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 12:212:1937; 1931 NCL ï¿½ 6870.12]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-490">
+          <num>548.490</num>
+          <heading>Board of adjustment: Meetings; quorum.</heading>
+          <subsection eId="548-490__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Meetings of the board of adjustment
+shall be held at the call of the chair and at such other times as the board may
+determine. All meetings of the board shall be open to the public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-490__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any two members of the board shall
+constitute a quorum.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 12:212:1937; 1931 NCL ï¿½ 6870.12]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-495">
+          <num>548.495</num>
+          <heading>Board of adjustment: Rules; records.</heading>
+          <subsection eId="548-495__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board of adjustment shall adopt
+rules to govern its procedures, which rules shall be in accordance with the
+provisions of this chapter and with the provisions of any ordinance adopted
+pursuant toNRS 548.460.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-495__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The board shall keep a full and
+accurate record of all proceedings, of all documents filed with it, and of all
+orders entered, which shall be filed in the office of the board and shall be a
+public record.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 12:212:1937; 1931 NCL ï¿½ 6870.12]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-500">
+          <num>548.500</num>
+          <heading>Board of adjustment: Commission to pay expenses.</heading>
+          <content>
+            <p>The Commission shall pay the necessary
+administrative and other expenses of operation incurred by the board of
+adjustment, upon the certificate of the chair of the board.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 12:212:1937; 1931 NCL ï¿½ 6870.12]—(NRS A1973,
+761)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-505">
+          <num>548.505</num>
+          <heading>Petition for variance: Notice; hearing; determination of board;
+order.</heading>
+          <subsection eId="548-505__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any land occupier may file a petition
+with the board of adjustment alleging that there are great practical
+difficulties or unnecessary hardship in the way of the petitionerï¿½s carrying
+out upon his or her lands the strict letter of the land use regulations
+prescribed by ordinance approved by the Commission, and praying the board of
+adjustment to authorize a variance from the terms of the land use regulations
+in the application of such regulations to the lands occupied by the petitioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-505__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Copies of such petition shall be served
+by the petitioner upon the Chair of the Commission.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-505__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The board of adjustment shall fix a
+time for the hearing of the petition and cause due notice of such hearing to be
+given.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-505__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The supervisors of the district or
+districts and the Commission shall have the right to appear and be heard at the
+hearing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-505__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Any occupier of lands lying within the
+district who shall object to the authorizing of the variance prayed for may
+intervene and become a party to the proceedings. Any party to the hearing
+before the board of adjustment may appear in person, by agent or by attorney.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-505__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>If, upon the facts presented at the
+hearing, the board of adjustment shall determine that there are great practical
+difficulties or unnecessary hardship in the way of applying the strict letter
+of any of the land use regulations upon the lands of the petitioner, the board
+shall make and record such determination and shall make and record findings of
+fact as to the specific conditions which establish such great practical
+difficulties or unnecessary hardship.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-505__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Upon the basis of such findings and
+determination, the board shall have power by order to authorize such variance
+from the terms of the land use regulations, in their application to the lands
+of the petitioner, as will relieve such great practical difficulties or unnecessary
+hardship and will not be contrary to the public interest, and so that the
+spirit of the land use regulations shall be observed, the public health, safety
+and welfare secured, and substantial justice done.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 12:212:1937; 1931 NCL ï¿½ 6870.12]—(NRS A1973,
+761)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-510">
+          <num>548.510</num>
+          <heading>Procedure for review of order of board of adjustment by district
+court.</heading>
+          <subsection eId="548-510__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any petitioner aggrieved by an order of
+the board of adjustment granting or denying, in whole or in part, the relief
+sought, the supervisors of the district or districts, the Commission or any
+intervening party may obtain a review of such order in district court, by
+filing in such court a petition praying that the order of the board of
+adjustment be modified or set aside.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-510__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A copy of such petition shall forthwith
+be served upon the parties to the hearing before the board of adjustment, and
+thereupon the party seeking review shall file in the court a transcript of the
+entire record in the proceedings, certified by the board of adjustment,
+including the documents and testimony upon which the order complained of was
+entered, and the findings, determination and order of the board of adjustment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-510__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon such filing, the court shall cause
+notice thereof to be served upon the parties and shall have jurisdiction of the
+proceedings and of the questions determined or to be determined therein, and
+shall have power to grant such temporary relief as it deems just and proper,
+and to make and enter a decree enforcing, modifying and enforcing as so
+modified, or setting aside, in whole or in part, the order of the board of
+adjustment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-510__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>No contention that has not been urged
+before the board of adjustment shall be considered by the court unless the
+failure or neglect to urge such contention shall be excused because of
+extraordinary circumstances.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-510__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The findings of the board of adjustment
+as to the facts, if supported by evidence, shall be conclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-510__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>If any party shall apply to the court
+for leave to produce additional evidence and shall show to the satisfaction of
+the court that such evidence is material and that there were reasonable grounds
+for the failure to produce such evidence in the hearing before the board of
+adjustment, the court may order such additional evidence to be taken before the
+board of adjustment and to be made a part of the transcript. The board of
+adjustment may modify its findings as to the facts or make new findings, taking
+into consideration the additional evidence so taken and filed, and the board of
+adjustment shall file such modified or new findings, which, if supported by
+evidence, shall be conclusive, and shall file with the court its
+recommendations, if any, for the modification or setting aside of its original
+order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-510__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The jurisdiction of the court shall be
+exclusive and its judgment and decree shall be final, except that the same
+shall be subject to review in the same manner as are other judgments or decrees
+of the court.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 12:212:1937; 1931 NCL ï¿½ 6870.12]—(NRS A1973,
+762)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-515">
+          <num>548.515</num>
+          <heading>Procedure for inclusion of land.</heading>
+          <subsection eId="548-515__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Petitions for including additional
+territory within an existing district shall be filed with the Commission.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-515__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The proceedings provided for in this
+chapter in the case of petitions to organize a district shall be observed in
+the case of petitions for inclusion, except that the application for a
+certificate of inclusion shall be signed by the chair and the secretary of the
+governing body of the district into which the additional territory is to be
+included.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-515__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commission shall prescribe the form
+for the petitions, which shall be, as nearly as practicable, in the form
+prescribed in this chapter for petitions to organize a district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-515__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Where the total number of land
+occupiers in the area proposed for inclusion shall be less than 25, the
+petition may be filed when signed by a majority of the occupiers of such area,
+and in such case no referendum need be held.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-515__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>In referenda upon petitions for
+inclusion, all occupiers of land lying within the proposed additional area
+shall be eligible to vote.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-515__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Commission shall determine whether
+or not such inclusion shall be made.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:212:1937; A1947,
+431;1951,
+190]—(NRS A1973,
+763;2011,
+2486)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-520">
+          <num>548.520</num>
+          <heading>Procedure for exclusion of land.</heading>
+          <subsection eId="548-520__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Petitions to withdraw lands from a
+district may be filed with the Commission at any time.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-520__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commission shall prescribe the form
+of the petition, which shall be, as nearly as practicable, in the form
+prescribed in this chapter for petitions to organize a district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-520__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Where the total number of land
+occupiers in the area affected by a proposed withdrawal will be less than 25,
+the petition may be filed when signed by a majority of the occupiers of such
+area, and in such case no referendum need be held.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-520__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In referenda upon petitions for
+withdrawal, all occupiers of land lying within the area affected by the
+proposed change in boundary shall be eligible to vote.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-520__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Commission shall determine whether
+or not such withdrawal shall be made.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [5.5:212:1937; added1955,
+154]—(NRS A1960,
+73;1973,
+763;2011,
+2487)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-525">
+          <num>548.525</num>
+          <heading>Petition for discontinuance; determination of need for
+referendum.</heading>
+          <subsection eId="548-525__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>At any time after 5 years after the
+organization of a district under the provisions of this chapter, any 10
+occupiers of land lying within the boundaries of such district may file a
+petition with the Commission praying that the operations of the district be
+terminated and the existence of the district be discontinued.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-525__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commission may conduct such public
+meetings and public hearings upon such petition as may be necessary to assist
+it in the consideration thereof.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-525__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commission shall determine, on the
+basis of information presented in the petition or brought out in public
+hearings and on the basis of the number of petitioners in relation to the total
+number of occupiers of land lying within the district, whether it can render a
+reasonable determination of approval or denial of the petition without holding
+a referendum, or whether a referendum shall be held.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 15:212:1937; 1931 NCL ï¿½ 6870.15]—(NRS A1973,
+764;2011,
+2487)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-530">
+          <num>548.530</num>
+          <heading>Referendum on petition for discontinuance.</heading>
+          <subsection eId="548-530__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Within 60 days after a petition for
+discontinuance has been received by the Commission, it shall give due notice of
+the holding of the referendum if one is to be held.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-530__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commission shall supervise the
+referendum and issue appropriate regulations governing the conduct thereof.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-530__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The question shall be submitted by
+ballots upon which the words ï¿½For terminating the existence of the
+................ (name of the conservation district to be here inserted)ï¿½ and
+ï¿½Against terminating the existence of the ............... (name of the
+conservation district to be here inserted)ï¿½ shall be printed, with a square
+before each proposition and a direction to insert an X mark in the square
+before one or the other of the propositions, as the voter may favor or oppose
+discontinuance of such district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-530__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>All persons determined by the county
+clerk or clerks to be registered voters residing within the district are
+eligible to vote in such referendum.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-530__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>No informalities in the conduct of such
+referendum or in any matters relating thereto invalidate the referendum or the
+result thereof if notice thereof was given substantially as provided in this
+chapter and the referendum was fairly conducted.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-530__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Commission shall publish the result
+of the referendum.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 15:212:1937; 1931 NCL ï¿½ 6870.15]—(NRS A1973,
+764;1975,
+906;2011,
+2487)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-535">
+          <num>548.535</num>
+          <heading>Discontinuance of district on determination that continued
+operation is not administratively practicable or feasible.</heading>
+          <subsection eId="548-535__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commission shall consider the
+information and facts presented in the petition and brought out in any public
+hearings that may be held and the result of the referendum if one is held, and
+shall thereafter determine whether the continued operation of the district is
+administratively practicable and feasible.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-535__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Commission determines that the
+continued operation of such district is administratively practicable and
+feasible, the Commission shall record such determination and deny the petition.
+The Commission shall not determine that the continued operation of the district
+is administratively practicable and feasible unless the number of petitioners
+comprises less than a majority of the registered voters in the district or
+unless at least a majority of the votes cast in the referendum were cast in
+favor of the continuance of such district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-535__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Commission determines that the
+continued operation of the district is not administratively practicable and
+feasible, the Commission shall record such determination and shall certify such
+determination to the supervisors of the district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-535__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In making such determination the
+Commission shall give due regard and weight to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="548-535__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The attitudes of the occupiers of lands lying
+within the district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-535__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The number of eligible registered voters who
+voted in the referendum.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-535__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The proportion of petitioners to the total
+number of land occupiers in the district, and the proportion of the votes cast
+in favor of the discontinuance of the district to the total number of votes
+cast.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-535__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The approximate wealth and income of the land
+occupiers of the district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-535__subsec_4__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The probable expense of carrying on
+erosion-control operations within such district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="548-535__subsec_4__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Such other economic and social factors as may
+be relevant to such determination, having due regard to the legislative
+findings as set forth inNRS 548.095to548.113, inclusive.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 15:212:1937; 1931 NCL ï¿½ 6870.15]—(NRS A1973,
+764;1975,
+906;2015,
+1986)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-540">
+          <num>548.540</num>
+          <heading>Limitation on subsequent petitions for discontinuance of
+district.</heading>
+          <content>
+            <p>The Commission shall not
+entertain petitions for the discontinuance of any district, nor conduct
+referenda upon such petitions, nor make any determination pursuant to such petitions
+in accordance with the provisions of this chapter, more often than once in 5
+years.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 15:212:1937; 1931 NCL ï¿½ 6870.15]—(NRS A1973,
+765;2011,
+2488)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-545">
+          <num>548.545</num>
+          <heading>Procedure on discontinuance of district; certificate of
+dissolution.</heading>
+          <subsection eId="548-545__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon receipt from the Commission of a
+certification that the Commission has determined that the continued operation
+of the district is not administratively practicable and feasible, pursuant to
+the provisions ofNRS 548.535, the
+supervisors shall forthwith proceed to terminate the affairs of the district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-545__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The supervisors shall dispose of all
+property belonging to the district at public auction and shall pay over the
+proceeds of the sale to the State Treasurer for deposit in the State Treasury.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-545__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The supervisors shall thereupon file an
+application with the Program for the discontinuance of the district, and shall
+transmit with the application the certificate of the Commission setting forth
+the determination of the Commission that the continued operation of the
+district is not administratively practicable and feasible. The application must
+recite that the property of the district has been disposed of and the proceeds
+paid over as provided in this section, and must set forth a full accounting of
+those properties and proceeds of the sale.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-545__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Program shall issue to the
+supervisors a certificate of dissolution and shall record the certificate in an
+appropriate book of records.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 15:212:1937; 1931 NCL ï¿½ 6870.15]—(NRS A1973,
+765;1985,
+782;2011,
+2488)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_548-550">
+          <num>548.550</num>
+          <heading>Effect of certificate of dissolution.</heading>
+          <subsection eId="548-550__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon the issuance of a certificate of
+dissolution under the provisions ofNRS
+548.545, all ordinances and regulations theretofore adopted and in force
+within such district shall be of no further force and effect.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-550__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All contracts theretofore entered into,
+to which the district or supervisors are parties, shall remain in force and
+effect for the period provided in such contracts. The Commission shall be
+substituted for the district or supervisors as a party to such contracts. The
+Commission shall be entitled to all benefits and shall be subject to all
+liabilities under such contracts and shall have the same right and liability to
+perform, to require performance, to sue and be sued thereon, and to modify or
+terminate such contracts by mutual consent or otherwise, as the supervisors of
+the district would have had.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="548-550__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Such dissolution shall not affect the
+lien of any judgment entered under the provisions ofNRS 548.455, nor the pendency of any action
+instituted under the provisions ofNRS
+548.445and548.450, and the
+Commission shall succeed to all the rights and obligations of the district or
+supervisors as to such liens and actions.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 15:212:1937; 1931 NCL ï¿½ 6870.15]—(NRS A1973,
+766;2011,
+2488)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

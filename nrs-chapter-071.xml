@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-71"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-71"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="71"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-71/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-71/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-71/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-71/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_71">
+        <num>71</num>
+        <heading>PROVISIONAL REMEDIES</heading>
+        <section eId="sec_71-010">
+          <num>71.010</num>
+          <heading>Order of arrest and arrest of defendant.</heading>
+          <subsection eId="71-010__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In an action for the recovery of money
+or damages on a cause of action arising upon contract, express or implied, when
+the defendant is about to depart from the State with intent to defraud his or
+her creditors.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="71-010__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In an action for a fine or penalty, or
+for money or property embezzled or fraudulently misapplied or converted to his
+or her own use by one who received it in a fiduciary capacity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="71-010__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>When the defendant has been guilty of a
+fraud in contracting the debts or incurring the obligation for which the action
+is brought.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="71-010__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>When the defendant has removed,
+concealed or disposed of his or her property, or is about to do so, with intent
+to defraud his or her creditors.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 802; A1913,
+364; NCL ï¿½ 9291]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_71-020">
+          <num>71.020</num>
+          <heading>Affidavit and undertaking for order of arrest.</heading>
+          <content>
+            <p>Before an order for an arrest can be made, the
+party applying must prove to the satisfaction of the justice, by the affidavit
+of himself or herself or some other person, the facts upon which the application
+is founded. The plaintiff must also execute and deliver to the justice a
+written undertaking in the sum of $300, with sufficient sureties, to the effect
+that the plaintiff will pay all costs that may be adjudged to the defendant,
+and all damages which the defendant may sustain by reason of the arrest, if the
+same be wrongful or without sufficient cause, not exceeding the sum specified
+in the undertaking.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 803; RL ï¿½ 5745; NCL ï¿½ 9292]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_71-030">
+          <num>71.030</num>
+          <heading>Arrested defendant immediately taken before justice.</heading>
+          <content>
+            <p>The defendant, immediately upon being
+arrested, shall be taken to the office of the justice who made the order, and
+if the justice is absent or unable to try the action, or if it appears to such
+justice by the affidavit of defendant that the justice is a material witness in
+the action, the officer shall immediately take the defendant before a justice
+of another township, who shall take jurisdiction of the action and proceed
+thereon as if the summons had been issued and the order of arrest made by that
+justice.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 804; RL ï¿½ 5746; NCL ï¿½ 9293]—(NRS A1959,
+48)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_71-040">
+          <num>71.040</num>
+          <heading>Arresting officer must give notice of arrest to plaintiff.</heading>
+          <content>
+            <p>The officer making the arrest must immediately
+give notice thereof to the plaintiff or the plaintiffï¿½s attorney or agent, and
+endorse on the summons, and subscribe a certificate, stating the time of
+serving the same, the time of the arrest and of giving notice to the plaintiff.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 805; RL ï¿½ 5747; NCL ï¿½ 9294]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_71-050">
+          <num>71.050</num>
+          <heading>Arresting officer must keep defendant in custody.</heading>
+          <content>
+            <p>The officer making the arrest must keep the
+defendant in custody until the defendant is discharged by order of the justice.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 806; RL ï¿½ 5748; NCL ï¿½ 9295]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_71-090">
+          <num>71.090</num>
+          <heading>Applicability ofchapter 31of NRS to justice courts.</heading>
+          <content>
+            <p>The provisions ofchapter
+31of NRS are applicable to attachments issued in justice courts, the word
+ï¿½constableï¿½ being substituted for the word ï¿½sheriff,ï¿½ whenever the writ is
+directed to a constable, and the word ï¿½justiceï¿½ being substituted for the word
+ï¿½judge.ï¿½</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 810; A1913,
+364;1933,
+85; 1931 NCL ï¿½ 9299]—(NRS A1973,
+1189)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_71-100">
+          <num>71.100</num>
+          <heading>Enforcement; applicability of other provisions of NRS.</heading>
+          <content>
+            <p>In an action to recover possession of personal
+property, the plaintiff may, at the time of issuing summons, or at any time
+thereafter before answer, claim the delivery of such property.NRS 31.840to31.950, inclusive, are applicable to such
+claim when made in justice courts, the powers therein given and duties imposed
+on sheriffs being extended to constables, and the word ï¿½justiceï¿½ being
+substituted for the word ï¿½judge.ï¿½</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 811; RL ï¿½ 5753; NCL ï¿½ 9300]—(NRS A1973,
+1152)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

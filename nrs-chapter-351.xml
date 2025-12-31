@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-351"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-351"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="351"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-351/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-351/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-351/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-351/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_351">
+        <num>351</num>
+        <heading>FACSIMILE SIGNATURES OF</heading>
+        <section eId="sec_351-010">
+          <num>351.010</num>
+          <heading>Short title.</heading>
+          <content>
+            <p>This
+chapter may be cited as the Uniform Facsimile Signatures of Public Officials
+Act.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+4)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_351-020">
+          <num>351.020</num>
+          <heading>Definitions.</heading>
+          <subsection eId="351-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Authorized officerï¿½ means any official
+of this state or any of its departments, agencies or other instrumentalities or
+any of its political subdivisions whose signature to a public security or
+instrument of payment is required or permitted.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="351-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½Facsimile signatureï¿½ means a
+reproduction by engraving, imprinting, stamping or other means of the manual
+signature of an authorized officer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="351-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>ï¿½Instrument of paymentï¿½ means a check,
+draft, warrant or order for the payment, delivery or transfer of funds.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="351-020__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>ï¿½Public securityï¿½ means a bond, note,
+certificate of indebtedness or other obligation for the payment of money,
+issued by this state or by any of its departments, agencies or other
+instrumentalities or by any of its political subdivisions.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+4)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_351-030">
+          <num>351.030</num>
+          <heading>Execution of public security or instrument of payment with
+facsimile signature.</heading>
+          <subsection eId="351-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any public security, if at least one
+signature required or permitted to be placed thereon shall be manually
+subscribed; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="351-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any instrument of payment.
+ï¿½Upon
+compliance with this chapter by the authorized officer, his or her facsimile
+signature has the same legal effect as his or her manual signature.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+4)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_351-040">
+          <num>351.040</num>
+          <heading>Use of facsimile seal.</heading>
+          <content>
+            <p>When
+the seal of this state or any of its departments, agencies or other
+instrumentalities or of any of its political subdivisions is required in the
+execution of a public security or instrument of payment, the authorized officer
+may cause the seal to be printed, engraved, stamped or otherwise placed in
+facsimile thereon. The facsimile seal has the same legal effect as the
+impression of the seal.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+4)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_351-050">
+          <num>351.050</num>
+          <heading>Use of facsimile signatures otherwise authorized by law.</heading>
+          <content>
+            <p>Nothing in this chapter shall be construed to
+prohibit the use of a facsimile signature where otherwise authorized by law.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+4)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_351-060">
+          <num>351.060</num>
+          <heading>Unlawful acts; penalty.</heading>
+          <subsection eId="351-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A facsimile signature, or any
+reproduction of it, of any authorized officer; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="351-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any facsimile seal, or any reproduction
+of it, of this state or any of its departments, agencies or other
+instrumentalities or of any of its political subdivisions,
+ï¿½is guilty of
+a category D felony and shall be punished as provided inNRS 193.130.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+4; A1967,
+555;1979,
+1465;1995,
+1270)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

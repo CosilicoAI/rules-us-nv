@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-691A"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-691A"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="691A"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-691A/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-691A/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-691A/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-691A/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_691A">
+        <num>691A</num>
+        <heading>PROPERTY INSURANCE</heading>
+        <section eId="sec_691A-010">
+          <num>691A.010</num>
+          <heading>Applicability of other provisions.</heading>
+          <content>
+            <p>All
+contracts of property insurance covering subjects located in this state are
+subject to the applicable provisions ofchapter
+687Bof NRS (the insurance contract), and to other applicable provisions of
+this Code.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1779)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_691A-020">
+          <num>691A.020</num>
+          <heading>Insurer of certain manufactured homes or mobile homes required
+to offer coverage which pays replacement value in event of total loss of
+manufactured home or mobile home; exception.</heading>
+          <subsection eId="691A-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3, each insurer which provides a policy for a personal line of
+property insurance covering a manufactured home or mobile home in Nevada that
+was manufactured within the immediately preceding 15 years shall offer to an
+insured, on a form approved by the Commissioner and in addition to any other
+insurance, the option of purchasing insurance to pay the replacement value of
+the manufactured home or mobile home in the event of a total loss of the
+manufactured home or mobile home, including the reasonable costs for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="691A-020__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Transporting and installing the replacement
+manufactured home or mobile home; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="691A-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Debris removal.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="691A-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Nothing in this section requires any
+insurer to offer any insurance on manufactured homes or mobile homes at a
+premium which is not fair and adequate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="691A-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The provisions of this section do not
+apply to a policy of insurance placed on a manufactured home or a mobile home
+by a creditor or lender.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="691A-020__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="691A-020__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Manufactured homeï¿½ has the meaning ascribed
+to it inNRS 489.113.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="691A-020__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Replacement valueï¿½ means the amount needed
+to repair, replace or rebuild a damaged or destroyed manufactured home or
+mobile home using new materials of similar kind and quality with no deduction
+for depreciation. The term does not include the value of land.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+475; A2011,
+3387)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_691A-030">
+          <num>691A.030</num>
+          <heading>Loans secured by real property: Lender prohibited from requiring
+borrower to insure improvements to property for more than their replacement
+value.</heading>
+          <subsection eId="691A-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A lender shall not require a borrower,
+as a condition of obtaining or maintaining a loan secured by real property, to
+provide property insurance on improvements to real property in an amount that
+exceeds the reasonable replacement value of the improvements.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="691A-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="691A-030__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Borrowerï¿½ means a mortgagor, grantor of a
+deed of trust or other debtor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="691A-030__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Improvement to real propertyï¿½ means a
+fixture, building or other structure attached to real property and intended as
+a permanent addition to the property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="691A-030__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>ï¿½Lenderï¿½ means a mortgagee, beneficiary of a
+deed of trust or other creditor who holds a mortgage, deed of trust or other
+instrument that encumbers real property as security for the repayment of a debt.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1465)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_691A-040">
+          <num>691A.040</num>
+          <heading>Regulations.</heading>
+          <content>
+            <p>The
+Commissioner may adopt regulations to carry out the provisions of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2011,
+3387)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

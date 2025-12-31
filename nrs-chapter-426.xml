@@ -1,0 +1,3229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-426"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-426"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="426"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-426/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-426/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-426/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-426/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_426">
+        <num>426</num>
+        <heading>PERSONS WITH DISABILITIES</heading>
+        <section eId="sec_426-010">
+          <num>426.010</num>
+          <heading>Purposes of chapter.</heading>
+          <subsection eId="426-010__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To relieve persons with disabilities
+from the distress of poverty;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-010__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To encourage and assist persons with
+disabilities in their efforts to render themselves more self-supporting; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-010__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>To enlarge the opportunities of persons
+with disabilities to obtain education, vocational training and employment.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:369:1953]—(NRS A1963,
+316;1993,
+2789;2003,
+2629)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-020">
+          <num>426.020</num>
+          <heading>Liberal construction.</heading>
+          <content>
+            <p>The
+provisions of this chapter shall be liberally construed to effect their objects
+and purposes.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [3:369:1953]—(NRS A1963,
+316)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-031">
+          <num>426.031</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 426.045to426.099, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1916; A1987,
+823;1993,
+1616;1995,
+1992;2003,
+2974)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-045">
+          <num>426.045</num>
+          <heading>ï¿½Bureauï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Bureauï¿½
+means the Bureau of Services to Persons Who Are Blind or Visually Impaired in
+the Division.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1916; A1997,
+1170)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-061">
+          <num>426.061</num>
+          <heading>ï¿½Departmentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Departmentï¿½
+means the Department of Employment, Training and Rehabilitation.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1916; A1993,
+1616)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-065">
+          <num>426.065</num>
+          <heading>ï¿½Directorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Directorï¿½
+means the Director of the Department.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1916)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-068">
+          <num>426.068</num>
+          <heading>ï¿½Disabilityï¿½ defined.</heading>
+          <subsection eId="426-068__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A physical or mental impairment that
+substantially limits one or more of the major life activities of the person;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-068__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A record of such an impairment; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-068__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Being regarded as having such an
+impairment.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2973)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-071">
+          <num>426.071</num>
+          <heading>ï¿½Divisionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Divisionï¿½
+means the Rehabilitation Division of the Department.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1916)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-082">
+          <num>426.082</num>
+          <heading>ï¿½Person who is blindï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Person
+who is blindï¿½ means any person whose visual acuity with correcting lenses does
+not exceed 20/200 in the better eye, or whose vision in the better eye is
+restricted to a field which subtends an angle of not greater than 20ï¿½.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1916)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-084">
+          <num>426.084</num>
+          <heading>ï¿½Person who is deafï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Person
+who is deafï¿½ means any person who, by reason of the loss or impairment of
+hearing, has an aural disability which limits, contributes to limiting or
+which, if not corrected, will probably result in limiting the activities or
+functions of the person.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1916; A2003,
+2630)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-097">
+          <num>426.097</num>
+          <heading>ï¿½Service animalï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Service
+animalï¿½ has the meaning ascribed to it in 28 C.F.R. ï¿½ 36.104 and includes a
+miniature horse that has been trained to do work or perform tasks for the
+benefit of a person with a disability.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1992; A1999,
+2515;2003,
+2630,2974;2015,
+270)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-099">
+          <num>426.099</num>
+          <heading>ï¿½Service animal in trainingï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Service
+animal in trainingï¿½ means a dog or a miniature horse that is being trained as a
+service animal.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2973; A2015,
+270)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-401">
+          <num>426.401</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 426.401to426.461, inclusive, unless the context
+otherwise requires, the words and terms defined inNRS 426.411,426.421and426.431have the meanings ascribed to them
+in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1158)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-411">
+          <num>426.411</num>
+          <heading>ï¿½Departmentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Departmentï¿½
+means the Department of Motor Vehicles.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1158; A2001,
+2610)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-421">
+          <num>426.421</num>
+          <heading>ï¿½Expedited service permitï¿½ defined.</heading>
+          <subsection eId="426-421__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Is issued by the Department pursuant to
+the provisions ofNRS 426.441to a
+person with a permanent disability; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-421__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Entitles the person to expedited
+service pursuant to the provisions ofNRS
+426.451.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1158)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-431">
+          <num>426.431</num>
+          <heading>ï¿½Person with a permanent disabilityï¿½ defined.</heading>
+          <subsection eId="426-431__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>With a disability which limits or
+impairs the ability to walk, as defined inNRS
+482.3835; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-431__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Whose disability has been certified by
+a licensed physician as irreversible.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1158)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-441">
+          <num>426.441</num>
+          <heading>Application; issuance; requirements; review of eligibility; fee;
+regulations.</heading>
+          <subsection eId="426-441__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person with a permanent disability
+may apply to the Department for an expedited service permit. The application
+must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-441__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be submitted on a form approved by the
+Department; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-441__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Include a statement from a licensed physician
+certifying that the applicant is a person with a permanent disability.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-441__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon receipt of a completed application
+pursuant to subsection 1 and the payment of any required fee, the Department
+shall issue a permit to the applicant. The permit must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-441__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Set forth the name and address of the person
+to whom it is issued;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-441__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Include a colored photograph of the applicant
+and the international symbol of access which must be white on a blue
+background;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-441__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Include any other information the Department
+may require; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-441__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Be the same size as a driverï¿½s license issued
+by the Department pursuant to the provisions ofchapter
+483of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-441__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A permit is valid for 10 years after
+the date of issuance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-441__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Department may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-441__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>At any time review its determination of
+whether a holder of a permit is eligible for issuance of the permit pursuant to
+the provisions of this section. If the Department determines that a holder of a
+permit is not eligible for issuance of the permit, the Department shall notify
+the person of that fact in writing. Upon receipt of the notice, the holder
+shall, as soon as practicable, surrender the permit to the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-441__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Charge a fee for the issuance of a permit
+pursuant to the provisions of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-441__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Adopt regulations necessary to carry out the
+provisions ofNRS 426.401to426.461, inclusive.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1158; A2005,
+231)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-451">
+          <num>426.451</num>
+          <heading>Presentation to officer or employee of state agency; duty of
+officer or employee to provide expedited services.</heading>
+          <subsection eId="426-451__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person to whom an expedited service
+permit is issued pursuant to the provisions ofNRS 426.441, or a person who is assisting
+him or her, may present the permit to any officer or employee of a state agency
+who is, at the time the permit is presented, providing any services of the
+agency to the public. The permit must be presented during the regular business
+hours of the agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-451__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon presentation of the permit, the
+officer or employee to whom the permit is presented shall, before serving any
+other person who is waiting to receive services, serve or otherwise accommodate
+the person to whom the permit is issued.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1159)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-461">
+          <num>426.461</num>
+          <heading>Unlawful acts; penalty.</heading>
+          <subsection eId="426-461__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>It is unlawful for a person, other than
+a person to whom an expedited service permit is issued pursuant to the
+provisions ofNRS 426.441, to use or
+attempt to use such a permit to obtain services from a state agency pursuant to
+the provisions ofNRS 426.451.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-461__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who violates a provision of
+this subsection is guilty of a misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1159)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-510">
+          <num>426.510</num>
+          <heading>Restrictions on use of service animal and white or metallic
+cane; duties of pedestrian; penalty.</heading>
+          <subsection eId="426-510__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsections 2, 3 and 4, a person shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-510__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Use a service animal; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-510__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Carry or use on any street or highway or in
+any other public place a cane or walking stick which is white or metallic in
+color, or white tipped with red.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-510__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who is blind may use a service
+animal and a cane or walking stick which is white or metallic in color, or
+white tipped with red.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-510__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person who is deaf may use a service
+animal.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-510__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A person with a disability not
+described in subsection 2 or 3 may use a service animal.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-510__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Any pedestrian who approaches or
+encounters a person who is blind using a service animal or carrying a cane or
+walking stick, white or metallic in color, or white tipped with red, shall
+immediately come to a full stop and take such precautions before proceeding as
+may be necessary to avoid accident or injury to the person who is blind.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-510__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Any person other than a person who is
+blind who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-510__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Uses a service animal or carries a cane or
+walking stick such as is described in this section, contrary to the provisions
+of this section;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-510__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Fails to heed the approach of a person using
+a service animal or carrying such a cane as is described by this section;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-510__subsec_6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Fails to come to a stop upon approaching or
+coming in contact with a person so using a service animal or so carrying such a
+cane or walking stick; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-510__subsec_6__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Fails to take precaution against accident or
+injury to such a person after coming to a stop as provided for in this section,
+ï¿½is guilty of
+a misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-510__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>This section does not apply to any
+person who is instructing a person who is blind, person who is deaf or person
+with any other disability or training a service animal.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:58:1939; 1931 NCL ï¿½ 2323] + [2:58:1939; 1931 NCL ï¿½
+2323.01] + [3:58:1939; 1931 NCL ï¿½ 2323.02]—(NRS A1969,
+511;1981,
+670,1916;1987,
+823;1995,
+1992;2003,
+2630,2974;2005,
+626;2015,
+270,1673)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-515">
+          <num>426.515</num>
+          <heading>Failure to carry white or metallic cane or use service animal as
+evidence of contributory negligence in action against common carrier or place
+of public accommodation.</heading>
+          <subsection eId="426-515__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Person who is blind to carry a white or
+metallic colored cane or to use a service animal;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-515__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Person who is deaf to use a service
+animal; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-515__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Person with a disability not described
+in subsection 1 or 2 to use a service animal,
+ï¿½does not constitute
+contributory negligence per se, but may be admissible as evidence of
+contributory negligence in a personal injury action by that person against a
+common carrier or any other means of public conveyance or transportation or a
+place of public accommodation as defined byNRS
+651.050when the injury arises from the person who is blind, person who is
+deaf or person with any other disability making use of the facilities or
+services offered by the carrier or place of public accommodation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+807; A1981,
+1917;1987,
+824;1995,
+1993;2003,
+2631;2005,
+627;2015,
+271)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-517">
+          <num>426.517</num>
+          <heading>Purposes of provisions.</heading>
+          <subsection eId="426-517__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Provide vocational rehabilitation
+services to persons who are blind so that they may prepare for and engage in
+competitive integrated employment;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-517__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Promote vocational rehabilitation
+services and related activities which will assist persons who are blind to
+reach their fullest potential; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-517__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Encourage and develop facilities and
+other resources needed by persons who are blind to engage in competitive
+integrated employment.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+260)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-518">
+          <num>426.518</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 426.517to426.610, inclusive, the words and terms
+defined inNRS 426.519to426.526, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+112; A2017,
+260)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-519">
+          <num>426.519</num>
+          <heading>ï¿½Administratorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Administratorï¿½
+means the Administrator of the Division.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+112)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-5192">
+          <num>426.5192</num>
+          <heading>ï¿½Competitive integrated employmentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Competitive integrated employmentï¿½ has the
+meaning ascribed to it in 29 U.S.C. ï¿½ 705.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+260)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-520">
+          <num>426.520</num>
+          <heading>ï¿½Person who is blindï¿½ further defined.</heading>
+          <subsection eId="426-520__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Is described inNRS 426.082; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-520__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Has a loss or impairment of eyesight
+which constitutes a substantial impediment to employment for which vocational
+rehabilitation services:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-520__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>May reasonably be expected to prepare the
+person to engage in competitive integrated employment which is consistent with
+the abilities of the person; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-520__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Are necessary to determine the rehabilitation
+potential of the person.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+781; A1959,
+148;1963,
+920;1965,
+771;1967,
+1162;1973,
+1388;1981,
+1917;2005,
+114;2017,
+260)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-523">
+          <num>426.523</num>
+          <heading>ï¿½Substantial impediment to employmentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Substantial impediment to employmentï¿½ means
+that a loss or impairment of eyesight, in light of attendant medical,
+psychological, vocational, cultural, social or environmental factors, hampers a
+personï¿½s occupational performance by preventing the person from obtaining,
+retaining or preparing for competitive integrated employment consistent with
+the capabilities and abilities of the person.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+260)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-526">
+          <num>426.526</num>
+          <heading>ï¿½Vocational rehabilitation servicesï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Vocational rehabilitation servicesï¿½ means any
+goods and services necessary to prepare a person who is blind to engage in
+competitive integrated employment or to determine the rehabilitation potential
+of the person.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+260)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-531">
+          <num>426.531</num>
+          <heading>Administration by Department.</heading>
+          <content>
+            <p>The
+Department, through the Director, shall administer the provisions ofNRS 426.517to426.610, inclusive, as the sole agency in
+the State for such purpose.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+1388; A2017,
+261)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-550">
+          <num>426.550</num>
+          <heading>Administrator as head of Bureau; powers and duties of Bureau.</heading>
+          <subsection eId="426-550__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Bureau must be headed by the
+Administrator.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-550__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Bureau shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-550__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Assist persons who are blind in achieving
+physical and psychological orientation and inform persons who are blind of
+available services to assist persons who are blind in achieving their
+vocational goals.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-550__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide intensive programs of education,
+training, job development, physical restoration and such other services and
+equipment as may prepare persons who are blind to engage in competitive
+integrated employment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-550__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Provide vocational rehabilitation services
+directly or through other governmental entities or persons to any person who is
+blind, including any person who is blind who is eligible under the terms of an
+agreement or arrangement with the Federal Government, another state or an
+Indian tribe.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-550__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Bureau may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-550__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Provide for treatment or operations to
+prevent blindness or restore vision to recipients of services to persons who
+are blind who request and are eligible for such services under federal law and
+make written application for such treatment or operations; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-550__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Pay for necessary expenses incurred in
+connection with the diagnosis and treatment provided under paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-550__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-550__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½stateï¿½
+includes, without limitation, the District of Columbia, Puerto Rico, the United
+States Virgin Islands and Guam.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+782; A1959,
+148;1963,
+318,1183;1965,
+771;1967,
+1162;1973,
+1388;1975,
+1008;2005,
+114,627;2017,
+261)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-555">
+          <num>426.555</num>
+          <heading>Administrator to prepare required reports.</heading>
+          <content>
+            <p>Subject to the approval of the Director, the
+Administrator or a representative designated by the Administrator shall prepare
+reports for the Federal Government pursuant to the Vocational Rehabilitation
+Act Amendments of 1965, Title 29 of U.S.C., as amended, any future amendments
+thereof and the regulations promulgated thereunder.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+803; A1973,
+419,1389;1975,
+68;2005,
+114)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-560">
+          <num>426.560</num>
+          <heading>Regulations.</heading>
+          <subsection eId="426-560__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Subject to the approval of the
+Department, the Division shall direct the Bureau to adopt administrative
+regulations to enforce the provisions of this chapter related to services for
+persons who are blind, which regulations must not conflict with the provisions
+of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-560__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The regulations must recognize that the
+vocational needs and problems of persons who are blind are unique to them and
+may differ materially from the vocational needs and problems of other persons.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+782; A1963,
+319,1183;1965,
+771;1967,
+1162;1973,
+1389;1981,
+1918;2005,
+628;2017,
+261)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-561">
+          <num>426.561</num>
+          <heading>Authority of Division to adopt, amend and repeal policies;
+public meeting required.</heading>
+          <subsection eId="426-561__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To the extent required by 34 C.F.R. ï¿½
+361.50, the Division may adopt, amend and repeal policies concerning the nature
+and scope of vocational rehabilitation services provided to persons who are
+blind.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-561__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any adoption, amendment or repeal of a
+policy pursuant to subsection 1 must occur at a public meeting held in
+compliance with the provisions set forth inchapter
+241of NRS concerning open meetings.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+260)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-563">
+          <num>426.563</num>
+          <heading>Costs of administration.</heading>
+          <content>
+            <p>Costs
+of administration ofNRS 426.517to426.715, inclusive, shall be paid out on
+claims presented by the Bureau in the same manner as other claims against the
+State are paid.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1579; A1973,
+1389;2021,
+839)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-567">
+          <num>426.567</num>
+          <heading>State Grant and Gift Account for Persons Who Are Blind.</heading>
+          <subsection eId="426-567__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>All gifts of money which the Bureau is
+authorized to accept must be deposited in the State Treasury for credit to the
+State Grant and Gift Account for Persons Who Are Blind in the Department of
+Employment, Training and Rehabilitationï¿½s Gift Fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-567__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Grant and Gift Account must
+be used for the purposes specified by the donor or for the purpose of carrying
+out the provisions of this chapter and other programs or laws administered by
+the Bureau.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-567__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>All claims must be approved by the
+Administrator before they are paid.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+804; A1973,
+1390;1979,
+621;1981,
+77;1993,
+1617;2005,
+114)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-570">
+          <num>426.570</num>
+          <heading>Employees.</heading>
+          <subsection eId="426-570__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>All employees of the Bureau are
+directly responsible to the Administrator.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-570__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Such employees must consist of persons
+skilled in the vocational rehabilitation of persons who are blind to allow such
+persons to engage in competitive integrated employment.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+782; A1963,
+921;1965,
+771;1973,
+1390;2005,
+115;2017,
+261)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-573">
+          <num>426.573</num>
+          <heading>Confidentiality of information concerning applicant for or
+recipient of services; exceptions; penalty.</heading>
+          <subsection eId="426-573__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, a person shall not solicit, disclose, receive or make use of, or
+authorize, knowingly permit, participate in or acquiesce in the use of any list
+of, or names of, or any information concerning persons who are blind applying
+for or receiving any services directly or indirectly derived from the records,
+papers, files or communications of the Bureau, or acquired in the course of the
+performance of its official duties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-573__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Information with respect to any
+individual applying for or receiving services for persons who are blind may be
+received, used or disclosed by the Bureau or any of its employees to any
+person, association or body:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-573__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If such receipt, use or disclosure is related
+directly to carrying out the provisions ofNRS
+426.517to426.610, inclusive;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-573__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>As required by statute, regulation or court
+order;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-573__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>To protect an applicant, recipient or other
+person if the applicant or recipient poses a threat to his or her own safety or
+the safety of others; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-573__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Upon written permission of the applicant or
+recipient.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-573__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person who violates the provisions of
+this section is guilty of a misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+805; A1973,
+1390;2005,
+628;2017,
+262)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-575">
+          <num>426.575</num>
+          <heading>Payment of allowance for maintenance to trainee in advance.</heading>
+          <content>
+            <p>When a person who is blind who is eligible to
+receive a maintenance allowance while pursuing a training program administered
+by the Bureau is accepted for such a training program, the Bureau may in its
+discretion pay any installment of such maintenance allowance in advance, based
+upon the amount allowed to the person, and adjust any succeeding payment to
+reflect actual duration of training during the period for which such advance
+was made.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+876; A1973,
+1391)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-590">
+          <num>426.590</num>
+          <heading>Bureau as licensing agency under federal law.</heading>
+          <content>
+            <p>The Bureau is hereby designated as the
+licensing agency for the purposes of 20 U.S.C. ï¿½ï¿½ 107a to 107f, inclusive, and
+acts amendatory thereto, and the Bureau is authorized to comply with such
+requirements as may be necessary to qualify for federal approval and achieve
+maximum federal participation in the Vending Facility Program established byNRS 426.630to426.715, inclusive, under such federal
+statutes.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+782; A1965,
+772;1973,
+1391;1975,
+127;2021,
+839)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-600">
+          <num>426.600</num>
+          <heading>Denial of services prohibited; exceptions.</heading>
+          <subsection eId="426-600__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Unless comparable services and benefits
+must be used pursuant to 34 C.F.R. ï¿½ 361.53, no person who is blind who may
+benefit from services authorized underNRS
+426.517to426.610, inclusive, and
+is eligible to receive such services under federal law may be denied such
+services except the services for which a determination of economic need is
+required by the policies adopted pursuant toNRS
+426.561.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-600__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½comparable
+services and benefitsï¿½ has the meaning ascribed to it in 34 C.F.R. ï¿½ 361.5.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+782; A1963,
+319;1967,
+1056;1981,
+1904;2017,
+262)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-610">
+          <num>426.610</num>
+          <heading>Fair hearing before hearing officer; judicial review.</heading>
+          <subsection eId="426-610__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who is blind applying for or
+receiving services from the Bureau who is aggrieved by an act, determination or
+omission of the Bureau is entitled, in accordance with regulations, to a fair
+hearing before a hearing officer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-610__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who is blind who is aggrieved
+by the decision of a hearing officer is entitled to judicial review of the
+decision in the manner provided bychapter 233Bof NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+782; A1959,
+148;1963,
+921;1965,
+772;1967,
+1163;1973,
+1391;1989,
+1654;2005,
+628;2017,
+262)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-630">
+          <num>426.630</num>
+          <heading>Definitions.</heading>
+          <subsection eId="426-630__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Licenseeï¿½ means a person who is blind
+and who is licensed by the Bureau to operate a vending facility in or on a
+public building or property or on federal property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-630__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½Nevada Committee of Vendors Who Are
+Blindï¿½ means the Committee of Vendors Who Are Blind elected pursuant toNRS 426.670and 34 C.F.R. ï¿½ 395.14.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-630__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>ï¿½Operateï¿½ means to be responsible for
+the day-to-day operation of a vending facility, including, without limitation,
+purchasing products for resale, hiring employees and performing other duties
+associated with managing a vending facility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-630__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>ï¿½Public building or propertyï¿½:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-630__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-630__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>, means any portion of any building, land or other real property, owned,
+leased or occupied by any public entity except public elementary and secondary
+schools, the Nevada System of Higher Education, the Nevada State Park System,
+the Department of Corrections, an airport authority operating in this State and
+a department of aviation which is operated by a political subdivision of this
+State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-630__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Does not include any building, land or other
+real property that is:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="426-630__subsec_4__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Leased to a private entity; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="426-630__subsec_4__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Operated pursuant to an operating
+agreement,
+ï¿½for the
+purposes of live entertainment, as defined inNRS 368A.090.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-630__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>ï¿½Public entityï¿½ means any department,
+agency or political subdivision of the State, any department or agency of a
+political subdivision of the State or any public or quasi-public corporation
+that is supported in whole or in part by public money. The term includes,
+without limitation, a regional transportation commission, an irrigation
+district or water district created under the laws of the State of Nevada, and
+all boards, commissions and committees created by a public entity or the
+Legislature.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-630__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>ï¿½Vending facilityï¿½ means an automatic
+vending machine, cafeteria, snack bar, cart service, shelter, counter and other
+appropriate auxiliary equipment that is necessary for the sale of newspapers,
+periodicals, confections, tobacco products, foods, beverages and other articles
+or services dispensed or provided automatically or manually. The term includes,
+without limitation, the vending or exchange of tickets or similar items for
+participation in any lottery that is authorized under the laws of this State
+and is conducted by an agency of this State within this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-630__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>ï¿½Vending Facility Programï¿½ means the
+program established byNRS 426.630to426.715, inclusive, to provide for the
+operation of vending facilities by licensees.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+169; A1961,
+330;1963,
+921;1965,
+772;1967,
+1163;1969,
+1448;1973,
+73,1392,1495;1981,
+1918;1985,
+2313;1987,
+1741;1993,
+401;2001
+Special Session, 239;2021,
+840)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-640">
+          <num>426.640</num>
+          <heading>Operation of vending facilities by licensees; priority of right
+in or on certain public buildings or properties; waiver of priority.</heading>
+          <subsection eId="426-640__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>For the purposes of providing persons
+who are blind with remunerative employment, enlarging the economic
+opportunities of persons who are blind and stimulating persons who are blind to
+greater efforts to make themselves self-supporting with independent
+livelihoods, such persons licensed under the provisions ofNRS 426.630to426.715, inclusive, by the Bureau:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-640__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided in subsection 2,
+have priority of right to operate vending facilities in or on any public
+buildings or properties where the locations are determined by the Bureau to be
+suitable, pursuant to the procedure provided inNRS 426.630to426.715, inclusive. The Bureau, on behalf
+of licensees, has the right of first refusal with regard to the operation of
+any vending facility in or on any public building or property. Any agreement to
+operate a vending facility entered into on or after July 1, 2021, by a public
+entity that has care, custody and control of a public building or property with
+an entity other than the Bureau is void if the Bureau notifies the public
+entity that it intends to exercise the priority established by this paragraph.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-640__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May operate vending facilities in or on
+buildings or properties of the Nevada State Park System, with the approval of
+the Bureau and the Administrator of the Division of State Parks.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-640__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>May operate vending facilities in or on
+buildings or properties of the Department of Corrections:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="426-640__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>If the Director of the Department of
+Corrections voluntarily chooses to have the Department of Corrections
+participate in the Vending Facility Program; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="426-640__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>With the approval of the Bureau and
+the Department of Corrections.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="426-640__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>May operate vending facilities in or on
+buildings or properties of the Nevada System of Higher Education, including,
+without limitation, in or on buildings or properties of a university, state
+college or community college within the System, with the approval of the Bureau
+and the System or the university, state college or community college having care,
+custody and control of the building or property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-640__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>May operate vending facilities in or on a
+public building or property of an airport authority operating in this State or
+a department of aviation operated by a political subdivision of this State if:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="426-640__subsec_1__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The airport authority or department of
+aviation, as applicable, chooses to participate in the Vending Facility
+Program; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="426-640__subsec_1__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>That participation complies with all
+local, state and federal statutes and regulations that govern the operations of
+the public building or property of the airport authority or department of
+aviation, as applicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-640__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon determining that a location is not
+suitable for a vending facility to be operated by a licensee, the Bureau may
+waive the priority established by paragraph</p>
+            </content>
+            <paragraph eId="426-640__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1. The waiver
+must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-640__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be in writing;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-640__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Set forth the conditions under which the
+waiver may be revoked or modified; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-640__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Be signed by the Administrator of the
+Division or his or her designee.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+169; A1963,
+922;1965,
+773;1973,
+73,1393;1985,
+2313;2021,
+841)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-650">
+          <num>426.650</num>
+          <heading>Notice to Bureau by public entity of location of and license,
+permit and lease for any vending facility.</heading>
+          <subsection eId="426-650__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Not less than 60 days prior to the
+request for proposals concerning, occupation of, reactivation of, leasing of,
+re-leasing of, licensing of or issuance of a permit for operation of any
+vending facility in or on a public building or property, inform the Bureau of
+such contemplated action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-650__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Inform the Bureau of any locations
+where such vending facilities are planned in or about other public buildings or
+properties as may now or thereafter come under the jurisdiction of a public
+entity, such information to be given not less than 60 days prior to the request
+for proposals concerning, occupation of, reactivation of, leasing of,
+re-leasing of, licensing of or issuance of a permit for operation of any
+vending facility in or on such public building or property.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+170; A1963,
+922;1965,
+773;1973,
+1393;2021,
+842)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-660">
+          <num>426.660</num>
+          <heading>Acquisition, construction, remodeling or improvement of public
+building: Planning for vending facility.</heading>
+          <content>
+            <p>To
+effectuate further the purposes ofNRS
+426.630to426.715, inclusive, when
+new construction, remodeling, leasing, acquisition or improvement of public
+buildings or properties is authorized, consideration must be given to planning
+and making available suitable space and facilities for the establishment of at
+least one vending facility to be operated by a licensee. Written notice must be
+given to the Bureau by the person or agency having charge of the planning and
+design of any such project within 30 days after the commencement of the
+planning and design of the project.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+170; A1973,
+73,1393;1989,
+1596;2021,
+842)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-665">
+          <num>426.665</num>
+          <heading>Construction of building by Bureau; approval of Legislature.</heading>
+          <content>
+            <p>If a suitable location is available for a
+vending facility which requires the construction of a permanent building, the
+Bureau may construct such building, but only after obtaining approval of the
+Legislature.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1961,
+330; A1965,
+773;1973,
+1393;2021,
+842)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-670">
+          <num>426.670</num>
+          <heading>Powers and duties of Bureau relating to Program; regulations;
+powers and duties of public entity that has care, custody or control of certain
+public buildings or property relating to Program; conflicting contractual
+provisions void.</heading>
+          <subsection eId="426-670__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Bureau shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-670__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Make surveys of public buildings and
+properties to determine their suitability as locations for vending facilities
+to be operated by licensees and advise the heads of the public entities that
+have care, custody and control of the public buildings or properties of its
+findings.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-670__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Select, train, license and assign qualified
+persons who are blind to operate vending facilities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-670__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as otherwise provided in this
+paragraph, execute agreements with licensees to operate vending facilities. The
+agreements must prescribe the responsibilities of the licensee and the Bureau
+to ensure the efficient operation of the vending facility. The Bureau shall not
+execute an agreement which obligates the Bureau, under any circumstances, to
+make payments on a loan to a licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-670__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Provide for the election of the Nevada
+Committee of Vendors Who Are Blind by licensees in this State in accordance
+with 34 C.F.R. ï¿½ 395.14.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-670__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Establish and effectuate such regulations as
+it may deem necessary to carry out the purposes ofNRS 426.630to426.715, inclusive, and ensure the proper
+and satisfactory operation of vending facilities. The regulations must provide
+a method for setting aside money from the net proceeds of vending facilities
+and provide for the payment and collection thereof.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-670__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a survey conducted pursuant to
+paragraph</p>
+            </content>
+            <paragraph eId="426-670__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1 indicates that a public building or property is a
+suitable location for a vending facility to be operated by a licensee and the
+Bureau wishes to exercise, on behalf of the licensee, the priority of the
+licensee, the public entity that has care, custody and control of the public
+building or property shall cooperate with the Bureau to discuss options for a
+vending facility. If the public entity reaches agreement with the Bureau
+regarding the operation of a vending facility at the location, the public
+entity shall cooperate with the Bureau to ensure the establishment of one or
+more vending facilities in or on the public building or property. The Bureau
+may enter into a contract with such a public entity concerning the operation of
+the vending facilities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-670__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Bureau may enter into contracts
+with third-party vendors to establish and operate vending facilities when a
+licensee is not available, the projected sales are insufficient to support a licensee
+or other extenuating circumstances exist. These contracts must include
+provisions for the payment of money to the Bureau based on net proceeds from
+the vending facilities. The Bureau may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-670__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Assign the money to licensees for the
+maintenance of their incomes; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-670__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Use the money for any purpose authorized byNRS 426.675.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-670__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Bureau may, by regulation, provide:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-670__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Methods for recovering the cost of
+establishing vending facilities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-670__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Penalties for failing to file reports or make
+payments required byNRS 426.630to426.715, inclusive, or a regulation adopted
+pursuant to those sections when they are due.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-670__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Uniform methods for selecting and assigning a
+licensee to operate a vending facility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-670__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Procedures to terminate the license of a
+licensee who is improperly operating a vending facility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-670__subsec_4__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A process for providing an opportunity for a
+hearing for a licensee who is aggrieved by an action of the Bureau.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-670__subsec_4__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A process for active participation by the
+Nevada Committee of Vendors Who Are Blind in major administrative decisions
+concerning the Vending Facility Program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-670__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A public entity that has care, custody
+and control of a public building or property in or on which a vending facility
+is established:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-670__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise authorized by a contract
+entered into pursuant to subsection 6, shall not require the Bureau, a licensee
+or a third-party vendor to pay any rent, fee, utility charge, commission,
+incentive or assessment related to the vending facility. Such a prohibited
+payment includes, without limitation, a fee for the maintenance of landscaping
+or a common area.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-670__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May enter into an agreement with the Bureau
+to recover the increases in utility costs where there is a direct, measurable
+and proportional increase in such costs as a result of the operation of the
+vending facility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-670__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Bureau may, at its discretion,
+enter into a contract with a public entity that has care, custody and control
+of a public building or property that contains provisions that are less
+restrictive than the provisions of this section, including, without limitation,
+provisions for the payment of an incentive by a licensee to the public entity,
+if the Bureau, in its discretion, determines that the circumstances justify
+such less restrictive provisions. The establishment of a vending facility must
+not, under any circumstances, be contingent upon the payment of an incentive to
+a public entity. The Bureau shall not agree to any payment that reduces the
+profits of the vending facility to the extent that the vending facility is not
+viable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-670__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Any provision in a lease, licensing
+agreement, contract or other agreement relating to a vending facility
+established pursuant to this section that conflicts with this section is void.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+170; A1961,
+331;1963,
+923;1965,
+774;1973,
+74,1394;1975,
+199;1983,
+298;1993,
+103;2013,
+827;2021,
+842)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-672">
+          <num>426.672</num>
+          <heading>Powers and duties of Bureau concerning training.</heading>
+          <subsection eId="426-672__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Bureau shall establish a training
+program for persons who wish to become licensees. The training must include,
+without limitation, a standard curriculum and on-the-job training while working
+for a vending facility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-672__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Bureau may designate not more than
+two vending facilities as training sites to be operated by the Bureau or a
+third-party vendor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-672__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Bureau may waive any training
+required pursuant to this section for a person who is blind and is otherwise
+qualified to operate a vending facility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-672__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Bureau shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-672__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Provide licensees with upward mobility
+training; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-672__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Assist the Nevada Committee of Vendors Who
+Are Blind in sponsoring meetings and training conferences for licensees.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+839)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-675">
+          <num>426.675</num>
+          <heading>Business Enterprise Account for Persons Who Are Blind.</heading>
+          <subsection eId="426-675__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Business Enterprise Account for
+Persons Who Are Blind is hereby created within the State General Fund and must
+be managed by the Administrator of the Division.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-675__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Money received by the Bureau under the
+provisions ofNRS 426.670, except
+commissions assigned to licensees, must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-675__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be deposited in the Business Enterprise
+Account for Persons Who Are Blind.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-675__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided in subsection 5,
+remain in the Account and not revert to the State General Fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-675__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Be used for:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="426-675__subsec_2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Purchasing, maintaining or replacing
+vending facilities or the equipment therein;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="426-675__subsec_2__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Maintaining a stock of equipment,
+parts, accessories and merchandise used or planned for use in the Vending
+Facility Program;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="426-675__subsec_2__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Management services, including,
+without limitation, supervision, inspection, quality control, consultation,
+accounting, regulating, in-service training and other related services provided
+on a systematic basis to support and improve vending facilities; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="426-675__subsec_2__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Other purposes, consistent withNRS 426.640, as may be provided by
+regulation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-675__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Purchases made pursuant to paragraph</p>
+            </content>
+            <paragraph eId="426-675__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 2 are exempt from the provisions of the State Purchasing Act
+at the discretion of the Administrator of the Purchasing Division of the
+Department of Administration or his or her designated representative.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-675__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Bureau shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-675__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Maintain current inventory records of all
+equipment, parts, accessories and merchandise charged to the Business
+Enterprise Account for Persons Who Are Blind;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-675__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Conduct a periodic physical count of all such
+equipment, parts, accessories and merchandise; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-675__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Reconcile the results of the periodic
+physical count with the inventory records and cash balance in the Account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-675__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If the Business Enterprise Account for
+Persons Who Are Blind is dissolved or the Vending Facility Program is
+terminated, the Administrator of the Division shall, within 60 days after the
+dissolution or termination:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-675__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Provide an accounting of the money remaining
+in the Account to all licensees; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-675__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Distribute any money remaining in the Account
+to each licensee in proportion to the amount of time that the licensee has held
+his or her license.
+ï¿½The Division
+shall, in consultation with the Nevada Committee of Vendors Who Are Blind or
+its successor organization, adopt regulations to carry out the provisions of
+this subsection.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-675__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Money from any source which may
+lawfully be used for the Vending Facility Program may be transferred or
+deposited by the Bureau to the Business Enterprise Account for Persons Who Are
+Blind.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-675__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The interest and income earned on the
+money in the Business Enterprise Account for Persons Who Are Blind, after
+deducting any applicable charges, must be credited to the Account.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1961,
+330; A1963,
+923;1965,
+774;1973,
+74,1394;1975,
+199;1977,
+44;1983,
+1585;1989,
+1471;1993,
+1618;2005,
+115;2013,
+828;2021,
+844)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-677">
+          <num>426.677</num>
+          <heading>Management of money received from vending facility when licensee
+unavailable or temporarily unable to operate facility.</heading>
+          <subsection eId="426-677__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Bureau may, in interim periods when
+a licensee is not available to operate a vending facility and its continuous
+operation is required, establish a checking account in a depository bank or
+credit union qualified to receive deposits of public money pursuant tochapter 356of NRS. All money received from the
+vending facility during the interim period must be deposited to the account,
+and all expenses necessary to maintain the interim operation of the facility
+must be paid from the account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-677__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the licensee who operated the
+vending facility returns after a temporary disability less than 6 months after
+becoming unavailable to operate the vending facility because of the disability,
+the Bureau shall prepare a financial report and close the checking account by
+making a check in the amount of any balance remaining in the account payable to
+the licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-677__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the licensee who operated the vending
+facility experiences a disability and is unable to return within 6 months after
+becoming unavailable to operate the vending facility because of the disability,
+the Bureau shall prepare a financial report and make a check in the amount of
+the balance of the account at the time at which the check is made but such
+amount must not exceed the amount of the balance of the account on the date 6
+months after the date on which the licensee became unavailable to operate the
+vending facility payable to the licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-677__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a licensee, other than the one who
+previously operated the vending facility, is permanently assigned to the
+vending facility, the Bureau shall prepare a financial report and close the
+checking account by making a check in the amount of any balance remaining in
+the account payable to the Business Enterprise Account for Persons Who Are
+Blind.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1979,
+330; A1989,
+1472;1999,
+1495;2021,
+845)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-685">
+          <num>426.685</num>
+          <heading>Establishment of vending facility in or on building or property
+that is not public building or property; owner of building may enter into
+contract requiring incentive pay.</heading>
+          <subsection eId="426-685__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Bureau may establish a vending
+facility in or on a building or property that is not a public building or
+property if the owner of the building or property consents and enters into a
+contract with the Bureau.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-685__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection, the owner of a building or property in or on which a vending
+facility is established pursuant to subsection 1 may enter into a contract with
+the Bureau that requires the licensee to pay an incentive to the owner of the
+building or property. An incentive may not be paid to the owner of a building
+or property with respect to a vending facility located in a portion of the
+building or property leased or rented to a public entity.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+72; A1973,
+1406;2013,
+829;2021,
+846)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-690">
+          <num>426.690</num>
+          <heading>Limitation on commodities, articles and services sold at vending
+facility.</heading>
+          <content>
+            <p>A vending facility
+operated under the provisions ofNRS 426.630to426.715, inclusive, must be used
+solely for the vending of such commodities, articles and services as may be
+approved by the Bureau and the public entity that has care, custody and control
+of the public building or property in or on which the vending facility is
+operated.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+171; A1963,
+924;1965,
+775;1973,
+1395;2021,
+846)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-695">
+          <num>426.695</num>
+          <heading>Operator of vending facility may keep service animal on premises.</heading>
+          <content>
+            <p>A licensee who operates a vending facility
+pursuant to the provisions ofNRS 426.630to426.715, inclusive, may keep a
+service animal with him or her at all times on the premises where that vending
+facility is located.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+1496; A1995,
+1993;2005,
+628;2021,
+846)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-700">
+          <num>426.700</num>
+          <heading>Applicability of laws and ordinances to licensee operating
+vending facility.</heading>
+          <subsection eId="426-700__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The provisions of any and all laws and
+ordinances applying within the territory within which the vending facility is
+located, including those requiring a license or permit for the conduct of such
+business or any particular aspect thereof.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-700__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions ofchapter 446of NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+171; A1961,
+331;2021,
+847)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-710">
+          <num>426.710</num>
+          <heading>Management of operations of Program by nonprofit organization.</heading>
+          <content>
+            <p>The Bureau may, after actively consulting with
+the Nevada Committee of Vendors Who Are Blind, utilize an appropriate nonprofit
+organization organized under the laws of this State to manage any portion of
+the operations of the Vending Facility Program, including, without limitation,
+supervising or managing a licensee. Any such arrangement must comply with 34
+C.F.R. ï¿½ 395.15.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+171; A1963,
+924;1965,
+775;1967,
+1164;1973,
+1395;1993,
+1619;2021,
+847)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-713">
+          <num>426.713</num>
+          <heading>Resolution of certain disputes relating to Program: Complaint;
+hearing; judicial review of decision of hearing officer.</heading>
+          <subsection eId="426-713__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, if a dispute arises between a public entity that has care,
+custody and control of a public building or property and the Bureau concerning
+any matter related to the Vending Facility Program, either party may file a
+complaint describing the dispute with the Hearings Division of the Department
+of Administration.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-713__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Hearings Division may not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-713__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Hear a complaint concerning the status of a
+licensee or third-party vendor operating a vending facility under an agreement
+with the Bureau; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-713__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Award damages as a result of a hearing on a
+complaint filed pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-713__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Not later than 30 days after a
+complaint is filed pursuant to subsection 1:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-713__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Hearings Division shall appoint a hearing
+officer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-713__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The hearing officer shall set a date for a
+hearing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-713__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, a hearing must be conducted in accordance withNRS 233B.121to233B.150, inclusive. The hearing officer
+may issue a ruling based on the briefs submitted by the parties without hearing
+additional evidence.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-713__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A decision of the hearing officer made
+pursuant to this section is a final decision for purposes of judicial review
+and may be appealed to the district court pursuant to the provisions ofchapter 233Bof NRS. Any such appeal must be
+filed not later than 30 days after the date of service of the final decision of
+the hearing officer.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+839)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-715">
+          <num>426.715</num>
+          <heading>Penalty for unlawful sale, solicitation or delivery of certain
+commodities in or on public building or property; exemptions.</heading>
+          <subsection eId="426-715__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person licensed by or under contract
+to the Bureau;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-715__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who delivers a commodity to a
+licensee or for the account of a licensee;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-715__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person who is raising money for the
+charitable activities of a corporation organized for educational, religious,
+scientific, charitable or eleemosynary purposes under the provisions ofchapter 82of NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-715__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Public employees jointly sharing in the
+cost of coffee or other beverages purchased by them for their own use, if there
+is no commercial arrangement for the delivery of products and supplies to the
+public building or property;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-715__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A public employee who is located in or
+on the public building or property and initiates an order or purchase of food
+or beverages for his or her own use from a restaurant which is not located in
+or on the public building or property;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-715__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A person who is delivering food or
+beverages from a restaurant to a public employee who is located in or on the
+public building or property pursuant to an order or purchase as described in
+subsection 5;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-715__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>A person who is catering an event
+inside or otherwise delivering food or beverages to the Legislative Building;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-715__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>A person who is authorized to conduct
+such an activity under the terms of a contract, lease or other arrangement with
+a municipality pursuant toNRS 496.090.
+This subsection must not be construed to limit the priority of right
+established inNRS 426.640.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+890; A1987,
+768;1991,
+1316;2003,
+2095;2021,
+847)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-721">
+          <num>426.721</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 426.721to426.729, inclusive, unless the context
+otherwise requires, the words and terms defined inNRS 426.723to426.727, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3106; A2009,
+659;2017,
+1512)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-723">
+          <num>426.723</num>
+          <heading>ï¿½Minimum essential personal assistanceï¿½ defined.</heading>
+          <subsection eId="426-723__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Eating;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-723__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Bathing;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-723__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Toileting;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-723__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Dressing;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-723__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Moving about; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-723__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Taking care of himself or herself.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3106)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-7235">
+          <num>426.7235</num>
+          <heading>ï¿½Nevada Commission on Services for Persons with Disabilitiesï¿½
+defined.</heading>
+          <content>
+            <p>ï¿½Nevada Commission on
+Services for Persons with Disabilitiesï¿½ means the Nevada Commission on Services
+for Persons with Disabilities created byNRS
+427A.1211.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+655)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-724">
+          <num>426.724</num>
+          <heading>ï¿½Reasonably adequate state fundingï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Reasonably adequate state fundingï¿½ means the
+amount of state funding that can reasonably be accommodated within state
+budgetary limitations, as determined by the Governor and the Legislature for each
+biennial session of the Legislature.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3106)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-725">
+          <num>426.725</num>
+          <heading>ï¿½Recipientï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Recipientï¿½
+means a recipient of minimum essential personal assistance through a state
+personal assistance program.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3106)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-726">
+          <num>426.726</num>
+          <heading>ï¿½Severe functional disabilityï¿½ defined.</heading>
+          <subsection eId="426-726__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any physical or mental condition
+pursuant to which a person is unable, without substantial assistance from
+another person, to eat, bathe and toilet.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-726__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A traumatic brain injury.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3106; A2007,
+155)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-727">
+          <num>426.727</num>
+          <heading>ï¿½State personal assistance programï¿½ defined.</heading>
+          <content>
+            <p>ï¿½State personal assistance programï¿½ means a
+program established pursuant toNRS 422.396,427A.250or427A.793.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3106; A2003,
+2631;2009,
+2377)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-728">
+          <num>426.728</num>
+          <heading>State personal assistance programs required to make services
+available.</heading>
+          <subsection eId="426-728__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each state personal assistance program
+must make available, within a reasonable period after receiving a request
+therefor and in accordance with any conditions upon the receipt of federal
+funding and considering the amount of reasonably adequate state funding,
+community-based services to provide minimum essential personal assistance to
+residents of this State with severe functional disabilities who would, with the
+provision of that assistance, be able to live safely and independently in their
+communities outside of an institutional setting.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-728__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions ofNRS 426.721to426.729, inclusive, must not be construed
+to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-728__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Prevent a person with a severe functional
+disability from receiving more than 6 hours of minimum essential personal
+assistance per day from a state personal assistance program if such assistance
+is available pursuant to the program; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-728__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prevent a person with a disability other than
+a severe functional disability from receiving services from a state personal
+assistance program if such assistance is available pursuant to the program.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3106; A2017,
+1512)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-729">
+          <num>426.729</num>
+          <heading>Duties of Director of Department of Health and Human Services.</heading>
+          <subsection eId="426-729__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Determine the amount of state funding
+necessary each biennium to carry outNRS
+426.728.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-729__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Ensure that the amount of funding
+determined to be necessary pursuant to subsection 1 is included in the
+budgetary request of the appropriate department or agency for the biennium, and
+that the budgetary request includes funding for any increase in the number of
+cases handled by the state personal assistance programs.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-729__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Establish a program to govern the
+services provided to carry outNRS 426.728,
+within the limitations of any conditions upon the receipt of state or federal
+funding, including:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-729__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Minimum standards for the provision of
+minimum essential personal assistance, including, to the extent authorized by
+state and federal law, the provision of services in accordance withNRS 629.091;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-729__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Minimum qualifications and training
+requirements for providers of minimum essential personal assistance;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-729__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Standards for the financial operation of
+providers of minimum essential personal assistance;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-729__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The development of an individual service plan
+for the provision of minimum essential personal assistance to each recipient;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-729__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Procedures to appeal the denial or
+modification of an individual service plan for the provision of minimum
+essential personal assistance and to resolve any disputes regarding the
+contents of such a plan;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-729__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Continuous monitoring of the adequacy and
+effectiveness of the provision of minimum essential personal assistance to each
+recipient;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-729__subsec_3__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Mandatory requirements and procedures for
+reporting the abuse, neglect or exploitation of a recipient;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-729__subsec_3__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The receipt of meaningful input from
+recipients, including surveys of recipients, regarding the extent to which
+recipients are receiving the services described in their individual service
+plans and their satisfaction with those services; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-729__subsec_3__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Continuing procedures for soliciting public
+input regarding the development, implementation and review of the program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-729__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Review and modify the program
+established pursuant to subsection 3 as appropriate to provide recipients with
+as much independence and control over the provision of minimum essential
+personal assistance as is feasible.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3107; A2003,
+2631;2007,
+155;2009,
+659;2019,
+1012)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-740">
+          <num>426.740</num>
+          <heading>Refueling of vehicle for driver with physical disability;
+charging greater price for fuel prohibited; exception; penalty.</heading>
+          <subsection eId="426-740__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every person who operates a service
+station or retail store which sells fuel for motor vehicles to the public
+shall, upon request, refuel a vehicle for a driver with a physical disability.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-740__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The price of the fuel charged to such a
+driver must not be greater than the price which would be charged to any other
+person for the fuel if that person had personally refueled the vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-740__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>This section does not apply to a
+service station or a retail store which sells fuel if the service station or
+retail store does not provide a person to refuel the motor vehicles of its
+customers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-740__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A person who violates any provision of
+this section is guilty of a misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+545; A2003,
+2633)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-790">
+          <num>426.790</num>
+          <heading>Unlawfully interfering with or allowing dog or other animal to
+interfere with use of service animal or service animal in training; unlawfully
+beating or killing service animal or service animal in training; penalties.</heading>
+          <subsection eId="426-790__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-790__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Without legal justification, interfere with,
+or allow a dog or other animal the person owns, harbors or controls to
+interfere with, the use of a service animal or service animal in training by
+obstructing, intimidating or otherwise jeopardizing the safety of the service
+animal or service animal in training or the person using the service animal or
+service animal in training.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-790__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Willfully and maliciously beat a service
+animal or service animal in training.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-790__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Willfully and maliciously kill a service
+animal or service animal in training.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-790__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Unless a greater penalty is provided inNRS 206.150, a person who violates:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-790__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-790__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1 is guilty of a
+gross misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-790__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-790__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 is guilty of a
+category E felony and shall be punished as provided inNRS 193.130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-790__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-790__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 1 is guilty of a
+category D felony and shall be punished as provided inNRS 193.130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-790__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person who violates paragraph</p>
+            </content>
+            <paragraph eId="426-790__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-790__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-790__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 1 is, in addition to any criminal penalty that may be
+imposed, civilly liable to the person against whom the violation was committed
+as provided inNRS 426.820.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-790__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In addition to any other penalty, the
+court shall order a person convicted of a violation of paragraph</p>
+            </content>
+            <paragraph eId="426-790__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-790__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-790__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 1 to pay restitution to the person who has the disability or
+the person who has custody or ownership of the service animal or service animal
+in training for any veterinary bills, and for the replacement cost of the
+service animal or service animal in training if it was killed or disabled or
+has become mentally or physically unable to perform its duties. The restitution
+must cover all costs for aides, assistance, transportation and other hardships
+incurred during the absence, and until the replacement, of the service animal
+or service animal in training.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1916; A1987,
+824;1995,
+1993;1999,
+2516;2001,
+2891;2003,
+2975;2005,
+628)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-800">
+          <num>426.800</num>
+          <heading>Fraudulent acts: Penalty; presumption.</heading>
+          <subsection eId="426-800__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 426.461, a person who knowingly obtains
+or attempts to obtain, or aids or abets any person to obtain by means of a
+willfully false statement or representation or by impersonation, or other
+fraudulent device, services to which he or she is not entitled, or services
+greater than those to which he or she is entitled, with the intent to defeat
+the purposes of this chapter, is guilty of a gross misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-800__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For the purposes of subsection 1, if a
+recipient of services pursuant to the provisions of this chapter receives an
+overpayment for the third time and the overpayments have resulted from a false
+statement or representation by the recipient or from the failure of the
+recipient to notify the Bureau of a change in his or her circumstances which
+would affect the amount of services the person receives, a rebuttable
+presumption arises that the payment was fraudulently received.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+483; A1973,
+1406;1975,
+1009;1993,
+1619;1999,
+1159)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-805">
+          <num>426.805</num>
+          <heading>Fraudulent misrepresentation of animal as service animal or
+service animal in training unlawful; penalty.</heading>
+          <subsection eId="426-805__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>It is unlawful for a person to
+fraudulently misrepresent an animal as a service animal or service animal in
+training.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-805__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person convicted of fraudulently
+misrepresenting an animal as a service animal or service animal in training is guilty
+of a misdemeanor and shall be punished by a fine of not more than $500.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+626)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-810">
+          <num>426.810</num>
+          <heading>Allowing dog or other animal to injure or kill service animal or
+service animal in training unlawful; allowing dog or other animal to endanger
+or injure person accompanied by service animal or service animal in training
+unlawful; penalties.</heading>
+          <subsection eId="426-810__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>It is unlawful for a person to allow a
+dog or other animal that the person owns, harbors or controls to cause injury
+to or the death of any service animal or service animal in training, or to
+endanger or cause injury to a person who has a disability and is accompanied by
+a service animal or a person who trains service animals and is accompanied by a
+service animal in training.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="426-810__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any person, including, without
+limitation, any firm, association or corporation, who violates the provisions
+of subsection 1:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="426-810__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is guilty of a misdemeanor and shall be
+punished by a fine of not more than $500; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-810__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In addition to any criminal penalty that may
+be imposed, is civilly liable to the person against whom the violation was
+committed as provided inNRS 426.820.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-810__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In addition to any other penalty, the
+court shall order a person convicted of a violation of subsection 1 to pay
+restitution to the person who has the disability or the person who has custody
+or ownership of the service animal or service animal in training for any
+veterinary bills, and for the replacement cost of the service animal or service
+animal in training if it was killed or disabled or has become mentally or
+physically unable to perform its duties. The restitution must cover all costs
+for aides, assistance, transportation and other hardships incurred during the
+absence, and until the replacement, of the service animal or service animal in
+training.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2973; A2005,
+629)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_426-820">
+          <num>426.820</num>
+          <heading>Civil liability for engaging in certain prohibited acts
+concerning service animals or service animals in training.</heading>
+          <subsection eId="426-820__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to any criminal penalty
+that may be imposed, any person, including, without limitation, any firm,
+association or corporation, who violates the provisions of paragraph</p>
+            </content>
+            <paragraph eId="426-820__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-820__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-820__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 1 ofNRS 426.790or
+subsection 1 ofNRS 426.810is civilly
+liable to the person against whom the violation was committed for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-820__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Actual damages;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-820__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Such punitive damages as may be determined by
+a jury, or by a court sitting without a jury, which must not be more than three
+times the amount of actual damages, except that in no case may the punitive
+damages be less than $750; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="426-820__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Reasonable attorneyï¿½s fees as determined by
+the court.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="426-820__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The remedies provided in this section
+are nonexclusive and are in addition to any other remedy provided by law,
+including, without limitation, any action for injunctive or other equitable
+relief available to the aggrieved person or brought in the name of the people
+of this State or the United States.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2973; A2005,
+629)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

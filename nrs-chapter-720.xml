@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-720"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-720"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="720"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-720/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-720/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-720/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-720/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_720">
+        <num>720</num>
+        <heading>DIGITAL SIGNATURES</heading>
+        <section eId="sec_720-010">
+          <num>720.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 720.020to720.130, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1953; A2001,
+2722)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-020">
+          <num>720.020</num>
+          <heading>ï¿½Asymmetric cryptosystemï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Asymmetric
+cryptosystemï¿½ means an algorithm or series of algorithms that provide a secure
+key pair.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1953)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-030">
+          <num>720.030</num>
+          <heading>ï¿½Certificateï¿½ defined.</heading>
+          <subsection eId="720-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Identifies the certification authority
+using it;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Identifies a subscriber;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-030__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Sets forth the public key of the
+subscriber; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-030__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Is digitally signed by the
+certification authority issuing it.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1953)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-040">
+          <num>720.040</num>
+          <heading>ï¿½Certification authorityï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Certification
+authorityï¿½ means a person who issues a certificate.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1953)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-050">
+          <num>720.050</num>
+          <heading>ï¿½Correspondï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Correspondï¿½
+means, with reference to keys, belonging to the same key pair.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1953)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-060">
+          <num>720.060</num>
+          <heading>ï¿½Digital signatureï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Digital
+signatureï¿½ means an electronic signature that transforms a message by using an
+asymmetric cryptosystem. As used in this section, ï¿½electronic signatureï¿½ has
+the meaning ascribed to it inNRS 719.100.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1953; A2001,
+2722)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-070">
+          <num>720.070</num>
+          <heading>ï¿½Hold a private keyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Hold
+a private keyï¿½ means to be authorized to use a private key.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1954)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-080">
+          <num>720.080</num>
+          <heading>ï¿½Key pairï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Key
+pairï¿½ means a private key and its corresponding public key in an asymmetric
+cryptosystem, which may be used in such a manner that the public key can verify
+a digital signature created by the private key.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1954)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-090">
+          <num>720.090</num>
+          <heading>ï¿½Messageï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Messageï¿½
+means a digital representation of information.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1954)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-100">
+          <num>720.100</num>
+          <heading>ï¿½Private keyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Private
+keyï¿½ means the key of a key pair used to create a digital signature.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1954)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-110">
+          <num>720.110</num>
+          <heading>ï¿½Public keyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Public
+keyï¿½ means the key of a key pair used to verify a digital signature.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1954)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-115">
+          <num>720.115</num>
+          <heading>ï¿½Recordï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Recordï¿½
+has the meaning ascribed to it inNRS
+719.150.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2721)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-120">
+          <num>720.120</num>
+          <heading>ï¿½Subscriberï¿½ defined.</heading>
+          <subsection eId="720-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Is identified as such in a certificate;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Accepts the certificate; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Holds the private key that corresponds
+to the public key set forth in the certificate.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1954)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-130">
+          <num>720.130</num>
+          <heading>ï¿½Verify a digital signatureï¿½ defined.</heading>
+          <subsection eId="720-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The digital signature was created by
+the private key corresponding to the public key; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The message has not been altered since
+the digital signature was created.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1954)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-140">
+          <num>720.140</num>
+          <heading>Applicability of chapter.</heading>
+          <subsection eId="720-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection, the provisions of this chapter apply to any transaction for which a
+digital signature is used to sign an electronic record. The provisions of this
+chapter do not apply to a digital signature that is used to sign an electronic
+health record in accordance withNRS 439.581to439.597, inclusive, and the
+regulations adopted pursuant thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½electronic
+recordï¿½ has the meaning ascribed to it inNRS
+719.090.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1954; A2001,
+2722;2011,
+1766;2023,
+1857)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-150">
+          <num>720.150</num>
+          <heading>Adoption of regulations by Secretary of State.</heading>
+          <subsection eId="720-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The use of a digital signature,
+including, without limitation, standards for the commercial use of a digital
+signature;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Licensure of a certification authority,
+including, without limitation, professional standards that a certification
+authority must meet in conducting its business;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-150__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The verification of a digital
+signature;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-150__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The liability that may be incurred by a
+subscriber, certification authority or recipient of a message transformed by a
+digital signature, including, without limitation, the limitation of such
+liability;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-150__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The use of a digital signature as an
+acknowledgment, as that term is defined inNRS
+240.002;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-150__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The issuance of injunctions and orders
+and the imposition of civil penalties pursuant toNRS 720.190;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-150__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The status of a private key as personal
+property;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-150__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>The responsibilities of a subscriber
+with respect to the use and handling of a private key;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-150__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>The confidentiality of information represented
+in a message that is transformed by a digital signature; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-150__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>Any other aspect of the use or
+verification of digital signatures that the Secretary of State determines to be
+necessary.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1955)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-160">
+          <num>720.160</num>
+          <heading>Use of digital signature.</heading>
+          <subsection eId="720-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, if each person who will be involved in the submission and acceptance
+of a record agrees to the use of a digital signature, the use of a message
+which:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="720-160__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Represents the record; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="720-160__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is transformed by a digital signature,
+ï¿½constitutes
+a sufficient signing of the record.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="720-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of this section do not
+apply with respect to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="720-160__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A record that is required to be signed in the
+presence of a third party; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="720-160__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A record with respect to which the
+requirement that the record must be signed is accompanied by an additional
+qualifying requirement.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1954; A2001,
+2722)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-180">
+          <num>720.180</num>
+          <heading>Licensure of certification authorities: Requirement; fee.</heading>
+          <subsection eId="720-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person shall not conduct business as
+a certification authority without first obtaining a license as a certification
+authority from the Secretary of State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Secretary of State may charge a
+reasonable fee for such licensure.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1955)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-190">
+          <num>720.190</num>
+          <heading>Enforcement of chapter: Injunctions and other orders; civil
+penalty.</heading>
+          <subsection eId="720-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Issue injunctions and orders to enforce
+the provisions of this chapter and any regulations adopted by the Secretary of
+State pursuant thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Impose a civil penalty not to exceed
+$10,000 for a willful violation of a provision of this chapter or a regulation
+adopted by the Secretary of State pursuant thereto.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1955)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_720-200">
+          <num>720.200</num>
+          <heading>Unlawful acts; penalty.</heading>
+          <subsection eId="720-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>It is unlawful for a person to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="720-200__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Forge a digital signature; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="720-200__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide false information knowingly to the
+Secretary of State with respect to any provision of this chapter or a
+regulation adopted pursuant thereto that requires such a person to provide
+information to the Secretary of State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="720-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who violates the provisions of
+subsection 1 is guilty of a gross misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="720-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½forge a
+digital signatureï¿½ means to create a digital signature that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="720-200__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is not authorized by the person who holds the
+private key used to create the digital signature; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="720-200__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Although verifiable by a public key, the
+certificate that contains the public key identifies a subscriber who:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="720-200__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Does not exist; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="720-200__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Does not hold the private key that
+corresponds to the public key contained in the certificate.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1955)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

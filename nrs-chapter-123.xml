@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-123"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-123"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="123"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-123/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-123/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-123/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-123/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_123">
+        <num>123</num>
+        <heading>RIGHTS OF MARRIED COUPLES</heading>
+        <section eId="sec_123-010">
+          <num>123.010</num>
+          <heading>Property rights of a married couple governed by chapter;
+exceptions; rights vested before March 10, 1873, not affected.</heading>
+          <subsection eId="123-010__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The property rights of a married couple
+are governed by this chapter, unless there is:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="123-010__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A premarital agreement which is enforceable
+pursuant tochapter 123Aof NRS; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="123-010__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A marriage contract or settlement,
+ï¿½containing
+stipulations contrary thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="123-010__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Chapter 76, Statutes of Nevada 1865, is
+repealed, but no rights vested or proceedings taken before March 10, 1873,
+shall be affected by anything contained in this chapter of NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [26:119:1873; B ï¿½ 176; BH ï¿½ 524; C ï¿½ 535; RL ï¿½ 2180;
+NCL ï¿½ 3380] + [35:119:1873; B ï¿½ 185; BH ï¿½ 533; C ï¿½ 544; RL ï¿½ 2189; NCL ï¿½
+3389]—(NRS A1989,
+1004;2017,
+760)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-020">
+          <num>123.020</num>
+          <heading>Curtesy and dower not allowed.</heading>
+          <content>
+            <p>No
+estate is allowed one spouse as tenant by curtesy upon the death of his or her
+spouse, nor is any estate in dower allotted to the other spouse upon the death
+of his or her spouse.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [7:119:1873; B ï¿½ 157; BH ï¿½ 505; C ï¿½ 516; RL ï¿½ 2161;
+NCL ï¿½ 3361]—(NRS A2017,
+761)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-030">
+          <num>123.030</num>
+          <heading>How a married couple may hold property.</heading>
+          <content>
+            <p>A
+married couple may hold real or personal property as joint tenants, tenants in
+common, or as community property.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [8:119:1873; B ï¿½ 158; BH ï¿½ 506; C ï¿½ 517; RL ï¿½ 2162;
+NCL ï¿½ 3362]—(NRS A1959,
+408;2017,
+761)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-050">
+          <num>123.050</num>
+          <heading>Spouse not liable for debts of other incurred before marriage.</heading>
+          <content>
+            <p>Neither the separate property of a spouse nor
+the spouseï¿½s share of the community property is liable for the debts of the
+other spouse contracted before the marriage.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [17 1/2:119:1873; added1933,
+118; 1931 NCL ï¿½ 3371.01]—(NRS A1975,
+558)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-060">
+          <num>123.060</num>
+          <heading>No interests in property of other.</heading>
+          <content>
+            <p>Except
+as mentioned inNRS 123.070, neither
+spouse has any interest in the property of the other spouse.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [18:119:1873; B ï¿½ 168; BH ï¿½ 516; C ï¿½ 527; RL ï¿½ 2172;
+NCL ï¿½ 3372]—(NRS A2017,
+761)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-070">
+          <num>123.070</num>
+          <heading>Spouses may make contracts.</heading>
+          <content>
+            <p>Either
+spouse may enter into any contract, engagement or transaction with the other
+spouse, or with any other person respecting property, which either might enter
+into if unmarried, subject in any contract, engagement or transaction between
+themselves, to the general rules which control the actions of persons occupying
+relations of confidence and trust toward each other.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [19:119:1873; B ï¿½ 169; BH ï¿½ 517; C ï¿½ 528; RL ï¿½ 2173;
+NCL ï¿½ 3373]—(NRS A2017,
+761)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-080">
+          <num>123.080</num>
+          <heading>Contract altering legal relations: Separation agreement;
+consideration; introduction in evidence in divorce action.</heading>
+          <subsection eId="123-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A married couple cannot by any contract
+with each other alter their legal relations except as to property, and except
+that they may agree to an immediate separation and may make provision for the
+support of either of them and of their children during such separation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The mutual consent of the parties is a
+sufficient consideration for such an agreement as is mentioned in subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-080__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In the event that a suit for divorce is
+pending or immediately contemplated by one of the spouses against the other,
+the validity of such agreement shall not be affected by a provision therein
+that the agreement is made for the purpose of removing the subject matter
+thereof from the field of litigation, and that in the event of a divorce being
+granted to either party, the agreement shall become effective and not
+otherwise.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-080__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a contract executed by a married
+couple, or a copy thereof, be introduced in evidence as an exhibit in any
+divorce action, and the court shall by decree or judgment ratify or adopt or
+approve the contract by reference thereto, the decree or judgment shall have
+the same force and effect and legal consequences as though the contract were
+copied into the decree, or attached thereto.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [20:119:1873; A1935,
+194;1953,
+235] + [21:119:1873; B ï¿½ 171; BH ï¿½ 519; C ï¿½ 530; RL ï¿½ 2175; NCL ï¿½
+3375]—(NRS A2017,
+761)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-090">
+          <num>123.090</num>
+          <heading>Necessaries provided to neglected spouse when neglecting spouse
+neglects to provide; recovery of value.</heading>
+          <content>
+            <p>If
+a spouse neglects to make adequate provision for the support of his or her
+spouse, any other person may in good faith supply the neglected spouse with
+articles necessary for his or her support, and recover the reasonable value
+thereof from the neglecting spouse. The separate property of the neglecting
+spouse is liable for the cost of such necessities if the community property of
+the spouses is not sufficient to satisfy such debt.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [22:119:1873; B ï¿½ 172; BH ï¿½ 520; C ï¿½ 531; RL ï¿½ 2176;
+NCL ï¿½ 3376]—(NRS A1975,
+558;2017,
+761)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-100">
+          <num>123.100</num>
+          <heading>Abandoned spouse not liable for support of abandoning spouse.</heading>
+          <content>
+            <p>A spouse abandoned by his or her spouse is not
+liable for the support of the abandoning spouse until such spouse offers to
+return unless the misconduct of the abandoned spouse justified the abandonment.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [23:119:1873; B ï¿½ 173; BH ï¿½ 521; C ï¿½ 532; RL ï¿½ 2177;
+NCL ï¿½ 3377]—(NRS A1975,
+558;2017,
+761)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-110">
+          <num>123.110</num>
+          <heading>When spouse must support other spouse.</heading>
+          <content>
+            <p>A
+spouse must support his or her spouse out of his or her separate property when
+the spouse has no separate property and they have no community property and the
+spouse, from infirmity, is not able or competent to support himself or herself.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [24:119:1873; B ï¿½ 174; BH ï¿½ 522; C ï¿½ 533; RL ï¿½ 2178;
+NCL ï¿½ 3378]—(NRS A2017,
+762)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-121">
+          <num>123.121</num>
+          <heading>Segregation of damage awards when spouses sue jointly.</heading>
+          <subsection eId="123-121__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the action is for personal injuries,
+damages assessed for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="123-121__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Personal injuries and pain and suffering, to
+the injured spouse as his or her separate property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="123-121__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Loss of comfort and society, to the spouse
+who suffers such loss.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="123-121__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Loss of services and hospital and medical
+expenses, to the spouses as community property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="123-121__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the action is for injury to
+property, damages shall be awarded according to the character of the injured
+property. Damages to separate property shall be awarded to the spouse owning
+such property, and damages to community property shall be awarded to the
+spouses as community property.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+558; A2017,
+762)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-125">
+          <num>123.125</num>
+          <heading>Character of property transferred into trust.</heading>
+          <subsection eId="123-125__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A trust instrument may provide that
+community property or separate property transferred into an irrevocable trust
+of which both spouses are distribution beneficiaries, as defined inNRS 163.415, remains community property or
+separate property, as applicable, during the marriage. Any community property
+or separate property, including, without limitation, any income, appreciation
+and proceeds thereof, that is distributed or withdrawn from a trust instrument
+containing such a provision remains community property or separate property, as
+applicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-125__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A spouse or other party in a case must
+establish by clear and convincing evidence the transmutation of community
+property or separate property that is transferred into a trust from, as
+applicable:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="123-125__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Community property to separate property; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="123-125__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Separate property to community property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="123-125__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The provisions of this section do not
+affect the character of community property or separate property that is
+transferred into a trust in any manner other than as described in this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1669; A2019,
+1852)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-130">
+          <num>123.130</num>
+          <heading>Separate property of each spouse.</heading>
+          <content>
+            <p>All
+property of a spouse owned by him or her before marriage, and that was acquired
+by him or her afterwards by gift, bequest, devise, descent or by an award for
+personal injury damages, with the rents, issues and profits thereof, is his or
+her separate property.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:119:1873; B ï¿½ 151; BH ï¿½ 499; C ï¿½ 510; RL ï¿½ 2155;
+NCL ï¿½ 3355]—(NRS A1975,
+558;2017,
+762)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-140">
+          <num>123.140</num>
+          <heading>Inventory of separate property: Execution; recording;
+supplemental inventory.</heading>
+          <subsection eId="123-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A full and complete inventory of the
+separate property of a married person, exclusive of money, may be made out and
+signed by such person, acknowledged or proved in the manner required for the
+acknowledgment or proof of a conveyance of real property, and may be recorded,
+if such person is a resident of this State, in the office of the recorder of
+the county in which such person resides. If any real property lying in another
+county is included in a recorded inventory, then the inventory shall be also
+recorded in the office of the recorder of such other county.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the married person is not a resident
+of this state, a recorded inventory shall be recorded in the office of the
+recorder of each county where any portion of the property, real or personal, is
+situated, located or used.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-140__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>From time to time thereafter, a further
+and supplemental inventory may be made out, signed, acknowledged or proved, and
+recorded in like manner, of all other separate property afterward acquired by
+such married person, excepting money, and the rents, issues and profits of such
+personï¿½s separate property, included in the original or any subsequent
+inventory, if the same be in money.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [3:119:1873; B ï¿½ 153; BH ï¿½ 501; C ï¿½ 512; RL ï¿½ 2157;
+NCL ï¿½ 3357]—(NRS A1959,
+9;1975,
+559)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-150">
+          <num>123.150</num>
+          <heading>Recording of inventory is notice and evidence of title.</heading>
+          <subsection eId="123-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a married person is a resident of
+this state, the recording of the inventory of the personï¿½s separate property in
+the office of the recorder of the county in which the person resides is notice
+of the personï¿½s title to the separate property, except as to any real property
+situate in another county, and as to that real property, the recording of the
+inventory thereof in the office of the recorder of the county where the same is
+situate, is notice of the personï¿½s title thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a married person is not a resident
+of this state, the recording of the inventory of the personï¿½s separate property
+in the office of the recorder of the county where any portion of the property,
+real or personal, included in the inventory is situate, located or used, is
+notice of the personï¿½s title as to all that property situate, located or used
+in that county.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [4:119:1873; B ï¿½ 154; BH ï¿½ 502; C ï¿½ 513; RL ï¿½ 2158;
+NCL ï¿½ 3358]—(NRS A1975,
+559;2001,
+1755;2003,
+75)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-160">
+          <num>123.160</num>
+          <heading>Effect of failure to record inventory.</heading>
+          <subsection eId="123-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When a married person is a resident of
+this state, the failure to file for record an inventory of such personï¿½s
+separate property in the office of the recorder of the county of residence, or
+the omission from the inventory, filed for record in such office, of any part
+of such property, except as to real property situate in another county, is
+prima facie evidence, as between such married person and purchasers in good
+faith and for a valuable consideration from the other spouse, that the property
+of which no inventory has been so filed, or which has been omitted from the
+inventory, is not the separate property of such person. As to any real property
+situate in another county, the failure to file for record an inventory thereof
+in the office of the recorder of the county where the same is situate, or the
+omission from the inventory, filed for record in such office, of any part of
+such real property, is prima facie evidence, as between the married person and
+such purchasers as aforesaid, that such real property of which no inventory has
+been so filed, or which has been omitted from the inventory, is not such
+personï¿½s separate property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>When a married person is not a resident
+of this state, the failure to file for record an inventory of such personï¿½s
+separate property in the office of the recorder of the county where any portion
+of such property is situate, located or used, or the omission from the
+inventory, filed in such office, of any part of such property, is, as to all
+such property situate, located or used in that county, of which no inventory
+has been so filed, or which has been omitted from the inventory, prima facie
+evidence, as between the married person and such purchasers as aforesaid, that
+the same is not such personï¿½s separate property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-160__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The provisions ofNRS 123.140,123.150and this section do not preclude
+the introduction of other evidence to show the separate or community character
+of the property of the spouses.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [5:119:1873; B ï¿½ 155; BH ï¿½ 503; C ï¿½ 514; RL ï¿½ 2159;
+NCL ï¿½ 3359]—(NRS A1975,
+559)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-170">
+          <num>123.170</num>
+          <heading>Each spouse controls own separate property.</heading>
+          <content>
+            <p>Either spouse may, without the consent of the
+other spouse, convey, charge, encumber or otherwise in any manner dispose of
+his or her separate property.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [9:119:1873; B ï¿½ 159; BH ï¿½ 507; C ï¿½ 518; RL ï¿½ 2163;
+NCL ï¿½ 3363]—(NRS A1975,
+560)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-180">
+          <num>123.180</num>
+          <heading>Property and earnings of minor children.</heading>
+          <subsection eId="123-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any property acquired by a child by
+gift, bequest, devise or descent, with the rents, issues and profits thereof,
+is the childï¿½s own property, and neither parent is entitled to any interest
+therein.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The earnings and accumulations of
+earnings of a minor child are the community property of his or her parents
+unless relinquished to the child. Such relinquishment may be shown by written
+instrument, proof of a specific oral gift, or proof of a course of conduct.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-180__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>When a married couple is living
+separate and apart the earnings and accumulations of earnings of their minor
+children, unless relinquished, are the separate property of the spouse who has
+their custody or, if no custody award has been made, then the separate property
+of the spouse with whom such children are living.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [14:119:1873; B ï¿½ 164; BH ï¿½ 512; C ï¿½ 523; RL ï¿½ 2168;
+NCL ï¿½ 3368]—(NRS A1975,
+560;2017,
+762)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-190">
+          <num>123.190</num>
+          <heading>Earnings of either spouse appropriated to own use pursuant to
+written authorization of other spouse deemed gift.</heading>
+          <content>
+            <p>When
+a spouse has given written authority to his or her spouse to appropriate to his
+or her own use the spouseï¿½s earnings, the same, with the issues and profits
+thereof, is deemed a gift from one spouse to the other, and is, with such
+issues and profits, the latter spouseï¿½s separate property.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [15:119:1873; B ï¿½ 165; BH ï¿½ 513; C ï¿½ 524; RL ï¿½ 2169;
+NCL ï¿½ 3369]—(NRS A1973,
+1036;2017,
+762)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-220">
+          <num>123.220</num>
+          <heading>Community property defined.</heading>
+          <subsection eId="123-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An agreement in writing between the
+spouses.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A decree of separate maintenance issued
+by a court of competent jurisdiction.
+ï¿½ï¿½ï¿½ï¿½ï¿½ 3.NRS
+123.190.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-220__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A decree issued or agreement in writing
+entered pursuant toNRS 123.259.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [2:119:1873; B ï¿½ 152; BH ï¿½ 500; C ï¿½ 511; RL ï¿½ 2156;
+NCL ï¿½ 3356]—(NRS A1975,
+560;1987,
+1016;1989,
+380;2009,
+1636;2017,
+763)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-225">
+          <num>123.225</num>
+          <heading>Interests of each spouse in community property are present,
+existing and equal interests.</heading>
+          <subsection eId="123-225__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The respective interests of each spouse
+in community property during continuance of the marriage relation are present,
+existing and equal interests, subject to the provisions ofNRS 123.230.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-225__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of this section apply to
+all community property, whether the community property was acquired before, on
+or after March 26, 1959.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+408; A1997,
+1596;2017,
+763)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-230">
+          <num>123.230</num>
+          <heading>Control of community property.</heading>
+          <subsection eId="123-230__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Neither spouse may devise or bequeath
+more than one-half of the community property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-230__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Neither spouse may make a gift of
+community property without the express or implied consent of the other.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-230__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Neither spouse may sell, convey or
+encumber the community real property unless both join in the execution of the
+deed or other instrument by which the real property is sold, conveyed or
+encumbered, and the deed or other instrument must be acknowledged by both.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-230__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Neither spouse may purchase or contract
+to purchase community real property unless both join in the transaction of
+purchase or in the execution of the contract to purchase.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-230__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Neither spouse may create a security
+interest, other than a purchase-money security interest as defined inNRS 104.9103, in, or sell, community
+household goods, furnishings or appliances unless both join in executing the
+security agreement or contract of sale, if any.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-230__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Neither spouse may acquire, purchase,
+sell, convey or encumber the assets, including real property and goodwill, of a
+business where both spouses participate in its management without the consent
+of the other. If only one spouse participates in management, he or she may, in
+the ordinary course of business, acquire, purchase, sell, convey or encumber
+the assets, including real property and goodwill, of the business without the
+consent of the nonparticipating spouse.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [6:119:1873; A1897,
+24;1917,
+121; 1919 RL ï¿½ 2160; NCL ï¿½ 3360]—(NRS A1973,
+1037;1975,
+560;1977,
+271;1997,
+1596;1999,
+391)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-240">
+          <num>123.240</num>
+          <heading>Payments or refunds under benefit or savings plans to employees,
+beneficiaries or estates: Discharge of employer, trustee or insurance company
+from adverse claims; notice.</heading>
+          <content>
+            <p>Notwithstanding
+the provisions ofNRS 123.220and123.230, whenever payment or refund is made
+to an employee, former employee, or his or her beneficiary or estate pursuant
+to a written retirement, death or other employee benefit plan or savings plan,
+such payment or refund shall fully discharge the employer and any trustee or
+insurance company making such payment or refund from all adverse claims
+thereto, unless, before such payment or refund is made, the employer or former
+employer, where the payment is made by the employer or former employer, has
+received at its principal place of business within this state written notice by
+or on behalf of some other person that such other person claims to be entitled
+to such payment or refund or some part thereof or where a trustee or insurance
+company is making the payment, such notice has been received by the trustee or
+insurance company at its home office, but nothing contained in this section
+shall affect any claim or right to any such payment or refund or part thereof
+as between all persons other than the employee and the trustee or insurance
+company making such payment or refund.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [6.5:119:1873; added1953,
+337]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-250">
+          <num>123.250</num>
+          <heading>Ownership of survivor upon death of spouse; disposal by will of
+decedent.</heading>
+          <subsection eId="123-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, upon the death of either spouse:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="123-250__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An undivided one-half interest in the
+community property is the property of the surviving spouse and his or her sole
+separate property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="123-250__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The remaining interest:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="123-250__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Is subject to the testamentary
+disposition of the decedent or, in the absence of such a testamentary
+disposition, goes to the surviving spouse; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="123-250__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Is the only portion subject to
+administration under the provisions of title 12 of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="123-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="123-250__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Do not apply to the extent that they are
+inconsistent with the provisions ofchapter 41Bof NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="123-250__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Do not apply to community property with right
+of survivorship.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="123-250__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Apply to all other community property,
+whether the community property was acquired before, on or after July 1, 1975.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="123-250__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½community
+property with right of survivorshipï¿½ means community property in which a right
+of survivorship exists pursuant toNRS
+111.064or115.060or any other
+provision of law.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:198:1937; 1931 NCL ï¿½ 3395.01]—(NRS A1957,
+359;1959,
+408;1975,
+561;1981,
+779;1997,
+1597;1999,
+1355;2017,
+763)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-259">
+          <num>123.259</num>
+          <heading>Division of income and resources of married couple: Manner;
+conditions; restrictions.</heading>
+          <subsection eId="123-259__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, a court of competent jurisdiction may, upon a proper petition
+filed by a spouse or the guardian of a spouse, enter a decree dividing the
+income and resources of a married couple pursuant to this section if one spouse
+is an institutionalized spouse and the other spouse is a community spouse.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-259__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The court shall not enter such a decree
+if the division is contrary to a premarital agreement between the spouses which
+is enforceable pursuant tochapter 123Aof
+NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-259__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Unless modified pursuant to subsection
+4 or 5, the court may divide the income and resources:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="123-259__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Equally between the spouses; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="123-259__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>By protecting income for the community spouse
+through application of the maximum federal minimum monthly maintenance needs
+allowance set forth in 42 U.S.C. ï¿½ 1396r-5</p>
+              </content>
+            </paragraph>
+            <paragraph eId="123-259__subsec_3__subsec_d">
+              <num>(d)</num>
+              <subparagraph eId="123-259__subsec_3__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>(C) and by permitting a
+transfer of resources to the community spouse an amount which does not exceed
+the amount set forth in 42 U.S.C. ï¿½ 1396r-5</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="123-259__subsec_3__subsec_f">
+              <num>(f)</num>
+              <subparagraph eId="123-259__subsec_3__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>(A)(ii).
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="123-259__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If either spouse establishes that the
+community spouse needs income greater than that otherwise provided under
+paragraph</p>
+            </content>
+            <paragraph eId="123-259__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 3, upon finding exceptional circumstances resulting
+in significant financial duress and setting forth in writing the reasons for
+that finding, the court may enter an order for support against the
+institutionalized spouse for the support of the community spouse in an amount
+adequate to provide such additional income as is necessary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="123-259__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If either spouse establishes that a
+transfer of resources to the community spouse pursuant to paragraph</p>
+            </content>
+            <paragraph eId="123-259__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of
+subsection 3, in relation to the amount of income generated by such a transfer,
+is inadequate to raise the income of the community spouse to the amount allowed
+under paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="123-259__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 3 or an order for support issued pursuant to
+subsection 4, the court may substitute an amount of resources adequate to
+provide income to fund the amount so allowed or to fund the order for support.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="123-259__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A copy of a petition for relief under
+subsection 4 or 5 and any court order issued pursuant to such a petition must
+be served on the Administrator of the Division of Welfare and Supportive
+Services of the Department of Health and Human Services when any application
+for medical assistance is made by or on behalf of an institutionalized spouse.
+The Administrator may intervene no later than 45 days after receipt by the
+Division of Welfare and Supportive Services of the Department of Health and
+Human Services of an application for medical assistance and a copy of the
+petition and any order entered pursuant to subsection 4 or 5, and may move to
+modify the order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-259__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>A person may enter into a written
+agreement with his or her spouse dividing their community income, assets and
+obligations into equal shares of separate income, assets and obligations of the
+spouses. Such an agreement is effective only if one spouse is an
+institutionalized spouse and the other spouse is a community spouse or a
+division of the income or resources would allow one spouse to qualify for
+services underNRS 427A.250to427A.280, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-259__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>An agreement entered into or decree
+entered pursuant to this section may not be binding on the Division of Welfare
+and Supportive Services of the Department of Health and Human Services in
+making determinations under the State Plan for Medicaid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="123-259__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>As used in this section, ï¿½community
+spouseï¿½ and ï¿½institutionalized spouseï¿½ have the meanings respectively ascribed
+to them in 42 U.S.C. ï¿½ 1396r-5</p>
+            </content>
+            <paragraph eId="123-259__subsec_9__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1016; A1989,
+380,1005;1993,
+2412;1997,
+1248;2009,
+1257;2017,
+763)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-270">
+          <num>123.270</num>
+          <heading>Contracts or settlements to be written and acknowledged.</heading>
+          <content>
+            <p>All marriage contracts or settlements must be
+in writing, and executed and acknowledged or proved in like manner as a
+conveyance of land is required to be executed and acknowledged or proved.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [27:119:1873; B ï¿½ 177; BH ï¿½ 525; C ï¿½ 536; RL ï¿½ 2181;
+NCL ï¿½ 3381]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-280">
+          <num>123.280</num>
+          <heading>Recording in counties where real property situated.</heading>
+          <content>
+            <p>When such marriage contract or settlement is
+acknowledged or proved, it must be recorded in the office of the recorder of
+every county in which any real property may be situated which is conveyed or
+affected by such contract.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [28:119:1873; B ï¿½ 178; BH ï¿½ 526; C ï¿½ 537; RL ï¿½ 2182;
+NCL ï¿½ 3382]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-290">
+          <num>123.290</num>
+          <heading>Record of contract to impart notice.</heading>
+          <content>
+            <p>When
+such marriage contract or settlement is deposited in the recorderï¿½s office for
+record, it shall, as to all property affected thereby in the county where the
+same is deposited, impart full notice to all persons of the contents thereof.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [29:119:1873; B ï¿½ 179; BH ï¿½ 527; C ï¿½ 538; RL ï¿½ 2183;
+NCL ï¿½ 3383]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-300">
+          <num>123.300</num>
+          <heading>Effect of not recording contract or settlement.</heading>
+          <content>
+            <p>No such marriage contract or settlement shall
+be valid as to any real property, or affect the same, except as between the
+parties thereto, until it shall be deposited for record with the recorder of
+the county in which such real property is situate.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [30:119:1873; B ï¿½ 180; BH ï¿½ 528; C ï¿½ 539; RL ï¿½ 2184;
+NCL ï¿½ 3384]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_123-310">
+          <num>123.310</num>
+          <heading>Minors may make marriage contracts or settlements.</heading>
+          <content>
+            <p>A minor capable of contracting marriage may
+make a valid marriage contract or settlement.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [31:119:1873; B ï¿½ 181; BH ï¿½ 529; C ï¿½ 540; RL ï¿½ 2185;
+NCL ï¿½ 3385]</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

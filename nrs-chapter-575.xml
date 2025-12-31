@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-575"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-575"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="575"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-575/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-575/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-575/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-575/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_575">
+        <num>575</num>
+        <heading>MISCELLANEOUS PROVISIONS;</heading>
+        <section eId="sec_575-010">
+          <num>575.010</num>
+          <heading>Working horse, mule or cattle without consent of owner.</heading>
+          <content>
+            <p>If any person shall use or work any horse or
+horses, mule or mules, or work cattle without first obtaining the consent of
+the owner thereof, the person shall be guilty of a misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 479; RL ï¿½ 6744; NCL ï¿½ 10428]—(NRS A1967,
+618)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-015">
+          <num>575.015</num>
+          <heading>Contracts for care or shelter of livestock: Notice of
+termination; removal of livestock; disposition of livestock; collection of
+costs; waiver of provisions and rights conferred; exclusive remedies.</heading>
+          <subsection eId="575-015__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who enters into a contract with
+an owner of livestock to provide care or shelter for the livestock on the
+personï¿½s property shall give the owner of the livestock at least 30 daysï¿½
+notice before terminating the contract.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-015__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>After receiving the notice, if the
+owner of the livestock fails to remove the livestock from the property before
+the termination of the contract, the livestock shall be deemed abandoned and
+the person providing care or shelter for the livestock may remove the livestock
+from his or her property as provided in subsection 3 if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="575-015__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The person notifies the owner of the
+livestock in writing of the personï¿½s intention to remove the livestock from the
+property if the owner fails to remove the livestock before the date the
+contract is terminated; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="575-015__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Fourteen days have elapsed since the notice
+was mailed to the owner of the livestock. The notice must be mailed, by
+certified mail, return receipt requested, to the owner of the livestock at the
+ownerï¿½s present address, and if that address is unknown, then at the ownerï¿½s
+last known address.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="575-015__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If any livestock is deemed abandoned
+pursuant to subsection 2, a person providing care or shelter for that livestock
+may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="575-015__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Sell the livestock;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="575-015__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Give the livestock to a society for the
+prevention of cruelty to animals;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="575-015__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Return the livestock to the owner at the
+ownerï¿½s present address;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="575-015__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Transfer the livestock to another facility
+which is able to provide care and shelter for the livestock; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="575-015__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Bring a civil action in a court of competent
+jurisdiction to require the owner to remove the livestock from the personï¿½s
+property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="575-015__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the owner of the livestock fails to
+remove the livestock pursuant to subsection 2, the person providing care and
+shelter for the livestock may charge and collect any reasonable and actual
+costs he or she incurs in removing the livestock pursuant to subsection 3.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-015__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 6, the provisions of this section may be varied by agreement, and
+the rights conferred by this section may be waived.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-015__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The remedies provided for in this section
+are the exclusive remedies for an action brought pursuant to this section. If a
+person pursues a remedy not provided for in this section including, without
+limitation, a civil action for breach of contract or trespass, the provisions
+of this section do not apply, and the remedies provided for in this section are
+not available.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-015__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>As used in this section, ï¿½livestockï¿½
+means:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="575-015__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>All cattle or animals of the bovine species;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="575-015__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>All horses, mules, burros and asses or
+animals of the equine species;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="575-015__subsec_7__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>All swine or animals of the porcine species;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="575-015__subsec_7__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>All goats or animals of the caprine species;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="575-015__subsec_7__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>All sheep or animals of the ovine species.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2011,
+2619)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-020">
+          <num>575.020</num>
+          <heading>Allowing vicious animal to escape or run at large; penalty;
+vicious animal may be killed; liability of person having care or custody of
+animal which chases, worries, injures or kills livestock of another.</heading>
+          <subsection eId="575-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every person having the care or custody
+of any animal known to possess any vicious or dangerous tendencies, who allows
+it to escape or run at large in any place or manner liable to endanger the
+safety of any person, is guilty of a misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any person may lawfully and without
+liability for damages kill such an animal when reasonably necessary to protect
+his or her own safety or the public safety, or if the animal chases, worries,
+injures or kills the personï¿½s livestock on the land of any person other than
+that of the owner of the animal.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Every person having the care or custody
+of an animal which chases, worries, injures or kills the livestock of another
+on land other than his or her own is liable to the owner of the livestock for
+damage to it.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-020__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½livestockï¿½
+means all animals of the bovine, caprine, equine, ovine and porcine species,
+and all domesticated fowl and rabbits.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 326; RL ï¿½ 6591; NCL ï¿½ 10274]—(NRS A1979,
+1395)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-040">
+          <num>575.040</num>
+          <heading>Liability for damages caused by poisonous or injurious liquid.</heading>
+          <subsection eId="575-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person who maintains, dumps, turns
+or flows, or causes to be maintained, dumped, turned or flowed, any solution,
+compound, waste, water or anything of a liquid nature poisonous or injurious to
+or which might or does kill livestock, into an open ditch, cut, flume, pond,
+reservoir or any other place, unless the ditch, cut, flume, pond, reservoir or
+place is enclosed by fence or otherwise safeguarded sufficiently to prevent livestock
+gaining access thereto, is liable for all damages caused by or the result of
+such act or acts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any person violating subsection 1, or
+who fails properly to enclose and safeguard any solution, compound, waste,
+water or anything of a liquid nature injurious to or which might or does kill
+livestock, maintained, dumped or flowed by the person, is liable to the owner
+of livestock affected for all damages the result of the personï¿½s failure to
+enclose and safeguard the solution, compound, waste, water or anything of a
+liquid nature, together with costs of suit and counsel fees in a reasonable
+amount, to be fixed by the court trying an action therefor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:61:1919; 1919 RL p. 2917; NCL ï¿½ 5636] +
+[2:61:1919; 1919 RL p. 2917; NCL ï¿½ 5637] + [3:61:1919; 1919 RL p. 2917; NCL ï¿½
+5638]—(NRS A1985,
+528)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-050">
+          <num>575.050</num>
+          <heading>Governor authorized to enter into agreements with United States
+concerning financial aid; Livestock Aid Fund.</heading>
+          <subsection eId="575-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Governor may enter into agreements
+with the United States, its departments or agencies, respecting the granting
+and extending of financial aid, or any other form of benefits, to the State for
+the benefit of persons, firms or corporations engaged in the livestock or
+agriculture industry.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Before any such agreement is entered
+into, the Governor, after diligent inquiry, shall determine by proclamation
+that such an emergency exists as in the interests of the livestock or
+agriculture industry of the State warrants a request for federal aid, money or
+such other type of benefit as may be available. After issuing the proclamation,
+the Governor may match available federal money, or benefits, from the Livestock
+Aid Fund, not to exceed the total sum of $30,000. If an emergency has been
+proclaimed by the Governor, the Director of the State Department of Agriculture
+may expend money in the Livestock Aid Fund, as the interests of the livestock
+or agriculture industry of the State may require, without federal participation
+in the form of aid, money or other benefits.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-050__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>There is hereby created in the State
+Treasury the Livestock Aid Fund. Money for the Livestock Aid Fund must be
+provided as needed by the State Board of Examiners from its Emergency Fund, and
+may be used only to carry out the provisions of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-050__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Governor, or such commission,
+department or agency of the State of Nevada as the Governor may designate and
+entrust with the disbursement of the money or benefits made available, may
+adopt such regulations as may be necessary for the proper administration
+thereof, and if the benefits are in the form of money, each expenditure from
+the Fund must be approved by the State Board of Examiners in the manner
+provided generally for the payment of claims against the State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-050__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The State of Nevada, through the acts
+of its Governor, in accepting the agreements entered into, is obligated to
+perform the agreements fully as to all the terms thereof for the duration of
+the agreements.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:9:1954] + [2:9:1954] + [3:9:1954] + [4:9:1954] +
+[5:9:1954]—(NRS A1961,
+555;1963,
+101;1971,
+123;1977,
+329;1993,
+1759;1999,
+3699)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-060">
+          <num>575.060</num>
+          <heading>Impounding and sale by State Department of Agriculture of
+cattle, horses and mules found in possession of person without evidence of
+ownership; disposition of proceeds.</heading>
+          <subsection eId="575-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>As used in this section, unless the
+context otherwise requires, ï¿½Departmentï¿½ means the State Department of
+Agriculture.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any cattle, horses or mules found by
+the Department or an authorized representative of the Department to be in the
+possession of any person who does not have satisfactory evidence of the
+ownership or right to possession thereof may be impounded by the Department or
+its representative without liability at the expense of the owner, until the
+ownership of the animal is established.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-060__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>After the expiration of 10 days after
+the date the animal is impounded, if the Department cannot with reasonable
+diligence determine the lawful owner thereof, the animal may be sold by the
+Department in the manner provided inchapter 569of NRS. All expenses incurred by the Department in the keeping of the animal
+and in the sale thereof must be paid out of the proceeds of the sale.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-060__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 5, the net proceeds of any such sale must be held for 1 year,
+subject to the claim of any person who can establish legal title to any animal
+concerned. All money remaining unclaimed must be deposited in the Livestock
+Inspection Account after 1 year. The Department may disallow all claims if it
+deems the claims illegal or if satisfactory evidence of title is not shown.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-060__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If the animal is consigned to a public
+livestock market for sale at that market, the proceeds of the sale must be kept
+by the Department or, if the Department deems it advisable, by the public
+livestock market, for 30 days, to permit the consignor to prove his or her
+legal ownership or the consignorï¿½s right to sell the animal. If the consignor
+is unable to prove his or her ownership to or the consignorï¿½s right to sell the
+animal, the proceeds must be disposed of in the manner provided in subsection
+4.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1960,
+376; A1961,
+556;1991,
+1796;1993,
+1760;1999,
+3700)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-080">
+          <num>575.080</num>
+          <heading>Definitions.</heading>
+          <subsection eId="575-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Boardï¿½ means the State Board of
+Agriculture.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½Departmentï¿½ means the State Department
+of Agriculture.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-080__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>ï¿½Livestockï¿½ means the animals subject
+to the taxes levied pursuant toNRS 575.185.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-080__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>ï¿½Sheepï¿½ means the animals subject to
+the taxes levied pursuant toNRS 562.170and567.110.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-080__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>ï¿½Taxï¿½ means any of the taxes levied
+pursuant toNRS 562.170,567.110and575.185.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+741; A1993,
+1761;1999,
+3701;2001,
+1568;2003,
+2162;2013,
+1324)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-120">
+          <num>575.120</num>
+          <heading>Declaration of average number, kind and classification of
+livestock and sheep.</heading>
+          <content>
+            <p>The
+Department shall provide a declaration of livestock and sheep on which an owner
+of livestock or sheep shall declare the average number, kind and classification
+of all livestock and sheep in the State owned by him or her during the year
+immediately preceding the date the declaration is made.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+742; A1993,
+1761;1999,
+2780,3701;2001,
+279,1568;2015,
+3613)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-130">
+          <num>575.130</num>
+          <heading>Provision of declaration to owners of livestock or sheep;
+administrative penalty for failure to complete declaration.</heading>
+          <subsection eId="575-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department shall provide the
+declaration to each owner of livestock or sheep listed in its most current
+report of such owners.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An owner of livestock or sheep who
+fails to complete a declaration within 30 days after the date it was provided
+to him or her is subject to a penalty of $5 assessed by the Department.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+742; A1999,
+2781;2001,
+281,1568;2015,
+3614)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-150">
+          <num>575.150</num>
+          <heading>Estimation of livestock and sheep owned by persons failing to
+return declarations; review of completed declarations to determine accuracy;
+changes; notification of changes and of right to challenge accuracy.</heading>
+          <subsection eId="575-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon receipt of the declaration of
+livestock and sheep and the report of owners of livestock and sheep, the
+Department shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="575-150__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Make an estimate of the number, kind and
+classification of all livestock and sheep owned by any person failing to return
+the declaration of livestock and sheep and include that information on the
+report; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="575-150__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Examine each completed declaration of
+livestock and sheep and the report to determine its accuracy, and if there is
+any evidence that any information is inaccurate or incomplete, may change and
+correct any listing as to number, kind, classification, ownership or location
+by adding thereto or deducting therefrom as necessary to make the report
+complete and accurate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="575-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department may verify the number of
+livestock or sheep by any reasonable means, including actual count at any
+reasonable time.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-150__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Department changes the listings
+on the report of owners of livestock and sheep for any owner and the listing
+for that owner does not conform to the listings on the declaration completed by
+that owner, the Department shall notify the owner of the change within 15 days
+after the change is made. The notification must contain a statement explaining
+the ownerï¿½s right to challenge the accuracy of the report made by the
+Department.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+743; A1999,
+2781;2001,
+1568;2015,
+3614)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-160">
+          <num>575.160</num>
+          <heading>Exemption from tax if less than cost of collection.</heading>
+          <content>
+            <p>If the Department determines that the amount
+of tax to be collected from an owner of livestock or sheep is less than the
+cost of collecting the tax, it may exempt that owner from the tax.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+743; A2001,
+1569)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-170">
+          <num>575.170</num>
+          <heading>Challenge of report as changed: Filing of statement; review;
+appeal to State Board of Agriculture.</heading>
+          <subsection eId="575-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An owner of sheep or livestock who
+wishes to challenge the accuracy of the report as changed by the Department
+may, within 15 days after receiving notice of the change, file a statement with
+the Department for assessing livestock for the ownerï¿½s county specifying the
+alleged inaccuracy.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon receipt of the statement under
+subsection 1, the Department shall review the allegations and may make any
+changes it considers necessary to make the report accurate and complete. An
+owner of sheep or livestock or the Board may appeal from any decision of the
+Department to and in the manner prescribed by the Board.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+743; A1993,
+1762;1999,
+3702;2001,
+1569;2003,
+2163)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-180">
+          <num>575.180</num>
+          <heading>Approval of report; copy; notification of change resulting from
+challenge of accuracy.</heading>
+          <subsection eId="575-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When the report of owners of livestock
+and sheep is approved by the Department as complete and accurate, the approval
+must be noted on the report. A copy of the approved report must be sent to the
+Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If, as the result of a challenge of the
+accuracy of the report, any change is ordered in the report of owners of
+livestock and sheep after it has been approved by the Department, each recipient
+of a copy of the report must be notified of the change.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+744; A1993,
+1762;1999,
+2781,3702;2001,
+279,1569;2003,
+2163,2164)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-185">
+          <num>575.185</num>
+          <heading>Maximum rate of tax; minimum tax; deposit in Livestock
+Inspection Account.</heading>
+          <subsection eId="575-185__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon approval of the report of owners
+of livestock and sheep pursuant toNRS
+575.180, the Department shall fix the amount of the annual special tax on
+each head of the following specified classes of livestock, which, except as
+otherwise provided in subsection 2, must not exceed the following rates per
+head for each class:
+Classï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Rate
+per head
+Stock cattle........................................................................................................... $0.50
+Dairy cattle............................................................................................................... 
+.60
+Horses....................................................................................................................... 
+.75
+Mules......................................................................................................................... 
+.75
+Burros or asses........................................................................................................ 
+.75
+Hogs and pigs.......................................................................................................... 
+.30
+Goats......................................................................................................................... 
+.10
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-185__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The minimum special tax due annually
+pursuant to this section from each owner of livestock is $10.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-185__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon the receipt of payment of the
+special tax and the report thereof by the State Controller, the Department
+shall credit the amount of the tax as paid on its records.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-185__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The special taxes paid by an owner of
+livestock, when transmitted to the State Treasurer, must be deposited in the
+Livestock Inspection Account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-185__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="575-185__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Dairy cattleï¿½ are bulls, cows and heifers of
+the dairy breeds that are more than 6 months old.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="575-185__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Stock cattleï¿½ are:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="575-185__subsec_5__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Steers of any breed and other weaned
+calves of the beef breeds that are more than 6 months old; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="575-185__subsec_5__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Bulls, cows and older heifers of the
+beef breeds.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="575-185__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The classes consisting of horses, mules, and
+burros and asses exclude animals that are less than 1 year old.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+1323; A2013,
+2470)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-190">
+          <num>575.190</num>
+          <heading>Calculation of total taxes due.</heading>
+          <content>
+            <p>Using
+the tax levies from the Board and from the Department, the Department shall
+calculate the total taxes due from each owner of livestock or sheep based on
+the report of owners of livestock or sheep approved by the Department.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+744; A1993,
+1762;1999,
+2782,3702;2001,
+279,1569;2003,
+53,2164)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-200">
+          <num>575.200</num>
+          <heading>Billing of owners; failure to receive bill not excuse from
+payment.</heading>
+          <content>
+            <p>The Department shall mail
+to each owner of livestock or sheep a bill for the total taxes due from that
+owner. Failure to receive a tax bill does not excuse the taxpayer from the
+timely payment of his or her taxes.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+744; A1999,
+2782;2001,
+1569)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-205">
+          <num>575.205</num>
+          <heading>Assessment of certain past due special taxes on specified
+livestock; penalty and interest for failure to pay such taxes; waiver or
+reduction of interest or penalty; disclosure of waiver or reduction; taxes,
+penalties and interest constitute lien until paid; inspection and other
+services not provided when certain special taxes delinquent.</heading>
+          <subsection eId="575-205__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Department determines that an
+owner of livestock was not assessed the tax required pursuant toNRS 575.185in any year in which the tax
+became due, the Department may assess the tax at any time within 5 years after
+the date on which the tax became due.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-205__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3, any person who fails to pay the tax levied by the Department
+pursuant toNRS 575.185, within the time
+required, shall pay, in addition to the tax, a penalty equal to 20 percent of
+the amount of the tax that is owed for each year the person fails to pay the
+tax, plus interest at the rate of 1.5 percent per month, or fraction of a
+month, from the date the tax was due until the date of payment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-205__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Department may waive or reduce the
+payment of the interest or penalty, or both, that is required to be paid
+pursuant to subsection 2, if the Department finds extenuating circumstances
+sufficient to justify the waiver or reduction. The Department shall, upon the
+request of any person, disclose:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="575-205__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The name of the person whose interest or
+penalty was waived or reduced; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="575-205__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The amount so waived or the amount of the
+reduction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="575-205__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>All taxes levied by the Department on
+livestock pursuant toNRS 575.185, and
+all penalties and interest accrued thereon, constitute a lien upon the
+livestock until paid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="575-205__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 575.230, the Department shall not
+provide inspection or other services to an owner of livestock who is delinquent
+in the payment of the tax levied by the Department pursuant toNRS 575.185.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1567; A2013,
+1324,2470)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-210">
+          <num>575.210</num>
+          <heading>Department to transmit revenue from taxes, penalties and
+interest to State Controller.</heading>
+          <content>
+            <p>Whenever
+any taxes, or penalties or interest for delinquencies pursuant toNRS 562.175,575.130or575.205are paid to the Department, the
+Department shall record the payment and the date thereof with the name of the
+person liable therefor, and the amount of taxes, penalties and interest
+collected pursuant toNRS 562.170,562.175,567.110,575.130,575.185and575.205, and transmit the revenue thereof
+to the State Controller for deposit into the appropriate account or fund in the
+State Treasury.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+744; A1991,
+1797;1995,
+213;2001,
+1570;2003,
+53,2164;2013,
+1324)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-220">
+          <num>575.220</num>
+          <heading>Report of certain delinquent taxes.</heading>
+          <content>
+            <p>The
+Department shall report to the Board any taxes delinquent, if the taxes were
+levied pursuant toNRS 562.170and567.110.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+744; A1993,
+1762;1999,
+3702;2001,
+1570;2003,
+2164)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_575-230">
+          <num>575.230</num>
+          <heading>Payment of delinquent tax required for issuance of brand
+inspection clearance certificate; notification of collection.</heading>
+          <content>
+            <p>A brand inspection clearance certificate
+described inNRS 562.460or565.120must not be issued for the movement
+of any sheep or livestock owned by a person delinquent in the payment of a tax.
+The Department may collect any delinquent tax and the penalty and interest
+thereon at the time of a brand or health inspection. The appropriate county
+authority must be notified if the tax is so collected.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+744; A1993,
+1762;1995,
+213;1999,
+3702;2003,
+2164)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

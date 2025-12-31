@@ -1,0 +1,2578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-666"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-666"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="666"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-666/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-666/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-666/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-666/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_666">
+        <num>666</num>
+        <heading>MAJOR ORGANIZATIONAL CHANGES;</heading>
+        <section eId="sec_666-001">
+          <num>666.001</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, the words and terms defined inNRS 666.002to666.008, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+2149; A1985,
+2160;1995,
+1558)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-002">
+          <num>666.002</num>
+          <heading>ï¿½Acquireï¿½ defined.</heading>
+          <subsection eId="666-002__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Acquire control;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-002__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Acquire all or substantially all
+assets;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-002__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Assume all liabilities for deposits; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-002__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Establish a new institution.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+2149; A1985,
+2160)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-003">
+          <num>666.003</num>
+          <heading>ï¿½Controlï¿½ defined.</heading>
+          <subsection eId="666-003__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Direct or exercise a controlling
+influence over the management or policies of a depository institution or the
+election of a majority of the directors or trustees of an institution; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-003__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Vote:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-003__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Twenty percent or more of any class of voting
+securities of a depository institution if exercised by a natural person; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-003__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>More than 10 percent of any class of voting
+securities of a depository institution if exercised by a person other than a
+natural person.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+2149; A1997,
+996)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-004">
+          <num>666.004</num>
+          <heading>ï¿½De novo branchï¿½ defined.</heading>
+          <subsection eId="666-004__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Is newly established by the depository
+institution as a branch; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-004__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Does not become a branch of the
+depository institution as a result of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-004__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The acquisition by the depository institution
+of an insured depository institution or a branch of an insured depository
+institution; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-004__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The conversion, merger or consolidation of
+any such institution or branch.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1553)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-005">
+          <num>666.005</num>
+          <heading>ï¿½Holding companyï¿½ defined.</heading>
+          <subsection eId="666-005__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Which directly or indirectly owns or
+controls 25 percent or more of the voting stock of a depository institution;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-005__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Which controls the election of a
+majority of the directors of a depository institution; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-005__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>For the benefit of whose stockholders
+25 percent or more of the voting stock of a depository institution is held by
+one or more trustees.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1553)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-006">
+          <num>666.006</num>
+          <heading>ï¿½Home stateï¿½ defined.</heading>
+          <subsection eId="666-006__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>For a state chartered depository
+institution, the state that charters the institution;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-006__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For a federally chartered institution,
+the state where the institutionï¿½s main office is located; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-006__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>For a holding company, the state in which
+the total deposits of all of its subsidiaries are the largest.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1553)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-007">
+          <num>666.007</num>
+          <heading>ï¿½Host stateï¿½ defined.</heading>
+          <subsection eId="666-007__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>For a depository institution, a state,
+other than the institutionï¿½s home state, where the institution maintains or
+seeks to establish a branch; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-007__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For a holding company, a state, other
+than the holding companyï¿½s home state, where the holding company controls or
+seeks to control a depository institution as a subsidiary.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1553)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-008">
+          <num>666.008</num>
+          <heading>ï¿½Out-of-stateï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Out-of-stateï¿½
+when used to modify the term ï¿½bank,ï¿½ ï¿½depository institutionï¿½ or ï¿½holding
+companyï¿½ signifies that its home state is not Nevada.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1553)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-015">
+          <num>666.015</num>
+          <heading>Nevada depository institution: Merger or consolidation with or
+transfer of assets and liabilities to similar institution, out-of-state
+depository institution or out-of-state holding company; regulations.</heading>
+          <subsection eId="666-015__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>With the approval of the Commissioner,
+a Nevada depository institution may merge or consolidate with, or transfer its
+assets and liabilities to, another Nevada depository institution, an
+out-of-state depository institution or an out-of-state holding company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-015__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An application filed with the
+Commissioner for approval of the merger, consolidation or transfer must be on a
+form prescribed by the Commissioner and must include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-015__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A nonrefundable fee of not more than $6,000
+for the application. The depository institution must also pay such additional
+expenses incurred in the process of investigation as the Commissioner deems
+necessary. All money received by the Commissioner pursuant to this section must
+be placed in the Investigative Account created byNRS 232.545.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-015__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Certified copies of the resolutions adopted
+by the directors and stockholders or the managers and members of the depository
+institution or the stockholders of the holding company regarding the merger,
+consolidation or transfer. The minutes of the proceedings conducted by the
+stockholders or members of each depository institution or the stockholders of
+each holding company and the resolutions adopted by them, if any, must set
+forth that holders of at least a majority of the stock or membersï¿½ interests
+voted in the affirmative on the proposition of merger, consolidation or
+transfer. The resolutions must also contain or have attached thereto a complete
+copy of the plan of merger.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-015__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Information which the Commissioner requires
+to make the findings specified in subsection 7.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-015__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>When a completed application has been
+filed, the Commissioner shall conduct an investigation of each depository
+institution to determine:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-015__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Whether the interests of the depositors,
+creditors and stockholders or members of each depository institution are
+protected.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-015__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>That the merger, consolidation or transfer is
+in the public interest.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-015__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>That the merger, consolidation or transfer is
+made for legitimate purposes.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-015__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Whether each depository institution has a
+good record of compliance with the Community Reinvestment Act of 1977, 12
+U.S.C. ï¿½ï¿½ 2901 to 2905, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-015__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Commissionerï¿½s approval or
+rejection of the merger, consolidation or transfer must be based upon the
+Commissionerï¿½s investigation. The expense of the investigation must be paid by
+the depository institutions.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-015__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Notice of the merger, consolidation or
+transfer must be published once each week for 4 consecutive weeks, before or
+after the merger, consolidation or transfer is effective at the discretion of
+the Commissioner, in a newspaper published in a city, town or county in which
+each of the depository institutions is located, and a certified copy of the
+notice must be filed with the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-015__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Commissioner shall issue a written
+decision within 60 days after receiving a completed application. The
+Commissioner may approve the application subject to any terms and conditions
+which the Commissioner considers necessary to protect the public interest.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-015__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The Commissioner shall disapprove an
+application if the Commissioner finds that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-015__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The proposed transaction would be detrimental
+to the safety and soundness of the applicant, to any institution which is a
+party to the transaction or to a subsidiary or affiliate of any such
+institution;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-015__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The applicant or its executive officers,
+directors, managers, principal stockholders or members have not established a
+record of sound performance, efficient management, financial responsibility and
+integrity so that it would be against the interest of the depositors, other
+customers, creditors, stockholders or members of an institution, or the general
+public to authorize the proposed transaction;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-015__subsec_7__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The financial condition of the applicant or
+any other institution which is a participant in the proposed transactions might
+jeopardize the financial stability of the applicant or other institution, or
+prejudice the interests of depositors or other customers of the applicant or
+other institutions;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-015__subsec_7__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The consummation of the proposed transaction
+will tend to lessen competition substantially, unless the Commissioner finds
+that the anticompetitive effects of the proposed transaction are clearly
+outweighed by the benefit of accommodating the convenience and needs of the
+relevant market to be served; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-015__subsec_7__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The applicant has not established a record of
+meeting the needs for credit of the communities which it or its subsidiary
+depository institution serves.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-015__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>If a merger, consolidation or transfer
+is approved pursuant to this section, the property and liabilities of the
+constituent depository institutions must be treated in the manner prescribed inNRS 92A.250.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-015__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>A Nevada depository institution
+authorized pursuant to this section to merge or consolidate with, or transfer
+its assets and liabilities to, an out-of-state depository institution or an
+out-of-state holding company shall comply with the laws of all states in which
+it is authorized to operate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-015__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>The Commissioner shall adopt regulations
+establishing the amount of the application fee required pursuant to this
+section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+998; A1983,
+1750;1987,
+1925;1995,
+491,1556;1997,
+996;2005,
+1845)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-020">
+          <num>666.020</num>
+          <heading>Powers of Nevada depository institution or its holding company
+after acquisition of or merger with out-of-state depository institution;
+applicable laws; powers of Commissioner.</heading>
+          <subsection eId="666-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A Nevada depository institution or its
+holding company that acquires an out-of-state depository institution, a Nevada
+depository institution that is the resulting depository institution after
+merging with an out-of-state depository institution, or a Nevada depository
+institution that otherwise establishes or acquires a branch outside of this
+state, may, in accordance with applicable state and federal law:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-020__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Continue to operate the out-of-state
+depository institution or branch;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Convert any existing main office or branch
+outside of this state into a branch of the Nevada depository institution;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-020__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Establish or acquire additional branches of
+the Nevada depository institution in any state where the out-of-state
+institution could have done so if it had not been acquired or merged;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-020__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Continue or establish its principal office or
+principal place of business outside this state notwithstanding the provisions
+ofNRS 660.015and662.245; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-020__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Subject to the approval of the Commissioner,
+exercise any power and engage in any activity outside of this state to the same
+extent as the out-of-state depository institution could have if it had not been
+acquired or merged, even if the Nevada depository institution is not authorized
+to exercise those powers or engage in those activities in this state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall not approve the
+exercise of any power or the engagement in any activity pursuant to paragraph</p>
+            </content>
+            <paragraph eId="666-020__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-020__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>of subsection 1 if the Commissioner determines that the exercise of
+that power or the engagement in that activity would be inconsistent with safe
+and sound banking practices.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in
+paragraph</p>
+            </content>
+            <paragraph eId="666-020__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of subsection 1, a branch outside this state of a Nevada
+depository institution shall comply with, and have all rights and powers
+prescribed in, the laws of this state relating to depository institutions.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-020__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>This section does not affect the
+authority of the Commissioner to examine, supervise and regulate a Nevada
+depository institution operating or seeking to operate a branch outside this
+state.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+995)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-025">
+          <num>666.025</num>
+          <heading>Effect of consolidation of banks.</heading>
+          <subsection eId="666-025__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When an agreement of consolidation is
+made and a certified copy thereof is filed with the Secretary of State,
+together with a certified copy of the approval of the Commissioner of the
+consolidation, the banks which are parties to the consolidation become one
+bank, possessed of the rights, privileges, powers and franchises of the several
+banks, but subject to all the provisions of law under which it is created.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-025__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The directors and other officers named
+in the agreement of consolidation shall serve until the first annual meeting
+for election of officers and directors, the date for which must be named in the
+agreement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-025__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>On filing such agreement, the property
+and rights of every kind of the several banks are thereby transferred and
+vested in such new bank, and are as fully its property as they were of the
+banks which were parties to the agreement.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+999; A1983,
+1751;1987,
+1927)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-035">
+          <num>666.035</num>
+          <heading>Consolidation, conversion or merger of state bank with national
+bank: Minimum vote required; approval by Commissioner; applicable law;
+determination of value of shares or interests for dissenting stockholders.</heading>
+          <subsection eId="666-035__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A state bank may, with the approval of
+the Commissioner, consolidate, convert into or merge with a national bank upon
+the vote of the holders of not less than two-thirds of each class of voting
+stock of, or of the membersï¿½ interests in, the state bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-035__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall not approve any
+consolidation, conversion or merger under this section which would:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-035__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Result in a monopoly or which would further
+any attempt to monopolize the business of banking in this state; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-035__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Substantially lessen competition or be in
+restraint of trade, unless the Commissioner finds that the anticompetitive
+effects of the proposed transaction are clearly outweighed by the probable
+success of the transaction in meeting the needs of the community to be served.
+ï¿½In every
+case, the Commissioner shall consider the financial and managerial resources
+and the future prospects of the company or companies and the banks concerned,
+and the convenience and the needs of the community to be served.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-035__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 5, the rights and liabilities of a state bank which consolidates,
+converts into or merges with a national bank, and the rights and liabilities of
+the stockholders or members of the state bank, are the same as the rights and
+liabilities prescribed by the law of the United States for national banks and
+their stockholders or members at the time of the consolidation, conversion or
+merger.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-035__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Upon consolidation, conversion or
+merger, the resulting national bank becomes the same business as each
+consolidating, converting or merging bank, with all the property rights, power
+and duties of each consolidating, converting or merging bank, except as
+affected by the law of the United States and by the charter and bylaws of the
+resulting bank. Any reference to a consolidating, converting or merging bank in
+any writing, whether executed or which takes effect before or after the
+consolidation, conversion or merger, is applicable to the resulting bank if not
+inconsistent with the other provisions of that writing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-035__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The holders of shares of the stock of,
+or membersï¿½ interests in, a state bank which were voted against a consolidation
+or merger into a national bank are entitled to receive their value in cash, if
+and when the consolidation or merger becomes effective, upon written demand
+made to the resulting national bank at any time within 30 days after the
+effective date of the consolidation or merger, accompanied by the surrender of
+any stock certificate or certificates. The value of the shares or interests
+must be determined, as of the date of the meeting of the stockholders or
+members approving the consolidation or merger, by three appraisers to be
+selected as follows:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-035__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>One by the owners of two-thirds of the
+dissenting shares or interests involved;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-035__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>One by the board of directors of the
+resulting national bank; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-035__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>One by the appraisers chosen pursuant to
+paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-035__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-035__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>.
+ï¿½The
+valuation agreed upon by any two appraisers governs. If the appraisal is not
+completed within 90 days after the consolidation or merger becomes effective,
+the Comptroller of the Currency shall cause an appraisal to be made.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-035__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The amount fixed as the value of the
+shares of stock of, or membersï¿½ interests in, the consolidating or merging bank
+at the time of the meeting of the stockholders or members approving the
+consolidation or merger, and the amount fixed by the appraisal as provided by
+subsection 5, where the fixed value is not accepted, constitute a debt of the
+resulting national bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-035__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Upon the completion of the
+consolidation, conversion or merger, the license to operate as a state bank
+automatically terminates.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+999; A1981,
+1430;1983,
+1751;1987,
+587,1927;1995,
+492;1997,
+998)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-045">
+          <num>666.045</num>
+          <heading>Merger or consolidation of national bank with state bank;
+incorporation of national bank as state bank.</heading>
+          <subsection eId="666-045__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any national bank doing business in
+this state may, with the approval of the Commissioner, merge or consolidate
+with a state bank or incorporate as a state bank as provided inchapters 657to671,
+inclusive, of NRS for the organization of banks.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-045__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall, when approving
+or rejecting the proposed merger or consolidation, base his or her decision on
+the considerations provided inNRS 666.035.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-045__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner may accept good assets
+of the national bank, at their actual cash value, in lieu of cash payments for
+the stock of the state bank.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1000; A1981,
+1431;1983,
+1752;1987,
+1928)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-055">
+          <num>666.055</num>
+          <heading>Fiduciary powers and liabilities of banks merging or
+transferring assets and liabilities.</heading>
+          <content>
+            <p>When
+any bank organized under the laws of this state or Acts of Congress, and doing
+business in this state, consolidates or merges with or sells to and transfers
+its assets and liabilities to any other bank doing business in this state, as
+provided by the laws of this state or Acts of Congress, all the then existing
+fiduciary rights, powers, duties and liabilities of such consolidating, merging
+or transferring bank or banks shall, upon the effective date of such
+consolidation, merger or sale and transfer, vest in and thereafter be performed
+by the transferee bank or the consolidated or merged bank.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1000)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-065">
+          <num>666.065</num>
+          <heading>Definitions.</heading>
+          <subsection eId="666-065__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To ï¿½acquireï¿½ a bank means to obtain
+control of an existing bank or to establish a new bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-065__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½Business trustï¿½ means an organization
+in which a business or property is conveyed to trustees who manage the business
+or property for the benefit of the holders of the beneficial interest in the
+trust. The term does not include a voting trust.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-065__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>ï¿½Companyï¿½ means any corporation,
+business trust, association or similar entity, but does not include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-065__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A natural person; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-065__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A corporation of which a majority of the
+stock is owned by the United States or any state.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+928; A1983,
+1838;1984,
+3;1995,
+493,1558)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-070">
+          <num>666.070</num>
+          <heading>Applicability.</heading>
+          <subsection eId="666-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Owns only national banks within this
+state until the holding company acquires or applies for approval to acquire a
+bank licensed by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Does not control a bank which is
+located in Nevada but does control a bank in another state until the holding
+company acquires or applies for approval to acquire any bank located in Nevada.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1984,
+1; A1987,
+1928)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-075">
+          <num>666.075</num>
+          <heading>Rebuttable presumption against control of bank; certain legal
+relationships and companies deemed not to be bank holding companies.</heading>
+          <subsection eId="666-075__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>There is a rebuttable presumption that
+a company which directly or indirectly owns, controls or has the power to vote
+less than 10 percent of the voting stock of, or membersï¿½ interests in, a bank
+does not control the bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-075__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An estate, trust, guardianship or
+conservatorship is not by virtue of its ownership or control of stock of, or
+membersï¿½ interests in, a bank, a bank holding company unless it is:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-075__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A business trust; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-075__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A voting trust which by its terms or by law
+does not expire within 10 years after the date of its establishment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-075__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A company is not a bank holding company
+by virtue of its ownership or control of stock or a memberï¿½s interest which:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-075__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Was acquired in the ordinary course of
+securing or collecting a debt which the company previously contracted in good
+faith; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-075__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is held only as long as is necessary to sell
+the stock on a reasonable basis.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+929; A1983,
+1838;1984,
+3;1995,
+494;1997,
+999)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-085">
+          <num>666.085</num>
+          <heading>Regulations; reports to determine compliance.</heading>
+          <subsection eId="666-085__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner may adopt such
+regulations as may be necessary to carry out the provisions ofNRS 666.065to666.215, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-085__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner may require bank
+holding companies to submit reports under oath to determine whether they have
+complied with the provisions ofNRS 666.065to666.215, inclusive, and any
+regulations adopted pursuant to this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+929; A1983,
+1839;1987,
+1928)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-095">
+          <num>666.095</num>
+          <heading>Annual registration reports required of bank holding companies.</heading>
+          <subsection eId="666-095__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A full statement of the general
+financial condition of the company; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-095__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A description of the operation,
+management and intercompany relationships of the company.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1429; A1983,
+932,1747;1987,
+1929)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-105">
+          <num>666.105</num>
+          <heading>Examinations of bank holding companies by Commissioner.</heading>
+          <subsection eId="666-105__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each year the Commissioner shall make a
+thorough examination of and into the affairs of every bank holding company and
+every banking subsidiary thereof doing business in this state or accept a
+report of an examination made by the Comptroller of the Currency, the Federal
+Deposit Insurance Corporation or the Board of Governors of the Federal Reserve
+System.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-105__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner may make additional
+examinations of any bank holding company and its subsidiaries.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-105__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The expense of any examination made by
+the Commissioner must be borne by the bank holding company being examined.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1430; A1983,
+932,1745;1987,
+1929)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-115">
+          <num>666.115</num>
+          <heading>Formation of bank holding company: Approval by Commissioner;
+limitation; application for approval; acceptance of federal registration.</heading>
+          <subsection eId="666-115__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 4, a person who desires to form a bank holding company after July 1,
+1983, must be approved by the Commissioner before forming the company. A bank
+holding company may not be organized as a limited-liability company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-115__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The application for approval must
+include such information with respect to the financial condition, operations,
+management and intercompany relationships of the applicant and related matters,
+as the Commissioner may deem necessary or appropriate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-115__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner shall approve the
+application if the Commissioner determines that the applicant or its officers,
+directors and stockholders are of such character and fitness that any bank
+acquired by the applicant will be operated in a safe, prudent and profitable
+manner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-115__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Commissioner may accept copies of
+federal registration in lieu of requiring an application for approval of a bank
+holding company.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+929; A1983,
+1839;1987,
+1929;1995,
+494)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-125">
+          <num>666.125</num>
+          <heading>Approval required before acquisition of bank; application;
+considerations.</heading>
+          <subsection eId="666-125__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A bank holding company must receive the
+approval of the Commissioner before acquiring a bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-125__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The application for approval must
+include such information with respect to the financial condition, operations,
+management and intercompany relationships of the bank which is to be acquired
+and the bank holding company as the Commissioner may deem necessary or
+appropriate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-125__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In considering the application for
+approval, the Commissioner shall consider:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-125__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The financial condition of the bank holding
+company and any banks owned by it;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-125__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The probable effect of the acquisition on:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="666-125__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The bank holding company;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="666-125__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Any banks owned by the bank holding
+company; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="666-125__subsec_3__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The bank which is to be acquired; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="666-125__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The effect of the acquisition upon
+competition in banking.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+930; A1983,
+1840;1987,
+1929)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-135">
+          <num>666.135</num>
+          <heading>Approval of transfer of control required; grounds for
+disapproval.</heading>
+          <subsection eId="666-135__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any transfer of stock or trust
+certificates of a bank holding company by sale, gift or otherwise, which will
+result in giving the person who receives the shares voting control of the bank
+holding company must be approved by the Commissioner before the transfer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-135__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall not approve a
+transfer if the Commissioner determines that the person who will gain control
+has been removed from a position as a director, officer or employee of a bank
+holding company, bank or other financial institution pursuant to an order of a
+state or federal agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-135__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner may disapprove the
+transfer if in the Commissionerï¿½s opinion the person who will gain control does
+not meet the requirements for an officer, director or stockholder set forth in
+subsection 3 ofNRS 666.115.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+930; A1983,
+1840;1987,
+1931)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-145">
+          <num>666.145</num>
+          <heading>Order requiring removal of director, officer or employee;
+petition by person affected; injunction prohibiting participation in affairs of
+company.</heading>
+          <subsection eId="666-145__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Commissioner determines that a
+director, officer or employee of a bank holding company has been negligent,
+dishonest, reckless or incompetent in connection with his or her duties, the
+Commissioner may issue a written order requiring the person to be removed from
+his or her position.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-145__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The person affected by the order of the
+Commissioner may petition the district court for the judicial district in which
+the bank holding company is located to set aside the order. The court may
+affirm, modify or set aside the order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-145__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a director, officer or employee is
+not removed in accordance with an order of the Commissioner and the
+Commissioner has reasonable cause to believe that the continued participation
+of the person in the affairs of the bank holding company will place it in an
+unsafe or unsound condition, the Commissioner may apply to the district court
+for the judicial district in which the bank holding company is located for a
+temporary restraining order and an injunction prohibiting the person from
+participating in the affairs of the bank holding company.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+930; A1983,
+1840;1987,
+1931)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-155">
+          <num>666.155</num>
+          <heading>Failure to remove person pursuant to order conclusive evidence
+of negligence.</heading>
+          <content>
+            <p>If the board of
+directors of a bank holding company neglects or refuses to remove a person
+pursuant to an order of the Commissioner and the company subsequently incurs
+losses because of that personï¿½s activities, the written order of the
+Commissioner is conclusive evidence, in any action against the directors or a
+director for recovery of those losses, of the negligence of the directors in
+failing to act upon the order.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+930; A1983,
+1841;1987,
+1932)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-165">
+          <num>666.165</num>
+          <heading>Charges against company: Grounds; notice; hearing.</heading>
+          <subsection eId="666-165__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Commissioner has reasonable
+cause to believe that a bank holding company:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-165__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is engaging, has engaged or is about to
+engage in any unsafe or unsound practice in connection with the bank holding
+company or a bank which it owns or controls; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-165__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is violating, has violated or is about to
+violate a law, regulation or condition imposed in a written agreement between
+the Commissioner and the bank holding company,
+ï¿½the
+Commissioner may issue and serve upon the company a notice of the charges
+against the company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-165__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A notice issued pursuant to subsection
+1 must contain a statement of the facts which constitute the violation or
+unsafe or unsound practice and must set a time and place for a hearing to
+determine whether the Commissioner should issue an order to cease and desist
+from the activity. The hearing must be held not less than 20 nor more than 60
+days after service of the notice unless an earlier or later date is set by the
+Director of the Department of Business and Industry at the request of the bank
+holding company.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+931; A1983,
+1841;1987,
+1932;1993,
+1895)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-175">
+          <num>666.175</num>
+          <heading>Issuance of order to cease and desist; corrective action;
+effectiveness of order.</heading>
+          <subsection eId="666-175__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a representative of the bank holding
+company does not appear at the hearing, the company shall be deemed to have
+consented to the issuance of an order to cease and desist.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-175__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the bank holding company consents to
+the issuance of the order or if the Commissioner determines at the hearing that
+the company has engaged in or will engage in the activity charged, the
+Commissioner may issue and serve upon the company an order to cease and desist
+from the activity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-175__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The order may, by mandatory or
+prohibitory provisions, require the bank holding company and its directors,
+officers, employees and agents not to engage in the activity to which the order
+applies and to take action to correct conditions resulting from that activity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-175__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>An order issued pursuant to this
+section becomes effective at the time specified in the order and remains
+effective as provided in it unless it is stayed, modified or set aside by the
+Commissioner or a reviewing court.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+931; A1983,
+1841;1987,
+1932)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-185">
+          <num>666.185</num>
+          <heading>Temporary orders: Grounds; issuance; effectiveness.</heading>
+          <subsection eId="666-185__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Commissioner determines that the
+existing or threatened activity specified in a notice of charges is likely to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-185__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Cause insolvency or substantial dissipation
+of the assets or earnings of a bank which is owned or controlled by the bank
+holding company; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-185__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Seriously prejudice the interests of the
+depositors in the bank,
+ï¿½the
+Commissioner may issue a temporary order requiring the bank holding company to
+cease and desist from the activity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-185__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The temporary order becomes effective
+when served upon the bank holding company and remains effective until it is set
+aside by the Commissioner or a reviewing court or a permanent order is issued
+against the bank.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+931; A1983,
+1842;1987,
+1933)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-195">
+          <num>666.195</num>
+          <heading>Temporary orders: Application for injunction limiting or setting
+aside order; application for injunction prohibiting violation.</heading>
+          <subsection eId="666-195__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Within 10 days after a bank holding
+company has been served with a temporary order to cease and desist, the company
+may apply to the district court for the judicial district in which the company
+is located for an injunction limiting or setting aside the order until the
+hearing is held pursuant to the notice of charges.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-195__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a bank holding company violates or
+threatens to violate a temporary order, the Commissioner may apply to the
+district court for the judicial district in which the bank holding company is
+located for an injunction prohibiting the company from violating the order.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+932; A1983,
+1842;1987,
+1933)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-205">
+          <num>666.205</num>
+          <heading>Injunctions; civil penalty; divestiture by holding company in
+another state.</heading>
+          <subsection eId="666-205__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner may apply to the
+district court for an order compelling compliance with any provision ofNRS 666.065to666.195, inclusive. The court may award the
+Commissioner the costs of bringing the action and attorneyï¿½s fees.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-205__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner may bring an action
+against a person who violates a court order or injunction issued pursuant to
+this section orNRS 666.065to666.195, inclusive, to recover a civil
+penalty of not more than $10,000 for each violation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-205__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner may bring an action to
+require a holding company for a depository institution which acquired a
+depository institution in Nevada to divest itself of all interest in the
+acquired institution if the holding company violates:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-205__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An order to cease and desist issued pursuant
+toNRS 666.175; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-205__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A court order or injunction issued pursuant
+to this section orNRS 666.065to666.195, inclusive.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+932; A1983,
+1843;1984,
+4;1985,
+2154;1987,
+1933,2023)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-215">
+          <num>666.215</num>
+          <heading>Penalties.</heading>
+          <subsection eId="666-215__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who willfully violates any
+provision ofNRS 666.145is guilty of a
+category D felony and shall be punished as provided inNRS 193.130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-215__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who willfully violates any
+provision ofNRS 666.065to666.135, inclusive, or666.155to666.205, inclusive, is guilty of a gross
+misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+932; A1984,
+4;1995,
+1315)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-305">
+          <num>666.305</num>
+          <heading>Approval of Commissioner required before taking certain actions
+affecting depository institution or holding company whose home state is Nevada;
+penalty; injunctive relief.</heading>
+          <subsection eId="666-305__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Unless the Commissioner gives prior
+written approval, no person may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-305__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Acquire, directly or indirectly, a depository
+institution or holding company whose home state is Nevada;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-305__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Vote the stock of a depository institution or
+holding company acquired in violation of paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-305__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-305__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Acquire, directly or indirectly, the voting
+or nonvoting securities of a depository institution or a holding company whose
+home state is Nevada if the acquisition would result in that personï¿½s obtaining
+more than 20 percent of the authorized voting securities of the institution or
+company if the nonvoting securities were converted into voting securities; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-305__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Merge or consolidate with a depository
+institution or a holding company whose home state is Nevada.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-305__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any person who willfully violates any
+provision of this section or any regulation adopted by the Commissioner
+pursuant to this section is guilty of a misdemeanor. Each day during which the
+violation continues constitutes a separate offense.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-305__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner may obtain injunctive
+relief to prevent any change in control or impending violation of this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+2150; A1987,
+1934;1995,
+1559)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-315">
+          <num>666.315</num>
+          <heading>Application for approval required byNRS 666.305;
+contents; fee and expenses; review of application; issuance of written
+decision; grounds for disapproval; regulations.</heading>
+          <subsection eId="666-315__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An application filed with the
+Commissioner for approval must be on a form prescribed by the Commissioner and
+must include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-315__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A nonrefundable fee of not more than $6,000
+for the application. The depository institution or holding company must also
+pay such additional expenses incurred in the process of investigation as the
+Commissioner deems necessary. All money received by the Commissioner pursuant
+to this section must be placed in the Investigative Account created byNRS 232.545.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-315__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Information which the Commissioner requires
+to make the findings specified in subsection 4.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-315__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Unless the applicant is a resident of Nevada,
+a corporation organized in this State or a foreign corporation admitted to do
+business in this State, a written consent to service of process on a resident
+of this State in any action arising out of the applicantï¿½s activities in this
+State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-315__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In reviewing the application, the
+Commissioner shall consider the applicantï¿½s record of compliance with the
+Community Reinvestment Act of 1977, 12 U.S.C. ï¿½ï¿½ 2901 to 2905, inclusive, and
+whether the proposed transaction will meet the needs of those counties whose
+populations are less than 100,000 and whose residents are not being adequately
+served by existing financial institutions.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-315__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner shall issue a written
+decision within 60 days after receiving a completed application. The
+Commissioner may approve the application subject to any terms and conditions
+which the Commissioner considers necessary to protect the public interest.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-315__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Commissioner shall disapprove an
+application if the Commissioner finds:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-315__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>That the proposed transaction would be
+detrimental to the safety and soundness of the applicant, to any institution
+which is a party to the transaction, or to a subsidiary or affiliate of that
+institution;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-315__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The applicant or its executive officers,
+directors or principal stockholders have not established a record of sound
+performance, efficient management, financial responsibility and integrity so
+that it would be against the interest of the depositors, other customers,
+creditors or stockholders of an institution, or the public to authorize the
+proposed transaction;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-315__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The financial condition of the applicant or
+any other institution which is a participant in the proposed transaction might
+jeopardize the financial stability of the applicant or other institution, or
+prejudice the interests of depositors or other customers of the applicant or
+other institutions;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-315__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The consummation of the proposed transaction
+will tend to lessen competition substantially, unless the Commissioner finds
+that the anticompetitive effects of the proposed transaction are clearly
+outweighed by the benefit of meeting the convenience and needs of the relevant
+market to be served; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-315__subsec_4__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The applicant has not established a record of
+meeting the needs for credit of the communities which it or its subsidiary
+depository institution serves.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-315__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Commissioner shall adopt
+regulations establishing the amount of the application fee required pursuant to
+this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+2151; A1987,
+1935;1991,
+1808;1997,
+1000;2005,
+1846)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-325">
+          <num>666.325</num>
+          <heading>Examination, supervision and regulation of interstate
+operations.</heading>
+          <subsection eId="666-325__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner may examine and
+supervise any out-of-state depository institution or holding company which has
+been authorized to do business in this state. Such institutions and holding
+companies are subject to regulation in the same manner as institutions and
+holding companies organized under the laws of this state and must pay the same
+fees for supervision and examination, except that the Commissioner may
+coordinate these activities with any state or federal agency that shares
+jurisdiction over the institution.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-325__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner may coordinate the
+examination, supervision and regulation of any depository institution chartered
+by this state with the examination, supervision and regulation of an affiliated
+depository institution or branch operating in another state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-325__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner may take any
+reasonable and lawful action in furtherance of coordinating the regulation of
+interstate operations pursuant to this section, including:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-325__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Negotiating and entering into cooperative
+agreements with an agency of another state or of the Federal Government;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-325__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Sharing information and reports with an
+agency that shares jurisdiction over the institution;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-325__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Accepting as sufficient examination reports
+and other information compiled or generated by or for an agency that shares
+jurisdiction over the institution;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-325__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Contracting with an agency that shares
+jurisdiction over the institution to engage the services of its examiners at a
+reasonable rate of compensation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-325__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Offering the services of the Divisionï¿½s
+examiners at a reasonable rate of compensation to an agency that shares
+jurisdiction over the institution;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-325__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Collecting fees on behalf of, or receiving
+payment of fees through, an agency that shares jurisdiction over the
+institution;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-325__subsec_3__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Cooperating in any other way with other
+supervisory agencies and professional associations to promote the efficient,
+safe and sound operation and regulation of interstate activities of depository
+institutions, including the formulation of interstate policies and procedures
+for examination and the drafting of model laws, rules and agreements; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-325__subsec_3__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Adopting regulations to carry out the
+provisions of this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+2152; A1985,
+2160;1987,
+1936,2023;1995,
+1559)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-355">
+          <num>666.355</num>
+          <heading>Authority of Commissioner to authorize or require acquisition of
+failing depository institution or failing holding company which controls
+depository institution.</heading>
+          <content>
+            <p>If the
+Commissioner considers it necessary to protect depositors, creditors and other
+customers of a failing depository institution or a failing holding company
+which controls a depository institution, the Commissioner may solicit offers
+from and authorize or require the acquisition of the institution or company by
+or its merger with another institution or company.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+2153; A1985,
+2161;1987,
+1937,2023;1995,
+1560)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-365">
+          <num>666.365</num>
+          <heading>Rights, powers and privileges of acquired, acquiring or
+resulting depository institution or holding company.</heading>
+          <content>
+            <p>Any
+depository institution or holding company which is acquired pursuant toNRS 666.355, the institution which acquired
+the depository institution or holding company pursuant to that section or the
+institution which results from a merger pursuant to that section has all
+rights, powers and privileges of any other depository institution in this state
+which is of the same class.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+2153; A1985,
+2161)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-375">
+          <num>666.375</num>
+          <heading>Conditions for authorizing or requiring certain transactions
+involving out-of-state depository institution or out-of-state holding company.</heading>
+          <subsection eId="666-375__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The acquiring or merging depository
+institution or holding company has demonstrated an acceptable record of meeting
+the needs for credit of the communities which it serves; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-375__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The acquiring or merging depository
+institution or holding company has a record of sound performance, adequate
+stockholdersï¿½ or membersï¿½ equity, financial capacity and efficient management
+so the acquisition or merger will not jeopardize the financial stability of the
+acquired or merged depository institution and will not be detrimental to the
+interests of depositors, creditors or other customers of the depository
+institution, or to the public.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+2153; A1987,
+1937;1995,
+1560;1997,
+1001)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-390">
+          <num>666.390</num>
+          <heading>Authority and conditions for depository institution to act as
+agent for affiliated depository institution.</heading>
+          <subsection eId="666-390__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A depository institution may, at its
+main office or at any branch, act as an agent of any other depository
+institution that is a subsidiary of the same holding company in conducting the
+activities authorized by this section. This section applies whether or not the
+affiliated depository institutions have the same home state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-390__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A depository institution acting as an
+agent for an affiliated depository institution may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-390__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Receive deposits;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-390__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Renew time deposits;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-390__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Close loans;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-390__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Service loans; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-390__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Receive payments on loans and other
+obligations.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-390__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A depository institution may not do any
+of the following as an agent on behalf of an affiliated depository institution:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-390__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Open or originate deposit, savings or share
+accounts;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-390__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Evaluate or approve loans;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-390__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Disburse money loaned; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-390__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Conduct any activity as an agent that it is
+prohibited from conducting as a principal under any applicable law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-390__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A depository institution acting as a
+principal may not have an affiliated depository institution act as its agent in
+conducting any activity that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-390__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The principal depository institution is
+prohibited from conducting; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-390__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The agent depository institution would be
+prohibited from conducting as a principal.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-390__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>An agency between affiliates under this
+section must be consistent with safe and sound practices and shall comply with
+all applicable laws.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-390__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A depository institution acting as an
+agent shall not be deemed a branch of the affiliate solely because of
+activities conducted under this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-390__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>A depository institution that proposes
+to enter into an agreement for an agency under this section shall file with the
+Commissioner, at least 30 days before the effective date of the agreement:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-390__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A notice of intention to enter into an
+agreement for an agency with a depository institution;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-390__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A description of the services proposed to be
+performed under the agreement; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-390__subsec_7__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A copy of the agreement.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1553)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-400">
+          <num>666.400</num>
+          <heading>Powers of out-of-state depository institution or its holding
+company after acquisition of or merger with Nevada depository institution or
+its holding company; applicable laws; powers of Commissioner.</heading>
+          <subsection eId="666-400__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Subject to the provisions ofNRS 666.410,666.415and666.420, and after approval of the
+Commissioner pursuant toNRS 666.315, an
+out-of-state depository institution or its holding company may acquire control
+of, acquire all or substantially all of the assets of, or merge with, a Nevada
+depository institution or its holding company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-400__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An out-of-state depository institution
+or holding company that acquires a Nevada depository institution, or an
+out-of-state depository institution that is the resulting depository
+institution after merging with a Nevada depository institution, or an
+out-of-state depository institution that otherwise establishes or acquires a
+branch in Nevada, may, in accordance with applicable state and federal law:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-400__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Continue to operate the Nevada depository
+institution or branch;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-400__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Convert any existing main office or branch in
+Nevada into a branch of the out-of-state depository institution;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-400__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Establish or acquire additional branches of
+the out-of-state depository institution in any state where the Nevada
+depository institution could have done so had it not been acquired or merged;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-400__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Exercise any power and engage in any activity
+in this state to the same extent as a depository institution of the same type
+whose home state is Nevada, even if the out-of-state depository institution is
+not authorized to exercise those powers or engage in those activities in the
+out-of-state depository institutionï¿½s home state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-400__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A branch in this state of an
+out-of-state depository institution shall comply with:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-400__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the branch is not a federally chartered
+institution, the applicable laws relating to depository institutions of the
+institutionï¿½s home state, including, without limitation, provisions relating to
+the names of depository institutions; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-400__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the institution is a federally chartered
+institution, the provisions of federal law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-400__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the laws of this state as a host
+state conflict with the laws of another state as a home state, the laws of the
+home state prevail, except that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-400__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Commissioner may, by regulation, order
+that Nevada law prevail over that of the home state if the application of
+Nevada law is necessary to preserve the safe and sound operation of the branch
+or otherwise protect the residents of this state; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-400__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The laws of this state regarding protection
+of customers, fair lending and intrastate branching apply to a branch in this
+state of an out-of-state depository institution to the same extent as those
+laws apply to a branch in this state of a depository institution chartered by
+this state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-400__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>This section does not affect the
+authority of the Commissioner to examine, supervise and regulate an
+out-of-state depository institution operating or seeking to operate a branch in
+this state or to take any action or issue any order with regard to that branch
+pursuant toNRS 666.325.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1554; A1997,
+1001)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-405">
+          <num>666.405</num>
+          <heading>Acquisition of Nevada depository institution for conversion to
+branch of out-of-state depository institution or out-of-state holding company;
+restrictions; exceptions.</heading>
+          <subsection eId="666-405__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, an out-of-state depository institution without a branch in Nevada, or
+an out-of-state holding company without a depository institution in Nevada, may
+acquire a Nevada depository institution and convert the institution to a branch
+of the out-of-state depository institution or depository institution of the
+out-of-state holding company. If the Nevada depository institution is chartered
+after September 28, 1995, the Nevada depository institution may be so acquired
+only if it has been in existence for at least 5 years.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-405__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For the purposes of subsection 1:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-405__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A depository institution chartered solely for
+the purpose of acquiring another depository institution shall be deemed to have
+been in existence for the same period as the depository institution to be
+acquired, as long as the acquiring depository institution does not open for
+business at any time before the acquisition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-405__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A bank that was originally chartered as a
+corporation or limited-liability company other than a depository institution
+shall be deemed to have been in existence for the period since a certificate of
+amendment of its articles of incorporation or organization was filed pursuant
+toNRS 659.035to reorganize the
+corporation or limited-liability company as a bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-405__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A bank that was originally chartered as a
+Nevada depository institution other than a bank shall be deemed to have been in
+existence for the period since the original articles of incorporation or
+organization of the depository institution were filed with the Secretary of
+State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-405__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a Nevada depository institution becomes
+the successor in interest to the business of an out-of-state depository
+institution without a branch bank in this state that previously acquired a
+Nevada depository institution or to an out-of-state holding company without a
+branch bank in this state that previously acquired a Nevada depository
+institution, the Commissioner shall include the period of existence of the
+original Nevada depository institution when determining the period of existence
+of the successor Nevada depository institution.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-405__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Commissioner considers it
+necessary to protect depositors, creditors and other customers of a failing
+depository institution or a failing holding company which controls a depository
+institution, the Commissioner may authorize the acquisition of the institution
+or company by, or its merger with, another institution or company regardless of
+the duration of existence of the failing depository institution or failing
+holding company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="666-405__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The restriction set forth in subsection
+1 does not apply to an acquisition of, or merger between, affiliated depository
+institutions.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1555; A1997,
+1002;1999,
+428)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-410">
+          <num>666.410</num>
+          <heading>Establishment or acquisition of Nevada branch by out-of-state
+depository institution or out-of-state holding company.</heading>
+          <subsection eId="666-410__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An out-of-state depository institution
+without a branch in Nevada or an out-of-state holding company without a
+depository institution in Nevada may not establish a de novo branch in this
+State or acquire, through merger or otherwise, a branch of a depository
+institution in Nevada without acquiring the institution itself or its charter,
+except that, with the written approval of the Commissioner:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="666-410__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An out-of-state depository institution
+without a branch in Nevada may establish a branch office or acquire an existing
+branch in a county whose population is less than 100,000 without acquiring or
+merging with a Nevada depository institution or a Nevada holding company.
+Except as otherwise provided in subsection 2, an out-of-state depository
+institution that establishes or acquires a branch office pursuant to this
+paragraph continues to be considered an out-of-state depository institution
+without a branch in Nevada for the purposes of all other provisions of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-410__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An out-of-state depository institution
+without a branch in Nevada which is owned or controlled by a holding company
+that is entitled to the exemption set forth in section 4</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-410__subsec_1__subsec_c">
+              <num>(c)</num>
+            </paragraph>
+            <paragraph eId="666-410__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>of the Bank
+Holding Company Act of 1956, as amended, 12 U.S.C. ï¿½ 1843</p>
+              </content>
+            </paragraph>
+            <paragraph eId="666-410__subsec_1__subsec_c">
+              <num>(c)</num>
+            </paragraph>
+            <paragraph eId="666-410__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>, may acquire an
+existing branch in Nevada without acquiring or merging with a Nevada depository
+institution or a Nevada holding company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-410__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An out-of-state depository institution
+that on or before April 1, 2007, has, pursuant to paragraph</p>
+            </content>
+            <paragraph eId="666-410__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection
+1, established or acquired, or been approved by the Commissioner to establish
+or acquire, a branch in a county whose population is less than 100,000, may
+establish or acquire a branch in a county whose population is 100,000 or more
+so long as the out-of-state depository institution continues to operate a
+branch in a county whose population is less than 100,000.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="666-410__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An out-of-state depository institution
+that establishes or acquires a branch office pursuant to this section may issue
+a credit card pursuant to the provisions ofchapter
+97Aof NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1555; A2005,
+651;2007,
+654)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-415">
+          <num>666.415</num>
+          <heading>Waiver of federal limits on concentration of deposits.</heading>
+          <content>
+            <p>To the extent authorized by federal law, the
+Commissioner may waive any applicable federal limit on concentration of deposits
+if the Commissioner finds that the waiver promotes the availability of
+financial services or is otherwise in the public interest. The Commissioner
+may, by regulation, establish standards for granting a waiver pursuant to this
+section and the procedure for requesting a waiver. In making a decision to
+waive such a federally imposed limit, the Commissioner shall apply a standard
+that does not discriminate in purpose or effect against out-of-state depository
+institutions.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1555)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_666-420">
+          <num>666.420</num>
+          <heading>Reports by out-of-state depository institution or holding
+company.</heading>
+          <content>
+            <p>The Commissioner may, by
+regulation, require an out-of-state depository institution or holding company
+to submit such reports or permit the submission of such reports prepared
+pursuant to federal law as, in the Commissionerï¿½s discretion, contain
+sufficient information pertinent to operations in Nevada of branches of the
+institution or of depository institutions of the holding company.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1556)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

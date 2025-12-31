@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-413"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-413"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="413"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-413/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-413/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-413/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-413/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_413">
+        <num>413</num>
+        <heading>CIVIL AIR PATROL</heading>
+        <section eId="sec_413-010">
+          <num>413.010</num>
+          <heading>Legislative appropriations for Nevada Wing 27001 of Civil Air
+Patrol.</heading>
+          <subsection eId="413-010__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Carry out crash, rescue and emergency
+operations, support federal, state and local law enforcement agencies in
+homeland defense and narcotics interdiction missions, and provide organization
+and training therefor;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="413-010__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Provide for cadet training activities;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="413-010__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Purchase, repair and maintain emergency
+and training equipment.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:86:1953]—(NRS A1983,
+1900;2005,
+691)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_413-020">
+          <num>413.020</num>
+          <heading>Payment of claims against appropriated money.</heading>
+          <content>
+            <p>All claims against money appropriated pursuant
+toNRS 413.010must be approved by the
+wing commander and wing finance officer of Nevada Wing 27001 of the Civil Air
+Patrol, and the State Board of Examiners. Approved claims must be paid in the
+same manner as other claims against the State are paid.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [2:86:1953]—(NRS A1983,
+1900)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_413-030">
+          <num>413.030</num>
+          <heading>Reversion of appropriated money if Nevada Wing 27001 disbanded.</heading>
+          <content>
+            <p>If Nevada Wing 27001 of the Civil Air Patrol
+is disbanded by executive order of the President of the United States, any
+balance remaining of the appropriated money reverts to the State General Fund
+within 60 days after the date of the executive order.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [3:86:1953]—(NRS A1983,
+1901)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

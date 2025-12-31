@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-430A"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-430A"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="430A"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-430A/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-430A/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-430A/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-430A/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_430A">
+        <num>430A</num>
+        <heading>FAMILY RESOURCE CENTERS</heading>
+        <section eId="sec_430A-010">
+          <num>430A.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 430A.015to430A.080, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2765; A2005,
+467)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_430A-015">
+          <num>430A.015</num>
+          <heading>ï¿½Action planï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Action
+planï¿½ means a plan established by a family resource center, with input from the
+family resource center council, which describes the services to be offered by
+the family resource center in an at-risk community.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+467)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_430A-020">
+          <num>430A.020</num>
+          <heading>ï¿½At-risk communityï¿½ defined.</heading>
+          <subsection eId="430A-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Have low incomes;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="430A-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Are transient or at imminent risk of
+homelessness; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="430A-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Have members whose ability to excel in
+academics, work and social situations is impaired by the educational, economic
+and social situation of the family as a unit.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2766; A2005,
+467;2015,
+978)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_430A-030">
+          <num>430A.030</num>
+          <heading>ï¿½Directorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Directorï¿½
+means the Director of the Department of Health and Human Services.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2766)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_430A-040">
+          <num>430A.040</num>
+          <heading>ï¿½Family resource centerï¿½ defined.</heading>
+          <subsection eId="430A-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An assessment of their eligibility for
+social services;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="430A-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Social services directly from the
+family resource center; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="430A-040__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Referrals to obtain social services
+from other social service agencies or organizations.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2766; A2005,
+467;2015,
+978)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_430A-045">
+          <num>430A.045</num>
+          <heading>ï¿½Family resource center councilï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Family resource center councilï¿½ means an
+organization of people who reside in an at-risk community who assist and advise
+the family resource center which serves their community.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2766; A2005,
+467)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_430A-080">
+          <num>430A.080</num>
+          <heading>ï¿½Social service agencyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Social
+service agencyï¿½ means any public agency or organization of this State that
+provides social services for families, including, without limitation, services
+relating to employment, child care, health care, substance use disorders,
+education or welfare.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2766)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_430A-100">
+          <num>430A.100</num>
+          <heading>Solicitation and acceptance of gifts and grants by Director;
+accounting; grants of money to family resource centers; duties of Grants
+Management Advisory Committee concerning allocation of money.</heading>
+          <subsection eId="430A-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director may solicit and accept
+gifts and grants of money and other property, including real property, from any
+public or private source and may use the property and expend the money, subject
+to any limitations contained in the gift or grant, to carry out the provisions
+of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="430A-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Money received by the Director pursuant
+to this section must be accounted for separately in the State General Fund. The
+money in the account does not revert to the State General Fund at the end of
+any fiscal year and must be carried forward to the next fiscal year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="430A-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Director may make grants of money
+from the account to family resource centers to pay for any expenses incurred by
+those centers in carrying out their responsibilities, and may place such
+conditions on the acceptance of those grants as the Director determines are
+necessary, including requiring a center to provide matching money.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="430A-100__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Advisory Committee shall review all
+requests for grants of money to family resource centers and shall make
+recommendations to the Director concerning the allocation of money in the
+account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="430A-100__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>As used in this section, ï¿½Advisory
+Committeeï¿½ means the Grants Management Advisory Committee created byNRS 232.383or a working group of the
+Grants Management Advisory Committee that is appointed pursuant toNRS 232.387.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2768; A2005,
+468)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_430A-110">
+          <num>430A.110</num>
+          <heading>Power of Director to enter into contracts.</heading>
+          <content>
+            <p>The Director may enter into a contract with
+any person, association, government, governmental agency or political
+subdivision of a government to assist the Director in carrying out the
+provisions of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2769; A2005,
+468)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_430A-120">
+          <num>430A.120</num>
+          <heading>Director to adopt regulations.</heading>
+          <subsection eId="430A-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Criteria for evaluating and determining
+the geographic boundaries for at-risk communities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="430A-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A method for establishing family
+resource centers, which must include the option of designating existing
+organizations as family resource centers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="430A-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Criteria for evaluating and approving
+action plans. The criteria must provide that no action plan will be approved
+unless it is:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="430A-120__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Tailored to meet the specific needs of the
+community;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="430A-120__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Developed with input from members of the
+family resource center council and local and state elected officials who
+represent the geographic area in which the family resource center is located;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="430A-120__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Feasible in relation to the resources
+available to the family resource center to which the action plan applies.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="430A-120__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Criteria for the establishment and
+composition of a family resource center council.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2769; A2005,
+468;2015,
+978)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_430A-130">
+          <num>430A.130</num>
+          <heading>Solicitation and acceptance of gifts and grants by family
+resource centers and family resource center councils.</heading>
+          <content>
+            <p>Each
+family resource center and family resource center council may solicit and
+accept gifts and grants of money and other property, including real property,
+from any public or private source and may use the property and expend the
+money, subject to any limitations contained in the gift or grant, to carry out
+its functions.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2769; A2005,
+468)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_430A-140">
+          <num>430A.140</num>
+          <heading>Family resource center required to submit action plan to
+Director for approval.</heading>
+          <subsection eId="430A-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Before a family resource center may
+obtain a grant from the Director, the family resource center:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="430A-140__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Must submit to the Director an action plan
+created by the family resource center with input from the family resource
+center council and local and state elected officials who represent the
+geographic area in which the family resource center is located; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="430A-140__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Must obtain approval from the Director of
+that action plan.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="430A-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An action plan must be resubmitted to
+the Director for approval:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="430A-140__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>On or before July 1 of each year; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="430A-140__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any time the family resource center adopts a
+proposed amendment to the action plan.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2767; A2005,
+469;2015,
+978)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_430A-150">
+          <num>430A.150</num>
+          <heading>Establishment of family resource center council required;
+compliance with Open Meeting Law.</heading>
+          <subsection eId="430A-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each family resource center shall
+establish a family resource center council. The composition of the family
+resource center council must be consistent with the criteria set forth by
+regulations adopted pursuant toNRS
+430A.120.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="430A-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All meetings of a family resource
+center council must be conducted in accordance with the provisions ofchapter 241of NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2767; A2005,
+469)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_430A-160">
+          <num>430A.160</num>
+          <heading>Services provided.</heading>
+          <subsection eId="430A-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each family resource center shall
+provide referrals to obtain, if available, the following services:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="430A-160__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Education on caring for infants and day care
+services for infants;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="430A-160__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Education on parenting;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="430A-160__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Health care services for children, including
+all required immunizations;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="430A-160__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Programs to identify and assist infants and
+young children with developmental disabilities up to 5 years of age;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="430A-160__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Day care for children who are old enough to
+attend school, both before and after school;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="430A-160__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Programs to assist senior citizens;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="430A-160__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Programs to supplement formal education,
+including, without limitation, mentor programs for pupils in elementary and
+secondary schools, literacy programs, programs that encourage parental
+involvement in school, programs that teach English as a second language,
+programs to assist in the naturalization process and other alternative
+educational programs;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="430A-160__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Programs to teach adults and children skills
+for employment and self-sufficiency;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="430A-160__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Services that will assist families with
+physical and mental health issues, the special needs of children, food and
+nutritional needs, recreational needs, housing problems, domestic violence and
+substance use disorders;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="430A-160__subsec_1__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>Programs designed to reduce the rate of
+pregnancies in unmarried teenage girls;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="430A-160__subsec_1__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>Programs designed to assist pupils who are
+truant from school and to reduce the rate at which pupils drop out of school;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="430A-160__subsec_1__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>Transportation services, particularly to
+assist people in traveling to the social service agencies from which they may
+be receiving services pursuant to this section;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="430A-160__subsec_1__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>Classes that teach alternative means of
+resolving disputes that arise in the family; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="430A-160__subsec_1__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>Any other services for which the communities
+that the family resource center serves have a need.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="430A-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each family resource center may offer
+services directly through its own employees and resources or contract with
+social service agencies to provide services, or may do both.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="430A-160__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any family resource center that offers
+services directly through its own employees and resources shall comply with all
+applicable state and federal laws and regulations regarding the delivery of the
+services.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2767; A2005,
+469;2007,
+1820)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_430A-170">
+          <num>430A.170</num>
+          <heading>Case manager and administrative staff; training of case
+managers; duties of case manager.</heading>
+          <subsection eId="430A-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each family resource center must have a
+case manager and may have a coordinator to handle administrative matters. If a
+family resource center does not employ a separate person to act as coordinator,
+the case manager shall also act as coordinator.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="430A-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director shall provide training for
+all case managers on how to assess the needs of families using the family
+resource center.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="430A-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The case manager shall, for each family
+that seeks services from the center:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="430A-170__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Develop a plan with the family which
+specifies:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="430A-170__subsec_3__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The services for which the family is
+eligible;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="430A-170__subsec_3__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Whether the family will receive
+services from the family resource center or a social service agency, or both;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="430A-170__subsec_3__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The responsibilities the family
+members must fulfill to remain eligible for the services; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="430A-170__subsec_3__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>The manner in which the performance of
+responsibilities by the agency and the family members will be monitored; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="430A-170__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Collect and analyze data to monitor the
+performance by the family members of the responsibilities prescribed in the
+plan.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2767; A2015,
+979)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_430A-180">
+          <num>430A.180</num>
+          <heading>Prohibited services and procedures; exception.</heading>
+          <subsection eId="430A-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, when providing services on behalf of a family resource center
+which has received a grant from the Director pursuant to the provisions of this
+chapter, an employee or volunteer at the family resource center shall not
+administer drugs or contraceptives to or perform medical or dental procedures
+for a minor unless written consent to administer those drugs or contraceptives
+or to perform those procedures has been obtained from the minorï¿½s parent,
+guardian or legal custodian.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="430A-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A licensed physician, physician
+assistant, registered nurse or pharmacist who is an employee or volunteer at a
+family resource center which has received a grant from the Director pursuant to
+the provisions of this chapter may provide the services described inNRS 129.060under the conditions authorized
+by that section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2768; A2023,
+1124)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_430A-190">
+          <num>430A.190</num>
+          <heading>Privileged communications.</heading>
+          <content>
+            <p>Except
+as otherwise provided by a specific statute, any communications made to or
+documents received by an employee or volunteer at a family resource center from
+a person to obtain the services of the center are privileged and may not be
+disclosed without the personï¿½s consent or unless so ordered by a court of
+competent jurisdiction.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2768)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_430A-200">
+          <num>430A.200</num>
+          <heading>Reports by family resource centers; reports by Director.</heading>
+          <subsection eId="430A-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>On or before August 1 of each year,
+each family resource center shall submit a report to the Director summarizing
+its achievements and accounting for the expenditure of any money provided to it
+by the Director for the previous fiscal year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="430A-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>On or before September 30 of each year,
+the Director shall provide a written report to the Interim Finance Committee
+concerning the expenditure during the preceding fiscal year of all money
+received by the Director for carrying out the provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2769; A2005,
+470)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_430A-210">
+          <num>430A.210</num>
+          <heading>Social service agencies required to cooperate with family
+resource centers.</heading>
+          <content>
+            <p>All social
+service agencies shall cooperate with family resource centers in carrying out
+the provisions of this chapter, to the extent that doing so does not conflict
+with federal law or a specific state statute or administrative regulation.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2769; A2005,
+470)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-357"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-357"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="357"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-357/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-357/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-357/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-357/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_357">
+        <num>357</num>
+        <heading>SUBMISSION OF FALSE CLAIMS TO</heading>
+        <section eId="sec_357-010">
+          <num>357.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 357.020to357.030, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+824; A2013,
+1044)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-020">
+          <num>357.020</num>
+          <heading>ï¿½Claimï¿½ defined.</heading>
+          <subsection eId="357-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term does not include a request or
+demand for money or property that the State or a political subdivision has paid
+or provided to a natural person as:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="357-020__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Compensation for employment; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="357-020__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An income subsidy with no restriction on the
+natural personï¿½s use of the money or property.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+824; A2013,
+1044)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-022">
+          <num>357.022</num>
+          <heading>ï¿½Materialï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Materialï¿½
+means having a natural tendency to influence or be capable of influencing the
+payment or receipt of money, property or services.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+1043)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-024">
+          <num>357.024</num>
+          <heading>ï¿½Obligationï¿½ defined.</heading>
+          <subsection eId="357-024__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An express or implied contractual
+relationship;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-024__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A relationship between a grantor and a
+grantee;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-024__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A relationship between a licensor and a
+licensee;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-024__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A fee-based or similar relationship;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-024__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A statute or regulation; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-024__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The retention of any overpayment.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+1043)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-026">
+          <num>357.026</num>
+          <heading>ï¿½Original sourceï¿½ defined.</heading>
+          <subsection eId="357-026__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Who voluntarily discloses to the State
+or a political subdivision the information on which the allegations or
+transactions in an action for a false claim are based before the public
+disclosure of the information; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-026__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Who has knowledge of information that
+is independent of and materially adds to the publicly disclosed allegations or
+transactions and who voluntarily provides such information to the State or
+political subdivision before bringing an action for a false claim based on the
+information.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+1043; A2015,
+911)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-030">
+          <num>357.030</num>
+          <heading>ï¿½Political subdivisionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Political
+subdivisionï¿½ means a county, city, assessment district or any other local
+government as defined inNRS 354.474.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+824)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-040">
+          <num>357.040</num>
+          <heading>Liability for damages and civil penalty for certain acts.</heading>
+          <subsection eId="357-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 357.050, a person who, with or without
+specific intent to defraud, does any of the following listed acts is liable to
+the State or a political subdivision, whichever is affected, for the amounts
+set forth in subsection 2:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="357-040__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Knowingly presents or causes to be presented
+a false or fraudulent claim for payment or approval.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="357-040__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Knowingly makes or uses, or causes to be made
+or used, a false record or statement that is material to a false or fraudulent
+claim.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="357-040__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Has possession, custody or control of public
+property or money used or to be used by the State or a political subdivision
+and knowingly delivers or causes to be delivered to the State or a political
+subdivision less money or property than the amount of which the person has
+possession, custody or control.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="357-040__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Is authorized to prepare or deliver a
+document that certifies receipt of money or property used or to be used by the
+State or a political subdivision and knowingly prepares or delivers such a
+document without knowing that the information on the document is true.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="357-040__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Knowingly buys, or receives as a pledge or
+security for an obligation or debt, public property from a person who is not
+authorized to sell or pledge the property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="357-040__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Knowingly makes or uses, or causes to be made
+or used, a false record or statement that is material to an obligation to pay
+or transmit money or property to the State or a political subdivision.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="357-040__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Knowingly conceals or knowingly and
+improperly avoids or decreases an obligation to pay or transmit money or
+property to the State or a political subdivision.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="357-040__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Is a beneficiary of an inadvertent submission
+of a false claim and, after discovering the falsity of the claim, fails to
+disclose the falsity to the State or political subdivision within a reasonable
+time.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="357-040__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Conspires to commit any of the acts set forth
+in this subsection.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="357-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For each act described in subsection 1
+that is committed by a person, the person is liable for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="357-040__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Three times the amount of damages sustained
+by the State or political subdivision, whichever is affected, because of the
+act of the person;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="357-040__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The costs of a civil action brought to
+recover the damages described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="357-040__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="357-040__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as otherwise provided in this
+paragraph, a civil penalty of not less than $5,500 or more than $11,000. A
+civil penalty imposed pursuant to this paragraph must correspond to any
+adjustments in the monetary amount of a civil penalty for a violation of the
+federal False Claims Act, 31 U.S.C. ï¿½ 3729</p>
+              </content>
+            </paragraph>
+            <paragraph eId="357-040__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>, made by the Attorney General of
+the United States in accordance with the Federal Civil Penalties Inflation
+Adjustment Act of 1990, Pub. L. 101-410, as amended.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="357-040__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, a person acts
+ï¿½knowinglyï¿½ with respect to information if he or she:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="357-040__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Has knowledge of the information;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="357-040__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Acts in deliberate ignorance of whether the
+information is true or false; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="357-040__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Acts in reckless disregard of the truth or
+falsity of the information.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+824; A2007,
+2398;2013,
+1044;2015,
+912)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-050">
+          <num>357.050</num>
+          <heading>Limitation of damages and waiver of penalty for cooperation of
+defendant.</heading>
+          <subsection eId="357-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The person against whom the judgment is
+entered:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="357-050__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Furnished all information known to the person
+concerning the act, within 30 days after becoming aware of the information, to
+the Attorney General or a designee of the Attorney General pursuant toNRS 357.070; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="357-050__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Fully cooperated with any investigation of
+the act by the State or political subdivision; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="357-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>At the time the information was
+furnished, no criminal prosecution or civil or administrative proceeding had
+commenced with respect to the act and the person had no knowledge of the
+existence of any investigation with respect to the act.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+825; A2011,
+374)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-060">
+          <num>357.060</num>
+          <heading>Joint and several liability.</heading>
+          <content>
+            <p>Liability
+pursuant to this chapter is joint and several for an act done by two or more
+persons.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+825)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-070">
+          <num>357.070</num>
+          <heading>Investigation and action by Attorney General or certain
+designees.</heading>
+          <subsection eId="357-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, the Attorney General shall investigate diligently any alleged
+liability pursuant to this chapter and may bring a civil action pursuant to
+this chapter against the person liable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A district attorney or city attorney
+may accept a designation from the Attorney General to investigate any alleged
+liability pursuant to this chapter and may bring a civil action pursuant to
+this chapter against the person liable.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+825; A2007,
+2399;2011,
+374;2013,
+1045)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-080">
+          <num>357.080</num>
+          <heading>Action by private plaintiff; venue of actions.</heading>
+          <subsection eId="357-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section andNRS 357.100, a private
+plaintiff may bring an action pursuant to this chapter for a violation ofNRS 357.040on his or her own account and
+that of the State or a political subdivision, or both the State and a political
+subdivision. The action must be brought in the name of the State or the
+political subdivision, or both. After such an action is commenced, it may be
+dismissed only with written consent of the court and the Attorney General. The
+court and the Attorney General shall take into account the public purposes of
+this chapter and the best interests of the parties in dismissing the action or
+consenting to the dismissal, as applicable, and provide the reasons for
+dismissing the action or consenting to the dismissal, as applicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a private plaintiff brings an action
+pursuant to this chapter, no person other than the Attorney General or the
+Attorney Generalï¿½s designee may intervene or bring a related action pursuant to
+this chapter based on the facts underlying the first action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-080__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An action may not be maintained by a
+private plaintiff pursuant to this chapter:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="357-080__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Against a member of the Legislature or the
+Judiciary, an elected officer of the Executive Department of the State
+Government, or a member of the governing body of a political subdivision, if
+the action is based upon evidence or information known to the State or
+political subdivision at the time the action was brought.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="357-080__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the action is based upon allegations or
+transactions that are the subject of a civil action or an administrative
+proceeding for a monetary penalty to which the State or political subdivision
+is already a party.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="357-080__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A complaint filed pursuant to this
+section must be placed under seal and so remain for at least 60 days or until
+the Attorney General or a designee of the Attorney General pursuant toNRS 357.070has elected whether to
+intervene. No service may be made upon the defendant until so ordered by the
+court.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-080__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>On the date the private plaintiff files
+a complaint, he or she shall send a copy of the complaint to the Attorney
+General by mail with return receipt requested. The private plaintiff shall send
+with each copy of the complaint a written disclosure of substantially all material
+evidence and information he or she possesses. If a district attorney or city
+attorney has accepted a designation from the Attorney General pursuant toNRS 357.070, the Attorney General shall
+forward a copy of the complaint to the district attorney or city attorney, as
+applicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-080__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>An action pursuant to this chapter may
+be brought in any judicial district in this State in which the defendant can be
+found, resides, transacts business or in which any of the alleged fraudulent
+activities occurred.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+825,826;
+A2007,
+2399;2011,
+375;2013,
+1046;2015,
+913)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-100">
+          <num>357.100</num>
+          <heading>Action based upon certain public disclosures may only be brought
+by Attorney General, designee or original source of information; exceptions.</heading>
+          <subsection eId="357-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In a criminal, civil or administrative
+hearing to which the State, a political subdivision, or an agent of the State
+or a political subdivision is a party;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In an investigation, report, hearing or
+audit conducted by or at the request of a house of the Legislature, an auditor
+or the governing body of a political subdivision; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>By the news media,
+ï¿½unless the
+action or claim is brought by the Attorney General, a designee of the Attorney
+General pursuant toNRS 357.070or an
+original source of the information.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+828; A2011,
+375;2013,
+1046;2015,
+913)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-110">
+          <num>357.110</num>
+          <heading>Attorney General or designee may elect to intervene in action by
+private plaintiff; motion to extend time for election.</heading>
+          <subsection eId="357-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Within 60 days after receiving a
+complaint and disclosure, the Attorney General or a designee of the Attorney
+General pursuant toNRS 357.070may
+intervene and proceed with the action or, for good cause shown, move the court
+to extend the time for his or her election whether to proceed. The motion may
+be supported by affidavits or other submissions in chambers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Attorney General or the Attorney
+Generalï¿½s designee elects not to intervene, the private plaintiff may proceed
+with the action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-110__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Attorney General or the Attorney
+Generalï¿½s designee elects to intervene, the Attorney General or the Attorney
+Generalï¿½s designee may file his or her own complaint or amend the complaint of
+the private plaintiff who brought the action pursuant toNRS 357.080. For the purposes of the
+statute of limitations set forth inNRS
+357.170, any such pleading relates back to the filing date of the complaint
+of the private plaintiff, to the extent that any claim made by the Attorney
+General or the Attorney Generalï¿½s designee arises out of the conduct,
+transactions or occurrences set forth or attempted to be set forth in the prior
+complaint of the private plaintiff.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+826; A2007,
+2400;2011,
+376;2013,
+1047)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-120">
+          <num>357.120</num>
+          <heading>Effect of intervention of Attorney General or designee in action
+by private plaintiff; motion to dismiss; settlement.</heading>
+          <subsection eId="357-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Attorney General or a designee
+of the Attorney General pursuant toNRS
+357.070intervenes, the private plaintiff remains a party to an action
+pursuant toNRS 357.080.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Attorney General or the Attorney
+Generalï¿½s designee may move to dismiss the action for good cause. The private
+plaintiff must be notified of the filing of the motion and is entitled to
+oppose it and present evidence at the hearing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection, the Attorney General or the Attorney Generalï¿½s designee may settle
+the action. If the Attorney General or the Attorney Generalï¿½s designee intends
+to settle the action, the Attorney General or the Attorney Generalï¿½s designee
+shall notify the private plaintiff of that fact. Upon the request of the
+private plaintiff, the court shall determine, after a hearing, whether the
+proposed settlement is fair, adequate and reasonable under all the
+circumstances. Upon a showing for good cause, the court may conduct such
+hearing in camera.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+826; A2011,
+376;2013,
+1047;2015,
+914)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-130">
+          <num>357.130</num>
+          <heading>Effect of declination of Attorney General or designee to
+intervene in action by private plaintiff; authority for and effect of election
+by Attorney General or designee to intervene subsequently in such action.</heading>
+          <subsection eId="357-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Attorney General or a designee
+of the Attorney General pursuant toNRS
+357.070elects not to intervene in an action pursuant toNRS 357.080, the private plaintiff has the
+same rights in conducting the action as the Attorney General or the Attorney
+Generalï¿½s designee would have had. A copy of each pleading or other paper filed
+in the action, and a copy of the transcript of each deposition taken, must be
+mailed to the Attorney General or the Attorney Generalï¿½s designee if the
+Attorney General or the Attorney Generalï¿½s designee so requests and pays the
+cost thereof.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For good cause shown, the Attorney
+General or the Attorney Generalï¿½s designee may intervene in an action in which
+he or she has previously declined to intervene, if the interest of the State or
+a political subdivision in recovery of the money or property involved is not
+being adequately represented by the private plaintiff.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-130__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Attorney General or the Attorney
+Generalï¿½s designee so intervenes, the private plaintiff retains primary
+responsibility for conducting the action and any recovery must be apportioned
+as if the Attorney General or the Attorney Generalï¿½s designee had not
+intervened.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+826; A2011,
+376;2013,
+1048)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-140">
+          <num>357.140</num>
+          <heading>Response by defendant.</heading>
+          <content>
+            <p>The
+defendant is entitled to 20 days in which to respond after a complaint filed
+pursuant toNRS 357.080is unsealed and
+served upon the defendant.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+826; A2013,
+1048)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-150">
+          <num>357.150</num>
+          <heading>Stay of discovery by private plaintiff; extension.</heading>
+          <subsection eId="357-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The court may stay discovery by a
+private plaintiff for not more than 60 days if the Attorney General or a
+designee of the Attorney General pursuant toNRS
+357.070shows that the proposed discovery would interfere with the
+investigation or prosecution of a civil or criminal matter arising out of the
+same facts, whether or not the Attorney General or the Attorney Generalï¿½s
+designee participates in the action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The court may extend the stay upon a
+further showing that the Attorney General or the Attorney Generalï¿½s designee
+has pursued the civil or criminal investigation or proceeding with reasonable
+diligence and the proposed discovery would interfere with its continuation.
+Discovery may not be stayed for a total of more than 6 months over the
+objection of the private plaintiff, except for good cause shown by the Attorney
+General or the Attorney Generalï¿½s designee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-150__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A showing made pursuant to this section
+must be made in chambers.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+828; A2011,
+377)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-160">
+          <num>357.160</num>
+          <heading>Court-imposed limitation upon participation of private plaintiff
+in action.</heading>
+          <subsection eId="357-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The number of witnesses he or she may
+call;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The length of the testimony of the
+witnesses; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-160__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>His or her cross-examination of
+witnesses.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+828; A2011,
+377)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-170">
+          <num>357.170</num>
+          <heading>Limitation of actions; standard of proof; effect of certain findings
+of guilt in criminal proceeding on action.</heading>
+          <subsection eId="357-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An action pursuant to this chapter may
+not be commenced:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="357-170__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>More than 3 years after the date on which the
+Attorney General or a designee of the Attorney General pursuant toNRS 357.070discovers, or reasonably should
+have discovered, the fraudulent activity, but in no event more than 10 years
+after the fraudulent activity occurred; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="357-170__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>More than 6 years after the fraudulent
+activity occurred,
+ï¿½whichever
+occurs later. Within those limits, an action may be based upon fraudulent
+activity that occurred before May 27, 2015.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="357-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In an action pursuant to this chapter,
+the standard of proof is a preponderance of the evidence. A finding of guilty
+or guilty but mentally ill in a criminal proceeding charging false statement or
+fraud, whether upon a verdict of guilty or guilty but mentally ill or a plea of
+guilty, guilty but mentally ill or nolo contendere, estops the person found
+guilty or guilty but mentally ill from denying an essential element of that
+offense in an action pursuant to this chapter based upon the same transaction
+as the criminal proceeding.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+829; A2007,
+1446,2400;2011,
+377;2015,
+914)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-180">
+          <num>357.180</num>
+          <heading>Award of expenses and attorneyï¿½s fees.</heading>
+          <subsection eId="357-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Attorney General, a designee of
+the Attorney General pursuant toNRS 357.070or a private plaintiff prevails in or settles an action pursuant toNRS 357.080, the private plaintiff is
+entitled to a reasonable amount for expenses that the court finds were
+necessarily incurred, including reasonable costs, attorneyï¿½s fees and the fees
+of expert consultants and expert witnesses. Those expenses must be awarded
+against the defendant, and may not be allowed against the State or a political
+subdivision.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Attorney General or the Attorney
+Generalï¿½s designee does not proceed with the action and the defendant prevails
+in the action brought by a private plaintiff, the court may award the defendant
+reasonable expenses and attorneyï¿½s fees against the party or parties who
+participated in the action if it finds that the action was clearly frivolous,
+clearly vexatious or brought primarily for the purposes of harassment.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+828; A2011,
+377;2013,
+1048)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-190">
+          <num>357.190</num>
+          <heading>ï¿½Recoveryï¿½ defined.</heading>
+          <content>
+            <p>As
+used inNRS 357.190to357.230, inclusive, ï¿½recoveryï¿½ includes
+civil penalties and does not include any allowance of expenses or attorneyï¿½s
+fees.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+827; A2013,
+1048)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-200">
+          <num>357.200</num>
+          <heading>Distribution in certain actions to special account in State
+General Fund or to general fund of political subdivision.</heading>
+          <subsection eId="357-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Attorney General initiates an
+action pursuant to this chapter, 33 percent of any recovery must be paid into
+the State General Fund to the credit of a special account, for use by the
+Attorney General as appropriated or authorized by the Legislature in the
+investigation and prosecution of false claims.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a designee of the Attorney General
+pursuant toNRS 357.070initiates an
+action pursuant to this chapter, 33 percent of any recovery must be paid into
+the general fund of the political subdivision that employs the Attorney
+Generalï¿½s designee.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+827; A2011,
+378)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-210">
+          <num>357.210</num>
+          <heading>Distribution to private plaintiff in certain actions; court
+authorized to reduce recovery in certain circumstances.</heading>
+          <subsection eId="357-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3, if the Attorney General or a designee of the Attorney General
+pursuant toNRS 357.070intervenes at
+the outset in an action pursuant toNRS
+357.080, the private plaintiff is entitled to receive not less than 15
+percent or more than 25 percent of any recovery, according to the extent of his
+or her contribution to the conduct of the action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3, if the Attorney General or the Attorney Generalï¿½s designee does
+not intervene in the action at the outset, the private plaintiff is entitled to
+receive not less than 25 percent or more than 30 percent of any recovery, as
+the court determines to be reasonable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Regardless of whether the Attorney
+General or the Attorney Generalï¿½s designee intervenes in the action, if the
+court finds that the action was brought by a private plaintiff who planned or
+initiated the violation ofNRS 357.040upon which the action is based, the court may reduce the recovery to which the
+private plaintiff is otherwise entitled pursuant to subsection 1 or 2. The
+court shall consider the role of the private plaintiff in advancing the action
+and any other relevant circumstances. If the private plaintiff is convicted of
+criminal conduct arising from his or her role in the violation ofNRS 357.040, the private plaintiff must be
+dismissed from the civil action and must not receive any share of the recovery
+pursuant to subsection 1 or 2. Any such dismissal does not prejudice the right
+of the Attorney General or the Attorney Generalï¿½s designee to continue the
+action.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+827; A2011,
+378;2013,
+1048;2015,
+914)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-230">
+          <num>357.230</num>
+          <heading>Distribution of unapportioned portion to general fund of State
+or political subdivision, or both.</heading>
+          <content>
+            <p>The
+portion of any recovery not apportioned pursuant toNRS 357.200and357.210must be paid into the State General
+Fund if the money, property or services were provided only by the State, or
+into the general fund of the political subdivision if they were provided only
+by a political subdivision. If the action involved both the State and a
+political subdivision, the court shall apportion the remaining portion of any
+recovery between them according to the respective values of the money, property
+or services provided by each.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+827; A2013,
+1049)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_357-250">
+          <num>357.250</num>
+          <heading>Entitlement of employee, contractor or agent to remedies in
+certain circumstances.</heading>
+          <subsection eId="357-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If an employee, contractor or agent is
+discharged, demoted, suspended, threatened, harassed or discriminated against
+in the terms and conditions of employment as a result of any lawful act of the
+employee, contractor, agent or associated others in furtherance of an action
+brought pursuant to this chapter or any other effort to stop a violation of
+this chapter, the employee, contractor or agent is entitled to all relief
+necessary to make the employee, contractor or agent whole, including, without
+limitation, reinstatement with the same seniority as if the discharge,
+demotion, suspension, threat, harassment or discrimination had not occurred or
+damages in lieu of reinstatement if appropriate, twice the amount of lost
+compensation, interest on the lost compensation, any special damage sustained
+as a result of the discharge, demotion, suspension, threat, harassment or
+discrimination and punitive damages if appropriate. The employee, contractor or
+agent may also receive compensation for expenses recoverable pursuant toNRS 357.180, costs and attorneyï¿½s fees.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="357-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A civil action brought pursuant to this
+section may not be brought more than 3 years after the date on which the
+discharge, demotion, suspension, threat, harassment or discrimination occurred.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+829; A2013,
+1049;2015,
+915)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

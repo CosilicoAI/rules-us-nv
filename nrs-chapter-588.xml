@@ -1,0 +1,1668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-588"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-588"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="588"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-588/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-588/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-588/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-588/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_588">
+        <num>588</num>
+        <heading>COMMERCIAL FERTILIZERS AND</heading>
+        <section eId="sec_588-010">
+          <num>588.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 588.020to588.150, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:203:1951]—(NRS A1975,
+359;1977,
+187;1993,
+1791;1999,
+3733;2003,
+413)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-020">
+          <num>588.020</num>
+          <heading>ï¿½Agricultural mineralsï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Agricultural
+mineralsï¿½ means substances, mixtures of mineral substances, and mixtures of
+mineral and organic substances, containing less than 5 percent in available
+form of nitrogen, phosphorus pentoxide, or potassium oxide, singly,
+collectively, or in combination, except sand and soil, unless otherwise
+authorized by the Director.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:203:1951]—(NRS A1993,
+1791;1999,
+3733)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-030">
+          <num>588.030</num>
+          <heading>ï¿½Auxiliary plant chemicalsï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Auxiliary
+plant chemicalsï¿½ means substances such as hormones, auxins, materials for
+reducing preharvest drop of fruit, materials for promoting rooting of cuttings,
+bacterial inoculants, and similar products intended to be used for influencing
+plantlife.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:203:1951]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-040">
+          <num>588.040</num>
+          <heading>ï¿½Brandï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Brandï¿½
+means any and all words, terms, designs or trademarks used in connection with
+one or several grades of fertilizers or agricultural minerals.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:203:1951]—(NRS A1963,
+36)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-050">
+          <num>588.050</num>
+          <heading>ï¿½Commercial fertilizersï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Commercial
+fertilizersï¿½ means substances and mixtures of substances containing 5 percent
+or more of nitrogen, available phosphoric acid, phosphorus pentoxide, or
+potassium oxide soluble in distilled water, singly, collectively, or in
+combination, excepting manures, hays, straws, peat and leaf mold.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:203:1951]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-061">
+          <num>588.061</num>
+          <heading>ï¿½Departmentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Departmentï¿½
+means the State Department of Agriculture.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+3733)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-065">
+          <num>588.065</num>
+          <heading>ï¿½Directorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Directorï¿½
+means the Director of the Department.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+3733)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-070">
+          <num>588.070</num>
+          <heading>ï¿½Distributorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Distributorï¿½
+means any person who offers for sale, sells, barters or otherwise supplies
+commercial fertilizers or agricultural minerals.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:203:1951]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-080">
+          <num>588.080</num>
+          <heading>ï¿½Gradeï¿½ defined.</heading>
+          <subsection eId="588-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>As related to fertilizers, ï¿½gradeï¿½
+means the minimum percentage of total nitrogen, available phosphorus or
+phosphoric acid and soluble potassium or soluble potash stated in the order
+given in this subsection and, when applied to mixed fertilizers, shall be in
+whole numbers only.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As related to agricultural minerals,
+ï¿½gradeï¿½ means the minimum percentage of guaranteed analysis determined as
+provided inNRS 588.190.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:203:1951]—(NRS A1963,
+36)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-090">
+          <num>588.090</num>
+          <heading>ï¿½Manuresï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Manuresï¿½
+means the excreta of domestic animals or domestic fowls when not artificially
+mixed with any material or materials other than those which have been used for
+bedding, sanitary or feeding purposes for animals or fowls or for the
+preservation of manure.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:203:1951]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-100">
+          <num>588.100</num>
+          <heading>ï¿½Official sampleï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Official
+sampleï¿½ means any sample of commercial fertilizer or agricultural mineral taken
+by the Director or his or her agent according to the methods prescribed by the
+Director.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:203:1951]—(NRS A1993,
+1791;1999,
+3733)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-110">
+          <num>588.110</num>
+          <heading>ï¿½Percentï¿½ and ï¿½percentageï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Percentï¿½
+or ï¿½percentageï¿½ means the percentage by weight.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:203:1951]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-121">
+          <num>588.121</num>
+          <heading>ï¿½Restricted-use commercial fertilizer or agricultural mineralï¿½
+defined.</heading>
+          <content>
+            <p>ï¿½Restricted-use
+commercial fertilizer or agricultural mineralï¿½ means a commercial fertilizer or
+agricultural mineral classified for restricted use pursuant toNRS 588.164.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+410)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-130">
+          <num>588.130</num>
+          <heading>ï¿½Sellï¿½ and ï¿½saleï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Sellï¿½
+or ï¿½saleï¿½ includes exchange.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:203:1951]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-140">
+          <num>588.140</num>
+          <heading>ï¿½Soil amendmentsï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Soil
+amendmentsï¿½ means all substances except those included withinNRS 588.020,588.030,588.050and588.090, and includes hays, straws,
+peat, leaf mold, sand and soil.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:203:1951]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-145">
+          <num>588.145</num>
+          <heading>ï¿½Substanceï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Substanceï¿½
+means any material or mixture of materials which is intended to be used to
+promote or stimulate the growth of plants, to increase the productiveness of
+plants, to improve the quality of crops or to produce any chemical or physical
+change in the soil.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+359)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-150">
+          <num>588.150</num>
+          <heading>ï¿½Tonï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Tonï¿½
+means a net ton of 2,000 pounds avoirdupois.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:203:1951]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-155">
+          <num>588.155</num>
+          <heading>Applicability.</heading>
+          <subsection eId="588-155__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To restrict or avoid sales or exchanges
+of commercial fertilizers or agricultural minerals to each other by importers,
+manufacturers or manipulators who mix fertilizer materials for sale; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-155__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As preventing the free and unrestricted
+shipment of commercial fertilizers or agricultural minerals to manufacturers or
+manipulators who have registered their brands as required by the provisions of
+this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [18:203:1951]—(Substituted in revision for NRS
+588.340)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-160">
+          <num>588.160</num>
+          <heading>Duty of Director to administer chapter.</heading>
+          <content>
+            <p>The
+provisions of this chapter must be administered by the Director.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1:203:1951]—(NRS A1961,
+576;1993,
+1791;1999,
+3733)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-162">
+          <num>588.162</num>
+          <heading>Jurisdiction of Director over distribution, sale and
+transportation of commercial fertilizers and agricultural minerals.</heading>
+          <content>
+            <p>The Director has jurisdiction in all matters
+pertaining to the distribution, sale and transportation of commercial fertilizers
+and agricultural minerals pursuant to this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+410)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-163">
+          <num>588.163</num>
+          <heading>Authority of Director to adopt certain rules and standards by
+reference.</heading>
+          <content>
+            <p>Pursuant toNRS 233B.040, the Director may adopt by
+reference the fertilizer control rules and standards of the Association of
+American Plant Food Control Officials or its successor organization.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+3636)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-164">
+          <num>588.164</num>
+          <heading>Regulations: Application and distribution of injurious and
+detrimental commercial fertilizers and agricultural minerals; classification of
+restricted-use commercial fertilizers and agricultural minerals; additional
+authority to carry out chapter.</heading>
+          <subsection eId="588-164__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director shall adopt regulations
+governing the application and distribution of any commercial fertilizer or
+agricultural mineral which the Director finds must necessarily be applied as a
+commercial fertilizer or agricultural mineral but which, unless carefully used,
+is likely to be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="588-164__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Injurious to persons, pollinating insects,
+bees, animals, crops or land; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-164__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Detrimental to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="588-164__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Vegetation, except weeds;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="588-164__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Wildlife; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="588-164__subsec_1__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Public health and safety.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="588-164__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director in classifying commercial
+fertilizers and agricultural minerals as restricted-use commercial fertilizers
+or agricultural minerals shall determine whether:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="588-164__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commercial fertilizer or agricultural
+mineral is highly toxic to humans or other animals, including wildlife;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-164__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The regulations governing the application and
+distribution of the commercial fertilizer or agricultural mineral are
+reasonably calculated to avoid injury and are necessary for the proper use of
+the commercial fertilizer or agricultural mineral;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-164__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The benefit from the use of the commercial
+fertilizer or agricultural mineral is of greater value to the public than the
+detriment to the environment or the public health and safety from the use of
+the commercial fertilizer or agricultural mineral; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-164__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The commercial fertilizer or agricultural
+mineral can be used for harmful purposes other than its registered purposes.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="588-164__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Director may adopt such other
+regulations as are necessary to carry out the provisions of this chapter,
+including, without limitation, regulations governing:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="588-164__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The collection and examination of commercial
+fertilizers and agricultural minerals;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-164__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The types of containers and packages required
+to be used for specific commercial fertilizers or agricultural minerals,
+including, without limitation, requirements concerning the construction,
+strength and size of the containers and packages to avoid the danger of
+spillage, breakage or misuse;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-164__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The safe handling, transportation, storage,
+display, distribution and disposal of commercial fertilizers and agricultural
+minerals and their containers; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-164__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The information required to be recorded and
+maintained concerning the sale, use and distribution of restricted-use
+commercial fertilizers and agricultural minerals.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+411)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-168">
+          <num>588.168</num>
+          <heading>Elimination of dangerous, nonbeneficial or misrepresented
+commercial fertilizers and agricultural minerals; program for evaluation of
+commercial fertilizers and agricultural minerals.</heading>
+          <subsection eId="588-168__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Eliminate from use in this state any
+commercial fertilizer or agricultural mineral that the Director finds:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="588-168__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Endangers the agricultural or nonagricultural
+environment;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-168__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is not beneficial for the purposes for which
+it is sold; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-168__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Is misrepresented.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="588-168__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In carrying out the duties set forth in
+subsection 1, develop a program for the continual evaluation of all commercial
+fertilizers and agricultural minerals the brands and grades of which have been
+registered pursuant toNRS 588.170.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+410)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-170">
+          <num>588.170</num>
+          <heading>Registration required; form for application; fees; expiration;
+grounds for denial of renewal.</heading>
+          <subsection eId="588-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each brand and grade of commercial
+fertilizer or agricultural mineral must be registered with the Department
+before being offered for sale, sold or distributed in this state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An application for registration must be
+submitted to the Director on a form furnished by the Director, and, except as
+otherwise provided in subsection 3, must be accompanied by a nonrefundable
+registration fee in an amount to be fixed annually by the Director for each
+combined registration of brand and grade.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person who offers a commercial
+fertilizer or agricultural mineral for sale before registering the brand and
+grade of the commercial fertilizer or agricultural mineral shall pay an amount
+equal to twice the otherwise applicable registration fee for registering the
+brand and grade of the commercial fertilizer or agricultural mineral.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-170__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>All registrations expire on December 31
+of each year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-170__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Director may deny the renewal of a
+registration if all the required tonnage reports have not been submitted and
+all fees and penalties have not been paid.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:203:1951]—(NRS A1961,
+576;1963,
+36;1977,
+261;1983,
+405;1993,
+1791;1999,
+3601,3733;2003,
+413;2015,
+3636)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-180">
+          <num>588.180</num>
+          <heading>Application: Contents; analysis of commercial fertilizers.</heading>
+          <subsection eId="588-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The application must include the
+following information in the following order:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="588-180__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The name and address of the person
+guaranteeing the registration.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-180__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The brand and grade.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-180__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The guaranteed analysis showing the minimum
+percentage and source of plant food claimed in the following order and form:
+Total nitrogen: Percentage ........,
+source ........
+Available phosphoric acid:
+Percentage ........, source ......
+Soluble potash: Percentage ........,
+source ........
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="588-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Fertilizer materials containing only
+one plant food element and recognized by their chemical names are not required
+to be guaranteed for the plant food element contained therein.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-180__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Unacidulated mineral phosphatic
+materials and basic slag must be guaranteed as to both total and available
+phosphoric acid, and the degree of fineness.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-180__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In the case of bone, tankage and other
+natural organic phosphate materials, only the total phosphoric acid is required
+to be guaranteed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-180__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Additional plant food elements,
+determined by chemical methods, may be guaranteed only by permission of the
+Director. If any of those additional plant foods are claimed, they must be
+included in the guarantee, and are subject to inspection and analysis in
+accordance with the methods and regulations that may be prescribed by the
+Director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-180__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Director may permit or require the
+potential basicity or acidity, expressed in terms of calcium carbonate
+equivalent in multiples of 100 pounds per ton, to be registered and guaranteed.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:203:1951]—(NRS A1961,
+576;1963,
+37;1975,
+360;1993,
+1791;1999,
+3734)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-190">
+          <num>588.190</num>
+          <heading>Application: Analysis of agricultural minerals.</heading>
+          <subsection eId="588-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Limestone, limerock, chalk, dolomite,
+dolomitic limestone, marl, oystershell, shells and every other agricultural
+mineral, the principal constituent of which is calcium carbonate, the percentage
+of calcium carbonate therein.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Burnt lime, quicklime, and every
+agricultural mineral, the principal constituent of which is calcium oxide, the
+percentage of calcium oxide therein.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-190__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Hydrated lime, slacked lime, and every
+agricultural mineral, the principal constituent of which is calcium hydroxide,
+the percentage of calcium hydroxide therein.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-190__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>By-products in the manufacture of sugar
+or acetylene and every other agricultural mineral obtained as a by-product, the
+principal constituent of which is a compound of calcium, the neutralizing
+powers expressed as calcium carbonate equivalent.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-190__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Gypsum, land plaster, plaster, and
+every agricultural mineral, the principal constituent of which is calcium
+sulfate, the percentage of calcium sulfate dihydrate (CaSO4-2H2O) therein.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-190__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Sulfur, brimstone, and every
+agricultural mineral, the principal ingredient of which is elemental sulfur,
+the percentage of elemental sulfur therein.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-190__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>In the case of any agricultural mineral
+not specifically mentioned herein, the percentage of all constituents claimed
+to be therein in terms or equivalent as prescribed by the Director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-190__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>In the case of any mixture of two or
+more agricultural minerals, the percentage of each principal constituent as
+prescribed in this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:203:1951]—(NRS A1961,
+577;1975,
+360;1993,
+1792;1999,
+3734)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-192">
+          <num>588.192</num>
+          <heading>Cancellation, denial or suspension of registration: Grounds.</heading>
+          <subsection eId="588-192__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director may, after a hearing,
+cancel the registration of, or refuse to register, the brand and grade of any
+commercial fertilizer or agricultural mineral if the Director finds that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="588-192__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commercial fertilizer or agricultural
+mineral has demonstrated serious uncontrollable adverse effects within or
+outside the agricultural environment;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-192__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The use of the commercial fertilizer or
+agricultural mineral is of less value to the public or greater detriment to the
+environment than the benefit received by its use;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-192__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>There is a reasonably effective and
+practicable alternate material which is demonstrably less destructive to the
+environment;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-192__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The commercial fertilizer or agricultural
+mineral, if properly used, is detrimental to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="588-192__subsec_1__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Vegetation, except weeds;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="588-192__subsec_1__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Domestic animals; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="588-192__subsec_1__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Public health and safety;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="588-192__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The commercial fertilizer or agricultural
+mineral is of little or no value for the purpose for which it is intended; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-192__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Any false or misleading statement concerning
+the commercial fertilizer or agricultural mineral has been made or implied by
+the registrant or an agent of the registrant, or by the applicant for
+registration, orally or in writing, or in the form of any advertising.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="588-192__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In making any such determination, the
+Director may require such practical demonstrations as are necessary to determine
+the facts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-192__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Director has reason to believe
+that any of the findings described in subsection 1 are applicable to any
+commercial fertilizer or agricultural mineral the brand and grade of which is
+registered and that the use or continued use of the commercial fertilizer or
+agricultural mineral constitutes an immediate substantial danger to any person
+or the environment, the Director may, after notice to the registrant, suspend
+the registration of the brand and grade of the commercial fertilizer or
+agricultural mineral pending a hearing and final decision.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+410)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-194">
+          <num>588.194</num>
+          <heading>Cancellation or denial of registration: Fraudulent or deceptive
+practices to evade chapter.</heading>
+          <content>
+            <p>The
+Director may cancel the registration of any brand of commercial fertilizer or
+agricultural mineral or refuse to register any brand of commercial fertilizer
+or agricultural mineral, as provided in this chapter, upon satisfactory
+evidence that the registrant has used fraudulent or deceptive practices in the
+evasion or attempted evasion of the provisions of this chapter or any rules and
+regulations adopted pursuant thereto, but no registration may be revoked or
+refused until the registrant has been given the opportunity to appear at a
+hearing held by the Director.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [14:203:1951]—(NRS A1961,
+580;1993,
+1795;1999,
+3737)—(Substituted in revision for NRS 588.300)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-200">
+          <num>588.200</num>
+          <heading>Labels or tags: Attachment; statements thereon; bulk
+distribution.</heading>
+          <subsection eId="588-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any commercial fertilizer or
+agricultural mineral offered for sale, sold or distributed in this state in
+bags, barrels or other containers shall have placed or affixed to the container
+in written or printed form the net weight and the information required by
+paragraphs</p>
+            </content>
+            <paragraph eId="588-200__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-200__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-200__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 1 ofNRS 588.180or subsection 4 ofNRS 588.190either:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-200__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>On tags affixed to the end of the package
+between the ears or on the sewed end; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-200__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Directly on the package, in which case, for
+bags containing 50 pounds or more, the grade shall appear also on the end of
+the package in type that is plainly legible.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="588-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If distributed in bulk, a written or
+printed statement of the weight and the information required by paragraphs</p>
+            </content>
+            <paragraph eId="588-200__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-200__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-200__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 1 ofNRS 588.180or subsection 4 ofNRS 588.190shall
+accompany delivery and be supplied to the purchaser.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [4:203:1951]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-210">
+          <num>588.210</num>
+          <heading>Fees established by regulation; exemptions; reporting of sales;
+registrant responsible for reporting and payment of fees unless assigned to
+another person by contract; penalty.</heading>
+          <subsection eId="588-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>There must be paid to the Department
+for all commercial fertilizers offered for sale, sold or distributed in this
+state a fee established by regulation of the State Board of Agriculture for
+each ton sold, but sales to manufacturers or exchanges between them are exempt.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>There must be paid to the Department
+for all agricultural minerals offered for sale, sold or distributed in this
+state a fee established by regulation of the State Board of Agriculture. The
+regulations must specify the amount of the fee for each ton of agricultural
+minerals that is sold in packages and the amount of the fee for each ton of
+those minerals that is sold in bulk, but sales to manufacturers or exchanges
+between them are exempt.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Department shall prepare suitable
+forms for reporting sales and, on request, shall furnish the forms without cost
+to all persons dealing in registered brands of commercial fertilizers or
+agricultural minerals. The form must be filed regardless of whether the person
+sold any commercial fertilizers or agricultural minerals during the reporting
+period.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-210__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The registrant of each brand must report
+the total tonnage sold and pay the appropriate fees unless the responsibility
+for reporting and payment of fees has been assigned to another person by a
+contract entered into pursuant to subsection 5.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-210__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A contract specified in subsection 4
+must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="588-210__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Include the registration number of the brand;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-210__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Identify each party by name, address,
+telephone number and title, if applicable;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-210__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Identify the specific product covered by the
+contract;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-210__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Include an effective date and expiration
+date, not beginning or ending during a reporting period and not exceeding 3
+years in duration; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-210__subsec_5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Be signed by each party or his or her
+authorized agent.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="588-210__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A person who violates any provision of
+this section is subject to a civil penalty pursuant toNRS 588.350.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [5:203:1951]—(NRS A1961,
+578;1971,
+119;1977,
+261;1993,
+1793;1999,
+3601,3735;2015,
+3636)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-215">
+          <num>588.215</num>
+          <heading>Exemption of fertilizers and minerals not for agricultural
+purposes.</heading>
+          <content>
+            <p>Those commercial
+fertilizers and agricultural minerals not used for agricultural purposes are
+exempt from the license fee and reporting requirements ofNRS 588.210.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+119)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-230">
+          <num>588.230</num>
+          <heading>Sampling and analysis: Powers and duties of Director; methods.</heading>
+          <subsection eId="588-230__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director, who may act through an
+authorized agent, shall sample, inspect, make analyses of and test commercial
+fertilizers and agricultural minerals distributed within this state at such
+time and place and to such an extent as the Director may deem necessary to
+determine whether those commercial fertilizers and agricultural minerals are in
+compliance with the provisions of this chapter. The Director or the agent may
+enter upon any public or private premises during regular business hours in
+order to have access to commercial fertilizers and agricultural minerals
+subject to the provisions of this chapter and the rules and regulations adopted
+pursuant thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-230__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The methods of analysis must be those
+adopted by the Director from sources such as those of the Association of
+Official Agricultural Chemists.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-230__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Director, in determining for
+administrative purposes whether any commercial fertilizer or agricultural
+mineral is deficient in plant food, must be guided solely by the official
+sample as defined inNRS 588.100, and
+obtained and analyzed as provided for in subsection 2 of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-230__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The results of official analysis of any
+commercial fertilizer or agricultural mineral which has been found to be
+subject to penalty or other legal action must be forwarded by the Director to
+the registrant at least 10 days before the report is submitted to the
+purchaser. If during that period no adequate evidence to the contrary is made
+available to the Director, the report becomes official.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-230__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Upon request, the Director shall
+furnish to the registrant a portion of any sample found subject to penalty or
+other legal action.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [7:203:1951]—(NRS A1961,
+578;1993,
+1793;1999,
+3735)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-260">
+          <num>588.260</num>
+          <heading>Sale or distribution of misbranded commercial fertilizer or
+agricultural mineral unlawful.</heading>
+          <subsection eId="588-260__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A commercial fertilizer or agricultural
+mineral is misbranded if it carries any false or misleading statement upon or
+attached to the container or in any advertising matter accompanying or
+associated with the commercial fertilizer or agricultural mineral.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-260__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A commercial fertilizer is misbranded
+if it carries upon or attached to the container any numerical designation or
+design as part of the grade other than that referring to nitrogen, available
+phosphorus or phosphoric acid or soluble potassium or soluble potash.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-260__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>It shall be unlawful to sell, offer to
+sell or distribute a misbranded commercial fertilizer or agricultural mineral.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [10:203:1951]—(NRS A1975,
+361)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-270">
+          <num>588.270</num>
+          <heading>Publication of information concerning sales, production and use;
+report of analyses of samples.</heading>
+          <subsection eId="588-270__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director may publish, in such form
+as the Director may deem proper:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="588-270__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Information concerning the sales of
+commercial fertilizers and agricultural minerals, together with such data on
+their production and use as the Director may consider advisable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-270__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A report of the results of the analyses based
+on official samples of commercial fertilizers or agricultural minerals sold
+within the State as compared with the analyses guaranteed underNRS 588.170to588.200, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="588-270__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The information concerning production
+and use of commercial fertilizers or agricultural minerals must be shown
+separately for the periods from July 1 to December 31 and from January 1 to
+June 30 of each year.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [11:203:1951]—(NRS A1961,
+579;1993,
+1794;1999,
+3737;2015,
+3637)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-290">
+          <num>588.290</num>
+          <heading>Penalty for short weight.</heading>
+          <content>
+            <p>If
+any commercial fertilizer or agricultural mineral in the possession of the
+consumer is found by the Director to be short in weight, the registrant of the
+commercial fertilizer or agricultural mineral is subject to a civil penalty
+pursuant toNRS 588.350.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [13:203:1951]—(NRS A1961,
+580;1993,
+1795;1999,
+3737;2015,
+3637)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-295">
+          <num>588.295</num>
+          <heading>Restricted-use commercial fertilizers and agricultural minerals:
+Registration of seller, distributor or deliverer; registration statement;
+annual renewal; fees; maintenance of records of sales; reports of sales;
+regulations.</heading>
+          <subsection eId="588-295__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>It is unlawful for any person to sell
+or offer to sell at retail, or to distribute or deliver for transportation for
+delivery to the consumer or user, a restricted-use commercial fertilizer or
+agricultural mineral unless the person is registered with the Director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-295__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each person applying for registration
+must provide the Director with a registration statement that includes:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="588-295__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The name and address of the person
+registering; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-295__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The name and address of any person who, on
+behalf of the person registering, sells, offers to sell, distributes or
+delivers for transportation a restricted-use commercial fertilizer or
+agricultural mineral.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="588-295__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>All such registrations expire on
+January 31 of the year immediately after the year in which the person registers
+pursuant to this section and are renewable annually.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-295__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Each application for renewal must be
+accompanied by the fourth quarter tonnage report for the immediately preceding
+year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-295__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Each person registering with the
+Director must pay:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="588-295__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An annual registration fee established by
+regulation of the State Board of Agriculture; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-295__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A penalty fee established by regulation of
+the State Board of Agriculture if the person failed to renew the personï¿½s
+previous registration on or before March 1 next following its expiration,
+unless the registration is accompanied by a signed statement that no person
+named on the registration statement has sold or distributed any restricted-use
+commercial fertilizer or agricultural mineral during the period the
+registration was not in effect.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="588-295__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Each person registered pursuant to this
+section shall maintain for at least 2 years a record of all sales of
+restricted-use commercial fertilizers or agricultural minerals showing:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="588-295__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The date of sale or delivery of the
+restricted-use commercial fertilizer or agricultural mineral;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-295__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The name and address of the person to whom
+the restricted-use commercial fertilizer or agricultural mineral was sold or
+delivered;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-295__subsec_6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The brand name of the restricted-use
+commercial fertilizer or agricultural mineral sold or delivered;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-295__subsec_6__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The amount of the restricted-use commercial
+fertilizer or agricultural mineral sold or delivered; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-295__subsec_6__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Such other information as may be required by
+the Director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="588-295__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Each person registered pursuant to this
+section shall, on or before the date specified for each reporting period
+established pursuant to subsection 8, file a report with the Director specifying
+the restricted-use commercial fertilizers or agricultural minerals that the
+person sold during the reporting period. The Director shall provide the form
+for the report. The report must be filed regardless of whether the person sold
+any commercial fertilizers or agricultural minerals during the reporting
+period.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-295__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>The Director shall adopt regulations
+establishing reporting periods and dates for filing reports pursuant to
+subsection 7.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+412; A2015,
+3637)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-297">
+          <num>588.297</num>
+          <heading>Restricted-use commercial fertilizers and agricultural minerals:
+Denial, suspension or revocation of registration.</heading>
+          <subsection eId="588-297__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The person registered has, without
+reasonable cause, failed to record information as required byNRS 588.295or a regulation adopted by the
+Director;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-297__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The person registered has made a false
+entry in a required record; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-297__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The applicant for registration has made
+a sale or delivery of a restricted-use commercial fertilizer or agricultural
+mineral without registering with the Director.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+413)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-320">
+          <num>588.320</num>
+          <heading>Seizure of commercial fertilizer or agricultural mineral not in
+compliance with chapter: Complaint to court; methods of disposal.</heading>
+          <subsection eId="588-320__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any lot of commercial fertilizer or
+agricultural mineral not in compliance with the provisions of this chapter is
+subject to seizure upon the complaint of the Director to a court of competent
+jurisdiction in the area in which the commercial fertilizer or agricultural
+mineral is located.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-320__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the court finds that the commercial
+fertilizer or agricultural mineral does not comply with the provisions of this
+chapter and orders the condemnation of the commercial fertilizer or
+agricultural mineral, it must be disposed of in any manner consistent with the
+quality of the commercial fertilizer or agricultural mineral and the laws of
+this state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-320__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In no instance may the disposition of
+the commercial fertilizer or agricultural mineral be ordered by the court
+without giving the claimant an opportunity to apply to the court for release of
+the commercial fertilizer or agricultural mineral, or for permission to process
+or relabel the commercial fertilizer or agricultural mineral, to bring it into
+compliance with the provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [16:203:1951]—(NRS A1961,
+580;1993,
+1795;1999,
+3737)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-330">
+          <num>588.330</num>
+          <heading>Violations: Notice; hearing; prosecution; injunctive relief.</heading>
+          <subsection eId="588-330__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If it appears from the examination of
+any commercial fertilizer or agricultural mineral that any of the provisions of
+this chapter or the rules and regulations adopted pursuant thereto have been
+violated, the Director shall cause notice of the violations to be given to the
+registrant, distributor or possessor from whom the sample was taken. Any person
+so notified must be given an opportunity to be heard under such rules and
+regulations as may be prescribed by the Director. If it appears after the
+hearing, in the presence or absence of the person so notified, that any of the
+provisions of this chapter or the rules and regulations adopted pursuant
+thereto have been violated, the Director may certify the facts to the proper
+district attorney.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-330__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of this chapter do not
+require the Director or a representative of the Director to report for
+prosecution, or for the institution of seizure proceedings, minor violations of
+this chapter if he or she believes that the public interest will be best served
+by a suitable notice of warning in writing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-330__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Each district attorney to whom any
+violation is reported shall cause appropriate proceedings to be instituted and
+prosecuted in a court of competent jurisdiction without delay.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="588-330__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Director may apply for and the
+court may grant a temporary or permanent injunction restraining any person from
+violating or continuing to violate any of the provisions of this chapter or any
+rule or regulation adopted pursuant to this chapter notwithstanding the
+existence of other remedies at law. The injunction must be issued without bond.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [17:203:1951]—(NRS A1961,
+581;1993,
+1795;1999,
+3738)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_588-350">
+          <num>588.350</num>
+          <heading>Civil penalties; deposit and use of money.</heading>
+          <subsection eId="588-350__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person violating any provisions of
+this chapter is subject to a civil penalty not to exceed:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="588-350__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the first violation, $250.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-350__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For a second violation, $500.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-350__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For each subsequent violation, $1,000.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="588-350__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any money collected from the imposition
+of a civil penalty pursuant to subsection 1 must be accounted for separately
+and:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="588-350__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Fifty percent of the money must be used to
+fund a program selected by the Director that provides loans to persons who are
+engaged in agriculture and who are 21 years of age or younger; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="588-350__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The remaining 50 percent of the money must be
+deposited in the Account for the Control of Weeds established byNRS 555.035.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [20:203:1951]—(NRS A2015,
+3638)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

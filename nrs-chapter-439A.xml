@@ -1,0 +1,3723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-439A"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-439A"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="439A"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-439A/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-439A/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-439A/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-439A/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_439A">
+        <num>439A</num>
+        <heading>PLANNING FOR THE PROVISION</heading>
+        <section eId="sec_439A-010">
+          <num>439A.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 439A.012to439A.0195, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+566; A1977,
+253;1979,
+967;1981,
+1214;1985,
+1357;1991,
+2110;1995,
+1485)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-012">
+          <num>439A.012</num>
+          <heading>ï¿½Departmentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Departmentï¿½
+means the Department of Health and Human Services.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1213)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-0125">
+          <num>439A.0125</num>
+          <heading>ï¿½Directorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Directorï¿½
+means the Director of the Department.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1213)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-015">
+          <num>439A.015</num>
+          <heading>ï¿½Health facilityï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Health
+facilityï¿½ means a facility in or through which health services are provided,
+except for the office of a practitioner used solely to provide routine services
+for health to the practitionerï¿½s patients. The term includes any parent,
+affiliate, subsidiary or partner of such a facility and any other entity which
+has a primary purpose of providing a benefit to such a facility. For the
+purposes of this section, ï¿½office of a practitioner used solely to provide routine
+services for health to the practitionerï¿½s patientsï¿½ does not include a facility
+which is or will be qualified to receive reimbursement, other than for the
+services of a practitioner, as a health facility from any public agency.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1213; A1985,
+1358,1749;1991,
+1075;1995,
+1485)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-017">
+          <num>439A.017</num>
+          <heading>ï¿½Health servicesï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Health
+servicesï¿½ means the care and observation of patients, the diagnosis of human
+diseases, the treatment and rehabilitation of patients, or related services.
+The term includes treatment of patients for alcohol or other substance use
+disorders, services related to mental health and diagnostic services.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1213; A1983,
+1524)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-0195">
+          <num>439A.0195</num>
+          <heading>ï¿½Practitionerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Practitionerï¿½
+means a physician licensed underchapter 630,630Aor633of
+NRS, dentist, licensed nurse, dispensing optician, optometrist, registered
+physical therapist, podiatric physician, licensed psychologist, chiropractic
+physician, naprapath, doctor of Oriental medicine in any form, medical
+laboratory director or technician, pharmacist or other person whose principal
+occupation is the provision of services for health.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1357; A1991,
+1133;1993,
+2232;2023,
+1706)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-020">
+          <num>439A.020</num>
+          <heading>Purposes of chapter.</heading>
+          <subsection eId="439A-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Promote equal access to quality health
+care at a reasonable cost;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Promote an adequate supply and
+distribution of health resources;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Promote uniform, effective methods of
+delivering health care;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-020__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Promote and encourage the adequate
+distribution of health and care facilities and human resources;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-020__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Promote and encourage the effective use
+of methods for controlling increases in the cost of health care;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-020__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Encourage participation in health
+planning by members of the several health professions, representatives of
+institutions and agencies interested in the provision of health care and the
+reduction of the cost of such care, and the general public;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-020__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Utilize the viewpoint of the general
+public for making decisions;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-020__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Provide information to the general
+public concerning the charges imposed and the quality of the services provided
+by the hospitals and surgical centers for ambulatory patients in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-020__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>Encourage public education regarding
+proper personal health care and methods for the effective use of available
+health services; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-020__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>Promote a program of technical
+assistance to purchasers to contain effectively the cost of health care,
+including:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-020__subsec_10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Providing information to purchasers regarding
+the charges made by practitioners.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-020__subsec_10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Training purchasers to negotiate successfully
+for a policy of health insurance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-020__subsec_10__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Conducting studies and providing other
+information about measures to assist purchasers in containing the cost of
+health care.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+566; A1977,
+254;1983,
+1524;1985,
+1358;2007,
+2354)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-081">
+          <num>439A.081</num>
+          <heading>Department is state agency for health planning and development;
+powers of Director; fees.</heading>
+          <subsection eId="439A-081__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department is the agency of the
+State of Nevada for health planning and development, and shall carry out the
+state administrative program and perform the functions of health planning and
+development for the State in accordance with the following priorities:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-081__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Providing for the effective use of methods
+for controlling increases in the cost of health care;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-081__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Providing for the adequate supply and
+distribution of health resources;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-081__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Providing for equal access to health care of
+good quality at a reasonable cost; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-081__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Providing education to the public regarding
+proper personal health care and methods for the effective use of available
+health services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-081__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In order to carry out the provisions of
+this chapter, the Director may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-081__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Delegate the duties of the Director and the
+Department pursuant to this chapter to any of the divisions of the Department;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-081__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Hire employees in the classified service;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-081__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Adopt such regulations as are necessary; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-081__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Apply for, accept and disburse money granted
+by the Federal Government for the purposes of health planning and development.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-081__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Department may, by regulation, fix
+fees to be collected from applicants seeking approval of proposed health
+facilities or services. The amounts of such fees must be based upon the
+Departmentï¿½s costs of examining and acting upon the applications.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-081__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Any application fees collected pursuant
+to subsection 3 are not refundable and must be deposited in the State Treasury
+and accounted for separately in the State General Fund. Any interest and income
+earned on the money in the account, after deducting any applicable charges,
+must be credited to the account. Any money remaining in the account at the end
+of a fiscal year does not revert to the State General Fund and the balance in
+the account must be carried forward to the next fiscal year. Any money
+remaining in the account that is not committed for expenditure after 2 fiscal
+years following the date on which the money is paid as a fee reverts to the
+State General Fund. All claims against the account must be paid as other claims
+against the State are paid. The money in the account must be used to pay the
+costs of administering the state administrative program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-081__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>In developing and revising any state
+plan for health planning and development, the Department shall consider, among
+other things, the amount of money available from the Federal Government for
+health planning and development and the conditions attached to the acceptance
+of that money, and the limitations of legislative appropriations for health
+planning and development.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+257; A1979,
+967;1981,
+1216,1899;1983,
+1525;1985,
+1359;1989,
+1945;1991,
+2110;1995,
+1485;2015,
+2435)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-082">
+          <num>439A.082</num>
+          <heading>Director to contract with Nevada System of Higher Education to
+collect and analyze information from health facilities and purchasers of health
+care.</heading>
+          <subsection eId="439A-082__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Respond to requests for information from
+the Legislature.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-082__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Provide technical assistance to
+purchasers of health care.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-082__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Provide the Department with information
+necessary to carry out the provisions of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-082__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Provide other persons with information
+relating to the cost of health care.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1357; A1993,
+403;1997,
+2632;1999,
+2242)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-083">
+          <num>439A.083</num>
+          <heading>Director to establish procedure for review of statutes,
+regulations and standards governing approval, licensing or certification of
+health facilities.</heading>
+          <content>
+            <p>The Director
+shall establish procedures for the review of all statutes, regulations and
+standards governing the approval, licensing or certification of health
+facilities. The procedures must provide for participation in the review by
+providers of health care and the general public.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1357; A2019,
+1013)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-086">
+          <num>439A.086</num>
+          <heading>Chief Research and Statistical Analyst: Position created.</heading>
+          <content>
+            <p>The position of Chief Research and Statistical
+Analyst is hereby created in the Division of Public and Behavioral Health of
+the Department. This position is in the unclassified service of the State.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+1399; A2005,
+22nd Special Session, 55)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-100">
+          <num>439A.100</num>
+          <heading>Approval of Director required for certain projects; criteria for
+review of application.</heading>
+          <subsection eId="439A-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, in a county whose population is less than 100,000, or in an
+incorporated city or unincorporated town whose population is less than 25,000
+that is located in a county whose population is 100,000 or more, no person may
+undertake any proposed expenditure for new construction by or on behalf of a
+health facility in excess of the greater of $2,000,000 or such an amount as the
+Department may specify by regulation, which under generally accepted accounting
+principles consistently applied is a capital expenditure, without first
+applying for and obtaining the written approval of the Director. The Division
+of Public and Behavioral Health of the Department shall not issue a new license
+or alter an existing license for such a project unless the Director has issued
+such an approval.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of subsection 1 do not
+apply to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-100__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any capital expenditure for:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-100__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The acquisition of land;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-100__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The construction of a facility for
+parking;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-100__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The maintenance of a health facility;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-100__subsec_2__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>The renovation of a health facility to
+comply with standards for safety, licensure, certification or accreditation;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-100__subsec_2__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>The installation of a system to
+conserve energy;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-100__subsec_2__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>The installation of a system for data
+processing or communication; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-100__subsec_2__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>Any other project which, in the
+opinion of the Director, does not relate directly to the provision of any
+health service;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="439A-100__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any project for the development of a health
+facility that has received legislative approval and authorization; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-100__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A project for the construction of a hospital
+in an unincorporated town if:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-100__subsec_2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The population of the unincorporated
+town is more than 24,000;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-100__subsec_2__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>No other hospital exists in the town;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-100__subsec_2__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>No other hospital has been approved
+for construction or qualified for an exemption from approval for construction
+in the town pursuant to this section; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-100__subsec_2__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>The unincorporated town is at least a
+45-minute drive from the nearest center for the treatment of trauma that is
+licensed by the Division of Public and Behavioral Health of the Department.
+ï¿½Upon
+determining that a project satisfies the requirements for an exemption pursuant
+to this subsection, the Director shall issue a certificate which states that
+the project is exempt from the requirements of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In reviewing an application for
+approval, the Director shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-100__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Comparatively assess applications for similar
+projects affecting the same geographic area; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-100__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Base his or her decision on criteria
+established by the Director by regulation. The criteria must include:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-100__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The need for and the appropriateness
+of the project in the area to be served;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-100__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The financial feasibility of the
+project;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-100__subsec_3__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The effect of the project on the cost
+of health care; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-100__subsec_3__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>The extent to which the project is
+consistent with the purposes set forth inNRS
+439A.020and the priorities set forth inNRS 439A.081, including, without
+limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) The impact of the project on
+other health care facilities;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) The need for any equipment that
+the project proposes to add, the manner in which such equipment will improve
+the quality of health care and any protocols provided in the project for avoiding
+repetitive testing;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (III) The impact of the project on
+disparate health outcomes for different populations in the area that will be
+served by the project;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (IV) The manner in which the project
+will expand, promote or enhance the capacity to provide primary health care in
+the area that will be served by the project;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (V) Any plan by the applicant to
+collect and analyze data concerning the effect of the project on health care
+quality and patient outcomes in the area served by the project;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (VI) Any plan by the applicant for
+controlling the spread of infectious diseases; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (VII) The manner in which the
+applicant will coordinate with and support existing health facilities and
+practitioners, including, without limitation, mental health facilities,
+programs for the treatment and prevention of substance use disorders and
+providers of nursing services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-100__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Department may by regulation
+require additional approval for a proposed change to a project which has
+previously been approved if the proposal would result in a change in the
+location of the project or a substantial increase in the cost of the project.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-100__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The decision of the Director is a final
+decision for the purposes of judicial review.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-100__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>As used in this section, ï¿½hospitalï¿½ has
+the meaning ascribed to it inNRS 449.012.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+568; A1977,
+256;1979,
+491,968;1981,
+1216;1983,
+1526;1985,
+1360;1987,
+873,1627;1989,
+1946,2111;1991,
+1075;1995,
+1486;2003,
+1324;2013,
+3044;2015,
+2436)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-102">
+          <num>439A.102</num>
+          <heading>Approval of Director or designee required for closure or
+conversion of hospital in certain counties; regulations; contents of and
+criteria for review of application; exception.</heading>
+          <subsection eId="439A-102__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, no person may close a hospital in a county whose population is 100,000
+or more or convert a hospital in such a county into a different type of health
+facility without first applying for and obtaining the written approval of the
+Director or the designee of the Director. The Division of Public and Behavioral
+Health of the Department shall not issue a new license or alter an existing
+license for conversion to a different type of health facility unless the
+Director or the designee of the Director has issued such an approval.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-102__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director may adopt regulations
+which prescribe the process to apply for written approval pursuant to this
+section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-102__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An applicant must provide any
+information requested by the Director or the designee of the Director for
+consideration of an application, which must include, without limitation,
+information related to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-102__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The location of the hospital;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-102__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The ownership structure of the hospital;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-102__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Whether the closure or conversion is likely
+to benefit any other health facility in the same geographic area as the
+hospital in which any person with an ownership interest in the hospital also
+has an ownership interest;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-102__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An explanation of the need for the closure or
+conversion;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-102__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Data regarding the population served by the
+hospital in the 24 months immediately preceding the application; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-102__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The manner in which and the locations where
+the population served by the hospital will be able to obtain the health
+services that were provided by the hospital during the 24 months following the
+closure or conversion of the hospital.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-102__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Director or the designee of the
+Director shall not approve an application submitted pursuant to subsection 1
+without considering the information required to be submitted pursuant to
+subsection 3.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-102__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The decision of the Director or the
+designee of the Director pursuant to this section is a final decision for the
+purposes of judicial review.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-102__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The provisions of this section do not
+apply to any person who ceases to operate hospitals in this State.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2016)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-104">
+          <num>439A.104</num>
+          <heading>Approval of Chief Medical Officer required for operation of
+certain medical helicopters; criteria for review of application.</heading>
+          <subsection eId="439A-104__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>No person may operate or undertake any
+proposed expenditure for the operation of a new medical helicopter that will
+provide medical helicopter services in an area located within 150 miles from
+the base of an existing medical helicopter without first applying for and
+obtaining the written approval of the Chief Medical Officer or the designee of
+the Chief Medical Officer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-104__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3, the Chief Medical Officer or the designee of the Chief Medical
+Officer may approve an application submitted pursuant to subsection 1 only if
+the applicant demonstrates that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-104__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Based on the needs of the specific population
+to be served by the new medical helicopter and on the projected number of persons
+who have or will have a need for the proposed service, the population to be
+served has a need for the new medical helicopter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-104__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The existing medical helicopter services in
+the area to be served by the new medical helicopter cannot or will not meet the
+projected needs of the population to be served by the new medical helicopter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-104__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The applicant has the financial stability to
+provide medical helicopter services to the population to be served by the new
+medical helicopter for a significant period of time;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-104__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The new medical helicopter will result in a
+significant savings in costs for users of and payors for medical helicopter
+services;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-104__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The new medical helicopter will not have an
+adverse effect on the quality of care provided to users of medical helicopter
+services and will not have an unnecessarily negative effect on the cost of
+medical helicopter services for users of or payors for such services; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-104__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The approval of the application will not
+adversely affect an existing provider of medical helicopter services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-104__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Chief Medical Officer or the
+designee of the Chief Medical Officer shall not approve an application
+submitted pursuant to subsection 1 if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-104__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The applicant fails to provide sufficient,
+relevant, demonstrative evidence for the approval of the application; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-104__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The evidence opposing the application
+outweighs the evidence supporting the application.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-104__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In determining whether to approve an
+application submitted pursuant to subsection 1, the Chief Medical Officer or
+the designee of the Chief Medical Officer shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-104__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Contact existing providers of medical
+helicopter services, ensure that existing providers of medical helicopter
+services have an opportunity to participate in any public hearing concerning
+the application, and seek the input of existing providers of medical helicopter
+services concerning the application; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-104__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Consider:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-104__subsec_4__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The level of medical care to be
+provided by the applicant to the population to be served by the new medical
+helicopter;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-104__subsec_4__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The impact of the new medical
+helicopter on the rates, quality of service and safety of existing providers of
+medical helicopter services and on the level of medical care provided by such
+providers;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-104__subsec_4__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The effect of the new medical
+helicopter on the cost of health care services; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-104__subsec_4__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Any other information the Chief
+Medical Officer or the designee of the Chief Medical Officer deems relevant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-104__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>An applicant whose application is
+rejected pursuant to this section may appeal the decision of the Chief Medical
+Officer or the designee of the Chief Medical Officer to the State Board of
+Health. The decision of the State Board of Health is a final decision for the
+purposes of judicial review.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-104__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>As used in this section, ï¿½medical
+helicopterï¿½ means a helicopter especially designed, constructed, modified or
+equipped to be used for the transportation of injured or sick persons. The term
+does not include any commercial helicopter carrying passengers on regularly
+scheduled flights.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+1323)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-111">
+          <num>439A.111</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 439A.111to439A.122, inclusive, unless the context
+otherwise requires, the words and terms defined inNRS 439A.112and439A.114have the meanings ascribed to
+them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+796)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-112">
+          <num>439A.112</num>
+          <heading>ï¿½Provider of health careï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Provider
+of health careï¿½ has the meaning ascribed to it inNRS 629.031.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+796)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-114">
+          <num>439A.114</num>
+          <heading>ï¿½Working Groupï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Working
+Groupï¿½ means the Health Care Workforce Working Group established pursuant toNRS 439A.118.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+796)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-116">
+          <num>439A.116</num>
+          <heading>Establishment of database of certain information relating to
+renewal of license, certificate or registration; data request provided to
+certain professional licensing boards; confidentiality of information; duties
+of Director.</heading>
+          <subsection eId="439A-116__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director shall establish and
+maintain a database of information collected from applicants for the renewal of
+a license, certificate or registration as a provider of health care. The
+information in the database must include, for each applicant from whom such
+information is collected:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-116__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The type of license, certificate or
+registration held by the applicant;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-116__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The race and ethnicity of the applicant;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-116__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The primary language spoken by the applicant;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-116__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The specialty area in which the applicant
+practices;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-116__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The county of this State in which the
+applicant spends the majority of his or her working hours;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-116__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The address of each location at which the
+applicant practices or intends to practice and the percentage of working hours
+spent by the applicant at each location;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-116__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The type of practice in which the applicant
+engages, including, without limitation, individual private practice, group
+private practice, multispecialty group private practice, government or
+nonprofit;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-116__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The settings in which the applicant
+practices, including, without limitation, hospitals, clinics and academic
+settings;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-116__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>The education and primary and secondary
+specialties of the applicant;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-116__subsec_1__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>The average number of hours worked per week
+by the applicant and the total number of weeks worked by the applicant during
+the immediately preceding calendar year;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-116__subsec_1__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>The percentages of working hours during which
+the applicant engages in patient care and other activities, including, without
+limitation, teaching, research and administration;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-116__subsec_1__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>Any planned major changes to the practice of
+the applicant within the immediately following 5 years, including, without
+limitation, retirement, relocation or significant changes in working hours; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-116__subsec_1__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>Any other information prescribed by
+regulation of the Director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-116__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director shall develop and make
+available to each professional licensing board that licenses, certifies or
+registers providers of health care an electronic data request that solicits the
+information described in subsection 1 from an applicant for the renewal of such
+a license, certificate or registration.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-116__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection, information included in the database is confidential and not a
+public record. The Director shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-116__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Take all necessary measures to ensure the
+confidentiality of the identity of providers of health care to whom information
+in the database pertains, including, without limitation, measures to ensure
+that the identity of a provider of health care is not ascertainable due to his
+or her reported profession or the reported location at which he or she practices.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-116__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Make data from the database that does not
+contain any information that could be used to identify an applicant for or the
+holder of a license, certificate or registration as a provider of health care
+available to the Working Group. The Working Group may use such data to support
+the recommendations made pursuant toNRS
+439A.121or include such data in any report published pursuant to that
+section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-116__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Publish an annual report of data from the
+database that does not contain any information that could be used to identify
+an applicant for or holder of a license, certificate or registration as a
+provider of health care.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-116__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Analyze the data in the database and make
+periodic reports to the Legislature, the Department and other agencies of the
+Executive Branch of the State Government concerning ways in which to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-116__subsec_3__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Attract more persons, including,
+without limitation, members of underrepresented groups, to pursue the education
+necessary to practice as a provider of health care and practice as a provider
+of health care in this State; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-116__subsec_3__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Improve health outcomes and public
+health in this State.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+796)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-118">
+          <num>439A.118</num>
+          <heading>Health Care Workforce Working Group: Establishment; membership;
+Chair; meetings; quorum; service without compensation; members holding public
+office or employed by governmental entity; administrative support.</heading>
+          <subsection eId="439A-118__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director shall establish the Health
+Care Workforce Working Group within the Department. The Director shall appoint
+to the Working Group providers of health care and representatives of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-118__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Groups that represent providers of health
+care and consumers of health care;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-118__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Nevada System of Higher Education,
+universities, state colleges, community colleges and other institutions in this
+State that train providers of health care;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-118__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Department of Health and Human Services;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-118__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Professional licensing boards that license,
+certify or register providers of health care.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-118__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director shall appoint a Chair of
+the Working Group. The Working Group shall meet at the call of the Chair. A
+majority of the members of the Working Group constitutes a quorum and is
+required to transact any business of the Working Group.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-118__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The members of the Working Group serve
+without compensation and are not entitled to receive the per diem allowance and
+travel expenses provided for state officers and employees generally.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-118__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A member of the Working Group who is an
+officer or employee of this State or a political subdivision of this State must
+be relieved from his or her duties without loss of regular compensation to
+prepare for and attend meetings of the Working Group and perform any work
+necessary to carry out the duties of the Working Group in the most timely
+manner practicable. A state agency or political subdivision of this State shall
+not require an officer or employee who is a member of the Working Group to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-118__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Make up the time he or she is absent from
+work to carry out his or her duties as a member of the Working Group; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-118__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Take annual leave or compensatory time for
+the absence.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-118__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Department shall provide such
+administrative support to the Working Group as is necessary to carry out the
+duties of the Working Group.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+797)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-121">
+          <num>439A.121</num>
+          <heading>Health Care Workforce Working Group: Duties; reports.</heading>
+          <subsection eId="439A-121__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Working Group shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-121__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Make recommendations to the Director
+concerning the information included in the database pursuant toNRS 439A.116;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-121__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Analyze the information contained in the
+database; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-121__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Make recommendations to the Department of
+Health and Human Services, the Department of Education, the Board of Regents of
+the University of Nevada, the Legislature, professional licensing boards that
+license, certify or register providers of health care and other relevant
+persons and entities concerning ways in which to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-121__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Attract more persons, including,
+without limitation, members of underrepresented groups, to pursue the education
+necessary to practice as a provider of health care and practice as a provider
+of health care in this State; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-121__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Improve health outcomes and public
+health in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-121__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Working Group may publish reports
+of any of its findings or recommendations.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+798)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-122">
+          <num>439A.122</num>
+          <heading>Regulations; contracts and agreements; gifts, grants and
+donations.</heading>
+          <subsection eId="439A-122__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-122__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Adopt any regulations necessary to carry out
+the provisions ofNRS 439A.111to439A.122, inclusive;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-122__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Enter into any contracts or agreements
+necessary to carry out the provisions ofNRS
+439A.111to439A.122, inclusive;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-122__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Apply for and accept any gifts, grants and
+donations to carry out the provisions ofNRS
+439A.111to439A.122, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-122__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Director enters into a contract
+or agreement pursuant to this section for the establishment or maintenance of
+the database, the analysis of data or the issuance of reports pursuant toNRS 439A.116, the contract must provide
+the Director with unrestricted access to any data maintained by the contracting
+entity and any analysis or reporting performed by the contracting entity.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+798)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-124">
+          <num>439A.124</num>
+          <heading>Data request to Board of Medical Examiners and State Board of
+Osteopathic Medicine for certain information concerning physicians;
+confidentiality of information; posting of report on Internet website.</heading>
+          <subsection eId="439A-124__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department shall develop and make
+available to the Board of Medical Examiners and the State Board of Osteopathic
+Medicine an electronic data request to be completed by an applicant for the
+renewal of a license as a physician or a biennial registration pursuant toNRS 630.267. The electronic data request
+must solicit from each such applicant the following information:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-124__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Whether the applicant is employed by a
+hospital, a health system or an entity owned by a health system or practices
+independently from a hospital, a health system or an entity owned by a health
+system;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-124__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the applicant is employed by a hospital, a
+health system or an entity owned by a health system, the name of the hospital
+or health system or the entity and the health system that owns the entity, as
+applicable;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-124__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the applicant is employed by an entity
+other than a hospital, a health system or an entity owned by a health system,
+the name of the legal entity which owns the practice and any assumed or
+fictitious name of that entity known to the applicant; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-124__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the applicant practices independently from
+a hospital, a health system or an entity owned by a health system, the name of
+the practice of the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-124__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department shall collect and
+maintain the information collected pursuant to subsection 1. Such information
+is confidential and any reporting of the information maintained pursuant to
+this section by the Department must be in an aggregate form that does not
+reveal the identity of any physician.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-124__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Department shall annually prepare
+and post on an Internet website maintained by the Department a report based on
+the data collected pursuant to subsection 1 that analyzes trends in the
+employment and practices of physicians in this State.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+550)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-126">
+          <num>439A.126</num>
+          <heading>Notification to Department concerning certain transactions
+involving hospitals or physician group practices; posting of information and
+report on Internet website; administrative penalties; notification of licensing
+board of noncompliance by physician group practice.</heading>
+          <subsection eId="439A-126__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A hospital shall notify the Department
+of any merger, acquisition or joint venture with any entity, including, without
+limitation, a physician group practice, to which the hospital is a party or any
+contract for the management of the hospital not later than 60 days after the
+finalization of the transaction or execution of the contract for management, as
+applicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-126__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A physician group practice or a person
+who owns all or substantially all of a physician group practice shall notify
+the Department of a transaction described in subsection 3 to which the
+physician group practice or person, as applicable, is a party or any contract
+for the management of the physician group practice not later than 60 days after
+the finalization of the transaction or execution of the contract for
+management, as applicable, if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-126__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The physician group practices that are
+parties to the transaction or contract for management or that are owned by
+those parties represent at least 20 percent of the physicians who practice any
+specialty in a primary service area; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-126__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The physician group practice represents the
+largest number of physicians of any physician group practice that is a party to
+or owned by a party to the transaction or contract for management.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-126__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Notice must be provided pursuant to
+subsection 2 for any:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-126__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Merger of, consolidation of or other
+affiliation between physician group practices, persons who own physician group
+practices or any combination thereof;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-126__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The acquisition of all or substantially all
+of the properties and assets of a physician group practice;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-126__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The acquisition of all or substantially all
+of the capital stock, membership interests or other equity interests of a
+physician group practice;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-126__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The employment of all or substantially all of
+the physicians in a physician group practice; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-126__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The acquisition of an insolvent physician
+group practice.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-126__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Notice pursuant to subsection 1 or 2
+must be provided in the form prescribed by the Department and must include,
+without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-126__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The name of each party to the transaction or
+contract for management, as applicable;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-126__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A description of the nature of the proposed
+relationship of the parties to the transaction or contract for management, as
+applicable;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-126__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The names and any specialties of each
+physician who is a party or employed by or affiliated with a physician group
+practice that is a party to or is owned by a party to the transaction or
+contract for management, as applicable;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-126__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The name and address of each business entity
+that will provide health services after the transaction or contract for
+management, as applicable;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-126__subsec_4__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A description of the health services to be
+provided at each location of a business entity described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-126__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-126__subsec_4__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The primary service area to be served by each
+location of a business entity described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-126__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-126__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Department shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-126__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Post the information contained in the notices
+provided pursuant to subsections 1 and 2 on an Internet website maintained by
+the Department; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-126__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Annually prepare a report regarding market
+transactions and concentration in health care based on the information in the
+notices and post the report on an Internet website maintained by the
+Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-126__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>If a hospital fails to provide timely
+notice to the Department pursuant to subsection 1 and the failure was not
+caused by excusable neglect, technical problems or other extenuating
+circumstances, the Department may impose against the hospital an administrative
+penalty of not more than $5,000 for each day of such failure.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-126__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>If a physician group practice or a
+person who owns all or substantially all of a physician group practice fails to
+provide timely notice to the Department pursuant to subsection 2 and the
+failure was not caused by excusable neglect, technical problems or other
+extenuating circumstances, the Department shall notify the Board of Medical
+Examiners or the State Board of Osteopathic Medicine, or both, as applicable,
+of such failure.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-126__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Any money collected as administrative
+penalties pursuant to this section must be accounted for separately and used by
+the Department to carry out the provisions ofNRS 439A.111to439A.126, inclusive, or for any other
+purpose authorized by the Legislature.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-126__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-126__subsec_9__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Physician group practiceï¿½ means any business
+entity organized for the purpose of the practice of medicine or osteopathic
+medicine by more than one physician.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-126__subsec_9__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Primary service areaï¿½ means an area
+comprising the smallest number of zip codes from which the hospital or
+physician group practice draws at least 75 percent of patients.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3544; A2023,
+2017)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-130">
+          <num>439A.130</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 439A.130to439A.185, inclusive, the words and terms
+defined inNRS 439A.135to439A.165, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+772; A2013,
+3045)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-135">
+          <num>439A.135</num>
+          <heading>ï¿½Administratorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Administratorï¿½
+means the Administrator of the Division.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+772; A2013,
+3045)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-138">
+          <num>439A.138</num>
+          <heading>ï¿½Divisionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Divisionï¿½
+means the Division of Public and Behavioral Health of the Department.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3044)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-140">
+          <num>439A.140</num>
+          <heading>ï¿½Employerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Employerï¿½
+means a person who sponsors a J-1 visa physician and enters into a contract
+with the J-1 visa physician.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+772)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-150">
+          <num>439A.150</num>
+          <heading>ï¿½J-1 visa physicianï¿½ defined.</heading>
+          <subsection eId="439A-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Has an offer of full-time employment at
+a health facility in an area designated by the Federal Government as a health
+care professional shortage area or at a health facility which serves patients
+from such a designated area, and agrees to begin employment at that facility
+within 90 days after receiving a J-1 visa waiver;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Signs a contract to continue to work at
+that health facility for a total of 40 hours per week for not less than 3
+years;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-150__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Applies for or has been issued a
+license to practice medicine pursuant tochapter
+630of NRS; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-150__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Applies for a J-1 visa waiver.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+772)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-155">
+          <num>439A.155</num>
+          <heading>ï¿½J-1 visa waiverï¿½ defined.</heading>
+          <content>
+            <p>ï¿½J-1
+visa waiverï¿½ means a waiver of the 2-year foreign residence requirement
+authorized pursuant to 8 U.S.C. ï¿½ 1182(e) for a physician who holds a J-1 visa.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+772)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-160">
+          <num>439A.160</num>
+          <heading>ï¿½Letter of supportï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Letter
+of supportï¿½ means a letter issued by the Program to the Waiver Review Division
+of the United States Department of State stating that a request for a J-1 visa
+waiver is in the public interest.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+772)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-165">
+          <num>439A.165</num>
+          <heading>ï¿½Programï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Programï¿½
+means the Physician Visa Waiver Program established byNRS 439A.170.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+772)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-170">
+          <num>439A.170</num>
+          <heading>Establishment; regulations; application fees; accounting and use
+of money; administration of Program.</heading>
+          <subsection eId="439A-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Physician Visa Waiver Program is
+hereby established in the Division. The Administrator shall administer the
+Program consistent with federal law and the provisions ofNRS 439A.130to439A.185, inclusive, and the regulations
+adopted pursuant thereto. The Program must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-170__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Provide for the oversight of employers and
+J-1 visa physicians in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-170__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Evaluate applications for letters of support
+submitted pursuant toNRS 439A.175;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-170__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Issue letters of support.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Board of Health shall adopt
+regulations:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-170__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Providing for the administration of the
+Program; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-170__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Establishing an application fee, not to
+exceed $2,000, payable to the Program by an employer or J-1 visa physician who
+applies for a letter of support pursuant toNRS
+439A.175.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any application fees collected by the
+Program are not refundable and must be deposited in the State Treasury and accounted
+for separately in the State General Fund. Any interest and income earned on the
+money in the account, after deducting any applicable charges, must be credited
+to the account. Any money remaining in the account at the end of a fiscal year
+does not revert to the State General Fund. All claims against the account must
+be paid as other claims against the State are paid. The money in the account
+must be used to pay the costs of administering the Program and for training and
+educating J-1 visa physicians and employers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-170__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Division is hereby designated as
+the agency of this State to cooperate with the Federal Government in the
+administration of the Program.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+772; A2015,
+360)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-175">
+          <num>439A.175</num>
+          <heading>Application for letter of support; qualifications; conditions
+for contract between employer and J-1 visa physician.</heading>
+          <subsection eId="439A-175__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An employer or J-1 visa physician who
+seeks a letter of support must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-175__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Apply to the Program for a letter of support
+in the manner prescribed by the State Board of Health;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-175__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Include with the application proof
+satisfactory to the Division that the J-1 visa physician is licensed to
+practice medicine pursuant tochapter 630of
+NRS or has submitted an application for a license to practice medicine pursuant
+tochapter 630of NRS; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-175__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Include with the application a copy of the
+contract entered into by the employer and the J-1 visa physician.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-175__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The contract entered into by the
+employer and the J-1 visa physician:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-175__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Must comply with:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-175__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>All applicable provisions of federal
+law; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-175__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The regulations adopted by the State
+Board of Health pursuant toNRS 439A.130to439A.185, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="439A-175__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Must not include:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-175__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A noncompete clause or restrictive
+covenant that prevents or discourages the J-1 visa physician from continuing to
+practice after the term of the contract expires; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-175__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Any provision authorizing termination
+without cause.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-175__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Program may provide a letter of
+support to a J-1 visa physician:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-175__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the Program determines that the waiver is
+in the public interest;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-175__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the contract entered into by the employer
+and the J-1 visa physician complies with the provisions of this section; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-175__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Upon payment of the prescribed application
+fee.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+773)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-180">
+          <num>439A.180</num>
+          <heading>Violations and penalties.</heading>
+          <subsection eId="439A-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to any other penalty
+prescribed by law:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-180__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A J-1 visa physician who:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-180__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Does not provide the required minimum
+hours of health services in an area designated by the Federal Government as a
+health care professional shortage area;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-180__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Refuses to provide health services to
+medically underserved persons in this State; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-180__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Violates any provision of state law
+governing physicians or the provision of health services; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="439A-180__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An employer who:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-180__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Employs a J-1 visa physician in a
+manner other than that specified in the contract entered into by the employer
+and the J-1 visa physician;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-180__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Violates any provision ofNRS 439A.130to439A.185, inclusive, or any regulation
+adopted pursuant thereto; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-180__subsec_1__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Violates any provision of state law
+governing physicians or the provision of health services,
+ï¿½is subject
+to the penalty prescribed by the State Board of Health pursuant to subsection
+2.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Board of Health shall adopt
+regulations establishing:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-180__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The procedure for reporting a violation of
+this section; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-180__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The penalty for any violation of this
+section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+773)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-185">
+          <num>439A.185</num>
+          <heading>Civil and criminal immunity for reporting violations.</heading>
+          <content>
+            <p>A person who reports or provides any
+information concerning a violation ofNRS
+439A.130to439A.185, inclusive,
+or any regulation adopted pursuant thereto, to a governmental entity is immune
+from any civil or criminal liability for that action.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+774)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-190">
+          <num>439A.190</num>
+          <heading>Official recognition required; duty of Department to maintain
+Internet website; certain activities deemed not to be unfair methods of
+competition or unfair or deceptive trade practices.</heading>
+          <subsection eId="439A-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A primary care practice shall not
+represent itself as a patient-centered medical home unless the primary care
+practice is certified, accredited or otherwise officially recognized as a
+patient-centered medical home by a nationally recognized organization for the
+accrediting of patient-centered medical homes.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department shall post on an
+Internet website maintained by the Department links to nationally recognized
+organizations for the accrediting of patient-centered medical homes and any
+other information specified by the Department to allow patients to find a
+patient-centered medical home that meets the requirements of this section and any
+regulations adopted pursuant thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-190__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any coordination between an insurer and
+a patient-centered medical home or acceptance of an incentive from an insurer
+by a patient-centered medical home that is authorized by federal law shall not
+be deemed to be an unfair method of competition or an unfair or deceptive trade
+practice or other act or practice prohibited by the provisions ofchapter 598or686Aof NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-190__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-190__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Patient-centered medical homeï¿½ means a
+primary care practice that:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-190__subsec_4__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Offers patient-centered, continuous,
+culturally competent, evidence-based, comprehensive health care that is led by
+a provider of primary care and a team of health care providers, coordinates the
+health care needs of the patient and uses enhanced communication strategies and
+health information technology; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-190__subsec_4__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Emphasizes enhanced access to
+practitioners and preventive care to improve the outcomes for and experiences
+of patients and lower the costs of health services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="439A-190__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Primary care practiceï¿½ means a federally
+qualified health center, as defined in 42 U.S.C. ï¿½ 1396d</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-190__subsec_4__subsec_l">
+              <num>(l)</num>
+              <subparagraph eId="439A-190__subsec_4__subsec_l__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>(B), or a
+business where health services are provided by one or more advanced practice
+registered nurses or one or more physicians who are licensed pursuant tochapter 630or633of NRS and who practice in the area of family practice, internal medicine or
+pediatrics.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1550)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-200">
+          <num>439A.200</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 439A.200to439A.290, inclusive, unless the context
+otherwise requires, the words and terms defined inNRS 439A.205,439A.207and439A.210have the meanings ascribed to
+them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+2350; A2011,
+1802)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-205">
+          <num>439A.205</num>
+          <heading>Hospitalï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Hospitalï¿½
+has the meaning ascribed to it inNRS
+449.012.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+2350)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-207">
+          <num>439A.207</num>
+          <heading>ï¿½Potentially preventable readmissionï¿½ defined.</heading>
+          <subsection eId="439A-207__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Occurs not more than 30 days after the
+patient is discharged;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-207__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Is clinically related to the initial
+admission; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-207__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Was preventable.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2011,
+1802)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-210">
+          <num>439A.210</num>
+          <heading>Surgical center for ambulatory patientsï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Surgical center for ambulatory patientsï¿½ has
+the meaning ascribed to it inNRS 449.019.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+2350)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-220">
+          <num>439A.220</num>
+          <heading>Information concerning hospitals: Establishment of program;
+information to be collected, maintained and provided through program.</heading>
+          <subsection eId="439A-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department shall establish and
+maintain a program to increase public awareness of health care information
+concerning the hospitals in this State. The program must be designed to assist
+consumers with comparing the quality of care provided by the hospitals in this
+State and the charges for that care.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The program must include, without
+limitation, the collection, maintenance and provision of information
+concerning:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-220__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Inpatients and outpatients of each hospital
+in this State as reported in the forms submitted pursuant toNRS 449.485;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-220__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The quality of care provided by each hospital
+in this State as determined by applying measures of quality endorsed by the entities
+described in subparagraph</p>
+              </content>
+              <subparagraph eId="439A-220__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="439A-220__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 ofNRS 439A.230, expressed as a number of
+events and rate of occurrence, if such measures can be applied to the information
+reported in the forms submitted pursuant toNRS
+449.485;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-220__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>How consistently each hospital follows
+recognized practices to prevent the infection of patients, to speed the
+recovery of patients and to avoid medical complications of patients;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-220__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For each hospital, the total number of
+patients discharged, the average length of stay and the average billed charges,
+reported by diagnosis-related groups for inpatients and for the 50 medical
+treatments for outpatients that the Department determines are most useful for
+consumers;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-220__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The total number of patients discharged from
+the hospital and the total number of potentially preventable readmissions,
+which must be expressed as a total number and a rate of occurrence of
+potentially preventable readmissions, and the average length of stay and the
+average billed charges for those potentially preventable readmissions;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-220__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>To the extent that money is available for
+that purpose, for each hospital, the name of each physician who performed a
+surgical procedure in the hospital and the total number of surgical procedures
+performed by the physician, reported by diagnosis-related group if the
+information is available and by principal diagnosis, principal surgical
+procedure and secondary surgical procedure; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-220__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Any other information relating to the charges
+imposed and the quality of the services provided by the hospitals in this State
+which the Department determines is:
+ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-220__subsec_2__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Useful to consumers;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-220__subsec_2__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Nationally recognized; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-220__subsec_2__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Reported in a standard and reliable
+manner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-220__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section,
+ï¿½diagnosis-related groupï¿½ means groupings of medical diagnostic categories used
+as a basis for hospital payment schedules by Medicare and other third-party
+health care plans.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+2350; A2011,
+1802,2126,2660)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-230">
+          <num>439A.230</num>
+          <heading>Information concerning hospitals: Regulations; deadline for
+submission of information; notice of failure to provide information to be sent
+to Division of Public and Behavioral Health.</heading>
+          <subsection eId="439A-230__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department shall, by regulation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-230__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Prescribe the information that each hospital
+in this State must submit to the Department for the program established
+pursuant toNRS 439A.220.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-230__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prescribe the measures of quality for
+hospitals that are required pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-230__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 2 ofNRS 439A.220. In adopting the
+regulations, the Department shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-230__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Use the measures of quality endorsed by
+the Agency for Healthcare Research and Quality, the National Quality Forum,
+Centers for Medicare and Medicaid Services of the United States Department of
+Health and Human Services, a quality improvement organization of the Centers
+for Medicare and Medicaid Services and the Joint Commission;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-230__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Prescribe a reasonable number of
+measures of quality which must not be unduly burdensome on the hospitals; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-230__subsec_1__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Take into consideration the financial
+burden placed on the hospitals to comply with the regulations.
+ï¿½The measures
+prescribed pursuant to this paragraph must report health outcomes of hospitals,
+which do not necessarily correlate with the inpatient diagnosis-related groups
+or the outpatient treatments that are posted on the Internet website pursuant
+toNRS 439A.270.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="439A-230__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Prescribe the manner in which a hospital must
+determine whether the readmission of a patient must be reported pursuant toNRS 439A.220as a potentially preventable
+readmission and the form for submission of such information.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-230__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Require each hospital to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-230__subsec_1__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Provide the information prescribed in
+paragraphs</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="439A-230__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-230__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-230__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>in the format required by the Department; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-230__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Report the information separately for
+inpatients and outpatients.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-230__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The information required pursuant to
+this section andNRS 439A.220must be
+submitted to the Department not later than 45 days after the last day of each
+calendar month.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-230__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a hospital fails to submit the
+information required pursuant to this section orNRS 439A.220or submits information that
+is incomplete or inaccurate, the Department shall send a notice of such failure
+to the hospital and to the Division of Public and Behavioral Health of the
+Department.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+2350; A2011,
+1803)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-240">
+          <num>439A.240</num>
+          <heading>Information concerning surgical centers for ambulatory patients:
+Establishment of program; information to be collected, maintained and provided
+through program.</heading>
+          <subsection eId="439A-240__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department shall establish and
+maintain a program to increase public awareness of health care information
+concerning the surgical centers for ambulatory patients in this State. The
+program must be designed to assist consumers with comparing the quality of care
+provided by the surgical centers for ambulatory patients in this State and the
+charges for that care.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-240__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The program must include, without
+limitation, the collection, maintenance and provision of information
+concerning:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-240__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The charges imposed on outpatients by each
+surgical center for ambulatory patients in this State as reported in the forms
+submitted pursuant toNRS 439A.250;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-240__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The quality of care provided by each surgical
+center for ambulatory patients in this State as determined by applying uniform
+measures of quality prescribed by the Department pursuant toNRS 439A.250;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-240__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>How consistently each surgical center for
+ambulatory patients follows recognized practices to prevent the infection of
+patients, to speed the recovery of patients and to avoid medical complications
+of patients;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-240__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For each surgical center for ambulatory
+patients, the total number of patients discharged and the average billed
+charges, reported for 50 medical treatments for outpatients that the Department
+determines are most useful for consumers;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-240__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>To the extent that money is available for
+that purpose, for each surgical center for ambulatory patients, the name of
+each physician who performed a surgical procedure in the surgical center for
+ambulatory patients and the total number of surgical procedures performed by
+the physician, reported by type of medical treatment, principal diagnosis and,
+if the information is available, by principal surgical procedure and secondary
+surgical procedure; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-240__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Any other information relating to the charges
+imposed and the quality of the services provided by the surgical centers for
+ambulatory patients in this State which the Department determines is:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-240__subsec_2__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Useful to consumers;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-240__subsec_2__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Nationally recognized; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-240__subsec_2__subsec_f__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Reported in a standard and reliable
+manner.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+2351; A2011,
+2661)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-250">
+          <num>439A.250</num>
+          <heading>Information concerning surgical centers for ambulatory patients:
+Regulations; deadline for submission of information; notice of failure to
+provide information to be sent to Division of Public and Behavioral Health.</heading>
+          <subsection eId="439A-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department shall, by regulation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-250__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Prescribe the information that each surgical
+center for ambulatory patients in this State must submit to the Department for
+the program as set forth inNRS 439A.240and the form for submission of such information.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-250__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prescribe the measures of quality for
+surgical centers for ambulatory patients that are required pursuant to
+paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-250__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 2 ofNRS
+439A.240. In adopting the regulations, the Department shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-250__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Use measures of quality which are
+substantially similar to those required pursuant to subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-250__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of
+paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="439A-250__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 ofNRS
+439A.230;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-250__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Prescribe a reasonable number of
+measures of quality which must not be unduly burdensome on the surgical centers
+for ambulatory patients; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-250__subsec_1__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Take into consideration the financial
+burden placed on the surgical centers for ambulatory patients to comply with
+the regulations.
+ï¿½The measures
+prescribed pursuant to this paragraph must report health outcomes of surgical
+centers for ambulatory patients, which do not necessarily correlate with the
+outpatient treatments posted on the Internet website pursuant toNRS 439A.270.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="439A-250__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Require each surgical center for ambulatory
+patients to provide the information prescribed in paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-250__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-250__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>in the
+format required by the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-250__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Prescribe which surgical centers for
+ambulatory patients in this State must participate in the program established
+pursuant toNRS 439A.240.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The information required pursuant to
+this section andNRS 439A.240must be
+submitted to the Department not later than 45 days after the last day of each
+calendar month.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-250__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a surgical center for ambulatory
+patients fails to submit the information required pursuant to this section orNRS 439A.240or submits information that
+is incomplete or inaccurate, the Department shall send a notice of such failure
+to the surgical center for ambulatory patients and to the Division of Public
+and Behavioral Health of the Department.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+2352)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-260">
+          <num>439A.260</num>
+          <heading>Department to collect and maintain information and make summary
+of information available to certain persons; information to be aggregated.</heading>
+          <subsection eId="439A-260__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department shall collect and
+maintain all information that it receives from the hospitals and surgical
+centers for ambulatory patients in this State pursuant toNRS 439A.220to439A.250, inclusive. Upon request, the
+Department shall make a summary of the information available to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-260__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Consumers of health care;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-260__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Providers of health care;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-260__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Representatives of the health insurance
+industry; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-260__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The general public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-260__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department shall ensure that the
+information it provides pursuant to this section is aggregated so as not to
+reveal the identity of a specific inpatient or outpatient of a hospital or of a
+surgical center for ambulatory patients.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+2352)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-270">
+          <num>439A.270</num>
+          <heading>Internet website for information concerning hospitals and
+surgical centers for ambulatory patients: Establishment; information to be
+included on website; presentation of information on website; duties of
+Department.</heading>
+          <subsection eId="439A-270__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department shall establish and
+maintain an Internet website that includes the information concerning the
+charges imposed and the quality of the services provided by the hospitals and
+surgical centers for ambulatory patients in this State as required by the
+programs established pursuant toNRS
+439A.220and439A.240. The
+information must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-270__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Include, for each hospital in this State,
+the:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-270__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Total number of patients discharged,
+the average length of stay and the average billed charges, reported for the
+diagnosis-related groups for inpatients and the 50 medical treatments for
+outpatients that the Department determines are most useful for consumers;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-270__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Total number of potentially
+preventable readmissions reported pursuant toNRS 439A.220, the rate of occurrence of
+potentially preventable readmissions, and the average length of stay and
+average billed charges of those potentially preventable readmissions, reported
+by the diagnosis-related group for inpatients for which the patient originally
+received treatment at a hospital; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-270__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Name of each physician who performed a
+surgical procedure in the hospital and the total number of surgical procedures
+performed by each physician in the hospital, reported for the most frequent
+surgical procedures that the Department determines are most useful for
+consumers if the information is available;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Include, for each surgical center for
+ambulatory patients in this State, the:
+ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-270__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Total number of patients discharged and
+the average billed charges, reported for 50 medical treatments for outpatients
+that the Department determines are most useful for consumers; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-270__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Name of each physician who performed a
+surgical procedure in the surgical center for ambulatory patients and the total
+number of surgical procedures performed by each physician in the surgical
+center for ambulatory patients, reported for the most frequent surgical
+procedures that the Department determines are most useful for consumers;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Be presented in a manner that allows a person
+to view and compare the information for the hospitals by:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-270__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Geographic location of each hospital;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-270__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Type of medical diagnosis; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-270__subsec_1__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Type of medical treatment;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Be presented in a manner that allows a person
+to view and compare the information for the surgical centers for ambulatory
+patients by:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-270__subsec_1__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Geographic location of each surgical
+center for ambulatory patients;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-270__subsec_1__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Type of medical diagnosis; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-270__subsec_1__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Type of medical treatment;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Be presented in a manner that allows a person
+to view and compare the information separately for:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-270__subsec_1__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The inpatients and outpatients of each
+hospital; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-270__subsec_1__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The outpatients of each surgical
+center for ambulatory patients;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Be readily accessible and understandable by a
+member of the general public;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Include the annual summary of reports of
+sentinel events prepared for each health facility pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of
+subsection 1 ofNRS 439.840;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Include the annual summary of reports of
+sentinel events prepared pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of subsection 1 ofNRS 439.840;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Include the reports of information prepared
+for each medical facility pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 4 ofNRS 439.847;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_1__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>Include a link to electronic copies of all
+reports, summaries, compilations and supplementary reports required byNRS 449.450to449.530, inclusive;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_1__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>Include, for each hospital with 100 or more
+beds, a summary of financial information which is readily understandable by a
+member of the general public and which includes, without limitation, a summary
+of:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-270__subsec_1__subsec_k__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The expenses of the hospital which are
+attributable to providing community benefits and in-kind services as reported
+pursuant toNRS 449.490;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-270__subsec_1__subsec_k__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The capital improvement report
+submitted to the Department pursuant toNRS
+449.490;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-270__subsec_1__subsec_k__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The net income of the hospital;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-270__subsec_1__subsec_k__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>The net income of the consolidated
+corporation, if the hospital is owned by such a corporation and if that
+information is publicly available;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-270__subsec_1__subsec_k__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>The operating margin of the hospital;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-270__subsec_1__subsec_k__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>The ratio of the cost of providing
+care to patients covered by Medicare to the charges for such care;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-270__subsec_1__subsec_k__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>The ratio of the total costs to
+charges of the hospital; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-270__subsec_1__subsec_k__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>The average daily occupancy of the
+hospital; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_1__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>Provide any other information relating to the
+charges imposed and the quality of the services provided by the hospitals and
+surgical centers for ambulatory patients in this State which the Department
+determines is:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="439A-270__subsec_1__subsec_l__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Useful to consumers;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-270__subsec_1__subsec_l__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Nationally recognized; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="439A-270__subsec_1__subsec_l__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Reported in a standard and reliable
+manner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-270__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-270__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Publicize the availability of the Internet
+website;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Update the information contained on the
+Internet website at least quarterly;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Ensure that the information contained on the
+Internet website is accurate and reliable;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Ensure that the information reported by a
+hospital or surgical center for ambulatory patients for inpatients and
+outpatients which is contained on the Internet website is expressed as a total
+number and as a rate, and must be reported in a manner so as not to reveal the
+identity of a specific inpatient or outpatient of a hospital or surgical center
+for ambulatory patients;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Post a disclaimer on the Internet website
+indicating that the information contained on the website is provided to assist
+with the comparison of hospitals and is not a guarantee by the Department or
+its employees as to the charges imposed by the hospitals in this State or the
+quality of the services provided by the hospitals in this State, including,
+without limitation, an explanation that the actual amount charged to a person
+by a particular hospital may not be the same charge as posted on the website
+for that hospital;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Provide on the Internet website established
+pursuant to this section a link to the Internet website of the Centers for
+Medicare and Medicaid Services of the United States Department of Health and
+Human Services; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-270__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Upon request, make the information that is
+contained on the Internet website available in printed form.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-270__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section,
+ï¿½diagnosis-related groupï¿½ means groupings of medical diagnostic categories used
+as a basis for hospital payment schedules by Medicare and other third-party
+health care plans.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+2352; A2009,
+3069;2011,
+838,965,1803,2127,2661;2019,
+1671)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-280">
+          <num>439A.280</num>
+          <heading>Suspension of certain components of program or duties of
+Department if sufficient money not available; acceptance of gifts and grants.</heading>
+          <subsection eId="439A-280__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>On or before July 1 of each
+odd-numbered year, the Department shall make a determination of whether
+sufficient money is available and authorized for expenditure to fund one or
+more components of the programs and other duties of the Department relating toNRS 439A.200to439A.290, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-280__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department shall temporarily
+suspend any components of the program or duties of the Department, other than
+those set forth inNRS 439A.240and439A.250, for which it determines
+pursuant to subsection 1 that sufficient money is not available.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-280__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Department may accept any gift,
+donation, bequest, grant or other source of money for the purpose of carrying
+out the provisions ofNRS 439A.200to439A.290, inclusive.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+2354; A2017,
+604)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-290">
+          <num>439A.290</num>
+          <heading>Duty of Department to consult; Department allowed to contract
+with certain entities for analysis of information collected and maintained by
+Department; regulations for review and release of information; annual report
+concerning requests for release of information.</heading>
+          <subsection eId="439A-290__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In carrying out the provisions ofNRS 439A.200to439A.290, inclusive, the Department:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-290__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Shall work in consultation with a quality
+improvement organization of the Centers for Medicare and Medicaid Services of
+the United States Department of Health and Human Services; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-290__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May contract with the Nevada System of Higher
+Education or any appropriate, independent and qualified person or entity to
+analyze the information collected and maintained by the Department pursuant toNRS 439A.200to439A.290, inclusive. Such a contractor
+may release or publish or otherwise use information made available to it
+pursuant to the contract if the Department determines that the information is
+accurate and the contractor complies with the regulations adopted pursuant to
+subsection 2.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-290__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department shall adopt regulations
+for the review and release of information collected and maintained by the
+Department pursuant toNRS 439A.200to439A.290, inclusive. The regulations
+must require, without limitation, the Department to review each request for
+information if the request is for purposes other than research.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-290__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Department shall, on or before July
+1 of each year, submit to the Joint Interim Standing Committee on Health and
+Human Services a report concerning each request that is made pursuant to
+subsection 2 and the determination of the Department with regard to each
+request.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+2354)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-300">
+          <num>439A.300</num>
+          <heading>Injunctions.</heading>
+          <subsection eId="439A-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as provided in subsection 2, the
+Department may apply to any court of competent jurisdiction to enjoin any
+person, state agency or local governmental agency which has engaged in or is
+about to engage in any act which violates any provision of this chapter or the
+regulations adopted pursuant thereto. Such injunction may be issued without
+proof of actual damage sustained by any person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="439A-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department shall not seek
+injunctive relief under this section if it has imposed a civil penalty for the
+same violation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+257; A1983,
+1528)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_439A-310">
+          <num>439A.310</num>
+          <heading>Civil penalties.</heading>
+          <subsection eId="439A-310__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, any person who violates any of the provisions of this chapter is
+liable to the State for a civil penalty of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="439A-310__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Where the provision violated governs the
+licensing of a project which is required to be approved pursuant toNRS 439A.100or439A.102, not more than 10 percent of the
+proposed expenditure for the project.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="439A-310__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Where any other provision is violated, not
+more than $20,000 for each violation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="439A-310__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department shall not impose a
+penalty under this section if it applies for injunctive relief to prevent the
+same violation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1523; A1991,
+1077;1995,
+1488;2023,
+2018)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

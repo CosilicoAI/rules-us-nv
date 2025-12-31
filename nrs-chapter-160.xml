@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-160"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-160"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="160"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-160/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-160/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-160/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-160/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_160">
+        <num>160</num>
+        <heading>VETERANSï¿½ GUARDIANSHIP</heading>
+        <section eId="sec_160-010">
+          <num>160.010</num>
+          <heading>Short title.</heading>
+          <content>
+            <p>This
+chapter may be cited as the Uniform Veteransï¿½ Guardianship Act.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [18:28:1929; NCL ï¿½ 9565]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-020">
+          <num>160.020</num>
+          <heading>Definitions.</heading>
+          <subsection eId="160-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Benefitsï¿½ means all money payable by
+the United States through the Department of Veterans Affairs.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½Department of Veterans Affairsï¿½ means
+the Department of Veterans Affairs, its predecessors or successors.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>ï¿½Estateï¿½ and ï¿½incomeï¿½ include only
+money received by the guardian from the Department of Veterans Affairs and all
+earnings, interest and profits derived therefrom.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-020__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>ï¿½Guardianï¿½ means any person acting as a
+fiduciary for a ward.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-020__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>ï¿½Secretaryï¿½ means the Secretary of
+Veterans Affairs of the United States or the Secretaryï¿½s successor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-020__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>ï¿½Wardï¿½ means a beneficiary of the
+Department of Veterans Affairs.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:28:1929; NCL ï¿½ 9548]—(NRS A1985,
+508;1995,
+1078)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-030">
+          <num>160.030</num>
+          <heading>Applicability.</heading>
+          <content>
+            <p>Whenever,
+pursuant to any law of the United States or regulation of the Department of
+Veterans Affairs, the Secretary requires the appointment of a guardian for a
+ward before the payment of benefits, the appointment must be made in the manner
+provided in this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [2:28:1929; NCL ï¿½ 9549]—(NRS A1995,
+1078)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-040">
+          <num>160.040</num>
+          <heading>Limitation on number of wards; exceptions.</heading>
+          <subsection eId="160-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, it is unlawful for any person to accept appointment as guardian of any
+ward if the proposed guardian is at that time acting as guardian for five
+wards. In any case, upon presentation of a petition by an attorney of the
+Department of Veterans Affairs pursuant to this section alleging that a
+guardian is acting in a fiduciary capacity for more than five wards and
+requesting his or her discharge for that reason, the court, upon proof substantiating
+the petition, shall require a final accounting from the guardian and shall
+discharge the guardian in the case.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The limitations of this section do not
+apply where the guardian is a bank or trust company acting for the wardsï¿½
+estates only.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-040__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An individual may be guardian of more
+than five wards if they are all members of the same family.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-040__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The limitations of this section do not
+apply to a public guardian.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [3:28:1929; NCL ï¿½ 9550]—(NRS A1961,
+32;1977,
+488;1995,
+1078;1999,
+2477;2017,
+383)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-050">
+          <num>160.050</num>
+          <heading>Appointment of guardian.</heading>
+          <subsection eId="160-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A petition for the appointment of a
+guardian may be filed in any court of competent jurisdiction by or on behalf of
+any person who under existing law is entitled to priority of appointment. If
+there is no person so entitled or if the person so entitled neglects or refuses
+to file such a petition within 30 days after the mailing of notice by the
+Department of Veterans Affairs to the last known address of such person
+indicating the necessity for the same, a petition for such appointment may be
+filed in any court of competent jurisdiction by or on behalf of any responsible
+person residing in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The petition for appointment must set
+forth the name, age and place of residence of the ward, the names and places of
+residence of the nearest relatives, if known, and the fact that the ward is
+entitled to receive money payable by or through the Department of Veterans
+Affairs, and must set forth the amount of money then due and the amount of
+probable future payments.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-050__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The petition must also set forth the
+name and address of the person or institution, if any, having actual custody of
+the ward.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-050__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In case of a mentally incompetent ward
+the petition must show that such ward has been rated incompetent on examination
+by the Department of Veterans Affairs in accordance with the laws and
+regulations governing the Department of Veterans Affairs.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [4:28:1929; NCL ï¿½ 9551]—(NRS A1995,
+1079)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-060">
+          <num>160.060</num>
+          <heading>Evidence of necessity for guardian for minor.</heading>
+          <content>
+            <p>If a petition is filed for the appointment of
+a guardian of a minor ward, a certificate of the Secretary or a representative
+of the Secretary, setting forth the age of such minor as shown by the records
+of the Department of Veterans Affairs and the fact that the appointment of a
+guardian is a condition precedent to the payment of any money due the minor by
+the Department of Veterans Affairs, constitutes prima facie evidence of the
+necessity for such appointment.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [5:28:1929; NCL ï¿½ 9552]—(NRS A1995,
+1079)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-070">
+          <num>160.070</num>
+          <heading>Evidence of necessity for guardian for incompetent.</heading>
+          <content>
+            <p>If a petition is filed for the appointment of
+a guardian of a mentally incompetent ward, a certificate of the Secretary or a
+representative of the Secretary, setting forth the fact that such person has
+been rated incompetent by the Department of Veterans Affairs on examination in
+accordance with the laws and regulations governing the Department of Veterans
+Affairs and that the appointment of a guardian is a condition precedent to the
+payment of any money due such person by the Department of Veterans Affairs,
+constitutes prima facie evidence of the necessity for such appointment.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [6:28:1929; NCL ï¿½ 9553]—(NRS A1995,
+1079)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-080">
+          <num>160.080</num>
+          <heading>Notice.</heading>
+          <content>
+            <p>Upon the
+filing of a petition for the appointment of a guardian under the provisions of
+this chapter, the court shall cause such notice to be given as provided by law.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [7:28:1929; NCL ï¿½ 9554]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-090">
+          <num>160.090</num>
+          <heading>Bond.</heading>
+          <subsection eId="160-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Before making an appointment under the
+provisions of this chapter, the court shall establish to its satisfaction that
+the person whose appointment as guardian is sought is a fit and proper person
+to be appointed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon the appointment being made, the
+guardian shall, except as otherwise provided in this section, execute and file
+a bond to be approved by the court in an amount not less than the value of the
+personal property of the estate plus the anticipated annual income. Thereafter,
+the amount of the bond must be equal to the total value of the personal estate
+plus the annual income. The bond must be in the form and be conditioned as
+required of guardians appointed pursuant to the provisions ofchapter 159or159Aof NRS. The premiums on all such bonds must be paid from the estate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-090__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a banking corporation as defined inNRS 657.016, or a trust company, as defined
+byNRS 669.070, doing business in this state
+is appointed guardian of the estate of a ward, no bond is required of the
+guardian unless the court by specific order requires a bond.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-090__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the court orders that the estate and
+income, or a part thereof, be deposited in a banking corporation, as defined inNRS 657.016, or trust company, as
+defined byNRS 669.070, doing business
+in this state and that such estate and income, or any part thereof, must not be
+withdrawn without authorization of the court, then the amount of the guardianï¿½s
+bond must be reduced in an amount equal to the amount of the estate and income
+on deposit with the banking corporation, and the surety on the bonds must be
+exonerated from any loss to the estate in connection with the deposit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-090__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Where a bond is tendered by a guardian
+with personal sureties, the sureties shall file with the court a certificate
+under oath which describes the property owned, both real and personal, and
+contains a statement that they are each worth the sum named in the bond as the
+penalty thereof over and above all their debts and liabilities and exclusive of
+property exempt from execution.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [8:28:1929; NCL ï¿½ 9555]—(NRS A1959,
+65;1969,
+1190;1971,
+1010;1977,
+640;1999,
+2478;2017,
+383,887)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-100">
+          <num>160.100</num>
+          <heading>Accounts.</heading>
+          <subsection eId="160-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every guardian who receives on account
+of a ward of the guardian any money from the Department of Veterans Affairs
+shall file with the court annually, on the anniversary date of the appointment,
+in addition to such other accounts as may be required by the court, a full,
+true and accurate account under oath of all money so received by the guardian
+and of all disbursements thereof, and showing the balance thereof in the hands
+of the guardian at the date of such account and how invested.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A certified copy of each of such
+accounts filed with the court must be sent by the guardian to the office of the
+Department of Veterans Affairs having jurisdiction over the area in which the
+court is located. The court shall fix a time and place for the hearing on such
+account not less than 15 days or more than 30 days after the date of filing the
+account, and notice thereof must be given by the court to the concerned office
+of the Department of Veterans Affairs not less than 15 days before the date
+fixed for the hearing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Notice of such hearing must in like
+manner be given to the guardian.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [9:28:1929; NCL ï¿½ 9556]—(NRS A1995,
+1080)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-110">
+          <num>160.110</num>
+          <heading>Penalty for failure to account.</heading>
+          <content>
+            <p>If
+any guardian fails to file any account of the money received by the guardian
+from the Department of Veterans Affairs on account of a ward of the guardian
+within 30 days after such account is required by either the court or the
+Department of Veterans Affairs, or fails to furnish the Department of Veterans
+Affairs with a copy of the accounts of the guardian as required by this
+chapter, such failure constitutes grounds for removal.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [10:28:1929; NCL ï¿½ 9557]—(NRS A1995,
+1080)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-120">
+          <num>160.120</num>
+          <heading>Compensation of guardian.</heading>
+          <content>
+            <p>Compensation
+payable to a guardian must not exceed 5 percent of the income of the ward
+during any year. In the event of extraordinary services rendered by any
+guardian, the court may, upon petition and after hearing thereon, authorize
+additional compensation therefor payable from the estate of the ward. Notice of
+such petition and hearing must be given to the proper office of the Department
+of Veterans Affairs in the manner provided inNRS
+160.100. No compensation may be allowed on the corpus of an estate received
+from a preceding guardian. The guardian may be allowed from the estate of the
+ward of the guardian reasonable premiums paid by him or her to any corporate
+surety upon his or her bond.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [11:28:1929; NCL ï¿½ 9558]—(NRS A1995,
+1080)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-130">
+          <num>160.130</num>
+          <heading>Investments.</heading>
+          <content>
+            <p>Every
+guardian shall invest the funds of the estate in such manner or in such
+securities, in which the guardian has no interest, as allowed by law or
+approved by the court.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [12:28:1929; NCL ï¿½ 9559]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-140">
+          <num>160.140</num>
+          <heading>Maintenance and support.</heading>
+          <content>
+            <p>A
+guardian shall not apply any portion of the estate of a ward of the guardian
+for the support and maintenance of any person other than the ward, except upon
+order of the court after a hearing, notice of which has been given to the
+proper office of the Department of Veterans Affairs in the manner provided inNRS 160.100.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [13:28:1929; NCL ï¿½ 9560]—(NRS A1995,
+1080)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-150">
+          <num>160.150</num>
+          <heading>Copies of public records to be furnished.</heading>
+          <content>
+            <p>When a copy of any public record is required
+by the Department of Veterans Affairs to be used in determining the eligibility
+of any person to participate in benefits made available by the Department of
+Veterans Affairs, the official charged with the custody of such public record
+shall without charge provide the applicant for such benefits or any person
+acting on behalf of the applicant or the representative of the Department of
+Veterans Affairs with a certified copy of such record.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [14:28:1929; NCL ï¿½ 9561]—(NRS A1995,
+1081)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-160">
+          <num>160.160</num>
+          <heading>Commitment to Department of Veterans Affairs or other federal
+agency.</heading>
+          <subsection eId="160-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In any proceeding under the laws of
+this State for involuntary court-ordered admission of a person alleged to be
+mentally ill or otherwise in need of confinement in a hospital or other
+institution for his or her care, the court may order the admission of that
+person to the Department of Veterans Affairs or another agency of the Federal
+Government, whenever:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="160-160__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>It is determined, after such adjudication of
+the status of that person as may be required bychapter
+433Aof NRS, that involuntary court-ordered admission to a hospital for
+mental disease or another institution is necessary for safekeeping or
+treatment; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="160-160__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>It appears that the person is eligible for
+care or treatment by the Department of Veterans Affairs or any other agency
+that has facilities available and that the person is eligible for care or
+treatment therein.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="160-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The person whose involuntary
+court-ordered admission is sought must be personally served with notice of the
+pending proceeding in the manner provided bychapter
+433Aof NRS. This chapter does not affect that personï¿½s right to appear and
+be heard in the proceedings.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [15:28:1929; NCL ï¿½ 9562]—(NRS A1957,
+660;1975,
+1632;1985,
+2274;1995,
+1081)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-161">
+          <num>160.161</num>
+          <heading>Regulations of Department of Veterans Affairs or other federal
+agency; powers of officer; jurisdiction of court.</heading>
+          <subsection eId="160-161__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon commitment, a person is subject to
+the rules and regulations of the Department of Veterans Affairs or other agency
+when admitted to any facility operated by any such agency within or without
+this state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-161__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The chief officer of any facility of
+the Department of Veterans Affairs or institution operated by any other agency
+of the United States to which the person is so committed is, with respect to
+that person, vested with the same powers as the Director and the Medical
+Director of Northern Nevada Adult Mental Health Services with respect to
+retention of custody, transfer, parole or discharge.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-161__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The committing court shall retain
+jurisdiction:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="160-161__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To inquire, at any time, into the mental
+condition of persons so committed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="160-161__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To determine the necessity for the
+continuance of the personï¿½s restraint.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+660; A1973,
+92,1218;1995,
+1081;2001,
+1116)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-162">
+          <num>160.162</num>
+          <heading>Transfer of person from Northern Nevada Adult Mental Health
+Services to Department of Veterans Affairs or other federal agency.</heading>
+          <subsection eId="160-162__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon receipt of a certificate of the
+Department of Veterans Affairs or another agency of the United States that
+facilities are available for the care or treatment of any person previously
+committed to the custody of Northern Nevada Adult Mental Health Services and
+that the person is eligible for care or treatment, the Director of Northern
+Nevada Adult Mental Health Services may cause the transfer of the person to the
+Department of Veterans Affairs or other agency of the United States for care or
+treatment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-162__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The committing court must be notified
+by the Director of Northern Nevada Adult Mental Health Services upon effecting
+such a transfer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-162__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>No person may be transferred to the
+Department of Veterans Affairs or such other agency of the United States if the
+person is confined pursuant to a conviction of a felony or misdemeanor or if
+the person has been acquitted of the charge solely on the ground of insanity,
+unless before the transfer the court originally committing the person enters an
+order for the transfer after appropriate motion and hearing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="160-162__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Any person transferred as provided in
+this section shall be deemed to be committed to the Department of Veterans
+Affairs or other agency of the United States pursuant to the original
+commitment.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+661; A1973,
+92,1219;1995,
+1081;2001,
+1116)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-170">
+          <num>160.170</num>
+          <heading>Discharge of guardian.</heading>
+          <content>
+            <p>When
+a minor ward for whom a guardian has been appointed under the provisions of
+this chapter or other laws of this state attains his or her majority, and if
+incompetent is declared competent by the Department of Veterans Affairs and the
+court, and when any incompetent ward, not a minor, is declared competent by the
+Department of Veterans Affairs and the court, the guardian must, upon making a
+satisfactory accounting, be discharged upon a petition filed for that purpose.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [16:28:1929; NCL ï¿½ 9563]—(NRS A1995,
+1082)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-180">
+          <num>160.180</num>
+          <heading>Liberal construction.</heading>
+          <content>
+            <p>This
+chapter must be construed liberally to secure the beneficial intents and
+purposes thereof and applies only to beneficiaries of the Department of
+Veterans Affairs.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [17:28:1929; NCL ï¿½ 9564]—(NRS A1995,
+1082)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_160-190">
+          <num>160.190</num>
+          <heading>Uniformity of interpretation.</heading>
+          <content>
+            <p>This
+chapter shall be so interpreted and construed as to effectuate its general
+purpose to make uniform the law of those states which enact it.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [19:28:1929; NCL ï¿½ 9566]</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

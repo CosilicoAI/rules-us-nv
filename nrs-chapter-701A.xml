@@ -1,0 +1,2468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-701A"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-701A"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="701A"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-701A/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-701A/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-701A/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-701A/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_701A">
+        <num>701A</num>
+        <heading>ENERGY-RELATED TAX</heading>
+        <section eId="sec_701A-100">
+          <num>701A.100</num>
+          <heading>Adoption of Green Building Rating System; requirements and
+limitations. [Effective through June 30, 2035.]</heading>
+          <subsection eId="701A-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director of the Office of Energy
+shall adopt a Green Building Rating System for the purposes of determining the
+eligibility of a building or other structure for a tax abatement pursuant toNRS 701A.110. The Director shall not
+alter or amend the Green Building Rating System adopted pursuant to this
+section after July 1, 2021, and the standards and ratings in effect on that
+date shall remain in effect.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Green Building Rating System must
+include standards and ratings equivalent to the standards and ratings provided
+pursuant to the Leadership in Energy and Environmental Design Green Building
+Rating System or an equivalent rating system, except that the standards adopted
+by the Director:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-100__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided in paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-100__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-100__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>, must not include:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="701A-100__subsec_2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Any standard that has not been
+included in the Leadership in Energy and Environmental Design Green Building
+Rating System or the equivalent rating system for at least 2 years; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-100__subsec_2__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Standards for homes;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="701A-100__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Must provide reasonable exceptions based on
+the size of the area occupied by the building or other structure; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-100__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Must require a building or other structure to
+obtain:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="701A-100__subsec_2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>At least 5 points in the Optimize
+Energy Performance credit, or its equivalent, to meet the equivalent of the
+silver level;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-100__subsec_2__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>At least 7 points in the Optimize
+Energy Performance credit, or its equivalent, to meet the equivalent of the
+gold level; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-100__subsec_2__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>At least 11 points in the Optimize Energy
+Performance credit, or its equivalent, to meet the equivalent of the platinum
+level.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½homeï¿½ means a
+building or other structure for which the principal use is as a residential
+dwelling for not more than four families.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3375; A2011,
+1653;2013,
+3185;2021,
+2015; R2021,
+2020, effective July 1, 2035)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-110">
+          <num>701A.110</num>
+          <heading>Partial abatement of certain property taxes for buildings or
+structures that meet certain standards under Green Building Rating System;
+requirements and limitations; regulations. [Effective through June 30, 2035.]</heading>
+          <subsection eId="701A-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, the Director, in consultation with the Office of Economic Development,
+shall grant a partial abatement from the portion of the taxes imposed pursuant
+tochapter 361of NRS, other than any taxes
+imposed for public education, on a building or other structure that is
+determined to meet the equivalent of the silver level or higher by an
+independent contractor authorized to make that determination in accordance with
+the Green Building Rating System adopted by the Director pursuant toNRS 701A.100, if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-110__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>No funding is provided by any governmental
+entity in this State for the acquisition, design, construction or renovation of
+the building or other structure or for the acquisition of any land therefor.
+For the purposes of this paragraph:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="701A-110__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Private activity bonds must not be
+considered funding provided by a governmental entity.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-110__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The term ï¿½private activity bondï¿½ has
+the meaning ascribed to it in 26 U.S.C. ï¿½ 141.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="701A-110__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The owner of the property:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="701A-110__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Submits an application for the partial
+abatement to the Director before July 1, 2021. If such an application is
+submitted for a project that has not been completed on the date of that
+submission and there is a significant change in the scope of the project after
+that date, the application must be amended to include the change or changes.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-110__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Except as otherwise provided in this
+subparagraph, provides to the Director, within 48 months after applying for the
+partial abatement, proof that the building or other structure meets the
+equivalent of the silver level or higher, as determined by an independent
+contractor authorized to make that determination in accordance with the Green
+Building Rating System adopted by the Director pursuant toNRS 701A.100. The Director may, for good
+cause shown, extend the period for providing such proof.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-110__subsec_1__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Files a copy of each application and
+amended application submitted to the Director pursuant to subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-110__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>with
+the:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) Chief of the Budget Division of
+the Office of Finance;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) Department of Taxation;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (III) County assessor;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (IV) County treasurer;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (V) Office of Economic Development;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (VI) Board of county commissioners;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (VII) City manager and city council,
+if any.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="701A-110__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The abatement is consistent with the State
+Plan for Economic Development developed by the Executive Director of the Office
+of Economic Development pursuant to subsection 2 ofNRS 231.053.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director shall not approve an
+application for a partial abatement of the taxes imposed pursuant tochapter 361of NRS submitted pursuant to this
+section by the owner of the property unless the application is approved or
+deemed approved by the board of county commissioners pursuant to this subsection.
+The board of county commissioners of a county must provide notice to the
+Director that the board intends to consider an application and, if such notice
+is given, must approve or deny the application not later than 30 days after the
+board receives a copy of the application. The board of county commissioners:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-110__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Shall, in considering an application pursuant
+to this subsection, make a recommendation to the Director regarding the
+application;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-110__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May, in considering an application pursuant
+to this subsection, deny an application only if the board of county
+commissioners determines, based on relevant information, that:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="701A-110__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The projected cost of the services
+that the local government is required to provide to the building or other
+structure for which the abatement is received will exceed the amount of tax
+revenue that the local government is projected to receive as a result of the
+abatement; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-110__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The projected financial benefits that
+will result to the county from any employment resulting from the use of the
+building or other structure and from capital investments by the owner of the
+building or other structure in the county will not exceed the projected loss of
+tax revenue that will result from the abatement; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="701A-110__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>May, without regard to whether the board has
+provided notice to the Director of its intent to consider the application, make
+a recommendation to the Director regarding the application.
+ï¿½If the board
+of county commissioners does not approve or deny the application pursuant to
+this subsection within 30 days after the board receives a copy of the
+application, the application shall be deemed approved.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-110__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As soon as practicable after the
+Director receives the application and proof required by subsection 1, the
+Director, in consultation with the Office of Economic Development, shall
+determine whether the building or other structure is eligible for the abatement
+and, if so, forward a certificate of eligibility for the abatement to the:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-110__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Department of Taxation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-110__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>County assessor;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-110__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>County treasurer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-110__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Office of Economic Development.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-110__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Director may, with the assistance
+of the Chief of the Budget Division and the Department of Taxation, publish a
+fiscal note that indicates an estimate of the fiscal impact of the partial
+abatement on the State and on each affected local government. If the Director
+publishes a fiscal note that estimates the fiscal impact of the partial
+abatement on local government, the Director shall forward a copy of the fiscal
+note to each affected local government. As soon as practicable after receiving
+a copy of a certificate of eligibility pursuant to subsection 3, the Department
+of Taxation shall forward a copy of the certificate to each affected local
+government.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-110__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The partial abatement for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-110__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A building or other structure must, except as
+otherwise provided in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-110__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>, be for a duration of not more than 10
+years and in an annual amount that equals, for a building or other structure
+that meets the equivalent of:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="701A-110__subsec_5__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The silver level, 25 percent of the
+portion of the taxes imposed pursuant tochapter
+361of NRS, other than any taxes imposed for public education, that would
+otherwise be owed for the building or other structure, excluding the associated
+land;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-110__subsec_5__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The gold level, 30 percent of the
+portion of the taxes imposed pursuant tochapter
+361of NRS, other than any taxes imposed for public education, that would
+otherwise be owed for the building or other structure, excluding the associated
+land; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-110__subsec_5__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The platinum level, 35 percent of the
+portion of the taxes imposed pursuant tochapter
+361of NRS, other than any taxes imposed for public education, that would
+otherwise be owed for the building or other structure, excluding the associated
+land.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="701A-110__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A building or other structure that qualifies
+for an abatement under the Leadership in Energy and Environmental Design
+ï¿½Existing Buildings: Operations and Maintenanceï¿½ rating system, or its
+equivalent, must be for a duration of not more than 5 years and in an annual
+amount that equals, except as otherwise provided in subsection 6, for a
+building or other structure that meets the equivalent of:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="701A-110__subsec_5__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The silver level, 25 percent of the
+portion of the taxes imposed pursuant tochapter
+361of NRS, other than any taxes imposed for public education, that would
+otherwise be owed for the building or other structure, excluding the associated
+land;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-110__subsec_5__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The gold level, 30 percent of the
+portion of the taxes imposed pursuant tochapter
+361of NRS, other than any taxes imposed for public education, that would
+otherwise be owed for the building or other structure, excluding the associated
+land; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-110__subsec_5__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The platinum level, 35 percent of the
+portion of the taxes imposed pursuant tochapter
+361of NRS, other than any taxes imposed for public education, that would
+otherwise be owed for the building or other structure, excluding the associated
+land.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-110__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Director shall not grant a partial
+abatement of more than $100,000 in any year for a building or other structure
+that qualifies for an abatement pursuant to paragraph</p>
+            </content>
+            <paragraph eId="701A-110__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 5.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-110__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>A partial abatement granted pursuant to
+this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-110__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Does not apply during any period in which the
+owner of the building or other structure is receiving another abatement or
+exemption pursuant to this chapter orNRS
+361.045to361.159, inclusive, from
+the taxes imposed pursuant tochapter 361of
+NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-110__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Terminates upon any determination by the
+Director that the building or other structure has ceased to meet the equivalent
+of the silver level or higher. The Director shall provide notice and a
+reasonable opportunity to cure any noncompliance issues before making a determination
+that the building or other structure has ceased to meet that standard. The
+Director shall immediately provide notice of each determination of termination
+to the:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="701A-110__subsec_7__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Department of Taxation, who shall
+immediately notify each affected local government of the determination;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-110__subsec_7__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>County assessor;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-110__subsec_7__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>County treasurer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-110__subsec_7__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Office of Economic Development.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-110__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>If a partial abatement terminates
+pursuant to paragraph</p>
+            </content>
+            <paragraph eId="701A-110__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 7, the owner of the property to which
+the partial abatement applied shall repay to the county treasurer the amount of
+the exemption that was allowed pursuant to this section before the date of that
+termination. The owner shall, in addition to the amount of the exemption
+required to be paid pursuant to this subsection, pay interest on the amount due
+at the rate most recently established pursuant toNRS 99.040for each month, or portion
+thereof, from the last day of the month following the period for which the
+payment would have been made had the partial abatement not been approved until
+the date of payment of the tax.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-110__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>The Director, in consultation with the
+Office of Economic Development, shall adopt regulations:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-110__subsec_9__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Establishing the qualifications and methods
+to determine eligibility for and the duration of the abatement;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-110__subsec_9__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prescribing such forms as will ensure that
+all information and other documentation necessary to make an appropriate
+determination is filed with the Director; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-110__subsec_9__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Prescribing the criteria for determining when
+there is a significant change in the scope of a project for the purposes of
+subparagraph</p>
+              </content>
+              <subparagraph eId="701A-110__subsec_9__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="701A-110__subsec_9__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1,
+ï¿½and the
+Department of Taxation shall adopt such additional regulations as it determines
+to be appropriate to carry out the provisions of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-110__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>The Director shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-110__subsec_10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Cooperate with the Office of Economic
+Development in carrying out the provisions of this section; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-110__subsec_10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Submit to the Office of Economic Development
+an annual report, at such a time and containing such information as the Office
+may require, regarding the partial abatements granted pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-110__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>The Director may charge and collect a
+fee from each applicant who submits an application for a partial abatement
+pursuant to this section. The amount of the fee must not exceed the actual cost
+to the Director for processing the application and evaluating the proof submitted
+by the applicant pursuant to subsection 1 and making the determination
+concerning eligibility for the partial abatement required by subsection 3.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-110__subsec_12">
+            <num>12.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-110__subsec_12__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Building or other structureï¿½ does not
+include any building or other structure for which the principal use is as a
+residential dwelling for not more than four families.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-110__subsec_12__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Directorï¿½ means the Director of the Office
+of Energy appointed pursuant toNRS 701.150.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-110__subsec_12__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>ï¿½Taxes imposed for public educationï¿½ means:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="701A-110__subsec_12__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Any ad valorem tax authorized or
+required bychapter 387of NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-110__subsec_12__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Any ad valorem tax authorized or
+required bychapter 350of NRS for the
+obligations of a school district, including, without limitation, any ad valorem
+tax necessary to carry out the provisions of subsection 5 ofNRS 350.020; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-110__subsec_12__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Any other ad valorem tax for which the
+proceeds thereof are dedicated to the public education of pupils in kindergarten
+through grade 12.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3375; A2009,
+988;2011,
+1654,2067,3474;2013,
+3186,3197;2021,
+2016; R2021,
+2020, effective July 1, 2035)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-200">
+          <num>701A.200</num>
+          <heading>Exemption from certain property taxes for qualified energy
+systems: Requirements and limitations; regulations.</heading>
+          <subsection eId="701A-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>For purposes of the assessment of
+property pursuant tochapter 361of NRS:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-200__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-200__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>, a qualified system is exempt from taxation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-200__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A qualified system is not exempt from
+taxation:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="701A-200__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>During any period in which the
+qualified system is subject to another abatement or exemption pursuant to this
+chapter orNRS 361.045to361.159, inclusive, from the taxes imposed
+pursuant tochapter 361of NRS; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-200__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>If the system is constructed after
+July 1, 2009, and is part of a facility which is eligible for a partial
+abatement of taxes pursuant toNRS
+701A.360.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Nevada Tax Commission shall adopt
+such regulations as it determines to be necessary for the administration of
+this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½qualified
+systemï¿½ means any system, method, construction, installation, machinery,
+equipment, device or appliance which is designed, constructed or installed in
+or adjacent to one or more buildings or an irrigation system in an agricultural
+operation to heat or cool the building or buildings or water used in the
+building or buildings, or to provide electricity used in the building or
+buildings or irrigation system regardless of whether the owner of the system,
+building or buildings or irrigation system participates in net metering
+pursuant toNRS 704.766to704.776, inclusive, by using:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-200__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Energy from the wind or from solar devices;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-200__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Geothermal resources;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-200__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Energy derived from conversion of solid
+wastes; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-200__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Waterpower,
+ï¿½which
+conforms to standards established by regulation of the Nevada Tax Commission.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3379; A2011,
+2070;2019,
+1186)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-210">
+          <num>701A.210</num>
+          <heading>Partial abatement of certain property taxes for businesses and
+facilities using recycled material: Requirements and limitations.</heading>
+          <subsection eId="701A-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, if a:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-210__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Business that engages in the primary trade of
+preparing, fabricating, manufacturing or otherwise processing raw material or
+an intermediate product through a process in which at least 50 percent of the
+material or product is recycled on-site; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-210__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Business that includes as a primary component
+a facility for the generation of electricity from recycled material,
+ï¿½is found by
+the Office of Economic Development to have as a primary purpose the
+conservation of energy or the substitution of other sources of energy for
+fossil sources of energy and obtains certification from the Office of Economic
+Development pursuant toNRS 360.750, the
+Office may, if the business additionally satisfies the requirements set forth
+in subsection 2 ofNRS 361.0687, grant
+to the business a partial abatement from the taxes imposed on real property
+pursuant tochapter 361of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a partial abatement from the taxes
+imposed on real property pursuant tochapter 361of NRS is approved by the Office of Economic Development pursuant toNRS 360.750for a business described in
+subsection 1:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-210__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The partial abatement must:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="701A-210__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Be for a duration of at least 1 year
+but not more than 10 years;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-210__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Not exceed 50 percent of the taxes on
+real property payable by the business each year; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-210__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Be administered and carried out in the
+manner set forth inNRS 360.750.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="701A-210__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Executive Director of the Office of
+Economic Development shall notify the county assessor of the county in which
+the business is located of the approval of the partial abatement, including,
+without limitation, the duration and percentage of the partial abatement that
+the Office granted. The Executive Director shall, on or before April 15 of each
+year, advise the county assessor of each county in which a business qualifies
+for a partial abatement during the current fiscal year as to whether the
+business is still eligible for the partial abatement in the next succeeding
+fiscal year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The partial abatement provided in this
+section applies only to the business for which certification was granted
+pursuant toNRS 360.750and the property
+used in connection with that business. The exemption does not apply to property
+in this State that is not related to the business for which the certification
+was granted pursuant toNRS 360.750or
+to property in existence and subject to taxation before the certification was
+granted.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-210__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½facility for
+the generation of electricity from recycled materialï¿½ means a facility for the
+generation of electricity that uses recycled material as its primary fuel,
+including material from:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-210__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Industrial or domestic waste, other than
+hazardous waste, even though it includes a product made from oil, natural gas
+or coal, such as plastics, asphalt shingles or tires;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-210__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Agricultural crops, whether terrestrial or
+aquatic, and agricultural waste, such as manure and residue from crops; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-210__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Municipal waste, such as sewage and sludge.
+ï¿½The term
+includes all the equipment in the facility used to process and convert into
+electricity the energy derived from a recycled material fuel.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3378; A2011,
+3477)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-300">
+          <num>701A.300</num>
+          <heading>Definitions. [Effective through June 30, 2049.]</heading>
+          <content>
+            <p>As used inNRS
+701A.300to701A.390, inclusive,
+unless the context otherwise requires, the words and terms defined inNRS 701A.305to701A.345, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2004; A2021,
+3775;2023,
+639)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-305">
+          <num>701A.305</num>
+          <heading>ï¿½Biomassï¿½ defined. [Effective through June 30, 2049.]</heading>
+          <subsection eId="701A-305__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Agricultural crops and agricultural
+wastes and residues;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-305__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Wood and wood wastes and residues;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-305__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Animal wastes;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-305__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Municipal wastes; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-305__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Aquatic plants.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2004)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-315">
+          <num>701A.315</num>
+          <heading>ï¿½Directorï¿½ defined. [Effective through June 30, 2049.]</heading>
+          <content>
+            <p>ï¿½Directorï¿½ means the Director of the Office of
+Energy appointed pursuant toNRS 701.150.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2004)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-317">
+          <num>701A.317</num>
+          <heading>ï¿½Energy storage technologyï¿½ defined. [Effective through June 30,
+2049.]</heading>
+          <content>
+            <p>ï¿½Energy storage technologyï¿½
+means technology that stores energy as potential, kinetic, chemical or thermal
+energy that can be released at a later time, including, without limitation,
+batteries, flywheels, electrochemical capacitors, compressed-air storage and
+thermal storage devices.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3774)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-320">
+          <num>701A.320</num>
+          <heading>ï¿½Facility for the generation of electricity from renewable
+energyï¿½ defined. [Effective through June 30, 2049.]</heading>
+          <subsection eId="701A-320__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Facility for the generation of
+electricity from renewable energyï¿½ means a facility for the generation of
+electricity that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-320__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Uses renewable energy as its primary source
+of energy; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-320__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has a generating capacity of at least 10
+megawatts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-320__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term does not include a facility
+that is located on residential property.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2004)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-325">
+          <num>701A.325</num>
+          <heading>ï¿½Facility for the generation of process heat from solar
+renewable energyï¿½ defined. [Effective through June 30, 2049.]</heading>
+          <subsection eId="701A-325__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Uses solar renewable energy to generate
+process heat; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-325__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Has an output capacity of at least 25,840,000
+British thermal units per hour.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2004)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-327">
+          <num>701A.327</num>
+          <heading>ï¿½Facility for the storage of energy from renewable generationï¿½
+defined. [Effective through June 30, 2049.]</heading>
+          <subsection eId="701A-327__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Facility for the storage of energy
+from renewable generationï¿½ means a facility that is constructed or installed
+for the purpose of storing electric energy received from a facility for the
+generation of electricity from renewable energy for release at a later time,
+including, without limitation, a facility that is designed to use energy
+storage technology.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-327__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term does not include a facility
+that is located on a residential property.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3775; A2023,
+3029)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-330">
+          <num>701A.330</num>
+          <heading>ï¿½Fuel cellï¿½ defined. [Effective through June 30, 2049.]</heading>
+          <content>
+            <p>ï¿½Fuel cellï¿½ means a device or contrivance
+which, through the chemical process of combining ions of hydrogen and oxygen,
+produces electricity and water.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2004)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-333">
+          <num>701A.333</num>
+          <heading>ï¿½Hybrid renewable generation and energy storage facilityï¿½
+defined. [Effective through June 30, 2049.]</heading>
+          <content>
+            <p>ï¿½Hybrid
+renewable generation and energy storage facilityï¿½ means a facility that
+includes both a wholesale facility for the generation of electricity from
+renewable energy and a facility for the storage of energy from renewable
+generation.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3775)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-335">
+          <num>701A.335</num>
+          <heading>ï¿½Local sales and use taxesï¿½ defined. [Effective through June 30,
+2049.]</heading>
+          <content>
+            <p>ï¿½Local sales and use taxesï¿½
+means any taxes imposed on the gross receipts of any retailer from the sale of
+tangible personal property sold at retail, or stored, used or otherwise
+consumed, in any political subdivision of this State, except the taxes imposed
+by the Sales and Use Tax Act.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2004)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-340">
+          <num>701A.340</num>
+          <heading>ï¿½Renewable energyï¿½ defined. [Effective through June 30, 2049.]</heading>
+          <subsection eId="701A-340__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Renewable energyï¿½ means:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-340__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Biomass;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-340__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Fuel cells;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-340__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Geothermal energy;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-340__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Solar energy;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-340__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Waterpower; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-340__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Wind.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-340__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term does not include coal, natural
+gas, oil, propane or any other fossil fuel or nuclear energy.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2004; A2013,
+3203,3500)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-343">
+          <num>701A.343</num>
+          <heading>ï¿½Term of constructionï¿½ defined. [Effective through June 30,
+2049.]</heading>
+          <subsection eId="701A-343__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When the facility goes online; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-343__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>At such other time as the Director may
+determine.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+639)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-345">
+          <num>701A.345</num>
+          <heading>ï¿½Wholesale facility for the generation of electricity from
+renewable energyï¿½ defined. [Effective through June 30, 2049.]</heading>
+          <subsection eId="701A-345__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Wholesale facility for the generation
+of electricity from renewable energyï¿½ means a facility for the generation of
+electricity from renewable energy that, except as otherwise provided in
+paragraph</p>
+            </content>
+            <paragraph eId="701A-345__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 2, does not sell the electricity to the end user of
+the electricity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-345__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term includes:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-345__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>All the machinery and equipment that is used
+in the facility to collect and store the renewable energy and to convert the
+renewable energy into electricity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-345__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A facility that is owned, leased or otherwise
+controlled by an entity that has authority to sell electricity and provide
+transmission services or distribution services, or both.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2004)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-360">
+          <num>701A.360</num>
+          <heading>Application for partial abatement; ineligible facilities;
+required notices; public hearing on application. [Effective through June 30,
+2049.]</heading>
+          <subsection eId="701A-360__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who intends to locate a
+facility for the generation of process heat from solar renewable energy, a
+wholesale facility for the generation of electricity from renewable energy, a
+facility for the storage of energy from renewable generation or a hybrid
+renewable generation and energy storage facility in this State may apply to the
+Director for a partial abatement of the local sales and use taxes, the taxes
+imposed pursuant tochapter 361of NRS, or
+both local sales and use taxes and taxes imposed pursuant tochapter 361of NRS. An applicant may submit a
+copy of the application to the board of county commissioners at any time after
+the applicant has submitted the application to the Director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-360__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A facility that is owned, operated,
+leased or otherwise controlled by a governmental entity is not eligible for an
+abatement pursuant toNRS 701A.300to701A.390, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-360__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As soon as practicable after the
+Director receives an application for a partial abatement, the Director shall
+forward a copy of the application to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-360__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Chief of the Budget Division of the
+Office of Finance;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-360__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department of Taxation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-360__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The board of county commissioners;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-360__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The county assessor;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-360__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The county treasurer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-360__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The Office of Economic Development.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-360__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>With the copy of the application
+forwarded to the county treasurer, the Director shall include a notice that the
+local jurisdiction may request a presentation regarding the facility. A request
+for a presentation must be made within 30 days after receipt of the
+application.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-360__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Director shall hold a public
+hearing on the application. The hearing must not be held earlier than 30 days
+after all persons listed in subsection 3 have received a copy of the
+application.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2004; A2011,
+2070,3478;2013,
+3203,3500;2021,
+3775)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-365">
+          <num>701A.365</num>
+          <heading>Requirements for approval of application; exceptions; submission
+of annual report to Office of Economic Development. [Effective through June 30,
+2032.]</heading>
+          <subsection eId="701A-365__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director, in consultation with the
+Office of Economic Development, shall approve an application for a partial
+abatement pursuant toNRS 701A.300to701A.390, inclusive, if the Director, in
+consultation with the Office of Economic Development, makes the following
+determinations:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-365__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The applicant has executed an agreement with
+the Director which must:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="701A-365__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>State that the facility will, after
+the date on which the abatement becomes effective, continue in operation in
+this State for a period specified by the Director, which must be at least 10
+years, and will continue to meet the eligibility requirements for the
+abatement; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-365__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Bind the successors in interest in the
+facility for the specified period.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="701A-365__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The facility is registered pursuant to the
+laws of this State or the applicant commits to obtain a valid business license
+and all other permits required by the county, city or town in which the
+facility operates.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-365__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>No funding is or will be provided by any
+governmental entity in this State for the acquisition, design or construction
+of the facility or for the acquisition of any land therefor, except any private
+activity bonds as defined in 26 U.S.C. ï¿½ 141.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-365__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as otherwise provided in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-365__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>, if the facility will be located in a county whose population is 100,000 or
+more or a city whose population is 60,000 or more, the facility meets the
+following requirements:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="701A-365__subsec_1__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>There will be 75 or more full-time
+employees working on the construction of the facility during the second quarter
+of construction, including, unless waived by the Director for good cause, at
+least 50 percent who are residents of Nevada;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-365__subsec_1__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Establishing the facility will require
+the facility to make a capital investment of at least $10,000,000 in this State
+in capital assets that will be retained at the location of the facility until
+at least the date which is 5 years after the date on which the abatement
+becomes effective;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-365__subsec_1__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The average hourly wage that will be
+paid by the facility to its employees in this State is at least 110 percent of
+the average statewide hourly wage, excluding management and administrative
+employees, as established by the Employment Security Division of the Department
+of Employment, Training and Rehabilitation on July 1 of each fiscal year; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-365__subsec_1__subsec_e__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Except as otherwise provided in
+subsection 6, the average hourly wage of the employees working on the
+construction of the facility will be at least 175 percent of the average
+statewide hourly wage, excluding management and administrative employees, as
+established by the Employment Security Division of the Department of
+Employment, Training and Rehabilitation on July 1 of each fiscal year and:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) The employees working on the
+construction of the facility must be provided a health insurance plan that is
+provided by a third-party administrator and includes health insurance coverage
+for dependents of the employees; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) The cost of the benefits
+provided to the employees working on the construction of the facility will meet
+the minimum requirements for benefits established by the Director by regulation
+pursuant toNRS 701A.390.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="701A-365__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the facility will be located in a county
+whose population is less than 100,000, in an area of a county whose population
+is 100,000 or more that is located within the geographic boundaries of an area
+that is designated as rural by the United States Department of Agriculture and
+at least 20 miles outside of the geographic boundaries of an area designated as
+urban by the United States Department of Agriculture, or in a city whose
+population is less than 60,000, the facility meets the following requirements:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="701A-365__subsec_1__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>There will be 50 or more full-time
+employees working on the construction of the facility during the second quarter
+of construction, including, unless waived by the Director for good cause, at
+least 50 percent who are residents of Nevada;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-365__subsec_1__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Establishing the facility will require
+the facility to make a capital investment of at least $3,000,000 in this State
+in capital assets that will be retained at the location of the facility until
+at least the date which is 5 years after the date on which the abatement
+becomes effective;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-365__subsec_1__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The average hourly wage that will be
+paid by the facility to its employees in this State is at least 110 percent of
+the average statewide hourly wage, excluding management and administrative
+employees, as established by the Employment Security Division of the Department
+of Employment, Training and Rehabilitation on July 1 of each fiscal year; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-365__subsec_1__subsec_e__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Except as otherwise provided in
+subsection 6, the average hourly wage of the employees working on the
+construction of the facility will be at least 175 percent of the average
+statewide hourly wage, excluding management and administrative employees, as
+established by the Employment Security Division of the Department of
+Employment, Training and Rehabilitation on July 1 of each fiscal year and:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) The employees working on the
+construction of the facility must be provided a health insurance plan that is
+provided by a third-party administrator and includes health insurance coverage
+for dependents of the employees; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) The cost of the benefits
+provided to the employees working on the construction of the facility will meet
+the minimum requirements for benefits established by the Director by regulation
+pursuant toNRS 701A.390.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="701A-365__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The financial benefits that will result to
+this State from the employment by the facility of the residents of this State
+and from capital investments by the facility in this State will exceed the loss
+of tax revenue that will result from the abatement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-365__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The facility is consistent with the State
+Plan for Economic Development developed by the Executive Director of the Office
+of Economic Development pursuant to subsection 2 ofNRS 231.053.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-365__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director shall not approve an
+application for a partial abatement of the taxes imposed pursuant tochapter 361of NRS submitted pursuant toNRS 701A.360by a facility for the
+generation of process heat from solar renewable energy, a wholesale facility
+for the generation of electricity from renewable energy, a facility for the
+storage of energy from renewable generation or a hybrid renewable generation
+and energy storage facility unless the application is approved or deemed
+approved pursuant to this subsection. The board of county commissioners of a
+county must provide notice to the Director that the board intends to consider
+an application and, if such notice is given, must approve or deny the
+application not later than 30 days after the board receives a copy of the
+application. The board of county commissioners:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-365__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Shall, in considering an application pursuant
+to this subsection, make a recommendation to the Director regarding the
+application;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-365__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May, in considering an application pursuant
+to this subsection, deny an application only if the board of county
+commissioners determines, based on relevant information, that:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="701A-365__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The projected cost of the services
+that the local government is required to provide to the facility will exceed
+the amount of tax revenue that the local government is projected to receive as
+a result of the abatement; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-365__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The projected financial benefits that
+will result to the county from the employment by the facility of the residents
+of this State and from capital investments by the facility in the county will
+not exceed the projected loss of tax revenue that will result from the
+abatement;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="701A-365__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Must not condition the approval of the
+application on a requirement that the facility agree to purchase, lease or
+otherwise acquire in its own name or on behalf of the county any
+infrastructure, equipment, facilities or other property in the county that is
+not directly related to or otherwise necessary for the construction and
+operation of the facility; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-365__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>May, without regard to whether the board has
+provided notice to the Director of its intent to consider the application, make
+a recommendation to the Director regarding the application.
+ï¿½If the board
+of county commissioners does not approve or deny the application within 30 days
+after the board receives from the Director a copy of the application, the
+application shall be deemed approved.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-365__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Notwithstanding the provisions of
+subsection 1, the Director, in consultation with the Office of Economic
+Development, may, if the Director, in consultation with the Office, determines
+that such action is necessary:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-365__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Approve an application for a partial
+abatement for a facility that does not meet any requirement set forth in
+subparagraph</p>
+              </content>
+              <subparagraph eId="701A-365__subsec_3__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-365__subsec_3__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="701A-365__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of subsection 1 or subparagraph</p>
+              </content>
+              <subparagraph eId="701A-365__subsec_3__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-365__subsec_3__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="701A-365__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>of subsection 1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-365__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Add additional requirements that a facility
+must meet to qualify for a partial abatement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-365__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Director shall cooperate with the
+Office of Economic Development in carrying out the provisions of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-365__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Director shall submit to the Office
+of Economic Development an annual report, at such a time and containing such
+information as the Office may require, regarding the partial abatements granted
+pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-365__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The provisions of subparagraph (4) of
+paragraph</p>
+            </content>
+            <paragraph eId="701A-365__subsec_6__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of subsection 1 and subparagraph</p>
+              </content>
+              <subparagraph eId="701A-365__subsec_6__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="701A-365__subsec_6__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>of
+subsection 1 concerning the average hourly wage of the employees working on the
+construction of a facility do not apply to the wages of an apprentice as that
+term is defined inNRS 610.010.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-365__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>As used in this section, ï¿½wageï¿½ or
+ï¿½wagesï¿½:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-365__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Means:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="701A-365__subsec_7__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The basic hourly rate of pay; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-365__subsec_7__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The amount of any hourly contribution
+made to a third-party administrator pursuant to a pension plan or vacation plan
+which is for the benefit of the employee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="701A-365__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-365__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>, does not include the amount of any health insurance plan, pension or other
+bona fide fringe benefits which are a benefit to the employee.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2004; A2011,
+2071,3479;2013,
+3203,3501;2013,
+27th Special Session, 27;2017,
+3814;2019,
+1180;2021,
+3775)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-370">
+          <num>701A.370</num>
+          <heading>Duration, amount and other terms of partial abatement; notice of
+abatement; distribution of certificate of eligibility by Director. [Effective
+through June 30, 2049.]</heading>
+          <subsection eId="701A-370__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Director approves an application
+for a partial abatement pursuant toNRS
+701A.300to701A.390, inclusive,
+of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-370__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Property taxes imposed pursuant tochapter 361of NRS, the partial abatement must:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="701A-370__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Be for a duration of the 20 fiscal
+years immediately following the date of approval of the application;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-370__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Be equal to 55 percent of the taxes on
+real and personal property payable by the facility each year; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-370__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Not apply during any period in which
+the facility is receiving another abatement or exemption from property taxes
+imposed pursuant tochapter 361of NRS, other
+than any partial abatement provided pursuant toNRS 361.4722.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="701A-370__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Local sales and use taxes:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="701A-370__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The partial abatement must:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) Be for the 3 years beginning on
+the date of approval of the application;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) Be equal to that portion of the
+combined rate of all the local sales and use taxes payable by the facility each
+year which exceeds 0.6 percent; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (III) Not apply during any period in
+which the facility is receiving another abatement or exemption from local sales
+and use taxes.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="701A-370__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The Department of Taxation shall issue
+to the facility a document certifying the abatement which can be presented to
+retailers at the time of sale. The document must clearly state that the
+purchaser is only required to pay sales and use taxes imposed in this State at
+the rate of 2.6 percent.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-370__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon approving an application for a
+partial abatement pursuant toNRS 701A.300to701A.390, inclusive, the Director
+shall immediately forward a certificate of eligibility for the abatement to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-370__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Taxation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-370__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The board of county commissioners;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-370__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The county assessor;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-370__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The county treasurer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-370__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The Office of Economic Development.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2004,2010;
+A2009,
+2010;2011,
+2073,2896,3481;2013,
+3427;2015,
+2955)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-375">
+          <num>701A.375</num>
+          <heading>Publication of fiscal notes; distribution of certificate of
+eligibility by Department of Taxation. [Effective through June 30, 2049.]</heading>
+          <subsection eId="701A-375__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director may, with the assistance
+of the Chief of the Budget Division of the Office of Finance and the Department
+of Taxation, publish a fiscal note that indicates an estimate of the fiscal
+impact of the partial abatement on the State and on each affected local
+government. If the Director publishes a fiscal note that estimates the fiscal
+impact of the partial abatement on local government, the Director shall forward
+a copy of the fiscal note to each affected local government and to the Office
+of Economic Development.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-375__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As soon as practicable after receiving
+a copy of a certificate of eligibility pursuant toNRS 701A.370, the Department of Taxation
+shall forward a copy of the certificate to each affected local government.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2004; A2011,
+2074,3482)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-377">
+          <num>701A.377</num>
+          <heading>Recipient required to maintain certain records regarding
+employees. [Effective through June 30, 2049.]</heading>
+          <content>
+            <p>A
+recipient of a partial abatement of taxes pursuant toNRS 701A.300to701A.390, inclusive, shall keep or cause
+to be kept the records required to be kept by a contractor engaged on a public
+work pursuant to subsection 5 ofNRS 338.070for each employee who performed work on the construction of the facility,
+including, without limitation, the employee of any contractor or subcontractor
+who performed work on the facility, and for each employee of the facility.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+1180)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-379">
+          <num>701A.379</num>
+          <heading>Recipient required to submit payroll report; form; contents;
+frequency. [Effective through June 30, 2049.]</heading>
+          <subsection eId="701A-379__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Be accompanied by a statement
+certifying the truthfulness and accuracy of the payroll report;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-379__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Include the information contained in
+the records required to be kept pursuant toNRS
+701A.377; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-379__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Be submitted quarterly during the term
+of construction of the facility and annually at all other times.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+1180; A2023,
+639)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-380">
+          <num>701A.380</num>
+          <heading>Termination of partial abatement for noncompliance; opportunity
+to cure noncompliance; required notices; repayment of taxes after termination.
+[Effective through June 30, 2049.]</heading>
+          <subsection eId="701A-380__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A partial abatement approved by the
+Director pursuant toNRS 701A.300to701A.390, inclusive, terminates upon any
+determination by the Director that the facility has ceased to meet any
+eligibility requirements for the abatement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-380__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director shall provide notice and a
+reasonable opportunity to cure any noncompliance issues before making a
+determination that the facility has ceased to meet those requirements.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-380__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Director shall immediately provide
+notice of each determination of termination to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-380__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Taxation, which shall
+immediately notify each affected local government of the determination;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-380__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The board of county commissioners;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-380__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The county assessor;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-380__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The county treasurer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-380__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The Office of Economic Development.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-380__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A facility whose partial abatement is
+terminated pursuant to this section shall repay to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-380__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The county treasurer the amount of the exemption
+from property taxes imposed pursuant tochapter
+361of NRS; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-380__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department of Taxation the amount of the
+exemption from local sales and use taxes,
+ï¿½that was
+allowed pursuant to this section before the date of that termination. Except as
+otherwise provided inNRS 360.232and360.320, the facility shall, in addition to
+the amount of the exemption required to be paid pursuant to this subsection,
+pay interest on the amount due at the rate most recently established pursuant
+toNRS 99.040for each month, or portion
+thereof, from the last day of the month following the period for which the
+payment would have been made had the partial abatement not been approved until
+the date of payment of the tax.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2004; A2011,
+102,2074,3482)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-385">
+          <num>701A.385</num>
+          <heading>Allocation of certain taxes collected from facilities receiving
+partial abatement. [Effective through June 30, 2049.]</heading>
+          <content>
+            <p>Notwithstanding
+any statutory provision to the contrary, if the Director approves an application
+for a partial abatement pursuant toNRS
+701A.300to701A.390, inclusive,
+of local sales and use taxes, the State Controller shall allocate, transfer and
+remit an amount equal to all the sales and use taxes imposed in this State and
+collected from the facility for the period of the abatement in the same manner
+as if that amount consisted solely of the proceeds of taxes imposed byNRS 374.110and374.190.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2004; A2009,
+2010;2011,
+2074;2013,
+2767,3206)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-390">
+          <num>701A.390</num>
+          <heading>Regulations; Director authorized to charge and collect fee for
+application for partial abatement. [Effective through June 30, 2049.]</heading>
+          <subsection eId="701A-390__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Shall adopt regulations:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-390__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Prescribing the minimum level of benefits
+that a facility must provide to its employees;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-390__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prescribing such requirements for an
+application for a partial abatement pursuant toNRS 701A.300to701A.390, inclusive, as will ensure that
+all information and other documentation necessary for the Director, in
+consultation with the Office of Economic Development, to make an appropriate
+determination is filed with the Director;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-390__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Requiring each recipient of a partial
+abatement pursuant toNRS 701A.300to701A.390, inclusive, to file with the
+Director, quarterly during the term of construction of a facility and annually
+at all other times, such information and documentation as may be necessary for
+the Director to determine whether the recipient is in compliance with any
+eligibility requirements for the abatement; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-390__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Regarding the capital investment that a
+facility must make to meet the requirement set forth in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-390__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-390__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>of
+subsection 1 ofNRS 701A.365; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="701A-390__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>May adopt such other regulations as the
+Director determines to be necessary to carry out the provisions ofNRS 701A.300to701A.390, inclusive; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-390__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>May charge and collect a fee from each
+applicant who submits an application for a partial abatement pursuant toNRS 701A.300to701A.390, inclusive. The amount of the
+fee must consist of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="701A-390__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An amount that does not exceed the actual
+cost to the Director for processing and approving the application; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="701A-390__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A reasonable amount established by a
+regulation adopted by the Director pursuant to this paragraph. The Office shall
+use the proceeds of the fee for activities of the Office that support and
+expand renewable energy development in this State and are specified in a
+regulation adopted by the Director pursuant to this paragraph. The Director
+shall adopt regulations specifying the amount of the fee described in this
+section and setting forth the specific activities of the Office that the
+proceeds of the fee will support and expand.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2004; A2011,
+2075,3483;2013,
+3206;2019,
+1183;2023,
+640)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_701A-450">
+          <num>701A.450</num>
+          <heading>Creation; administration; interest and income; use of money;
+nonreversion; agreement for repayment of certain loans or distributions through
+payroll deductions; regulations. [Effective through June 30, 2049.]</heading>
+          <subsection eId="701A-450__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Renewable Energy Account is hereby
+created in the State General Fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-450__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director of the Office of Energy
+appointed pursuant toNRS 701.150shall
+administer the Account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-450__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The interest and income earned on the
+money in the Account must be credited to the Account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-450__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The money in the Account must be used
+for such purposes as the Director of the Office of Energy may establish by
+regulation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-450__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Any money remaining in the Account at
+the end of a fiscal year does not revert to the State General Fund, and the
+balance in the Account must be carried forward to the next fiscal year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="701A-450__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Director may by regulation
+establish a procedure by which any officer or employee of the State to whom the
+Director has made a loan or other distribution of money from the Account may
+enter into an agreement with the Director pursuant to which repayment of the
+loan or other distribution of money may be made through payroll deductions.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2009; A2011,
+2075;2013,
+2768,3207;2015,
+1920;2021,
+3779)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

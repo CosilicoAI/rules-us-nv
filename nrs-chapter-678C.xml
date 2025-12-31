@@ -1,0 +1,3871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-678C"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-678C"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="678C"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-678C/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-678C/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-678C/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-678C/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_678C">
+        <num>678C</num>
+        <heading>MEDICAL USE OF CANNABIS</heading>
+        <section eId="sec_678C-005">
+          <num>678C.005</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 678C.010to678C.110, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3812)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-010">
+          <num>678C.010</num>
+          <heading>ï¿½Attending provider of health careï¿½ defined.</heading>
+          <subsection eId="678C-010__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Is licensed or certified to practice a
+profession which authorizes the person to write a prescription for a medication
+to treat a chronic or debilitating medical condition; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-010__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Has responsibility for the care and
+treatment of a person diagnosed with a chronic or debilitating medical
+condition.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3812)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-020">
+          <num>678C.020</num>
+          <heading>ï¿½Cachexiaï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Cachexiaï¿½
+means general physical wasting and malnutrition associated with chronic
+disease.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3812)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-030">
+          <num>678C.030</num>
+          <heading>ï¿½Chronic or debilitating medical conditionï¿½ defined.</heading>
+          <subsection eId="678C-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An anxiety disorder;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An autism spectrum disorder;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-030__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An autoimmune disease;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-030__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Anorexia nervosa;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-030__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Cancer;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-030__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Dependence upon or addiction to
+opioids;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-030__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Glaucoma;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-030__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>A medical condition or treatment for a
+medical condition that produces, for a specific patient, one or more of the
+following:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-030__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Cachexia;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-030__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Muscle spasms, including, without limitation,
+spasms caused by multiple sclerosis;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-030__subsec_8__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Seizures, including, without limitation,
+seizures caused by epilepsy;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-030__subsec_8__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Nausea; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-030__subsec_8__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Severe or chronic pain;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-030__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>The human immunodeficiency virus and
+any medical condition related to the human immunodeficiency virus;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-030__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>A neuropathic condition, whether or
+not such condition causes seizures; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-030__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>Any other medical condition or
+treatment for a medical condition that is:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-030__subsec_11__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Classified as a chronic or debilitating
+medical condition by regulation of the Division; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-030__subsec_11__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Approved as a chronic or debilitating medical
+condition pursuant to a petition submitted in accordance withNRS 678C.810.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3812; A2021,
+3197)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-040">
+          <num>678C.040</num>
+          <heading>ï¿½Designated primary caregiverï¿½ defined.</heading>
+          <subsection eId="678C-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Designated primary caregiverï¿½ means a
+person who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-040__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is 18 years of age or older;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-040__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has significant responsibility for managing
+the well-being of a person diagnosed with a chronic or debilitating medical
+condition; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-040__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Is designated as such in the manner required
+pursuant toNRS 678C.270.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term does not include the attending
+provider of health care of a person diagnosed with a chronic or debilitating
+medical condition.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3813)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-050">
+          <num>678C.050</num>
+          <heading>ï¿½Divisionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Divisionï¿½
+means the Division of Public and Behavioral Health of the Department of Health
+and Human Services.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3813)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-060">
+          <num>678C.060</num>
+          <heading>ï¿½Inventory control systemï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Inventory
+control systemï¿½ means a process, device or other contrivance that may be used
+to monitor the chain of custody of cannabis from the point of cultivation to
+the end consumer.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3813)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-070">
+          <num>678C.070</num>
+          <heading>ï¿½Letter of approvalï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Letter
+of approvalï¿½ means a document issued by the Division to an applicant who is
+under 10 years of age pursuant toNRS
+678C.230which provides that the applicant is exempt from state prosecution
+for engaging in the medical use of cannabis.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3813)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-080">
+          <num>678C.080</num>
+          <heading>ï¿½Registry identification cardï¿½ defined.</heading>
+          <subsection eId="678C-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who is exempt from state
+prosecution for engaging in the medical use of cannabis; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The designated primary caregiver, if
+any, of a person described in subsection 1.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3813)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-090">
+          <num>678C.090</num>
+          <heading>ï¿½State prosecutionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½State
+prosecutionï¿½ means prosecution initiated or maintained by the State of Nevada
+or an agency or political subdivision of the State of Nevada.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3813)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-100">
+          <num>678C.100</num>
+          <heading>ï¿½Usable cannabisï¿½ defined.</heading>
+          <subsection eId="678C-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Usable cannabisï¿½ means:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-100__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The dried leaves and flowers of a plant of
+the genusCannabis, and any mixture or preparation thereof, that are
+appropriate for the medical use of cannabis or the adult use of cannabis; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-100__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The seeds of a plant of the genusCannabis.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term does not include the stalks
+and roots of the plant.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3813)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-110">
+          <num>678C.110</num>
+          <heading>ï¿½Written documentationï¿½ defined.</heading>
+          <subsection eId="678C-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A statement signed by the attending provider
+of health care of a person diagnosed with a chronic or debilitating medical
+condition; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Copies of the relevant medical records
+of a person diagnosed with a chronic or debilitating medical condition.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3813)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-200">
+          <num>678C.200</num>
+          <heading>Holder of valid registry identification card or medical cannabis
+establishment license exempt from state prosecution for certain acts involving
+cannabis.</heading>
+          <subsection eId="678C-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section andNRS 678C.300, a person who
+holds a valid registry identification card issued to the person pursuant toNRS 678C.230or678C.270is exempt from state prosecution
+for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-200__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The possession, delivery or production of
+cannabis;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The possession or delivery of paraphernalia;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Aiding and abetting another in the
+possession, delivery or production of cannabis;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Aiding and abetting another in the possession
+or delivery of paraphernalia;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any combination of the acts described in
+paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>, inclusive; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Any other criminal offense in which the
+possession, delivery or production of cannabis or the possession or delivery of
+paraphernalia is an element.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In addition to the provisions of
+subsections 1 and 5, no person may be subject to state prosecution for
+constructive possession, conspiracy or any other criminal offense solely for
+being in the presence or vicinity of the medical use of cannabis in accordance
+with the provisions of this title.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The exemption from state prosecution
+set forth in subsection 1 applies only to the extent that a person who holds a
+registry identification card issued to the person pursuant to paragraph</p>
+            </content>
+            <paragraph eId="678C-200__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of
+subsection 1 ofNRS 678C.230and the
+designated primary caregiver, if any, of such a person:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Engage in or assist in, as applicable, the
+medical use of cannabis in accordance with the provisions of this title as
+justified to mitigate the symptoms or effects of a personï¿½s chronic or
+debilitating medical condition; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Do not, at any one time, collectively possess
+with another who is authorized to possess, deliver or produce more than:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="678C-200__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Two and one-half ounces of usable
+cannabis;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-200__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Twelve cannabis plants, irrespective
+of whether the cannabis plants are mature or immature; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-200__subsec_3__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>A maximum allowable quantity of
+cannabis products as established by regulation of the Board.
+ï¿½The persons
+described in this subsection must ensure that the usable cannabis and cannabis
+plants described in this subsection are safeguarded in an enclosed, secure
+location.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-200__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the persons described in subsection
+3 possess, deliver or produce cannabis in an amount which exceeds the amount
+described in paragraph</p>
+            </content>
+            <paragraph eId="678C-200__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of that subsection, those persons:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Are not exempt from state prosecution for the
+possession, delivery or production of cannabis.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May establish an affirmative defense to
+charges of the possession, delivery or production of cannabis, or any
+combination of those acts, in the manner set forth inNRS 678C.310.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-200__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A person who holds a valid medical
+cannabis establishment license issued to the person pursuant toNRS 678B.210, a valid cannabis
+establishment agent registration card issued to the person pursuant toNRS 678B.340, a valid cannabis
+establishment agent registration card for a cannabis executive issued pursuant
+toNRS 678B.350or a valid cannabis
+establishment agent registration card for a cannabis receiver issued pursuant
+toNRS 678B.355and who confines his
+or her activities to those authorized by this title, and the regulations
+adopted by the Board pursuant thereto, is exempt from state prosecution for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-200__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The possession, delivery or production of
+cannabis;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The possession or delivery of paraphernalia;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Aiding and abetting another in the
+possession, delivery or production of cannabis;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Aiding and abetting another in the possession
+or delivery of paraphernalia;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any combination of the acts described in
+paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>, inclusive; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_5__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Any other criminal offense in which the
+possession, delivery or production of cannabis or the possession or delivery of
+paraphernalia is an element.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-200__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Notwithstanding any other provision of
+law and except as otherwise provided in this subsection, after a medical
+cannabis dispensary opens in the county of residence of a person who holds a
+registry identification card, including, without limitation, a designated
+primary caregiver, such a person is not authorized to cultivate, grow or
+produce cannabis. The provisions of this subsection do not apply if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-200__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The person who holds the registry
+identification card was cultivating, growing or producing cannabis in
+accordance with state law on or before July 1, 2013;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>All the medical cannabis dispensaries in the
+county of residence of the person who holds the registry identification card
+close or are unable to supply the quantity or strain of cannabis necessary for
+the medical use of the person to treat his or her specific medical condition;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Because of illness or lack of transportation,
+the person who holds the registry identification card is unable reasonably to
+travel to a medical cannabis dispensary; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-200__subsec_6__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>No medical cannabis dispensary was operating
+within 25 miles of the residence of the person who holds the registry
+identification card at the time the person first applied for his or her
+registry identification card.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-200__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>As used in this section, ï¿½cannabisï¿½
+includes, without limitation, cannabis products.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3814; A2021,
+2152)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-210">
+          <num>678C.210</num>
+          <heading>Holder of valid letter of approval exempt from state prosecution
+for certain acts involving cannabis.</heading>
+          <subsection eId="678C-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section andNRS 678C.300, a person who
+holds a valid letter of approval issued pursuant toNRS 678C.230is exempt from state
+prosecution for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-210__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The possession of cannabis;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-210__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The possession of paraphernalia;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-210__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any combination of the acts described in
+paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-210__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-210__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-210__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Any other criminal offense in which the
+possession of cannabis or paraphernalia is an element.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The exemption from state prosecution
+set forth in subsection 1 applies only to the extent that the person who holds
+a letter of approval:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-210__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Engages in the medical use of cannabis in
+accordance with the provisions of this chapter as justified to mitigate the
+symptoms or effects of the personï¿½s chronic or debilitating medical condition;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-210__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Does not, at any one time, collectively
+possess with his or her designated primary caregiver an amount of cannabis for
+medical purposes that exceeds the limits set forth inNRS 678C.200.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½cannabisï¿½
+includes, without limitation, cannabis products.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3815)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-220">
+          <num>678C.220</num>
+          <heading>Registry identification cards and letters of approval: Program
+for issuance; application.</heading>
+          <subsection eId="678C-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Division shall establish and
+maintain a program for the issuance of registry identification cards and
+letters of approval to persons who meet the requirements of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsections 3 and 5 andNRS 678C.240,
+the Division or its designee shall issue a registry identification card to a
+person who is a resident of this State and who submits an application on a form
+prescribed by the Division accompanied by the following:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-220__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A signature from the personï¿½s attending
+provider of health care affirming that:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="678C-220__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The person has been diagnosed with a
+chronic or debilitating medical condition;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-220__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The medical use of cannabis may
+mitigate the symptoms or effects of that condition;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-220__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The attending provider of health care
+has explained the possible risks and benefits of the medical use of cannabis;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-220__subsec_2__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>The attending provider of health care
+will keep, in the files maintained by the attending provider of health care for
+the person, valid, written documentation and make such written documentation
+available to the Division upon request;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="678C-220__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The name, address, telephone number and date
+of birth of the person;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-220__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Proof satisfactory to the Division that the
+person is a resident of this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-220__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The name, address and telephone number of the
+personï¿½s attending provider of health care;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-220__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the person elects to designate a primary
+caregiver at the time of application:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="678C-220__subsec_2__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The name, address and telephone number
+of the designated primary caregiver; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-220__subsec_2__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A signature from the personï¿½s
+attending provider of health care affirming that the attending provider of
+health care approves of the designation of the primary caregiver; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="678C-220__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If the person elects to designate a medical
+cannabis dispensary at the time of application, the name of the medical
+cannabis dispensary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-220__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Division or its designee shall
+issue a registry identification card to a person who is at least 10 years of
+age but less than 18 years of age or a letter of approval to a person who is
+less than 10 years of age if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-220__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The person submits the materials required
+pursuant to subsection 2; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-220__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The custodial parent or legal guardian with
+responsibility for health care decisions for the person under 18 years of age
+signs a written statement setting forth that:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="678C-220__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The attending provider of health care
+of the person under 18 years of age is a physician licensed pursuant tochapter 630or633of NRS and has explained to that person and to the custodial parent or legal
+guardian with responsibility for health care decisions for the person under 18
+years of age the possible risks and benefits of the medical use of cannabis;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-220__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The custodial parent or legal guardian
+with responsibility for health care decisions for the person under 18 years of
+age consents to the use of cannabis by the person under 18 years of age for
+medical purposes;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-220__subsec_3__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The custodial parent or legal guardian
+with responsibility for health care decisions for the person under 18 years of
+age agrees to serve as the designated primary caregiver for the person under 18
+years of age; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-220__subsec_3__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>The custodial parent or legal guardian
+with responsibility for health care decisions for the person under 18 years of
+age agrees to control the acquisition of cannabis and the dosage and frequency
+of use by the person under 18 years of age.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-220__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Upon receipt of an application that is
+completed and submitted pursuant to this section, the Division shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-220__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Record on the application the date on which
+it was received;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-220__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Retain one copy of the application for the
+records of the Division; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-220__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Distribute copies of the application in the
+following manner:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="678C-220__subsec_4__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>One copy to the person who submitted
+the application;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-220__subsec_4__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>One copy to the applicantï¿½s designated
+primary caregiver, if any; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-220__subsec_4__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>One copy to the professional licensing
+board that has issued a license or certification to the attending provider of
+health care.
+ï¿½The
+applicable professional licensing board shall report to the Division its
+findings as to the licensure or certification, as applicable, and standing of
+the applicantï¿½s attending provider of health care within 15 days after
+receiving a copy of an application pursuant to subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-220__subsec_4__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="678C-220__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-220__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Division shall verify the
+information contained in an application submitted pursuant to this section and
+shall approve or deny an application within the period of time specified by the
+Division by regulation. The Division may contact an applicant, the applicantï¿½s
+attending provider of health care and designated primary caregiver, if any, by
+telephone to determine that the information provided on or accompanying the
+application is accurate. The Division may deny an application only on the
+following grounds:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-220__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The applicant failed to provide the
+information required pursuant to subsections 2 and 3, if applicable;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-220__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The applicant failed to comply with
+regulations adopted by the Division;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-220__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Division determines that the information
+provided by the applicant was falsified;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-220__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The Division determines that the attending
+provider of health care of the applicant is not licensed or certified in this
+State or is not in good standing, as reported by the applicable professional
+licensing board;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-220__subsec_5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The Division has prohibited the applicant
+from obtaining or using a registry identification card or letter of approval
+pursuant to subsection 2 ofNRS 678C.300;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-220__subsec_5__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The Division determines that the applicant,
+or the applicantï¿½s designated primary caregiver, if applicable, has had a
+registry identification card or letter of approval revoked pursuant toNRS 678C.240; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-220__subsec_5__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In the case of a person under 18 years of
+age, the custodial parent or legal guardian with responsibility for health care
+decisions for the person has not signed the written statement required pursuant
+to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-220__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 3.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-220__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The decision of the Division to deny an
+application for a registry identification card or letter of approval is a final
+decision for the purposes of judicial review. Only the person whose application
+has been denied or, in the case of a person under 18 years of age whose application
+has been denied, the personï¿½s parent or legal guardian, has standing to contest
+the determination of the Division. A judicial review authorized pursuant to
+this subsection must be limited to a determination of whether the denial was
+arbitrary, capricious or otherwise characterized by an abuse of discretion and
+must be conducted in accordance with the procedures set forth inchapter 233Bof NRS for reviewing a final
+decision of an agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-220__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>A person whose application has been
+denied may not reapply for 6 months after the date of the denial, unless the
+Division or a court of competent jurisdiction authorizes reapplication in a
+shorter time.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-220__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection, if a person has applied for a registry identification card or
+letter of approval pursuant to this section and the Division has not yet
+approved or denied the application, the person, and the personï¿½s designated
+primary caregiver, if any, shall be deemed to hold a registry identification
+card or letter of approval and may present a copy of the application provided
+to him or her pursuant to subsection 4 as proof that the person is deemed to
+hold a registry identification card of letter of approval to any person,
+including, without limitation, a law enforcement officer or a cannabis
+establishment agent at a medical cannabis dispensary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-220__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>An attending provider of health care
+who signs an application pursuant to subsection 2 for a patient shall maintain
+valid, written documentation in the file the attending provider of health care
+maintains for the patient and make such written documentation available to the
+Division upon request.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-220__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>As used in this section, ï¿½residentï¿½
+has the meaning ascribed to it inNRS
+483.141.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3816)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-230">
+          <num>678C.230</num>
+          <heading>Registry identification cards and letters of approval: Issuance
+to applicant; issuance of card to designated primary caregiver; required
+contents; duration; renewal.</heading>
+          <subsection eId="678C-230__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Division approves an application
+pursuant to subsection 5 ofNRS 678C.220,
+the Division or its designee shall, as soon as practicable after the Division
+approves the application:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-230__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Issue a letter of approval or serially
+numbered registry identification card, as applicable, to the applicant; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-230__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the applicant has designated a primary
+caregiver, issue a serially numbered registry identification card to the
+designated primary caregiver.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-230__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A registry identification card issued
+pursuant to paragraph</p>
+            </content>
+            <paragraph eId="678C-230__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1 must set forth:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-230__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The name, address, photograph and date of
+birth of the applicant;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-230__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The date of issuance and date of expiration
+of the registry identification card;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-230__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The name and address of the applicantï¿½s
+designated primary caregiver, if any;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-230__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The name of the applicantï¿½s designated
+medical cannabis dispensary, if any;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-230__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Whether the applicant is authorized to
+cultivate, grow or produce cannabis pursuant to subsection 6 ofNRS 678C.200; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-230__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Any other information prescribed by
+regulation of the Division.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-230__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A letter of approval issued pursuant to
+paragraph</p>
+            </content>
+            <paragraph eId="678C-230__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1 must set forth:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-230__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The name, address and date of birth of the
+applicant;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-230__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The date of issuance and date of expiration
+of the registry identification card of the designated primary caregiver;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-230__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The name and address of the applicantï¿½s
+designated primary caregiver;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-230__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The name of the applicantï¿½s designated
+medical cannabis dispensary, if any; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-230__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any other information prescribed by
+regulation of the Division.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-230__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A registry identification card issued
+pursuant to paragraph</p>
+            </content>
+            <paragraph eId="678C-230__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 must set forth:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-230__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The name, address and photograph of the
+designated primary caregiver;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-230__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The date of issuance and date of expiration
+of the registry identification card;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-230__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The name and address of the applicant for
+whom the person is the designated primary caregiver;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-230__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The name of the designated primary
+caregiverï¿½s designated medical cannabis dispensary, if any;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-230__subsec_4__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Whether the designated primary caregiver is
+authorized to cultivate, grow or produce cannabis pursuant to subsection 6 ofNRS 678C.200; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-230__subsec_4__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Any other information prescribed by
+regulation of the Division.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-230__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 678C.240, subsection 3 ofNRS 678C.250and subsection 2 ofNRS 678C.300, a registry identification
+card or letter of approval issued pursuant to this section is valid for a
+period of either 1 year or 2 years, as specified by the attending provider of
+health care on the application for the issuance or renewal of the registry
+identification card or letter of approval, and may be renewed in accordance
+with regulations adopted by the Division.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3818)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-240">
+          <num>678C.240</num>
+          <heading>Registry identification cards and letters of approval:
+Revocation; duties; judicial review; reapplication prohibited for 12 months.</heading>
+          <subsection eId="678C-240__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If, at any time after the Division or
+its designee has issued a registry identification card or letter of approval to
+a person pursuant to paragraph</p>
+            </content>
+            <paragraph eId="678C-240__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1 ofNRS 678C.230, the Division determines, on
+the basis of official documents or records or other credible evidence, that the
+person provided falsified information on his or her application to the Division
+or its designee, as described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-240__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 5 ofNRS 678C.220, the Division shall
+immediately revoke the registry identification card or letter of approval
+issued to that person and shall immediately revoke the registry identification
+card issued to that personï¿½s designated primary caregiver, if any.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-240__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon the revocation of a registry
+identification card or letter of approval pursuant to this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-240__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Division shall send, by certified mail,
+return receipt requested, notice to the person whose registry identification
+card or letter of approval has been revoked, advising the person of the
+requirements of paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-240__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-240__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The person shall return his or her registry
+identification card or letter of approval to the Division within 7 days after
+receiving the notice sent pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-240__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-240__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The decision of the Division to revoke
+a registry identification card or letter of approval pursuant to this section
+is a final decision for the purposes of judicial review.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-240__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A person whose registry identification
+card or letter of approval has been revoked pursuant to this section may not
+reapply for a registry identification card or letter of approval pursuant toNRS 678C.220for 12 months after the date
+of the revocation, unless the Division or a court of competent jurisdiction
+authorizes reapplication in a shorter time.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3819)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-250">
+          <num>678C.250</num>
+          <heading>Registry identification cards and letters of approval: Holder to
+notify Division of certain changes in information.</heading>
+          <subsection eId="678C-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person to whom the Division or its
+designee has issued a registry identification card or letter of approval
+pursuant to paragraph</p>
+            </content>
+            <paragraph eId="678C-250__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1 ofNRS 678C.230shall, in accordance with
+regulations adopted by the Division:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-250__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notify the Division of any change in the
+personï¿½s name, address, telephone number, designated medical cannabis
+dispensary, if any, attending provider of health care or designated primary
+caregiver, if any; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-250__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Submit to the Division, on a form prescribed
+by the Division:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="678C-250__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>On or before the date specified by the
+attending provider of health care on the application for the issuance or
+renewal of the registry identification card or letter of approval pursuant to
+subsection 5 ofNRS 678C.230, a
+signature from the personï¿½s attending provider of health care affirming that:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) The person continues to suffer
+from a chronic or debilitating medical condition;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) The medical use of cannabis may
+mitigate the symptoms or effects of that condition; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (III) The attending provider of
+health care has explained to the person the possible risks and benefits of the
+medical use of cannabis; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-250__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>If the person elects to designate a
+primary caregiver for the subsequent year and the primary caregiver so
+designated was not the personï¿½s designated primary caregiver during the previous
+year:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) The name, address and telephone
+number of the designated primary caregiver; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) A signature from the personï¿½s
+attending provider of health care affirming that the attending provider of
+health care approves of the designation of the primary caregiver.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person to whom the Division or its
+designee has issued a registry identification card pursuant to paragraph</p>
+            </content>
+            <paragraph eId="678C-250__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of
+subsection 1 ofNRS 678C.230or
+pursuant toNRS 678C.270shall, in
+accordance with regulations adopted by the Division, notify the Division of any
+change in the personï¿½s name, address, telephone number, designated medical
+cannabis dispensary, if any, or the identity of the person for whom he or she
+acts as designated primary caregiver.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-250__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a person fails to comply with the
+provisions of subsection 1 or 2, the registry identification card or letter of
+approval issued to the person shall be deemed expired. If the registry
+identification card or letter of approval of a person to whom the Division or
+its designee issued the card or letter pursuant to paragraph</p>
+            </content>
+            <paragraph eId="678C-250__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection
+1 ofNRS 678C.230is deemed expired
+pursuant to this subsection, the registry identification card issued to the
+personï¿½s designated primary caregiver, if any, shall also be deemed expired.
+Upon the deemed expiration of a registry identification card or letter of
+approval pursuant to this subsection:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-250__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Division shall send, by certified mail,
+return receipt requested, notice to the person whose registry identification
+card or letter of approval has been deemed expired, advising the person of the
+requirements of paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-250__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-250__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The person shall return his or her registry
+identification card or letter of approval to the Division within 7 days after
+receiving the notice sent pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-250__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3820)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-260">
+          <num>678C.260</num>
+          <heading>Registry identification cards and letters of approval: Card or
+letter to be returned to Division following diagnosis of absence of chronic or
+debilitating medical condition.</heading>
+          <content>
+            <p>If
+a person to whom the Division or its designee has issued a registry
+identification card or letter of approval pursuant to paragraph (a) of
+subsection 1 ofNRS 678C.230is
+diagnosed by the personï¿½s attending provider of health care as no longer having
+a chronic or debilitating medical condition, the person shall return his or her
+registry identification card or letter of approval and his or her designated
+primary caregiver, if any, shall return his or her registry identification card
+to the Division within 7 days after notification of the diagnosis.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3821)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-270">
+          <num>678C.270</num>
+          <heading>Registry identification cards and letters of approval:
+Requirements concerning designation of primary caregiver.</heading>
+          <subsection eId="678C-270__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a person who applies to the Division
+for a registry identification card or letter of approval or to whom the
+Division or its designee has issued a registry identification card or letter of
+approval pursuant to paragraph</p>
+            </content>
+            <paragraph eId="678C-270__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1 ofNRS 678C.230desires or is required to
+designate a primary caregiver, the person must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-270__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To designate a primary caregiver at the time
+of application, submit to the Division, on a form prescribed by the Division,
+the information required pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-270__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>of subsection 2 ofNRS 678C.220; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-270__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To designate a primary caregiver after the
+Division or its designee has issued a registry identification card or letter of
+approval to the person, submit to the Division, on a form prescribed by the
+Division, the information required pursuant to subparagraph</p>
+              </content>
+              <subparagraph eId="678C-270__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="678C-270__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 ofNRS 678C.250.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-270__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person may have only one designated
+primary caregiver at any one time.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-270__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a person designates a primary
+caregiver after the time that the person initially applies for a registry
+identification card or letter of approval, the Division or its designee shall,
+except as otherwise provided in subsection 5 ofNRS 678C.220, issue a registry
+identification card to the designated primary caregiver as soon as practicable
+after receiving the information submitted pursuant to paragraph</p>
+            </content>
+            <paragraph eId="678C-270__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of
+subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-270__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A person who is the parent or legal
+guardian of one or more children who are listed in the medical cannabis
+registry may be the designated primary caregiver for each such child regardless
+of whether the person is also listed in the medical cannabis registry as a
+patient.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3821)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-300">
+          <num>678C.300</num>
+          <heading>Acts for which holder of registry identification card or letter
+of approval is not exempt from state prosecution and may not raise affirmative
+defense; additional penalty.</heading>
+          <subsection eId="678C-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who holds a registry
+identification card or letter of approval issued to him or her pursuant toNRS 678C.230or678C.270is not exempt from state
+prosecution for, nor may the person establish an affirmative defense to charges
+arising from, any of the following acts:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-300__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Driving, operating or being in actual
+physical control of a vehicle, a power-driven vessel or a sailing vessel under
+way while under the influence of cannabis.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-300__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Engaging in any other conduct prohibited byNRS 484C.110,484C.120,484C.130,484C.430, subsection 2 ofNRS 488.400,NRS 488.410,488.420,488.425or493.130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-300__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Possessing a firearm in violation of
+paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-300__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 ofNRS 202.257.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-300__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Possessing cannabis in violation ofNRS 453.336or possessing paraphernalia in
+violation ofNRS 453.560or453.566:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="678C-300__subsec_1__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>If the possession of the cannabis or
+paraphernalia is discovered because the person engaged or assisted in the
+medical use of cannabis in:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) Except as otherwise provided by
+regulations adopted by the Board pursuant toNRS 678B.645, any public place or in any
+place open to the public or exposed to public view; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) Any local detention facility,
+county jail, state prison, reformatory or other correctional facility,
+including, without limitation, any facility for the detention of juvenile
+offenders; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-300__subsec_1__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>If the possession of the cannabis or
+paraphernalia occurs on school property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="678C-300__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Delivering cannabis to another person who he
+or she knows does not lawfully hold a registry identification card or letter of
+approval issued by the Division or its designee pursuant toNRS 678C.230or678C.270.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-300__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Delivering cannabis for consideration to any
+person, regardless of whether the recipient lawfully holds a registry
+identification card or letter of approval issued by the Division or its
+designee pursuant toNRS 678C.230or678C.270.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 678C.240and in addition to any other
+penalty provided by law, if the Division determines that a person has willfully
+violated a provision of this chapter or any regulation adopted by the Division
+to carry out the provisions of this chapter, the Division may, at its own
+discretion, prohibit the person from obtaining or using a registry
+identification card or letter of approval for a period of up to 6 months.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-300__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Nothing in the provisions of this
+chapter shall be construed as in any manner affecting the provisions ofchapter 678Dof NRS relating to the adult use
+of cannabis.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-300__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½school
+propertyï¿½ means the grounds of any public school described inNRS 388.020and any private school as
+defined inNRS 394.103.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3821; A2021,
+2373;2023,
+560)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-310">
+          <num>678C.310</num>
+          <heading>Affirmative defenses.</heading>
+          <subsection eId="678C-310__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section andNRS 678C.300, it is an
+affirmative defense to a criminal charge of possession, delivery or production
+of cannabis, or any other criminal offense in which possession, delivery or
+production of cannabis is an element, that the person charged with the offense:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-310__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is a person who:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="678C-310__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Has been diagnosed with a chronic or
+debilitating medical condition within the 12-month period preceding his or her
+arrest and has been advised by his or her attending provider of health care
+that the medical use of cannabis may mitigate the symptoms or effects of that
+chronic or debilitating medical condition;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-310__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Is engaged in the medical use of
+cannabis; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-310__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Possesses, delivers or produces
+cannabis only in the amount described in paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="678C-310__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 3 ofNRS 678C.200or in excess of that amount
+if the person proves by a preponderance of the evidence that the greater amount
+is medically necessary as determined by the personï¿½s attending provider of
+health care to mitigate the symptoms or effects of the personï¿½s chronic or
+debilitating medical condition; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-310__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is a person who:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="678C-310__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Is assisting a person described in
+paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="678C-310__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>in the medical use of cannabis; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="678C-310__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Possesses, delivers or produces
+cannabis only in the amount described in paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="678C-310__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 3 ofNRS 678C.200or in excess of that amount
+if the person proves by a preponderance of the evidence that the greater amount
+is medically necessary as determined by the assisted personï¿½s attending
+provider of health care to mitigate the symptoms or effects of the assisted
+personï¿½s chronic or debilitating medical condition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-310__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person need not hold a registry
+identification card or letter of approval issued to the person by the Division
+or its designee pursuant toNRS 678C.230or678C.270to assert an affirmative
+defense described in this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-310__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section and in addition to the affirmative defense described in subsection 1, a
+person engaged or assisting in the medical use of cannabis who is charged with
+a crime pertaining to the medical use of cannabis is not precluded from:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-310__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Asserting a defense of medical necessity; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-310__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Presenting evidence supporting the necessity
+of cannabis for treatment of a specific disease or medical condition,
+ï¿½if the
+amount of cannabis at issue is not greater than the amount described in
+paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-310__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 3 ofNRS
+678C.200and the person has taken steps to comply substantially with the
+provisions of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-310__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A defendant who intends to offer an
+affirmative defense described in this section shall, not less than 5 days
+before trial or at such other time as the court directs, file and serve upon
+the prosecuting attorney a written notice of the defendantï¿½s intent to claim
+the affirmative defense. The written notice must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-310__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>State specifically why the defendant believes
+he or she is entitled to assert the affirmative defense; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-310__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Set forth the factual basis for the
+affirmative defense.
+ï¿½A defendant
+who fails to provide notice of his or her intent to claim an affirmative
+defense as required pursuant to this subsection may not assert the affirmative
+defense at trial unless the court, for good cause shown, orders otherwise.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3822)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-400">
+          <num>678C.400</num>
+          <heading>Location, land use and signage for medical cannabis
+establishment; certain provisions inapplicable to dual licenses.</heading>
+          <subsection eId="678C-400__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each medical cannabis establishment
+must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-400__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be located in a separate building or facility
+that is located in a commercial or industrial zone or overlay;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-400__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Have an appearance, both as to the interior
+and exterior, that is professional, orderly, dignified and consistent with the
+traditional style of pharmacies and medical offices; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-400__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Have discreet and professional signage that
+is consistent with the traditional style of signage for pharmacies and medical
+offices.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-400__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a medical cannabis establishment is
+operated by a dual licensee, any provision of this section which is determined
+by the Board to be unreasonably impracticable pursuant to subsection 8 ofNRS 678B.650does not apply to the
+medical cannabis establishment.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3823)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-410">
+          <num>678C.410</num>
+          <heading>Actions with respect to cannabis required to be for certain
+purpose; medical cannabis establishment authorized to acquire cannabis from
+patient; certain provisions inapplicable to dual licensees.</heading>
+          <subsection eId="678C-410__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A medical cannabis establishment is
+prohibited from acquiring, possessing, cultivating, manufacturing, delivering,
+transferring, transporting, supplying or dispensing cannabis for any purpose
+except to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-410__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Directly or indirectly assist patients who
+possess valid registry identification cards;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-410__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Assist patients who possess valid registry
+identification cards or letters of approval by way of those patientsï¿½
+designated primary caregivers; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-410__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Return for a refund cannabis, medical edible
+cannabis products or medical cannabis-infused products to the medical cannabis
+establishment from which the cannabis, medical edible cannabis products or
+medical cannabis-infused products were acquired.
+ï¿½For the
+purposes of this subsection, a person shall be deemed to be a patient who
+possesses a valid registry identification card or letter of approval if he or
+she qualifies for nonresident reciprocity pursuant toNRS 678C.470.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-410__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A medical cannabis dispensary and a
+medical cultivation facility may acquire usable cannabis or cannabis plants
+from a person who holds a valid registry identification card, including,
+without limitation, a designated primary caregiver. Except as otherwise
+provided in this subsection, the patient or caregiver, as applicable, must
+receive no compensation for the cannabis. A patient who holds a valid registry
+identification card, and the designated primary caregiver of such a patient, or
+the designated primary caregiver of a person who holds a letter of approval may
+sell usable cannabis to a medical cannabis dispensary one time and may sell
+cannabis plants to a cultivation facility one time.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-410__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A medical cannabis production facility
+and a medical cannabis dispensary may acquire hemp, as defined inNRS 557.160, or a commodity or product made
+using such hemp from a grower or handler registered by the State Department of
+Agriculture pursuant tochapter 557of NRS. A
+medical cannabis production facility may use hemp or a commodity or product
+made using such hemp to manufacture medical cannabis products. A medical
+cannabis dispensary may dispense hemp or a commodity or product made using such
+hemp and medical edible cannabis products and medical cannabis-infused products
+manufactured using hemp or a commodity or product made using such hemp.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-410__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A dual licensee:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-410__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Shall comply with the regulations adopted by
+the Board pursuant to subsection 7 ofNRS
+678B.650with respect to the medical cannabis establishment operated by the
+dual licensee; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-410__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May, to the extent authorized by such
+regulations, combine the location or operations of the medical cannabis
+establishment operated by the dual licensee with the adult-use cannabis
+establishment operated by the dual licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-410__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If a medical cannabis establishment is
+operated by a dual licensee, any provision of this section which is determined
+by the Board to be unreasonably impracticable pursuant to subsection 8 ofNRS 678B.650does not apply to the
+medical cannabis establishment.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3824)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-420">
+          <num>678C.420</num>
+          <heading>Electronic verification system.</heading>
+          <subsection eId="678C-420__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each medical cannabis establishment, in
+consultation with the Board, shall maintain an electronic verification system.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-420__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The electronic verification system
+required pursuant to subsection 1 must be able to monitor and report
+information, including, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-420__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In the case of a medical cannabis dispensary,
+for each person who holds a valid registry identification card and who
+purchased cannabis from the dispensary in the immediately preceding 60-day
+period:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="678C-420__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The number of the card;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-420__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The date on which the card was issued;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-420__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The date on which the card will
+expire.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="678C-420__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For each cannabis establishment agent who is
+employed by or volunteers at the medical cannabis establishment, the number of
+the personï¿½s cannabis establishment agent registration card.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-420__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In the case of a medical cannabis dispensary,
+such information as may be required by the Board by regulation regarding
+persons who are not residents of this State and who have purchased cannabis
+from the dispensary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-420__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Verification of the identity of a person to
+whom cannabis or medical cannabis products are sold or otherwise distributed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-420__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Such other information as the Board may
+require.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-420__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Nothing in this section prohibits more
+than one medical cannabis establishment from co-owning an electronic
+verification system in cooperation with other medical cannabis establishments,
+or sharing the information obtained therefrom.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-420__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A medical cannabis establishment must
+exercise reasonable care to ensure that the personal identifying information of
+persons who hold registry identification cards which is contained in an
+electronic verification system is encrypted, protected and not divulged for any
+purpose not specifically authorized by law.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3824)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-430">
+          <num>678C.430</num>
+          <heading>Inventory control system.</heading>
+          <subsection eId="678C-430__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each medical cannabis establishment, in
+consultation with the Board, shall maintain an inventory control system.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-430__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The inventory control system required
+pursuant to subsection 1 must be able to monitor and report information,
+including, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-430__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Insofar as is practicable, the chain of
+custody and current whereabouts, in real time, of cannabis from the point that
+it is harvested at a cannabis cultivation facility until it is sold at a
+medical cannabis dispensary and, if applicable, medical cannabis production
+facility;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-430__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The name of each person or other medical
+cannabis establishment, or both, to which the establishment sold cannabis;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-430__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In the case of a medical cannabis dispensary,
+the date on which it sold cannabis to a person who holds a registry
+identification card and, if any, the quantity of medical cannabis products
+sold, measured both by weight and potency; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-430__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Such other information as the Board may
+require.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-430__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Nothing in this section prohibits more
+than one medical cannabis establishment from co-owning an inventory control
+system in cooperation with other medical cannabis establishments, or sharing
+the information obtained therefrom.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-430__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A medical cannabis establishment must
+exercise reasonable care to ensure that the personal identifying information of
+persons who hold registry identification cards which is contained in an
+inventory control system is encrypted, protected and not divulged for any
+purpose not specifically authorized by law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-430__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If a medical cannabis establishment is
+operated by a dual licensee, the medical cannabis establishment may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-430__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the purpose of tracking cannabis for
+medical use, maintain a combined inventory with an adult-use cannabis
+establishment operated by the dual licensee; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-430__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For the purpose of reporting on the inventory
+of the medical cannabis establishment operated by the dual licensee, maintain a
+combined inventory with an adult-use cannabis establishment operated by the
+dual licensee and report the combined inventory under a single medical cannabis
+establishment license or adult-use cannabis establishment license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-430__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>If a medical cannabis establishment is
+operated by a dual licensee, the medical cannabis establishment shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-430__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the purpose of reporting on the sales of
+any medical cannabis establishment or adult-use cannabis establishment operated
+by the dual licensee, designate each sale as a sale pursuant to the provisions
+of this chapter orchapter 678Dof NRS in
+its inventory control system at the point of sale; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-430__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Verify that each person who purchases
+cannabis or cannabis products in a sale designated as a sale pursuant to the
+provisions of this chapter holds a valid registry identification card.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3825)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-440">
+          <num>678C.440</num>
+          <heading>Duties of medical cannabis dispensaries relating to sale of
+cannabis and cannabis products and relating to legal limits on possession of
+cannabis for medical use.</heading>
+          <subsection eId="678C-440__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each medical cannabis dispensary shall
+ensure all of the following:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-440__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The weight, concentration and content of THC
+in all cannabis and cannabis products that the dispensary sells is clearly and
+accurately stated on the product sold.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-440__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>That, posted clearly and conspicuously within
+the dispensary, are the legal limits on the possession of cannabis for medical
+purposes, as set forth inNRS 678C.200.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-440__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>That, posted clearly and conspicuously within
+the dispensary, is a sign stating unambiguously the legal limits on the
+possession of cannabis for medical purposes, as set forth inNRS 678C.200.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-440__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>That only persons who are at least 21 years
+of age or hold a registry identification card or letter of approval are allowed
+to enter the premises of the medical cannabis dispensary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-440__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A medical cannabis dispensary may, but
+is not required to, track the purchases of cannabis for medical purposes by any
+person to ensure that the person does not exceed the legal limits on the
+possession of cannabis for medical purposes, as set forth inNRS 678C.200. The Board shall not adopt a
+regulation or in any other way require a medical cannabis dispensary to track
+the purchases of a person or determine whether the person has exceeded the
+legal limits on the possession of cannabis for medical purposes, as set forth
+inNRS 678C.200.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-440__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A medical cannabis dispensary which is
+a dual licensee may, to the extent authorized by the regulations adopted by the
+Board pursuant to subsection 7 ofNRS
+678B.650, allow any person who is at least 21 years of age to enter the
+premises of the medical cannabis dispensary, regardless of whether such a
+person holds a valid registry identification card or letter of approval.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-440__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A medical cannabis dispensary shall not
+sell cannabis or cannabis products to a consumer through the use of, or accept
+a sale of cannabis or cannabis products from, a third party, intermediary
+business, broker or any other business that does not hold a medical cannabis
+establishment license for a medical cannabis dispensary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-440__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A medical cannabis dispensary may
+contract with a third party or intermediary business to deliver cannabis or
+medical cannabis products to consumers only if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-440__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Every sale of cannabis or cannabis products
+which is delivered by the third party or intermediary business is made directly
+from the medical cannabis dispensary or an Internet website, digital network or
+software application service of the medical cannabis dispensary;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-440__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The third party or intermediary business does
+not advertise that it sells, offers to sell or appears to sell cannabis or
+cannabis products or allows the submission of an order for cannabis or cannabis
+products; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-440__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The delivery complies with the requirements
+ofNRS 678C.450.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3826; A2023,
+2569)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-450">
+          <num>678C.450</num>
+          <heading>Requirements concerning delivery of cannabis or cannabis
+products.</heading>
+          <subsection eId="678C-450__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A medical cannabis dispensary may
+deliver cannabis or cannabis products to a person who holds a valid registry
+identification card or letter of approval if the delivery is made by a cannabis
+establishment agent who is authorized to make the delivery by the medical
+cannabis dispensary which sold the cannabis or cannabis product.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-450__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board may adopt regulations
+prescribing procedures and protocols for deliveries conducted pursuant to
+subsection 1.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3827)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-460">
+          <num>678C.460</num>
+          <heading>Requirements concerning storage, removal and transportation of
+cannabis for medical use.</heading>
+          <subsection eId="678C-460__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>At each medical cannabis establishment,
+medical cannabis must be stored only in an enclosed, locked facility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-460__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3, at each medical cannabis dispensary, medical cannabis must be
+stored in a secure, locked device, display case, cabinet or room within the
+enclosed, locked facility. The secure, locked device, display case, cabinet or
+room must be protected by a lock or locking mechanism that meets at least the
+security rating established by the Underwriters Laboratories for key locks.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-460__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>At a medical cannabis dispensary,
+medical cannabis may be removed from the secure setting described in subsection
+2:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-460__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Only for the purpose of dispensing the
+cannabis;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-460__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Only immediately before the cannabis is
+dispensed; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-460__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Only by a cannabis establishment agent who is
+employed by or volunteers at the dispensary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-460__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A medical cannabis establishment may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-460__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Transport medical cannabis to another medical
+cannabis establishment or between the buildings of the medical cannabis
+establishment; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-460__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Enter into a contract with a third party to
+transport cannabis to another medical cannabis establishment or between the
+buildings of the medical cannabis establishment.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3827)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-470">
+          <num>678C.470</num>
+          <heading>Medical cannabis dispensary authorized to dispense cannabis to
+nonresidents of this State under certain circumstances.</heading>
+          <subsection eId="678C-470__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who is not a resident of this
+State, but who is authorized to engage in the medical use of cannabis under the
+laws of his or her state or jurisdiction of residence, is deemed to hold a
+valid registry identification card for the purpose of the exemption from state
+prosecution described in subsection 1 ofNRS
+678C.200if the person abides by the legal limits on the possession,
+delivery and production of cannabis for medical purposes in this State, as set
+forth inNRS 678C.200.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-470__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A medical cannabis dispensary may
+dispense cannabis to a person described in subsection 1 if the person presents
+to the medical cannabis dispensary any document which is valid to prove the
+authorization of the person to engage in the medical use of cannabis under the
+laws of his or her state or jurisdiction of residence. Such documentation may
+include, without limitation, written documentation from a physician or other
+provider of health care if, under the laws of the personï¿½s state or jurisdiction
+of residence, written documentation from a physician or other provider of
+health care is sufficient to exempt the person from prosecution for engaging in
+the medical use of cannabis.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3827)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-480">
+          <num>678C.480</num>
+          <heading>Designation of medical cannabis dispensary.</heading>
+          <subsection eId="678C-480__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A patient who holds a valid registry
+identification card or letter of approval and his or her designated primary
+caregiver, if any, may select one medical cannabis dispensary to serve as his
+or her designated medical cannabis dispensary at any one time.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-480__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A patient who designates a medical
+cannabis dispensary as described in subsection 1:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-480__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Shall communicate the designation to the
+Division within the time specified by the Division.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-480__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May change his or her designation not more
+than once in a 30-day period.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3828)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-490">
+          <num>678C.490</num>
+          <heading>Regulations.</heading>
+          <subsection eId="678C-490__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Establish procedures pursuant to which
+a medical cannabis dispensary will be notified by the Board if a patient who
+holds a valid registry identification card or letter of approval has chosen the
+dispensary as his or her designated medical cannabis dispensary, as described
+inNRS 678C.480.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-490__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Establish minimum requirements for
+hemp, as defined inNRS 557.160, which
+is used by a medical cannabis production facility or dispensed by a medical
+cannabis dispensary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-490__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Set forth the amount of usable cannabis
+that a medical cannabis dispensary may dispense to a person who holds a valid
+registry identification card, including, without limitation, a designated
+primary caregiver. Such an amount must not exceed the limits set forth inNRS 678C.200.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-490__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In cooperation with the applicable
+professional licensing boards, establish a system to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-490__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Register and track attending providers of
+health care who advise their patients that the medical use of cannabis may
+mitigate the symptoms or effects of the patientï¿½s medical condition;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-490__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Insofar as is possible, track and quantify
+the number of times an attending provider of health care described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-490__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>makes such an advisement; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-490__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Provide for the progressive discipline of
+attending providers of health care who advise the medical use of cannabis at a
+rate at which the Board, in consultation with the Division, and the applicable
+board, determine and agree to be unreasonably high.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-490__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Provide for the maintenance of a log by
+the Board, in consultation with the Division, of each person who is authorized
+to cultivate, grow or produce cannabis pursuant to subsection 6 ofNRS 678C.200. The Board shall ensure that
+the contents of the log are available for verification by law enforcement
+personnel 24 hours a day.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3828)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-500">
+          <num>678C.500</num>
+          <heading>Recommendation to Legislature.</heading>
+          <content>
+            <p>The
+Board may recommend to the Legislature any change to the quantity of usable
+cannabis that a medical cannabis dispensary may sell to a person who holds a
+valid registry identification card, including, without limitation, a designated
+primary caregiver, that the Board determines to be appropriate.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3829)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-600">
+          <num>678C.600</num>
+          <heading>Possession of registry identification card, letter of approval,
+license or registration card not permissible grounds for search or inspection;
+care and return of seized property.</heading>
+          <subsection eId="678C-600__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The fact that a person possesses a
+registry identification card or letter of approval issued to the person by the
+Division or its designee pursuant toNRS
+678C.230or678C.270, a medical
+cannabis establishment license issued to the person by the Board or its
+designee pursuant toNRS 678B.210, a
+cannabis establishment agent registration card issued to the person by the
+Board or its designee pursuant toNRS
+678B.340, a cannabis establishment agent registration card for a cannabis
+executive issued to the person by the Board or its designee pursuant toNRS 678B.350or a cannabis establishment
+agent registration card for a cannabis receiver issued to the person by the
+Board pursuant toNRS 678B.355does
+not, alone:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-600__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Constitute probable cause to search the
+person or the personï¿½s property; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-600__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Subject the person or the personï¿½s property
+to inspection by any governmental agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-600__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection, if officers of a state or local law enforcement agency seize
+cannabis, paraphernalia or other related property from a person engaged in,
+facilitating or assisting in the medical use of cannabis:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-600__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The law enforcement agency shall ensure that
+the cannabis, paraphernalia or other related property is not destroyed while in
+the possession of the law enforcement agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-600__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any property interest of the person from whom
+the cannabis, paraphernalia or other related property was seized must not be
+forfeited pursuant to any provision of law providing for the forfeiture of
+property, except as part of a sentence imposed after conviction of a criminal
+offense.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-600__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Upon:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="678C-600__subsec_2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A decision not to prosecute;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-600__subsec_2__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The dismissal of charges; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-600__subsec_2__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Acquittal,
+ï¿½the law
+enforcement agency shall, to the extent permitted by law, return to that person
+any usable cannabis, cannabis plants, paraphernalia or other related property
+that was seized. The provisions of this subsection do not require a law
+enforcement agency to care for live cannabis plants.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3829; A2021,
+2153)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-610">
+          <num>678C.610</num>
+          <heading>Forfeiture of assets seized.</heading>
+          <subsection eId="678C-610__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a law enforcement agency legally and
+justly seizes evidence from a medical cannabis establishment on a basis that,
+in consideration of due process and viewed in the manner most favorable to the
+establishment, would lead a reasonable person to believe that a crime has been
+committed, the relevant provisions ofNRS
+179.1156to179.121, inclusive,
+apply insofar as they do not conflict with the provisions of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-610__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½law
+enforcement agencyï¿½ has the meaning ascribed to it inNRS 239C.065.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3829)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-650">
+          <num>678C.650</num>
+          <heading>Professional licensing board prohibited from taking disciplinary
+action against attending provider of health care on basis of providerï¿½s
+participation in certain activities in accordance with this chapter.</heading>
+          <subsection eId="678C-650__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Regardless of whether the person is a
+resident of this State, advised a person whom the attending provider of health
+care has diagnosed as having a chronic or debilitating medical condition, or a
+person whom the attending provider of health care knows has been so diagnosed
+by another provider of health care licensed or certified pursuant to the law of
+this State:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-650__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>About the possible risks and benefits of the
+medical use of cannabis; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-650__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>That the medical use of cannabis may mitigate
+the symptoms or effects of the personï¿½s chronic or debilitating medical
+condition,
+ï¿½if the
+advice is based on the attending provider of health careï¿½s personal assessment
+of the personï¿½s medical history and current medical condition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-650__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Provided or maintained the written documentation
+or signature, as applicable, required pursuant to paragraph</p>
+            </content>
+            <paragraph eId="678C-650__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 2
+ofNRS 678C.220for the issuance of a
+registry identification card or letter of approval or pursuant to subparagraph</p>
+              </content>
+              <subparagraph eId="678C-650__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="678C-650__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 ofNRS
+678C.250for the renewal of a registry identification card or letter of
+approval, or any similar documentation required for the person to be authorized
+to engage in the medical use of cannabis pursuant to the laws of another state
+or jurisdiction, if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-650__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Such documentation is based on the attending
+provider of health careï¿½s personal assessment of the personï¿½s medical history
+and current medical condition; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-650__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The attending provider of health care has
+advised the person about the possible risks and benefits of the medical use of
+cannabis.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3829)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-660">
+          <num>678C.660</num>
+          <heading>Professional licensing board prohibited from taking disciplinary
+action against licensee on basis of licenseeï¿½s participation in certain
+activities in accordance with this chapter.</heading>
+          <subsection eId="678C-660__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The person engages in or has engaged in
+the medical use of cannabis in accordance with the provisions of this chapter;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-660__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The person acts as or has acted as the
+designated primary caregiver of a person who holds a registry identification
+card or letter of approval issued to him or her pursuant to paragraph</p>
+            </content>
+            <paragraph eId="678C-660__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of
+subsection 1 ofNRS 678C.230.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3830)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-700">
+          <num>678C.700</num>
+          <heading>Program for evaluation and research of medical use of cannabis:
+Establishment by University of Nevada, Reno, School of Medicine; federal
+approval; participants and subjects; quarterly report.</heading>
+          <subsection eId="678C-700__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The University of Nevada, Reno, School
+of Medicine shall establish a program for the evaluation and research of the
+medical use of cannabis in the care and treatment of persons who have been
+diagnosed with a chronic or debilitating medical condition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-700__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Before the School of Medicine establishes
+a program pursuant to subsection 1, the School of Medicine shall aggressively
+seek and must receive approval of the program by the Federal Government
+pursuant to 21 U.S.C. ï¿½ 823 or other applicable provisions of federal law, to
+allow the creation of a federally approved research program for the use and
+distribution of cannabis for medical purposes.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-700__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A research program established pursuant
+to this section must include residents of this State who volunteer to act as
+participants and subjects, as determined by the School of Medicine.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-700__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A resident of this State who wishes to
+serve as a participant and subject in a research program established pursuant
+to this section may notify the School of Medicine and may apply to participate
+by submitting an application on a form prescribed by the Department of
+Administration of the School of Medicine.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-700__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The School of Medicine shall, on a
+quarterly basis, report to the Interim Finance Committee with respect to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-700__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The progress made by the School of Medicine
+in obtaining federal approval for the research program; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-700__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the research program receives federal
+approval, the status of, activities of and information received from the
+research program.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3830)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-710">
+          <num>678C.710</num>
+          <heading>Program for evaluation and research of medical use of cannabis:
+Duties of University of Nevada, Reno, School of Medicine concerning confidentiality.</heading>
+          <subsection eId="678C-710__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section andNRS 239.0115, the
+University of Nevada, Reno, School of Medicine shall maintain the
+confidentiality of and shall not disclose:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-710__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The contents of any applications, records or
+other written materials that the School of Medicine creates or receives
+pursuant to the research program described inNRS 678C.700; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-710__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The name or any other identifying information
+of a person who has applied to or who participates in the research program
+described inNRS 678C.700.
+ï¿½Except as
+otherwise provided inNRS 239.0115, the
+items of information described in this subsection are confidential, not subject
+to subpoena or discovery and not subject to inspection by the general public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-710__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Notwithstanding the provisions of
+subsection 1, the School of Medicine may release the name and other identifying
+information of a person who has applied to or who participates in the research
+program described inNRS 678C.700to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-710__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Authorized employees of the State of Nevada
+as necessary to perform official duties related to the research program; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-710__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Authorized employees of state and local law
+enforcement agencies, only as necessary to verify that a person is a lawful
+participant in the research program.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3831)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-720">
+          <num>678C.720</num>
+          <heading>Program for evaluation and research of medical use of cannabis:
+Authority of University of Nevada, Reno, School of Medicine concerning gifts,
+grants, donations or contributions for research program.</heading>
+          <subsection eId="678C-720__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department of Administration of the
+University of Nevada, Reno, School of Medicine may apply for or accept any
+gifts, grants, donations or contributions from any source to carry out the
+provisions ofNRS 678C.700.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-720__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any money the Department of
+Administration receives pursuant to subsection 1 must be deposited in the State
+Treasury pursuant toNRS 678C.730.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3831)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-730">
+          <num>678C.730</num>
+          <heading>Program for evaluation and research of medical use of cannabis:
+Deposit, use and disposition of money; Department of Administration of University
+of Nevada, Reno, School of Medicine to administer account.</heading>
+          <subsection eId="678C-730__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any money the Department of
+Administration of the University of Nevada, Reno, School of Medicine receives
+pursuant toNRS 678C.720or that is
+appropriated to carry out the provisions ofNRS
+678C.700:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-730__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Must be deposited in the State Treasury and
+accounted for separately in the State General Fund;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-730__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May only be used to carry out the provisions
+ofNRS 678C.700, including the
+dissemination of information concerning the provisions of that section and such
+other information as is determined appropriate by the Department of
+Administration; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-730__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Does not revert to the State General Fund at
+the end of any fiscal year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-730__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department of Administration of the
+School of Medicine shall administer the account. Any interest or income earned on
+the money in the account must be credited to the account. Any claims against
+the account must be paid as other claims against the State are paid.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3831)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-800">
+          <num>678C.800</num>
+          <heading>Duties of Division concerning confidentiality; certain items of
+information not subject to subpoena, discovery or inspection.</heading>
+          <subsection eId="678C-800__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section,NRS 239.0115and360.255and subsection 4 ofNRS 678C.220, the Division shall not
+disclose the name or other identifying information of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-800__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An attending provider of health care; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-800__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who has applied for or to whom the
+Division or its designee has issued a registry identification card or letter of
+approval.
+ï¿½Except as
+otherwise provided inNRS 239.0115and360.255, the items of information described
+in this subsection are confidential, not subject to subpoena or discovery and
+not subject to inspection by the general public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-800__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Notwithstanding the provisions of
+subsection 1, the Division or its designee:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-800__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Shall release the name and other identifying
+information of a person who has applied for a registry identification card to
+authorized employees of the Division of Parole and Probation of the Department
+of Public Safety, if notified by the Division of Parole and Probation that the
+applicant is on parole or probation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-800__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May release the name and other identifying
+information of a person to whom the Division or its designee has issued a
+registry identification card or letter of approval to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="678C-800__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Authorized employees of the Division
+or its designee as necessary to perform official duties of the Division; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-800__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Authorized employees of state and
+local law enforcement agencies, only as necessary to verify that a person is
+the lawful holder of a registry identification card or letter of approval
+issued to him or her pursuant toNRS
+678C.230or678C.270.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3832)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-810">
+          <num>678C.810</num>
+          <heading>Addition of diseases and conditions to list of qualifying
+chronic or debilitating medical conditions: Petition; regulations.</heading>
+          <subsection eId="678C-810__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person may submit to the Division a
+petition requesting that a particular disease or condition be included among
+the diseases and conditions that qualify as chronic or debilitating medical
+conditions pursuant toNRS 678C.030.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-810__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Division shall adopt regulations
+setting forth the manner in which the Division will accept and evaluate
+petitions submitted pursuant to this section. The regulations must provide,
+without limitation, that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-810__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Division will approve or deny a petition
+within 180 days after the Division receives the petition; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-810__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The decision of the Division to deny a
+petition is a final decision for the purposes of judicial review.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3832)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-820">
+          <num>678C.820</num>
+          <heading>Authority of Board concerning gifts, grants, donations or
+contributions; deposit of money in State Treasury.</heading>
+          <subsection eId="678C-820__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Administrator of the Division or
+his or her designee may apply for or accept any gifts, grants, donations or
+contributions from any source to carry out the provisions of this chapter
+governing the issuance of registry identification cards and letters of approval
+and the regulation of the holders of such cards and letters.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-820__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any money the Administrator or his or
+her designee receives pursuant to subsection 1 must be deposited in the State
+Treasury pursuant toNRS 678C.830.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3832)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-830">
+          <num>678C.830</num>
+          <heading>Deposit, use and disposition of money; administration of
+account.</heading>
+          <subsection eId="678C-830__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any money the Division receives
+pursuant toNRS 678C.820or that is
+appropriated to carry out the provisions of this chapter governing the issuance
+of registry identification cards and letters of approval and the regulation of
+the holders of such cards and letters:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-830__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Must be deposited in the State Treasury and
+accounted for separately in the State General Fund;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-830__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May only be used to carry out:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="678C-830__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The provisions of this chapter
+governing the issuance of registry identification cards and letters of approval
+and the regulation of the holders of such cards and letters, including the
+dissemination of information concerning those provisions and such other information
+as determined appropriate by the Division;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-830__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Programs for alcohol or substance use
+disorders pursuant toNRS 458.094; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="678C-830__subsec_1__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Research performed by an institution
+of the Nevada System of Higher Education on services relating to alcohol and
+other substance use disorders; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="678C-830__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Does not revert to the State General Fund at
+the end of any fiscal year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-830__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Administrator of the Division shall
+administer the account. Any interest or income earned on the money in the
+account must be credited to the account. Any claims against the account must be
+paid as other claims against the State are paid.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3832)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-840">
+          <num>678C.840</num>
+          <heading>Regulations; fees.</heading>
+          <subsection eId="678C-840__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Procedures pursuant to which the
+Division will issue a registry identification card or letter of approval or
+cause a registry identification card to be prepared and issued to a qualified
+person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-840__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Fees for processing and issuing a
+registry identification card or letter of approval, which must not exceed:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-840__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For a registry identification card or letter
+of approval which is valid for 1 year, $50.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-840__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For a registry identification card or letter
+of approval which is valid for 2 years, $100.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3833)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-850">
+          <num>678C.850</num>
+          <heading>Effect of chapter.</heading>
+          <subsection eId="678C-850__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Require an insurer, organization for
+managed care or any person or entity who provides coverage for a medical or
+health care service to pay for or reimburse a person for costs associated with
+the medical use of cannabis.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-850__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Require any employer to allow the
+medical use of cannabis in the workplace.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-850__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 4, require an employer to modify the job or working conditions of a
+person who engages in the medical use of cannabis that are based upon the
+reasonable business purposes of the employer but the employer must attempt to
+make reasonable accommodations for the medical needs of an employee who engages
+in the medical use of cannabis if the employee holds a valid registry
+identification card, provided that such reasonable accommodation would not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-850__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Pose a threat of harm or danger to persons or
+property or impose an undue hardship on the employer; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-850__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prohibit the employee from fulfilling any and
+all of his or her job responsibilities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="678C-850__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Prohibit a law enforcement agency from
+adopting policies and procedures that preclude an employee from engaging in the
+medical use of cannabis.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="678C-850__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>As used in this section, ï¿½law
+enforcement agencyï¿½ means:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="678C-850__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Office of the Attorney General, the
+office of a district attorney within this State or the Nevada Gaming Control
+Board and any attorney, investigator, special investigator or employee who is
+acting in his or her professional or occupational capacity for such an office
+or the Nevada Gaming Control Board; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="678C-850__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any other law enforcement agency within this
+State and any peace officer or employee who is acting in his or her
+professional or occupational capacity for such an agency.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3833)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_678C-860">
+          <num>678C.860</num>
+          <heading>State not responsible for deleterious outcomes from medical use
+of cannabis.</heading>
+          <content>
+            <p>The State must not be
+held responsible for any deleterious outcomes from the medical use of cannabis
+by any person.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3834)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

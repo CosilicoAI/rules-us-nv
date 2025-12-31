@@ -1,0 +1,2259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-245"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-245"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="245"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-245/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-245/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-245/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-245/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_245">
+        <num>245</num>
+        <heading>COUNTIES: OFFICERS AND</heading>
+        <section eId="sec_245-010">
+          <num>245.010</num>
+          <heading>Certificates of election of county officers.</heading>
+          <content>
+            <p>All county officers elected by the people
+shall receive certificates of election from the boards of county commissioners
+of their respective counties.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 30:108:1866; B ï¿½ 2628; BH ï¿½ 1665; C ï¿½ 1811; RL
+ï¿½ 2794; NCL ï¿½ 4794]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-020">
+          <num>245.020</num>
+          <heading>Election and qualification of certain county officers to be
+certified to Secretary of State.</heading>
+          <content>
+            <p>Within
+10 days after the election or appointment and qualification of any county
+officer authorized by law to take acknowledgments or administer oaths, the
+clerk of the board of county commissioners of each county shall certify, under
+seal, to the Secretary of State the fact of election or appointment and
+qualification of any such officer in that county. The certificate shall be
+filed in the Office of the Secretary of State as evidence of the official
+character of such officers.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 31:108:1866; B ï¿½ 2629; BH ï¿½ 1666; C ï¿½ 1812; RL
+ï¿½ 2795; NCL ï¿½ 4795]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-030">
+          <num>245.030</num>
+          <heading>Board of county commissioners may require new bond of county
+officers or monthly reports of county fiscal officers; examination of books.</heading>
+          <subsection eId="245-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board of county commissioners
+shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-030__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>By an order to that effect entered upon the
+record, require a new bond of any county or township officer, with additional
+sureties, whenever the board deems the same necessary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-030__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>See that all the county and township officers
+entrusted with the collection, disbursement, safekeeping or management of the
+public revenue, faithfully perform the duties imposed upon them by law, and
+shall cause them to be prosecuted for any delinquencies.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The board of county commissioners may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-030__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Require of all county or township officers,
+entrusted with the collection, management, safekeeping or disbursement of
+public funds, a monthly report of all collections and disbursements made by
+them during the preceding month.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-030__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>At any time examine their books, accounts and
+vouchers.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [14:80:1865; B ï¿½ 3083; BH ï¿½ 1955; C ï¿½ 2117; RL ï¿½
+1514; NCL ï¿½ 1947]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-040">
+          <num>245.040</num>
+          <heading>Office hours of certain county officers; branch offices;
+penalties.</heading>
+          <subsection eId="245-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Sheriffs, county recorders and county
+auditors, county clerks, county assessors and county treasurers shall keep an
+office at the county seat of their county which, except as otherwise provided
+in subsections 3 and 4, must be kept open on all days except Sundays and
+nonjudicial days from 9 a.m. to 12 m., and on all days except Sundays,
+nonjudicial days and Saturdays from 1 p.m. to 5 p.m. for the transaction of
+public business, but nothing contained in this subsection interferes with a
+duty now required of a public officer under the election laws of this State.
+County clerks shall keep their offices open on all election days during the hours
+when the polls are open for voting but may, with the consent of the district
+judge of the county, close their offices for all purposes except election
+business and the issuance of marriage licenses on any day on which the primary
+or general election is held.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Notwithstanding the provisions of
+subsection 1, the board of county commissioners of any county may, by an order
+regularly made and entered in the records of its proceedings, designate the
+days and hours during which the offices of the sheriff, county recorder and
+county auditor, county clerk, county assessor and county treasurer must be kept
+open for the transaction of public business. An order so made and entered must
+require each office to be kept open for not less than 40 hours during each
+week, and must not prevent the county clerk from closing his or her office for
+all purposes except election business and the issuance of marriage licenses on
+primary and general election days as provided in subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-040__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The board of county commissioners may
+authorize a county officer to rent, equip and operate, at public expense, one
+or more branch offices in the county. The branch office may be kept open for
+the transaction of public business on the days and during the hours specified
+in subsections 1 and 2 or on such days and during such hours as determined by
+the board. The provisions of this subsection do not preempt any other statutory
+provisions which require certain duties to be performed at the county seat.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-040__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Any county office may deviate from the
+hours of operation required pursuant to this section if the board of county
+commissioners approves the plan for the deviation submitted by the office,
+except that no such deviation may conflict with the election laws of this
+State. Such a plan must be fiscally neutral or result in cost savings.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-040__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A county officer who violates the
+provisions of this section is guilty of a misdemeanor, and if an officer
+mentioned in subsection 1 absents himself or herself from office, except:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-040__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When called away from his or her office by
+official duties;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-040__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When expressly permitted so to do by the
+board of county commissioners or a majority of the members thereof in writing;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-040__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>When he or she makes provision to leave his
+or her office open for the transaction of public business on the days and
+during the hours prescribed by this section and in charge of a deputy qualified
+to act in the county officerï¿½s absence,
+ï¿½there must
+be withheld from the county officerï¿½s monthly salary that proportion thereof as
+the number of days of absence bears to the number of days of the month in which
+the absence occurs. The money must be withheld from payment of salary to the
+officer for the next succeeding month by order of the board of county
+commissioners, but such an order must not be made without first giving the
+officer affected reasonable notice and an opportunity to appear before the
+board and defend the charge against him or her.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:178:1907; A1929,
+255;1955,
+6,471]
++ [2:178:1907; A1945,
+340;1955,
+6]—(NRS A1959,
+39;1961,
+30;1967,
+535;1987,
+2308;1989,
+243,1295;1997,
+217;2010,
+26th Special Session, 50;2011,
+2046)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-043">
+          <num>245.043</num>
+          <heading>Annual salaries of elected county officers; option not to
+receive part of salary; salary increases not paid under certain circumstances.</heading>
+          <subsection eId="245-043__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-043__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Countyï¿½ includes Carson City.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-043__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½County commissionerï¿½ includes the Mayor and
+supervisors of Carson City.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-043__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 5 and by any special law, the elected officers of the counties of
+this State are entitled to receive, for the appropriate fiscal year, annual
+salaries in the base amounts specified in the following table commencing on
+July 1 of the fiscal year. The annual salaries are in full payment for all
+services required by law to be performed by such officers. Except as otherwise
+provided by law, all fees and commissions collected by such officers in the
+performance of their duties must be paid into the county treasury each month
+without deduction of any nature.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ANNUAL
+SALARIES
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Districtï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Countyï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Countyï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Countyï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Countyï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Public
+Classï¿½ï¿½ï¿½ï¿½ Countyï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Attorneyï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Sheriffï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Clerkï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Assessorï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Recorderï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Treasurerï¿½ï¿½ï¿½ï¿½ Administrator
+ï¿½ 1ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Clark
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½   FY 2015-2016ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ $187,563ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ $161,692ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ $109,757ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ $109,757ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ $109,757ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ $109,757ï¿½ï¿½ï¿½ï¿½ï¿½ $109,757
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½   FY 2016-2017ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 193,190ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 166,543ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 113,050ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 113,050ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 113,050ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 113,050ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 113,050
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½   FY 2017-2018ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 198,986ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 171,540ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 116,441ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 116,441ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 116,441ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 116,441ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 116,441
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½   FY 2018-2019ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 204,955ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 176,685ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 119,934ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 119,934ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 119,934ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 119,934ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 119,934
+ï¿½ 2ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Washoe
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½   FY 2015-2016ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 165,573ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 133,234ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 100,610ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 100,610ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 100,610ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 100,610ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 100,610
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½   FY 2016-2017ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 170,540ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 137,231ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 103,629ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 103,629ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 103,629ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 103,629ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 103,629
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½   FY 2017-2018ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 175,656ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 141,348ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 106,738ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 106,738ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 106,738ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 106,738ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 106,738
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½   FY 2018-2019ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 180,926ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 145,588ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 109,940ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 109,940ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 109,940ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 109,940ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 109,940
+ï¿½ 3ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Carson City
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½   FY 2015-2016ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 118,872ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 98,567ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 78,293ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 78,293ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 78,293ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 78,293ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½   FY 2016-2017ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 122,438ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 101,524ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 80,642ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 80,642ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 80,642ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 80,642ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½   FY 2017-2018ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 126,112ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 104,570ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 83,061ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 83,061ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 83,061ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 83,061ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½   FY 2018-2019ï¿½ï¿½ï</p>
+            </content>
+          </subsection>
+          <subsection eId="245-043__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 5, the annual salary for county commissioners commencing on July 1
+of the fiscal year is:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-043__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For Fiscal Year 2015-2016, 103.00 percent;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-043__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For Fiscal Year 2016-2017, 106.09 percent;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-043__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For Fiscal Year 2017-2018, 109.273 percent;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-043__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For Fiscal Year 2018-2019 and each fiscal year
+thereafter, 112.551 percent,
+ï¿½of the
+amount of the annual salary for the county commissioners of that county that
+was in effect on January 1, 2015.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-043__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Any elected officer or county
+commissioner who is entitled to a salary pursuant to subsection 2 or 3 may
+elect not to receive any part of the salary to which he or she is entitled
+pursuant to subsection 2 or 3, as applicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-043__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The increased annual salaries for all
+elected county officers provided for in subsections 2 and 3 for a fiscal year
+must not be paid in a fiscal year if the board of county commissioners
+determines that sufficient financial resources are not available to pay
+increased annual salaries in that fiscal year and the annual salaries paid for
+those officers in the immediately preceding fiscal year must continue to be
+paid. If increased annual salaries are paid in a subsequent fiscal year:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-043__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Those increased annual salaries must be in
+the amounts provided for in subsections 2 and 3 starting with the first fiscal
+year in which increased salaries were not paid because sufficient financial
+resources were not available.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-043__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An elected county officer is not entitled to
+any retroactive payment of the salary increase for any previous fiscal year in
+which increased annual salaries were not paid.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+1460; A1973,
+1777;1975,
+1479;1977,
+1322;1979,
+152,1392;1981,
+1153,1156,1997,1999;1985,
+1610;1987,
+54,113,115,2309;1989,
+244,2127,2130;1995,
+2517;2003,
+2678;2007,
+2409;2015,
+3246)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-0435">
+          <num>245.0435</num>
+          <heading>Private practice of law by certain district attorneys
+prohibited; disqualification from prosecution.</heading>
+          <subsection eId="245-0435__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 252.060, the district attorneys in
+counties of classes 1 to 5, inclusive, as classified in the table of annual
+salaries, shall not engage in the private practice of law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-0435__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A district attorney who is permitted to
+engage in the private practice of law shall disqualify himself or herself from
+any criminal prosecution of a person who has been involved in a matter related
+to the district attorneyï¿½s private practice of law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-0435__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½private
+practice of lawï¿½ by a district attorney means the performance of legal service,
+for compensation, for any person or organization except the district attorneyï¿½s
+county and any other governmental agency which the district attorney has a
+statutory duty to serve.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+1479; A1977,
+1325;1981,
+1159;1985,
+1553;1991,
+103;1995,
+2520)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-044">
+          <num>245.044</num>
+          <heading>Payment for longevity for elected county officers; option not to
+receive payment.</heading>
+          <subsection eId="245-044__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>On and after July 1, 1973, if an
+elected county officer has served in his or her office for more than 4 years,
+the officer is entitled to an additional salary of 2 percent of his or her base
+salary for the appropriate fiscal year as provided in subsection 2 ofNRS 245.043or his or her annual salary set
+pursuant to subsection 3 ofNRS 245.043,
+as applicable, for each full calendar year the officer has served in his or her
+office.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-044__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The additional salary to which an
+elected county officer is entitled pursuant to subsection 1:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-044__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Must be calculated on July 1 of each year by
+multiplying 2 percent of the base salary for the appropriate fiscal year as
+provided in subsection 2 ofNRS 245.043or the annual salary set pursuant to subsection 3 ofNRS 245.043, as applicable, by the number
+of full calendar years the elected county officer has served in his or her
+office; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-044__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Must not exceed 20 percent of the base salary
+for the appropriate fiscal year as provided in subsection 2 ofNRS 245.043or the annual salary set
+pursuant to subsection 3 ofNRS 245.043,
+as applicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-044__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any elected county officer who is
+entitled to additional salary pursuant to subsection 1 may elect not to receive
+the additional salary or any part of the additional salary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-044__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Service on the Board of Supervisors of
+Carson City for the initial term which began on July 1, 1969, and ended on the
+first Monday of January, 1973, shall be deemed to constitute 4 full calendar
+years of service for the purposes of this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+1780; A1975,
+958;1983,
+1649;1987,
+115;1995,
+2520;2007,
+2411;2015,
+141)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-045">
+          <num>245.045</num>
+          <heading>Salaries of appointive county officers and employees fixed by
+ordinance or resolution.</heading>
+          <content>
+            <p>Boards of
+county commissioners have authority to fix the salaries of all appointive
+county officers and employees by the enactment of ordinances or the adoption of
+resolutions.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1295; A1969,
+1462)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-046">
+          <num>245.046</num>
+          <heading>Limitations on consideration of criminal history of applicant
+for employment by county.</heading>
+          <subsection eId="245-046__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Unless, pursuant to a specific
+provision of state or federal law, a person is disqualified from employment in
+a particular position because of the particular criminal history of the person,
+the criminal history of an applicant for employment by a county may be
+considered only after the earlier of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-046__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The final interview conducted in person; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-046__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The county has extended to the applicant a
+conditional offer of employment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-046__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The board of county commissioners, a
+county officer or any other person acting on behalf of a county may, before
+selecting an applicant as a finalist for a position or extending to an
+applicant a conditional offer of employment, notify the applicant of any
+provision of state or federal law that disqualifies a person with a particular
+criminal history from employment in a particular position.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-046__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Unless, pursuant to a specific
+provision of state or federal law, a person is disqualified from employment in
+a particular position because of the particular criminal history of the person,
+the board of county commissioners, a county officer or any other person acting
+on behalf of a county may decline to make an offer of employment or rescind a
+conditional offer of employment extended to an otherwise qualified applicant
+who has criminal charges pending against him or her that were filed within the
+previous 6 months or has been convicted of a criminal offense only after
+considering:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-046__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Whether any criminal offense charged against
+the applicant or committed by the applicant directly relates to the
+responsibilities of the position for which the applicant has applied;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-046__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The nature and severity of each criminal
+offense charged against the applicant or committed by the applicant;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-046__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The age of the applicant at the time of the
+commission of each criminal offense;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-046__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The period between the commission of each
+criminal offense and the date of the application for employment; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-046__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any information or documentation
+demonstrating the applicantï¿½s rehabilitation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-046__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The board of county commissioners, a
+county officer or any other person acting on behalf of a county shall not
+consider any of the following criminal records in connection with an
+application for employment:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-046__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided in subsection 3,
+an arrest of the applicant which did not result in a conviction;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-046__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A record of conviction which was dismissed,
+expunged or sealed; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-046__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An infraction or misdemeanor for which a
+sentence of imprisonment in a county jail was not imposed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-046__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If the criminal history of an applicant
+is used as a basis for rejecting an applicant or rescinding a conditional offer
+of employment, such rejection or rescission of a conditional offer of
+employment must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-046__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be made in writing;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-046__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Include a statement indicating that the
+criminal history of the applicant was the basis for the rejection or rescission
+of the offer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-046__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Provide an opportunity for the applicant to
+discuss the basis for the rejection or rescission of the offer with the
+director of the department of human resources of the county or a person
+designated by the director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-046__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>An application for employment must
+include a statement that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-046__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A record of conviction will not necessarily
+bar the applicant from employment; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-046__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The board of county commissioners, a county
+officer or any other person acting on behalf of the county will consider
+factors such as:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="245-046__subsec_6__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The length of time that has passed
+since the offense;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="245-046__subsec_6__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The age of the applicant at the time
+of the offense;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="245-046__subsec_6__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The severity and nature of the
+offense;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="245-046__subsec_6__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>The relationship of the offense to the
+position for which the applicant has applied; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="245-046__subsec_6__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Evidence of the rehabilitation of the
+applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-046__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>This section does not apply to any
+applicant for employment:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-046__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>As a peace officer or firefighter; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-046__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In any position that entails physical access
+to a computer or other equipment used for access to the Nevada Criminal Justice
+Information System or the National Crime Information Center.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+2099)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-0465">
+          <num>245.0465</num>
+          <heading>Limitations on consideration of wage or salary history of
+applicant for employment by county.</heading>
+          <subsection eId="245-0465__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board of county commissioners, a
+county officer or any other person acting on behalf of a county shall not,
+orally or in writing, personally or through an agent:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-0465__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Seek the wage or salary history of an
+applicant for employment by the county;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-0465__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Rely on the wage or salary history of an
+applicant to determine:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="245-0465__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Whether to offer employment to an
+applicant; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="245-0465__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The rate of pay for the applicant; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="245-0465__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Refuse to interview, hire, promote or employ
+an applicant, or discriminate or retaliate against an applicant if the
+applicant does not provide wage or salary history.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-0465__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A board of county commissioners, a
+county officer or any other person acting on behalf of a county shall provide:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-0465__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To an applicant for employment by a county
+who has completed an interview for a position the wage or salary range or rate
+for the position; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-0465__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The wage or salary range or rate for a
+promotion or transfer to a new position if an employee of a county has:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="245-0465__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Applied for the promotion or transfer;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="245-0465__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Completed an interview for the
+promotion or transfer or been offered the promotion or transfer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="245-0465__subsec_2__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Requested the wage or salary range or
+rate for the promotion or transfer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-0465__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Nothing in this section prohibits the
+board of county commissioners, a county officer or any other person acting on
+behalf of the county from asking an applicant for employment by the county
+about his or her wage or salary expectation for the position for which the
+applicant is applying.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-0465__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½wage or
+salary historyï¿½ means the wages or salary paid to an applicant for employment
+by the current or former employer of the applicant. The term includes, without
+limitation, any compensation and benefits received by the applicant from his or
+her current or former employer.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1680)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-048">
+          <num>245.048</num>
+          <heading>Employment of person admitted for permanent residency: Provision
+of documentation required by federal law.</heading>
+          <content>
+            <p>The
+board of county commissioners, a county officer and any other person acting on
+behalf of a county shall not hire or appoint as an employee any person who has
+been lawfully admitted for permanent residency in the United States, unless the
+person hired or appointed has provided the county with the documentation
+required by 8 U.S.C. ï¿½ 1324a(b).</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1993,
+2431)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-050">
+          <num>245.050</num>
+          <heading>Biweekly or semimonthly payment of salaries.</heading>
+          <content>
+            <p>All county officers and regular and temporary
+employees of the counties are entitled to be paid their salaries as fixed by
+law, ordinance or resolution either at regular 2-week intervals or in two equal
+semimonthly payments. If salaries are paid semimonthly, the first semimonthly
+payment for each month must be for the first half of that particular month, and
+the second semimonthly payment must be for the last half of the month.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1:179:1941; A1949,
+406;1951,
+77]—(NRS A1969,
+1462;1973,
+292;1987,
+2311;1989,
+246)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-055">
+          <num>245.055</num>
+          <heading>Prohibition on deduction of employeeï¿½s salary for service as
+volunteer firefighter or volunteer ambulance driver or attendant.</heading>
+          <subsection eId="245-055__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>All county employees must be paid their
+salaries as fixed by law, ordinance or resolution without diminution on account
+of any time spent away from county employment while acting as:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-055__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Volunteer firefighters of any regular
+organized and recognized fire department in the protection of life or property;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-055__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Volunteer ambulance drivers or attendants,
+ï¿½during
+working hours or fractions thereof which should otherwise have been devoted to
+county employment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-055__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½volunteer
+ambulance driver or attendantï¿½ means a person who is a driver of or attendant
+on an ambulance owned or operated by:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-055__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A nonprofit organization that provides
+volunteer ambulance service in any county, city or town in this State; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-055__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A political subdivision of this State.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+43; A1971,
+223;1997,
+468;2005,
+319)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-060">
+          <num>245.060</num>
+          <heading>Travel expenses: Reimbursement; per diem allowance.</heading>
+          <subsection eId="245-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, if a county or township officer or an employee of the county is
+entitled to receive reimbursement for his or her necessary traveling expenses
+for the transaction of public business, such reimbursement must include actual
+living expenses, but the amount allowed for traveling by private conveyance
+must not exceed the amount charged by public conveyance. Where it appears to
+the satisfaction of the board of county commissioners that travel by private
+conveyance is more economical, or where it appears that, owing to train,
+airplane or bus schedules or for other reasons, travel by public conveyance is
+impractical, or in case a part of the route traveled is not covered by public
+conveyance, the board of county commissioners, in its discretion, may allow for
+traveling by private conveyance an amount not to exceed the maximum per-mile
+allowance for travel by private conveyance established by the State Board of
+Examiners for state officers and employees generally.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The board of county commissioners of a
+county may provide, to any county or township officer or employee of the county
+who is required to travel for the transaction of public business for a period
+of not more than 5 consecutive working days at a time, a per diem allowance and
+travel expenses at the same rate as the comparable rate established for
+employees of the Federal Government by the Administrator of General Services
+pursuant to 5 U.S.C. ï¿½ 5707, excluding any federal requirement, restriction or other
+condition which is applicable to that comparable rate.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:16:1928; A1939,
+31;1953,
+69;1955,
+596]—(NRS A1965,
+238;1967,
+453;1969,
+1470;1973,
+1675;1997,
+1734;2007,
+601,2411)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-062">
+          <num>245.062</num>
+          <heading>Travel expenses: Adoption and contents of ordinance establishing
+procedures for payment; advance constitutes lien on wages.</heading>
+          <subsection eId="245-062__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board of county commissioners of a
+county shall, by ordinance, establish procedures for the payment of authorized
+travel expenses of county officers and employees arising out of their official
+duties or employment as provided inNRS
+245.060.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-062__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The ordinance must require that each
+department of the county set forth in its annual budget the maximum amount of
+money that it estimates will be necessary to pay for necessary travel expenses
+for the fiscal year. The ordinance may contain procedures by which the amount
+budgeted by a department during the fiscal year may be increased if the
+estimated amount of money is insufficient to pay for actual travel expenses.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-062__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The ordinance may authorize certain
+officers or employees to disburse money to pay an advance or claim for travel
+expenses to an employee without obtaining the approval of the board of county
+commissioners if the amount of such an advance or claim was included in the
+annual budget of the employing department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-062__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>All money advanced to a county officer
+or employee to pay for his or her travel expenses constitutes a lien in favor
+of the county upon the accrued wages of the officer or employee to whom the advance
+was made. The county may advance more money to an officer or employee than the
+amount of his or her currently accrued wages.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1961,
+202; A1973,
+1082;1979,
+521;1989,
+973;1997,
+1734)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-063">
+          <num>245.063</num>
+          <heading>Use of testing as factor in promotion of employees:
+Requirements; appeals; exception.</heading>
+          <subsection eId="245-063__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 4, notwithstanding the provisions of any collective bargaining
+agreement to the contrary, if a board of county commissioners, a county officer
+or any other person acting on behalf of a county includes testing as a factor
+in a decision regarding the vertical promotion of an employee:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-063__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The testing must be conducted by a third
+party which is independent from the board of county commissioners, county
+officer or other person acting on behalf of the county, as applicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-063__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A third party which conducts a test must send
+to each employee who takes the test a confidential electronic mail message
+which contains the employeeï¿½s test score. The third party must send an
+employeeï¿½s test score to the employee and the board of county commissioners,
+the county officer or other person acting on behalf of a county at the same
+time.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-063__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The board of county commissioners, county
+officer or other person acting on behalf of the county shall not produce a list
+of the employees who took the test, ranked in order of their test scores, until
+after the third party which conducted the test has sent each employee his or
+her test score pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-063__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-063__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An employee who is aggrieved by his or her
+test score may appeal the testing process.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-063__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>During the appeal process authorized by
+paragraph</p>
+            </content>
+            <paragraph eId="245-063__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of subsection 1:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-063__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The employee who appeals the testing process
+is entitled to see:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="245-063__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>How his or her test was graded; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="245-063__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The questions which the employee
+answered incorrectly.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="245-063__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The board of county commissioners, county
+officer or other person acting on behalf of the county, as applicable, shall
+ensure that the employee was ranked properly based on the employeeï¿½s test
+score.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-063__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person who tampers with the score of
+a test taken by an employee is guilty of a category E felony and shall be
+punished as provided inNRS 193.130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-063__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The provisions of this section do not
+apply to a county department that has less than 200 employees.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-063__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>As used in this section, ï¿½testï¿½ and
+ï¿½testingï¿½ includes, without limitation, a written test or oral board.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1706)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-065">
+          <num>245.065</num>
+          <heading>Public hearing for dismissed employee in certain counties.</heading>
+          <subsection eId="245-065__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When an employee of a county other than
+a department head, county manager or county administrator who has been employed
+by the county for 12 or more months is dismissed from employment the employee
+may request within 15 days of the date of dismissal a written statement
+specifically setting forth the reasons for the dismissal. Within 15 days of the
+date of the request the employee so dismissed shall be furnished the written
+statement. Within 30 days after receipt of the written statement, the dismissed
+employee may, in writing, request a public hearing before the board of county
+commissioners to determine the reasonableness of the action. The board of
+county commissioners shall grant the dismissed employee a public hearing within
+15 days after receipt of the written request. At the public hearing, technical
+rules of evidence do not apply.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-065__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Boards of county commissioners are
+authorized to enact ordinances necessary to make effective the purposes of this
+section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-065__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The provisions of this section do not
+apply in counties having a population of 100,000 or more.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+308; A1969,
+829,1545;1973,
+1139;1979,
+521)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-070">
+          <num>245.070</num>
+          <heading>County officers to contract only when authorized by
+commissioners.</heading>
+          <content>
+            <p>No county officer
+in any county in this State, except the board of county commissioners, shall
+contract for the payment or expenditure of any county moneys for any purpose
+whatever, or shall purchase any stores or materials, goods, wares or
+merchandise, or contract for any labor or service whatever, except the board of
+county commissioners, or a majority of it, shall order such officer to do the
+same.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:112:1887; C ï¿½ 2239; RL ï¿½ 1539; NCL ï¿½ 1975]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-075">
+          <num>245.075</num>
+          <heading>County officer not to be interested in certain contracts or
+purchases; penalties.</heading>
+          <subsection eId="245-075__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 281.230,281A.430and332.800, it is unlawful for any county
+officer, directly or indirectly, to be interested in any contract made by the
+county officer or to be a purchaser or interested in any purchase of a sale
+made by the county officer in the discharge of his or her official duties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-075__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any contract made in violation of this
+section may be declared void at the instance of the county interested or of any
+other person interested in the contract except the officer prohibited from
+making or being interested in the contract.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-075__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any person who violates this section is
+guilty of a gross misdemeanor and shall forfeit his or her office.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+1110; A1987,
+385;2003,
+891;2013,
+3785)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-110">
+          <num>245.110</num>
+          <heading>Nevada Ethics in Government Law inapplicable to certain
+transactions.</heading>
+          <content>
+            <p>The provisions of
+the Nevada Ethics in Government Law,chapter
+281Aof NRS, do not prohibit any county officer from purchasing the
+warrants of the State or of any other county, or to prevent any county officer
+from selling or transferring such warrants or scrip as the county officer may
+receive for his or her services, but none other.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 74:108:1866; B ï¿½ 2672; BH ï¿½ 1709; C ï¿½ 1855; RL
+ï¿½ 2826; NCL ï¿½ 4826]—(NRS A1975,
+932;1977,
+1103)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-120">
+          <num>245.120</num>
+          <heading>County officers may sell indebtedness for personal services
+rendered.</heading>
+          <content>
+            <p>All county officers
+referred to in any of the sections of this chapter shall have the right to sell
+or transfer any evidences of public indebtedness which may be issued according
+to law, for services rendered by them to the county, legally and justly due,
+and the provisions of this chapter shall not be deemed to prevent the purchase,
+sale or transfer of any funded public indebtedness whatever of the State, or
+any county, city or town corporation.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 99:108:1866; B ï¿½ 2697; BH ï¿½ 1734; C ï¿½ 1880; RL
+ï¿½ 2846; NCL ï¿½ 4846]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-125">
+          <num>245.125</num>
+          <heading>Deposit and payment of money not belonging to county or its
+officers or employees.</heading>
+          <subsection eId="245-125__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-125__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each county officer or employee who, in the
+officerï¿½s or employeeï¿½s official capacity, receives any money belonging to a
+person or other entity, other than the county or himself or herself, shall
+immediately deposit it with the county treasurer and obtain a receipt for it.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-125__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Money deposited in accordance with this
+subsection is not part of the public money of the county.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-125__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Money deposited with the county treasurer in
+accordance with this subsection must be paid to the owner upon the presentation
+of a certificate from the officer or employee who deposited the money,
+attesting that payment of the money is authorized by law and that the person or
+other entity requesting payment is the owner of the money and entitled to
+possession of it.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-125__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of subsection 1 do not
+apply:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-125__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In counties where ordinances establishing
+central receiving and disbursing systems have been enacted pursuant toNRS 244.207.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-125__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To money collected by a county assessor as
+agent for the Department of Motor Vehicles which must be remitted to the State
+at least weekly.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-125__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>To money directed by court order to be
+deposited with the clerk of the court.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-125__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>To amounts paid pursuant to a judicial or
+administrative order for the support of a child or of a spouse and child.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+1044; A1985,
+1982;1997,
+2335;2001,
+2592)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-130">
+          <num>245.130</num>
+          <heading>Resignations.</heading>
+          <content>
+            <p>Resignations
+of all county officers, except district judges, shall be made to the board of
+county commissioners of their respective counties.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 34:108:1866; B ï¿½ 2632; BH ï¿½ 1669; C ï¿½ 1815; RL
+ï¿½ 2798; NCL ï¿½ 4798]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-140">
+          <num>245.140</num>
+          <heading>Certification of cause of certain vacancies.</heading>
+          <content>
+            <p>Whenever a vacancy occurs in any county
+office, except in cases of resignation, the clerk of the board of county
+commissioners of the county where such officer exercised the duties of his or
+her office, if confined to a single county, and if not thus confined, then the
+clerk of the board of county commissioners, where such officer last resided,
+previous to the occurring of such vacancy, shall certify to the board of county
+commissioners the cause of such vacancy. If such vacancy occurs from the
+confirmed insanity of the incumbent, or from his or her conviction of a felony,
+or an offense involving a violation of his or her official bond or oath, the
+clerk of the board of county commissioners shall also accompany his or her
+certificate with a certified copy of a judgment found upon the commission of
+lunacy, or a certified copy of the record of conviction for such felony or
+offense, as the case may be.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 39:108:1866; B ï¿½ 2637; BH ï¿½ 1674; C ï¿½ 1820; RL
+ï¿½ 2803; NCL ï¿½ 4803]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-150">
+          <num>245.150</num>
+          <heading>Certification of vacancy to Secretary of State.</heading>
+          <content>
+            <p>Within 10 days after a vacancy has occurred in
+any county office, by resignation or otherwise, the clerk of the board of
+county commissioners shall certify the fact of such vacancy to the Secretary of
+State.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 31:108:1866; B ï¿½ 2629; BH ï¿½ 1666; C ï¿½ 1812; RL
+ï¿½ 2795; NCL ï¿½ 4795]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-160">
+          <num>245.160</num>
+          <heading>When commissioners declare an office vacant.</heading>
+          <content>
+            <p>The board of county commissioners shall
+declare vacant the office of every county officer, except the office of
+district judge, required by law to execute an official bond, whenever a final
+judgment shall be obtained against such officer for a breach of the conditions
+of such bond, or whenever such officer shall be finally convicted of a felony,
+or any offense involving a violation of the officerï¿½s official oath.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 38:108:1866; B ï¿½ 2636; BH ï¿½ 1673; C ï¿½ 1819; RL
+ï¿½ 2802; NCL ï¿½ 4802]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-170">
+          <num>245.170</num>
+          <heading>Vacancies: Appointment by board of county commissioners;
+placement of office or position on ballot under certain circumstances.</heading>
+          <subsection eId="245-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a vacancy is declared in any county
+or township office, except the offices of district judge and county
+commissioner:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-170__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Thirty days or more before the date of the
+close of filing of declarations of candidacy specified inNRS 293.177, and the office is not otherwise
+scheduled for election at the next ensuing biennial election:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="245-170__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The board of county commissioners
+shall appoint a suitable person who is an elector of the county to fill the
+vacancy until the first Monday of January after the next ensuing biennial election;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="245-170__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The office must be placed on the
+ballot at that election; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="245-170__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The person elected shall serve the
+remainder of the unexpired term.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="245-170__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>At any other time, the board of county
+commissioners shall appoint a suitable person who is an elector of the county
+to serve the remainder of the unexpired term.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a vacancy is declared in the
+position of a member of a town board appointed or elected pursuant to the
+provisions ofNRS 269.016to269.022, inclusive:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-170__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Thirty days or more before the date of the
+close of filing of declarations of candidacy specified inNRS 293.177, and the position is not
+otherwise scheduled for election at the next ensuing biennial election:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="245-170__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The board of county commissioners
+shall appoint a suitable person who is an elector of the unincorporated town to
+fill the vacancy until the first Monday of January after the next ensuing
+biennial election;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="245-170__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The position must be placed on the
+ballot at that election; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="245-170__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The person elected shall serve the
+remainder of the unexpired term.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="245-170__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>At any other time, the board of county
+commissioners shall appoint a suitable person who is an elector of the
+unincorporated town to serve the remainder of the unexpired term.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [19:80:1865; B ï¿½ 3087; BH ï¿½ 1959; C ï¿½ 2121; RL ï¿½
+1518; NCL ï¿½ 1951] + [49:108:1866; A1933,
+165;1939,
+146; 1931 NCL ï¿½ 4813]—(NRS A1977,
+54;1997,
+1291;2013,
+468)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-180">
+          <num>245.180</num>
+          <heading>Temporary appointments.</heading>
+          <subsection eId="245-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When, at any time, there shall be in
+the county offices, except the office of district judge, no officer duly
+authorized to execute the duties thereof, some suitable person may be
+temporarily appointed by the board of county commissioners to perform the
+duties of such offices, until they are filled by election or appointment, as
+provided by law. In case there is no board of county commissioners in such
+county, the Governor may, on notice of such vacancy, create or fill such board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any person so appointed, in pursuance
+of subsection 1, shall, before proceeding to execute the duties assigned the
+person, qualify in the same manner as required by law of the officer in whose
+place he or she shall be appointed; and he or she shall continue to exercise and
+perform the duties of the office to which he or she shall be so appointed until
+the election of his or her successor at the next ensuing biennial election, and
+the qualification of such successor thereafter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 41:108:1866; B ï¿½ 2639; BH ï¿½ 1676; C ï¿½ 1822; RL
+ï¿½ 2805; NCL ï¿½ 4805] + [Part 42:108:1866; B ï¿½ 2640; BH ï¿½ 1677; C ï¿½ 1823; RL ï¿½
+2806; NCL ï¿½ 4806]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-185">
+          <num>245.185</num>
+          <heading>Temporary limited appointments of certified persons with
+disabilities.</heading>
+          <subsection eId="245-185__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To assist persons with disabilities
+certified by the Rehabilitation Division of the Department of Employment,
+Training and Rehabilitation, the board of county commissioners of each county
+is encouraged and authorized to make temporary limited appointments of
+certified persons with disabilities for a period not to exceed 700 hours for
+each appointment notwithstanding that the positions so filled are permanent
+positions. A person with a disability who is certified by the Rehabilitation
+Division must be placed on the appropriate list for which the person is
+eligible.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-185__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each such person must possess the
+training and experience necessary for the position for which he or she is
+certified. The Rehabilitation Division must be notified of the request of the
+board of county commissioners for a list of eligibility on which the names of
+one or more certified persons with disabilities appear.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-185__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The board of county commissioners shall
+adopt regulations to carry out the provisions of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-185__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>This section does not prevent a county
+from employing:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-185__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person with a disability if the person is
+available and eligible for permanent employment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-185__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person with a disability who is employed
+pursuant to the provisions of this section in permanent employment if the
+person qualifies for permanent employment before the termination of his or her
+temporary limited appointment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-185__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If a person appointed pursuant to this
+section is appointed to a permanent position during or after the 700-hour
+period, the 700 hours or portion thereof must be included in calculating the
+employeeï¿½s probationary period.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+426; A1991,
+159;1993,
+471,1546;1995,
+522)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-200">
+          <num>245.200</num>
+          <heading>Leaves of absence for elected county officers.</heading>
+          <subsection eId="245-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board of county commissioners in
+any county is authorized and empowered to grant leave of absence to any county
+officer, authorized to appoint a deputy, for a period not exceeding 6 months,
+if in the discretion of the board such a course appears proper.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The officer desiring leave of absence
+shall first make application in writing to the board of county commissioners
+for such leave, and a copy of the application shall be published in some
+newspaper of the county at least 1 month previous to the granting of such
+leave. If there be no newspaper published in the county, copies of the
+application shall be posted in at least three public places in the county.
+Publication or posting shall be at the expense of the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The application shall contain the name
+of a competent deputy who is to be appointed by the officer applying for leave
+of absence, and who shall serve without expense to the county.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:95:1893; C ï¿½ 2151; RL ï¿½ 1566; NCL ï¿½ 2047] +
+[2:95:1893; C ï¿½ 2152; RL ï¿½ 1567; NCL ï¿½ 2048] + [3:95:1893; C ï¿½ 2153; RL ï¿½ 1568;
+NCL ï¿½ 2049]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-210">
+          <num>245.210</num>
+          <heading>Annual and other leave for county officers and employees;
+contents of ordinance or agreement.</heading>
+          <subsection eId="245-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board of county commissioners of
+each of the several counties shall, by ordinance or agreement pursuant tochapter 288of NRS, provide for annual, sick and
+disability leave for elected and appointed county officers and county
+employees. The provisions of such an ordinance or agreement may be more
+restrictive but not more extensive than the provisions set forth in this
+section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The ordinance or agreement must include
+provisions in substance as follows:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-210__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A provision that all elected and appointed
+officers and employees are entitled to annual leave with pay of 1 1/4 working
+days for each month of service, which may be cumulative from year to year not
+to exceed 30 working days.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-210__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A provision that the board of county
+commissioners may by order provide for additional annual leave for long-term
+appointed officers and employees and for prorated annual leave for part-time
+employees.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-210__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A provision that if an appointed officer or
+employee dies and was entitled to accumulated annual leave under the provisions
+of the ordinance, the heirs of the deceased officer or employee who are given
+priority to succeed to his or her assets under the laws of intestate succession
+of this State, or the executor or administrator of his or her estate, upon
+submitting satisfactory proof to the board of county commissioners of their
+entitlement, are entitled to be paid an amount of money equal to the number of
+days earned or accrued annual leave multiplied by the daily salary or wages of
+the deceased officer or employee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-210__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A provision that an elected county officer
+must not be paid for accumulated annual leave upon termination of the officerï¿½s
+service.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-210__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A provision that during the first 6 months of
+employment of any appointed officer or employee, annual leave accrues as
+provided in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-210__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>, but annual leave must not be taken during this
+period.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-210__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A provision that an appointed officer or
+employee must not be paid for accumulated annual leave upon termination of
+employment unless he or she has been employed for 6 months or more.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-210__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A provision that all elected and appointed
+officers and employees are entitled to sick and disability leave with pay of 1
+1/4 working days for each month of service, which may be cumulative from year
+to year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-210__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>A provision that the board of county
+commissioners may by order provide for additional sick and disability leave for
+long-term employees and for prorated sick and disability leave for part-time
+employees.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-210__subsec_2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A provision that any appointed officer or
+employee may be granted a leave of absence without pay.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Such an ordinance or agreement may
+include a provision that upon termination of employment, retirement or death
+all elected and appointed officers and employees are entitled to payment for
+their unused sick leave at their rate of salary at the time of termination,
+retirement or death.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-210__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Such an ordinance or agreement may
+include a provision that elected and appointed county officers and employees
+may donate portions of their accumulated annual and sick leave to other elected
+and appointed county officers and employees. If such a provision is adopted,
+donated time must be converted into money at the hourly rate of salary of the
+donor and the money must be converted into sick leave at the hourly rate of
+salary of the recipient.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:141:1951]—(NRS A1963,
+50;1975,
+1127;1977,
+809;1979,
+352;1993,
+2087)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-211">
+          <num>245.211</num>
+          <heading>Pension or insurance for peace officers and firefighters who are
+disabled.</heading>
+          <subsection eId="245-211__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board of county commissioners of
+any county may establish, by contract or otherwise, and administer a disability
+pension plan or disability insurance program for the benefit of the county
+sheriff, any sheriffï¿½s deputy or firefighter who is disabled, to any degree, by
+an injury arising out of and in the course of his or her employment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-211__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The board of county commissioners may
+adopt ordinances, rules, regulations, policies and procedures necessary to
+establish and administer the plan or program specified in subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-211__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a county elects to consider
+implementation of a plan or program specified in subsection 1, or to change the
+benefits provided by an existing plan or program, the persons affected by the
+proposed plan or program, or proposed change, may negotiate with the county
+concerning the nature and extent of such plan, program or change.Chapter 288of NRS applies to negotiations for
+this purpose.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-211__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The plan or program authorized by this
+section must be supplemental or in addition to and not in conflict with the
+coverage, compensation, benefits or procedure established by or adopted
+pursuant tochapters 616Ato616D, inclusive, or chapter617of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-211__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The benefits provided for in this
+section are supplemental to other benefits an employee is entitled to receive
+on account of the same disability. In no event may the benefits provided for in
+this section, when added to benefits provided for or purchased by the
+expenditure of public money, exceed the maximum amount of benefits an employee
+is entitled to receive if the employee has been a member of the department or
+agency for 10 years or more.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+1298; A1999,
+232;2005,
+320)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-213">
+          <num>245.213</num>
+          <heading>Establishment of merit system.</heading>
+          <subsection eId="245-213__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In each county having a population of
+100,000 or more the board of county commissioners shall by ordinance establish
+a merit personnel system for all employees of the county except those exempted
+under the provisions ofNRS 245.213to245.216, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-213__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In each county having a population of
+less than 100,000 the board of county commissioners may by ordinance establish
+a merit personnel system for all employees of the county except those exempted
+under the provisions ofNRS 245.213to245.216, inclusive.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+827; A1969,
+1545;1973,
+1139;1979,
+339,521,1331)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-214">
+          <num>245.214</num>
+          <heading>Administration by board of county commissioners.</heading>
+          <content>
+            <p>The board of county commissioners shall
+administer the provisions ofNRS 245.213to245.216, inclusive, through the
+promulgation of appropriate rules and regulations and the employment of
+clerical and administrative staff.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+828)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-215">
+          <num>245.215</num>
+          <heading>Regulations: Required provisions.</heading>
+          <subsection eId="245-215__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board of county commissioners shall
+adopt regulations for any merit personnel system established pursuant to the
+provisions ofNRS 245.213to245.216, inclusive. The regulations must
+provide:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="245-215__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the classification of all county
+positions, not exempt from the merit personnel system, based on the duties,
+authority and responsibility of each position, with adequate provision for
+reclassification of any position whatsoever whenever warranted by changed
+circumstances.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-215__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A pay plan for all county employees,
+including exempt employees other than elected officers that are covered in
+other provisions of NRS or by special legislative act.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-215__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Policies and procedures for regulating
+reduction in force and the removal of employees.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-215__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Hours of work, attendance regulations and
+provisions for sick and vacation leave.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-215__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Policies and procedures governing persons
+holding temporary or provisional appointments.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-215__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Policies and procedures governing
+relationships with employees and employee organizations.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-215__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Policies concerning employee training and
+development.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-215__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Grievance procedures.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245-215__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Other policies and procedures necessary for
+the administration of a merit personnel system.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245-215__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Regulations adopted pursuant to this
+section for a merit personnel system established by a board of county
+commissioners pursuant to subsection 2 ofNRS
+245.213must not exempt any employees other than those who are specifically
+exempted from such a merit personnel system pursuant toNRS 245.216.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-215__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In the event of a conflict between the
+policies and procedures adopted pursuant to this section and the provisions of
+a collective bargaining agreement entered into pursuant tochapter 288of NRS, the provisions of the
+agreement prevail.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+828; A1979,
+339;1997,
+272)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_245-216">
+          <num>245.216</num>
+          <heading>Personnel exempted from merit system.</heading>
+          <subsection eId="245-216__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>All department heads appointed and
+elected and the county administrator or county manager of the county.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-216__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A number of employees in each
+department excluding the department head as designated by the department head,
+which shall not exceed 3 percent of the permanently established positions as
+authorized by the board of county commissioners.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="245-216__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>All persons holding temporary or
+provisional appointments, the duration of which does not exceed 6 months.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+828; A1973,
+1140)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

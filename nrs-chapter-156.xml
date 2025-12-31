@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-156"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-156"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="156"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-156/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-156/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-156/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-156/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_156">
+        <num>156</num>
+        <heading>ADMINISTRATION OF ESTATES OF</heading>
+        <section eId="sec_156-010">
+          <num>156.010</num>
+          <heading>Presentment of petition for appointment of trustee; filing;
+appointment of day for hearing.</heading>
+          <content>
+            <p>If
+any resident of this State, who owns or is entitled to the possession of any
+real or personal property situate therein, is missing, or the residentï¿½s
+whereabouts is unknown, for 90 days or more, and a petition is presented to the
+district court of the county in which his or her last known residence was
+located by any member of the residentï¿½s family or any friend, representing that
+his or her whereabouts has been, for such time, and still is, unknown, and that
+his or her estate requires attention, supervision and care of ownership, the
+court shall order such petition to be filed, and appoint a day for its hearing,
+not less than 10 days from the date of the order.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+504; A2001,
+168)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-020">
+          <num>156.020</num>
+          <heading>Notice of hearing: Publication by clerk; court may direct
+further notice.</heading>
+          <content>
+            <p>The clerk of the
+court shall thereupon cause a notice to be published in some daily or weekly
+newspaper published in the county, at least 10 days prior to such hearing, stating
+that such petition will be heard at the courtroom of the court at the time
+appointed for the hearing. The court may direct further notice of the
+application to be given in such manner and to such persons as it may deem
+proper.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+505)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-030">
+          <num>156.030</num>
+          <heading>Hearing; appointment of trustee.</heading>
+          <content>
+            <p>The
+court shall hear the evidence offered in support of or in opposition to the
+petition, and, if satisfied that the allegations thereof are true, and that
+such person remains missing, and his or her whereabouts unknown, it shall
+appoint some suitable person as trustee to take charge and possession of such
+estate and manage and control it under the direction of the court.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+505)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-040">
+          <num>156.040</num>
+          <heading>Who may be appointed trustee.</heading>
+          <content>
+            <p>In
+appointing such trustee, the court shall prefer the spouse of the missing
+person, or the spouseï¿½s nominee, and, in the absence of a spouse, some relative
+of the missing person.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+505; A1979,
+143)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-050">
+          <num>156.050</num>
+          <heading>Bond of trustee.</heading>
+          <content>
+            <p>Every
+trustee appointed underNRS 156.010to156.110, inclusive, shall give a bond in an
+amount to be fixed by the court.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+505)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-060">
+          <num>156.060</num>
+          <heading>Trusteeï¿½s powers and duties; payments for family expenses or
+support.</heading>
+          <subsection eId="156-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The trustee shall take possession of
+the real and personal estate in this State of such missing person, and collect
+and receive the rents, income and proceeds thereof, collect all indebtedness
+owing to him or her, and pay such indebtedness of the missing person as may be
+authorized by the court.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="156-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The court may direct the trustee to pay
+to the family of the missing person such sums of money for family expenses and
+support from the income and principal of the estate as it may, from time to
+time, determine.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+505)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-070">
+          <num>156.070</num>
+          <heading>Accountings by trustee; removal and appointment of another
+trustee.</heading>
+          <content>
+            <p>The trustee shall, when
+directed by the court, account to it for all his or her acts as trustee, and
+the court may, from time to time, upon good cause shown, remove any trustee,
+and appoint another in his or her place.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+505)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-080">
+          <num>156.080</num>
+          <heading>Sale or mortgage of property: Filing of petition by trustee;
+notice of hearing.</heading>
+          <subsection eId="156-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The trustee may sell any of the
+personal property or sell, mortgage or give a deed of trust upon any of the
+real property of the missing person when the court considers such an action to
+be in the best interest of the estate and all parties concerned, including
+devisees and those who would be, in case of the death of the missing person,
+the heirs at law. For that purpose, the trustee may file a petition with the
+court asking for an order authorizing such a sale, mortgage or deed of trust.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="156-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The clerk shall set the petition for
+hearing and give notice of the hearing, in the manner prescribed inNRS 155.010, to the persons described in
+that section and to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="156-080__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each of the persons who would be heirs at law
+of the missing person if the missing person were dead; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="156-080__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If it appears that the missing person left a
+will, each devisee mentioned therein.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="156-080__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the address of any such person is
+unknown, the notice must be mailed by registered or certified mail to that
+person at the county seat of the county in which the court is held, and the
+trustee shall file his or her affidavit showing that the address is unknown and
+stating what efforts the trustee has made to learn the address.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+505; A1969,
+95;1983,
+670;2001,
+168)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-090">
+          <num>156.090</num>
+          <heading>Sale or mortgage of property: Hearing; order for sale or
+mortgage; limitations and procedure.</heading>
+          <content>
+            <p>Proof
+shall be offered at the hearing provided for inNRS 156.080showing the reasons for making
+the sale, mortgage or deed of trust. If the court finds that it will be for the
+best interests of all persons concerned in the estate of the missing person to
+make such sale, mortgage or deed of trust, it shall order the trustee to
+proceed therewith in the manner provided in this title for the sales, mortgages
+and deeds of trusts of deceased persons. No such sale, mortgage or deed of
+trust may take place prior to the expiration of 8 months from the date of the
+appointment and qualification of the trustee.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+506)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-100">
+          <num>156.100</num>
+          <heading>Accounting if missing person returns.</heading>
+          <content>
+            <p>If
+the missing person returns, the court, upon application of such person, or upon
+its own motion, shall require the trustee to render and file a verified account
+of the administration of the trust. The provisions of this title relating to
+accounting by executors and administrators of estates of deceased persons shall
+apply to such accounting.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+506)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-110">
+          <num>156.110</num>
+          <heading>Settlement of account on return of missing person; order
+requiring delivery of property.</heading>
+          <content>
+            <p>Upon
+settling the account of the trustee, the court shall order the property of the
+missing person remaining in the hands of the trustee to be delivered to the
+owner thereof.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+506)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-120">
+          <num>156.120</num>
+          <heading>Person deemed missing after 3 years; administration of property;
+procedure.</heading>
+          <content>
+            <p>If any person owning
+property in this State has been absent from his or her last known place of
+residence for a continuous period of 3 years, with his or her whereabouts for
+that period unknown to the persons most likely to know thereof, he or she shall
+be deemed to be a missing person, and all property of the person in this State
+may be administered, as though he or she were deceased, in the same manner
+provided in this title for the administration of estates of deceased persons,
+subject to the conditions, restrictions and limitations prescribed inNRS 156.120to156.260, inclusive.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+506; A1991,
+965)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-130">
+          <num>156.130</num>
+          <heading>Jurisdiction of proceedings; residence of absentee; entitlement
+of proceedings.</heading>
+          <subsection eId="156-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If such person was a resident of this
+State at the time of his or her disappearance, the district court of the county
+in which that residence was located shall have jurisdiction of all proceedings
+initiated underNRS 156.120to156.260, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="156-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If such person was a nonresident of
+this State, the district court in any county where any real property of the
+missing person is located, or of the county where any personal property is
+located, if there is no real property in the State, shall have jurisdiction in
+such proceedings.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="156-130__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The title of all proceedings commenced
+and prosecuted underNRS 156.120to156.260, inclusive, shall be entitled ï¿½In
+the matter of the estate of ................, a missing person.ï¿½</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+506; A1991,
+965)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-140">
+          <num>156.140</num>
+          <heading>Petition for administration or probate; contents and
+verification of petition; appointment of day for hearing.</heading>
+          <subsection eId="156-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a petition is presented to the court
+having jurisdiction, as provided inNRS
+156.130, by a missing personï¿½s spouse or any of the missing personï¿½s family
+or friends, representing that the missing personï¿½s whereabouts has been for the
+required period and still is unknown and that the missing person left an estate
+which requires administration, the clerk of the court shall appoint a day for
+hearing the petition, not less than 3 months from the date of filing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="156-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The petition may be for administration
+of the estate or probate of the will of the missing person, as the case may be,
+and must be verified to the best knowledge and belief of the petitioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="156-140__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The petition must set forth a statement
+of facts as required in the case of administration of estates of deceased
+persons and must contain allegations as to the last known place of residence of
+the missing person, when the missing person disappeared therefrom, the fact
+that the missing person has not been heard from by the person most likely to
+hear, naming the person and his or her relationship, for a period of 3 years or
+more, and the fact that the missing personï¿½s whereabouts is unknown to the
+person and the petitioner.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+506; A1991,
+965;2001,
+168)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-150">
+          <num>156.150</num>
+          <heading>Manner of giving notice of hearing.</heading>
+          <content>
+            <p>Notice
+of hearing the petition for administration of the estate or probate of the will
+of the missing person shall be given in the manner provided in this title for
+giving notice of hearing in the administration of estates of deceased persons,
+and notice shall be mailed by registered or certified mail to the last known
+address of the missing person, and proof by affidavit of such notices shall be
+filed prior to or at the hearing.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+507; A1969,
+95)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-160">
+          <num>156.160</num>
+          <heading>Hearing; appointment of administrator or executor; time fixed
+when person became missing; finding concerning death.</heading>
+          <subsection eId="156-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The court shall hear all evidence in
+support of or in opposition to the petition provided for inNRS 156.140, and, if satisfied that the
+allegations thereof are true, and that the missing person has remained missing
+for a continuous period of 3 years or more and that his or her whereabouts is
+unknown, shall appoint some qualified person as administrator or executor in
+the manner provided in this title for the estates of deceased persons.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="156-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the court grants the order, it
+shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="156-160__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Fix and determine the time when the person
+left his or her last place of residence and abode and became missing and that
+the personï¿½s whereabouts has not been known continuously for a period of at
+least 3 years; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="156-160__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Make a finding stating the fact and date of
+death.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="156-160__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>At the hearing the court may consider
+the testimony of any witnesses likely to know the last place of residence and
+whereabouts of the missing person, and may receive in evidence and consider the
+affidavits and depositions of other competent persons.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+507; A1991,
+965)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-170">
+          <num>156.170</num>
+          <heading>No sale, mortgage or distribution of property for 1 year;
+exceptions.</heading>
+          <content>
+            <p>Except for the
+purposes of paying taxes, assessments, liens, insurance premiums, allowing
+claims for debts contracted by the missing person before his or her
+disappearance or to prevent the depreciation of property on account of neglect
+or waste, or to specifically perform contracts made by the missing person
+before his or her disappearance, no sale, mortgage or other disposition or
+distribution of the property of such person shall be made until the lapse of 1
+year after the appointment and qualification of the executor or administrator.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+507)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-180">
+          <num>156.180</num>
+          <heading>Distribution of property to heirs and devisees: Time; bond of
+distributee; conditions.</heading>
+          <content>
+            <p>No
+distribution of the property of the missing person to the heirs or devisees of
+the missing person may be made until the lapse of 1 year after the appointment
+and qualification of the executor or administrator, unless the distributee
+gives a bond in a penal sum not less than the value of the property distributed
+and for such additional amount as the court prescribes, conditioned for the
+return of the property or the value thereof to the personal representative of
+the estate in case the missing person be adjudicated to be still living since
+the commencement of the 3-year period, and also conditioned to save the
+personal representative of the estate harmless from the damages and expenses of
+all suits brought by the missing person or anyone succeeding to the rights of the
+missing person, by reason of the distribution during the period of 1 year.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+507; A1991,
+966;2001,
+168)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-190">
+          <num>156.190</num>
+          <heading>Petition of person claiming to be missing person: Contents;
+service; security for costs; trial of issue of identity.</heading>
+          <subsection eId="156-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If any person, within 1 year after the
+appointment and qualification of a personal representative, files a petition,
+claiming to be the missing person, and causes a copy of the petition to be
+served personally or by registered or certified mail upon the personal
+representative and upon each of the persons entitled to share in the estate of
+the missing person upon the death of the missing person, and the devisees, the
+court shall determine the identity of the claimant at a hearing for that
+purpose.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="156-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The court may, upon application or of
+its own motion, require the claimant to give security to be approved by the
+court for all costs and expenses involved in the hearing and ultimate
+determination of the action, in case the outcome of the hearing be adverse to
+the claimant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="156-190__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The petition must set forth the facts
+and circumstances of the claimantï¿½s disappearance and continued absence, and
+other facts and circumstances upon which the claimant relies for his or her
+identification.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+508; A1969,
+95;1991,
+966;2001,
+168)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-200">
+          <num>156.200</num>
+          <heading>Order vacating proceedings; exceptions; delivery of residue to
+claimant.</heading>
+          <content>
+            <p>If the court determines
+that the claimant is the missing person, an order shall be made vacating all of
+the proceedings for administration, except those providing for the payment of
+taxes, assessments, liens, insurance premiums, allowed claims, the specific
+performance of contracts, preservation of the property, and any sale,
+encumbrance or other disposition of the property made in compliance with an
+order of the court. The remainder of the estate, less fees, costs and expenses
+incurred, shall be surrendered and delivered to the claimant.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+508)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-210">
+          <num>156.210</num>
+          <heading>Petition claiming death of missing person: Service; security for
+costs; trial of issue; order.</heading>
+          <subsection eId="156-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If any other person within 1 year after
+the appointment and qualification of the representative files a petition
+claiming that the missing person died subsequent to the commencement of the
+3-year period provided herein, and the petitioner is entitled to the property
+in the estate, or any portion thereof, as successor in interest to the rights
+of the missing person, and if the petitioner causes a copy of the petition to
+be served personally or by registered or certified mail upon the personal
+representative of the estate and upon each of the heirs and devisees, the court
+shall determine the truth of the facts contained in the petition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="156-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The court may, upon application or on
+its own motion, require the claimant to give security to be approved by the
+court for all costs and expenses involved in the hearing and determination of
+the truth of the facts contained in the petition, in case the hearing is decided
+adverse to the claimant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="156-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the hearing is decided in favor of
+the claimant, the court shall make and enter such order as the circumstances
+require.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+508; A1969,
+95;1991,
+966;2001,
+168)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-220">
+          <num>156.220</num>
+          <heading>Final distribution; conclusive presumption of death.</heading>
+          <subsection eId="156-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If no claims are made during the 1-year
+period by any person claiming to be the missing person or a person claiming to
+have succeeded to the rights of that person, a conclusive presumption arises that
+the missing person died before the filing of the petition for the
+administration of the estate of the missing person or the probate of his or her
+will.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="156-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In such event, the estate must be
+finally distributed accordingly, so far as the same has not already been
+accomplished, and the court shall order the estate closed and all liability of
+sureties, the personal representative and the distributees ended, and all bonds
+cancelled.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+508; A1991,
+967;2001,
+168)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-230">
+          <num>156.230</num>
+          <heading>Distribution without bond if absence exceeds 5 years.</heading>
+          <content>
+            <p>If the petition provided inNRS 156.140is filed more than 5 years
+after the disappearance of the missing person, the estate of the person may be
+finally distributed and closed at the end of 1 year after the filing of the
+petition, without a bond being given.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+509; A1991,
+967)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-240">
+          <num>156.240</num>
+          <heading>Limitation of actions.</heading>
+          <content>
+            <p>No
+claims against the estate of a missing person, or against the personal
+representative of the estate or any surety or distributee may be brought by any
+person, including the missing person and persons claiming under him or her,
+after the expiration of 5 years from the date of disappearance as determined in
+the manner provided inNRS 156.160.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+509; A1991,
+967;2001,
+168)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-250">
+          <num>156.250</num>
+          <heading>Powers and duties of administrators and executors.</heading>
+          <content>
+            <p>The administrator or executor to whom letters
+have been issued as provided inNRS 156.120to156.260, inclusive, shall administer
+and distribute the estate of the missing person in the same manner and method
+and with the same force and effect as provided in this title for the
+administration and settlement of estates of deceased persons, except as
+otherwise provided inNRS 156.120to156.260, inclusive.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+509)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_156-260">
+          <num>156.260</num>
+          <heading>Applicability ofNRS 156.120to156.260,
+inclusive.</heading>
+          <content>
+            <p>The provisions ofNRS 156.120to156.260, inclusive, apply to all missing
+persons, whether their absence commenced prior to March 30, 1959, is still
+continuing, or commences subsequent to March 30, 1959.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+509)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

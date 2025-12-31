@@ -1,0 +1,3846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-441A"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-441A"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="441A"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-441A/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-441A/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-441A/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-441A/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_441A">
+        <num>441A</num>
+        <heading>INFECTIOUS DISEASES;</heading>
+        <section eId="sec_441A-010">
+          <num>441A.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 441A.020to441A.115, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+294; A2003,
+2206;2009,
+557)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-020">
+          <num>441A.020</num>
+          <heading>ï¿½Boardï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Boardï¿½
+means the State Board of Health.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+294)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-030">
+          <num>441A.030</num>
+          <heading>ï¿½Child care facilityï¿½ defined.</heading>
+          <subsection eId="441A-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Child care facilityï¿½ means:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-030__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An establishment operated and maintained for
+the purpose of furnishing care on a temporary or permanent basis, during the
+day or overnight, to five or more children under 18 years of age, if
+compensation is received for the care of any of those children;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-030__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An on-site child care facility as defined inNRS 432A.0275;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-030__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A child care institution as defined inNRS 432A.0245; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-030__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An outdoor youth program as defined inNRS 432A.028.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½Child care facilityï¿½ does not include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-030__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The home of a natural parent or guardian,
+foster home as defined inNRS 424.014or
+maternity home;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-030__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A home in which the only children received,
+cared for and maintained are related within the third degree of consanguinity
+or affinity by blood, adoption or marriage to the person operating the
+facility; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-030__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A home in which a person provides care for
+the children of a friend or neighbor for not more than 4 weeks if the person
+who provides the care does not regularly engage in that activity.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+294; A1991,
+2310;2011,
+1998)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-040">
+          <num>441A.040</num>
+          <heading>ï¿½Communicable diseaseï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Communicable
+diseaseï¿½ means a disease which is caused by a specific infectious agent or its
+toxic products, and which can be transmitted, either directly or indirectly,
+from a reservoir of infectious agents to a susceptible host organism.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+294)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-050">
+          <num>441A.050</num>
+          <heading>ï¿½Health authorityï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Health
+authorityï¿½ means the district health officer in a district, or the district
+health officerï¿½s designee, or, if none, the Chief Medical Officer, or the Chief
+Medical Officerï¿½s designee.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+294)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-063">
+          <num>441A.063</num>
+          <heading>ï¿½Infectious diseaseï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Infectious
+diseaseï¿½ means a disease which is caused by pathogenic microorganisms,
+including, without limitation, bacteria, viruses, parasites or fungi, which
+spread, either directly or indirectly, from one person to another. The term
+includes a communicable disease.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+554)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-065">
+          <num>441A.065</num>
+          <heading>ï¿½Isolationï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Isolationï¿½
+means the physical separation and confinement of a person or a group of persons
+infected or reasonably believed by a health authority to be infected with a
+communicable disease from persons who are not infected with and have not been
+exposed to the communicable disease, to limit the transmission of the
+communicable disease to persons who are not infected with and have not been
+exposed to the communicable disease.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2196)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-070">
+          <num>441A.070</num>
+          <heading>ï¿½Laboratory directorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Laboratory
+directorï¿½ has the meaning ascribed to it inNRS
+652.050.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+294)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-080">
+          <num>441A.080</num>
+          <heading>ï¿½Medical facilityï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Medical
+facilityï¿½ has the meaning ascribed to it inNRS
+449.0151.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+294)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-090">
+          <num>441A.090</num>
+          <heading>ï¿½Medical laboratoryï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Medical
+laboratoryï¿½ has the meaning ascribed to it inNRS
+652.060.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+294)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-100">
+          <num>441A.100</num>
+          <heading>ï¿½Physicianï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Physicianï¿½
+is limited to a person licensed to practice medicine pursuant tochapter 630or633of NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+294)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-110">
+          <num>441A.110</num>
+          <heading>ï¿½Provider of health careï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Provider
+of health careï¿½ means a physician, nurse, anesthesiologist assistant or
+veterinarian licensed in accordance with state law, a physician assistant
+licensed pursuant tochapter 630or633of NRS or a pharmacist registered pursuant tochapter 639of NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+294; A2001,
+781;2007,
+1856;2021,
+1663;2023,
+1595)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-115">
+          <num>441A.115</num>
+          <heading>ï¿½Quarantineï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Quarantineï¿½
+means the physical separation and confinement of a person or a group of persons
+exposed to or reasonably believed by a health authority to have been exposed to
+a communicable disease who do not yet show any signs or symptoms of being
+infected with the communicable disease from persons who are not infected with
+and have not been exposed to the communicable disease, to limit the
+transmission of the communicable disease to persons who are not infected with
+and have not been exposed to the communicable disease.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2196)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-118">
+          <num>441A.118</num>
+          <heading>Legislative findings and declaration.</heading>
+          <content>
+            <p>The
+Legislature hereby finds and declares that the spread of communicable diseases
+is best addressed through public health measures rather than criminalization.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3183)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-120">
+          <num>441A.120</num>
+          <heading>Regulations of State Board of Health governing control of
+communicable diseases and reporting cases or suspected cases of drug overdose
+or attempted suicide; performance of duties set forth in regulations.</heading>
+          <subsection eId="441A-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall adopt regulations
+governing the control of communicable diseases in this State, including
+regulations specifically relating to the control of such diseases in
+educational, medical and correctional institutions. The regulations must
+specify:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-120__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The diseases which are known to be
+communicable, which must include, without limitation, syphilis.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-120__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The communicable diseases which are known to
+be sexually transmitted.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-120__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The procedures for investigating and
+reporting cases or suspected cases of communicable diseases, including the time
+within which these actions must be taken.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-120__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For each communicable disease, the procedures
+for testing, treating, isolating and quarantining a person or group of persons
+who have been exposed to or have or are suspected of having the disease.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-120__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A method for ensuring that any testing,
+treatment, isolation or quarantine of a person or a group of persons pursuant
+to this chapter is carried out in the least restrictive manner or environment
+that is appropriate and acceptable under current medical and public health practices.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall adopt regulations
+governing the procedures for reporting cases or suspected cases of drug
+overdose and attempted suicide to the Chief Medical Officer or his or her
+designee, including, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-120__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The time within which such reports must be
+made and the information that such reports must include.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-120__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The providers of health care who are required
+to report a case or suspected case of attempted suicide.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The duties set forth in the regulations
+adopted by the Board pursuant to subsection 1 must be performed by:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-120__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In a district in which there is a district
+health officer, the district health officer or the district health officerï¿½s
+designee; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-120__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In any other area of the State, the Chief
+Medical Officer or the Chief Medical Officerï¿½s designee.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+294; A2003,
+2206;2011,
+2506;2017,
+4401;2021,
+864,2570)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-125">
+          <num>441A.125</num>
+          <heading>Use of syndromic reporting and active surveillance to monitor
+public health; regulations.</heading>
+          <subsection eId="441A-125__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall develop a system which
+provides for syndromic reporting and active surveillance to monitor public
+health in this state during major events or when determined appropriate and
+necessary by a health authority.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-125__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall adopt regulations
+concerning the system it develops pursuant to this section, including, without
+limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-125__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The manner in which and situations during which
+the system actively gathers information;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-125__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The persons who are required to report
+information to the system; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-125__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The procedures for reporting required
+information to the system.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2205)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-130">
+          <num>441A.130</num>
+          <heading>Chief Medical Officer to inform local health officers of
+regulations and procedures.</heading>
+          <content>
+            <p>The
+Chief Medical Officer shall inform each local health officer of the regulations
+adopted by the Board and the procedures established for investigating and
+reporting cases or suspected cases of infectious diseases and cases or
+suspected cases of exposure to biological, radiological or chemical agents pursuant
+to this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+295; A2009,
+557)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-140">
+          <num>441A.140</num>
+          <heading>Authority of Division of Public and Behavioral Health to receive
+and use financial aid.</heading>
+          <content>
+            <p>The
+Division of Public and Behavioral Health of the Department of Health and Human
+Services may receive any financial aid made available by any grant or other
+source and shall use the aid, in cooperation with the health authority, to
+carry out the provisions of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+299; A2013,
+3047)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-150">
+          <num>441A.150</num>
+          <heading>Reporting occurrences of communicable diseases to health
+authority; reporting cases or suspected cases of drug overdose or attempted
+suicide to Chief Medical Officer.</heading>
+          <subsection eId="441A-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A provider of health care who knows of,
+or provides services to, a person who has or is suspected of having a
+communicable disease shall report that fact to the health authority in the
+manner prescribed by the regulations of the Board. If no provider of health
+care is providing services, each person having knowledge that another person
+has a communicable disease shall report that fact to the health authority in
+the manner prescribed by the regulations of the Board. A report of a pregnant
+woman who has or is suspected of having syphilis must include, without
+limitation, the fact that the case occurred in a pregnant woman and:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-150__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If treatment was provided, the type of
+treatment that was provided; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-150__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the pregnant woman refused treatment, the
+fact that the pregnant woman refused treatment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A provider of health care who knows of,
+or provides services to, a person who has suffered or is suspected of having
+suffered a drug overdose shall report that fact and the information required by
+the Board pursuant toNRS 441A.120to
+the Chief Medical Officer or his or her designee in the manner prescribed by
+the regulations of the Board. The Chief Medical Officer or his or her designee
+shall upload that information to the database of the program established
+pursuant toNRS 453.162if the program
+allows for the upload of such information.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-150__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection, a provider of health care who is required by the regulations
+adopted pursuant toNRS 441A.120to
+report a case or suspected case of attempted suicide and knows of, or provides
+services to, a person who has attempted suicide or is suspected of having
+attempted suicide shall report that fact and the information required by the
+Board pursuant toNRS 441A.120to the
+Chief Medical Officer or his or her designee in the manner prescribed by the
+regulations of the Board. If such a provider of health care provides services
+at a medical facility, the medical facility may submit the report on behalf of
+the provider. The Chief Medical Officer shall annually compile and submit to
+the Patient Protection Commission created byNRS
+439.908a report summarizing the information reported pursuant to this
+subsection.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-150__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A medical facility in which more than
+one provider of health care may know of, or provide services to, a person who
+has or is suspected of having a communicable disease, who has suffered or is
+suspected of having suffered a drug overdose or who has attempted suicide or is
+suspected of having attempted suicide shall establish administrative procedures
+to ensure that the health authority or Chief Medical Officer or his or her
+designee, as applicable, is notified.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-150__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A laboratory director shall, in the manner
+prescribed by the Board, notify the health authority of the identification by
+his or her medical laboratory of the presence of any communicable disease in
+the jurisdiction of that health authority. The health authority shall not
+presume a diagnosis of a communicable disease on the basis of the notification
+received from the laboratory director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-150__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>If more than one medical laboratory is
+involved in testing a specimen, the laboratory that is responsible for
+reporting the results of the testing directly to the provider of health care
+for the patient shall also be responsible for reporting to the health
+authority.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+295; A2017,
+4401;2019,
+166;2021,
+864,2571)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-160">
+          <num>441A.160</num>
+          <heading>Investigation: Powers of health authority to conduct
+investigation of communicable disease; order to require person to submit to
+examination; order of isolation, quarantine or treatment; regulations
+concerning appeal of order to submit to examination or testing.</heading>
+          <subsection eId="441A-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A health authority who knows, suspects
+or is informed of the existence within the jurisdiction of the health authority
+of any communicable disease that poses a risk to the health of the public and
+is in an infectious state, at risk of developing into an infectious state or at
+risk of developing into a progressed state that endangers the health of the
+person with the communicable disease shall immediately investigate the matter
+and all circumstances connected with it, and shall take such measures for the
+prevention, suppression and control of the disease as are required by the
+regulations of the Board or a district board of health.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A health authority may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-160__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Enter private property at reasonable hours to
+investigate any case or suspected case of a communicable disease to determine
+the danger posed by the case or suspected case to the public, including,
+without limitation, whether the communicable disease is in an infectious state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-160__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Order any person whom the health authority
+has a reasonable factual and medical basis to suspect has a communicable
+disease that is in an infectious state and poses a risk to the health of the
+public to submit to any medical examination or test which the health authority
+determines is necessary to verify the presence of the disease. The order must
+be in writing and specify the name of the person to be examined or tested and
+the time and place of the examination and testing, and may require the person
+to take other actions that the health authority has determined are necessary to
+prevent the spread of the communicable disease.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-160__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as otherwise provided in this
+paragraph, subsection 6 andNRS 441A.210,
+issue an order requiring the isolation, quarantine or treatment of any person
+or group of persons if the health authority has a reasonable factual and
+medical basis to believe that such action is necessary to protect the public
+health. The order must be in writing and specify the person or group of persons
+to be isolated or quarantined, the time during which the order is effective and
+the place of isolation or quarantine. The order may direct the person or group
+of persons to take other actions that the health authority has determined are
+necessary to prevent the spread of the communicable disease. The health authority
+shall not order isolation or quarantine if the health authority determines that
+such action may compromise the health of a person who is isolated or
+quarantined.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-160__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Each order issued pursuant to this
+section must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-160__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be served upon each person named in the order
+by delivering a copy to the person; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-160__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>State the reasons that each of the actions
+prescribed by the order are necessary and are the least restrictive means
+available to prevent, suppress or control the communicable disease.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-160__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Board and each district board of
+health shall adopt regulations to establish a process by which a person may
+appeal to the health authority an order issued pursuant to paragraph</p>
+            </content>
+            <paragraph eId="441A-160__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of
+subsection 2. The health authority shall provide to a person who receives such
+an order a document stating the rights of the person, including, without
+limitation, the right to appeal the order, at the time and in the manner
+prescribed by regulation of the Board or the district board of health, as
+applicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-160__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If a health authority issues an order
+to isolate or quarantine a person with a communicable or infectious disease in
+a medical facility, the health authority must isolate or quarantine the person
+in the manner set forth inNRS 441A.505to441A.720, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-160__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 441A.310and441A.380, a health authority may not
+issue an order requiring the involuntary treatment of a person without a court
+order requiring the person to submit to treatment. A court shall not order a
+person to submit to treatment unless the court finds that there is clear and
+convincing evidence that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-160__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The person has a communicable disease in an
+infectious state; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-160__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Because of that disease, the person is likely
+to pose a risk to the public health.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+295; A2003,
+2206;2011,
+2507;2021,
+3183)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-163">
+          <num>441A.163</num>
+          <heading>Investigation: Powers of health authority to conduct
+investigation of infectious disease or exposure to biological, radiological or
+chemical agent; reports; regulations.</heading>
+          <subsection eId="441A-163__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise required pursuant
+toNRS 441A.160, a health authority
+may conduct an investigation of a case or suspected case of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-163__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An infectious disease within its
+jurisdiction; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-163__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Exposure to a biological, radiological or
+chemical agent within its jurisdiction,
+ï¿½which
+significantly impairs the health, safety or welfare of the public within its
+jurisdiction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-163__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each health authority shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-163__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise required pursuant toNRS 441A.170, report each week to the
+Chief Medical Officer the number and types of cases or suspected cases of
+infectious diseases or cases or suspected cases of exposure to biological,
+radiological or chemical agents which significantly impair the health, safety
+or welfare of the public reported to the health authority, and any other
+information required by the regulations of the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-163__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Report the results of an investigation
+conducted pursuant to subsection 1 to the Chief Medical Officer within 30 days
+after concluding the investigation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-163__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Board may adopt regulations to
+carry out the provisions ofNRS 441A.163to441A.169, inclusive.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+554)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-165">
+          <num>441A.165</num>
+          <heading>Investigation: Powers of health authority to access medical
+records, laboratory records and other information in possession of health care
+provider or medical facility; payment of certain costs related to
+investigation.</heading>
+          <subsection eId="441A-165__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A health authority which conducts an
+investigation pursuant toNRS 441A.160or441A.163shall, for the protection
+of the health, safety and welfare of the public, have access to all medical
+records, laboratory records and reports, books and papers relevant to the
+investigation which are in the possession of a provider of health care or
+medical facility being investigated or which are otherwise necessary to carry
+out the investigation. The determination of what information is necessary to
+carry out the investigation is at the discretion of the health authority.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-165__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a health authority conducts an
+investigation pursuant toNRS 441A.160or441A.163, the health authority may
+require a provider of health care or medical facility being investigated to pay
+a proportionate share of the actual cost of carrying out the investigation,
+including, without limitation, the cost of notifying and testing patients who
+may have contracted an infectious disease, been exposed to a biological,
+radiological or chemical agent or otherwise been harmed.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+555)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-166">
+          <num>441A.166</num>
+          <heading>Investigation: Subpoena to compel production of medical records,
+laboratory records and other information; court order directing witness to
+appear for failure to produce.</heading>
+          <subsection eId="441A-166__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon petition by a health authority to
+the district court for the county in which an investigation is being conducted
+by the health authority pursuant toNRS
+441A.160or441A.163, the court
+may issue a subpoena to compel the production of medical records, laboratory
+records and reports, books and papers as set forth inNRS 441A.165.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-166__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a witness refuses to produce any
+medical records, laboratory records and reports, books or papers required by a
+subpoena issued by a court pursuant to subsection 1, the court shall enter an
+order directing the witness to appear before the court at a time and place to
+be fixed by the court in its order, the time to be not more than 10 days after
+the date of the order, and then and there show cause why the witness has not
+produced the medical records, laboratory records and reports, books or papers
+before the health authority. A certified copy of the order must be served upon
+the witness. The court may enter an order that the witness appear before the
+health authority at the time and place fixed in the order and produce the
+required medical records, laboratory records and reports, books or papers, and
+upon failure to obey the order, the witness must be dealt with as for contempt
+of court.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+555)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-167">
+          <num>441A.167</num>
+          <heading>Investigation: Law enforcement agencies and political
+subdivisions authorized to share certain information and medical records with
+state and local health authorities; regulations.</heading>
+          <subsection eId="441A-167__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A public agency, law enforcement agency
+or political subdivision of this State which has information that is relevant
+to an investigation relating to an infectious disease or exposure to a
+biological, radiological or chemical agent which significantly impairs the
+health, safety and welfare of the public shall share the information and any
+medical records and reports with the appropriate state and local health
+authorities if it is in the best interest of the public and as necessary to
+further the investigation of the requesting health authority.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-167__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall adopt regulations to
+carry out this section, including, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-167__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Identifying the public agencies and political
+subdivisions with which the information set forth in subsection 1 may be
+shared;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-167__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prescribing the circumstances and procedures
+by which the information may be shared with those identified public agencies
+and political subdivisions; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-167__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Ensuring the confidentiality of the
+information if it is protected health information.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+556)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-169">
+          <num>441A.169</num>
+          <heading>Investigation: Powers of health authority to issue cease and
+desist order to health care provider or medical facility; injunction.</heading>
+          <subsection eId="441A-169__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>During the course of or as a result of
+an investigation concerning the case or suspected case of an infectious disease
+or the case or suspected case of exposure to a biological, radiological or
+chemical agent pursuant toNRS 441A.160or441A.163, a health authority may,
+upon finding that a provider of health care or medical facility significantly
+contributed to a case of an infectious disease or to a case of exposure to a
+biological, radiological or chemical agent and that the public health
+imperatively requires:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-169__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Issue a written order directing the provider
+of health care or medical facility to cease and desist any act or conduct which
+is harmful to the health, safety or welfare of the public; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-169__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Take any other action to reduce or eliminate
+the harm to the health, safety or welfare of the public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-169__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A written order directing a provider of
+health care or medical facility to cease and desist issued pursuant to
+subsection 1 must contain a statement of the:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-169__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Provision of law or regulation which the
+provider of health care or medical facility is violating; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-169__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Standard of care that the provider of health
+care or medical facility is violating which led to the case of the infectious
+disease or to the case of exposure to a biological, radiological or chemical
+agent.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-169__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An order to cease and desist must be
+served upon the person or an authorized representative of the facility directly
+or by certified or registered mail, return receipt requested. The order becomes
+effective upon service.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-169__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>An order to cease and desist expires 30
+days after the date of service unless the health authority institutes an action
+in a court of competent jurisdiction seeking an injunction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-169__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Upon a showing by the health authority
+that a provider of health care or medical facility is committing or is about to
+commit an act which is harmful to the health, safety or welfare of the public,
+a court of competent jurisdiction may enjoin the provider of health care or
+medical facility from committing the act.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+556)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-170">
+          <num>441A.170</num>
+          <heading>Weekly reports to Chief Medical Officer.</heading>
+          <content>
+            <p>Each health authority shall report each week
+to the Chief Medical Officer the number and types of cases or suspected cases
+of communicable disease reported to the health authority, and any other
+information required by the regulations of the Board.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+299)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-180">
+          <num>441A.180</num>
+          <heading>Contagious person to prevent exposure to others; warning by
+health authority; penalties; affirmative defenses; acts that do not violate
+section; prohibition on charging person with other offenses.</heading>
+          <subsection eId="441A-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, a person who has a communicable disease in an infectious state shall
+not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-180__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Conduct himself or herself in any manner that
+has a high probability of transmitting the disease to another person; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-180__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Engage in any occupation in which there is a
+high probability that the disease will be transmitted to other persons.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, a health authority who has reason to believe that a person is in
+violation of subsection 1 shall issue a warning to that person, in writing,
+informing the person of the behavior which constitutes the violation and of the
+precautions that the person must take to avoid exposing another person to the
+disease. The warning must be served upon the person by delivering a copy to the
+person. The health authority shall not warn a person against:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-180__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Engaging in an occupation if the employer of
+the person would be prohibited from preventing the person from engaging in that
+occupation by the Americans with Disabilities Act of 1990, 42 U.S.C. ï¿½ï¿½ 12101
+et seq., orNRS 613.330.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-180__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Accessing a place of public accommodation if
+the place of public accommodation would be prohibited from denying the person
+access to the place of public accommodation by the Americans with Disabilities
+Act of 1990, 42 U.S.C. ï¿½ï¿½ 12101 et seq., orNRS
+651.050to651.120, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-180__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, a person who violates the provisions of subsection 1 after service
+upon the person of a warning from a health authority in the manner prescribed
+by subsection 2 is guilty of a misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-180__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, any person who, after receiving notice that he or she has tested
+positive for a communicable disease, intentionally conducts himself or herself
+in a manner that is specifically intended to transmit the disease to another
+person and has a high probability of transmitting the disease to another person
+and, as a consequence, transmits the disease to another person is guilty of a
+misdemeanor. A person shall not be deemed to have acted intentionally solely
+because the person failed to use or attempt to use means to prevent transmission.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-180__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>It is an affirmative defense to an
+offense charged pursuant to this section that a person who was subject to
+exposure to a communicable disease as a result of conduct prohibited by a
+warning issued pursuant to subsection 2 or conduct described in subsection 4:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-180__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Knew the defendant had the communicable
+disease;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-180__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Knew the conduct could result in the
+transmission of the communicable disease; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-180__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Consented to engage in the conduct with that
+knowledge.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-180__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>It is an affirmative defense to an
+offense charged pursuant to this section that the defendant used or attempted
+to use means to prevent the transmission of the communicable disease.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-180__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>A person who has tested positive for a
+communicable disease is not in violation of subsection 1 or 4 because the
+person:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-180__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Donates or attempts to donate an organ,
+blood, sperm or tissue and thereby exposes another person to the communicable
+disease or transmits the communicable disease; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-180__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Becomes pregnant and exposes the unborn child
+to the communicable disease or transmits the communicable disease to the unborn
+child.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-180__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Before imposing a fine or a sentence of
+imprisonment upon a person who violates subsection 3 or 4, a court must
+consider all alternative means to advance the public health.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-180__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>A person must not be charged for any
+offense other than the offenses set forth in this section if the person is
+alleged to have exposed another person to a communicable disease or attempted
+to expose another person to a communicable disease. The fact that a person has
+a communicable disease must not be used to satisfy any element of an offense
+other than the offenses set forth in this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-180__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>For the purposes of subsections 1 and
+4, the likelihood of transmitting a communicable disease to another person must
+be determined using current medical or epidemiological evidence. The Board
+shall adopt regulations prescribing requirements for determining the
+sufficiency and legitimacy of medical or epidemiological evidence pursuant to
+this subsection.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-180__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>As used in this section, ï¿½means to
+prevent transmissionï¿½ means any method, device, behavior or activity
+scientifically demonstrated to measurably limit, reduce or eliminate the risk
+of transmitting a communicable disease.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+296; A2021,
+3185)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-190">
+          <num>441A.190</num>
+          <heading>Control of disease within schools, child care facilities,
+medical facilities and correctional facilities.</heading>
+          <subsection eId="441A-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection, a health authority who knows of the presence of a communicable
+disease within a school, child care facility, medical facility or correctional
+facility shall notify the principal, director or other person in charge of the
+school, child care facility, medical facility or correctional facility of that
+fact and direct what action, if any, must be taken to prevent the spread of the
+disease. A health authority who knows of the presence of the human
+immunodeficiency virus within a school shall notify the superintendent of the
+school district of that fact and direct what action, if any, must be taken to
+prevent the spread of the virus.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection, the principal, director or other person in charge of a school,
+child care facility, medical facility or correctional facility who knows of or
+suspects the presence of a communicable disease within the school, child care
+facility, medical facility or correctional facility, shall notify the health
+authority pursuant to the regulations of the Board. If a principal of a school
+knows of the presence of the human immunodeficiency virus within the school,
+the principal shall notify the superintendent of the school district of that
+fact. A superintendent of a school district who is notified of or knows of the
+presence of the human immunodeficiency virus within a school in the school
+district shall notify the health authority of that fact. The health authority
+shall investigate a report received pursuant to this subsection to determine
+whether a communicable disease or the human immunodeficiency virus is present
+and direct what action, if any, must be taken to prevent the spread of the
+disease or virus.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-190__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A parent, guardian or person having
+custody of a child who has a communicable disease shall not knowingly permit
+the child to attend school or a child care facility if the Board, by
+regulation, has determined that the disease requires exclusion from school or a
+child care facility.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+296; A1991,
+1340)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-195">
+          <num>441A.195</num>
+          <heading>Testing of person or decedent who may have exposed law
+enforcement officer, correctional officer, emergency medical attendant,
+firefighter, county coroner or medical examiner, person employed by or
+volunteering for agency of criminal justice or certain other public employees
+or volunteers to communicable disease.</heading>
+          <subsection eId="441A-195__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 259.047, a law enforcement officer,
+correctional officer, emergency medical attendant, firefighter, county coroner
+or medical examiner or any of their employees or volunteers, any other person
+who is employed by or is a volunteer for an agency of criminal justice or any
+other public employee or volunteer for a public agency who, in the course of
+his or her official duties, comes into contact with human blood or bodily
+fluids, or the employer of such a person or the public agency for which the
+person volunteers, may petition a court for an order requiring the testing of a
+person or decedent for exposure to a communicable disease if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-195__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The officer, emergency medical attendant,
+firefighter, county coroner or medical examiner or their employee or volunteer,
+other person employed by or volunteering for an agency of criminal justice or
+other public employee or volunteer for a public agency was likely exposed to a
+communicable disease; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-195__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Testing of the person or decedent is
+necessary to determine the appropriate treatment for the officer, emergency
+medical attendant, firefighter, county coroner, medical examiner, employee or
+volunteer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-195__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>When possible, before filing a petition
+pursuant to subsection 1, the person, employer or public agency for which the
+person volunteers, and who is petitioning shall submit information concerning the
+likely exposure to a communicable disease to the designated health care officer
+for the employer or public agency or, if there is no designated health care
+officer, the person designated by the employer or public agency to document and
+verify likely exposure to communicable diseases, for verification that there
+was substantial exposure. Each designated health care officer or person
+designated by an employer or public agency to document and verify likely
+exposure to communicable diseases shall establish guidelines based on current
+scientific information to determine substantial exposure.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-195__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A court shall promptly hear a petition
+filed pursuant to subsection 1 and determine whether there is probable cause to
+believe that a likely transfer of blood or other bodily fluids occurred between
+the person who filed the petition or on whose behalf the petition was filed and
+the person or decedent who likely exposed him or her to a communicable disease.
+If the court determines that such probable cause exists, the court shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-195__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Order the person who likely exposed the
+petitioner, or the person on whose behalf the petition was filed, to a
+communicable disease to submit two appropriate specimens to a local hospital or
+medical laboratory for testing for exposure to a communicable disease; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-195__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Order that two appropriate specimens be taken
+from the decedent who likely exposed the petitioner, or the person on whose
+behalf the petition was filed, to a communicable disease and be submitted to a
+local hospital or medical laboratory for testing for exposure to the
+communicable disease.
+ï¿½The local
+hospital or medical laboratory shall perform the test in accordance with
+generally accepted medical practices and shall disclose the results of the test
+in the manner set forth inNRS 629.069.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-195__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a judge or a justice of the peace
+enters an order pursuant to this section, the judge or justice of the peace may
+authorize the designated health care officer or the person designated by the
+employer or public agency to document and verify likely exposure to a
+communicable disease to sign the name of the judge or justice of the peace on a
+duplicate order. Such a duplicate order shall be deemed to be an order of the
+court. As soon as practicable after the duplicate order is signed, the
+duplicate order must be returned to the judge or justice of the peace who
+authorized the signing of it and must indicate on its face the judge or justice
+of the peace to whom it is to be returned. The judge or justice of the peace,
+upon receiving the returned order, shall endorse the order with his or her name
+and enter the date on which the order was returned. Any failure of the judge or
+justice of the peace to make such an endorsement and entry does not in and of
+itself invalidate the order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-195__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 629.069, all records submitted to the
+court in connection with a petition filed pursuant to this section and any
+proceedings concerning the petition are confidential and the judge or justice
+of the peace shall order the records and any record of the proceedings to be
+sealed and to be opened for inspection only upon an order of the court for good
+cause shown.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-195__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A court may establish rules to allow a
+judge or justice of the peace to conduct a hearing or issue an order pursuant
+to this section by electronic or telephonic means.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-195__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The employer of a person or the public
+agency for which the person volunteers, who files a petition or on whose behalf
+a petition is filed pursuant to this section or the insurer of the employer or
+public agency, shall pay the cost of performing the test pursuant to subsection
+3.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-195__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-195__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Agency of criminal justiceï¿½ has the meaning
+ascribed to it inNRS 179A.030.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-195__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Emergency medical attendantï¿½ means a person
+who is:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="441A-195__subsec_8__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Licensed as an attendant or certified
+as an emergency medical technician, advanced emergency medical technician or
+paramedic pursuant tochapter 450Bof NRS;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="441A-195__subsec_8__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Authorized to practice as an emergency
+medical technician, advanced emergency medical technician or paramedic in this
+State under the Recognition of Emergency Medical Services Personnel Licensure
+Interstate Compact ratified byNRS
+450B.145.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1122; A2005,
+328;2007,
+88;2013,
+595,936;2019,
+4167;2021,
+3186;2023,
+2270)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-200">
+          <num>441A.200</num>
+          <heading>Right to receive treatment from physician or clinic of choice;
+Board may prescribe method of treatment.</heading>
+          <content>
+            <p>This
+chapter does not empower or authorize the health authority or any other person
+to interfere in any manner with the right of a person to receive approved
+treatment for a communicable disease from any physician, clinic or other person
+of his or her choice, but the Board has the power to prescribe the approved
+method of treatment to be used by the physician, clinic or other person.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+298)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-210">
+          <num>441A.210</num>
+          <heading>Rights and duties of person who depends exclusively on prayer
+for healing.</heading>
+          <content>
+            <p>A person who has a
+communicable disease and depends exclusively on prayer for healing in
+accordance with the tenets and precepts of any recognized religious sect,
+denomination or organization is not required to submit to any medical treatment
+required by the provisions of this chapter, but may be isolated or quarantined
+in the personï¿½s home or other place of the personï¿½s choice acceptable to the
+health authority, and shall comply with all applicable rules, regulations and
+orders issued by the health authority.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+298)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-220">
+          <num>441A.220</num>
+          <heading>Confidentiality of information; permissible disclosure.</heading>
+          <subsection eId="441A-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>As otherwise provided inNRS 439.597.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For statistical purposes, provided that
+the identity of the person is not discernible from the information disclosed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-220__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In a prosecution for a violation of
+this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-220__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In a proceeding for an injunction
+brought pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-220__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>In reporting the actual or suspected
+abuse or neglect of a child or elderly person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-220__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>To any person who has a medical need to
+know the information for his or her own protection or for the well-being of a
+patient or dependent person, as determined by the health authority in
+accordance with regulations of the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-220__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>If the person who is the subject of the
+information consents in writing to the disclosure.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-220__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Pursuant toNRS 629.069.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-220__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>If the disclosure is made to the
+Department of Health and Human Services and the person about whom the
+disclosure is made has been diagnosed with the human immunodeficiency virus and
+is a recipient of or an applicant for Medicaid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-220__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>To a firefighter, police officer or
+person providing emergency medical services if the Board has determined that
+the information relates to a communicable disease significantly related to that
+occupation. The information must be disclosed in the manner prescribed by the
+Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-220__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>If the disclosure is authorized or
+required byNRS 239.0115or another
+specific statute.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+299; A1989,
+1476;1997,
+1254;1999,
+1123,2238,2245;2005,
+329;2007,
+1277,1977,2109;2017,
+4402;2021,
+865,3188)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-230">
+          <num>441A.230</num>
+          <heading>Disclosure of personal information prohibited without consent.</heading>
+          <content>
+            <p>Except as otherwise provided in this chapter
+andNRS 439.597, a person shall not make
+public the name of, or other personal identifying information about, a person
+who has been diagnosed with or exposed to a communicable disease and
+investigated by the health authority pursuant to this chapter without the
+consent of the person.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+300; A2007,
+1978;2021,
+3188)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-240">
+          <num>441A.240</num>
+          <heading>Duties of health authority.</heading>
+          <content>
+            <p>The
+health authority shall control, prevent, treat and, whenever possible, ensure
+the cure of sexually transmitted diseases.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+296; A1989,
+1476;2011,
+2508;2021,
+3189)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-250">
+          <num>441A.250</num>
+          <heading>Establishment and support of clinics and dispensaries.</heading>
+          <content>
+            <p>The health authority may establish and provide
+financial or other support to such clinics and dispensaries as it believes are
+reasonably necessary for the prevention, control, treatment or cure of sexually
+transmitted diseases.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+296; A2011,
+2508)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-260">
+          <num>441A.260</num>
+          <heading>Provision of medical supplies and financial aid for treatment of
+indigent patients.</heading>
+          <content>
+            <p>If a person in
+this state who has a sexually transmitted disease is, in the discretion of the
+health authority, unable to afford approved treatment for the disease, the
+health authority may provide medical supplies or direct financial aid to any
+physician, clinic or dispensary in this state, within the limits of the
+available appropriations and any other resources, to be used in the personï¿½s
+treatment. A physician, clinic or dispensary that accepts supplies or aid
+pursuant to this section shall comply with all conditions prescribed by the
+Board relating to the use of the supplies or aid.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+296; A2011,
+2508)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-270">
+          <num>441A.270</num>
+          <heading>Instruction of patients on prevention and treatment of disease.</heading>
+          <content>
+            <p>A physician, clinic or dispensary providing
+treatment to a person who has a sexually transmitted disease shall instruct the
+person in the methods of preventing the spread of the disease and in the
+necessity of systematic and prolonged treatment.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+296)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-280">
+          <num>441A.280</num>
+          <heading>Procedure to ensure that infected person receives adequate
+treatment.</heading>
+          <content>
+            <p>A physician who, or
+clinic or dispensary which, determines that a person has a sexually transmitted
+disease shall encourage and, if necessary, attempt to persuade the person to
+submit to medical treatment. Except as otherwise provided inNRS 441A.210, if the person does not
+submit to treatment, or does not complete the prescribed course of treatment,
+the physician, clinic or dispensary shall notify the health authority who shall
+take action to ensure that the person receives adequate treatment for the
+disease.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+297)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-290">
+          <num>441A.290</num>
+          <heading>Infected person to report source of infection.</heading>
+          <content>
+            <p>A person who has a sexually transmitted
+disease shall, upon request, inform the health authority of the source or
+possible source of the infection.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+297)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-310">
+          <num>441A.310</num>
+          <heading>Examination and treatment of minor without consent.</heading>
+          <content>
+            <p>Except as otherwise provided inNRS 441A.210, when any minor is suspected
+of having or is found to have a sexually transmitted disease, the health
+authority may require the minor to undergo examination and treatment,
+regardless of whether the minor or either of the minorï¿½s parents consents to
+the examination and treatment.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+297)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-315">
+          <num>441A.315</num>
+          <heading>Certain providers of emergency medical services or primary care
+required to ascertain whether patient wishes to be tested for sexually
+transmitted diseases; exceptions; regulations; enforcement.</heading>
+          <subsection eId="441A-315__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in subsection
+3, a physician, physician assistant, advanced practice registered nurse or
+midwife who provides or supervises the provision of emergency medical services
+in a hospital or primary care to a patient who is 15 years of age or older
+shall, in accordance with the regulations adopted pursuant to subsection 4:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-315__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Consult with the patient to ascertain whether
+he or she wishes to be tested for sexually transmitted diseases, including,
+without limitation, the human immunodeficiency virus, and to determine which
+tests, if any, are medically indicated for the patient; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-315__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the patient wishes to be tested, conduct
+any test which is medically indicated for the patient or assist the patient
+with obtaining any such test, to the extent practicable for the physician,
+physician assistant, advanced practice registered nurse or midwife.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-315__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3, a hospital that provides emergency medical services or primary
+care to a patient who is 15 years of age or older shall, in accordance with the
+regulations adopted pursuant to subsection 4:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-315__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Ensure that the patient is consulted to
+ascertain whether he or she wishes to be tested for sexually transmitted
+diseases, including, without limitation, the human immunodeficiency virus, and
+to determine which tests, if any, are medically indicated for the patient; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-315__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the patient wishes to be tested, ensure
+that any test which is medically indicated for the patient is conducted or that
+the patient is assisted with obtaining any such test, to the extent practicable
+for the hospital.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-315__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A physician, physician assistant,
+advanced practice registered nurse, midwife or hospital is not required to
+comply with the requirements of subsection 1 or 2 if the physician, physician
+assistant, advanced practice registered nurse or midwife or a provider of
+health care who provides emergency medical services or primary care to the
+patient at the hospital, as applicable, reasonably believes that the patient:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-315__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is being treated for a life-threatening
+emergency;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-315__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has recently been offered or has been the
+subject of a test for the human immunodeficiency virus or other sexually
+transmitted diseases; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-315__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Lacks capacity to consent to such testing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-315__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Board shall adopt regulations to
+ensure that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-315__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any test which is administered to a patient
+or for which a patient is assisted in obtaining pursuant to this section is
+medically indicated for that patient; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-315__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Communications concerning testing pursuant to
+this section are made in a culturally competent manner and, to the extent
+practicable, in a language that is easily understood by the patient.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-315__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A physician, physician assistant,
+advanced practice registered nurse, midwife or hospital that fails to comply
+with the provisions of this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-315__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is not subject to a criminal penalty or an
+administrative fine pursuant to this chapter; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-315__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is subject to disciplinary action, where
+applicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-315__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-315__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Primary careï¿½ means the practice of family
+medicine, pediatrics, internal medicine, obstetrics and gynecology and
+midwifery.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-315__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Provider of health careï¿½ has the meaning
+ascribed to it inNRS 629.031.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3138)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-330">
+          <num>441A.330</num>
+          <heading>Provision of outpatient care to persons with human
+immunodeficiency virus.</heading>
+          <content>
+            <p>The health
+authority may establish such dispensaries, pharmacies or clinics for outpatient
+care as it believes are necessary for the care and treatment of persons who
+have been diagnosed with the human immunodeficiency virus, and provide those
+institutions with financial or other assistance. Dispensaries, pharmacies or
+clinics which accept financial or other assistance pursuant to this section
+shall comply with all conditions prescribed by the Board relating to the use of
+that assistance.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+297; A2011,
+2508;2021,
+3189)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-334">
+          <num>441A.334</num>
+          <heading>Provider of health careï¿½ defined.</heading>
+          <content>
+            <p>As
+used inNRS 441A.334to441A.337, inclusive, ï¿½provider of health
+careï¿½ means a physician, nurse, physician assistant or anesthesiologist
+assistant licensed in accordance with state law.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+2174; A2023,
+1595,3490)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-335">
+          <num>441A.335</num>
+          <heading>Declaration of legislative intent.</heading>
+          <subsection eId="441A-335__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Board of Health, the
+Department of Health and Human Services, and all district, county and city
+health departments, boards of health and health officers, medical facilities
+and providers of health care work together in a collaborative manner to ensure
+that testing for the human immunodeficiency virus and related counseling
+services are offered in a culturally and linguistically appropriate manner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-335__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Information pertaining to testing for
+the human immunodeficiency virus be reported and maintained in accordance with
+existing state and federal privacy laws.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-335__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Information pertaining to cases of the
+human immunodeficiency virus not be used for any purpose other than public
+health practices, including, without limitation, surveillance and epidemiology.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+2174)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-336">
+          <num>441A.336</num>
+          <heading>Counseling to be provided to person testing positive for human
+immunodeficiency virus; topics to be addressed in counseling; referrals to be
+provided to person testing positive for human immunodeficiency virus;
+regulations.</heading>
+          <subsection eId="441A-336__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Counties, providers of health care and
+medical facilities that provide testing for the human immunodeficiency virus
+shall provide, or ensure the provision of, to each person who tests positive
+for the human immunodeficiency virus, a counseling session that is appropriate
+and acceptable under current medical and public health practices, as
+recommended by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-336__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Counseling required pursuant to this
+section must address, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-336__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The meaning of the positive result of the
+test;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-336__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any follow-up testing for the person,
+including, without limitation, an additional test to confirm the results of a
+rapid test to be performed with a more accurate test or a different rapid test
+that is approved by the Centers for Disease Control and Prevention of the
+United States Department of Health and Human Services for the purpose of
+confirming the positive result of a rapid test;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-336__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Methods for preventing the transmission of
+the human immunodeficiency virus;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-336__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Medical treatment available for the person;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-336__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The confidentiality of the result of the
+test; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-336__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Recommended testing for the human
+immunodeficiency virus for sexual partners of the person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-336__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Counties, providers of health care and
+medical facilities that provide testing for the human immunodeficiency virus
+shall offer to each person who tests positive for the human immunodeficiency
+virus:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-336__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Appropriate referrals for future services,
+including, without limitation, medical care, mental health care and services
+for persons with addictive disorders; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-336__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If unable to provide referrals pursuant to
+paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-336__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>, referral to the local health authority for a subsequent referral
+to providers within the community for future services, including, without
+limitation, medical care, mental health care and services for persons with
+addictive disorders.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-336__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Director of the Department of
+Health and Human Services may adopt regulations to carry out the provisions of
+this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-336__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>As used in this section, ï¿½rapid testï¿½
+means a test that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-336__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is used to detect the presence of antibodies
+to the human immunodeficiency virus; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-336__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provides a result in 30 minutes or less.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+2175; A2015,
+847)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-337">
+          <num>441A.337</num>
+          <heading>Policies to provide uninterrupted services during public health
+emergency.</heading>
+          <subsection eId="441A-337__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department of Health and Human
+Services and all district, county and city boards of health shall develop
+policies to provide uninterrupted services during a public health emergency to
+persons who have been diagnosed with the human immunodeficiency virus or who
+are at a high risk of acquiring the human immunodeficiency virus and who are
+receiving services from the Department or any division thereof or the district,
+county or city health department, as applicable. Such policies may provide,
+without limitation, for the delivery of such services during a public health
+emergency:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-337__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Over the Internet;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-337__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Using an application for a mobile device; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-337__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>By calling or sending text messages from a
+telephone number that is not generally blocked or identified as a source of
+unwanted calls or messages.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-337__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-337__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Mobile deviceï¿½ includes, without limitation,
+a smartphone or a tablet computer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-337__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Public health emergencyï¿½ means:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="441A-337__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A public health emergency or other
+health event identified by a health authority pursuant toNRS 439.970; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="441A-337__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A state of emergency or declaration of
+disaster proclaimed pursuant toNRS 414.070that relates to or affects public health.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+3489)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-340">
+          <num>441A.340</num>
+          <heading>Duties of health authority.</heading>
+          <content>
+            <p>The
+health authority shall control, prevent the spread of, and ensure the treatment
+and cure of tuberculosis.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+297; A2011,
+2508)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-350">
+          <num>441A.350</num>
+          <heading>Establishment and support of clinics.</heading>
+          <content>
+            <p>The
+health authority may establish such clinics as it believes are necessary for
+the prevention and control of, and for the treatment and cure of, persons who
+have tuberculosis and provide those clinics with financial or other assistance
+within the limits of the available appropriations and any other resources.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+297; A2011,
+2508)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-360">
+          <num>441A.360</num>
+          <heading>Provision of medical supplies and financial aid for treatment of
+indigent patients.</heading>
+          <content>
+            <p>If a person in
+this state who has tuberculosis is, in the discretion of the health authority,
+unable to afford approved treatment for the disease, the health authority may
+provide medical supplies or direct financial aid, within the limits of the
+available appropriations and any other resources, to be used in the personï¿½s
+treatment, to any physician, clinic, dispensary or medical facility. A
+physician, clinic, dispensary or medical facility that accepts supplies or aid
+pursuant to this section shall comply with all conditions prescribed by the
+board relating to the use of the supplies or aid.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+298; A2011,
+2508)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-370">
+          <num>441A.370</num>
+          <heading>Contracts with hospitals, clinics and other institutions for
+examination and care of patients.</heading>
+          <subsection eId="441A-370__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The health authority shall, by contract
+with hospitals, clinics or other institutions in the State, provide for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-370__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The diagnostic examination, including,
+without limitation, laboratory testing of persons who have tuberculosis; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-370__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Inpatient and outpatient care for persons who
+have tuberculosis.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-370__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If adequate facilities for examination
+and care are not available in the State, the health authority may contract with
+hospitals, clinics or other institutions in other states which do have adequate
+facilities.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+298; A2011,
+2509)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-380">
+          <num>441A.380</num>
+          <heading>Treatment of patient for condition related to or as necessary
+for control of tuberculosis.</heading>
+          <content>
+            <p>Except
+as otherwise provided inNRS 441A.210,
+a person who has tuberculosis and is confined to a hospital or other
+institution pursuant to the provisions of this chapter must be treated for
+tuberculosis and any related condition, and may be treated for any other
+condition which the health authority determines is detrimental to his or her
+health and the treatment of which is necessary for the effective control of
+tuberculosis.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+298; A2011,
+2509)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-390">
+          <num>441A.390</num>
+          <heading>Contracts with private physicians to provide outpatient care in
+rural areas.</heading>
+          <content>
+            <p>The health authority
+may contract with any private physician to provide outpatient care in those
+rural areas of the State where, in its determination, patients can best be
+treated in that manner.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+298; A2011,
+2509)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-400">
+          <num>441A.400</num>
+          <heading>Inspection of records of facility where patients are treated.</heading>
+          <content>
+            <p>The health authority may inspect and must be
+given access to all records of every institution and clinic, both public and
+private, where patients who have tuberculosis are treated at public expense.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+298; A2011,
+2509)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-410">
+          <num>441A.410</num>
+          <heading>Regulations governing control of rabies.</heading>
+          <subsection eId="441A-410__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The periodic inoculation of animals
+with approved vaccines.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-410__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The impoundment of animals suspected of
+having rabies and the disposition of those animals upon verification of the
+presence of the disease.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-410__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Procedures for the treatment of persons
+who have been, or are suspected of having been, exposed to rabies.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+298)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-505">
+          <num>441A.505</num>
+          <heading>ï¿½Health authorityï¿½ defined.</heading>
+          <content>
+            <p>As
+used inNRS 441A.505to441A.720, inclusive, unless the context
+otherwise requires, ï¿½health authorityï¿½ has the meaning ascribed to it inNRS 441A.050and includes a county or
+city board of health.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3183)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-510">
+          <num>441A.510</num>
+          <heading>Manner of isolating, quarantining or treating by health
+authority; duty to inform person of rights; regulations.</heading>
+          <subsection eId="441A-510__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a health authority isolates,
+quarantines or treats a person or group of persons infected with, exposed to,
+or reasonably believed by a health authority to have been infected with or
+exposed to a communicable disease, the authority must isolate, quarantine or
+treat the person or group of persons in the manner set forth inNRS 441A.505to441A.720, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-510__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A health authority shall provide each
+person whom it isolates or quarantines pursuant toNRS 441A.505to441A.720, inclusive, with a document
+informing the person of his or her rights. The Board shall adopt regulations:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-510__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Setting forth the rights of a person who is
+isolated or quarantined that must be included in the document provided pursuant
+to this subsection; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-510__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Specifying the time and manner in which the
+document must be provided pursuant to this subsection.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2196; A2011,
+2509;2021,
+3189)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-520">
+          <num>441A.520</num>
+          <heading>Right of person isolated or quarantined to make and receive
+telephone calls and to possess cellular phone; duty to notify spouse or legal
+guardian under certain circumstances.</heading>
+          <subsection eId="441A-520__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who is isolated or quarantined
+pursuant toNRS 441A.505to441A.720, inclusive, has the right:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-520__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To make a reasonable number of completed
+telephone calls from the place where the person is isolated or quarantined as
+soon as reasonably possible after his or her isolation or quarantine; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-520__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To possess and use a cellular phone or any
+other similar means of communication to make and receive calls in the place
+where the person is isolated or quarantined.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-520__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a person who is isolated or
+quarantined pursuant toNRS 441A.505to441A.720, inclusive, is unconscious
+or otherwise unable to communicate because of mental or physical incapacity,
+the health authority that isolated or quarantined the person must notify the
+spouse or legal guardian of the person by telephone and certified mail. If a
+person described in this subsection is isolated or quarantined in a medical
+facility and the health authority did not provide the notice required by this
+subsection, the medical facility must provide the notice. If the case of a person
+described in this subsection is before a court and the health authority, and
+medical facility, if any, did not provide the notice required by this
+subsection, the court must provide the notice.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2197; A2011,
+2509;2021,
+3189)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-530">
+          <num>441A.530</num>
+          <heading>Right to refuse treatment and not submit to involuntary
+treatment; exception.</heading>
+          <content>
+            <p>A person who
+is isolated or quarantined pursuant toNRS
+441A.505to441A.720, inclusive,
+has the right to refuse treatment and may not be required to submit to
+involuntary treatment unless a court issues an order requiring the person to
+submit to treatment.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2197; A2011,
+2510;2021,
+3190)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-540">
+          <num>441A.540</num>
+          <heading>Restrictions on change of status from voluntary isolation or
+quarantine to emergency isolation or quarantine; rights of person whose status
+is changed.</heading>
+          <subsection eId="441A-540__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a person infected with or exposed to
+a communicable disease is voluntarily isolated or quarantined in a public or
+private medical facility, the facility shall not change the status of the
+person to an emergency isolation or quarantine unless, before the change in
+status is made:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-540__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The facility provides:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="441A-540__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>An application to a health authority
+for an emergency isolation or quarantine pursuant toNRS 441A.560; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="441A-540__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The certificate of a health authority,
+physician, physician assistant licensed pursuant tochapter
+630or633of NRS or registered nurse to a
+health authority pursuant toNRS 441A.570;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="441A-540__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The facility receives an order for isolation
+or quarantine issued by a health authority.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-540__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person whose status is changed to an
+emergency isolation or quarantine pursuant to subsection 1:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-540__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Must not be detained in excess of 48 hours
+after the change in status is made, unless within that period a written
+petition is filed by a health authority with the clerk of the district court
+pursuant toNRS 441A.600; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-540__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May, immediately after the personï¿½s status is
+changed, seek an injunction or other appropriate process in district court
+challenging his or her detention.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-540__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the period specified in subsection 2
+expires on a day on which the office of the clerk of the district court is not
+open, the written petition must be filed on or before the close of the business
+day next following the expiration of that period.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-540__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Nothing in this section limits the
+actions that a public or private medical facility may take to prevent or limit
+the transmission of communicable diseases within the medical facility,
+including, without limitation, practices for the control of infections.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2197; A2007,
+1856)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-550">
+          <num>441A.550</num>
+          <heading>Detention for testing, examination, observation and consensual
+medical treatment; limitation on time; rights of person detained; extension of
+time.</heading>
+          <subsection eId="441A-550__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person or group of persons alleged
+to have been infected with or exposed to a communicable disease may be detained
+in a public or private medical facility, a residence or other safe location
+under emergency isolation or quarantine for testing, examination, observation
+and the provision of or arrangement for the provision of consensual medical
+treatment in the manner set forth inNRS
+441A.505to441A.720, inclusive,
+and subject to the provisions of subsection 2:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-550__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon application to a health authority
+pursuant toNRS 441A.560;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-550__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon order of a health authority; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-550__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Upon voluntary consent of the person, parent
+of a minor person or legal guardian of the person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-550__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3, 4 or 5, a person voluntarily or involuntarily isolated or
+quarantined under subsection 1 must be released within 72 hours, including
+weekends and holidays, from the time of the admission of the person to a
+medical facility or isolation or quarantine in a residence or other safe
+location, unless within that period:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-550__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The additional voluntary consent of the
+person, the parent of a minor person or a legal guardian of the person is
+obtained;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-550__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A written petition for an involuntary
+court-ordered isolation or quarantine is filed with the clerk of the district
+court pursuant toNRS 441A.600,
+including, without limitation, the documents required pursuant toNRS 441A.610; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-550__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The status of the person is changed to a
+voluntary isolation or quarantine.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-550__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person who is involuntarily isolated
+or quarantined under subsection 1 may, immediately after the person is isolated
+or quarantined, seek an injunction or other appropriate process in district
+court challenging his or her detention.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-550__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the period specified in subsection 2
+expires on a day on which the office of the clerk of the district court is not
+open, the written petition must be filed on or before the close of the business
+day next following the expiration of that period.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-550__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>During a state of emergency or
+declaration of disaster regarding public health proclaimed by the Governor or
+the Legislature pursuant toNRS 414.070,
+a health authority may, before the expiration of the period of 72 hours set
+forth in subsection 2, petition, with affidavits supporting its request, a
+district court for an order finding that a reasonably foreseeable immediate
+threat to the health of the public requires the 72-hour period of time to be
+extended for no longer than the court deems necessary for available
+governmental resources to investigate, file and prosecute the relevant written
+petitions for involuntary court-ordered isolation or quarantine pursuant toNRS 441A.505to441A.720, inclusive.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2198; A2011,
+2510)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-560">
+          <num>441A.560</num>
+          <heading>Procedure for isolation or quarantine.</heading>
+          <subsection eId="441A-560__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An application to a health authority
+for an order of emergency isolation or quarantine of a person or a group of
+persons alleged to have been infected with or exposed to a communicable disease
+may only be made by another health authority, a physician, a physician
+assistant licensed pursuant tochapter 630or633of NRS, a registered nurse or a medical
+facility by submitting the certificate required byNRS 441A.570. Within its jurisdiction,
+upon application or on its own, subject to the provisions ofNRS 441A.505to441A.720, inclusive, a health authority
+may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-560__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Pursuant to its own order and without a
+warrant:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="441A-560__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Take a person or group of persons alleged
+to and reasonably believed by the health authority to have been infected with
+or exposed to a communicable disease into custody in any safe location under
+emergency isolation or quarantine for testing, examination, observation and the
+provision of or arrangement for the provision of consensual medical treatment;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="441A-560__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Transport the person or group of
+persons alleged to and reasonably believed by the health authority to have been
+infected with or exposed to a communicable disease to a public or private
+medical facility, a residence or other safe location for that purpose, or
+arrange for the person or group of persons to be transported for that purpose
+by:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) A local law enforcement agency;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) A system for the nonemergency
+medical transportation of persons whose operation is authorized by the Nevada
+Transportation Authority; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (III) If medically necessary, an
+ambulance service that holds a permit issued pursuant to the provisions ofchapter 450Bof NRS,
+ï¿½only if the
+health authority acting in good faith has, based upon personal observation, its
+own epidemiological investigation or an epidemiological investigation by
+another health authority, a physician, a physician assistant licensed pursuant
+tochapter 630or633of NRS or a registered nurse as stated in a certificate submitted pursuant toNRS 441A.570, if such a certificate was
+submitted, of the person or group of persons alleged to have been infected with
+or exposed to a communicable disease, a reasonable factual and medical basis to
+believe that the person or group of persons has been infected with or exposed
+to a communicable disease, and that because of the risks of that disease, the
+person or group of persons is likely to be an immediate threat to the health of
+members of the public who have not been infected with or exposed to the
+communicable disease.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="441A-560__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Petition a district court for an emergency
+order requiring:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="441A-560__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Any health authority or peace officer
+to take a person or group of persons alleged to have been infected with or exposed
+to a communicable disease into custody to allow the health authority to
+investigate, file and prosecute a petition for the involuntary court-ordered
+isolation or quarantine of the person or group of persons alleged to have been
+infected with or exposed to a communicable disease in the manner set forth inNRS 441A.505to441A.720, inclusive; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="441A-560__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Any agency, system or service
+described in subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="441A-560__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="441A-560__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>to transport, in accordance with
+such court order, the person or group of persons alleged to have been infected
+with or exposed to a communicable disease to a public or private medical
+facility, a residence or other safe location for that purpose.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-560__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The district court may issue an
+emergency order for isolation or quarantine pursuant to paragraph</p>
+            </content>
+            <paragraph eId="441A-560__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of
+subsection 1:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-560__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Only for the time deemed necessary by the
+court to allow a health authority to investigate, file and prosecute each
+petition for involuntary court-ordered isolation or quarantine pursuant toNRS 441A.505to441A.720, inclusive; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-560__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Only if it is satisfied that there is
+probable cause to believe that the person or group of persons alleged to have
+been infected with or exposed to a communicable disease has been infected with
+or exposed to a communicable disease, and that because of the risks of that
+disease, the person or group of persons is likely to be an immediate threat to
+the health of the public.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2198; A2007,
+1857;2011,
+2511)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-570">
+          <num>441A.570</num>
+          <heading>Certificate of another health authority or physician, licensed
+physician assistant or registered nurse required.</heading>
+          <content>
+            <p>A
+health authority shall not accept an application for an emergency isolation or
+quarantine underNRS 441A.560unless
+that application is accompanied by a certificate of another health authority or
+a physician, physician assistant licensed pursuant tochapter 630or633of NRS or registered nurse stating that he or she has examined the person or
+group of persons alleged to have been infected with or exposed to a
+communicable disease or has investigated the circumstances of potential
+infection or exposure regarding the person or group of persons alleged to have
+been infected with or exposed to a communicable disease and that he or she has
+concluded that the person or group of persons has been infected with or exposed
+to a communicable disease, and that because of the risks of that disease, the
+person or group of persons is likely to be an immediate threat to the health of
+the public. The certificate required by this section may be obtained from a
+physician, physician assistant licensed pursuant tochapter
+630or633of NRS or registered nurse who
+is employed by the public or private medical facility in which the person or
+group of persons is admitted or detained and from the facility from which the
+application is made.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2200; A2007,
+1858)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-580">
+          <num>441A.580</num>
+          <heading>Requirements for and limitations on applications and
+certificates.</heading>
+          <subsection eId="441A-580__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>No application or certificate
+authorized underNRS 441A.560or441A.570may be considered if made by a
+person on behalf of a medical facility or by a health authority, physician,
+physician assistant licensed pursuant tochapter
+630or633of NRS or registered nurse who
+is related by blood or marriage to the person alleged to have been infected
+with or exposed to a communicable disease, or who is financially interested, in
+a manner that would be prohibited pursuant toNRS 439B.425if the application or
+certificate were deemed a referral, in a medical facility in which the person
+alleged to have been infected with or exposed to a communicable disease is to
+be detained.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-580__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>No application or certificate of any
+health authority or person authorized underNRS
+441A.560or441A.570may be
+considered unless it is based on personal observation, examination or
+epidemiological investigation of the person or group of persons alleged to have
+been infected with or exposed to a communicable disease made by such health
+authority or person not more than 72 hours before the making of the application
+or certificate. The certificate must set forth in detail the facts and reasons
+on which the health authority or person who submitted the certificate pursuant
+toNRS 441A.570based his or her
+opinions and conclusions.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2200; A2007,
+1859)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-590">
+          <num>441A.590</num>
+          <heading>Additional notice to spouse or legal guardian.</heading>
+          <content>
+            <p>In addition to any notice required pursuant toNRS 441A.520, within 24 hours after a
+personï¿½s involuntary admission into a public or private medical facility under
+emergency isolation or quarantine, the administrative officer of the public or
+private medical facility shall reasonably attempt to ascertain the
+identification and location of the spouse or legal guardian of that person and,
+if reasonably possible, mail notice of the admission by certified mail to the
+spouse or legal guardian of that person.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2200)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-600">
+          <num>441A.600</num>
+          <heading>Petition: Filing; certificate or statement of alleged infection
+with or exposure to communicable disease.</heading>
+          <subsection eId="441A-600__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>By a certificate of a health authority
+or a physician, a physician assistant licensed pursuant tochapter 630or633of NRS or a registered nurse stating that he or she has examined the person
+alleged to have been infected with or exposed to a communicable disease or has
+investigated the circumstances of potential infection or exposure regarding the
+person alleged to have been infected with or exposed to a communicable disease
+and has concluded that the person has been infected with or exposed to a
+communicable disease, and that because of the risks of that disease, the person
+is likely to be an immediate threat to the health of the public; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-600__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>By a sworn written statement by the
+health authority that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-600__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The health authority has, based upon its
+personal observation of the person alleged to have been infected with or
+exposed to a communicable disease, or its epidemiological investigation of the
+circumstances of potential infection or exposure regarding the person alleged
+to have been infected with or exposed to a communicable disease, a reasonable
+factual and medical basis to believe that the person has been infected with or
+exposed to a communicable disease and, that because of the risks of that
+disease, the person is likely to be an immediate threat to the health of the public;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-600__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The person alleged to have been infected with
+or exposed to a communicable disease has refused to submit to voluntary
+isolation or quarantine, examination, testing, or treatment known to control or
+resolve the transmission of the communicable disease.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2200; A2007,
+1859)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-610">
+          <num>441A.610</num>
+          <heading>Additional requirements for petition that is filed after
+emergency isolation or quarantine.</heading>
+          <subsection eId="441A-610__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If an application for an order of
+emergency isolation or quarantine of the person was made pursuant toNRS 441A.560, the application for the
+emergency isolation or quarantine of the person made to the petitioning health
+authority pursuant toNRS 441A.560;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-610__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A petition executed by a health
+authority, including, without limitation, a sworn statement that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-610__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The health authority or a physician,
+physician assistant licensed pursuant tochapter
+630or633of NRS or registered nurse who
+submitted a certificate pursuant toNRS
+441A.570, if such a certificate was submitted, has examined the person
+alleged to have been infected with or exposed to a communicable disease;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-610__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In the opinion of the health authority, there
+is a reasonable degree of certainty that the person alleged to have been
+infected with or exposed to a communicable disease is currently capable of
+transmitting the disease, or is likely to become capable of transmitting the
+disease in the near future;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-610__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Based on either the health authorityï¿½s
+personal observation of the person alleged to have been infected with or
+exposed to the communicable disease or the health authorityï¿½s epidemiological
+investigation of the circumstances of potential infection or exposure regarding
+the person alleged to have been infected with or exposed to the communicable
+disease, and on other facts set forth in the petition, the person likely poses
+an immediate threat to the health of the public; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-610__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In the opinion of the health authority,
+involuntary isolation or quarantine of the person alleged to have been infected
+with or exposed to a communicable disease to a public or private medical
+facility, residence or other safe location is necessary to prevent the person
+from immediately threatening the health of the public.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2201; A2007,
+1859)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-620">
+          <num>441A.620</num>
+          <heading>Hearing on petition; notice; release of person before hearing.</heading>
+          <subsection eId="441A-620__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Immediately after receiving any
+petition filed pursuant toNRS 441A.600or441A.610, the clerk of the district
+court shall transmit the petition to the appropriate district judge, who shall
+set a time, date and place for its hearing. The date must be within 5 judicial
+days after the date on which the petition is received by the clerk.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-620__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The court shall give notice of the
+petition and of the time, date and place of any proceedings thereon to the
+subject of the petition, his or her attorney, if known, the petitioner and the
+administrative office of any public or private medical facility in which the
+subject of the petition is detained.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-620__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The provisions of this section do not
+preclude a health authority from ordering the release from isolation or
+quarantine of a person before the time set pursuant to this section for the
+hearing concerning the person, if appropriate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-620__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>After the filing of a petition pursuant
+toNRS 441A.600or441A.610and before any court-ordered
+involuntary isolation or quarantine, a health authority shall file notice with
+the court of any order of the health authority issued after the petition was
+filed to release the person from emergency isolation or quarantine, upon which
+the court may dismiss the petition without prejudice.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2202)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-630">
+          <num>441A.630</num>
+          <heading>Examination or assessment of person alleged to be infected with
+or exposed to communicable disease; protective custody pending hearing; written
+summary of findings and evaluation concerning person alleged to be infected
+with or exposed to communicable disease.</heading>
+          <subsection eId="441A-630__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>After the filing of a petition to
+commence proceedings for the involuntary court-ordered isolation or quarantine
+of a person pursuant toNRS 441A.600or441A.610, the court shall promptly
+cause two or more physicians or physician assistants licensed pursuant tochapter 630or633of NRS, at least one of whom must always be a physician, to either examine the
+person alleged to have been infected with or exposed to a communicable disease
+or assess the likelihood that the person alleged to have been infected with or
+exposed to a communicable disease has been so infected or exposed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-630__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To conduct the examination or
+assessment of a person who is not being detained at a public or private medical
+facility, residence or other safe location under emergency isolation or
+quarantine pursuant to the emergency order of a health authority or court made
+pursuant toNRS 441A.550or441A.560, the court may order a peace
+officer to take the person into protective custody and transport the person to
+a public or private medical facility, residence or other safe location where
+the person may be detained until a hearing is held upon the petition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-630__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the person is being detained at his
+or her home or other place of residence under an emergency order of a health
+authority or court pursuant toNRS
+441A.550or441A.560, the person
+may be allowed to remain in his or her home or other place of residence pending
+an ordered assessment, examination or examinations and to return to his or her
+home or other place of residence upon completion of the assessment, examination
+or examinations if such remaining or returning would not constitute an
+immediate threat to others residing in his or her home or place of residence.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-630__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Each physician and physician assistant
+licensed pursuant tochapter 630or633of NRS who examines or assesses a person
+pursuant to subsection 1 shall, not later than 24 hours before the hearing set
+pursuant toNRS 441A.620, submit to
+the court in writing a summary of his or her findings and evaluation regarding
+the person alleged to have been infected with or exposed to a communicable
+disease.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2202; A2007,
+1860)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-640">
+          <num>441A.640</num>
+          <heading>Evaluation teams: Establishment; composition; fees.</heading>
+          <subsection eId="441A-640__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The health authority shall establish
+such evaluation teams as are necessary to aid the courts underNRS 441A.630and441A.700.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-640__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each team must be composed of at least
+two physicians, or at least one physician and one physician assistant licensed
+pursuant tochapter 630or633of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-640__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Fees for the evaluations must be
+established and collected as set forth inNRS
+441A.650.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2203; A2007,
+1861;2011,
+2512)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-650">
+          <num>441A.650</num>
+          <heading>Proceedings held in county where persons to conduct examination
+are available; expense of proceedings paid by county.</heading>
+          <subsection eId="441A-650__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In counties where the examining
+personnel required pursuant toNRS
+441A.630are not available, proceedings for involuntary court-ordered
+isolation or quarantine shall be conducted in the nearest county having such
+examining personnel available in order that there be minimum delay.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-650__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The entire expense of proceedings for
+involuntary court-ordered isolation or quarantine shall be paid by the county
+in which the application is filed.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2203)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-660">
+          <num>441A.660</num>
+          <heading>Right to counsel; compensation of counsel; recess; duties of
+district attorney.</heading>
+          <subsection eId="441A-660__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The person alleged to have been
+infected with or exposed to a communicable disease, or any relative or friend
+on behalf of the person, is entitled to retain counsel to represent the person
+in any proceeding before the district court relating to involuntary
+court-ordered isolation or quarantine, and if the person fails or refuses to
+obtain counsel, the court shall advise the person and his or her guardian or
+next of kin, if known, of the right to counsel and shall appoint counsel, who
+may be the public defender or his or her deputy.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-660__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any counsel appointed pursuant to
+subsection 1 must be awarded compensation by the court for his or her services
+in an amount determined by the court to be fair and reasonable. Except as
+otherwise provided in this subsection, the compensation must be charged against
+the estate of the person for whom the counsel was appointed or, if the person
+is indigent, against the county in which the application for involuntary
+court-ordered isolation or quarantine was filed. In any proceeding before the
+district court relating to involuntary court-ordered isolation or quarantine,
+if the person for whom counsel was appointed is challenging his or her
+isolation or quarantine or any condition of such isolation or quarantine and the
+person succeeds in his or her challenge, the compensation must be charged
+against the county in which the application for involuntary court-ordered
+isolation or quarantine was filed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-660__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The court shall, at the request of
+counsel representing the person alleged to have been infected with or exposed
+to a communicable disease in proceedings before the court relating to
+involuntary court-ordered isolation or quarantine, grant a recess in the
+proceedings for the shortest time possible, but for not more than 5 days, to
+give the counsel an opportunity to prepare his or her case.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-660__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Each district attorney or his or her
+deputy shall appear and represent the State in all involuntary court-ordered
+isolation or quarantine proceedings in his or her county. The district attorney
+is responsible for the presentation of evidence, if any, in support of the
+involuntary court-ordered isolation or quarantine of a person to a medical
+facility, residence or other safe location in proceedings held pursuant toNRS 441A.600or441A.610.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2203)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-670">
+          <num>441A.670</num>
+          <heading>Testimony.</heading>
+          <content>
+            <p>In
+proceedings for involuntary court-ordered isolation or quarantine, the court
+shall hear and consider all relevant testimony, including, but not limited to,
+the testimony of examining personnel who participated in the evaluation of the
+person alleged to have been infected with or exposed to a communicable disease
+and the certificates, if any, of a health authority or a physician, physician
+assistant licensed pursuant tochapter 630or633of NRS or registered nurse accompanying the
+petition.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2203; A2007,
+1861)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-680">
+          <num>441A.680</num>
+          <heading>Right of person alleged to be infected with or exposed to
+communicable disease to be present by telephonic conferencing or
+videoconferencing and to testify.</heading>
+          <subsection eId="441A-680__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In proceedings for an involuntary
+court-ordered isolation or quarantine, the person with respect to whom the
+proceedings are held has the right:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-680__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To be present by live telephonic conferencing
+or videoconferencing; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-680__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To testify in his or her own behalf, to the
+extent that the court determines that the person is able to do so without
+endangering the health of others.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-680__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who is alleged to have been
+infected with or exposed to a communicable disease does not have the right to
+be physically present during the proceedings if such person, if present in the
+courtroom, would likely pose an immediate threat to the health of the judge or
+the staff or officers of the court.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2204)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-690">
+          <num>441A.690</num>
+          <heading>Fees and mileage for witnesses.</heading>
+          <content>
+            <p>Witnesses
+subpoenaed under the provisions ofNRS
+441A.505to441A.720, inclusive,
+shall be paid the same fees and mileage as are paid to witnesses in the courts
+of the State of Nevada.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2204; A2011,
+2512)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-700">
+          <num>441A.700</num>
+          <heading>Findings and order; expiration and renewal of isolation or quarantine;
+alternative courses of treatment.</heading>
+          <subsection eId="441A-700__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the district court finds, after
+proceedings for the involuntary court-ordered isolation or quarantine of a
+person to a public or private medical facility, residence or other safe
+location:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-700__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>That there is not clear and convincing
+evidence that the person with respect to whom the hearing was held has been
+infected with or exposed to a communicable disease or is likely to be an
+immediate threat to the health of the public, the court shall enter its finding
+to that effect and the person must not be involuntarily detained in such a
+facility, residence or other safe location.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-700__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>That there is clear and convincing evidence
+that the person with respect to whom the hearing was held has been infected
+with or exposed to a communicable disease and, because of that disease, is
+likely to be an immediate threat to the health of the public, the court may
+order the involuntary isolation or quarantine of the person and may order the
+most appropriate course of treatment after considering the rights of the person
+and the desires of the person concerning treatment and vaccination, including,
+without limitation, the tenets of the personï¿½s religion and the tenets of any
+group or organization of which the person is a member, the rights set forth inNRS 441A.210, the rights set forth inNRS 441A.520, the right to counsel set
+forth inNRS 441A.660, and the right
+of a person to challenge his or her isolation or quarantine or any condition of
+such isolation or quarantine. The order of the court must be interlocutory and
+must not become final if, within 14 days after the court orders the involuntary
+isolation or quarantine, the person is unconditionally released by a health
+authority from the medical facility, residence or other safe location.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-700__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An involuntary isolation or quarantine
+pursuant to paragraph</p>
+            </content>
+            <paragraph eId="441A-700__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 automatically expires at the end of
+30 days if not terminated previously by a health authority. At the end of the
+court-ordered period of isolation or quarantine, the health authority may
+petition to renew the detention of the person for additional periods which each
+must not exceed the shorter of 120 days or either, if the person is isolated,
+the period of time which the health authority expects the person will be
+infectious with the communicable disease or, if the person is quarantined, the
+period of time which the health authority determines is necessary to determine
+whether the person has been infected with the communicable disease. For each
+renewal, the petition must set forth to the court specific reasons why further
+isolation or quarantine is appropriate and that the person likely poses an
+ongoing immediate threat to the health of the public. If the court finds in
+considering a petition for renewal that the person is noncompliant with a
+court-ordered measure to control or resolve the risk of transmitting the
+communicable disease, it may order the continued isolation and treatment of the
+person for any period of time the court deems necessary to resolve the
+immediate and ongoing risk of the person transmitting the disease.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-700__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Before issuing an order for involuntary
+isolation or quarantine or a renewal thereof, the court shall explore other
+alternative courses of isolation, quarantine and treatment within the least
+restrictive appropriate environment as suggested by the evaluation team who
+evaluated the person, or other persons professionally qualified in the field of
+communicable diseases, which the court believes may be in the best interests of
+the person.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2204)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-710">
+          <num>441A.710</num>
+          <heading>Clinical abstract to accompany order.</heading>
+          <content>
+            <p>The
+order for involuntary court isolation or quarantine of any person to a medical
+facility, public or private, must be accompanied by a clinical abstract,
+including a history of illness, diagnosis and treatment, and the names of
+relatives or correspondents.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2205)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-720">
+          <num>441A.720</num>
+          <heading>Transportation to public or private medical facility, residence
+or other safe location.</heading>
+          <subsection eId="441A-720__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Transport the person; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-720__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Arrange for the person to be
+transported by:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-720__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A system for the nonemergency medical
+transportation of persons whose operation is authorized by the Nevada
+Transportation Authority; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-720__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If medically necessary, an ambulance service
+that holds a permit issued pursuant to the provisions ofchapter 450Bof NRS,
+ï¿½to the
+appropriate public or private medical facility, residence or other safe
+location.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2205; A2007,
+1861;2011,
+2512)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-900">
+          <num>441A.900</num>
+          <heading>Injunction: Grounds; responsibility for prosecution; authority
+of court.</heading>
+          <subsection eId="441A-900__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who refuses to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="441A-900__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Comply with any regulation of the Board
+relating to the control of a communicable disease;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-900__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Comply with any provision of this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-900__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Submit to approved treatment or examination
+required or authorized by this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-900__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Provide any information required by this
+chapter; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="441A-900__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Perform any duty imposed by this chapter,
+ï¿½may be
+enjoined by a court of competent jurisdiction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="441A-900__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An action for an injunction pursuant to
+this section must be prosecuted by the Attorney General, any district attorney
+or any private legal counsel retained by a local board of health in the name of
+and upon the complaint of the health authority.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="441A-900__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The court in which an injunction is
+sought may make any order reasonably necessary to carry out the purpose or
+intent of any provision of this chapter or to compel compliance with any
+regulation of the Board or order of the health authority relating to the
+control of a communicable disease.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+299)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-910">
+          <num>441A.910</num>
+          <heading>Criminal penalty for violation of chapter; exception.</heading>
+          <content>
+            <p>Except as otherwise provided inNRS 441A.315, every person who violates
+any provision of this chapter is guilty of a misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+300; A2021,
+3139)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-920">
+          <num>441A.920</num>
+          <heading>Criminal penalty and administrative fine for failure to comply
+with regulations or requirements of chapter; exception.</heading>
+          <content>
+            <p>Except as otherwise provided inNRS 441A.315, every provider of health
+care, medical facility or medical laboratory that willfully fails, neglects or
+refuses to comply with any regulation of the Board relating to the reporting of
+a communicable disease, a drug overdose or an attempted suicide or any requirement
+of this chapter is guilty of a misdemeanor and, in addition, may be subject to
+an administrative fine of $1,000 for each violation, as determined by the
+Board.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+300; A2017,
+4402;2021,
+866,3139)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_441A-930">
+          <num>441A.930</num>
+          <heading>District attorney to prosecute violators.</heading>
+          <content>
+            <p>The district attorney of the county in which
+any violation of this chapter occurs shall prosecute the person responsible for
+the violation.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+300)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

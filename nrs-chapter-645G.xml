@@ -1,0 +1,2698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-645G"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-645G"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="645G"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-645G/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-645G/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-645G/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-645G/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_645G">
+        <num>645G</num>
+        <heading>EXCHANGE FACILITATORS</heading>
+        <section eId="sec_645G-010">
+          <num>645G.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 645G.020to645G.075, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3105; A2021,
+2061)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-020">
+          <num>645G.020</num>
+          <heading>ï¿½Commissionerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Commissionerï¿½
+means the Commissioner of Financial Institutions.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3105)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-030">
+          <num>645G.030</num>
+          <heading>ï¿½Divisionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Divisionï¿½
+means the Division of Financial Institutions of the Department of Business and
+Industry.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3105)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-040">
+          <num>645G.040</num>
+          <heading>ï¿½Exchange facilitatorï¿½ defined.</heading>
+          <subsection eId="645G-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Exchange facilitatorï¿½ means a person
+who, for compensation of any kind, acts as:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-040__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A qualified intermediary as defined in 26
+C.F.R. ï¿½ 1.1031</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-040__subsec_1__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>-1</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-040__subsec_1__subsec_g">
+              <num>(g)</num>
+              <subparagraph eId="645G-040__subsec_1__subsec_g__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>for a client whose relinquished property is located
+in this State; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="645G-040__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An exchange accommodation titleholder, as
+that term is defined in Revenue Procedure 2000-37, who holds title to property
+located in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term includes any person who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-040__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Maintains an office in this State for the
+purpose of soliciting business as an exchange facilitator; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-040__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Advertises or holds himself or herself out as
+prepared to facilitate a tax-deferred exchange of property in this State by acting
+as the custodian of money or other property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-040__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The term does not include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-040__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A taxpayer or disqualified person, as those
+terms are defined in 26 C.F.R. ï¿½ 1.1031</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-040__subsec_3__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>-1</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-040__subsec_3__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>, who is seeking to qualify for
+nonrecognition pursuant to 26 U.S.C. ï¿½ 1031;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-040__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A financial institution when acting solely as
+a depository for funds used in a tax-deferred exchange of property;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-040__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person who advertises for and teaches
+seminars or classes, or otherwise gives presentations to attorneys,
+accountants, real estate professionals, tax professionals or other
+professionals with the primary purpose of teaching such professionals about
+tax-deferred exchanges or training such professionals to act as exchange
+facilitators; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-040__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A qualified intermediary, as defined in 26 C.F.R.
+ï¿½ 1.1031</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-040__subsec_3__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>-1</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-040__subsec_3__subsec_g">
+              <num>(g)</num>
+              <subparagraph eId="645G-040__subsec_3__subsec_g__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>, who holds exchange funds received from the disposition of
+relinquished property located outside this State.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1993,
+2019; A1995,
+994;1997,
+2167;1999,
+1539;2005,
+2807;2007,
+3115)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-050">
+          <num>645G.050</num>
+          <heading>ï¿½Financial institutionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Financial
+institutionï¿½ means any bank, savings and loan association, savings bank or
+trust company, including a subsidiary or holding company of these, doing
+business in this State that is federally insured and organized under, or
+supervised pursuant to, the laws of the United States or of any state.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3105)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-060">
+          <num>645G.060</num>
+          <heading>ï¿½Licenseeï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Licenseeï¿½
+means a person licensed as an exchange facilitator pursuant to the provisions
+of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3105)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-075">
+          <num>645G.075</num>
+          <heading>ï¿½Nationwide Multistate Licensing System and Registryï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Nationwide Multistate Licensing System and
+Registryï¿½ or ï¿½Registryï¿½ has the meaning ascribed to it inNRS 604A.083.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+2059)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-090">
+          <num>645G.090</num>
+          <heading>Inapplicability of chapter to participants in Regulatory
+Experimentation Program for Product Innovation; exception.</heading>
+          <content>
+            <p>Except as otherwise required by the Director
+of the Department of Business and Industry pursuant toNRS 657A.430or657A.620, the provisions of this chapter
+do not apply to a participant in the Regulatory Experimentation Program for
+Product Innovation established and administered pursuant tochapter 657Aof NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3996)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-100">
+          <num>645G.100</num>
+          <heading>License required; regulations; application; issuance, expiration
+and renewal of license.</heading>
+          <subsection eId="645G-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 645G.120, a person shall not act as an
+exchange facilitator unless he or she is licensed as such with the Division.
+The Division may adopt such regulations as it deems necessary to carry out the
+provisions of this chapter, including, without limitation, regulations
+prescribing amounts required for liquidity purposes.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To apply for a license as an exchange
+facilitator, a person must pay the Division the fee prescribed byNRS 645G.220.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In addition to the requirements set
+forth in subsection 2, the person must submit to the Division:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-100__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The following information on a form provided
+by the Division:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="645G-100__subsec_3__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The applicantï¿½s name, business address
+and telephone number;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="645G-100__subsec_3__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The name under which the applicant
+will hold the money or other property of a client;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="645G-100__subsec_3__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The names, residence and business
+addresses of all shareholders or members who hold 10 percent or more of the
+voting stock of the applicantï¿½s business and all persons having an interest in
+the business as principals, partners, officers, trustees or directors,
+specifying the capacity and title of each;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="645G-100__subsec_3__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>The length of time the applicant has
+been engaged in the business of acting as an exchange facilitator;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="645G-100__subsec_3__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>A summary description of the business
+of the applicant;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="645G-100__subsec_3__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>A list of any similar licenses
+obtained and maintained in other states or other jurisdiction and information
+regarding revocation of any such license;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="645G-100__subsec_3__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>The tax identification number of the
+applicant; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="645G-100__subsec_3__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>A current certificate of good standing
+for the applicant from the state or other jurisdiction in which the applicantï¿½s
+business is formed; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="645G-100__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>All information required to complete the
+application.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-100__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Division shall approve an
+application submitted pursuant to this section within 45 days after the submission
+of the completed application, any additional information required by the
+Division and proof satisfactory to the Division that the applicant has complied
+with the provisions ofNRS 645G.320.
+Upon approval of an application, the Division shall issue a license to the
+applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-100__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A license issued pursuant to this
+chapter expires on December 31 of each year unless it is renewed. To renew such
+a license, the licensee must submit to the Commissioner on or after November 1
+and on or before December 31 of each year:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-100__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An application for renewal which contains the
+information required by the Division for that purpose; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-100__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A renewal fee prescribed byNRS 645G.220.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1993,
+2019; A1997,
+2167;2003,
+1293,2862;2005,
+1290,1291,2777,2807,2814;2007,
+3116;2021,
+2061)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-110">
+          <num>645G.110</num>
+          <heading>Payment of child support: Submission of certain information by
+applicant; grounds for denial of license; duty of Division. [Effective until
+the date of the repeal of 42 U.S.C. ï¿½ 666, the federal law requiring each state
+to establish procedures for withholding, suspending and restricting the
+professional, occupational and recreational licenses for child support
+arrearages and for noncompliance with certain processes relating to paternity
+or child support proceedings.]</heading>
+          <subsection eId="645G-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to any other requirements
+set forth in this chapter:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-110__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A natural person who applies for the issuance
+of a license as an exchange facilitator shall include the social security
+number of the applicant in the application submitted to the Division.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-110__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A natural person who applies for the issuance
+or renewal of a license as an exchange facilitator shall submit to the Division
+the statement prescribed by the Division of Welfare and Supportive Services of
+the Department of Health and Human Services pursuant toNRS 425.520. The statement must be
+completed and signed by the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Division shall include the
+statement required pursuant to subsection 1 in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-110__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The application or any other forms that must
+be submitted for the issuance or renewal of the license; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-110__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A separate form prescribed by the Division.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-110__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An applicant may not be licensed as an
+exchange facilitator by the Division if the applicant is a natural person who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-110__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Fails to submit the statement required
+pursuant to subsection 1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-110__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Indicates on the statement submitted pursuant
+to subsection 1 that the applicant is subject to a court order for the support
+of a child and is not in compliance with the order or a plan approved by the
+district attorney or other public agency enforcing the order for the repayment
+of the amount owed pursuant to the order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-110__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If an applicant indicates on the
+statement submitted pursuant to subsection 1 that the applicant is subject to a
+court order for the support of a child and is not in compliance with the order
+or a plan approved by the district attorney or other public agency enforcing
+the order for the repayment of the amount owed pursuant to the order, the
+Division shall advise the applicant to contact the district attorney or other
+public agency enforcing the order to determine the actions that the applicant
+may take to satisfy the arrearage.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2164; A2005,
+2777,2807;2007,
+3117)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-120">
+          <num>645G.120</num>
+          <heading>License required for certain members and officers of certain
+business organizations.</heading>
+          <subsection eId="645G-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the exchange facilitator is a
+corporation qualified to do business in this State, every officer, director and
+exchange facilitator officer designated pursuant toNRS 645G.170of the corporation who does
+business in this State must be licensed. No other employee is required to be
+licensed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the exchange facilitator is not a
+natural person or a publicly traded company, each shareholder, member or other
+owner who owns 10 percent or more of the voting stock, shares or other
+ownership interest of the exchange facilitator must be licensed.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1993,
+2020; A2007,
+3119)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-130">
+          <num>645G.130</num>
+          <heading>Duties of licensee: Maintenance of principal place of business
+or registered agent in state; notice of change of address or telephone number;
+provision of information required by Division; notice of licensing changes to
+clients.</heading>
+          <subsection eId="645G-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Maintain a principal place of business
+in this State or maintain a registered agent in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Inform the Division in writing within
+10 working days after any change in the address or telephone number of his or
+her principal place of business or registered agent, and provide any other
+information required by the Division; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-130__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Inform all clients within 10 working
+days after:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-130__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A change in any of the officers, directors,
+employees or owners of the licensee who are required to obtain a license
+pursuant toNRS 645G.120or645G.170; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-130__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The licensee or any person described in
+paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-130__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>acquires a new license, has his or her license suspended or
+revoked or otherwise relinquishes, loses or has any other change in the status
+of the license.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1993,
+2020; A2007,
+3119)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-140">
+          <num>645G.140</num>
+          <heading>License nontransferable; business of licensee may only be sold
+or transferred to another licensee.</heading>
+          <subsection eId="645G-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A license issued pursuant to this
+chapter is nontransferable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The business of a licensee must not be
+sold or ownership of the business transferred before the prospective buyer or
+owner has complied with the provisions ofNRS
+645G.100.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3106)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-150">
+          <num>645G.150</num>
+          <heading>Branch offices.</heading>
+          <subsection eId="645G-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A licensee may establish one or more
+branch offices in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A licensee who establishes one or more
+branch offices in this State shall provide written notice to the Division of
+the establishment of any such branch office within 30 days after establishment
+of the branch office.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3106)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-160">
+          <num>645G.160</num>
+          <heading>Display of license.</heading>
+          <content>
+            <p>A
+license issued pursuant to the provisions of this chapter must be conspicuously
+displayed in the primary place of business of the licensee, and a copy of the
+license must be conspicuously displayed in each branch office of the licensee.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3106)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-170">
+          <num>645G.170</num>
+          <heading>Designation of exchange facilitator officer.</heading>
+          <subsection eId="645G-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The business of a licensee, if the
+licensee is not a natural person, must be conducted under the direct management
+of an officer or employee of the licensee designated by the licensee as an
+exchange facilitator officer, who is licensed pursuant to the provisions of
+this chapter and who is:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-170__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An attorney or certified public accountant
+admitted to practice in any state or territory of the United States;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-170__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A certified exchange specialist certified by
+the Federation of Exchange Accommodators or its successor; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-170__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person who has been actively conducting the
+business of an exchange facilitator or who has equivalent experience, as
+determined by the Division, for the 3 years immediately preceding his or her
+designation as an exchange facilitator officer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A licensee shall notify the Division in
+writing within 10 working days after:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-170__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The designation of any exchange facilitator
+officer, setting forth the experience and qualifications of the exchange
+facilitator officer and other such information as may be required by the
+Division; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-170__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The termination of the employment of any
+exchange facilitator officer.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3106)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-180">
+          <num>645G.180</num>
+          <heading>Cancellation of license for failure to submit item required for
+renewal; reinstatement.</heading>
+          <subsection eId="645G-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, if a licensee fails to submit any item required for the renewal
+of his or her license pursuant toNRS
+645G.100,645G.200or645G.210, as applicable, to the
+Commissioner on or after November 1 and on or before December 31 of any year,
+the license is cancelled as of December 31 of that year and no license may be
+issued to the licensee except upon another application for an original license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner may reinstate a
+license which has been cancelled pursuant to subsection 1 if the licensee
+submits to the Commissioner on or before February 28 of the year following the
+cancellation of the license:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-180__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An application for renewal which contains the
+information required by the Division for that purpose; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-180__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A fee one and one-half times the amount
+otherwise required for renewal.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3108; A2021,
+2063)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-200">
+          <num>645G.200</num>
+          <heading>Reciprocal license: Person licensed in another jurisdiction.</heading>
+          <subsection eId="645G-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who is licensed as an exchange
+facilitator in another state or territory of the United States and is not
+otherwise required to be licensed pursuant to the provisions of this chapter
+may submit an application for a reciprocal license as an exchange facilitator
+pursuant to the provisions of this section. The Division shall issue a
+reciprocal license to the applicant if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-200__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The applicant is licensed in a jurisdiction
+that grants reciprocal licensing to a person licensed pursuant to this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-200__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Division determines that the laws and
+regulations governing exchange facilitators of the jurisdiction in which the
+applicant is licensed are at least equivalent to the provisions of this
+chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-200__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The applicant provides proof satisfactory to
+the Division that the applicant has complied with the requirements ofNRS 645G.320and645G.330;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-200__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The applicant pays the fee required pursuant
+toNRS 645G.220;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-200__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The applicant designates the Division as its
+representative to receive service of process for matters arising in this State;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-200__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The applicant does not maintain an office in
+this State in connection with the conduct of the business of an exchange
+facilitator.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Division shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-200__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Examine the laws of each state to identify
+the jurisdictions that meet the requirements for recognition of a reciprocal
+license pursuant to this section; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-200__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Publish annually a list of the jurisdictions
+that meet the requirements of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A license issued pursuant to this
+section expires on December 31 of each year unless it is renewed. To renew such
+a license, the licensee must submit to the Commissioner on or after November 1
+and on or before December 31 of each year:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-200__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An application for renewal which contains the
+information required by the Division for that purpose; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-200__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The renewal fee prescribed byNRS 645G.220.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3113; A2021,
+2063)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-210">
+          <num>645G.210</num>
+          <heading>Special license: Financial institutions.</heading>
+          <subsection eId="645G-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A financial institution may obtain a
+special license pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Division shall issue a special
+license to a financial institution if the financial institution:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-210__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Maintains an office in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-210__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Pays the fee required pursuant toNRS 645G.220for the issuance of a
+license; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-210__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Complies with any other requirements set
+forth by regulations adopted by the Division.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A financial institution which obtains a
+special license pursuant to this section is exempt from the requirements of
+subsections 2, 3 and 4 ofNRS 645G.100except as otherwise required by regulations adopted by the Division.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-210__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A license issued pursuant to this
+section expires on December 31 of each year unless it is renewed. To renew such
+a license, the licensee must submit to the Commissioner on or after November 1
+and on or before December 31 of each year:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-210__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An application for renewal which contains the
+information required by the Division for that purpose; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-210__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The renewal fee prescribed byNRS 645G.220.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3113; A2021,
+2064)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-220">
+          <num>645G.220</num>
+          <heading>Fees; regulations.</heading>
+          <subsection eId="645G-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner shall charge and
+collect the following fees:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-220__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the filing and investigation of an
+application for a license, a nonrefundable fee of not more than $1,000 and any
+additional expenses incurred in the process of investigation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-220__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For the issuance of a license, at least $200;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-220__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For the annual renewal of a license, at least
+$200;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-220__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For the issuance of a license for each branch
+office of a licensee, a nonrefundable fee of at least $200;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-220__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>For the annual renewal of a license for each
+branch office of a licensee, at least $250;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-220__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>For the issuance of a reciprocal license, at
+least $150;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-220__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>For the annual renewal of a reciprocal
+license, at least $150; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-220__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>For the reissuance of a license because of a
+change in the business address of the licensee, at least $200.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All money received by the Commissioner
+pursuant to paragraph</p>
+            </content>
+            <paragraph eId="645G-220__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1 must be placed in the Investigative
+Account for Financial Institutions created byNRS
+232.545.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-220__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner shall adopt
+regulations establishing the amount of fees required pursuant to this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3108)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-230">
+          <num>645G.230</num>
+          <heading>Audit of licensees; report to Legislature.</heading>
+          <subsection eId="645G-230__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner shall cause to be
+conducted at least every 5 years an audit of all licensees. The Commissioner
+shall cause to be conducted each year on a random basis additional partial
+audits of any licensee who has a history of violations of the provisions of
+this chapter, or the regulations adopted pursuant thereto, as determined by the
+Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-230__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall require the use
+of standard auditing procedures and shall establish a manual to describe the
+standard auditing procedures. The manual must include, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-230__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Specific audit objectives;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-230__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Standards for documentation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-230__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Policies for supervisory review;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-230__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Policies for the training of auditors;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-230__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The format for the audit report; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-230__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Procedures for the presentation, distribution
+and retention of the audit report.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-230__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>On or before March 1 of each year, the
+Commissioner shall make a report of each audit to the Legislature, if it is in
+session, or to the Interim Finance Committee, if the Legislature is not in
+session.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3114)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-250">
+          <num>645G.250</num>
+          <heading>Commissioner authorized to take action to participate; charges
+for use; regulations; provisions do not replace or affect authority of
+Commissioner regarding licensing.</heading>
+          <subsection eId="645G-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner may, in furtherance of
+his or her duties and the duties of the Division with respect to the issuance
+and renewal of licenses pursuant to this chapter, participate in the Nationwide
+Multistate Licensing System and Registry. The Commissioner may take any action
+with respect to participation in the Registry that the Commissioner deems
+necessary to carry out such duties, including, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-250__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Facilitating and participating in the
+establishment and implementation of the Registry;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-250__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Establishing relationships or contracts with
+the Registry or other entities designated by the Registry;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-250__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Authorizing the Registry to collect and
+maintain records of applicants for licenses and licensees;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-250__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Authorizing the Registry to, on behalf of the
+Commissioner or the Division, as applicable, collect and process any fees
+associated with licensure, examinations, fines, assessments and any other
+similar fees;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-250__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Requiring an applicant for a license or a
+licensee to use the Registry to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="645G-250__subsec_1__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Apply for the issuance or renewal of a
+license;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="645G-250__subsec_1__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Amend or surrender a license;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="645G-250__subsec_1__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Submit any reports or the results of
+any examination that the Commissioner may require;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="645G-250__subsec_1__subsec_e__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Pay any applicable fees; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="645G-250__subsec_1__subsec_e__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Engage in any other activity that the
+Commissioner may require; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="645G-250__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Authorizing the Registry to, on behalf of the
+Commissioner or the Division, as applicable, collect fingerprints in order to
+receive or conduct a background check on the criminal history of an applicant
+for a license or a licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An applicant for a license or a
+licensee shall, in addition to any other fees associated with the license, pay
+all applicable charges to use the Registry, including, without limitation, any
+processing charges established by the administrator of the Registry.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-250__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner may adopt any
+regulations the Commissioner determines to be necessary or appropriate to carry
+out the provisions of this section. Such regulations may, without limitation,
+establish additional procedures and requirements for participation in the
+Registry.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-250__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The provisions of this section shall
+not be construed to replace or affect the authority of the Commissioner or the
+Division to grant, deny, suspend, terminate, revoke or refuse to renew a
+license.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+2059)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-260">
+          <num>645G.260</num>
+          <heading>Submission and processing of fingerprints.</heading>
+          <subsection eId="645G-260__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner may require an
+applicant for a license or a licensee to submit a complete set of fingerprints
+when the Commissioner determines necessary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-260__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner may use the services of
+the Registry to process and to submit the fingerprints to the Federal Bureau of
+Investigation, to the Central Repository for Nevada Records of Criminal
+History, to any federal or state law enforcement agency or to any other entity
+authorized to receive such information for the purpose of conducting a
+background check of the criminal history of an applicant for a license or a
+licensee.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+2060)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-270">
+          <num>645G.270</num>
+          <heading>Commissioner required to report certain information or material;
+confidentiality of information or material provided; Commissioner authorized to
+enter into certain agreements and arrangements.</heading>
+          <subsection eId="645G-270__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Subject to any limitations or
+restrictions contained in federal or state law governing the privacy or
+confidentiality of records, the Commissioner shall report regularly any
+violations of applicable laws committed by applicants for licenses or licensees,
+enforcement actions and other relevant information to the Registry.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-270__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The requirements under any federal or
+state law, including, without limitation, rules of a federal or state court,
+regarding the privacy and confidentiality of any information or material
+provided to the Registry and any privilege arising under federal or state law
+with respect to such information or material, continue to apply to such
+information or material after it has been disclosed to the Registry. Such
+information and material may be shared with federal and state regulatory
+officials with oversight authority over licensees without the loss of privilege
+or the loss of confidentiality protections provided by federal or state law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-270__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner may enter into
+agreements or sharing arrangements with other governmental agencies, the
+Conference of State Bank Supervisors, the State Regulatory Registry, LLC, or
+other associations representing governmental agencies.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+2060)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-280">
+          <num>645G.280</num>
+          <heading>Additional materials required to be submitted.</heading>
+          <subsection eId="645G-280__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to any other requirements
+set forth in this chapter, each applicant for the issuance of a license
+pursuant to this chapter and each owner, officer, director and responsible
+person of the applicant, each person in control of the applicant and any other
+person the Commissioner may require in accordance with guidelines of the
+Registry or other multistate agreements shall submit to the Registry:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-280__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A complete set of fingerprints for submission
+to the Federal Bureau of Investigation and any other governmental agency or
+entity authorized to receive such information for a state, national and
+international background check on the criminal history of the person;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-280__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Information concerning the personal history,
+financial history and experience of the person in a form prescribed by the Registry,
+including, without limitation, an authorization of the person for the Registry
+and the Commissioner to obtain:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="645G-280__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>An independent credit report and
+credit score from a consumer reporting agency described in section 603</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="645G-280__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>of
+the Fair Credit Reporting Act, 15 U.S.C. ï¿½ 1681a</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-280__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>, for the purpose of
+evaluating the financial responsibility of the person at the time of the
+submission of the application; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="645G-280__subsec_1__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Additional independent credit reports
+and credit scores to confirm that the person continues to comply with any
+applicable requirements concerning financial responsibility;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="645G-280__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Information related to any administrative,
+civil or criminal findings made by any governmental jurisdiction concerning the
+person; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-280__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Any other information concerning the person
+that the Registry or Commissioner may require.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-280__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-280__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Controlï¿½ has the meaning ascribed to it inNRS 682A.047.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-280__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Responsible personï¿½ means a person who is
+employed by an applicant and who has principal, active managerial authority
+over the provision of services in this State.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+2060)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-290">
+          <num>645G.290</num>
+          <heading>Licensee required to register and maintain unique identifier;
+Commissioner authorized to issue license through Registry; references to
+Commissioner deemed references to Registry.</heading>
+          <subsection eId="645G-290__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each licensee shall register with and
+maintain a valid unique identifier with the Registry.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-290__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner may, on behalf of the
+Division, issue a license through the Registry.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-290__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>To the extent that the Commissioner has
+delegated to the Registry any of his or her duties or the duties of the
+Division with respect to the issuance and renewal of licenses as authorized by
+the provisions of this chapter, any reference to the Commissioner or the
+Division in this chapter shall be deemed to be a reference to the Registry.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-290__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½unique
+identifierï¿½ means a number or other identifier assigned by the protocols
+established by the Registry.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+2061)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-300">
+          <num>645G.300</num>
+          <heading>Clientï¿½s money and property: Fiduciary duty of licensee.</heading>
+          <subsection eId="645G-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each licensee is a fiduciary of all
+money, property, other considerations and instruments received by the licensee
+from the client.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each licensee shall invest money
+related to a tax-deferred exchange of property in investments which meet the
+reasonable standards that are applicable to persons acting as fiduciaries in
+this State.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3106)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-310">
+          <num>645G.310</num>
+          <heading>Money held for client: Written approval required for withdrawal.</heading>
+          <content>
+            <p>Money held in any account for a client may not
+be withdrawn from the account without the written approval of the licensee and
+the client.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3107)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-320">
+          <num>645G.320</num>
+          <heading>Fidelity bond or deposit.</heading>
+          <subsection eId="645G-320__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, an exchange facilitator shall maintain one or more fidelity bonds
+in a total amount of not less than $1,000,000 executed by an insurer authorized
+to do business in this State and approved by the Division.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-320__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In lieu of such a bond, a licensee may
+deposit with the Division under such terms and conditions as the Division may
+prescribe, a like amount of lawful money of the United States or any other form
+of security authorized byNRS 100.065.
+If security is provided in the form of a savings certificate, certificate of
+deposit or investment certificate, the certificate must state that the amount
+is unavailable for withdrawal except upon order of the Division.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-320__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A licensee shall provide proof of the
+bond required pursuant to this section, including, without limitation, the name
+and address of the insurer, to a client.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-320__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Any person claiming against a bond or
+deposit required by this section may bring an action in a court of competent
+jurisdiction on the bond or deposit for damages to the extent covered by the
+bond or deposit. A person who brings an action on a bond or deposit shall
+notify the Division in writing upon filing the action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-320__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Upon receiving a request from a person
+for whose benefit a bond or deposit is required, the Division shall notify the
+person:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-320__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>That a bond is in effect or that a deposit
+has been made, and the amount of either; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-320__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If there is an action against the bond, of
+the title, court and case number of the action and the amount sought by the
+plaintiff.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-320__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>If an insurer or, in the case of a
+deposit, the Division wishes to make a payment without awaiting action by a
+court, the amount of the bond or deposit must be reduced to the extent of any
+payment made by the insurer or the Division in good faith under the bond or
+deposit. Any payment must be based on written claims received by the insurer or
+the Division before any action is taken by a court.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-320__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Claims against a bond or deposit have
+equal priority, and if the bond or deposit is insufficient to pay all claims in
+full, they must be paid on a pro rata basis. Partial payment of claims is not
+full payment, and any claimant may bring an action against the licensee for the
+unpaid balance.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1993,
+2020; A2007,
+3119)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-330">
+          <num>645G.330</num>
+          <heading>Insurance: Maintenance of policy; other security; proof of
+coverage; claims; duty of Division.</heading>
+          <subsection eId="645G-330__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, a licensee shall maintain a policy of insurance covering
+liability for errors and omissions in an amount not less than $250,000 executed
+by an insurer authorized to do business in this State and approved by the
+Division.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-330__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In lieu of such a policy of insurance,
+a licensee may deposit with the Division under such terms and conditions as the
+Division may prescribe, a like amount of lawful money of the United States or
+any other form of security authorized byNRS
+100.065. If security is provided in the form of a savings certificate,
+certificate of deposit or investment certificate, the certificate must state
+that the amount is unavailable for withdrawal except upon order of the
+Division.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-330__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A licensee shall provide proof of the
+coverage required pursuant to this section, including, without limitation, the
+name and address of the insurer, to a client.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-330__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The provisions of subsections 1 and 2
+do not prohibit the licensee from maintaining a policy of insurance, deposits
+or other forms of security in excess of the amounts required by subsections 1
+and 2.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-330__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Any person claiming against a policy of
+insurance or deposit required by this section may bring an action in a court of
+competent jurisdiction on the policy of insurance or deposit for damages to the
+extent covered by the policy. A person who brings an action on a policy or
+deposit shall notify the Division in writing upon filing the action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-330__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Upon receiving a request from a client
+of an exchange facilitator, the Division shall notify the client:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-330__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>That a policy of insurance is in effect or
+that a deposit has been made, and the amount of either; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-330__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If there is an action against the policy of
+insurance, of the title, court and case number of the action and the amount
+sought by the plaintiff.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-330__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>If an insurer or, in the case of a
+deposit, the Division wishes to make payment without awaiting action by a
+court, the amount of the policy or deposit must be reduced to the extent of any
+payment made by the insurer or the Division in good faith under the policy or
+deposit. Any payment must be based on written claims received by the insurer or
+the Division before any action is taken by a court.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-330__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Claims against a policy of insurance or
+deposit have equal priority, and if the policy or deposit is insufficient to
+pay all claims in full, they must be paid on a pro rata basis. Partial payment of
+claims is not full payment, and any claimant may bring an action against the
+exchange facilitator for the unpaid balance.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3107)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-340">
+          <num>645G.340</num>
+          <heading>Written notice of cancellation or withdrawal of bond, insurance
+or other security; suspension of license.</heading>
+          <content>
+            <p>A
+licensee shall provide written notice to the Division at least 30 days before
+the cancellation or withdrawal of any bond, policy of insurance or security
+required pursuant toNRS 645G.320or645G.330. The Division shall suspend the
+license of a licensee upon notice that the licensee has cancelled or withdrawn
+any bond, policy of insurance or security required pursuant toNRS 645G.320or645G.330.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3107)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-350">
+          <num>645G.350</num>
+          <heading>Exchange funds required to be kept separate.</heading>
+          <content>
+            <p>All exchange funds must be kept separate from
+money belonging to the licensee and must be deposited in a financial
+institution that is federally insured or insured by a private insurer approved
+pursuant toNRS 672.755unless another
+financial institution has been designated in writing in the exchange agreement.
+The money when deposited must be designated as ï¿½trust fundsï¿½ or ï¿½escrow
+accountsï¿½ or under some other appropriate name indicating that the money is not
+the money of the licensee.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3107)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-360">
+          <num>645G.360</num>
+          <heading>Exchange funds not subject to execution or attachment;
+commingling prohibited.</heading>
+          <subsection eId="645G-360__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Exchange funds are not subject to
+execution or attachment on any claim against the licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-360__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A licensee shall not knowingly keep or
+cause to be kept any money in any bank, credit union or other financial
+institution under any name designating the money as belonging to the clients of
+any licensee, unless the money belongs to the client and was actually entrusted
+to the licensee by the client.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3108)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-400">
+          <num>645G.400</num>
+          <heading>Deposit of money received by Commissioner.</heading>
+          <content>
+            <p>Except as otherwise provided inNRS 645G.220and645G.410, all money received by the
+Commissioner pursuant to this chapter must be deposited in the State Treasury
+pursuant to the provisions ofNRS 658.091.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3108)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-410">
+          <num>645G.410</num>
+          <heading>Deposit and use of money received by Division from civil
+penalty.</heading>
+          <subsection eId="645G-410__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The licensing of exchange facilitators;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-410__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any program it develops to supply
+information regarding exchange facilitators to the public.
+ï¿½Any
+remaining money may be used by the Division to reimburse residents of Nevada
+for financial losses caused by the illegal conduct of an exchange facilitator.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1993,
+2020; A2007,
+3120)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-500">
+          <num>645G.500</num>
+          <heading>Investigation of actions of exchange facilitators and other
+persons.</heading>
+          <content>
+            <p>The Commissioner or the
+Division may investigate the actions of any exchange facilitator or any person
+who acts in any such capacity within this State.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3108)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-505">
+          <num>645G.505</num>
+          <heading>Division required to maintain records of complaints,
+investigations and denials of applications.</heading>
+          <subsection eId="645G-505__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The rulings or decisions upon all
+complaints filed with the Division concerning an exchange facilitator.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-505__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All investigations instituted by the
+Commissioner or the Division in the first instance, upon or in connection with
+which any hearing has been held, or in which the licensee charged has made no
+defense.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-505__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Denials of applications made to the
+Division for licensing.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3108)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-510">
+          <num>645G.510</num>
+          <heading>Confidentiality of certain records of Division; exception.</heading>
+          <subsection eId="645G-510__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section andNRS 239.0115, a complaint
+filed with the Division alleging a violation of this chapter, all documents and
+other information filed with the complaint and all documents and other
+information compiled as a result of an investigation conducted to determine
+whether to initiate disciplinary action are confidential.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-510__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A complaint or other document filed
+with the Division to initiate disciplinary action and all documents and
+information considered by the Division when determining whether to impose
+discipline are public records.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3109)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-515">
+          <num>645G.515</num>
+          <heading>Authorized disciplinary action; grounds; orders imposing
+discipline deemed public records; payment of costs incurred by Division.</heading>
+          <subsection eId="645G-515__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner may require a licensee
+to pay an administrative fine of not more than $200 per day for each violation
+the licensee commits or may suspend, revoke, deny the renewal of or place
+conditions upon the license, or impose any combination of those actions, at any
+time if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-515__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The licensee, by false or fraudulent
+representation, obtained a license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-515__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The licensee, whether or not acting as such,
+is found guilty of:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="645G-515__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Making any material misrepresentation.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="645G-515__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Making any false promises of a
+character likely to influence, persuade or induce.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="645G-515__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The licensee has failed, within a reasonable
+time, to account for or to remit any money which comes into his or her
+possession or under his or her control and which belongs to others.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-515__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The licensee has engaged in any fraudulent
+act.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-515__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The licensee, or an owner, officer, director
+or employee of a licensee, is found guilty of any crime involving fraud,
+misrepresentation, deceit, embezzlement, misappropriation of money, robbery or
+theft.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-515__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The licensee has failed to fulfill a
+contractual duty to deliver property or money, unless the failure to deliver
+such property or money is beyond the control of the licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-515__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A receiver or conservator is appointed to
+take control of the assets of a licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-515__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The licensee is dissolved.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-515__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>The licensee is bankrupt.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-515__subsec_1__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>The licensee fails to maintain, for review
+and audit by the Division, each agreement governed by the provisions of this
+chapter and entered into by the licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-515__subsec_1__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>The licensee violates any provision of this
+chapter or any regulations adopted pursuant thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-515__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An order that imposes discipline and
+the findings of fact and conclusions of law supporting that order are public
+records.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-515__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In addition to any action set forth in
+subsection 1, the Division may, if it determines that an applicant for a
+license or a licensee has committed any of the acts set forth in subsection 1,
+after notice and a hearing required by law, require the applicant or licensee
+to pay the costs incurred by the Division to conduct any related investigation
+or hearing.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3109)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-520">
+          <num>645G.520</num>
+          <heading>Limitations on suspension and reissuance of license after
+revocation.</heading>
+          <subsection eId="645G-520__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Division shall not suspend the
+license of a licensee pursuant toNRS
+645G.515for more than 2 years.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-520__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>After the revocation of any license by
+the Commissioner as provided in this chapter, no new license may be issued to
+the same licensee within 2 years after the date of the revocation and then only
+provided that the licensee satisfies all the requirements for an original
+license.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3109)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-525">
+          <num>645G.525</num>
+          <heading>Suspension of license for failure to pay child support or comply
+with certain subpoenas or warrants; reinstatement of license. [Effective until
+2 years after the date of the repeal of 42 U.S.C. ï¿½ 666, the federal law
+requiring each state to establish procedures for withholding, suspending and
+restricting the professional, occupational and recreational licenses for child
+support arrearages and for noncompliance with certain processes relating to
+paternity or child support proceedings.]</heading>
+          <subsection eId="645G-525__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Division receives a copy of a
+court order issued pursuant toNRS 425.540that provides for the suspension of all professional, occupational and
+recreational licenses, certificates and permits issued to a person who is
+licensed as an exchange facilitator, the Division shall deem the license issued
+to that person to be suspended at the end of the 30th day after the date on
+which the court order was issued unless the Division receives a letter issued
+by the district attorney or other public agency pursuant toNRS 425.550to the person who is licensed
+as an exchange facilitator stating that the person has complied with the
+subpoena or warrant or has satisfied the arrearage pursuant toNRS 425.560.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-525__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Division shall reinstate the
+license of an exchange facilitator that has been suspended by a district court
+pursuant toNRS 425.540if the Division
+receives a letter issued by the district attorney or other public agency
+pursuant toNRS 425.550to the person
+whose license was suspended stating that the person whose license was suspended
+has complied with the subpoena or warrant or has satisfied the arrearage
+pursuant toNRS 425.560.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2165; A2005,
+2807;2007,
+3118)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-530">
+          <num>645G.530</num>
+          <heading>Investigations, disciplinary or other proceedings, fines and
+penalties not affected by expiration, revocation or voluntary surrender of
+license.</heading>
+          <subsection eId="645G-530__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Prohibit the Commissioner or the
+Division from initiating or continuing an investigation of, or action or
+disciplinary proceeding against, the exchange facilitator as authorized
+pursuant to the provisions of this chapter or the regulations adopted pursuant
+thereto; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-530__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Prevent the imposition or collection of
+any penalty authorized pursuant to the provisions of this chapter or the
+regulations adopted pursuant thereto against the exchange facilitator.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3110)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-535">
+          <num>645G.535</num>
+          <heading>Revocation, suspension or denial of renewal of license:
+Complaint; notice of hearing.</heading>
+          <subsection eId="645G-535__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The procedure set forth in this section
+andNRS 645G.540must be followed
+before the Division revokes, suspends or denies the renewal of any license
+issued pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-535__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon the initiation of a complaint by
+the Division, the matter must be set for a hearing by the Commissioner, who
+shall schedule a hearing before the Commissioner, and the licensee is entitled
+to be heard thereon in person or by counsel.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-535__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner shall hold the hearing
+within 90 days after the filing of a complaint by the Division. The time of the
+hearing may be continued at the discretion of the Commissioner or upon the
+written request of the licensee or of the Division for good cause shown.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-535__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The licensee must be given at least 30
+daysï¿½ notice in writing by the Division of the date, time and place of the
+hearing, together with a copy of the complaint and copies of all
+communications, reports, affidavits or depositions in possession of the
+Division relevant to the complaint. The Division may present evidence obtained
+after the notice only if the Division shows that the evidence was not available
+after diligent investigation before the time notice was given to the licensee
+and that the evidence was given or communicated to the licensee immediately
+after it was obtained.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-535__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Notice is complete upon delivery
+personally to the licensee or by mailing by certified mail to the last known
+address of the licensee.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3110)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-540">
+          <num>645G.540</num>
+          <heading>Revocation, suspension or denial of renewal of license: Answer;
+limitations on time of commencing proceeding.</heading>
+          <subsection eId="645G-540__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The licensee shall file an answer to
+the charges with the Commissioner not later than 30 days after service of the
+notice and other documents described in subsection 4 ofNRS 645G.535. The answer must contain an
+admission or denial of the allegations contained in the complaint and any
+defenses upon which the licensee will rely. If no answer is filed within the
+time limit described in this subsection, the Division may, after notice to the
+licensee served in the manner authorized in subsection 5 ofNRS 645G.535, move for the entry of a
+default against the licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-540__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The answer may be served by delivery to
+the Division, or by mailing the answer by certified mail to the principal
+office of the Division.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-540__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>No proceeding to suspend, revoke or
+deny the renewal of any license may be maintained unless it is commenced by the
+giving of notice to the licensee within 3 years of the time of the act charged,
+whether of commission or omission, except:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-540__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the charges are based upon a
+misrepresentation or failure to disclose, the period does not commence until
+the discovery of facts which do or should lead to the discovery of the
+misrepresentation or failure to disclose; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-540__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Whenever any action or proceeding is
+instituted to which the Division or the licensee is a party and which involves
+the conduct of the licensee in the transaction with which the charges are
+related, the running of the 3-year period with respect to the institution of a
+proceeding pursuant to this chapter to suspend, revoke or deny the renewal of
+the license is suspended during the pendency of the action or proceeding.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3110)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-545">
+          <num>645G.545</num>
+          <heading>Revocation, suspension or denial of renewal of license: Hearing;
+transcript.</heading>
+          <content>
+            <p>The hearing on the
+charges must be held at such time and place as the Commissioner prescribes. At
+the hearing, a stenographic transcript of the proceedings must be made if
+requested or required for judicial review. Any party to the proceedings
+desiring a transcript must be furnished with a copy upon payment to the
+Division of the reasonable cost of transcription.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3111)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-550">
+          <num>645G.550</num>
+          <heading>Power of Commissioner to administer oaths, certify acts and
+issue subpoenas; service of process.</heading>
+          <subsection eId="645G-550__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner shall have the power
+to administer oaths, certify to all official acts, and issue subpoenas for
+attendance of witnesses and the production of books and papers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-550__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In any hearing or investigation in any
+part of the State, the process issued by the Commissioner shall extend to all
+parts of the State and may be served by any person authorized to serve process
+of courts of record. The person serving any such process shall receive such
+compensation as may be allowed by the Commissioner, not to exceed the fees
+prescribed by law for similar service, and such fees must be paid in the same
+manner as provided inNRS 645G.555for
+the payment of the fees of witnesses.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3111)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-555">
+          <num>645G.555</num>
+          <heading>Fees and mileage for witness.</heading>
+          <subsection eId="645G-555__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each witness who appears by order of
+the Commissioner is entitled to receive for his or her attendance the same fees
+and mileage allowed by law to a witness in civil cases, which amount must be
+paid by the party at whose request the witness is subpoenaed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-555__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>When any witness not otherwise required
+to attend is subpoenaed by the Commissioner, his or her fees and mileage must
+be paid by the Division.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3111)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-560">
+          <num>645G.560</num>
+          <heading>Enforcement of subpoenas.</heading>
+          <subsection eId="645G-560__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The district court in and for the
+county in which any hearing may be held shall have the power to compel the
+attendance of witnesses, the giving of testimony and the production of books
+and papers as required by any subpoena issued by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-560__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In case of the refusal of any witness
+to attend or testify or produce any papers required by such subpoena, the
+Commissioner may report to the district court in and for the county in which
+the hearing is pending by petition, setting forth:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-560__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>That due notice has been given of the time
+and place of attendance of the witness or the production of the books and
+papers;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-560__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>That the witness has been subpoenaed in the
+manner prescribed in this chapter; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-560__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>That the witness has failed and refused to
+attend or produce the papers required by subpoena before the Commissioner in
+the cause or proceeding named in the subpoena, or has refused to answer
+questions propounded to him or her in the course of such hearing,
+ï¿½and asking
+an order of the court compelling the witness to attend and testify or produce
+the books or papers before the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-560__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The court, upon petition of the
+Commissioner, shall enter an order directing the witness to appear before the
+court at a time and place to be fixed by the court in such order, the time to
+be not more than 10 days from the date of the order, and then and there show
+cause why the witness has not attended or testified or produced the books or
+papers before the Commissioner. A certified copy of the order shall be served
+upon the witness. If it shall appear to the court that the subpoena was
+regularly issued by the Commissioner, the court shall thereupon enter an order
+that the witness appear before the Commissioner at the time and place fixed in
+the order and testify or produce the required books or papers, and upon failure
+to obey the order, the witness shall be dealt with as for contempt of court.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3111)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-565">
+          <num>645G.565</num>
+          <heading>Depositions; taking of evidence in another state; rights of
+party to hearing to request subpoenas.</heading>
+          <subsection eId="645G-565__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner may, in any hearing
+before the Commissioner, cause the depositions of witnesses residing within or
+without the State to be taken in the manner prescribed by the Nevada Rules of
+Civil Procedure for like depositions in civil actions in the district courts of
+this State, and to that end may compel the attendance of witnesses and the
+production of books and papers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-565__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The clerk of the district court in and
+for the county in which any hearing may be held by the Commissioner shall, upon
+the application of the Commissioner, issue commissions to other states for the
+taking of evidence therein for use in any proceedings before the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-565__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any party to any hearing before the
+Commissioner shall have the right to the attendance of witnesses in his or her
+behalf at such hearing or upon deposition as set forth in this section upon
+making request therefor to the Commissioner and designating the name and
+address of the person or persons sought to be subpoenaed.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3112)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-570">
+          <num>645G.570</num>
+          <heading>Decision of Commissioner on complaint: Rendition; notice;
+effective date; stay of decision.</heading>
+          <subsection eId="645G-570__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner shall render an
+informal decision on any complaint within 15 days after the final hearing
+thereon and shall give notice in writing of the ruling or decision to the
+applicant or licensee affected thereby within 60 days after the final hearing
+thereon by certified mail to the last known address of the person to whom the
+notice is sent.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-570__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the ruling is adverse to the
+licensee, the Commissioner shall also state in the notice the date upon which
+the ruling or decision becomes effective, which date must not be less than 30
+days after the date of the notice.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-570__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The decision of the Commissioner may
+not be stayed by any appeal in accordance with the provisions ofNRS 645G.575, unless the district court
+so orders upon motion of the licensee, notice to the Division of the motion and
+opportunity for the Division to be heard.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-570__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>An appeal from a decision of the
+district court affirming the revocation or suspension of a license does not
+stay the order of the Commissioner unless the district or appellate court, in
+its discretion and upon petition of the licensee, after notice and hearing
+orders such stay, and upon the filing of a bond for costs in the amount of
+$1,000.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3112)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-575">
+          <num>645G.575</num>
+          <heading>Decision of Commissioner in disciplinary action final when in
+favor of licensee; judicial review of decision against licensee.</heading>
+          <subsection eId="645G-575__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A ruling or decision of the
+Commissioner in any disciplinary action is final when in favor of the licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="645G-575__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a ruling or decision is against the
+licensee, the licensee is entitled to judicial review of the ruling or decision
+in the manner provided bychapter 233Bof
+NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3112)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_645G-900">
+          <num>645G.900</num>
+          <heading>Prohibited acts; penalties; injunctive relief.</heading>
+          <subsection eId="645G-900__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person who is not licensed pursuant
+to this chapter who acts as an exchange facilitator in this State or holds
+himself or herself out as a licensee and any licensee who commits an act set
+forth in subsection 1 ofNRS 645G.515is:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="645G-900__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Guilty of a gross misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="645G-900__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Liable to the Division for a civil penalty of
+$200 per day for each day that the violation continues.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="645G-900__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Division may file an action for injunctive
+relief in the appropriate district court in this State to prevent the
+occurrence or continuance of that act.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+3113)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

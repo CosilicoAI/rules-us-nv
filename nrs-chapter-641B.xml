@@ -1,0 +1,3246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-641B"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-641B"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="641B"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-641B/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-641B/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-641B/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-641B/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_641B">
+        <num>641B</num>
+        <heading>SOCIAL WORKERS</heading>
+        <section eId="sec_641B-020">
+          <num>641B.020</num>
+          <heading>Legislative declaration.</heading>
+          <content>
+            <p>The
+practice of social work is hereby declared a learned profession, affecting
+public safety and welfare and charged with the public interest, and is
+therefore subject to protection and regulation by the State.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1116)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-030">
+          <num>641B.030</num>
+          <heading>Definitions.</heading>
+          <subsection eId="641B-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Boardï¿½ means the Board of Examiners
+for Social Workers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½Social workï¿½ means the application of
+methods, principles and techniques of case work, group work, community
+organization, administration, planning, consultation and research to assist
+persons, groups or communities to enhance or restore their ability to function
+physically, socially and economically.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-030__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>ï¿½Clinical social workï¿½ means the
+application of methods, principles and techniques of case work, group work,
+community organization, administration, planning, consultation, research and
+psychotherapeutic methods and techniques to persons, families and groups to
+help in the diagnosis and treatment of mental and emotional conditions.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1116)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-040">
+          <num>641B.040</num>
+          <heading>Applicability of chapter.</heading>
+          <subsection eId="641B-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A physician who is licensed to practice
+in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A nurse who is licensed to practice in
+this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-040__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person who is licensed as a
+psychologist pursuant tochapter 641of NRS or
+authorized to practice psychology in this State pursuant to the Psychology
+Interjurisdictional Compact enacted inNRS
+641.227;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-040__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A person who is licensed as a marriage
+and family therapist or marriage and family therapist intern pursuant tochapter 641Aof NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-040__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A person who is licensed as a clinical
+professional counselor or clinical professional counselor intern pursuant tochapter 641Aof NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-040__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A person who is licensed as an
+occupational therapist or occupational therapy assistant pursuant tochapter 640Aof NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-040__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>A person who is licensed as a clinical
+alcohol and drug counselor, licensed or certified as an alcohol and drug
+counselor or certified as a clinical alcohol and drug counselor intern, an
+alcohol and drug counselor intern, a problem gambling counselor or a problem
+gambling counselor intern, pursuant tochapter
+641Cof NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-040__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>A person who provides or supervises the
+provision of peer recovery support services in accordance withNRS 433.622to433.641, inclusive;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-040__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>Any member of the clergy;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-040__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>A county welfare director;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-040__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>Any person who may engage in social
+work or clinical social work in his or her regular governmental employment but
+does not hold himself or herself out to the public as a social worker; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-040__subsec_12">
+            <num>12.</num>
+            <content>
+              <p>A student of social work and any other
+person preparing for the profession of social work under the supervision of a
+qualified social worker in a training institution or facility recognized by the
+Board, unless the student or other person has been issued a provisional license
+pursuant to paragraph</p>
+            </content>
+            <paragraph eId="641B-040__subsec_12__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 ofNRS 641B.275. Such a student must be
+designated by the title ï¿½student of social workï¿½ or ï¿½trainee in social work,ï¿½
+or any other title which clearly indicates the studentï¿½s training status.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1116; A1989,
+1549;1991,
+992;1993,
+131,1890;1995,
+634;1999,
+1888,3061;2003,
+1417;2007,
+3062;2017,
+933;2021,
+808,2833;2023,
+439)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-100">
+          <num>641B.100</num>
+          <heading>Appointment by Governor; qualifications.</heading>
+          <subsection eId="641B-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board of Examiners for Social
+Workers consists of five members appointed by the Governor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Four members appointed to the Board
+must be licensed or eligible for licensure pursuant to this chapter, except the
+initial members who must be eligible for licensure.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>One member appointed to the Board must
+be a representative of the general public. This member must not be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-100__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Licensed or eligible for licensure pursuant
+to this chapter; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-100__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The spouse or the parent or child, by blood,
+marriage or adoption, of a person who is licensed or eligible for licensure
+pursuant to this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1117; A2003,
+1198)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-105">
+          <num>641B.105</num>
+          <heading>Required orientation for new members of Board; policies
+concerning compensation and performance reviews of staff.</heading>
+          <subsection eId="641B-105__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Require each new member of the Board to
+complete orientation within 60 days after his or her appointment to the Board.
+The orientation must include, without limitation, instruction concerning:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-105__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The purposes of the Board and the duties of
+its members;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-105__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Applicable laws and regulations, including,
+without limitation, the provisions ofNRS
+641B.400to641B.450, inclusive,
+and the importance of complying with applicable laws and regulations in a
+timely manner; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-105__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Requirements concerning managing the finances
+of the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-105__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Establish policies concerning
+compensation and reviewing the performance of the staff of the Board.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+2240)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-110">
+          <num>641B.110</num>
+          <heading>Expiration of term; replacement.</heading>
+          <subsection eId="641B-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon expiration of his or her term of
+office, a member shall continue to serve until a person qualified pursuant to
+this chapter is appointed as a successor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a member fails to attend meetings of
+the Board or a member fails to attend to the business of the Board, as
+determined necessary in the discretion of the Board, the Board shall so notify
+the Governor, and the Governor shall appoint a person qualified pursuant to
+this chapter to replace the member for the remainder of the unexpired term.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1117)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-120">
+          <num>641B.120</num>
+          <heading>Officers; elections; meetings; quorum.</heading>
+          <subsection eId="641B-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall elect from its members
+a President, a Vice President and a Secretary-Treasurer, who hold their
+respective offices at its pleasure.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An election of officers must be held
+annually.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Board shall meet at least once in
+each quarter of the year and may meet at other times at the call of the
+President or a majority of its members.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-120__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A majority of the Board constitutes a
+quorum to transact all business.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1117)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-130">
+          <num>641B.130</num>
+          <heading>List of licensed social workers required to be maintained by
+Board.</heading>
+          <content>
+            <p>The Board shall maintain a
+list of the name and address of each person licensed pursuant to the provisions
+of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1117)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-140">
+          <num>641B.140</num>
+          <heading>Salary of members; per diem allowance and travel expenses for
+members and employees.</heading>
+          <subsection eId="641B-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each member of the Board is entitled to
+receive:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-140__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A salary of not more than $150 per day, as
+fixed by the Board, while engaged in the business of the Board; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-140__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A per diem allowance and travel expenses at a
+rate fixed by the Board, while engaged in the business of the Board. The rate
+must not exceed the rate provided for state officers and employees generally.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>While engaged in the business of the
+Board, each employee of the Board is entitled to receive a per diem allowance
+and travel expenses at a rate fixed by the Board. The rate must not exceed the
+rate provided for state officers and employees generally.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1117; A1989,
+1703;2007,
+2956)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-150">
+          <num>641B.150</num>
+          <heading>Payment of expenses; deposit of money; delegation of authority
+to hearing officer or panel; claim for attorneyï¿½s fees or costs of
+investigation.</heading>
+          <subsection eId="641B-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 4, all reasonable expenses incurred by the Board in carrying out the
+provisions of this chapter must be paid from the money which it receives. No
+part of the salaries or expenses of the Board may be paid out of the State
+General Fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All money received by the Board must be
+deposited in qualified banks, credit unions, savings and loan associations or
+savings banks in this State and paid out on its order for its expenses.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-150__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In a manner consistent with the
+provisions ofchapter 622Aof NRS, the Board
+may delegate to a hearing officer or panel its authority to take any disciplinary
+action pursuant to this chapter, impose and collect fines and penalties
+therefor and deposit the money therefrom in banks, credit unions, savings and
+loan associations or savings banks in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-150__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a hearing officer or panel is not
+authorized to take disciplinary action pursuant to subsection 3 and the Board
+deposits the money collected from the imposition of fines with the State
+Treasurer for credit to the State General Fund, it may present a claim to the
+State Board of Examiners for recommendation to the Interim Finance Committee if
+money is needed to pay attorneyï¿½s fees or the costs of an investigation, or
+both.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1117; A1993,
+889;1999,
+1536;2005,
+791)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-160">
+          <num>641B.160</num>
+          <heading>Regulations.</heading>
+          <subsection eId="641B-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall adopt:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-160__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Such regulations as are necessary or
+desirable to enable it to carry out the provisions of this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-160__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Regulations establishing reasonable standards
+for the psychiatric training and experience necessary for a clinical social
+worker to be authorized to make the certifications described inNRS 433A.162,433A.170,433A.195and433A.200, make a sworn statement or
+declaration described inNRS 433A.335and perform an evaluation described inNRS
+433A.335;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-160__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Regulations prescribing uniform standards
+concerning the locations at which interns provide services;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-160__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Regulations authorizing the remote
+supervision, including, without limitation, electronic supervision, of interns
+working at remote sites and prescribing standards concerning such remote
+supervision; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-160__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Regulations prescribing the manner by which
+the qualifications for the issuance or renewal of a license under the
+provisions of this chapter will be made available to the public such that those
+qualifications are clearly defined and easily understood.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>On the date that the Board gives notice
+pursuant toNRS 233B.060of its intent
+to adopt, amend or repeal a regulation, the Board shall submit the regulation
+to the Commission on Behavioral Health for review. The Commission shall review
+the regulation and make recommendations to the Board concerning the
+advisability of adopting, amending or repealing the regulation and any changes
+that the Commission deems advisable.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1117; A2015,
+2995;2017,
+2242;2021,
+3115,3493)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-165">
+          <num>641B.165</num>
+          <heading>Annual report to Joint Interim Standing Committee on Health and
+Human Services and Chairs of regional behavioral health policy boards.</heading>
+          <subsection eId="641B-165__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>On or before February 1 of each year,
+the Board shall submit to the Joint Interim Standing Committee on Health and
+Human Services and to the Chair of each regional behavioral health policy board
+created byNRS 433.429a report which
+must include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-165__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The number of complaints received,
+investigations completed, cases dismissed, cases settled and cases for which
+hearings were held within the immediately preceding calendar year;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-165__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The number of applications for the issuance
+or renewal of a license received by the Board during the immediately preceding
+calendar year and the number of those applications for which the Board
+conducted additional review beyond the standard review regularly conducted by
+the Board; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-165__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The number of applications for the issuance
+of a license by endorsement received by the Board pursuant toNRS 641B.272during the immediately
+preceding calendar year, the number of those applications that were denied and
+the reasons for denial.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-165__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The report submitted pursuant to this
+section to the Chair of each regional behavioral policy board created byNRS 433.429may be submitted in a written
+format.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+2240; A2021,
+3494)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-170">
+          <num>641B.170</num>
+          <heading>Confidentiality of certain records of Board; exceptions.</heading>
+          <subsection eId="641B-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section andNRS 239.0115, any records
+or information received by the Board relating to a licensee or an applicant for
+a license is confidential.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section andNRS 239.0115, a complaint
+filed with the Board, all documents and other information filed with the
+complaint and all documents and other information compiled as a result of an
+investigation conducted to determine whether to initiate disciplinary action
+against a person are confidential, unless the person submits a written
+statement to the Board requesting that such documents and information be made
+public records.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The charging documents filed with the
+Board to initiate disciplinary action pursuant tochapter
+622Aof NRS and all documents and information considered by the Board when
+determining whether to impose discipline are public records.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-170__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The provisions of this section do not
+prohibit the Board from communicating or cooperating with or providing any
+documents or other information to any other licensing board or any other agency
+that is investigating a person, including, without limitation, a law
+enforcement agency.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+448; A2005,
+791;2007,
+2145)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-175">
+          <num>641B.175</num>
+          <heading>Board may enter into agreement with Department of Health and
+Human Services for certain types of administrative assistance.</heading>
+          <subsection eId="641B-175__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Assistance in processing applications
+for the issuance or renewal of licenses;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-175__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Technical assistance;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-175__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Facilitating cooperation with other
+boards and licensing entities in this State or any other jurisdiction;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-175__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Recommendations to improve and
+standardize procedures used by the Board; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-175__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Assistance in identifying resources for
+improving the operations of the Board.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+2241)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-180">
+          <num>641B.180</num>
+          <heading>Forms for licensure.</heading>
+          <subsection eId="641B-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Be available to be completed on the
+Internet website maintained by the Board;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Provide immediate, automatic feedback
+to the applicant concerning whether the applicant has submitted all required
+information; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-180__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Automatically store the data submitted
+by the applicant upon completion of the application.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+2241)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-200">
+          <num>641B.200</num>
+          <heading>Preliminary qualifications.</heading>
+          <content>
+            <p>Each
+applicant for a license shall furnish evidence satisfactory to the Board that
+the applicant is at least 21 years of age.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1117; A2019,
+4309)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-202">
+          <num>641B.202</num>
+          <heading>Submission of fingerprints.</heading>
+          <content>
+            <p>Each
+applicant for a license must submit to the Board a complete set of fingerprints
+which the Board may forward to the Central Repository for Nevada Records of
+Criminal History for submission to the Federal Bureau of Investigation for its
+report.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2862)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-204">
+          <num>641B.204</num>
+          <heading>Submission of proof related to degree from or enrollment at
+college or university located in foreign country.</heading>
+          <subsection eId="641B-204__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If an applicant for a license to engage
+in social work is a graduate of a college or university located in a foreign
+country or currently enrolled in program of study leading to a degree in social
+work at such a college or university, the application must include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-204__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Proof that the applicant possesses the degree
+required byNRS 641B.220,641B.225,641B.230,641B.240or641B.275, as applicable, or is enrolled
+in a program of study that meets the requirements ofNRS 641B.275, as applicable; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-204__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If applicable, a written statement or other
+proof from the Council on Social Work Education, or its successor organization,
+that the degree is equivalent to a degree issued by a college or university
+accredited by the Council on Social Work Education, or its successor
+organization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-204__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection, the proof required by paragraph</p>
+            </content>
+            <paragraph eId="641B-204__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1 must be
+provided to the Board directly by the college or university that granted the
+degree. If the college or university is unable to provide such proof, the Board
+may accept proof from another source specified by the Board.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3492)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-205">
+          <num>641B.205</num>
+          <heading>Submission of official transcripts by alternate means.</heading>
+          <subsection eId="641B-205__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The college or university from which
+the applicant graduated has closed or has merged with another institution; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-205__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provision of the official
+transcripts by ordinary means is not available or possible.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3493)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-206">
+          <num>641B.206</num>
+          <heading>Payment of child support: Submission of certain information by
+applicant; grounds for denial of license; duty of Board. [Effective until the
+date of the repeal of 42 U.S.C. ï¿½ 666, the federal law requiring each state to
+establish procedures for withholding, suspending and restricting the
+professional, occupational and recreational licenses for child support
+arrearages and for noncompliance with certain processes relating to paternity
+or child support proceedings.]</heading>
+          <subsection eId="641B-206__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to any other requirements
+set forth in this chapter:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-206__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An applicant for the issuance of a license to
+engage in social work as an associate in social work, a social worker, a master
+social worker, an independent social worker or a clinical social worker shall
+include the social security number of the applicant in the application
+submitted to the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-206__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An applicant for the renewal of a license to
+engage in social work as an associate in social work or the issuance or renewal
+of a license to engage in social work as a social worker, a master social
+worker, an independent social worker or a clinical social worker shall submit
+to the Board the statement prescribed by the Division of Welfare and Supportive
+Services of the Department of Health and Human Services pursuant toNRS 425.520. The statement must be
+completed and signed by the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-206__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall include the statement
+required pursuant to subsection 1 in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-206__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The application or any other forms that must
+be submitted for the issuance or renewal of the license; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-206__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A separate form prescribed by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-206__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A license to engage in social work as
+an associate in social work, a social worker, a master social worker, an
+independent social worker or a clinical social worker may not be issued or
+renewed by the Board if the applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-206__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Fails to submit the statement required pursuant
+to subsection 1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-206__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Indicates on the statement submitted pursuant
+to subsection 1 that the applicant is subject to a court order for the support
+of a child and is not in compliance with the order or a plan approved by the
+district attorney or other public agency enforcing the order for the repayment
+of the amount owed pursuant to the order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-206__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If an applicant indicates on the
+statement submitted pursuant to subsection 1 that the applicant is subject to a
+court order for the support of a child and is not in compliance with the order
+or a plan approved by the district attorney or other public agency enforcing
+the order for the repayment of the amount owed pursuant to the order, the Board
+shall advise the applicant to contact the district attorney or other public
+agency enforcing the order to determine the actions that the applicant may take
+to satisfy the arrearage.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2155; A2005,
+2759,2807;2021,
+3494)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-210">
+          <num>641B.210</num>
+          <heading>Associate in social work: Restriction on issuance of new
+licenses; conditions for renewal of license; supervision of another social
+worker; promotion.</heading>
+          <subsection eId="641B-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall not grant a license to
+engage in social work as an associate in social work to any person on or after
+June 19, 1995.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall renew the license of
+any person who was granted a license to engage in social work as an associate
+in social work if the person complies with the provisions ofNRS 641B.280.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person who is granted a license to
+engage in social work as an associate in social work may supervise another
+person engaged in the practice of social work.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-210__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The provisions of this section do not
+prohibit a social worker, supervisor of social work or administrator of social
+work who is employed by a public employer on July 1, 1988, and who is granted a
+license to engage in social work as an associate in social work, from being
+promoted to any position for which he or she would qualify but for the
+provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1117; A1989,
+2198;1995,
+449;2001
+Special Session, 54)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-220">
+          <num>641B.220</num>
+          <heading>Social worker: Qualifications; licensing of associate;
+supervision of another social worker.</heading>
+          <subsection eId="641B-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall grant a license to
+engage in social work as a social worker to any applicant who possesses the
+preliminary qualifications set forth inNRS
+641B.200and who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-220__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Possesses a baccalaureate degree or masterï¿½s
+degree in social work from:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="641B-220__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A college or university accredited by
+the Council on Social Work Education, or its successor organization, or which
+is a candidate for such accreditation; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="641B-220__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A college or university located in a
+foreign country, or the equivalent of a baccalaureate degree or masterï¿½s degree
+in social work from such a college or university, if the applicant includes in
+his or her application the documentation required byNRS 641B.204; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="641B-220__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Passes an examination prescribed by the
+Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall grant a license to
+engage in social work as a social worker to an applicant licensed as an
+associate in social work who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-220__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Possesses the preliminary qualifications set
+forth inNRS 641B.200;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-220__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Possesses a baccalaureate degree or masterï¿½s
+degree in a related field, or has completed equivalent course work in a related
+field;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-220__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Completes 3,000 hours of employment in Nevada
+as an associate in social work; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-220__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Passes an examination prescribed by the
+Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-220__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person who is granted a license to
+engage in social work as a social worker pursuant to subsection 1 or 2 may
+supervise another person engaged in the practice of social work.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1118; A1989,
+2198;2021,
+3495)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-225">
+          <num>641B.225</num>
+          <heading>Master social worker: Qualifications; practice; supervision of
+other social workers.</heading>
+          <subsection eId="641B-225__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall grant a license to
+engage in social work as a master social worker to any applicant who possesses
+the preliminary qualifications set forth inNRS
+641B.200and who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-225__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Possesses a masterï¿½s or doctoral degree in
+social work from:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="641B-225__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A college or university accredited by
+the Council on Social Work Education, or its successor organization, or which
+is a candidate for such accreditation; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="641B-225__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A college or university located in a
+foreign country, or the equivalent of a masterï¿½s or doctoral degree in social
+work from such a college or university, if the applicant includes in his or her
+application the documentation required byNRS
+641B.204; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="641B-225__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Passes an examination prescribed by the
+Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-225__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person licensed as a master social
+worker may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-225__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Engage in social work independently as part
+of an internship program approved by the Board to complete the supervised
+social work required for licensure as an independent social worker pursuant toNRS 641B.230;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-225__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Engage in clinical social work as part of an
+internship program approved by the Board to complete the supervised,
+postgraduate, clinical social work required for licensure as a clinical social
+worker pursuant toNRS 641B.240; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-225__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Supervise other persons engaging in the
+practice of social work.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3492)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-230">
+          <num>641B.230</num>
+          <heading>Independent social worker: Qualifications; practice; supervision
+of other social workers.</heading>
+          <subsection eId="641B-230__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall grant a license to
+engage in social work as an independent social worker to any applicant who
+possesses the preliminary qualifications set forth inNRS 641B.200and who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-230__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Possesses a masterï¿½s or doctoral degree in
+social work from:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="641B-230__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A college or university accredited by
+the Council on Social Work Education, or its successor organization, or which
+is a candidate for such accreditation; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="641B-230__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A college or university located in a
+foreign country, or the equivalent of a masterï¿½s or doctoral degree in social
+work from such a college or university, if the applicant includes in his or her
+application the documentation required byNRS
+641B.204.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="641B-230__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Completes 3,000 hours of supervised,
+postgraduate social work approved by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-230__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Passes an examination prescribed by the
+Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-230__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person licensed as an independent
+social worker may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-230__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Engage in social work independently or within
+an agency;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-230__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Engage in clinical social work as part of an
+internship program approved by the Board to complete the supervised clinical
+social work required for licensure as a clinical social worker pursuant toNRS 641B.240; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-230__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Supervise other persons engaging in the
+practice of social work.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1118; A2021,
+3495)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-240">
+          <num>641B.240</num>
+          <heading>Clinical social worker: Qualifications; practice; supervision of
+other social workers.</heading>
+          <subsection eId="641B-240__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall grant a license to
+engage in social work as a clinical social worker to any applicant who
+possesses the preliminary qualifications set forth inNRS 641B.200and who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-240__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Possesses a masterï¿½s or doctoral degree in
+social work from:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="641B-240__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A college or university accredited by
+the Council on Social Work Education, or its successor organization, or which
+is a candidate for such accreditation; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="641B-240__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A college or university located in a
+foreign country, or the equivalent of a masterï¿½s or doctoral degree in social
+work from such a college or university, if the applicant includes in his or her
+application the documentation required byNRS
+641B.204.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="641B-240__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Completes 3,000 hours of supervised,
+postgraduate, clinical social work approved by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-240__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Passes an examination prescribed by the
+Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-240__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person licensed as a clinical social
+worker may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-240__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Engage in social work independently or within
+an agency;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-240__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Engage in clinical social work; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-240__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Supervise other persons engaging in the
+practice of social work.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1118; A2021,
+3496)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-250">
+          <num>641B.250</num>
+          <heading>Examination; prohibition on participation in grading examination.</heading>
+          <subsection eId="641B-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 641B.270,641B.272and641B.275, before the issuance of a
+license, each applicant, otherwise eligible for licensure, who has paid the fee
+and presented the required credentials, other than an applicant for a license
+to engage in social work as an associate in social work, must appear personally
+and pass an examination concerning his or her knowledge of the practice of
+social work.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any such examination must be fair and
+impartial, practical in character with questions designed to discover the
+applicantï¿½s fitness.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-250__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Board may employ specialists and
+other professional consultants or examining services in conducting the examination.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-250__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The member of the Board who is the
+representative of the general public shall not participate in the grading of
+the examination.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-250__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Board shall examine applicants for
+licensure at least twice a year.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1119; A1993,
+131;1995,
+450;2015,
+3035,3915)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-260">
+          <num>641B.260</num>
+          <heading>Investigations and hearings related to applications for
+licensure; grounds for denial of license.</heading>
+          <subsection eId="641B-260__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board may hold hearings and conduct
+investigations into any matter related to an application for licensure. The
+Board may require the presentation of evidence.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-260__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board may refuse to issue a license
+to an applicant if the applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-260__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is not of good moral character as it relates
+to the practice of social work;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-260__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has submitted any false credential to the
+Board;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-260__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Has been disciplined in another state in
+connection with the practice of social work or a related profession or has
+committed any act in another state which is a violation of this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-260__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Has committed an act that constitutes grounds
+for initiating disciplinary action pursuant toNRS 641B.400;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-260__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Has entered a plea of guilty, guilty but
+mentally ill or nolo contendere to, been found guilty or guilty but mentally
+ill of, or been convicted, in this State or any other jurisdiction, of a crime
+arising out of, in connection with or related to the activities of such a
+person in such a manner as to demonstrate his or her unfitness to engage in
+social work, and the time for appeal has elapsed or the judgment of conviction
+has been affirmed on appeal; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-260__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Fails to comply with any other requirements
+for licensure.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1119; A1995,
+450;2021,
+3496)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-270">
+          <num>641B.270</num>
+          <heading>Licensing of person licensed in another state.</heading>
+          <content>
+            <p>The Board may grant a license without
+examination to a person who holds a current license to engage in the practice
+of social work in a state whose licensing requirements at the time the license
+was issued are deemed by the Board to be substantially equivalent to the
+requirements set forth in this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1119)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-272">
+          <num>641B.272</num>
+          <heading>Expedited license by endorsement: Requirements; procedure for
+issuance; provisional license pending action on application.</heading>
+          <subsection eId="641B-272__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board may issue a license by
+endorsement to engage in social work to an applicant who meets the requirements
+set forth in this section. An applicant may submit to the Board an application
+for such a license if the applicant holds a corresponding valid and
+unrestricted license to engage in social work in the District of Columbia or
+any state or territory of the United States.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-272__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An applicant for a license by
+endorsement pursuant to this section must submit to the Board with his or her
+application:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-272__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Proof satisfactory to the Board that the
+applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="641B-272__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Satisfies the requirements of
+subsection 1;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="641B-272__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Has not been disciplined or
+investigated by the corresponding regulatory authority of the District of
+Columbia or the state or territory in which the applicant holds a license to
+engage in social work; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="641B-272__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Has not been held civilly or
+criminally liable for malpractice in the District of Columbia or any state or
+territory of the United States;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="641B-272__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A complete set of fingerprints and written
+permission authorizing the Board to forward the fingerprints in the manner
+provided inNRS 641B.202;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-272__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An affidavit stating that the information
+contained in the application and any accompanying material is true and correct;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-272__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The fee prescribed by the Board pursuant toNRS 641B.300for the initial application;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-272__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any other information required by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-272__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Not later than 15 business days after
+receiving an application for a license by endorsement to engage in social work
+pursuant to this section, the Board shall provide written notice to the
+applicant of any additional information required by the Board to consider the
+application. Unless the Board denies the application for good cause, the Board
+shall approve the application and issue a license by endorsement to engage in
+social work to the applicant not later than 45 days after receiving all the
+additional information required by the Board to complete the application.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-272__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A license by endorsement to engage in
+social work may be issued at a meeting of the Board or between its meetings by
+the President of the Board. Such an action shall be deemed to be an action of
+the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-272__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>At any time before making a final
+decision on an application for a license by endorsement pursuant to this
+section, the Board may, for any reason, grant a provisional license authorizing
+an applicant to engage in social work in accordance with regulations adopted by
+the Board.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+3914; A2019,
+4310;2021,
+3496)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-275">
+          <num>641B.275</num>
+          <heading>Provisional licensure; regulations.</heading>
+          <subsection eId="641B-275__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall grant a provisional
+license to engage in social work as a social worker to a person:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-275__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Who applies to take the next available
+examination and who is otherwise eligible to be a social worker pursuant to
+subsection 1 ofNRS 641B.220; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-275__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Who:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="641B-275__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Possesses a baccalaureate degree or a
+masterï¿½s degree in a related field of study from:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) An accredited college or
+university recognized by the Board; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) A college or university located
+in a foreign country, or the equivalent of a baccalaureate degree or a masterï¿½s
+degree in a related field from such a college or university, if the applicant
+includes in his or her application the documentation required byNRS 641B.204; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="641B-275__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Presents evidence of enrollment in a
+program of study leading to a degree in social work at:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) A college or university
+accredited by the Council on Social Work Education or which is a candidate for
+such accreditation and which is approved by the Board; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) A college or university located
+in a foreign country, or a program of study leading to the equivalent of a
+degree in social work from such a college or university, if the applicant
+includes in his or her application the documentation required byNRS 641B.204.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-275__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall grant a provisional
+license to engage in social work as an independent social worker to a person
+who applies to take the next available examination and who is otherwise
+eligible to be an independent social worker pursuant to subsection 1 ofNRS 641B.230.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-275__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Board shall grant a provisional
+license to engage in social work as a clinical social worker to a person who
+applies to take the next available examination and who is otherwise eligible to
+be a clinical social worker pursuant to subsection 1 ofNRS 641B.240.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-275__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Board shall establish by regulation
+the period during which a provisional license issued pursuant to this section
+will be valid. The period must be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-275__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>No longer than 9 months for a person who is
+granted a provisional license to engage in social work pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-275__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1 or subsection 2 or 3; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-275__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>No longer than 3 years for a person who is
+granted a provisional license to engage in social work pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-275__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1993,
+130; A2021,
+3497)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-280">
+          <num>641B.280</num>
+          <heading>Renewal of license: Application; fee; continuing education.
+[Effective through June 30, 2026.]</heading>
+          <subsection eId="641B-280__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every holder of a license issued
+pursuant to this chapter may renew his or her license annually by:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-280__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Applying to the Board for renewal;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-280__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Paying the annual renewal fee set by the
+Board;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-280__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as otherwise provided inNRS 641B.295, submitting evidence to the
+Board of completion of the required continuing education as set forth in
+regulations adopted by the Board; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-280__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Submitting all information required to
+complete the renewal.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-280__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 641B.295, the Board shall, as a
+prerequisite for the renewal of a license, require the holder to comply with
+the requirements for continuing education adopted by the Board, which must
+include, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-280__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A requirement that every 2 years the holder
+receive at least 2 hours of instruction on evidence-based suicide prevention
+and awareness or another course of instruction on suicide prevention and
+awareness that is approved by the Board which the Board has determined to be
+effective and appropriate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-280__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A requirement that every 2 years the holder
+receive at least 6 hours of instruction relating to cultural competency and
+diversity, equity and inclusion. Such instruction:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="641B-280__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>May include the training provided
+pursuant toNRS 449.103, where
+applicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="641B-280__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Must be based upon a range of research
+from diverse sources.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="641B-280__subsec_2__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Must address persons of different
+cultural backgrounds, including, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) Persons from various gender,
+racial and ethnic backgrounds;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) Persons from various religious
+backgrounds;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (III) Lesbian, gay, bisexual,
+transgender and questioning persons;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (IV) Children and senior citizens;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (V) Veterans;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (VI) Persons with a mental illness;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (VII) Persons with an intellectual
+disability, developmental disability or physical disability; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (VIII) Persons who are part of any
+other population that the holder of a license issued pursuant to this chapter
+may need to better understand, as determined by the Board.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1119; A1997,
+2156;2005,
+2760,2807;2015,
+2288;2017,
+79,946;2021,
+891,3498;2023,
+1181)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-281">
+          <num>641B.281</num>
+          <heading>Renewal of license: Duty of Board to make data request
+concerning demographic and practice information available to applicants for
+voluntary completion and electronic submission; confidentiality of information
+provided.</heading>
+          <subsection eId="641B-281__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-281__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Make the data request developed by the
+Director of the Department of Health and Human Services pursuant toNRS 439A.116available to applicants for
+the renewal of a license pursuant to this chapter through a link on the
+electronic application for the renewal of a license; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-281__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Request each applicant to complete and
+electronically submit the data request to the Director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-281__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The information provided by an
+applicant for the renewal of a license pursuant to subsection 1 is confidential
+and, except as required by subsection 1, must not be disclosed to any person or
+entity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-281__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An applicant for the renewal of a
+license is not required to complete a data request pursuant to subsection 1 and
+is not subject to disciplinary action, including, without limitation, refusal
+to renew the license, for failure to do so.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+808)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-282">
+          <num>641B.282</num>
+          <heading>Renewal of license as clinical social worker: Duty of Board to
+require applicant to report receipt of training in treatment of mental and
+emotional trauma and willingness to respond during emergency or disaster;
+maintenance and provision of related lists of names by Board; failure of
+applicant to comply not ground for denial; confidentiality of information.</heading>
+          <subsection eId="641B-282__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-282__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Require each applicant for the renewal of a
+license as a clinical social worker to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="641B-282__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Report whether he or she has received
+training in the treatment of mental and emotional trauma immediately following
+an emergency or disaster, training in the short-term treatment of mental and
+emotional trauma or training in the long-term treatment of mental and emotional
+trauma; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="641B-282__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>If the applicant has received training
+in the treatment of mental and emotional trauma immediately following an
+emergency or disaster, describe the training and indicate if he or she is
+willing to respond immediately should an emergency or disaster arise at any
+location in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="641B-282__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Maintain a list of each licensed clinical
+social worker and any training described in subparagraph</p>
+              </content>
+              <subparagraph eId="641B-282__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="641B-282__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>that the licensee has received and update the list at least annually to include
+information reported pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-282__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>by licensees who renewed their
+license during the immediately preceding year;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-282__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Maintain a list of the names and contact
+information for at least five clinical social workers who indicate that they
+are willing to respond immediately should an emergency or disaster arise at any
+location in this State and whom the Board has determined have appropriate
+training to respond following an emergency or disaster; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-282__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Provide the lists maintained pursuant to
+paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-282__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-282__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>upon request to a governmental entity responding to a
+state of emergency or declaration of a disaster by the Governor or the
+Legislature pursuant toNRS 414.070.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-282__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall not deny the renewal of
+a license as a clinical social worker solely because the applicant has failed
+to comply with the requirements of paragraph</p>
+            </content>
+            <paragraph eId="641B-282__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-282__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in
+paragraph</p>
+            </content>
+            <paragraph eId="641B-282__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of subsection 1, any information obtained or maintained by the
+Board pursuant to this section is confidential.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+4160)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-290">
+          <num>641B.290</num>
+          <heading>Delinquent licenses: Date; notice; renewal; expiration;
+restoration.</heading>
+          <subsection eId="641B-290__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a licensee fails to comply with the
+requirements ofNRS 641B.280, the
+license becomes delinquent and the Board shall, within 30 days after the
+license becomes delinquent, send a notice to that effect by certified mail,
+return receipt requested, to the licenseeï¿½s last known address according to the
+records of the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-290__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A licensee may renew his or her license
+within 60 days after the license becomes delinquent if the licensee complies
+with the requirements ofNRS 641B.280and pays, in addition to the fee for the annual renewal of a license, the fee
+for the renewal of a delinquent license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-290__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the license is not renewed within 60
+days after the license becomes delinquent, the license expires without any
+further notice or a hearing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-290__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A person whose license expires pursuant
+to subsection 3 may apply to the Board for restoration of the license by:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-290__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Submitting a written application for
+restoration;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-290__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Submitting all information required to
+complete the restoration;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-290__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Paying all past due renewal fees and the fee
+for restoration prescribed by the Board; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-290__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Passing the examination deemed necessary by
+the Board.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1119; A1995,
+450;1997,
+2156;2005,
+2761,2807)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-295">
+          <num>641B.295</num>
+          <heading>Inactive status of license: Application; effect; duration;
+regulations; fees.</heading>
+          <subsection eId="641B-295__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An associate in social work, social
+worker, master social worker, independent social worker or clinical social
+worker may apply to the Board to have his or her license placed on inactive
+status. The Board may grant the application if the license is in good standing
+and the licensee has met all requirements for the issuance or renewal of a
+license as of the date of the application.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-295__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the application is granted:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-295__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The licensee must not engage in social work in
+this State unless the license is returned to active status; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-295__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The licensee is not required to complete
+continuing education unless his or her license is returned to active status.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-295__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The inactive status of a license is
+valid for 5 years after the date that the inactive status is granted.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-295__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a license is placed on inactive
+status, the Board must not refund any portion of the renewal fee that was paid
+before the license was placed on inactive status.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-295__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Board shall adopt regulations prescribing
+the:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-295__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Procedures for making an application pursuant
+to this section;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-295__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Procedures and terms upon which a person
+whose license has been placed on inactive status may have his or her license
+returned to active status; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-295__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Fees for the renewal of the inactive status
+of a license.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3493)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-300">
+          <num>641B.300</num>
+          <heading>Fees. [Effective until 2 years after the date of the repeal of
+42 U.S.C. ï¿½ 666, the federal law requiring each state to establish procedures
+for withholding, suspending and restricting the professional, occupational and
+recreational licenses for child support arrearages and for noncompliance with
+certain processes relating to paternity or child support proceedings.]</heading>
+          <subsection eId="641B-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall charge and collect fees
+not to exceed the following amounts for:
+Initial application................................................................................................. $200
+Provisional license.................................................................................................. 150
+Initial issuance of a
+license as a social worker or a master social worker.... 250
+Initial issuance of a
+license as a clinical social worker or an independent social workerï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 350
+Initial issuance of a
+license by endorsement...................................................... 200
+Annual renewal of a
+license as a social worker, a master social worker or an associate in social
+work 175
+Annual renewal of a
+license as a clinical social worker or an independent social workerï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 225
+Restoration of a
+suspended license or reinstatement of a revoked license... 150
+Restoration of an
+expired license......................................................................... 200
+Renewal of a delinquent
+license.......................................................................... 100
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If an active member of, or the spouse
+of an active member of, the Armed Forces of the United States, a veteran or the
+surviving spouse of a veteran submits an application for a license by
+endorsement pursuant toNRS 641B.272,
+the Board shall collect not more than one-half of the fee set forth in
+subsection 1 for the initial issuance of the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-300__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½veteranï¿½ has
+the meaning ascribed to it inNRS 417.005.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1120; A1993,
+132;1995,
+451;1997,
+2157;2005,
+792,2807;2015,
+3035,3915;2019,
+1780;2021,
+3499)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-350">
+          <num>641B.350</num>
+          <heading>Inquiry into and documentation of veteran status of new adult
+clients by clinical social worker; provision of contact information for
+Department of Veterans Services.</heading>
+          <subsection eId="641B-350__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A clinical social worker may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-350__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Ask each new client who is 18 years of age or
+older if he or she is a veteran and document the response in the record of the
+client; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-350__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide the contact information for the
+Department of Veterans Services to any such client who indicates that he or she
+is a veteran.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-350__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½veteranï¿½ has
+the meaning ascribed to it inNRS 417.125.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+2694)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-355">
+          <num>641B.355</num>
+          <heading>Recordings of certain training activities: Retention;
+requirements; compliance with and applicability of provisions governing health
+care records; regulations.</heading>
+          <subsection eId="641B-355__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A program of education for mental
+health professionals approved by the Board, a mental health professional or a
+person receiving training for mental health professionals is not required to
+retain a recording of the provision of mental health services by a social
+worker, a master social worker, an independent social worker or a clinical
+social worker to a client that meets the requirements of subsection 2 if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-355__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The recording is used for a training activity
+that is part of a program of education for mental health professionals approved
+by the Board;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-355__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The client has provided informed consent in
+writing on a form that meets the requirements prescribed by the Board pursuant
+to subsection 3 to the use of the recording in the training activity;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-355__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Destroying the recording does not result in
+noncompliance with the obligations described in subsection 4; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-355__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The recording is destroyed after the
+expiration of the period of time prescribed by the Board pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-355__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 3.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-355__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A recording of the provision of mental
+health services by a social worker, a master social worker, an independent
+social worker or a clinical social worker to a client used for the purpose
+described in paragraph</p>
+            </content>
+            <paragraph eId="641B-355__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-355__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Must meet all requirements of the Health
+Insurance Portability and Accountability Act of 1996, Public Law 104-191, and
+any regulations adopted pursuant thereto, that are designed to prevent the
+reproduction, copying or theft of the recording; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-355__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Must not contain any personally identifiable
+information relating to the client unless the client has provided informed consent
+in writing specifically authorizing the inclusion of that information in the
+recording.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-355__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Board shall adopt regulations:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-355__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Prescribing requirements governing the
+provision of informed written consent pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-355__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection
+1, including, without limitation, requirements governing:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="641B-355__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The form on which such informed
+written consent must be provided; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="641B-355__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The length of time that a social
+worker, a master social worker, an independent social worker or a clinical
+social worker who obtains such informed written consent must maintain the
+informed written consent;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="641B-355__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prescribing the length of time that a program
+of education for mental health professionals, a mental health professional or a
+person receiving training for mental health professionals that uses a recording
+of the provision of mental health services by a social worker, a master social
+worker, an independent social worker or a clinical social worker to a client
+for the purposes described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-355__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1 may retain the
+recording before destroying it; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-355__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Defining ï¿½training activityï¿½ for the purposes
+of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-355__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The provisions of this section do not
+abrogate, alter or otherwise affect the obligation of a social worker, a master
+social worker, an independent social worker or a clinical social worker to
+comply with the applicable requirements ofchapter
+629of NRS, including, without limitation, the requirement to retain
+records concerning the mental health services that he or she provides to
+clients in accordance withNRS 629.051to629.069, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-355__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Except where necessary for compliance
+with subsection 4, a recording of the provision of mental health services by a
+social worker, a master social worker, an independent social worker or a
+clinical social worker to a client that is used for a training activity by a
+program of education for mental health professionals, a mental health
+professional or a person receiving training for mental health professionals in
+accordance with the provisions of this section is not a health care record for
+the purposes ofchapter 629of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-355__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>As used in this section, ï¿½mental health
+professionalï¿½ means a psychologist, a marriage and family therapist, a clinical
+professional counselor, a social worker, a master social worker, an independent
+social worker, a clinical social worker, a clinical alcohol and drug counselor,
+an alcohol and drug counselor or a problem gambling counselor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+2194)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-360">
+          <num>641B.360</num>
+          <heading>Duty of clinical social worker who diagnoses client as having
+opioid use disorder to counsel and provide certain information to client and to
+refer client for medication-assisted treatment upon request.</heading>
+          <subsection eId="641B-360__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon diagnosing a client as having an
+opioid use disorder, a clinical social worker shall counsel and provide
+information to the client concerning evidence-based treatment for opioid use
+disorders, including, without limitation, medication-assisted treatment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-360__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the client requests
+medication-assisted treatment, the clinical social worker shall refer the
+client to a physician, osteopathic physician, physician assistant licensed
+pursuant tochapter 630or633of NRS, advanced practice registered nurse or
+pharmacist who is authorized under federal and state law to prescribe an appropriate
+medication.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-360__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section,
+ï¿½medication-assisted treatmentï¿½ has the meaning ascribed to it inNRS 639.28079.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2369)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-400">
+          <num>641B.400</num>
+          <heading>Grounds for disciplinary action.</heading>
+          <subsection eId="641B-400__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Unprofessional conduct;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-400__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Conviction of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-400__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A felony relating to the practice of social
+work;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-400__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any offense involving moral turpitude; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-400__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A violation of any federal or state law
+regulating the possession, distribution or use of any controlled substance or
+dangerous drug as defined inchapter 454of
+NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-400__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Use of fraud or deception in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-400__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Applying for a license;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-400__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Undergoing the initial licensing examination;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-400__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Rendering services as a social worker;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-400__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Allowing unauthorized use of a license
+issued pursuant to this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-400__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Professional incompetence;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-400__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Practicing social work without a
+license;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-400__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Having an alcohol or other substance
+use disorder which impairs the ability to practice social work; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-400__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Operation of a medical facility, as
+defined inNRS 449.0151, at any time
+during which:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-400__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The license of the facility is suspended or
+revoked; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-400__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An act or omission occurs which results in
+the suspension or revocation of the license pursuant toNRS 449.160.
+ï¿½This
+subsection applies to an owner or other principal responsible for the operation
+of the facility.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1120; A1995,
+451;2003,
+2716;2009,
+902)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-405">
+          <num>641B.405</num>
+          <heading>Suspension of license for failure to pay child support or comply
+with certain subpoenas or warrants; reinstatement of license. [Effective until
+2 years after the date of the repeal of 42 U.S.C. ï¿½ 666, the federal law
+requiring each state to establish procedures for withholding, suspending and
+restricting the professional, occupational and recreational licenses for child
+support arrearages and for noncompliance with certain processes relating to
+paternity or child support proceedings.]</heading>
+          <subsection eId="641B-405__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Board receives a copy of a court
+order issued pursuant toNRS 425.540that provides for the suspension of all professional, occupational and
+recreational licenses, certificates and permits issued to a person who is the
+holder of a license to engage in social work, the Board shall deem the license
+issued to that person to be suspended at the end of the 30th day after the date
+on which the court order was issued unless the Board receives a letter issued
+to the holder of the license by the district attorney or other public agency
+pursuant toNRS 425.550stating that the
+holder of the license has complied with the subpoena or warrant or has
+satisfied the arrearage pursuant toNRS
+425.560.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-405__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall reinstate a license to
+engage in social work that has been suspended by a district court pursuant toNRS 425.540if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-405__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Board receives a letter issued by the
+district attorney or other public agency pursuant toNRS 425.550to the person whose license was
+suspended stating that the person whose license was suspended has complied with
+the subpoena or warrant or has satisfied the arrearage pursuant toNRS 425.560; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-405__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The person whose license was suspended pays
+the fee established by the Board pursuant toNRS 641B.300for the restoration of a
+suspended license.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2155; A2005,
+2807)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-410">
+          <num>641B.410</num>
+          <heading>Complaints: Filing; retention.</heading>
+          <subsection eId="641B-410__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board, any member or employee of
+the Board or any member of a review panel of social workers who becomes aware
+that any one or combination of the grounds for initiating disciplinary action
+may exist as to a person practicing social work in this State shall, and any
+other person who is so aware may, file a written complaint specifying the
+relevant facts with the Board. The complaint must specifically charge one or
+more of the grounds for initiating disciplinary action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-410__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall retain all complaints
+filed with the Board pursuant to this section for at least 10 years, including,
+without limitation, any complaints not acted upon.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1120; A2009,
+903;2021,
+3499)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-425">
+          <num>641B.425</num>
+          <heading>Subpoenas: Issuance; enforcement.</heading>
+          <subsection eId="641B-425__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board may issue subpoenas for the
+attendance of witnesses and the production of books and papers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-425__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The district court, in and for the county
+in which any hearing is held, may compel the attendance of witnesses, the
+giving of testimony and the production of books and papers as required by any
+subpoena issued by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-425__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If any witness refuses to attend or
+testify or produce any books or papers required by a subpoena, the Board may
+file a petition ex parte with the district court, setting forth that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-425__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notice has been given of the time and place
+for the attendance of the witness or the production of the books or papers;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-425__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The witness has been subpoenaed in the manner
+prescribed by this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-425__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The witness has failed or refused to attend
+or produce the books or papers required by the subpoena before the Board in the
+cause or proceeding named in the subpoena, or has refused to answer questions
+propounded to him or her in the course of the hearing; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-425__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The Board therefore requests an order of the
+court compelling the witness to attend and testify or produce the books and
+papers before the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-425__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The court, upon such a petition, shall
+enter an order directing the witness to appear before the court at a time and
+place fixed by the court in the order, and then and there to show cause why the
+witness has not attended or testified or produced the books or papers before
+the Board. The time may not be more than 10 days after the date of the order. A
+certified copy of the order must be served upon the witness.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-425__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If the court determines that the
+subpoena was regularly issued by the Board, the court shall thereupon enter an
+order that the witness appear before the Board at the time and place fixed in
+the order, and testify or produce the required books or papers. Failure to obey
+the order is a contempt of the court which issued it.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+449)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-430">
+          <num>641B.430</num>
+          <heading>Authorized disciplinary action; private reprimands prohibited;
+orders imposing discipline deemed public records.</heading>
+          <subsection eId="641B-430__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Board finds a person guilty in a
+disciplinary proceeding, the Board may, by order:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-430__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Place the person on probation for a specified
+period or until further order of the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-430__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Administer to the person a public reprimand.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-430__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Limit the practice of the person to, or by
+exclusion of, one or more specified branches of social work.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-430__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Suspend the license of the person to practice
+social work for a specified period or until further order of the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-430__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Revoke the license of the person to practice
+social work.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="641B-430__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Impose a fine of not more than $5,000, which
+must be deposited with the State Treasurer for credit to the State General
+Fund.
+ï¿½The order of
+the Board may contain other terms, provisions or conditions as the Board deems
+proper and which are not inconsistent with law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-430__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall not administer a
+private reprimand.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="641B-430__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An order that imposes discipline and
+the findings of fact and conclusions of law supporting that order are public
+records.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1120; A1993,
+889;1995,
+451;2003,
+3459;2005,
+792)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-450">
+          <num>641B.450</num>
+          <heading>Reinstatement after revocation.</heading>
+          <content>
+            <p>After
+a license is revoked, a licensee may apply to the Board pursuant to the
+provisions ofchapter 622Aof NRS for its
+reinstatement. The Board has complete discretion to accept or reject such an
+application and may require successful completion of an examination as a
+condition of reinstatement.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1121; A2005,
+793)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-500">
+          <num>641B.500</num>
+          <heading>Representation as social worker without license.</heading>
+          <content>
+            <p>It is unlawful for any person to represent
+himself or herself as a social worker within the meaning of this chapter unless
+he or she is licensed pursuant to the provisions of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1121)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-505">
+          <num>641B.505</num>
+          <heading>Practice of social work without required license unlawful.</heading>
+          <subsection eId="641B-505__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+chapter, it is unlawful for a person to engage in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="641B-505__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The independent practice of social work
+unless he or she:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="641B-505__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Holds an active license as a clinical
+social worker or an independent social worker issued pursuant to this chapter;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="641B-505__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Holds an active license as a master
+social worker issued pursuant to this chapter and is engaging in the
+independent practice of social work under the conditions prescribed inNRS 641B.225.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="641B-505__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The clinical practice of social work unless
+he or she:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="641B-505__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Holds an active license as a clinical
+social worker issued pursuant to this chapter; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="641B-505__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Holds an active license as an
+independent social worker or a master social worker issued pursuant to this
+chapter and is engaging in clinical social work under the conditions prescribed
+inNRS 641B.225or641B.230, as applicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="641B-505__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The practice of social work unless he or she
+holds an active license as an associate in social work, a social worker, a
+master social worker, an independent social worker or a clinical social worker
+issued pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="641B-505__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½independent
+practice of social workï¿½ means the unsupervised practice of social work, other
+than for a public employer, for compensation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+2198; A1995,
+452;2021,
+3499)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-510">
+          <num>641B.510</num>
+          <heading>Use of title of licensee or otherwise implying licensure.</heading>
+          <content>
+            <p>It is unlawful for any person, other than a
+person licensed pursuant to this chapter, to use the title of a licensee in
+connection with his or her work, or in any other way imply that the person is
+licensed by the Board, unless he or she is so licensed.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1121)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-520">
+          <num>641B.520</num>
+          <heading>Penalty.</heading>
+          <content>
+            <p>Any person
+who violates any of the provisions of this chapter or, having had his or her
+license suspended or revoked, continues to represent himself or herself as a
+social worker, is guilty of a misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1121)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_641B-530">
+          <num>641B.530</num>
+          <heading>Injunctive relief.</heading>
+          <content>
+            <p>A
+violation of this chapter by a person unlawfully representing himself or
+herself as a social worker may be enjoined by a district court on petition by
+the Board. In any such proceeding it is not necessary to show that any person
+is individually injured. If the respondent is found guilty of misrepresenting
+himself or herself as a social worker, the court shall enjoin the respondent
+from such representations unless and until the respondent has been licensed.
+The procedure in such proceedings must be the same as for any other application
+for an injunction. The remedy of an injunction is in addition to any applicable
+criminal prosecution and punishment.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1121)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

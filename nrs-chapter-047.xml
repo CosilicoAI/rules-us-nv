@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-47"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-47"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="47"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-47/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-47/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-47/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-47/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_47">
+        <num>47</num>
+        <heading>GENERAL PROVISIONS; JUDICIAL</heading>
+        <section eId="sec_47-020">
+          <num>47.020</num>
+          <heading>Scope of title 4 of NRS.</heading>
+          <subsection eId="47-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>This title governs proceedings in the
+courts of this State and before magistrates, except:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="47-020__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To the extent to which its provisions are
+relaxed by a statute or procedural rule applicable to the specific situation;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="47-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>As otherwise provided in subsection 3.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="47-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 1, the provisions ofchapter 49of
+NRS with respect to privileges apply at all stages of all proceedings.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The other provisions of this title,
+except with respect to provisions concerning a person with limited English
+proficiency, do not apply to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="47-020__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Issuance of warrants for arrest, criminal
+summonses and search warrants.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="47-020__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Proceedings with respect to release on bail.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="47-020__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Sentencing, granting or revoking probation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="47-020__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Proceedings for extradition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="47-020__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½person with
+limited English proficiencyï¿½ has the meaning ascribed to it inNRS 1.510.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+775; A1997,
+2286;2013,
+1460;2017,
+1144)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-030">
+          <num>47.030</num>
+          <heading>Purposes of title 4 of NRS.</heading>
+          <content>
+            <p>The
+purposes of this title are to secure fairness in administration, elimination of
+unjustifiable expense and delay, and promotion of growth and development of the
+law of evidence to the end that the truth may be ascertained and proceedings
+justly determined.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+775)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-040">
+          <num>47.040</num>
+          <heading>Rulings on evidence: Effect of error.</heading>
+          <subsection eId="47-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, error may not be predicated upon a ruling which admits or
+excludes evidence unless a substantial right of the party is affected, and:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="47-040__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In case the ruling is one admitting evidence,
+a timely objection or motion to strike appears of record, stating the specific
+ground of objection.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="47-040__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In case the ruling is one excluding evidence,
+the substance of the evidence was made known to the judge by offer or was apparent
+from the context within which questions were asked.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="47-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>This section does not preclude taking
+notice of plain errors affecting substantial rights although they were not
+brought to the attention of the judge.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+775)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-050">
+          <num>47.050</num>
+          <heading>Rulings on evidence: Record of offer and ruling.</heading>
+          <content>
+            <p>The judge may add any other or further
+statement which shows the character of the evidence, the form in which it was
+offered, the objection made and the ruling thereon. The judge may direct the
+making of an offer in question and answer form, and on request shall do so in
+actions tried without a jury, unless it clearly appears that the evidence is
+not admissible on any ground or is privileged.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+776)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-060">
+          <num>47.060</num>
+          <heading>Preliminary questions of admissibility: Determination.</heading>
+          <subsection eId="47-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Preliminary questions concerning the
+qualification of a person to be a witness, the existence of a privilege or the
+admissibility of evidence shall be determined by the judge, subject to the
+provisions ofNRS 47.070.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In making a determination the judge is
+not bound by the provisions of this title except the provisions ofchapter 49of NRS with respect to privileges.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+776)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-070">
+          <num>47.070</num>
+          <heading>Preliminary questions of admissibility: Relevancy conditioned on
+fact.</heading>
+          <subsection eId="47-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When the relevancy of evidence depends
+upon the fulfillment of a condition of fact, the judge shall admit it upon the
+introduction of evidence sufficient to support a finding of the fulfillment of
+the condition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If under all the evidence upon the
+issue the jury might reasonably find that the fulfillment of the condition is
+not established, the judge shall instruct the jury to consider the issue and to
+disregard the evidence unless they find the condition was fulfilled.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-070__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If under all the evidence upon the
+issue the jury could not reasonably find that the condition was fulfilled, the
+judge shall instruct the jury to disregard the evidence.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+776)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-080">
+          <num>47.080</num>
+          <heading>Determinations of admissibility: Hearing of jury.</heading>
+          <content>
+            <p>In jury cases, hearings on preliminary
+questions of admissibility, offers of proof in narrative or question and answer
+form, and statements of the judge showing the character of the evidence shall
+to the extent practicable, unless further restricted byNRS 47.090, be conducted out of the hearing
+of the jury, to prevent the suggestion of inadmissible evidence.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+776)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-090">
+          <num>47.090</num>
+          <heading>Preliminary hearings on confessions and evidence.</heading>
+          <content>
+            <p>Preliminary hearings on the admissibility of
+confessions or statements by the accused or evidence allegedly unlawfully
+obtained shall be conducted outside the hearing of the jury. The accused does
+not by testifying at the hearing subject himself or herself to
+cross-examination as to other issues in the case. Testimony given by the
+accused at the hearing is not admissible against the accused on the issue of
+guilt at the trial.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+776)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-100">
+          <num>47.100</num>
+          <heading>Weight and credibility.</heading>
+          <content>
+            <p>NRS 47.060to47.090, inclusive, do not limit the right
+of a party to introduce before the jury evidence relevant to weight or
+credibility.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+776)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-110">
+          <num>47.110</num>
+          <heading>Limited admissibility.</heading>
+          <content>
+            <p>When
+evidence which is admissible as to one party or for one purpose but
+inadmissible as to another party or for another purpose is admitted, the judge,
+upon request, shall restrict the evidence to its proper scope and instruct the
+jury accordingly.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+776)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-120">
+          <num>47.120</num>
+          <heading>Remainder of writings or recorded statements.</heading>
+          <subsection eId="47-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When any part of a writing or recorded
+statement is introduced by a party, the party may be required at that time to
+introduce any other part of it which is relevant to the part introduced, and any
+party may introduce any other relevant parts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>This section does not limit
+cross-examination.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+776)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-130">
+          <num>47.130</num>
+          <heading>Matters of fact.</heading>
+          <subsection eId="47-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The facts subject to judicial notice
+are facts in issue or facts from which they may be inferred.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A judicially noticed fact must be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="47-130__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Generally known within the territorial
+jurisdiction of the trial court; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="47-130__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Capable of accurate and ready determination
+by resort to sources whose accuracy cannot reasonably be questioned,
+ï¿½so that the
+fact is not subject to reasonable dispute.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+777)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-140">
+          <num>47.140</num>
+          <heading>Matters of law.</heading>
+          <subsection eId="47-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Constitution and statutes of the
+United States, and the contents of the Federal Register.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Constitution of this State and
+Nevada Revised Statutes.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-140__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any other statute of this State if
+brought to the attention of the court by its title and the day of its passage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-140__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A county, city or town code which has
+been filed as required byNRS 244.118,268.014,269.168or the city charter and any city ordinance which has been filed or recorded as
+required by the applicable law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-140__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Nevada Administrative Code.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-140__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A regulation not included in the Nevada
+Administrative Code if adopted in accordance with law and brought to the
+attention of the court.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-140__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The population category and
+organization of a city incorporated pursuant to general law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-140__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>The constitution, statutes or other
+written law of any other state or territory of the United States, or of any
+foreign jurisdiction, as contained in a book or pamphlet published by its
+authority or proved to be commonly recognized in its courts.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+777; A1973,
+6;1977,
+1388;1985,
+231,366;2001,
+632)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-150">
+          <num>47.150</num>
+          <heading>Discretionary and mandatory notice.</heading>
+          <subsection eId="47-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A judge or court may take judicial
+notice, whether requested or not.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A judge or court shall take judicial
+notice if requested by a party and supplied with the necessary information.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+777)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-160">
+          <num>47.160</num>
+          <heading>Opportunity to be heard.</heading>
+          <content>
+            <p>A
+party is entitled upon timely request to an opportunity to be heard as to the
+propriety of taking judicial notice and the tenor of the matter to be noticed.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+777)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-170">
+          <num>47.170</num>
+          <heading>Time of taking notice.</heading>
+          <content>
+            <p>Judicial
+notice may be taken at any stage of the proceeding prior to submission to the
+court or jury.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+777)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-180">
+          <num>47.180</num>
+          <heading>Presumptions generally: Effect; direct evidence.</heading>
+          <subsection eId="47-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A presumption, other than a presumption
+against the accused in a criminal action, imposes on the party against whom it
+is directed the burden of proving that the nonexistence of the presumed fact is
+more probable than its existence.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As applied to presumptions, ï¿½direct
+evidenceï¿½ means evidence which tends to establish the existence or nonexistence
+of the presumed fact independently of the basic facts.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+777)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-190">
+          <num>47.190</num>
+          <heading>Determination on evidence of basic facts.</heading>
+          <subsection eId="47-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If reasonable minds would necessarily
+agree that the evidence renders the existence of the basic facts more probable
+than not, the judge shall direct the jury to find in favor of the existence of
+the presumed fact.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If reasonable minds would necessarily
+agree that the evidence does not render the existence of the basic facts more
+probable than not, the judge shall direct the jury to find against the
+existence of the presumed fact.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-190__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If reasonable minds would not
+necessarily agree as to whether the evidence renders the existence of the basic
+facts more probable than not, the judge shall submit the matter to the jury
+with an instruction to find in favor of the existence of the presumed fact if
+they find from the evidence that the existence of the basic facts is more
+probable than not, but otherwise to find against the existence of the presumed
+fact.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+777)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-200">
+          <num>47.200</num>
+          <heading>Determination on evidence of presumed fact: Where basic facts
+established.</heading>
+          <subsection eId="47-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If reasonable minds would necessarily
+agree that the direct evidence renders the nonexistence of the presumed fact
+more probable than not, the judge shall direct the jury to find against the
+existence of the presumed fact.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If reasonable minds would necessarily
+agree that the direct evidence does not render the nonexistence of the presumed
+fact more probable than not, the judge shall direct the jury to find in favor
+of the presumed fact.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If reasonable minds would not
+necessarily agree as to whether the direct evidence renders the nonexistence of
+the presumed fact more probable than not, the judge shall submit the matter to
+the jury with an instruction to find in favor of the existence of the presumed
+fact unless they find from the direct evidence that its nonexistence is more
+probable than its existence, in which event they should find against its
+existence.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+778)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-210">
+          <num>47.210</num>
+          <heading>Determination on evidence of presumed fact: Where basic facts
+lacking.</heading>
+          <content>
+            <p>When reasonable minds
+would necessarily agree that the evidence does not render the existence of the
+basic facts more probable than not, but direct evidence is introduced
+concerning the existence of the presumed fact, the judge shall submit the
+matter to the jury with an instruction to determine the existence of the
+presumed fact from the direct evidence without reference to the presumption.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+778)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-220">
+          <num>47.220</num>
+          <heading>Determination on evidence of presumed fact: Where basic facts
+doubtful.</heading>
+          <subsection eId="47-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If reasonable minds would necessarily
+agree that the direct evidence renders the existence of the presumed fact more
+probable than not, the judge shall direct the jury to find in favor of the
+existence of the presumed fact.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If reasonable minds would necessarily
+agree that the direct evidence renders the nonexistence of the presumed fact
+more probable than not, the judge shall direct the jury to find against the
+existence of the presumed fact.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-220__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If reasonable minds would not
+necessarily agree that the direct evidence renders the nonexistence of the
+presumed fact more probable than not, the judge shall submit the matter to the
+jury with an instruction to find in favor of the existence of the presumed fact
+if they find from the evidence that the existence of the basic facts is more
+probable than not and unless they find the nonexistence of the presumed fact more
+probable than not, otherwise to find against the existence of the presumed
+fact.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+778)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-230">
+          <num>47.230</num>
+          <heading>Presumptions against accused in criminal actions.</heading>
+          <subsection eId="47-230__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In criminal actions, presumptions
+against an accused recognized at common law or created by statute, including
+statutory provisions that certain facts are prima facie evidence of other facts
+or of guilt, are governed by this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-230__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The judge shall not direct the jury to
+find a presumed fact against the accused. When the presumed fact establishes
+guilt or is an element of the offense or negatives a defense, the judge may
+submit the question of guilt or of the existence of the presumed fact to the
+jury, if, but only if, a reasonable juror on the evidence as a whole, including
+the evidence of the basic facts, could find guilt or the presumed fact beyond a
+reasonable doubt. Under other presumptions, the existence of the presumed fact
+may be submitted to the jury if the basic facts are supported by substantial
+evidence, or are otherwise established, unless the evidence as a whole
+negatives the existence of the presumed fact.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-230__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Whenever the existence of a presumed
+fact against the accused is submitted to the jury, the judge shall give an
+instruction that the law declares that the jury may regard the basic facts as
+sufficient evidence of the presumed fact but does not require it to do so. In
+addition, if the presumed fact establishes guilt or is an element of the
+offense or negatives a defense, the judge shall instruct the jury that its
+existence must, on all the evidence, be proved beyond a reasonable doubt.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+779)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-240">
+          <num>47.240</num>
+          <heading>Conclusive presumptions.</heading>
+          <subsection eId="47-240__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A malicious and guilty intent, from the
+deliberate commission of an unlawful act, for the purpose of injuring another.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-240__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The truth of the fact recited, from the
+recital in a written instrument between the parties thereto, or their
+successors in interest by a subsequent title, but this rule does not apply to
+the recital of a consideration.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-240__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Whenever a party has, by his or her own
+declaration, act or omission, intentionally and deliberately led another to
+believe a particular thing true and to act upon such belief, the party cannot,
+in any litigation arising out of such declaration, act or omission, be
+permitted to falsify it.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-240__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A tenant is not permitted to deny the
+title of his or her landlord at the time of the commencement of the relation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-240__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The judgment or order of a court, when
+declared by titles 2, 3 and 6 of NRS to be conclusive; but such judgment or
+order must be alleged in the pleadings if there is an opportunity to do so; if
+there is no such opportunity, the judgment or order may be used as evidence.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-240__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Any other presumption which, by
+statute, is expressly made conclusive.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+779)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_47-250">
+          <num>47.250</num>
+          <heading>Disputable presumptions.</heading>
+          <subsection eId="47-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>That an unlawful act was done with an
+unlawful intent.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>That a person intends the ordinary
+consequences of that personï¿½s voluntary act.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-250__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>That evidence willfully suppressed
+would be adverse if produced.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-250__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>That higher evidence would be adverse
+from inferior being produced.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-250__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>That money paid by one to another was
+due to the latter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-250__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>That a thing delivered by one to
+another belonged to the latter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-250__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>That things which a person possesses
+are owned by that person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-250__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>That a person is the owner of property
+from exercising acts of ownership over it, or from common reputation of that
+ownership.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-250__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>That official duty has been regularly
+performed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-250__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>That a court or judge, acting as such,
+whether in this State or any other state or country, was acting in the lawful
+exercise of the courtï¿½s or judgeï¿½s jurisdiction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-250__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>That a judicial record, when not
+conclusive, does still correctly determine or set forth the rights of the
+parties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-250__subsec_12">
+            <num>12.</num>
+            <content>
+              <p>That a writing is truly dated.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-250__subsec_13">
+            <num>13.</num>
+            <content>
+              <p>That a letter duly directed and mailed
+was received in the regular course of the mail.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-250__subsec_14">
+            <num>14.</num>
+            <content>
+              <p>That a person not heard from in 3
+years is dead.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-250__subsec_15">
+            <num>15.</num>
+            <content>
+              <p>That a child born in lawful wedlock is
+legitimate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-250__subsec_16">
+            <num>16.</num>
+            <content>
+              <p>That the law has been obeyed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-250__subsec_17">
+            <num>17.</num>
+            <content>
+              <p>That a trustee or other person, whose
+duty it was to convey real property to a particular person, has actually
+conveyed to that person, when such presumption is necessary to perfect the
+title of such person or a successor in interest.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="47-250__subsec_18">
+            <num>18.</num>
+            <content>
+              <p>In situations not governed by the
+Uniform Commercial Code:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="47-250__subsec_18__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>That an obligation delivered up to the debtor
+has been paid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="47-250__subsec_18__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>That private transactions have been fair and
+regular.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="47-250__subsec_18__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>That the ordinary course of business has been
+followed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="47-250__subsec_18__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>That there was good and sufficient
+consideration for a written contract.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+779; A1993,
+2761)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

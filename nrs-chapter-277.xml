@@ -1,0 +1,4164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-277"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-277"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="277"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-277/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-277/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-277/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-277/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_277">
+        <num>277</num>
+        <heading>COOPERATIVE AGREEMENTS:</heading>
+        <section eId="sec_277-035">
+          <num>277.035</num>
+          <heading>Implied agreement between law enforcement agencies in absence of
+interlocal or cooperative agreement.</heading>
+          <subsection eId="277-035__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In the absence of an interlocal or
+cooperative agreement entered into pursuant to this chapter, if a law
+enforcement agency requests the assistance of another law enforcement agency
+which responds to the request, the law enforcement agencies shall be deemed to
+have entered into an implied agreement whereby:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-035__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Both law enforcement agencies shall be
+deemed, for the limited purpose of the exclusive remedy set forth inNRS 616A.020, to employ jointly a person
+who:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-035__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Is an employee of either law
+enforcement agency; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-035__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Sustains an injury by accident or motor
+vehicle crash while participating in the matter for which assistance was
+requested.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="277-035__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Each law enforcement agency shall defend,
+hold harmless and indemnify the other law enforcement agency and its employees
+from any claim or liability arising from an act or omission performed by its
+own employee while participating in the matter for which assistance was
+requested, unless such act or omission is a negligent act or omission for which
+the law enforcement agency who employs that employee is not liable pursuant toNRS 41.0336.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-035__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-035__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Employeeï¿½ includes a person who:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-035__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Is paid by a law enforcement agency to
+serve as a peace officer, as that term is defined inNRS 169.125; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-035__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Is recognized by and serves a law
+enforcement agency as a volunteer peace officer, as that term is described inNRS 616A.160.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="277-035__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Law enforcement agencyï¿½ means an agency,
+office or bureau of this state or a political subdivision of this state, the
+primary duty of which is to enforce the law.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+3336; A2015,
+1661)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-045">
+          <num>277.045</num>
+          <heading>Cooperative agreements between political subdivisions for
+performance of governmental functions; budget for expenses.</heading>
+          <subsection eId="277-045__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as limited byNRS 280.105and711.175, any two or more political
+subdivisions of this State, including, without limitation, counties,
+incorporated cities and towns, unincorporated towns, school districts and
+special districts, may enter into a cooperative agreement for the performance
+of any governmental function. Such an agreement may include the furnishing or
+exchange of personnel, equipment, property or facilities of any kind, or the
+payment of money.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-045__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If it is reasonably foreseeable that a
+political subdivision of this State will be required to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-045__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Expend more than $25,000 to carry out such an
+agreement, the agreement must be by formal resolution or ordinance of the
+governing body of each political subdivision included, and must be spread at
+large upon the minutes, or attached in full thereto as an exhibit, of each
+governing body.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-045__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Expend $25,000 or less to carry out such an
+agreement, the governing body of each participating political subdivision shall
+maintain written documentation of the terms of the agreement for at least 3
+years after the date on which the agreement was entered into.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-045__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Each participating political
+subdivision shall provide in its annual budget for any expense to be incurred
+under any such agreement, the money for which is not made available through
+grant, gift or other source.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+651; A1967,
+698;1981,
+645;1985,
+665;1987,
+535;2003,
+1230;2007,
+497)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-050">
+          <num>277.050</num>
+          <heading>Sale, exchange or lease of real property by public agency:
+Conditions; procedure.</heading>
+          <subsection eId="277-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>As used in this section, ï¿½public
+agencyï¿½ includes, without limitation, the United States or a department or
+agency of the Federal Government, a county, a public corporation and a public
+district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Without a vote of the electors of a
+public agency first being had, the governing body of the agency may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-050__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Sell or exchange to another public agency,
+the State of Nevada or a department or agency of the State or an Indian tribe;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-050__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Lease to another public agency, the State of
+Nevada or a department or agency of the State or an Indian tribe, for a term
+not exceeding 99 years,
+ï¿½any real
+property belonging to it.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-050__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A sale or exchange may be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-050__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Negotiated without advertising for public
+bids.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-050__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Made for cash or property, or for part cash
+and property, or for part cash and terms of deferred payments secured by
+mortgage or deed of trust, but the purchasing public agency or entity or
+exchanging public agencies or entities shall, except as otherwise provided inNRS 277.053, pay or convey property worth
+an amount at least equal to the current appraised value of the real property
+being conveyed or exchanged. Money derived from a sale must be used for capital
+outlay.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-050__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A lease may be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-050__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Negotiated without advertising for public
+bids.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-050__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Made for such consideration as is authorized
+by action of the governing body of the lessor public agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-050__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Before ordering the sale, exchange or
+lease of any such property, the governing body of a public agency shall, in a
+regular open meeting, by a majority vote of its members, adopt a resolution
+declaring its intention to sell or exchange it, or a resolution declaring its
+intention to lease it, as the case may be. The resolution must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-050__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Describe the property proposed to be sold,
+exchanged or leased in such a manner as to identify it.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-050__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Specify the minimum price, consideration or
+rent and the terms upon which it will be sold, exchanged or leased.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-050__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Fix a time not less than 2 weeks thereafter
+for a public meeting of the governing body, at which objections to the sale,
+exchange or lease may be made by the electors of the public agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-050__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Notice of the adoption of the
+resolution and of the time and place of the public meeting must be published in
+a newspaper of general circulation published in the county in which the public
+agency or any part thereof is situated. The notice must be published not less
+than twice, on successive days, the last publication to be not less than 7 days
+before the date of the public meeting.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-050__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Any resolution accepting a bid or any
+other form of acceptance of a bid by another public agency must direct the
+chair, president or other presiding officer of the governing body of the
+selling, exchanging or lessor public agency to execute a deed or lease and to
+deliver it to the purchasing, exchanging or lessee public agency or entity upon
+the performance and compliance by it of all the terms and conditions of the
+contract to be performed concurrently with the delivery.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:388:1955] + [2:388:1955] + [3:388:1955] +
+[4:388:1955] + [5:388:1955] + [6:388:1955] + [7:388:1955] + [8:388:1955]—(NRS A1957,
+138;1965,
+631;1969,
+325,865;1975,
+572;1981,
+376;1991,
+587;1999,
+1160)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-053">
+          <num>277.053</num>
+          <heading>Real property to be used for public purpose: Conveyance of such
+property by one political subdivision to State, state agency, another political
+subdivision or Indian tribe without charge.</heading>
+          <content>
+            <p>A
+governing body of a political subdivision may convey real property to the
+State, any agency of the State, another political subdivision or an Indian
+tribe without charge if the property is to be used for a public purpose.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+376; A1999,
+1161;2007,
+2837)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-055">
+          <num>277.055</num>
+          <heading>Cooperative agreements concerning insurance between public
+agencies or nonprofit medical facilities: Authorization; requirements;
+expenses.</heading>
+          <subsection eId="277-055__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-055__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Medical facilityï¿½ has the meaning ascribed
+to it inNRS 449.0151.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-055__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Nonprofit medical facilityï¿½ means a
+nonprofit medical facility in this or another state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-055__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>ï¿½Public agencyï¿½ has the meaning ascribed to
+it inNRS 277.100, and includes any
+municipal corporation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-055__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any two or more public agencies or
+nonprofit medical facilities may enter into a cooperative agreement for the
+purchase of insurance or the establishment of a self-insurance reserve or fund
+for coverage under a plan of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-055__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Casualty insurance, as that term is defined
+inNRS 681A.020;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-055__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Marine and transportation insurance, as that
+term is defined inNRS 681A.050;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-055__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Property insurance, as that term is defined
+inNRS 681A.060;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-055__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Surety insurance, as that term is defined inNRS 681A.070;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-055__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Health insurance, as that term is defined inNRS 681A.030; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-055__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Insurance for any combination of these kinds.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-055__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Every such agreement must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-055__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be ratified by formal resolution or ordinance
+of the governing body or board of trustees of each agency or nonprofit medical
+facility included;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-055__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Be included in the minutes of each governing
+body or board of trustees, or attached in full to the minutes as an exhibit;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-055__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Be submitted to the Commissioner of Insurance
+not less than 30 days before the date on which the agreement is to become
+effective for approval in the manner provided byNRS 277.150; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-055__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a public agency is a party to the
+agreement, comply with the provisions ofNRS
+277.080to277.180, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-055__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Each participating agency or nonprofit
+medical facility shall provide for any expense to be incurred under any such
+agreement.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+535; A1993,
+1938,2444;1995,
+699;1999,
+2819)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-056">
+          <num>277.056</num>
+          <heading>Cooperative agreements concerning insurance between public
+agencies or nonprofit medical facilities: Additional powers and obligations
+under such agreements between housing authorities.</heading>
+          <subsection eId="277-056__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An agreement entered into pursuant toNRS 277.055by a housing authority created
+pursuant tochapter 315of NRS, including,
+without limitation, the Nevada Rural Housing Authority, with a housing
+authority that is a political subdivision of another state or an agency of the
+United States may obligate the respective parties to such an agreement to
+pledge revenues or contribute money to secure the obligations or pay the
+expenses of the cooperative undertaking and may provide for the establishment
+of a separate entity to administer the undertaking.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-056__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsections 3 and 4, any party to an agreement described in subsection 1, or
+any entity established by such an agreement, may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-056__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Obligate itself to contribute money for:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-056__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The purchase of insurance;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-056__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The establishment of a reserve fund or
+other fund for coverage;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-056__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The payment of any debt; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-056__subsec_2__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Any other purpose related to the
+agreement;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="277-056__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Borrow money for any such purpose;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-056__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Issue notes and bonds evidencing the
+borrowing; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-056__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Secure payment of the notes and bonds by a
+pledge of revenues.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-056__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 4, any obligation to contribute money that is undertaken pursuant to
+an agreement described in subsection 1:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-056__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is binding notwithstanding that it is
+intended to remain in force beyond the current budget year or the terms of
+office of the present members of the governing body of the obligor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-056__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If undertaken to pay any debt, must not
+remain in force for more than 30 years after the date on which the debt was
+incurred.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-056__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If undertaken to pay claims and
+administrative expenses, must not remain in force for more than 10 years,
+except with respect to claims arising from events that occur during the period
+the obligation is in force.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-056__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Except for a pledge of revenues or an
+obligation to contribute money that pledges revenues or that otherwise commits
+money derived from a source other than taxation, any pledge or obligation which
+is made or undertaken pursuant to an agreement described in subsection 1 by a
+housing authority created in this State must not remain in force after the end
+of the biennium in which it is made or undertaken.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-056__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Any pledge of revenues made by a
+housing authority created in this State or a separate entity pursuant to an
+agreement described in subsection 1 is valid and binding from the time when the
+pledge is made. The revenues, money or property so pledged and thereafter received
+by the housing authority or separate entity is immediately subject to the lien
+of such pledge without any physical delivery thereof or further act, and the
+lien of any such pledge is valid and binding as against all persons having
+claims of any kind in tort, contract or otherwise against the housing authority
+or separate entity, whether or not such persons have notice thereof. Neither
+the proceedings of the housing authority or separate entity relating to the
+bonds or notes issued pursuant to this section nor any other instrument by
+which such a pledge is created need be recorded.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-056__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>This section constitutes full authority
+for the exercise of the powers granted in this section. Any other act or law
+which relates to the authorization or issuance of securities and which provides
+for an election does not apply to any proceedings taken or acts done pursuant
+to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-056__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>An issuance of bonds or notes, pledge
+of revenues, or obligation to contribute money that is made or undertaken
+pursuant to this section shall be deemed not to create indebtedness for the
+purposes of any limitation on indebtedness contained in any general or special
+law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-056__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, the issuance of any bonds or notes pursuant to this section must be
+made in accordance with:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-056__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>NRS
+315.140to315.7813, inclusive, if
+the bonds or notes are issued by:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-056__subsec_8__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>An authority, as that term is defined
+inNRS 315.170; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-056__subsec_8__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>An entity established pursuant to an
+agreement described in subsection 1 on behalf of such an authority; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="277-056__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>NRS
+315.9986to315.99874, inclusive,
+if the bonds or notes are issued by:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-056__subsec_8__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The Nevada Rural Housing Authority
+created pursuant toNRS 315.977; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-056__subsec_8__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>An entity established pursuant to an
+agreement described in subsection 1 on behalf of the Nevada Rural Housing
+Authority.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+430)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-057">
+          <num>277.057</num>
+          <heading>Cooperative agreements concerning sites of archeological,
+paleontological or historical significance: Legislative findings and
+declaration.</heading>
+          <subsection eId="277-057__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>There are various unique and
+irreplaceable sites in this state of archeological, paleontological or
+historical significance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-057__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Certain of these sites are in danger of
+degradation and destruction from the encroachment of urban development.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-057__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>This state has a compelling interest in
+preserving, protecting, restoring and enhancing these sites.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-057__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The preservation, protection,
+restoration and enhancement of these sites is a matter of such significance
+that it must be carried out on a continual basis.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-057__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>It is in the best interest of this
+state to ensure that certain public entities have continuing authority to enter
+into cooperative agreements for the preservation, protection, restoration and
+enhancement of such unique and irreplaceable sites in this state.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1687; A2009,
+376)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-058">
+          <num>277.058</num>
+          <heading>Cooperative agreements concerning sites of archeological,
+paleontological or historical significance: Authorization and purposes;
+consultation and cooperation with certain entities required.</heading>
+          <subsection eId="277-058__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A public entity, in consultation with
+any Indian tribe that has local aboriginal ties to the geographical area in
+which a unique archeological, paleontological or historical site is located and
+in cooperation with the Office of Historic Preservation of the State Department
+of Conservation and Natural Resources, may enter into a cooperative agreement
+with the owner of any property that contains a unique archeological,
+paleontological or historical site in this state or with any other person,
+agency of the Federal Government or other public entity for the preservation,
+protection, restoration and enhancement of unique archeological,
+paleontological or historical sites in this state, including, without
+limitation, cooperative agreements to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-058__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Monitor compliance with and enforce any
+federal or state statutes or regulations for the protection of such sites.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-058__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Ensure the sensitive treatment of such sites
+in a manner that provides for their long-term preservation and the
+consideration of the values of relevant cultures.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-058__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Apply for and accept grants and donations for
+the preservation, protection, restoration and enhancement of such sites.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-058__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Create and enforce:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-058__subsec_1__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Legal restrictions on the use of real
+property; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-058__subsec_1__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Easements for conservation, as defined
+inNRS 111.410,
+ï¿½for the
+protection of such sites.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-058__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½public
+entityï¿½ means any:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-058__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Agency of this state, including the Office of
+Historic Preservation of the State Department of Conservation and Natural
+Resources; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-058__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>County, city or town in this state.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1688; A2001,
+937;2009,
+376;2011,
+2951)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-060">
+          <num>277.060</num>
+          <heading>Cooperative agreements concerning water and sewerage between
+political subdivisions in certain counties.</heading>
+          <subsection eId="277-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In any county having a population of
+100,000 or more, any county, city, town, water district, sewer or sanitation
+district or other political subdivision of the State authorized by law to
+acquire, operate and maintain water or sewage facilities, or both, or to
+improve a governmental service in connection therewith, may contract with one
+or more of these political subdivisions if the contract is authorized by each
+party thereto with the approval of its legislative body or other authority
+having the power to enter into or approve the contract.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any such contract must set forth fully
+the purposes, powers, rights, obligations and responsibilities, financial and
+otherwise, of the contracting parties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-060__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The contract may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-060__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Include, among other things, the renting of
+machinery and equipment, mobile or otherwise.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-060__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide for the payment for water facilities,
+sewer facilities, lands, rights in land and water rights sold, leased or
+otherwise alienated, the payment to be made within a period of time not
+exceeding 30 years from the date of the contract from the rates, fees, tolls or
+charges derived from the operation of the water or sewer facilities, or both,
+upon such terms and conditions as may be specified in the contract, without the
+obligation being authorized by any qualified electors of any political
+subdivision which is a party to the contract.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-060__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The equipment and employees of any such
+political subdivision, while engaged in performing any governmental service,
+activity or undertaking under the contract, have and retain all the rights,
+privileges and immunities of, and shall be deemed to be engaged in the service
+and employment of, that political subdivision, notwithstanding that the
+governmental service, activity or undertaking is being performed in or for
+another political subdivision.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-060__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The powers conferred by this section
+are in addition and supplemental to, and not in substitution for, and the
+limitations imposed by this section do not affect the powers conferred by, any
+other law. No part of this section repeals or affects any other law or any part
+thereof, it being intended that this section provide a separate method of
+accomplishing its objectives, and not an exclusive one.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-060__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>This section, being necessary to secure
+and preserve the public health, safety and convenience and welfare, must be
+liberally construed to effect its purpose.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+657; A1969,
+1539;1979,
+528;1983,
+127)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-065">
+          <num>277.065</num>
+          <heading>Cooperative agreements for improvement of quality of academic
+and career and technical education at correctional institutions for juveniles
+and state facilities for detention of children.</heading>
+          <subsection eId="277-065__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Within the limits of legislative
+appropriations, the Department of Education, the county school districts of the
+various counties of the State, the Nevada Youth Training Center Bureau and the
+Caliente Youth Center Bureau of the Division of Child and Family Services of
+the Department of Health and Human Services and any other state facility for
+the detention of children that is operated pursuant to title 5 of NRS may enter
+into cooperative arrangements for improving the quality of the academic, and
+career and technical education provided at the Nevada Youth Training Center,
+the Caliente Youth Center and any other state facility for the detention of
+children that is operated pursuant to title 5 of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-065__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>This authorization includes the right
+to pay over money appropriated to the Nevada Youth Training Center, the
+Caliente Youth Center or any other state facility for the detention of children
+that is operated pursuant to title 5 of NRS to the Department of Education or
+to a county school district when necessary to accomplish the purpose of this
+section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+339; A1973,
+1406,1614;1983,
+127;1985,
+815;1989,
+1958;1991,
+2127;2003,
+1131;2005,
+1052)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-0655">
+          <num>277.0655</num>
+          <heading>Cooperative agreements for educational services at hospital or
+other facility that provides residential treatment to children.</heading>
+          <subsection eId="277-0655__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department of Education, the county
+school districts of the various counties, charter schools and the Division of
+Public and Behavioral Health of the Department of Health and Human Services may
+enter into cooperative agreements for the provision of educational services at
+any hospital or other facility which is licensed:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-0655__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>By the Division that provides residential
+treatment to children and which operates a private school licensed pursuant tochapter 394of NRS; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-0655__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In the District of Columbia or any state or
+territory of the United States that:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-0655__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Meets the requirements of 42 C.F.R. ï¿½ï¿½
+441.151 to 441.156, inclusive;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-0655__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Provides residential treatment to
+children; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-0655__subsec_1__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Operates an educational program
+accredited by a national organization and approved by the Department of
+Education.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-0655__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The authorization provided by
+subsection 1 includes the right to pay over money appropriated to a county
+school district or charter school for the education of a child placed in such a
+hospital or facility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0655__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½hospitalï¿½ has
+the meaning ascribed to it inNRS 449.012.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+1008; A2019,
+3111)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-067">
+          <num>277.067</num>
+          <heading>Cooperative agreements concerning insurance: Political
+subdivisions, state agencies or Nevada System of Higher Education may enter
+into agreement; approval of Board of Public Employeesï¿½ Benefits Program
+required under certain circumstances; establishment of separate entity.</heading>
+          <subsection eId="277-067__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, any two or more political subdivisions of this State, agencies of
+the State or the Nevada System of Higher Education may enter into a cooperative
+agreement for the purchase of insurance or the establishment of a
+self-insurance reserve or fund for coverage under a plan of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-067__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Casualty insurance, as that term is defined
+inNRS 681A.020;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-067__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Marine and transportation insurance, as that
+term is defined inNRS 681A.050;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-067__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Property insurance, as that term is defined
+inNRS 681A.060;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-067__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Surety insurance, as that term is defined inNRS 681A.070;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-067__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Health insurance, as that term is defined inNRS 681A.030; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-067__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Insurance for any combination of these kinds
+of protection.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-067__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any political subdivision of the State,
+any agency of the State or the Nevada System of Higher Education which
+participates in the Public Employeesï¿½ Benefits Program shall obtain the
+approval of the Board of the Public Employeesï¿½ Benefits Program before it
+enters into a cooperative agreement for the purchase of health insurance
+pursuant to paragraph</p>
+            </content>
+            <paragraph eId="277-067__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>of subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-067__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any such agreement may obligate the
+respective parties to pledge revenues or contribute money to secure the
+obligations or pay the expenses of the cooperative undertaking and may provide
+for the establishment of a separate entity to administer the undertaking.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1678; A1993,
+371;1995,
+2508;1999,
+3040)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-069">
+          <num>277.069</num>
+          <heading>Cooperative agreements concerning insurance: Powers and
+obligations of parties.</heading>
+          <subsection eId="277-069__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsections 2 and 3, any party to an agreement entered into pursuant toNRS 277.067, or any entity established by
+such an agreement, may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-069__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Obligate itself to contribute money for the
+purchase of insurance, the establishment of a reserve or fund for coverage, the
+payment of any debt, or for any other purpose related to the undertaking;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-069__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Borrow money for any such purpose;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-069__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Issue notes and bonds evidencing the
+borrowing; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-069__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Secure payment of the notes and bonds by a
+pledge of revenues.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-069__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3, any obligation to contribute money which is undertaken pursuant
+to a cooperative agreement:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-069__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is binding notwithstanding that it is
+intended to remain in force beyond the current budget year or the terms of
+office of the present members of the governing body of the obligor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-069__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If undertaken to pay any debt, does not
+remain in force more than 30 years after the date of the borrowing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-069__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If undertaken to pay claims and
+administrative expenses, does not remain in force more than 10 years, except
+with respect to claims arising from occurrences during the period it is in
+force.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-069__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except for a pledge of revenues or
+obligation to contribute money which pledges revenues or commits money derived
+from a source other than taxation, any pledge or obligation which is made or
+undertaken pursuant to a cooperative agreement by an agency of the State or the
+Nevada System of Higher Education does not remain in force after the end of the
+biennium in which it is made or undertaken.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1679; A1993,
+371;1995,
+2508;2005,
+363)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-0695">
+          <num>277.0695</num>
+          <heading>Cooperative agreements concerning insurance: Issuance of
+securities; applicability of other laws concerning securities.</heading>
+          <subsection eId="277-0695__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An issuance of bonds or notes, pledge
+of revenues, or obligation to contribute money which is made or undertaken
+pursuant toNRS 277.067and277.069shall be deemed not to create
+indebtedness for the purposes of any limitation on indebtedness contained in
+any general or special law or charter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0695__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section and inNRS 277.067and277.069, the issuance of any bonds or notes
+pursuant toNRS 277.069must be made in
+accordance with:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-0695__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Local Government Securities Law, if the
+bonds or notes are issued by or on behalf of a municipality as that term is
+defined inNRS 350.538;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-0695__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The State Securities Law, if the bonds or
+notes are issued by or on behalf of an agency of the State; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-0695__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The University Securities Law, if the bonds
+or notes are issued by or on behalf of the Nevada System of Higher Education.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1679; A1993,
+372;2005,
+363)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-0705">
+          <num>277.0705</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 277.0705to277.0755, inclusive, unless the context
+otherwise requires, the words and terms defined inNRS 277.071to277.0735, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1619)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-071">
+          <num>277.071</num>
+          <heading>ï¿½Borrowing local governmentï¿½ defined.</heading>
+          <subsection eId="277-071__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Borrows money from an issuer; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-071__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Leases or enters into an arrangement
+for an installment purchase with a facility financed by an issuer.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1619)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-0715">
+          <num>277.0715</num>
+          <heading>ï¿½Facilityï¿½ defined.</heading>
+          <subsection eId="277-0715__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Land and interests therein;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0715__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Buildings;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0715__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Other structures;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0715__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Equipment;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0715__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Water systems;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0715__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Sewer systems;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0715__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Drainage and flood control systems;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0715__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Motor vehicles;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0715__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>Police, ambulance and fire equipment;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0715__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>Hospitals;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0715__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>Jails;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0715__subsec_12">
+            <num>12.</num>
+            <content>
+              <p>Schools;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0715__subsec_13">
+            <num>13.</num>
+            <content>
+              <p>Libraries;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0715__subsec_14">
+            <num>14.</num>
+            <content>
+              <p>Highways, streets and sidewalks;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0715__subsec_15">
+            <num>15.</num>
+            <content>
+              <p>Airports;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0715__subsec_16">
+            <num>16.</num>
+            <content>
+              <p>Any other purpose for which a local government
+is authorized to borrow money; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0715__subsec_17">
+            <num>17.</num>
+            <content>
+              <p>Furnishings, appurtenances and other
+items financed in connection with subsections 1 to 16, inclusive.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1620)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-072">
+          <num>277.072</num>
+          <heading>ï¿½Financeï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Financeï¿½
+includes refinancing or refunding obligations previously issued by an issuer or
+a borrowing local government for a facility.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1620)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-0725">
+          <num>277.0725</num>
+          <heading>ï¿½Issuerï¿½ defined.</heading>
+          <subsection eId="277-0725__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A local government or separate
+administrative or legal entity designated in a cooperative agreement to issue
+revenue securities; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0725__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A borrowing local government.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1620)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-073">
+          <num>277.073</num>
+          <heading>ï¿½Local governmentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Local
+governmentï¿½ has the meaning ascribed to it inNRS
+354.474.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1620)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-0735">
+          <num>277.0735</num>
+          <heading>ï¿½Revenue securitiesï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Revenue
+securitiesï¿½ means negotiable revenue bonds or notes payable from the sources
+designated inNRS 277.0745.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1620)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-074">
+          <num>277.074</num>
+          <heading>Local governments may enter into cooperative agreements for
+borrowing money to finance facility; contents of agreement.</heading>
+          <content>
+            <p>Two or more local governments may enter into
+cooperative agreements for borrowing money to finance a facility. The agreement
+must designate the issuer. If the agreement creates a separate legal or
+administrative entity to administer the borrowing or the proceeds it must
+specify the composition and powers of the governing body of that entity.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1620)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-0745">
+          <num>277.0745</num>
+          <heading>Issuance and repayment of revenue securities.</heading>
+          <subsection eId="277-0745__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The proceeds of the revenue securities
+and interest earned;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0745__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Revenues of any facility financed with
+the revenue securities;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0745__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Repayments of loans to borrowing local
+governments made with the proceeds of the revenue securities;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0745__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Rentals or payments for installment
+purchases made with respect to facilities financed with revenue securities; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-0745__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The proceeds of the sale of any
+facility financed with the proceeds of the revenue securities or any part of
+it.
+ï¿½Repayment
+may be additionally secured by a mortgage, security interest or other
+encumbrance on a facility financed with the revenue securities.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1620)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-075">
+          <num>277.075</num>
+          <heading>Prerequisites to borrowing from issuer or becoming obligated for
+facility.</heading>
+          <subsection eId="277-075__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Has the authority to borrow money or
+enter into a lease or agreement for an installment purchase for the facility
+being financed with the revenue securities; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-075__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Has followed the procedure required by
+law to borrow money or enter into a lease or an agreement for an installment
+purchase.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1621)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-0755">
+          <num>277.0755</num>
+          <heading>Application of Local Government Securities Law.</heading>
+          <content>
+            <p>The provisions of the Local Government
+Securities Law apply to revenue securities issued pursuant toNRS 277.0745to the extent that they are
+consistent with the provisions ofNRS
+277.0705to277.075, inclusive.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1621)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-080">
+          <num>277.080</num>
+          <heading>Short title.</heading>
+          <content>
+            <p>NRS 277.080to277.180, inclusive, may be cited as the
+Interlocal Cooperation Act.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+1332; A1993,
+1453)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-090">
+          <num>277.090</num>
+          <heading>Purpose.</heading>
+          <content>
+            <p>It is the
+purpose ofNRS 277.080to277.180, inclusive, to permit local
+governments to make the most efficient use of their powers by enabling them to
+cooperate with other local governments on a basis of mutual advantage and
+thereby to provide services and facilities in a manner and pursuant to forms of
+governmental organization which will best accord with geographic, economic,
+population and other factors influencing the needs and development of local
+communities.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+1332)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-100">
+          <num>277.100</num>
+          <heading>Definitions.</heading>
+          <subsection eId="277-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Public agencyï¿½ means:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-100__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any political subdivision of this State,
+including without limitation counties, incorporated cities and towns, including
+Carson City, unincorporated towns, school districts and other districts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-100__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any agency of this State or of the United
+States.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-100__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any political subdivision of another state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-100__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Any Indian tribe, group of tribes, organized
+segment of a tribe, or any organization representing two or more such entities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½Stateï¿½ includes any of the United States
+and the District of Columbia.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+1332; A1969,
+327;1973,
+260;1983,
+128)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-103">
+          <num>277.103</num>
+          <heading>Consolidation of governmental services; supplementary and
+prevailing provisions.</heading>
+          <subsection eId="277-103__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The governing bodies of a county, the
+largest city, and each other incorporated city which chooses to participate may
+consolidate the services provided by those governments, by interlocal agreement
+pursuant to the provisions ofNRS 277.105.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-103__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of this section andNRS 277.105supplement, and in case of
+conflict prevail over, the provisions ofNRS
+277.110to277.180, inclusive.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1993,
+1453; A2015,
+3844;2017,
+60)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-105">
+          <num>277.105</num>
+          <heading>Establishment of permanent administrative entity to perform
+specific functions relating to consolidation of governmental services;
+negotiation concerning contributions to budget of entity.</heading>
+          <subsection eId="277-105__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In a county in which governmental
+services are consolidated, the governing bodies may establish a permanent
+administrative entity to perform specific functions throughout the
+participating cities and in the unincorporated area of the county, including,
+but not limited to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-105__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Prevention and suppression of fire.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-105__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Sanitation and sewerage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-105__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Planning, regulation of use of land and
+buildings, inspection of buildings for safety, and the issuance of building
+permits.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-105__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Regulation of business and gaming and
+issuance of business and gaming licenses.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-105__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Provision of parks and recreation, including
+the maintenance of existing facilities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-105__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Provision of informational systems and data
+processing for the county and participating cities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-105__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>General services and the maintenance of
+buildings and vehicles for the county and participating cities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-105__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The county and each participating city
+may negotiate concerning the manner of contributing to the budget of the
+administrative entity in proportion to the sum of revenues derived by each from
+taxes, licenses for business and gaming, and fees for services performed, in
+each city and in the unincorporated area of the county, respectively.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1993,
+1453; A2015,
+3844;2017,
+60)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-110">
+          <num>277.110</num>
+          <heading>Joint exercise of powers, privileges and authority by public
+agencies; purchase of prescription drugs, pharmaceutical services, medical supplies
+or related services; agreements.</heading>
+          <subsection eId="277-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any power, privilege or authority
+exercised or capable of exercise by a public agency of this State, including,
+but not limited to, law enforcement, may be exercised jointly with any other
+public agency of this State, and jointly with any public agency of any other
+state or of the United States to the extent that the laws of such other state
+or of the United States permit such joint exercise. Any agency of this State
+when acting jointly with any other public agency may exercise all the powers,
+privileges and authority conferred byNRS
+277.080to277.180, inclusive, upon
+a public agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any two or more public agencies may
+enter into agreements with one another for joint or cooperative action pursuant
+to the provisions ofNRS 277.080to277.170, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-110__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A public agency may enter into an
+agreement with any other public agency or private entity in this State, the
+District of Columbia or any other state or territory of the United States or
+any agency of the United States for the purchase of prescription drugs,
+pharmaceutical services, or medical supplies and related services to the extent
+that the laws applicable to each participating agency and entity permit such an
+agreement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-110__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If it is reasonably foreseeable that a
+participating public agency will be required to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-110__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Expend more than $25,000 to carry out an
+agreement described in this section, the agreement:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-110__subsec_4__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Must be in writing.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-110__subsec_4__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Becomes effective only upon
+ratification by appropriate ordinance, resolution or otherwise pursuant to law
+on the part of the governing bodies of the participating public agencies.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="277-110__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Expend $25,000 or less to carry out such an
+agreement, each participating public agency shall maintain written
+documentation of the terms of the agreement for at least 3 years after the date
+on which the agreement was entered into.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+1332; A1973,
+1077;1981,
+646;2001,
+1079;2003,
+1231;2007,
+498;2021,
+1753)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-120">
+          <num>277.120</num>
+          <heading>Contents of agreement establishing separate legal or
+administrative entity; contents of other agreements.</heading>
+          <subsection eId="277-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 277.105, any agreement made pursuant toNRS 277.110which establishes a separate
+legal or administrative entity to conduct the joint or cooperative undertaking
+shall specify:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-120__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The precise organization, composition and
+nature of such entity and the powers delegated thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-120__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The duration of the agreement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-120__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The purpose of the agreement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-120__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The manner of financing such undertaking and
+of establishing and maintaining a budget therefor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-120__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The method or methods to be employed in
+accomplishing the partial or complete termination of the agreement and for
+disposing of property upon such partial or complete termination.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-120__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Any other necessary or proper matters.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any agreement so made which does not
+establish such an entity shall contain:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-120__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The provisions enumerated in paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-120__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-120__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>, inclusive, of subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-120__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provision for an administrator or joint board
+responsible for administering the joint or cooperative undertaking. In the case
+of a joint board, public agencies which are parties to the agreement shall be
+represented.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-120__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The manner of acquiring, holding and
+disposing of real and personal property used in such undertaking.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+1332; A1993,
+1454)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-130">
+          <num>277.130</num>
+          <heading>Effect of agreement on legal obligations and responsibilities of
+public agency; certain legal entities created by agreement prohibited from
+operating in certain manner.</heading>
+          <subsection eId="277-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>No agreement made pursuant toNRS 277.080to277.170, inclusive, relieves any public
+agency of any obligation or responsibility imposed upon it by law except that
+to the extent of actual and timely performance by a joint board or other legal
+or administrative entity created by the agreement, such performance may be
+offered in satisfaction of the obligation or responsibility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A legal entity created before July 1,
+2001, by an agreement made pursuant toNRS
+277.080to277.170, inclusive, must
+not be operated in such a manner as to affect adversely the continued existence
+of a public agency that is not a party to the agreement.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+1333; A2001,
+1698)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-140">
+          <num>277.140</num>
+          <heading>Authority of public agency to submit certain agreements to
+Attorney General for approval; failure to disapprove such agreements within
+certain period to be deemed approval; recording and filing of such agreements;
+authority of Attorney General to charge cost of timely performing
+determinations related to such agreements.</heading>
+          <subsection eId="277-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any agreement made pursuant toNRS 277.080to277.170, inclusive, for which it is
+reasonably foreseeable that a public agency will be required to expend more
+than $25,000:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-140__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>May be submitted to the Attorney General, who
+shall determine whether it is in proper form and compatible with the laws of
+this State. The Attorney General shall set forth in detail, in writing,
+addressed to the governing bodies of the public agencies concerned, any
+specific respects in which he or she finds that the proposed agreement fails to
+comply with the requirements of law. Any failure by the Attorney General to
+disapprove an agreement submitted under the provisions of this section within
+30 days after its submission shall be deemed to constitute his or her approval.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-140__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Must be recorded with the county recorder of
+each county in which a participating political subdivision of this State is
+located and filed with the Secretary of State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Attorney General may charge the
+cost of performing any determination made pursuant to subsection 1 to the
+public agency that submits the agreement to the Attorney General for review,
+but only if the determination is made within 30 days after the date on which
+the Attorney General receives the agreement. Any such costs must be charged in
+a manner that is substantially similar to the manner for charging state
+agencies for services, as set forth inNRS
+228.113.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+1333; A2001,
+1080,1759;2003,
+75;2007,
+498;2011,
+373)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-150">
+          <num>277.150</num>
+          <heading>Approval of certain agreements by state officer or agency.</heading>
+          <content>
+            <p>In the event that an agreement made pursuant
+toNRS 277.080to277.170, inclusive, deals in whole or in
+part with the provision of services of facilities over which an officer or
+agency of this State has constitutional or statutory powers of control, the
+agreement must, as a condition precedent to its entry into force, be submitted
+to the state officer or agency having such power of control for approval or
+disapproval as to all matters within the jurisdiction of the state officer or
+agency in the same manner and subject to the same requirements as govern the action
+of the Attorney General underNRS 277.140.
+This requirement of submission and approval is in addition to and not in
+substitution for the authority for submission and approval by the Attorney
+General.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+1333; A2011,
+374)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-160">
+          <num>277.160</num>
+          <heading>Agreement as interstate compact; liability of state; actions.</heading>
+          <content>
+            <p>An agreement entered into pursuant toNRS 277.080to277.170, inclusive, between or among one or
+more public agencies of this state and one or more public agencies of another
+state or of the United States shall have the status of an interstate compact,
+but in any case or controversy involving performance or interpretation thereof
+or liability thereunder, the public agencies which are parties to the agreement
+shall be real parties in interest, and the state may maintain an action to
+recover for any damages or liability which it may incur by reason of being
+joined as a party in such case or controversy. Such action shall be
+maintainable against any public agency whose default, failure of performance,
+or other conduct caused or contributed to the incurring of damage or liability
+by the state.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+1333)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-170">
+          <num>277.170</num>
+          <heading>Appropriations; furnishing of property, personnel and services;
+issuance of securities.</heading>
+          <subsection eId="277-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A public agency which has entered into
+an agreement pursuant toNRS 277.080to277.170, inclusive, may support the
+administrative joint board or other legal or administrative entity created to
+operate the joint or cooperative undertaking, to the extent that funds for such
+operation are not made available through grant, gift or other source, in any
+one or more of the following ways:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-170__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>By appropriating funds;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-170__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>By selling, leasing, giving or otherwise
+supplying property; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-170__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>By providing such personnel or services as
+may be within its legal power to furnish.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A public agency may also support a
+joint or cooperative undertaking by issuing its own securities to defray costs
+ultimately to be borne by the other party, in contemplation of later repayment.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+1334; A1967,
+698;1995,
+1605)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-180">
+          <num>277.180</num>
+          <heading>Interlocal contracts.</heading>
+          <subsection eId="277-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any one or more public agencies may
+contract with any one or more other public agencies to perform any governmental
+service, activity or undertaking which any of the public agencies entering into
+the contract is authorized by law to perform.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If it is reasonably foreseeable that a
+public agency will be required to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-180__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Expend more than $25,000 to carry out a
+contract, the contract must:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-180__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Set forth fully the purposes, powers,
+rights, objectives and responsibilities of the contracting parties;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-180__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Be ratified by appropriate official
+action of the governing body of each party to the contract as a condition
+precedent to its entry into force;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-180__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>If an agency of this State is a party
+to the contract, be approved by the Attorney General as to form and compliance
+with law; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-180__subsec_2__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Be in writing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="277-180__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Expend $25,000 or less to carry out a
+contract, each participating public agency shall maintain written documentation
+of the terms of the contract for at least 3 years after the date on which the
+contract was entered into.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-180__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The authorized purposes of agreements
+made pursuant to subsection 1 include, but are not limited to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-180__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The joint use of hospitals, road construction
+and repair equipment, and such other facilities or services as may and can be
+reasonably used for the promotion and protection of the health and welfare of
+the inhabitants of this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-180__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The joint use of county and city personnel,
+equipment and facilities, including sewer systems, drainage systems, street
+lighting systems, fire alarm systems, sewage disposal plants, playgrounds,
+parks and recreational facilities, and public buildings constructed by or under
+the supervision of the board of county commissioners or the city council of the
+county and city concerned, upon such terms and agreements, and within such
+areas within the county as may be determined, for the promotion and protection
+of health, comfort, safety, life, welfare and property of the inhabitants of
+the counties and cities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-180__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The joint employment of clerks, stenographers
+and other employees in the offices of the city and county auditor, city and
+county assessor, city and county treasurer, or any other joint city and county
+office existing or hereafter established in the several counties, upon such
+terms and conditions as may be determined for the equitable apportionment of
+the expenses of the joint city and county office.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-180__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The joint and cooperative use of
+fire-fighting and fire-protection equipment for the protection of property and
+the prevention and suppression of fire.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-180__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The joint use of county and city personnel,
+equipment and facilities, upon such terms and conditions, and within such areas
+within the county as may be determined, for the promotion and protection of the
+health of the inhabitants of the county and city through the regulation,
+control and prohibition of the excessive emission of dense smoke and air
+pollution.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-180__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The joint and cooperative use of law
+enforcement agencies.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-180__subsec_3__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The joint use or operation of a system of
+public transportation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-180__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Each public agency which has entered
+into an agreement pursuant to this section shall annually at the time of
+preparing its budget include an estimate of the expenses necessary to carry out
+such agreement, the funds for which are not made available through grant, gift
+or other source, and provide for such expense as other items are provided in
+its budget. Each such public agency may furnish property, personnel or services
+as necessary to carry out the agreement.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+1334; A1967,
+699;1973,
+1077;1999,
+2173;2001,
+808,1080,1083;2007,
+499)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-182">
+          <num>277.182</num>
+          <heading>Short title.</heading>
+          <content>
+            <p>NRS 277.182to277.188, inclusive, may be cited as the
+State and Local Government Cooperation Act.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1124)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-183">
+          <num>277.183</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 277.182to277.188, inclusive, unless the context
+otherwise requires, the words and terms defined inNRS 277.184,277.1855and277.186have the meanings ascribed to them
+in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1124)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-184">
+          <num>277.184</num>
+          <heading>ï¿½Local governmentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Local
+governmentï¿½ means any county or city.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1124)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-1855">
+          <num>277.1855</num>
+          <heading>ï¿½Planï¿½ defined.</heading>
+          <subsection eId="277-1855__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In the case of a local government, a
+master plan adopted by the local government pursuant toNRS 278.160or any part thereof.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-1855__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In the case of a state agency, a plan
+adopted by the state agency that may affect a master plan, or any part thereof,
+adopted by the local government pursuant toNRS
+278.160.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1124)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-186">
+          <num>277.186</num>
+          <heading>ï¿½State agencyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½State
+agencyï¿½ means an agency, bureau, board, commission, department, division or any
+other unit of the Executive Department of State Government.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1124)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-187">
+          <num>277.187</num>
+          <heading>Purpose of Act; provision of information and solicitation and
+consideration of comments when proposed plan or amendment may affect local
+governments or state agencies; consideration of alternatives if proposed plan
+or amendment is inconsistent or incompatible with existing plan of affected
+local government or state agency.</heading>
+          <subsection eId="277-187__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>It is the purpose of the State and
+Local Government Cooperation Act to encourage communication, cooperation and
+coordinated working relationships between state agencies and local governments.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-187__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To carry out the purposes set forth in
+subsection 1:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-187__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a state agency intends to adopt a plan or
+an amendment thereto, the state agency should, to the extent practicable:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-187__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Inform local governments that may be
+affected of the state agencyï¿½s intent to adopt a plan or amendment thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-187__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Solicit and consider comments from
+local governments that may be affected by the plan or amendment thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-187__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>If a local government informs the
+state agency that the proposed plan or amendment thereto will be inconsistent
+or incompatible with a plan of the local government, consider whether the state
+agency can make the proposed plan or amendment consistent or compatible with
+the plan of the local government.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="277-187__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a local government intends to adopt a plan
+or an amendment thereto, the local government should, to the extent
+practicable:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-187__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Inform state agencies that may be
+affected of the local governmentï¿½s intent to adopt a plan or amendment thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-187__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Solicit and consider comments from
+state agencies that may be affected by the plan or amendment thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-187__subsec_2__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>If a state agency informs the local
+government that the proposed plan or amendment thereto will be inconsistent or
+incompatible with a plan of the state agency, consider whether the local
+government can make the proposed plan or amendment consistent or compatible
+with the plan of the state agency.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1124)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-188">
+          <num>277.188</num>
+          <heading>Interpretation of Act must not limit power of state agency or
+local government to carry out statutory duties and responsibilities.</heading>
+          <content>
+            <p>Nothing in the State and Local Government
+Cooperation Act shall be interpreted to limit the power of a state agency or
+local government to carry out its statutory duties and responsibilities.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1125)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-190">
+          <num>277.190</num>
+          <heading>Enactment of Tahoe Regional Planning Compact.</heading>
+          <content>
+            <p>The Tahoe Regional Planning Compact, set forth
+in full inNRS 277.200, is hereby
+enacted into law.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1968,
+4; A2013,
+2366,2367,3838)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-200">
+          <num>277.200</num>
+          <heading>Text of Compact. [Effective until: (1) the approval pursuant to
+Public Law 96-551 of the amendments to the Compact contained in section 1.5 of
+chapter 530,Statutes of Nevada 2011, at page 3711, as
+amended by section 2 of chapter 424,Statutes of Nevada 2013, at page 2345;
+(2) the proclamation by the Governor of this State of the enactment by the
+State of California of amendments that are substantially identical to the
+amendments to the Compact contained in section 1 of chapter 207,Statutes of Nevada 2019, at page 1137; or
+(3) the proclamation by the Governor of this State of the withdrawal by the
+State of California from the Compact or of a finding by the Governor of this
+State that the Tahoe Regional Planning Agency has become unable to perform its
+duties or exercise its powers.]</heading>
+          <subsection eId="277-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>City of South Lake Tahoe and El Dorado
+County (combined)............ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 252
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Placer County................................................................................................ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 278
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Carson City.................................................................................................... ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -0-
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-200__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Douglas County............................................................................................ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 339
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-200__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Washoe County............................................................................................ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 739
+ï¿½ï¿½ï¿½ï¿½ï¿½ (4) During each of the calendar years 1980, 1981
+and 1982, no city or county may issue building permits which authorize
+construction of a greater square footage of new commercial buildings within the
+region than were authorized within the region by building permits for
+commercial purposes issued by that city or county during the calendar year
+1978. For the period of January through April, 1983, building permits
+authorizing the construction of no more than one-third the amount of that
+square footage may be issued by each such city or county.
+ï¿½ï¿½ï¿½ï¿½ï¿½ The legislatures find the respective square footages of
+commercial buildings authorized within the region during calendar year 1978 to
+be as follows:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>City of South Lake Tahoe and El Dorado
+County (combined)............ ï¿½ï¿½ 64,324
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Placer County................................................................................................ ï¿½ï¿½ 23,000
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Carson City.................................................................................................... ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -0-
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-200__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Douglas County............................................................................................ ï¿½ï¿½ 57,354
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-200__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Washoe County............................................................................................ ï¿½ï¿½ 50,600
+ï¿½ï¿½ï¿½ï¿½ï¿½ (5) No structure may be erected to house gaming
+under a nonrestricted license.
+ï¿½ï¿½ï¿½ï¿½ï¿½ (6) No facility for the treatment of sewage may
+be constructed or enlarged except:
+ï¿½ï¿½ï¿½ï¿½ï¿½ (A) To comply, as ordered by the appropriate
+state agency for the control of water pollution, with existing limitations of
+effluent under the Clean Water Act, 33 U.S.C. ï¿½ï¿½ 1251 et seq., and the
+applicable state law for control of water pollution;
+ï¿½ï¿½ï¿½ï¿½ï¿½ (B) To accommodate development which is not
+prohibited or limited by this subdivision; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ (C) In the case of Douglas County Lake Tahoe
+Sewer Authority, to modify or otherwise alter sewage treatment facilities
+existing on the effective date of the amendments to this compact so that such
+facilities will be able to treat the total volume of effluent for which they
+were originally designed, which is 3.0 million gallons per day. Such
+modification or alteration is not a ï¿½projectï¿½; is not subject to the
+requirements of Article VII; and does not require a permit from the agency.
+Before commencing such modification or alteration, however, the Authority shall
+submit to the agency its report identifying any significant soil erosion
+problems which may be caused by such modifications or alterations and the
+measures which the Authority proposes to take to mitigate or avoid such
+problems.
+ï¿½ï¿½ï¿½ï¿½ï¿½ The moratorium imposed by this subdivision does not
+apply to work done pursuant to a right vested before the effective date of the
+amendments to this compact. Notwithstanding the expiration date of the
+moratorium imposed by this subdivision, no new highway may be built or existing
+highway widened to accommodate additional continuous lanes for automobiles
+until the regional transportation plan is revised and adopted.
+ï¿½ï¿½ï¿½ï¿½ï¿½ The moratorium imposed by this subdivision does not
+apply to the construction of any parking garage which has been approved by the
+agency prior to May 4, 1979, whether that approval was affirmative or by
+default. The provisions of this paragraph are not an expression of legislative
+intent that any such parking garage, the approval of which is the subject of
+litigation which was pending on the effective date of the amendments to this
+compact, should or should not be constructed. The provisions of this paragraph
+are intended solely to permit construction of such a parking garage if a
+judgment sustaining the agencyï¿½s approval to construct that parking garage has
+become final and no appeal is pending or may lawfully be taken to a higher
+court.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-200__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Subject to the final order of any court of
+competent jurisdiction entered in litigation contesting the validity of an
+approval by the Tahoe Regional Planning Agency, whether that approval was
+affirmative or by default, if that litigation was pending on May 4, 1979, the
+agency and the states of California and Nevada shall recognize as a permitted
+and conforming use:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-200__subsec_5__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Every structure housing gaming under a
+nonrestricted license which existed as a licensed gaming establishment on May
+4, 1979, or whose construction was approved by the Tahoe Regional Planning
+Agency affirmatively or deemed approved before that date. The construction or
+use of any structure to house gaming under a nonrestricted license not so
+existing or approved, or the enlargement in cubic volume of any such existing
+or approved structure is prohibited.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Every other nonrestricted gaming
+establishment whose use was seasonal and whose license was issued before May 4,
+1979, for the same season and for the number and type of games and slot
+machines on which taxes or fees were paid in the calendar year 1978.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Gaming conducted pursuant to a restricted gaming
+license issued before May 4, 1979, to the extent permitted by that license on
+that date.
+ï¿½The area
+within any structure housing gaming under a nonrestricted license which may be
+open to public use (as distinct from that devoted to the private use of guests
+and exclusive of any parking area) is limited to the area existing or approved
+for public use on May 4, 1979. Within these limits, any external modification
+of the structure which requires a permit from a local government also requires
+approval from the agency. The agency shall not permit restaurants, convention
+facilities, showrooms or other public areas to be constructed elsewhere in the
+region outside the structure in order to replace areas existing or approved for
+public use on May 4, 1979.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any structure housing licensed gaming may be
+rebuilt or replaced to a size not to exceed the cubic volume, height and land
+coverage existing or approved on May 4, 1979, without the review or approval of
+the agency or any planning or regulatory authority of the State of Nevada whose
+review or approval would be required for a new structure.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The following provisions apply to any
+internal or external modification, remodeling, change in use, or repair of a
+structure housing gaming under a nonrestricted license which is not prohibited
+by Article VI</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-200__subsec_5__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The agencyï¿½s review of an external modification
+of the structure which requires a permit from a local government is limited to
+determining whether the external modification will do any of the following:
+ï¿½ï¿½ï¿½ï¿½ï¿½ (A) Enlarge the cubic volume of the structure;
+ï¿½ï¿½ï¿½ï¿½ï¿½ (B) Increase the total square footage of area
+open to or approved for public use on May 4, 1979;
+ï¿½ï¿½ï¿½ï¿½ï¿½ (C) Convert an area devoted to the private use of
+guests to an area open to public use;
+ï¿½ï¿½ï¿½ï¿½ï¿½ (D) Increase the public area open to public use
+which is used for gaming beyond the limits contained in paragraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ (E) Conflict with or be subject to the provisions
+of any of the agencyï¿½s ordinances that are generally applicable throughout the
+region.
+ï¿½The agency
+shall make this determination within 60 days after the proposal is delivered to
+the agency in compliance with the agencyï¿½s rules or regulations governing such
+delivery unless the applicant has agreed to an extension of this time limit. If
+an external modification is determined to have any of the effects enumerated in
+subparagraphs (A) through (C), it is prohibited. If an external modification is
+determined to have any of the effects enumerated in subparagraph (D) or (E), it
+is subject to the applicable provisions of this compact. If an external
+modification is determined to have no such effect, it is not subject to the
+provisions of this compact.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Except as provided in paragraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>, internal
+modification, remodeling, change in use or repair of a structure housing gaming
+under a nonrestricted license is not a project and does not require the review
+or approval of the agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Internal modification, remodeling, change in
+use or repair of areas open to public use within a structure housing gaming
+under a nonrestricted license which alone or in combination with any other such
+modification, remodeling, change in use or repair will increase the total
+portion of those areas which is actually used for gaming by more than the
+product of the total base area, as defined below, in square feet existing on or
+approved before August 4, 1980, multiplied by 15 percent constitutes a project
+and is subject to all of the provisions of this compact relating to projects.
+For purposes of this paragraph and the determination required by Article VI</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>, base area means all of the area within a structure housing gaming under a
+nonrestricted license which may be open to public use, whether or not gaming is
+actually conducted or carried on in that area, except retail stores, convention
+centers and meeting rooms, administrative offices, kitchens, maintenance and
+storage areas, rest rooms, engineering and mechanical rooms, accounting rooms
+and counting rooms.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In order to administer and enforce the
+provisions of paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>the State of Nevada, through its
+appropriate planning or regulatory agency, shall require the owner or licensee
+of a structure housing gaming under a nonrestricted license to provide:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-200__subsec_5__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Documents containing sufficient information
+for the Nevada agency to establish the following relative to the structure:
+ï¿½ï¿½ï¿½ï¿½ï¿½ (A) The location of its external walls;
+ï¿½ï¿½ï¿½ï¿½ï¿½ (B) Its total cubic volume;
+ï¿½ï¿½ï¿½ï¿½ï¿½ (C) Within its external walls, the area in square
+feet open or approved for public use and the area in square feet devoted to or
+approved for the private use of guests on May 4, 1979;
+ï¿½ï¿½ï¿½ï¿½ï¿½ (D) The amount of surface area of land under the
+structure; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ (E) The base area as defined in paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_f">
+              <num>(f)</num>
+              <subparagraph eId="277-200__subsec_5__subsec_f__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>in square feet existing on or approved before August 4, 1980.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>An informational report whenever any internal
+modification, remodeling, change in use, or repair will increase the total
+portion of the areas open to public use which is used for gaming.
+ï¿½ï¿½ï¿½ï¿½ï¿½ The Nevada agency shall transmit this information to
+the Tahoe Regional Planning Agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Gaming conducted pursuant to a restricted
+gaming license is exempt from review by the agency if it is incidental to the
+primary use of the premises.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>The provisions of subdivisions</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>are intended only to limit gaming and related activities as conducted within a
+gaming establishment, or construction designed to permit the enlargement of
+such activities, and not to limit any other use of property zoned for commercial
+use or the accommodation of tourists, as approved by the agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>Legal actions arising out of or alleging a
+violation of the provisions of this compact, of the regional plan or of an
+ordinance or regulation of the agency or of a permit or a condition of a permit
+issued by the agency are governed by the following provisions:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-200__subsec_5__subsec_j__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>This subdivision applies to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ (A) Actions arising out of activities directly
+undertaken by the agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½ (B) Actions arising out of the issuance to a
+person of a lease, permit, license or other entitlement for use by the agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½ (C) Actions arising out of any other act or
+failure to act by any person or public agency.
+ï¿½Such legal
+actions may be filed and the provisions of this subdivision apply equally in
+the appropriate courts of California and Nevada and of the United States.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_j__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Venue lies:
+ï¿½ï¿½ï¿½ï¿½ï¿½ (A) If a civil or criminal action challenges an
+activity by the agency or any person which is undertaken or to be undertaken
+upon a parcel of real property, in the state or federal judicial district where
+the real property is situated.
+ï¿½ï¿½ï¿½ï¿½ï¿½ (B) If an action challenges an activity which
+does not involve a specific parcel of land (such as an action challenging an
+ordinance of the agency), in any state or federal court having jurisdiction
+within the region.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_j__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Any aggrieved person may file an action in an
+appropriate court of the State of California or Nevada or of the United States
+alleging noncompliance with the provisions of this compact or with an ordinance
+or regulation of the agency. In the case of governmental agencies, ï¿½aggrieved
+personï¿½ means the Tahoe Regional Planning Agency or any state, federal or local
+agency. In the case of any person other than a governmental agency who
+challenges an action of the Tahoe Regional Planning Agency, ï¿½aggrieved personï¿½
+means any person who has appeared, either in person, through an authorized
+representative, or in writing, before the agency at an appropriate
+administrative hearing to register objection to the action which is being
+challenged, or who had good cause for not making such an appearance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_j__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>A legal action arising out of the adoption or
+amendment of the regional plan or of any ordinance or regulation of the agency,
+or out of the granting or denial of any permit, shall be commenced within 60
+days after final action by the agency. All other legal actions shall be
+commenced within 65 days after discovery of the cause of action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_j__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>In any legal action filed pursuant to this
+subdivision which challenges an adjudicatory act or decision of the agency to
+approve or disapprove a project, the scope of judicial inquiry shall extend
+only to whether there was prejudicial abuse of discretion. Prejudicial abuse of
+discretion is established if the agency has not proceeded in a manner required
+by law or if the act or decision of the agency was not supported by substantial
+evidence in light of the whole record. In making such a determination the court
+shall not exercise its independent judgment on evidence but shall only
+determine whether the act or decision was supported by substantial evidence in
+light of the whole record. In any legal action filed pursuant to this
+subdivision which challenges a legislative act or decision of the agency (such
+as the adoption of the regional plan and the enactment of implementing
+ordinances), the scope of the judicial inquiry shall extend only to the
+questions of whether the act or decision has been arbitrary, capricious or
+lacking substantial evidentiary support or whether the agency has failed to
+proceed in a manner required by law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_j__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>In addition to the provisions of paragraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_j__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>relating to judicial inquiry:
+ï¿½ï¿½ï¿½ï¿½ï¿½ (A) When adopting or amending a regional plan,
+the agency shall act in accordance with the requirements of the compact and the
+implementing ordinances, rules and regulations, and a party challenging the
+regional plan has the burden of showing that the regional plan is not in
+conformance with those requirements.
+ï¿½ï¿½ï¿½ï¿½ï¿½ (B) When taking an action or making a decision,
+the agency shall act in accordance with the requirements of the compact and the
+regional plan, including the implementing ordinances, rules and regulations,
+and a party challenging the action or decision has the burden of showing that
+the act or decision is not in conformance with those requirements.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_j__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>The provisions of this subdivision do not
+apply to any legal proceeding pending on the date when this subdivision becomes
+effective. Any such legal proceeding shall be conducted and concluded under the
+provisions of law which were applicable prior to the effective date of this
+subdivision.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_j__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>The security required for the issuance of a
+temporary restraining order or preliminary injunction based upon an alleged
+violation of this compact or any ordinance, plan, rule or regulation adopted
+pursuant thereto is governed by the rule or statute applicable to the court in
+which the action is brought, unless the action is brought by a public agency or
+political subdivision to enforce its own rules, regulations and ordinances in
+which case no security shall be required.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>The agency shall monitor activities in the
+region and may bring enforcement actions in the region to ensure compliance
+with the regional plan and adopted ordinances, rules, regulations and policies.
+If it is found that the regional plan, or ordinances, rules, regulations and
+policies are not being enforced by a local jurisdiction, the agency may bring
+action in a court of competent jurisdiction to ensure compliance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>Any person who violates any provision of this
+compact or of any ordinance or regulation of the agency or of any condition of
+approval imposed by the agency is subject to a civil penalty not to exceed
+$5,000. Any such person is subject to an additional civil penalty not to exceed
+$5,000 per day, for each day on which such a violation persists. In imposing
+the penalties authorized by this subdivision, the court shall consider the
+nature of the violation and shall impose a greater penalty if it was willful or
+resulted from gross negligence than if it resulted from inadvertence or simple
+negligence.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>The agency is hereby empowered to initiate,
+negotiate and participate in contracts and agreements among the local
+governmental authorities of the region, or any other intergovernmental
+contracts or agreements authorized by state or federal law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>Each intergovernmental contract or agreement
+shall provide for its own funding and staffing, but this shall not preclude
+financial contributions from the local authorities concerned or from
+supplementary sources.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_o">
+              <num>(o)</num>
+              <content>
+                <p>Every record of the agency, whether public or
+not, shall be open for examination to the Legislature and Controller of the
+State of California and the legislative auditor of the State of Nevada.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_p">
+              <num>(p)</num>
+              <content>
+                <p>Approval by the agency of any project expires
+3 years after the date of final action by the agency or the effective date of
+the amendments to this compact, whichever is later, unless construction is
+begun within that time and diligently pursued thereafter, or the use or
+activity has commenced. In computing the 3-year period any period of time
+during which the project is the subject of a legal action which delays or
+renders impossible the diligent pursuit of that project shall not be counted.
+Any license, permit or certificate issued by the agency which has an expiration
+date shall be extended by that period of time during which the project is the
+subject of such legal action as provided in this subdivision.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_q">
+              <num>(q)</num>
+              <content>
+                <p>The governing body shall maintain a current
+list of real property known to be available for exchange with the United States
+or with other owners of real property in order to facilitate exchanges of real
+property by owners of real property in the region.
+ARTICLE VII. Environmental Impact Statements
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Tahoe Regional Planning Agency when
+acting upon matters that have a significant effect on the environment shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-200__subsec_5__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Utilize a systematic, interdisciplinary
+approach which will insure the integrated use of the natural and social
+sciences and the environmental design arts in planning and in decision making
+which may have an impact on manï¿½s environment;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Prepare and consider a detailed environmental
+impact statement before deciding to approve or carry out any project. The
+detailed environmental impact statement shall include the following:
+ï¿½ï¿½ï¿½ï¿½ï¿½ (A) The significant environmental impacts of the
+proposed project;
+ï¿½ï¿½ï¿½ï¿½ï¿½ (B) Any significant adverse environmental effects
+which cannot be avoided should the project be implemented;
+ï¿½ï¿½ï¿½ï¿½ï¿½ (C) Alternatives to the proposed project;
+ï¿½ï¿½ï¿½ï¿½ï¿½ (D) Mitigation measures which must be implemented
+to assure meeting standards of the region;
+ï¿½ï¿½ï¿½ï¿½ï¿½ (E) The relationship between local short-term
+uses of manï¿½s environment and the maintenance and enhancement of long-term
+productivity;
+ï¿½ï¿½ï¿½ï¿½ï¿½ (F) Any significant irreversible and
+irretrievable commitments of resources which would be involved in the proposed
+project should it be implemented; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ (G) The growth-inducing impact of the proposed
+project;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Study, develop and describe appropriate
+alternatives to recommended courses of action for any project which involves
+unresolved conflicts concerning alternative uses of available resources;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Make available to states, counties,
+municipalities, institutions and individuals, advice and information useful in
+restoring, maintaining and enhancing the quality of the regionï¿½s environment;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Initiate and utilize ecological information
+in the planning and development of resource-oriented projects.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prior to completing an environmental impact
+statement, the agency shall consult with and obtain the comments of any
+federal, state or local agency which has jurisdiction by law or special
+expertise with respect to any environmental impact involved. Copies of such
+statement and the comments and views of the appropriate federal, state and
+local agencies which are authorized to develop and enforce environmental standards
+shall be made available to the public and shall accompany the project through
+the review processes. The public shall be consulted during the environmental
+impact statement process and views shall be solicited during a public comment
+period not to be less than 60 days.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any environmental impact statement required
+pursuant to this article need not repeat in its entirety any information or
+data which is relevant to such a statement and is a matter of public record or
+is generally available to the public, such as information contained in an
+environmental impact report prepared pursuant to the California Environmental
+Quality Act or a federal environmental impact statement prepared pursuant to
+the National Environmental Policy Act of 1969. However, such information or
+data shall be briefly described in the environmental impact statement and its
+relationship to the environmental impact statement shall be indicated.
+ï¿½ï¿½ï¿½ï¿½ï¿½ In addition, any person may submit information relative
+to a proposed project which may be included, in whole or in part, in any
+environmental impact statement required by this article.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In addition to the written findings specified
+by agency ordinance to implement the regional plan, the agency shall make
+either of the following written findings before approving a project for which
+an environmental impact statement was prepared:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-200__subsec_5__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Changes or alterations have been required in
+or incorporated into such project which avoid or reduce the significant adverse
+environmental effects to a less than significant level; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Specific considerations, such as economic,
+social or technical, make infeasible the mitigation measures or project
+alternatives discussed in the environmental impact statement on the project.
+ï¿½A separate
+written finding shall be made for each significant effect identified in the
+environmental impact statement on the project. All written findings must be
+supported by substantial evidence in the record.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The agency may charge and collect a
+reasonable fee from any person proposing a project subject to the provisions of
+this compact in order to recover the estimated costs incurred by the agency in
+preparing an environmental impact statement under this article.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The agency shall adopt by ordinance a list of
+classes of projects which the agency has determined will not have a significant
+effect on the environment and therefore will be exempt from the requirement for
+the preparation of an environmental impact statement under this article. Prior
+to adopting the list, the agency shall make a written finding supported by
+substantial evidence in the record that each class of projects will not have a
+significant effect on the environment.
+ARTICLE VIII. Finances
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>On or before September 30 of each calendar
+year the agency shall establish the amount of money necessary to support its
+activities for the next succeeding fiscal year commencing July 1 of the
+following year. The agency shall apportion $75,000 of this amount among the
+counties within the region on the same ratio to the total sum required as the
+full cash valuation of taxable property within the region in each county bears
+to the total full cash valuation of taxable property within the region. In
+addition, each county within the region in California shall pay $18,750 to the
+agency and each county within the region in Nevada, including Carson City,
+shall pay $12,500 to the agency, from any funds available therefor. The State
+of California and the State of Nevada may pay to the agency by July 1 of each
+year any additional sums necessary to support the operations of the agency
+pursuant to this compact. If additional funds are required, the agency shall
+make a request for the funds to the states of California and Nevada. Requests
+for state funds must be apportioned two-thirds from California and one-third
+from Nevada. Money appropriated shall be paid within 30 days.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The agency may fix and collect reasonable
+fees for any services rendered by it.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The agency shall submit an itemized budget to
+the states for review with any request for state funds, shall be strictly
+accountable to any county in the region and the states for all funds paid by
+them to the agency and shall be strictly accountable to all participating
+bodies for all receipts and disbursement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The agency is authorized to receive gifts,
+donations, subventions, grants, and other financial aids and funds; but the
+agency may not own land except as provided in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>of Article III.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The agency shall not obligate itself beyond
+the moneys due under this article for its support from the several counties and
+the states for the current fiscal year, plus any moneys on hand or irrevocably
+pledged to its support from other sources. No obligation contracted by the
+agency shall bind either of the party states or any political subdivision
+thereof.
+ARTICLE IX. Transportation District
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Tahoe transportation district is hereby
+established as a special purpose district. The boundaries of the district are
+coterminous with those of the region.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The business of the district shall be managed
+by a board of directors consisting of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-200__subsec_5__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>One member of the county board of supervisors
+of each of the counties of El Dorado and Placer who must be appointed by his
+respective board of supervisors;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>One member of the city council of the City of
+South Lake Tahoe who must be appointed by the city council;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>One member each of the board of county
+commissioners of Douglas County and of Washoe County who must be appointed by
+his respective board of county commissioners;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>One member of the board of supervisors of
+Carson City who must be appointed by the board of supervisors;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>One member of the South Shore Transportation
+Management Association or its successor organization who must be appointed by
+the association or its successor organization;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>One member of the North Shore Transportation
+Management Association or its successor organization who must be appointed by
+the association or its successor organization;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>One member of each local transportation
+district in the region that is authorized by the State of Nevada or the State
+of California who must be appointed by his respective transportation district;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>One member appointed by a majority of the
+other voting directors who represents a public or private transportation system
+operating in the region;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_b__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>The director of the California Department of
+Transportation; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_b__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>The director of the department of
+transportation of the State of Nevada.
+ï¿½Any entity
+that appoints a member to the board of directors, the director of the
+California Department of Transportation or the director of the department of
+transportation of the State of Nevada may designate an alternate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Before a local transportation district
+appoints a member to the board of directors pursuant to paragraph</p>
+              </content>
+              <subparagraph eId="277-200__subsec_5__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>of
+subdivision</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>, the local transportation district must enter into a written
+agreement with the Tahoe transportation district that sets forth the
+responsibilities of the districts for the establishment of policies and the
+management of financial matters, including, but not limited to, the
+distribution of revenue among the districts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The directors of the California Department of
+Transportation and the department of transportation of the State of Nevada, or
+their designated alternates, serve as nonvoting directors, but shall provide
+technical and professional advice to the district as necessary and appropriate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The vote of a majority of the directors must
+agree to take action. If a majority of votes in favor of an action are not
+cast, an action of rejection shall be deemed to have been taken.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The Tahoe transportation district may by
+resolution establish procedures for the adoption of its budgets, the
+appropriation of its money and the carrying on of its other financial
+activities. These procedures must conform insofar as is practicable to the
+procedures for financial administration of the State of California or the State
+of Nevada or one or more of the local governments in the region.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The Tahoe transportation district may in
+accordance with the adopted transportation plan:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-200__subsec_5__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Own and operate a public transportation
+system to the exclusion of all other publicly owned transportation systems in
+the region.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Own and operate support facilities for public
+and private systems of transportation, including, but not limited to, parking
+lots, terminals, facilities for maintenance, devices for the collection of
+revenue and other related equipment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Acquire or agree to operate upon mutually
+agreeable terms any publicly or privately owned transportation system or
+facility within the region.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_g__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Hire the employees of existing public
+transportation systems that are acquired by the district without loss of
+benefits to the employees, bargain collectively with employee organizations,
+and extend pension and other collateral benefits to employees.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_g__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Contract with private companies to provide
+supplementary transportation or provide any of the services needed in operating
+a system of transportation for the region.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_g__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Contract with local governments in the region
+to operate transportation facilities or provide any of the services necessary
+to operate a system of transportation for the region.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_g__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>Fix the rates and charges for transportation
+services provided pursuant to this subdivision.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_g__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>Issue revenue bonds and other evidence of
+indebtedness and make other financial arrangements appropriate for developing
+and operating a public transportation system.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_g__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>By resolution, determine and propose for
+adoption a tax for the purpose of obtaining services of the district. The tax
+proposed must be general and of uniform operation throughout the region, and
+may not be graduated in any way, except for a sales and use tax. If a sales and
+use tax is approved by the voters as provided in this paragraph, it may be
+administered by the states of California and Nevada respectively in accordance
+with the laws that apply within their respective jurisdictions and must not
+exceed a rate of 1 percent of the gross receipts from the sale of tangible
+personal property sold in the district. The district is prohibited from
+imposing any other tax measured by gross or net receipts on business, an ad
+valorem tax, a tax or charge that is assessed against people or vehicles as they
+enter or leave the region, and any tax, direct or indirect, on gaming tables
+and devices. Any such proposition must be submitted to the voters of the
+district and shall become effective upon approval of the voters voting on the
+proposition who reside in the State of California in accordance with the laws
+that apply within that state and approval of the voters voting on the
+proposition who reside in the State of Nevada in accordance with the laws that
+apply within that state. The revenues from any such tax must be used for the
+service for which it was imposed, and for no other purpose.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-200__subsec_5__subsec_g__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>Provide service from inside the region to
+convenient airport, railroad and interstate bus terminals without regard to the
+boundaries of the region.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The legislatures of the states of California
+and Nevada may, by substantively identical enactments, amend this article.
+ARTICLE X. Miscellaneous
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>It is intended that the provisions of this
+compact shall be reasonably and liberally construed to effectuate the purposes
+thereof. Except as provided in subdivision</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>, the provisions of this compact
+shall be severable and if any phrase, clause, sentence or provision of this
+compact is declared to be contrary to the constitution of any participating
+state or of the United States or the applicability thereof to any government,
+agency, person or circumstance is held invalid, the validity of the remainder
+of this compact and the applicability thereof to any government, agency, person
+or circumstance shall not be affected thereby. If this compact shall be held
+contrary to the constitution of any state participating therein, the compact
+shall remain in full force and effect as to the remaining state and in full
+force and effect as to the state affected as to all severable matters.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The agency shall have such additional powers
+and duties as may hereafter be delegated or imposed upon it from time to time
+by the action of the Legislature of either state concurred in by the
+Legislature of the other.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A state party to this compact may withdraw
+therefrom by enacting a statute repealing the compact. Notice of withdrawal
+shall be communicated officially and in writing to the Governor of the other
+state and to the agency administrators. This provision is not severable, and if
+it is held to be unconstitutional or invalid, no other provision of this
+compact shall be binding upon the State of Nevada or the State of California.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-200__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>No provision of this compact shall have any
+effect upon the allocation, distribution or storage of interstate waters or
+upon any appropriative water right.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1968,
+4; R1979,
+1133, effective upon proclamation by the Governor of this State of the
+withdrawal by the State of California from the Compact or of a finding by the
+Governor of this State that the Tahoe Regional Planning Agency has become
+unable to perform its duties or exercise its powers; A1979,
+1135;1980,
+1;1997,
+1125, effective upon the enactment by the State of California of amendments
+that are substantially identical to the amendments to the Compact proposed by
+this State in 1997; A2011,
+3739;2013,
+2324,2366,2367,2368,3838,3860;2017,
+2013)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-207">
+          <num>277.207</num>
+          <heading>Priority for hearings in judicial actions and proceedings.</heading>
+          <content>
+            <p>All judicial actions and proceedings in which
+there may arise a question of the validity of any matter under the provisions
+ofNRS 277.190to277.220, inclusive, shall be advanced as a
+matter of immediate public interest and concern, and be heard at the earliest
+practicable moment.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+122; A1999,
+742;2011,
+3731;2013,
+2367)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-210">
+          <num>277.210</num>
+          <heading>Conflict of interest of member of governing body; penalties.</heading>
+          <subsection eId="277-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>It is unlawful for any member of the
+governing body of the Tahoe Regional Planning Agency to be interested in any
+contract made by that member, or be a purchaser or be interested in any
+purchase of a sale made by that member in the discharge of his or her official
+duties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All contracts made in violation of
+subsection 1 may be declared void at the instance of the Tahoe Regional
+Planning Agency, or of any other party interested in such contract, except the
+member prohibited from making or being interested in such contract.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any person violating the provisions of
+this section, directly or indirectly, shall forfeit his or her office, and
+shall be punished by a fine of not more than $1,000, or by imprisonment in the
+state prison for not more than 1 year, or by both fine and imprisonment.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1968,
+13; R2011,
+3740; A2013,
+2366,2367,3838)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-215">
+          <num>277.215</num>
+          <heading>Violation of certain provisions of Code of Ordinances of Tahoe
+Regional Planning Agency: Peace officer authorized to take various actions;
+reporting of name and address of violator; exception.</heading>
+          <subsection eId="277-215__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3, every game warden, sheriff and other peace officer of this state
+and its political subdivisions may issue one or more of the following:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-215__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Educational material provided by the Tahoe
+Regional Planning Agency;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-215__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An oral advisory; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-215__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A warning citation,
+ï¿½to a person
+who violates, within the portion of the region that is within the waters of
+this state, section 54.16(A), 54.16(B) or 81.2(E) of the Code of Ordinances
+adopted by the Tahoe Regional Planning Agency and in effect on April 1, 1999.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-215__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A game warden, sheriff or other peace
+officer who issues a warning citation pursuant to subsection 1 shall report the
+name and address of the person to whom such warning was issued to the Tahoe
+Regional Planning Agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-215__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An agency that provides law enforcement
+or other public safety services is not subject to the provisions of section
+54.16(A), 54.16(B) or 81.2(E) of the Code of Ordinances adopted by the Tahoe Regional
+Planning Agency and in effect on April 1, 1999, when performing its official
+duties during an emergency or disaster on the waters of Lake Tahoe if such
+duties are performed in an effort to protect life or property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-215__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-215__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Regionï¿½ has the meaning ascribed to it inNRS 277.200.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-215__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Waters of this stateï¿½ means any waters
+within the territorial limits of this state.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+741; R2011,
+3740; A2013,
+2366,2367,3838)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_277-220">
+          <num>277.220</num>
+          <heading>Account for Tahoe Regional Planning Agency: Creation; source and
+use of money; annual submission of certain reports.</heading>
+          <subsection eId="277-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Account for the Tahoe Regional
+Planning Agency is hereby established in the State General Fund and consists of
+any money provided by direct legislative appropriation. Money in this Account
+must be expended for the support of, or paid over directly to, the Tahoe
+Regional Planning Agency in whatever amount and manner is directed by each
+appropriation or provided by law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="277-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>On or before February 28 of each year,
+the Tahoe Regional Planning Agency shall submit to the Governor and the
+Director of the Legislative Counsel Bureau:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-220__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A copy of the report of the independent audit
+most recently prepared for the Tahoe Regional Planning Agency;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-220__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A written report detailing:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="277-220__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The nature and purpose of the
+expenditures made by the Tahoe Regional Planning Agency during the immediately
+preceding fiscal year from money appropriated to it by the Legislature; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="277-220__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The progress of the Tahoe Regional
+Planning Agency in achieving the performance measures and benchmarks included
+in its current biennial budget; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="277-220__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A copy of the annual report most recently
+published by the Tahoe Regional Planning Agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="277-220__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Director of the Legislative Counsel
+Bureau shall cause copies of the materials submitted pursuant to subsection 2
+to be transmitted to the Legislative Committee for the Review and Oversight of
+the Tahoe Regional Planning Agency and the Marlette Lake Water System created
+byNRS 218E.555and:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="277-220__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In odd-numbered years, the Legislature.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="277-220__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In even-numbered years, the Interim Finance
+Committee.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1968,
+13; A1985,
+714; R2011,
+3740; A2013,
+2313,2366,2367,3838;2019,
+606)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

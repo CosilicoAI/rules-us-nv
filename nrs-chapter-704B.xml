@@ -1,0 +1,1558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-704B"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-704B"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="704B"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-704B/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-704B/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-704B/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-704B/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_704B">
+        <num>704B</num>
+        <heading>PROVIDERS OF NEW ELECTRIC</heading>
+        <section eId="sec_704B-010">
+          <num>704B.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 704B.020to704B.140, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3223; A2003,
+1260;2019,
+3522)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-020">
+          <num>704B.020</num>
+          <heading>ï¿½Ancillary servicesï¿½ defined.</heading>
+          <subsection eId="704B-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Are necessary to support the
+transmission of energy and capacity from resources to loads while maintaining
+reliable operation of the transmission system of the electric utility; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Are defined and established in
+applicable transmission tariffs on file with the Federal Energy Regulatory
+Commission.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3223)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-030">
+          <num>704B.030</num>
+          <heading>ï¿½Calendar quarterï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Calendar
+quarterï¿½ means each period of 3 consecutive calendar months ending on March 31,
+June 30, September 30 and December 31 in each calendar year.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3223)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-040">
+          <num>704B.040</num>
+          <heading>ï¿½Commissionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Commissionï¿½
+means the Public Utilities Commission of Nevada.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3223)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-045">
+          <num>704B.045</num>
+          <heading>Consumerï¿½s Advocateï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Consumerï¿½s
+Advocateï¿½ means the Consumerï¿½s Advocate of the Bureau of Consumer Protection in
+the Office of the Attorney General.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+1260)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-050">
+          <num>704B.050</num>
+          <heading>ï¿½Electric utilityï¿½ defined.</heading>
+          <subsection eId="704B-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Electric utilityï¿½ means any public
+utility or successor in interest that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-050__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is in the business of providing electric
+service to customers;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-050__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Holds a certificate of public convenience and
+necessity issued or transferred pursuant tochapter
+704of NRS; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-050__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In the most recently completed calendar year
+or in any other calendar year within the 7 calendar years immediately preceding
+the most recently completed calendar year, had a gross operating revenue of
+$250,000,000 or more in this state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term does not include a cooperative
+association, nonprofit corporation, nonprofit association or provider of
+electric service which is declared to be a public utility pursuant toNRS 704.673and which provides service only
+to its members.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3223)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-080">
+          <num>704B.080</num>
+          <heading>ï¿½Eligible customerï¿½ defined.</heading>
+          <subsection eId="704B-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A nongovernmental commercial or
+industrial end-use customer that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-080__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Was an end-use customer of an electric
+utility at any time before June 12, 2019; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-080__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has an average annual load of 1 megawatt or
+more in the service territory of an electric utility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A governmental entity, including,
+without limitation, a governmental entity providing educational or health care
+services, that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-080__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Was an end-use customer of an electric
+utility at any time before June 12, 2019;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-080__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Performs its functions using one or more
+facilities which are operated under a common budget and common control; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-080__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Has an average annual load of 1 megawatt or
+more in the service territory of an electric utility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-080__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A governmental entity, including,
+without limitation, a governmental entity providing educational or health care
+services, that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-080__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Was not an end-use customer of an electric
+utility at any time before June 12, 2019;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-080__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Performs its functions using one or more
+facilities which are operated under a common budget and common control; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-080__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Would have an average annual load of 1
+megawatt or more in the service territory of an electric utility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-080__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A nongovernmental commercial or
+industrial end-use customer that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-080__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Was not an end-use customer of an electric
+utility at any time before June 12, 2019; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-080__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Would have an average annual load of 1
+megawatt or more in the service territory of an electric utility.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3224; A2019,
+3522)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-090">
+          <num>704B.090</num>
+          <heading>ï¿½Energyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Energyï¿½
+means electrical energy.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3224)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-100">
+          <num>704B.100</num>
+          <heading>ï¿½Generation assetï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Generation
+assetï¿½ means any plant, facility, equipment or system which is located within
+or outside this state and which converts nonelectrical energy into electrical
+energy or otherwise produces electrical energy.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3224)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-110">
+          <num>704B.110</num>
+          <heading>ï¿½New electric resourceï¿½ defined.</heading>
+          <subsection eId="704B-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>From an identifiable generation asset
+that is not owned by an electric utility or is not subject to contractual
+commitments to an electric utility that make the energy, capacity or ancillary
+services from the generation asset unavailable for purchase by an eligible
+customer; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>By way of market purchases through a
+provider of new electric resources.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3224; A2019,
+3522)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-115">
+          <num>704B.115</num>
+          <heading>ï¿½Licenseï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Licenseï¿½
+means a license to sell energy, capacity and ancillary services to an eligible
+customer issued by the Commission pursuant toNRS 704B.315.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3520)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-120">
+          <num>704B.120</num>
+          <heading>ï¿½Personï¿½ defined.</heading>
+          <subsection eId="704B-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A natural person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any form of business or social
+organization and any other nongovernmental legal entity, including, without
+limitation, a corporation, partnership, association, trust or unincorporated
+organization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A governmental entity other than:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-120__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>This state or an agency or instrumentality of
+this state; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-120__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A political subdivision of this state or an
+agency or instrumentality of a political subdivision of this state.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3224)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-130">
+          <num>704B.130</num>
+          <heading>ï¿½Provider of new electric resourcesï¿½ and ï¿½providerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Provider of new electric resourcesï¿½ and
+ï¿½providerï¿½ mean a person who makes energy, capacity or ancillary services from
+a new electric resource available to an eligible customer.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3224)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-140">
+          <num>704B.140</num>
+          <heading>ï¿½Time-of-use meterï¿½ defined.</heading>
+          <subsection eId="704B-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Measures and records the electric
+demand, energy and power factor on 15-minute intervals; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Is suitable for use with an electric
+demand of 1 megawatt or more.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3225)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-170">
+          <num>704B.170</num>
+          <heading>Effect of chapter on certain contracts; duties of electric
+utilities and assignees concerning certain contracts.</heading>
+          <subsection eId="704B-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The provisions of this chapter do not
+alter, diminish or otherwise affect any rights or obligations arising under any
+contract which requires an electric utility to purchase energy, capacity or
+ancillary services from another party.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each electric utility or its assignee
+shall comply with the terms of any contract which requires the electric utility
+or its assignee to purchase energy, capacity or ancillary services from another
+party.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3225; A2019,
+3523)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-200">
+          <num>704B.200</num>
+          <heading>Regulations.</heading>
+          <content>
+            <p>The
+Commission shall adopt regulations to carry out and enforce the provisions of
+this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3230)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-210">
+          <num>704B.210</num>
+          <heading>Submission of report to Legislative Commission.</heading>
+          <subsection eId="704B-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each application which was filed with
+the Commission pursuant to the provisions of this chapter and which requested
+approval of a proposed transaction between an eligible customer and a provider
+of new electric resources;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The public information that the
+eligible customer included with the application;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The findings of the Commission
+concerning the effect of the proposed transaction on the public interest; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-210__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Whether the Commission approved the
+application and, if so, the effective date of the proposed transaction, the
+terms and conditions of the proposed transaction, and the terms, conditions and
+payments ordered by the Commission.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3230; A2007,
+549;2019,
+3523)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-300">
+          <num>704B.300</num>
+          <heading>Authority of provider to sell energy, capacity or ancillary
+services; limitations; provider is not public utility because of transaction;
+jurisdiction of Commission; prohibition.</heading>
+          <subsection eId="704B-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, a provider of new electric resources may sell energy, capacity or
+ancillary services to one or more eligible customers if the provider holds a
+valid license and:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-300__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The eligible customers have been approved to
+purchase energy, capacity and ancillary services from the provider pursuant to
+the provisions ofNRS 704B.310; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-300__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The transaction complies with the provisions
+ofNRS 704B.325.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A provider of new electric resources
+shall not sell energy, capacity or ancillary services to an eligible customer
+if the transaction violates the provisions of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-300__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A provider of new electric resources
+that sells energy, capacity or ancillary services to an eligible customer
+pursuant to the provisions of this chapter:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-300__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Does not become and shall not be deemed to be
+a public utility solely because of that transaction; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-300__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Becomes subject to the jurisdiction of the
+Commission only for the purposes of this chapter andNRS 704.033,704.035and704.7801to704.7828, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-300__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a provider of new electric resources
+is not a public utility in this state and is not otherwise authorized by the
+provisions of a specific statute to sell energy, capacity or ancillary services
+at retail in this state, the provider shall not sell energy, capacity or
+ancillary services at retail in this state to a person or entity that is not an
+eligible customer.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3226; A2003,
+1260;2019,
+3523)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-310">
+          <num>704B.310</num>
+          <heading>Application for approval of proposed transaction: Time for
+filing; contents; confidentiality of certain information; public notice and
+hearing; review by Commission; terms, conditions and payments as part of
+approval; time within which Commission must act.</heading>
+          <subsection eId="704B-310__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An eligible customer shall not purchase
+energy, capacity or ancillary services from a provider of new electric
+resources unless:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-310__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The eligible customer files an application
+with the Commission between January 2 and February 1 of any year and not later
+than 280 days before the date on which the eligible customer intends to begin
+purchasing energy, capacity or ancillary services from the provider;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-310__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Commission approves the application by a
+written order issued in accordance with the provisions of this section; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-310__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The provider holds a valid license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-310__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3, each application filed pursuant to this section must include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-310__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Specific information demonstrating that the
+person filing the application is an eligible customer;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-310__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Information demonstrating that the proposed
+provider will provide energy, capacity or ancillary services from a new
+electric resource;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-310__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Specific information concerning the terms and
+conditions of the proposed transaction that is necessary for the Commission to
+evaluate the impact of the proposed transaction on customers and the public
+interest, including, without limitation, information concerning the duration of
+the proposed transaction, the point of receipt of the energy, capacity or
+ancillary services and the amount of energy, capacity or ancillary services to
+be purchased from the provider;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-310__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Specific information identifying transmission
+requirements associated with the proposed transaction and the extent to which
+the proposed transaction requires transmission import capacity; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-310__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any other information required pursuant to
+the regulations adopted by the Commission.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-310__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commission shall not require the
+eligible customer or provider to disclose:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-310__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The price that is being paid by the eligible
+customer to purchase energy, capacity or ancillary services from the provider;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-310__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any other terms or conditions of the proposed
+transaction that the Commission determines are commercially sensitive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-310__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Commission shall provide public
+notice of the application of the eligible customer and an opportunity for a
+hearing on the application in a manner that is consistent with the provisions
+ofNRS 703.320and the regulations
+adopted by the Commission.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-310__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Commission shall not approve the
+application of the eligible customer unless the Commission finds that the
+proposed transaction:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-310__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Will be in the public interest; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-310__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Will not cause the total amount of energy and
+capacity that eligible customers purchase from providers of new electric
+resources through transactions approved by the Commission pursuant to an
+application submitted pursuant to this section on or after May 16, 2019, to
+exceed an annual limit set forth in a plan filed with the Commission pursuant
+toNRS 704.741and accepted by the
+Commission pursuant toNRS 704.751.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-310__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>In determining whether the proposed
+transaction will be in the public interest, the Commission shall consider,
+without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-310__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Whether the electric utility that has been
+providing electric service to the eligible customer will experience increased
+costs as a result of the proposed transaction;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-310__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Whether any remaining customer of the
+electric utility will pay increased costs for electric service or forgo the
+benefit of a reduction of costs for electric service as a result of the
+proposed transaction; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-310__subsec_6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Whether the proposed transaction will impair
+system reliability or the ability of the electric utility to provide electric
+service to its remaining customers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-310__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>If the Commission approves the
+application of the eligible customer:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-310__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The eligible customer shall not begin
+purchasing energy, capacity or ancillary services from the provider pursuant to
+the proposed transaction sooner than 280 days after the date on which the
+application was filed, unless the Commission allows the eligible customer to
+begin purchasing energy, capacity or ancillary services from the provider at an
+earlier date; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-310__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Commission shall order such terms,
+conditions and payments as the Commission deems necessary and appropriate to
+ensure that the proposed transaction will be in the public interest. Except as
+otherwise provided in subsection 8, such terms, conditions and payments:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="704B-310__subsec_7__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Must be fair and nondiscriminatory as
+between the eligible customer and the remaining customers of the electric
+utility, except that the terms, conditions and payments must assign all
+identifiable but unquantifiable risk to the eligible customer;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="704B-310__subsec_7__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Must include, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) Payment by the eligible customer
+to the electric utility of the eligible customerï¿½s load-share portion of any
+unrecovered balance in the deferred accounts of the electric utility; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) Payment by the eligible
+customer, or the provider of new electric resources, as applicable, of the
+annual assessment and any other tax, fee or assessment required byNRS 704B.360;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="704B-310__subsec_7__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Must establish payments calculated in
+a manner that provides the eligible customer with only its load-ratio share of
+the benefits associated with forecasted load growth if load growth is utilized
+to mitigate the impact of the eligible customerï¿½s proposed transaction; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="704B-310__subsec_7__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Must ensure that the eligible customer
+pays its load-ratio share of the costs associated with the electric utilityï¿½s
+obligations that were incurred as deviations from least-cost resource planning
+pursuant to the laws of this State including, without limitation, costs
+incurred to satisfy the requirements ofNRS
+704.7821and implement the provisions ofNRS 701B.240,701B.336,701B.580,701B.820,702.160,704.773,704.7827,704.7836,704.785,704.7865,704.7983and704.7985.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-310__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>An eligible customer who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-310__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Was not an end-use customer of the electric
+utility at any time before June 12, 2019; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-310__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Would have a peak load of 10 megawatts or more
+in the service territory of an electric utility within 2 years of initially
+taking electric service,
+ï¿½is required
+to pay only those costs, fees, charges or rates which apply to current and
+ongoing legislatively mandated public policy programs, as determined by the
+Commission.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-310__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>If the Commission does not enter a
+final order on the application of the eligible customer within 210 days after
+the date on which the application was filed with the Commission, the
+application shall be deemed to be denied by the Commission.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3226; A2003,
+1261,3031;2019,
+3524;2021,
+3802)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-315">
+          <num>704B.315</num>
+          <heading>Qualifications for licensure of provider; issuance, limitation,
+suspension and revocation of license; regulations requiring submission of
+certain information to Commission.</heading>
+          <subsection eId="704B-315__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To qualify for a license, a provider of
+new electric resources must do all of the following:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-315__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Submit an application for the license to the
+Commission that includes all information deemed necessary by the Commission to
+determine whether the provider of new electric resources is qualified to obtain
+a license pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-315__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Demonstrate to the satisfaction of the
+Commission that the provider of new electric resources is authorized to conduct
+business pursuant to the laws of this State and the ordinances of the county,
+city or town in which the provider sells or will sell to sell energy, capacity
+and ancillary services to eligible customers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-315__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Demonstrate to the satisfaction of the
+Commission that the provider of new electric resources has the technical
+competence necessary to sell energy, capacity and ancillary services to
+eligible customers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-315__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Demonstrate to the satisfaction of the
+Commission that the provider of new electric resources has the managerial
+competence necessary to sell energy, capacity and ancillary services to
+eligible customers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-315__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Demonstrate to the satisfaction of the
+Commission that the provider of new electric resources has the financial
+capability to sell energy, capacity and ancillary services to eligible
+customers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-315__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Demonstrate to the satisfaction of the
+Commission financial responsibility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-315__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Demonstrate to the satisfaction of the
+Commission fitness to sell energy, capacity and ancillary services to eligible
+customers. In determining whether a provider of new electric resources is fit
+to sell energy, capacity and ancillary services to eligible customers, the
+Commission may consider:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="704B-315__subsec_1__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Whether legal action has been taken
+against the provider or any of its affiliates in another jurisdiction;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="704B-315__subsec_1__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Whether customer complaints have been
+made concerning the provider or any of its affiliates in another jurisdiction;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="704B-315__subsec_1__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The nature of any legal action or
+customer complaint against the provider or any of its affiliates in another
+jurisdiction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="704B-315__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Demonstrate to the satisfaction of the
+Commission that the provider of new electric resources is in compliance with or
+will comply withNRS 704.78213.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-315__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commission may issue a license to a
+provider of new electric resources that is qualified for a license pursuant to
+subsection 1. The Commission, after notice and a hearing in the manner set
+forth inchapter 703of NRS, may deny the
+application of a provider of new electric resources for a license or limit,
+suspend or revoke a license issued to a provider of new electric resources if
+such action is necessary to protect the public interest or to enforce a
+provision of the laws of this State or a regulation adopted by the Commission
+that is applicable to the provider of new electric resources.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-315__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commission may adopt regulations
+requiring each provider of new electric resources to submit to the Commission
+such information as the Commission determines is necessary to ensure that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-315__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each provider of new electric resources has
+sufficient energy, capacity and ancillary services, or the ability to obtain
+energy, capacity and ancillary services, to satisfy the demand of each eligible
+customer purchasing energy, capacity or ancillary services from the provider;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-315__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Eligible customers served by a provider of
+new electric resources will receive safe and reliable service from the
+provider; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-315__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Each provider of new electric resources
+complies with this chapter and any other laws of this State applicable to each
+provider.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3520)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-325">
+          <num>704B.325</num>
+          <heading>Purchase of energy, capacity or ancillary services from
+alternative provider after approval of original transaction: Rights and
+obligations of eligible customers; expedited review by Commission; limited
+disclosure of certain information.</heading>
+          <subsection eId="704B-325__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An eligible customer that is purchasing
+energy, capacity or ancillary services from a provider of new electric
+resources may purchase energy, capacity or ancillary services from an
+alternative provider without obtaining the approval of the Commission if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-325__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The terms and conditions of the transaction
+with the alternative provider, other than the price of the energy, capacity or
+ancillary services, conform to the terms and conditions of the transaction that
+was originally approved by the Commission with respect to the eligible
+customer, including, without limitation, any terms and conditions, other than
+the price of the energy, capacity or ancillary services, that were approved by
+the Commission to address the factors considered by the Commission pursuant to
+subsection 6 ofNRS 704B.310; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-325__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The alternative provider holds a license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-325__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If any terms and conditions of the
+transaction with the alternative provider, other than the price of the energy,
+capacity or ancillary services, do not conform to the terms and conditions of
+the transaction that was originally approved by the Commission with respect to
+the eligible customer, the eligible customer must obtain approval from the
+Commission before those nonconforming terms and conditions are enforceable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-325__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the eligible customer files a
+request with the Commission for approval of any nonconforming terms and
+conditions, the Commission shall review and make a determination concerning the
+request on an expedited basis.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-325__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Notwithstanding any specific statute to
+the contrary, information concerning any terms and conditions of the
+transaction with the alternative provider that the Commission determines are
+commercially sensitive:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-325__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Must not be disclosed by the Commission
+except to the Regulatory Operations Staff of the Commission, the Consumerï¿½s
+Advocate, the staff of the Consumerï¿½s Advocate and the affected electric
+utility for the purposes of carrying out the provisions of this section; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-325__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided inNRS 239.0115, shall be deemed to be
+confidential for all other purposes, and the Commission shall take such actions
+as are necessary to protect the confidentiality of such information.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+1260; A2007,
+2162;2019,
+3526)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-330">
+          <num>704B.330</num>
+          <heading>Replacement of energy, capacity or ancillary services purchased
+from provider with energy, capacity or ancillary services purchased from
+electric utility; tariffs.</heading>
+          <subsection eId="704B-330__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If an eligible customer is purchasing
+energy, capacity or ancillary services from a provider of new electric
+resources, the eligible customer may, pursuant to tariffs approved by the
+Commission, replace some or all, but not less than all at a single time-of-use
+meter, of the energy, capacity or ancillary services purchased from the
+provider of new electric resources with energy, capacity or ancillary services
+purchased from an electric utility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-330__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The tariffs approved by the Commission
+pursuant to this section must include, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-330__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Provisions requiring the eligible customer to
+pay any incremental costs that are incurred by the electric utility to provide
+energy to the eligible customer;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-330__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provisions requiring the eligible customer to
+provide reasonable and adequate notice to the electric utility;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-330__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Provisions establishing minimum terms during
+which the eligible customer must continue to purchase energy from the electric
+utility; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-330__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Any other provisions that the Commission
+determines are necessary and reasonable to carry out and enforce the provisions
+of this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3229)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-335">
+          <num>704B.335</num>
+          <heading>Commission required to establish procedures to apply for
+replacement of energy, capacity or ancillary services purchased from provider
+with bundled service purchased from electric utility; limitations; terms and
+conditions after approval of application.</heading>
+          <subsection eId="704B-335__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commission shall by regulation
+establish a procedure for an eligible customer who is purchasing energy,
+capacity or ancillary services from a provider of new electric resources to
+apply to the Commission to purchase bundled electric service from an electric
+utility. The Commission may, as it deems necessary and appropriate to prevent
+harm to the customers of an electric utility:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-335__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Establish a limit on the number of times an
+eligible customer may be approved to purchase energy, capacity or ancillary
+services from a provider of new electric resources; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-335__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Establish limitations on the use of the
+tariffs approved by the Commission pursuant toNRS 704B.330.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-335__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Commission approves an
+application submitted pursuant to the regulations required to be adopted by
+subsection 1, the Commission shall order such terms and conditions as the
+Commission deems necessary and appropriate to ensure that the purchase of
+bundled electric service from an electric utility does not harm the existing
+customers of the electric utility.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3521)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-340">
+          <num>704B.340</num>
+          <heading>Time-of-use meters: Requirements; installation; costs;
+limitations; number; use of other meters or equipment.</heading>
+          <subsection eId="704B-340__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A provider of new electric resources
+shall not sell energy, capacity or ancillary services to an eligible customer
+unless the customer has a time-of-use meter installed at the point of delivery
+of energy to the eligible customer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-340__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commission shall establish the date
+by which an electric utility must ensure that metering equipment is installed
+and operational at the point of delivery of energy to the eligible customer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-340__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An electric utility shall install a
+time-of-use meter at each point of delivery of energy to the eligible customer
+if the eligible customer does not have a time-of-use meter at that point of
+delivery. If the eligible customer is:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-340__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A nongovernmental commercial or industrial
+end-use customer, the eligible customer or the provider shall pay all costs for
+the time-of-use meter and for installation of the time-of-use meter by the
+electric utility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-340__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A governmental entity, the provider shall pay
+all costs for the time-of-use meter and for installation of the time-of-use meter
+by the electric utility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-340__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Not more than one person or entity may
+sell the energy that is delivered to an eligible customer through any one
+time-of-use meter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-340__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The provisions of this section do not
+prohibit:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-340__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An eligible customer from having more than
+one time-of-use meter installed for the same service location; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-340__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An eligible customer from installing any
+other meter or equipment that is necessary or appropriate to the transaction
+with the provider, if such a meter or equipment is otherwise consistent with
+system reliability.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3229; A2019,
+3527)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-350">
+          <num>704B.350</num>
+          <heading>Duty of electric utility to provide certain components of
+electric service; duty of Commission to establish just, reasonable and
+nondiscriminatory rates; effect of chapter on existing rights and requirements
+under federal and state law.</heading>
+          <subsection eId="704B-350__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An electric utility shall provide all
+transmission, distribution, metering and other components of electric service
+that are necessary for a provider of new electric resources to sell energy,
+capacity and ancillary services to an eligible customer pursuant to the
+provisions of this chapter. An electric utility shall provide each such
+component of electric service pursuant to the tariffs and service agreements
+filed with and approved by the appropriate regulatory authorities having
+jurisdiction over each such component of electric service.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-350__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For each such component of electric
+service that is within the jurisdiction of the Commission, the Commission shall
+establish just, reasonable and nondiscriminatory rates.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-350__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The provisions of this chapter do not
+enlarge or expand any existing rights under federal law or create any other
+rights with regard to the transmission system of the electric utility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-350__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>When providing service pursuant to this
+chapter, an electric utility is subject to all applicable statutes and
+regulations of this State and the United States.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+3230)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_704B-360">
+          <num>704B.360</num>
+          <heading>Payment of taxes, fees and assessments by eligible customers or
+providers; billing requirements; disciplinary action for failure to comply.</heading>
+          <subsection eId="704B-360__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Commission approves an application
+that is filed pursuant toNRS 704B.310or a request that is filed pursuant toNRS
+704B.325, the eligible customer or the provider of new electric resources,
+as applicable, shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="704B-360__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Pay its share of the annual assessment levied
+pursuant toNRS 704.033to the
+Commission and the Bureau of Consumer Protection in the Office of the Attorney
+General;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-360__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Pay any other tax, fee or assessment that
+would be due a governmental entity had the eligible customer continued to
+purchase energy, capacity or ancillary services from the electric utility; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-360__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Remit any tax, fee or assessment collected
+pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="704B-360__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>to the applicable governmental entity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-360__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each person or entity that is
+responsible for billing an eligible customer shall ensure that the amount which
+the eligible customer must pay pursuant to paragraph</p>
+            </content>
+            <paragraph eId="704B-360__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 is set
+forth as a separate item or entry on each bill submitted to the eligible
+customer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="704B-360__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If an eligible customer to whom an
+order is issued pursuant to subsection 1 thereafter purchases energy, capacity
+or ancillary services from an alternative provider pursuant toNRS 704B.325without obtaining the
+approval of the Commission, the order issued pursuant to subsection 1 continues
+to apply to the eligible customer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="704B-360__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Upon petition by a governmental entity
+to which a tax, fee or assessment must be remitted pursuant to this section or
+the Regulatory Operations Staff of the Commission, the Commission may limit,
+suspend or revoke any order issued to an eligible customer by the Commission
+pursuant toNRS 704B.310, limit,
+suspend or revoke any license issued to a provider of new electric resources
+pursuant toNRS 704B.315, or impose an
+administrative fine pursuant toNRS 703.380,
+or both limit, suspend or revoke any order or license and impose an administrative
+fine pursuant toNRS 703.380, if the
+Commission, after providing an appropriate notice and hearing, determines that
+the eligible customer or provider of new electric resources, as applicable, has
+failed to pay any tax, fee, assessment cost or rate required to be paid or
+remitted pursuant to subsection 1.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+3031; A2019,
+3527)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

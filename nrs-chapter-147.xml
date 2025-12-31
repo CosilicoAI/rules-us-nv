@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-147"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-147"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="147"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-147/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-147/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-147/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-147/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_147">
+        <num>147</num>
+        <heading>PRESENTATION AND PAYMENT OF</heading>
+        <section eId="sec_147-010">
+          <num>147.010</num>
+          <heading>Notice to creditors.</heading>
+          <content>
+            <p>A
+personal representative shall publish and mail notice to creditors in the
+manner provided inNRS 155.020.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 119:107:1941; A1951,
+464] + [134:107:1941; 1931 NCL ï¿½ 9882.134]—(NRS A1975,
+1773;1987,
+781;1999,
+2308)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-020">
+          <num>147.020</num>
+          <heading>Death, resignation or removal of personal representative after
+expiration of time for notice: No further notice necessary.</heading>
+          <content>
+            <p>If a personal representative dies, resigns or
+is removed after the expiration of the time for the publication or mailing of
+notice to creditors, the successor need not give any further notice to
+creditors.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 119:107:1941; A1951,
+464]—(NRS A1987,
+782;1999,
+2308)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-030">
+          <num>147.030</num>
+          <heading>Filing of notice and affidavit of publication or certificate of
+mailing.</heading>
+          <content>
+            <p>After the notice to
+creditors has been mailed or published, a copy, with the affidavit of
+publication or, if notice is mailed, with a certificate of mailing, must be
+filed with the clerk.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 119:107:1941; A1951,
+464]—(NRS A1985,
+244;1987,
+782;1999,
+2308)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-040">
+          <num>147.040</num>
+          <heading>Claims: Limit on time for filing.</heading>
+          <subsection eId="147-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person having a claim, due or to
+become due, against the decedent must file the claim with the clerk within 90
+days after the mailing for those required to be mailed, or 90 days after the
+first publication of the notice to creditors pursuant toNRS 155.020.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A creditor who receives a notice to
+creditors by mail pursuant to subsection 5 ofNRS
+155.020must file a claim with the clerk within 30 days after the mailing
+or 90 days after the first publication of notice to creditors pursuant toNRS 155.020, whichever is later.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-040__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a claim is not filed with the clerk
+within the time allowed by subsection 1 or 2, the claim is forever barred, but
+if it is made to appear, by the affidavit of the claimant or by other proof to
+the satisfaction of the court, that the claimant did not have notice as
+provided inNRS 155.020or actual notice
+of the administration of the estate, the claim may be filed at any time before
+the filing of the final account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-040__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The period of 90 days prescribed by
+this section is reduced to 60 days if summary administration is granted underchapter 145of NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 120:107:1941; 1931 NCL ï¿½ 9882.120]—(NRS A1975,
+1774;1987,
+782;1999,
+2308)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-050">
+          <num>147.050</num>
+          <heading>Claims of personal representative.</heading>
+          <subsection eId="147-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a personal representative is a
+creditor of the decedent, the claim must be filed with the clerk, who must
+present it for allowance or rejection to the court. Its allowance by the court
+is sufficient evidence of its correctness, and it must be paid as other claims
+in due course of administration.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the court rejects the claim, action
+thereon may be brought by the personal representative as claimant against the
+estate, and summons must be served upon the court, which shall appoint an
+attorney, at the expense of the estate, to defend the action. If the claimant
+fails to recover, the claimant must pay all costs, including reasonable
+attorneyï¿½s fees for the estate, to be fixed by the court.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 122:107:1941; 1931 NCL ï¿½ 9882.122]—(NRS A1999,
+2308)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-060">
+          <num>147.060</num>
+          <heading>Claims of district judge.</heading>
+          <subsection eId="147-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a judge of the district court files
+or presents a claim against the estate of a decedent, the administration of
+which is pending before that judge, the judge must designate, in writing, some
+other district judge who, upon presentation of the claim, is vested with power
+to approve or reject it.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In case of its rejection by the
+designated judge, the claimant has the same right to bring an action for its
+recovery as other persons whose claims are rejected.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 122:107:1941; 1931 NCL ï¿½ 9882.122]—(NRS A1999,
+2309)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-070">
+          <num>147.070</num>
+          <heading>Claims for $250 or more must be supported by affidavit;
+correction or amendment of defective claim or affidavit.</heading>
+          <subsection eId="147-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A claim for an amount of $250 or more
+filed with the clerk must be supported by the affidavit of the claimant that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="147-070__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The amount is justly due (or if the claim is
+not yet due, that the amount is a just demand and will be due on the ..... day
+of ........).
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="147-070__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>No payments have been made thereon which are
+not credited.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="147-070__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>There are no offsets to the amount demanded
+to the knowledge of the claimant or other affiant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="147-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Every claim filed with the clerk must
+contain the mailing address of the claimant. Any written notice mailed by a
+personal representative to the claimant at the address furnished is proper
+notice.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-070__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>When the affidavit is made by any other
+person than the claimant, the reasons why it is not made by the claimant must
+be set forth in the affidavit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-070__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The oath may be taken before any person
+authorized to administer oaths.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-070__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The amount of interest must be computed
+and included in the statement of the claim and the rate of interest determined.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-070__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 7, the court may, for good cause shown, allow a defective claim or
+affidavit to be corrected or amended on application made at any time before the
+filing of the final account, but an amendment may not be made to increase the
+amount of a claim after the time for filing a claim has expired.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-070__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The court shall allow the Department of
+Health and Human Services to amend at any time before the filing of the final
+account a claim for the payment of benefits for Medicaid that the Department
+identifies after the original claim has been filed.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [121:107:1941; 1931 NCL ï¿½ 9882.121]—(NRS A1967,
+361;1979,
+454;1985,
+1214;1999,
+879,2309;2003,
+884)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-080">
+          <num>147.080</num>
+          <heading>Claims founded on written instrument or secured by mortgage or
+lien.</heading>
+          <subsection eId="147-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a claim is founded upon a bond,
+bill, note or other instrument, the original instrument need not be filed, but
+a copy, with all endorsements, must be attached to the statement of the claim
+and filed therewith.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a claim is secured by a mortgage or
+lien, a certified copy of the mortgage or lien must be attached to the claim
+and filed with the clerk.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 123:107:1941; A1953,
+505]—(NRS A1999,
+2309)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-090">
+          <num>147.090</num>
+          <heading>Effect of statute of limitations.</heading>
+          <content>
+            <p>A
+claim which is barred by the statute of limitations must not be allowed or
+approved by a personal representative or by the court. No claim which has been
+timely filed is affected by the statute of limitations, pending the
+administration of the estate.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [125:107:1941; 1931 NCL ï¿½ 9882.125]—(NRS A1997,
+1490;1999,
+2310)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-100">
+          <num>147.100</num>
+          <heading>Actions and proceedings pending against decedent or property in
+estate of decedent.</heading>
+          <subsection eId="147-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise ordered by the
+court for good cause shown, an action or proceeding pending against a decedent
+at the time of the decedentï¿½s death may not be continued against the decedentï¿½s
+personal representative unless:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="147-100__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A claim is first filed as provided in this
+chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="147-100__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The claim is rejected in whole or in part;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="147-100__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Within 60 days after notice of rejection is
+given, the claimant who is the plaintiff applies to the court in which the
+action or proceeding is pending for an order substituting the personal
+representative in the action or proceeding. This requirement applies only if
+the notice of rejection contains a statement that the claimant has 60 days
+within which to apply for an order of substitution.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="147-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>No recovery may be allowed in an action
+against property in the estate of a decedent unless proof is made of compliance
+with this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [129:107:1941; 1931 NCL ï¿½ 9882.129]—(NRS A1999,
+2310)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-110">
+          <num>147.110</num>
+          <heading>Examination of claims by personal representative: Allowance or
+rejection; effect of failure to act on claims; untimely claims.</heading>
+          <subsection eId="147-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Within 15 days after the time for filing
+claims has expired, as provided in this chapter, the personal representative
+shall examine all claims filed and shall either endorse on each claim an
+allowance or rejection, with the day and the year thereof, or shall file a
+notice of allowance or rejection with the date and the year thereof, and the
+notice of allowance or rejection must be attached to the claim allowed or
+rejected and filed with the clerk.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a personal representative refuses or
+neglects to endorse on a claim an allowance or rejection within 15 days, as
+specified in this section, or does not file a notice of allowance or rejection,
+the claim shall be deemed rejected, but the personal representative may,
+nevertheless, allow the claim at any time before the filing of the final
+account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-110__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A personal representative need not
+allow or reject a claim that was not timely filed unless the court otherwise
+orders.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 123:107:1941; A1953,
+505]—(NRS A1999,
+879,2310;2001,
+2347)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-120">
+          <num>147.120</num>
+          <heading>Status of approved claims.</heading>
+          <content>
+            <p>All
+claims approved by the personal representative or the court must be ranked
+among the acknowledged debts of the estate, to be paid in due course of
+administration.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 123:107:1941; A1953,
+505]—(NRS A1999,
+2311)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-130">
+          <num>147.130</num>
+          <heading>Rejection of claim; notice; time to file suit; procedure for
+rejected claim; service of summons; removal of personal representative for
+default.</heading>
+          <subsection eId="147-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a claim is rejected by the personal
+representative or the court, in whole or in part, the claimant must be
+immediately notified by the personal representative, and the claimant must
+bring suit in the proper court against the personal representative within 60
+days after the notice or file a timely petition for determination of the
+validity of the claim pursuant to subsection 2, whether the claim is due or
+not, or the claim is forever barred. A claimant must be informed of the
+rejection of the claim by written notice forwarded to the claimantï¿½s mailing
+address by registered or certified mail.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a claim is rejected by the personal
+representative, a creditor may, within 20 days after receipt of the written
+notice of rejection, petition the court for determination of the validity of
+the claim in lieu of bringing suit against the personal representative pursuant
+to subsection 1. A petition for determination of the validity of the claim must
+be filed with the clerk, who shall set the petition for hearing, and notice
+must be given for the period and in the manner required byNRS 155.010. Allowance of the claim by the
+court is sufficient evidence of its correctness, and it must be paid as if
+previously allowed by the personal representative.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-130__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In any action brought upon a claim
+rejected in whole or in part by the personal representative, if the personal
+representative resides out of the State or has departed from the State, or
+cannot, after due diligence, be found within the State, or conceals himself or
+herself to avoid the service of summons, the summons, together with a copy of
+the complaint, must be mailed directly to the last address given by the
+personal representative, with a copy to the attorney for the estate, and proof
+of the mailing must be filed with the clerk where the administration of the
+estate is pending. This service is the equivalent of personal service upon the
+personal representative, but he or she has 30 days from the date of service
+within which to answer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-130__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the personal representative defaults
+after such service, the default is sufficient grounds for his or her removal as
+personal representative by the court without notice. Upon petition and notice,
+in the manner provided for an application for letters of administration, an
+administrator or an administrator with the will annexed must be appointed by
+the court and, upon his or her qualification as such, letters of administration
+or letters of administration with the will annexed must be issued.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [124:107:1941; 1931 NCL ï¿½ 9882.124]—(NRS A1969,
+95;1971,
+317;1983,
+263;1985,
+115;1995,
+2575;1999,
+2311;2003,
+884;2017,
+1680)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-140">
+          <num>147.140</num>
+          <heading>Vacancy in administration.</heading>
+          <content>
+            <p>The
+time during which there is a vacancy in the administration must not be included
+in any limitations prescribed in this chapter, except as otherwise provided inNRS 147.020.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [128:107:1941; 1931 NCL ï¿½ 9882.128]—(NRS A1999,
+2312)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-150">
+          <num>147.150</num>
+          <heading>Claims must be filed and rejected; exception for lien or
+mortgage.</heading>
+          <content>
+            <p>No holder of a claim
+against an estate may maintain an action thereon unless the claim is first
+filed with the clerk and the claim is rejected in whole or in part, except in
+the following case: An action may be brought by the holder of a lien or
+mortgage to enforce the lien or mortgage against the property of the estate
+subject thereto if all recourse against any other property of the estate is
+expressly waived in the complaint.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 120:107:1941; 1931 NCL ï¿½ 9882.120] + [Part
+126:107:1941; 1931 NCL ï¿½ 9882.126]—(NRS A1999,
+2312;2017,
+1681)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-160">
+          <num>147.160</num>
+          <heading>Offer of partial allowance of claim.</heading>
+          <subsection eId="147-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A personal representative who, or a
+court which, acts upon a filed claim shall endorse on the claim the amount
+offered to be allowed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the creditor refuses to accept the
+amount offered to be allowed in satisfaction of the claim, the creditor shall
+recover no costs in any action brought on the claim against the personal
+representative unless the creditor recovers a greater amount than that offered
+to be allowed.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [130:107:1941; 1931 NCL ï¿½ 9882.130]—(NRS A1999,
+2312)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-170">
+          <num>147.170</num>
+          <heading>Reference of controversy.</heading>
+          <subsection eId="147-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the personal representative doubts the
+correctness of any claim filed, the personal representative may enter into an
+agreement in writing with the claimant to refer the matter in controversy to
+some disinterested person, as a master, to be approved by the court, and the
+agreement and approval must be filed with the clerk. The court shall enter an
+order referring the matter in controversy to the person so selected, or if the
+parties consent, the matter may be heard by the court.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The master must hear and determine the
+matter and make a report to the court.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The same proceedings must be had in all
+respects, and the master has the same powers, is entitled to the same
+compensation and is subject to the same control as in other cases of reference.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-170__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The court may remove the master, appoint
+another, set aside or confirm the report, and adjudge costs, as in actions
+against personal representatives, and the judgment of the court thereon is as
+valid and effectual, in all respects, as if the judgment had been entered in an
+action commenced by ordinary process.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 126:107:1941; 1931 NCL ï¿½ 9882.126]—(NRS A1999,
+2312)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-180">
+          <num>147.180</num>
+          <heading>Compromise of claim or action against estate: Petition; notice
+of hearing; execution of conveyances.</heading>
+          <subsection eId="147-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>After the time for the presentation of
+claims has expired, the personal representative, with the approval of the
+court, may compromise any claim against the estate or any action brought
+against the personal representative as such by the transfer of specific assets
+of the estate or otherwise.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To obtain such approval, the personal
+representative shall file a petition with the clerk showing the advantage of
+the compromise.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-180__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The clerk shall set the petition for
+hearing, and the personal representative shall give notice thereof for the
+period and in the manner required byNRS
+155.010.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-180__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If, under this section, the court
+authorizes the transfer of real property of the estate, conveyances must be
+executed by the personal representative in the same manner as provided inNRS 148.280, and have the same force and
+effect as conveyances executed pursuant to that section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-180__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A certified copy of the order
+authorizing the transfer must be recorded in the office of the recorder of the
+county in which the real property, or any portion thereof, is located.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [127:107:1941; 1931 NCL ï¿½ 9882.127]—(NRS A1999,
+2313)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-190">
+          <num>147.190</num>
+          <heading>Reimbursement for costs.</heading>
+          <content>
+            <p>If
+a judgment is recovered with costs against a personal representative, the costs
+must be allowed to the personal representative from the accounts of the
+administration, unless it appears that the action or proceeding in which the
+costs were taxed was prosecuted or resisted by the personal representative
+without cause.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [133:107:1941; 1931 NCL ï¿½ 9882.133]—(NRS A1999,
+2313)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-195">
+          <num>147.195</num>
+          <heading>Debts and charges of estate: Priority of payment.</heading>
+          <subsection eId="147-195__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Expenses of administration.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-195__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Funeral expenses.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-195__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The expenses of the last illness.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-195__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Family allowance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-195__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Debts having preference by laws of the
+United States.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-195__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Money owed to the Department of Health
+and Human Services as a result of the payment of benefits for Medicaid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-195__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Wages to the extent of $600, of each
+employee of the decedent, for work done or personal services rendered within 3
+months before the death of the employer. If there is not sufficient money with
+which to pay all such labor claims in full, the money available must be
+distributed among the claimants in accordance with the amounts of their respective
+claims.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-195__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Judgments rendered against the decedent
+in his or her lifetime, and mortgages in order of their date. The preference
+given to a mortgage extends only to the proceeds of the property mortgaged. If
+the proceeds of that property are insufficient to pay the mortgage, the part
+remaining unsatisfied must be classed with other demands against the estate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-195__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>All other demands against the estate.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2513)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-200">
+          <num>147.200</num>
+          <heading>Status of judgment against estate.</heading>
+          <subsection eId="147-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The effect of a judgment rendered
+against a personal representative upon a claim for money against the estate of
+the decedent is only to establish the claim in the same manner as if it had
+been allowed by the personal representative, and the judgment must be that the
+personal representative pay, in due course of administration, the amount
+ascertained to be due.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A certified copy of the judgment must
+be filed in the estate proceedings.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>No execution may issue upon the
+judgment, nor does it create any lien upon the property of the estate, nor give
+the judgment creditor any priority of payment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-200__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>This section does not apply to a
+judgment of foreclosure of a mortgage.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [131:107:1941; 1931 NCL ï¿½ 9882.131]—(NRS A1999,
+2313)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-210">
+          <num>147.210</num>
+          <heading>Execution of judgment entered against decedent before decedentï¿½s
+death; execution levied upon property of decedent during decedentï¿½s lifetime;
+conversion of lien of attachment.</heading>
+          <subsection eId="147-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a judgment has been entered against
+the decedent in the decedentï¿½s lifetime, no execution may issue after death,
+but a certified copy of the judgment must be attached to the statement of claim
+filed with the clerk and must be acted on as any other claim.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If an execution has been levied upon
+any property of the decedent in the decedentï¿½s lifetime, the property may be
+sold for the satisfaction of the judgment, and the officer making the sale
+shall account to the personal representative for any surplus in his or her
+hands.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="147-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The lien of an attachment may be
+converted into the lien of a judgment on property in the estate subject to the
+lien of the attachment, with the same priority:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="147-210__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the judgment debtor dies after entry of
+judgment; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="147-210__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If judgment is entered after the death of the
+defendant,
+ï¿½in the
+action in which the property was attached.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [132:107:1941; 1931 NCL ï¿½ 9882.132]—(NRS A1999,
+2314)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-220">
+          <num>147.220</num>
+          <heading>Interest on claims.</heading>
+          <content>
+            <p>All
+claims paid bear interest from date of filing at a rate equal to the prime rate
+at the largest bank in Nevada, as ascertained by the Commissioner of Financial
+Institutions, on January 1 or July 1, as the case may be, immediately preceding
+the date of filing, plus 2 percent, unless a different rate is applicable by
+contract or otherwise. The rate of interest must be adjusted accordingly on
+each January 1 and July 1 thereafter until the amount of the claim is paid.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 120:107:1941; 1931 NCL ï¿½ 9882.120]—(NRS A1977,
+296;1979,
+830;1981,
+1859;1987,
+941;1999,
+2314)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_147-230">
+          <num>147.230</num>
+          <heading>Personal representative not chargeable with debts of estate
+except under written agreement.</heading>
+          <content>
+            <p>No
+personal representative is chargeable upon any special promise to assume
+liability for damages or to pay the debts of the decedent from his or her own
+assets, unless the agreement for that purpose, or some memorandum or note
+thereof, is in writing and signed by the personal representative, or by some
+other person thereunto specially authorized by the personal representative.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [202:107:1941; 1931 NCL ï¿½ 9882.202]—(NRS A1999,
+2314)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

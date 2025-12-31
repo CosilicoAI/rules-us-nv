@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-498"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-498"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="498"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-498/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-498/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-498/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-498/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_498">
+        <num>498</num>
+        <heading>SKYDIVING BUSINESSES</heading>
+        <section eId="sec_498-010">
+          <num>498.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 498.020,498.030and498.040have the meanings ascribed to them
+in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1054)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_498-020">
+          <num>498.020</num>
+          <heading>ï¿½Associationï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Associationï¿½
+means the United States Parachute Association or its successor organization.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1054)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_498-030">
+          <num>498.030</num>
+          <heading>ï¿½Skydiving businessï¿½ defined.</heading>
+          <subsection eId="498-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The opportunity to jump with a
+parachute from an airplane, a balloon or any other vehicle used for navigation
+through the air; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="498-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Training on how to jump safely from an
+airplane, a balloon or any other vehicle used for navigation through the air
+and how to land safely using a parachute.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1054)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_498-040">
+          <num>498.040</num>
+          <heading>ï¿½Student skydiverï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Student
+skydiverï¿½ means a person who receives training to skydive and has not been
+cleared to self-jumpmaster in accordance with standards established by the
+Association.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1054)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_498-050">
+          <num>498.050</num>
+          <heading>Legislative findings and declaration.</heading>
+          <content>
+            <p>The
+Legislature hereby finds and declares that the operation of a skydiving
+business affects the health, safety and welfare of members of the general
+public and that minimum standards for the operation of such a business must,
+therefore, be established.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1054)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_498-060">
+          <num>498.060</num>
+          <heading>Certain persons presumed to be student skydivers.</heading>
+          <content>
+            <p>For the purposes ofNRS 498.010to498.110, inclusive, a person who has not
+previously jumped with a skydiving business shall be deemed to be a student
+skydiver unless that person produces documented proof to the operator of the
+skydiving business that the person has previously skydived.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1054)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_498-070">
+          <num>498.070</num>
+          <heading>Operators required to comply with certain federal regulations
+and safety requirements and to use Associationï¿½s training options; Director of
+Department of Transportation required to review amendments to basic safety
+requirements and training options.</heading>
+          <subsection eId="498-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The operator of a skydiving business
+shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="498-070__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Comply with the regulations of the Federal
+Aviation Administration governing skydiving;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="498-070__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Comply with safety requirements that are at
+least as stringent as the basic safety requirements of the Association set
+forth in the ï¿½Skydiverï¿½s Information Manualï¿½ in the form most recently
+published by the Association, unless the Director of the Department of
+Transportation posts a notice of disapproval of any amendment to those
+requirements pursuant to subsection 2; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="498-070__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Provide training to a student skydiver using
+one of the training options adopted by the Association in the ï¿½Skydiverï¿½s
+Information Manualï¿½ in the form most recently published by the Association,
+unless the Director of the Department of Transportation posts a notice of
+disapproval of any amendment to those training options pursuant to subsection
+2.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="498-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director of the Department of
+Transportation or a person designated by the Director shall review each
+amendment to the basic safety requirements and training options set forth in
+the ï¿½Skydiverï¿½s Information Manualï¿½ and approve or disapprove of the amendment
+for use in this state. If the Director does not post a notice of disapproval
+within 30 days after such an amendment is published, the amendment shall be
+deemed approved for this state.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1054)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_498-080">
+          <num>498.080</num>
+          <heading>Maintenance of safety handbook on premises; provision or
+availability of copy of basic safety requirements and federal regulations to
+customer.</heading>
+          <subsection eId="498-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The operator of a skydiving business
+shall maintain on the premises of the business a safety handbook which contains
+the safety requirements that the operator will comply with in conducting the
+operations of the business.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="498-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon request, the operator shall
+provide a customer with a copy of the basic safety requirements of the
+Association and the regulations of the Federal Aviation Administration governing
+skydiving. The operator shall be deemed to have complied with the provisions of
+this subsection if the operator makes available to the customer for review on
+the premises the safety handbook required to be maintained pursuant to
+subsection 1, or a copy of the handbook, which contains the basic safety
+requirements of the Association and the regulations of the Federal Aviation
+Administration governing skydiving.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1055)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_498-090">
+          <num>498.090</num>
+          <heading>Posting of certain information at operatorï¿½s place of business.</heading>
+          <subsection eId="498-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A statement that skydiving businesses
+operating in this state must comply with the regulations of the Federal
+Aviation Administration governing skydiving and safety requirements that are at
+least as stringent as the basic safety requirements of the Association;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="498-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A list of the equipment required to be
+provided to a student skydiver; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="498-090__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A statement that a customer may report
+any alleged violation of the provisions ofNRS
+498.010to498.110, inclusive, to
+the district attorney of the county in which the alleged violation occurred or
+to the Attorney General.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1055)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_498-100">
+          <num>498.100</num>
+          <heading>Accident reports.</heading>
+          <subsection eId="498-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The operator of a skydiving business
+shall report in writing to the Association an accident that results in serious
+injury to or the death of one of its customers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="498-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The report must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="498-100__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be submitted to the Association not later
+than the next business day following the date of the accident; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="498-100__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Include the time and place of the accident
+and the circumstances relating thereto.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1055)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_498-110">
+          <num>498.110</num>
+          <heading>Penalty; revocation of license.</heading>
+          <subsection eId="498-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The operator of a skydiving business
+who willfully violates any of the provisions ofNRS 498.010to498.100, inclusive, is guilty of a
+misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="498-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any governmental entity that has issued
+a license to engage in business as an operator of a skydiving business to a
+person who is convicted of violating any of the provisions ofNRS 498.010to498.100, inclusive, shall revoke that
+license and send notice of the revocation to the licensee by certified mail.
+Such a licensee may not apply to any governmental entity for a license to
+engage in business as an operator of a skydiving business in this state for 5
+years after the revocation of his or her previous license.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1055)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

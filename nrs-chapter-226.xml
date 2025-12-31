@@ -1,0 +1,4556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-226"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-226"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="226"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-226/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-226/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-226/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-226/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_226">
+        <num>226</num>
+        <heading>STATE TREASURER</heading>
+        <section eId="sec_226-010">
+          <num>226.010</num>
+          <heading>Qualifications of State Treasurer.</heading>
+          <subsection eId="226-010__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Has attained the age of 25 years at the
+time of such election; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-010__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Is a qualified elector and has been a
+citizen resident of this State for 2 years next preceding the election.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:108:1866; A1953,
+711;1955,
+459]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-020">
+          <num>226.020</num>
+          <heading>Election; term of office.</heading>
+          <subsection eId="226-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Treasurer shall be elected by
+the qualified electors of the State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Treasurer shall be chosen at
+the general election of 1866, and every 4th year thereafter, and shall hold
+office for the term of 4 years from the time of his or her installment and
+until his or her successor shall be qualified.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1:108:1866; B ï¿½ 2599; BH ï¿½ 1636; C ï¿½ 1782; RL ï¿½
+2765; NCL ï¿½ 4765] + [Part 9:108:1866; B ï¿½ 2607; BH ï¿½ 1644; C ï¿½ 1790; RL ï¿½ 2773;
+NCL ï¿½ 4773] + [Part 10:108:1866; B ï¿½ 2608; BH ï¿½ 1645; C ï¿½ 1791; RL ï¿½ 2774; NCL
+ï¿½ 4774]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-030">
+          <num>226.030</num>
+          <heading>Office.</heading>
+          <content>
+            <p>The State
+Treasurer shall keep his or her office at the seat of government.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 10:108:1866; B ï¿½ 2608; BH ï¿½ 1645; C ï¿½ 1791; RL
+ï¿½ 2774; NCL ï¿½ 4774] + [Part 1:14:1866; A1867,
+113; B ï¿½ 2838; BH ï¿½ 1837; C ï¿½ 1984; RL ï¿½ 4360; NCL ï¿½ 7531]—(NRS A1969,
+196)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-040">
+          <num>226.040</num>
+          <heading>Absence from State limited.</heading>
+          <content>
+            <p>The
+State Treasurer shall not absent himself or herself from the State for more
+than 90 days at any one time without leave of absence from the Legislature.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1:14:1866; A1867,
+113; B ï¿½ 2838; BH ï¿½ 1837; C ï¿½ 1984; RL ï¿½ 4360; NCL ï¿½ 7531]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-050">
+          <num>226.050</num>
+          <heading>Commission; oath; bond.</heading>
+          <subsection eId="226-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Take the oath of office prescribed by
+law, to be endorsed upon his or her commission; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Execute and deliver to the Governor a
+bond, payable to the State, in an amount which shall be determined by the State
+Board of Examiners, conditioned for the faithful performance of all duties
+which may be required of the State Treasurer by law and for the delivery by him
+or her to his or her successor of all books, papers, records, moneys, vouchers,
+sureties, funds and securities, evidences of debt, and effects belonging to his
+or her office or to the State of Nevada. The official bond shall be executed by
+a surety company or companies authorized to do business in the State of Nevada.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [2:14:1866; A1928,
+61; NCL ï¿½ 7532]—(NRS A1975,
+339)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-080">
+          <num>226.080</num>
+          <heading>Use of facsimile signature; combination of facsimile signature
+with facsimile signature of State Controller or other state officer or employee
+authorized to administer bank account.</heading>
+          <subsection eId="226-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Treasurer may use a facsimile
+signature in place of his or her handwritten signature if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-080__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The facsimile signature is:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="226-080__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Produced by the most efficient device
+or other method of facsimile reproduction reasonably available; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-080__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Made and used only under the personal
+direction and supervision of the State Treasurer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="226-080__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The device or other method of facsimile
+reproduction is kept securely locked at all times when not in use in such a
+manner as to prevent any misuse, fraudulent use or other improper use. If the
+device or other method of facsimile reproduction is of such a nature that:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="226-080__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The facsimile image or impression is
+severable from the device or other method of facsimile reproduction, the
+facsimile image or impression must be kept in a separate secure place in the
+Office of the State Treasurer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-080__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Any registered key, password or other
+securing device or procedure is severable from the device or other method of
+facsimile reproduction, the registered key, password or other securing device
+or procedure must be locked in a vault.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise required by
+specific statute and subject to the conditions of subsection 1 and the consent
+of each, the State Treasurer and the State Controller, or the State Treasurer
+and any other officer or employee of state government who is authorized to
+administer a bank account, may combine their facsimile signatures for use in a
+device or other method of facsimile reproduction. The facsimile image or
+impression of such combined signatures must be kept in the Office of the State
+Treasurer as provided in paragraph</p>
+            </content>
+            <paragraph eId="226-080__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:2:1943; 1943 NCL ï¿½ 7562.01]—(NRS A1961,
+51;1965,
+34;2001,
+2901)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-090">
+          <num>226.090</num>
+          <heading>Salary.</heading>
+          <subsection eId="226-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>On the first Monday in January 2011 and
+on the first Monday of every fourth year thereafter, the salary of the State
+Treasurer must be increased by an amount equal to the cumulative percentage
+increase in the salaries of the classified employees of this State during the
+immediately preceding term of the State Treasurer.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [5:295:1953; A1955,
+527] + [Part 4:320:1955] + [11:320:1955] + [13:320:1955]—(NRS A1957,
+541;1961,
+306;1965,
+970;1969,
+791;1971,
+2207;1977,
+1015;1981,
+1370;1985,
+1610;1989,
+1897;1997,
+1227;2005,
+1183)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-100">
+          <num>226.100</num>
+          <heading>Appointment and classification of deputies and assistants;
+restrictions on other employment of Chief Deputy.</heading>
+          <subsection eId="226-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Treasurer may appoint and
+employ a Chief Deputy, two Senior Deputies, an Assistant Treasurer, a Deputy of
+Debt Management, a Deputy of Investments, a Deputy of Cash Management, a Deputy
+of Unclaimed Property, a Deputy of Financial Literacy and Security and an
+Assistant to the State Treasurer in the unclassified service of the State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 284.143, the Chief Deputy State
+Treasurer shall devote his or her entire time and attention to the business of
+his or her office and shall not pursue any other business or occupation or hold
+any other office of profit.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1:93:1945; 1943 NCL ï¿½ 7405]—(NRS A1967,
+1488;1971,
+1424;1977,
+560;1981,
+1271;1997,
+616,1741;1999,
+72;2001,
+2902;2003,
+2813;2021,
+1564)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-110">
+          <num>226.110</num>
+          <heading>General powers and duties.</heading>
+          <subsection eId="226-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Treasurer:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-110__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Shall receive and keep all money of the State
+which is not expressly required by law to be received and kept by some other
+person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-110__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Shall receipt to the State Controller for all
+money received, from whatever source, at the time of receiving it.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-110__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Shall establish the policies to be followed
+in the investment of money of the State, subject to the periodic review and
+approval or disapproval of those policies by the State Board of Finance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-110__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>May employ any necessary investment and
+financial advisers to render advice and other services in connection with the
+investment of money of the State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-110__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Shall disburse the public money upon warrants
+drawn upon the Treasury by the State Controller, and not otherwise. The
+warrants must be registered and paid in the order of their registry. The State
+Treasurer may use any sampling or postaudit technique, or both, which he or she
+considers reasonable to verify the proper distribution of warrants.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-110__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Shall keep a just, true and comprehensive
+account of all money received and disbursed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-110__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Shall deliver in good order to his or her
+successor in office all money, records, books, papers and other things
+belonging to his or her office.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-110__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Shall fix, charge and collect reasonable fees
+for:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="226-110__subsec_1__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Investing the money in any fund or
+account which is credited for interest earned on money deposited in it; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-110__subsec_1__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Special services rendered to other
+state agencies or to members of the public which increase the cost of operating
+his or her office.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="226-110__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Serves as the primary representative of the
+State in matters concerning any nationally recognized bond credit rating agency
+for the purposes of the issuance of any obligation authorized on the behalf and
+in the name of the State, except as otherwise provided inNRS 538.206and except for those
+obligations issued pursuant tochapter 319of
+NRS andNRS 349.400to349.987, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-110__subsec_1__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>Is directly responsible for the issuance of
+any obligation authorized on the behalf and in the name of the State, except as
+otherwise provided inNRS 538.206and
+except for those obligations issued pursuant tochapter
+319of NRS andNRS 349.400to349.987, inclusive. The State Treasurer:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="226-110__subsec_1__subsec_j__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Shall issue such an obligation as soon
+as practicable after receiving a request from a state agency for the issuance
+of the obligation.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-110__subsec_1__subsec_j__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>May, except as otherwise provided inNRS 538.206, employ necessary legal,
+financial or other professional services in connection with the authorization,
+sale or issuance of such an obligation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="226-110__subsec_1__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>May organize and facilitate statewide pooled
+financing programs, including lease purchases, for the benefit of the State and
+any political subdivision, including districts organized pursuant toNRS 450.550to450.750, inclusive, andchapters 244A,318,379,474,541,543and555of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-110__subsec_1__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>Shall serve as the Administrator of Unclaimed
+Property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-110__subsec_1__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>In addition to the instruction provided
+pursuant toNRS 315.515,315.9945or422A.493, shall, to the extent that money
+is available for that purpose, ensure that instruction and training in the
+following areas is provided to the tenants of a housing project operated by a
+local housing authority pursuant toNRS
+315.140to315.7813, inclusive, to
+the tenants of a housing project operated by the Nevada Rural Housing Authority
+pursuant toNRS 315.961to315.99874, inclusive, and to the tenants
+of a nonprofit organization described in sub-subparagraph (III) of subparagraph</p>
+              </content>
+              <subparagraph eId="226-110__subsec_1__subsec_m__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="226-110__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 2 ofNRS
+422A.493:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="226-110__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The business opportunities and any
+benefits available for:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) Small business enterprises;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) Minority-owned business
+enterprises;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (III) Women-owned business
+enterprises; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (IV) Disadvantaged business
+enterprises as defined by 49 C.F.R. ï¿½ 26.5; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-110__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The procedures in place to utilize the
+opportunities and benefits listed in subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-110__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>and how to proceed
+through such procedures.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½local housing
+authorityï¿½ means an authority as defined inNRS
+315.170.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [4:14:1866; A1897,
+24; C ï¿½ 1987; RL ï¿½ 4363; NCL ï¿½ 7534]—(NRS A1977,
+560;1981,
+414,497;1983,
+1583;1995,
+2235;1997,
+1286;1999,
+72,801,802;2001,
+2902;2017,
+2012;2021,
+1564)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-115">
+          <num>226.115</num>
+          <heading>State Treasury designated.</heading>
+          <content>
+            <p>All
+moneys, funds and property of the State of Nevada, in the custody and control
+of the State Treasurer or his or her office by virtue of his or her official
+position as State Treasurer, are hereby designated as the State Treasury of the
+State of Nevada.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+153)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-120">
+          <num>226.120</num>
+          <heading>Reports.</heading>
+          <subsection eId="226-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Provide information to either house of
+the Legislature, whenever required, upon any subject connected with the
+Treasury or any duty of his or her office.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Prepare and submit an annual report of
+the operations of his or her office to the Governor and the Legislative
+Commission within 60 working days after:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-120__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The close of a fiscal year; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-120__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The latest date established by the
+Legislature to close accounts for a fiscal year,
+ï¿½whichever
+occurs later for that fiscal year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [5:14:1866; A1931,
+200; 1931 NCL ï¿½ 7535]—(NRS A1965,
+34;1971,
+372;1977,
+560;1981,
+343;2001,
+2903)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-130">
+          <num>226.130</num>
+          <heading>Inspection of records.</heading>
+          <subsection eId="226-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The books, papers and transactions of
+the Office of the State Treasurer shall be open at all times for the inspection
+of the Governor, the State Controller, the State Board of Examiners, either
+house of the Legislature, or of any committee thereof, or person authorized by
+law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For any failure (except it be
+unavoidable) to comply with the provisions of this section, the State Treasurer
+shall forfeit his or her office, and the Governor shall declare the same
+vacant, and shall appoint a successor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [6:14:1866; A1873,
+175; B ï¿½ 2843; BH ï¿½ 1842; C ï¿½ 1989; RL ï¿½ 4365; NCL ï¿½ 7536]—(NRS A1965,
+34;1971,
+372)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-140">
+          <num>226.140</num>
+          <heading>Payment of warrants; exhaustion of money to pay warrant; notice.</heading>
+          <subsection eId="226-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Treasurer shall pay all
+warrants drawn upon him or her by the State Controller, out of the proper fund,
+as directed, in the order in which the same are presented.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If there be no money to pay any warrant
+when presented, the State Treasurer shall endorse thereon the words ï¿½not paid
+for want of funds,ï¿½ and shall note the date of presentation, and attest the
+endorsement made, by his or her official signature. The State Treasurer shall
+at the same time make an entry of the date of presentation, number and amount
+of the warrant in the register required by law to be kept by him or her. So
+soon as money accumulates or is received into the State Treasury, applicable to
+and sufficient for the payment of any outstanding warrant or warrants so
+presented for payment and not paid for want of funds, the State Treasurer shall
+post a notice in writing in a conspicuous place in his or her office, setting
+forth the number and amount of his or her warrant or warrants, and the fact
+that there is money in the State Treasury to pay the same. From the time of the
+posting of such notice, no interest shall be allowed or paid upon any warrant
+which by law is or may be entitled to bear interest.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:54:1869; B ï¿½ 2849; BH ï¿½ 1847; C ï¿½ 1994; RL ï¿½ 4370;
+NCL ï¿½ 7541]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-150">
+          <num>226.150</num>
+          <heading>Liability for failure to pay warrants.</heading>
+          <content>
+            <p>Any
+failure, neglect or refusal on the part of the State Treasurer to pay any
+warrant when presented, there being money in the State Treasury to pay the
+same, or to post the notice within 5 days, as required inNRS 226.140, after there shall have been
+received into the State Treasury money applicable and sufficient to pay any
+warrant or warrants presented and not paid for want of funds, or after having
+received the money and posted the notice on presentation for payment, to pay
+the warrants so posted, shall subject the State Treasurer to damages to the
+person or persons aggrieved to an amount equal to treble interest on the sum
+specified in the warrant or warrants not paid on presentation, as provided in
+this section, such interest being computed at the rate of 3 percent per month
+during the time such warrant or warrants remain unpaid. In any suit brought to
+recover the same, judgment shall be rendered to cover the damages at the time
+of the entry thereof and for costs.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [2:54:1869; B ï¿½ 2850; BH ï¿½ 1848; C ï¿½ 1995; RL ï¿½ 4371;
+NCL ï¿½ 7542]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-160">
+          <num>226.160</num>
+          <heading>Deposit of public money; custody of bonds and securities;
+prohibited use of public money by State Treasurer and others.</heading>
+          <subsection eId="226-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Treasurer shall deposit all
+moneys under his or her control in the manner provided inchapter 356of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Treasurer shall securely keep
+in the safe and vault provided for him or her for that purpose, in his or her
+office at the seat of government, all bonds and securities of the state pertaining
+to his or her office, and shall not deposit any part or portion of the same
+with any individual, copartnership or corporation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-160__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The State Treasurer shall not use the
+public moneys, or any part thereof, or allow anyone else to do so, except in
+the payment of bonds, coupons or warrants properly drawn upon him or her by the
+State Controller.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [3:54:1869; A1869,
+139;1873,
+171; B ï¿½ 2851; BH ï¿½ 1849; C ï¿½ 1996; RL ï¿½ 4372; NCL ï¿½ 7543]—(NRS A1959,
+568)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-170">
+          <num>226.170</num>
+          <heading>Refusal to redeem warrants and other evidence of indebtedness.</heading>
+          <content>
+            <p>The State Treasurer shall refuse to redeem any
+warrants, scrip, orders or other evidence of indebtedness against the state
+whenever it shall come to his or her knowledge that such warrants, scrip or
+other evidence of indebtedness have been purchased, sold, received or
+transferred in violation of law.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 98:108:1866; B ï¿½ 2696; BH ï¿½ 1733; C ï¿½ 1879; RL
+ï¿½ 2845; NCL ï¿½ 4845]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-175">
+          <num>226.175</num>
+          <heading>Account for the Rebate of Governmental Services Tax to Senior
+Citizens.</heading>
+          <content>
+            <p>There is hereby created
+an Account for the Rebate of the Governmental Services Tax to Senior Citizens
+within the State General Fund. The State Treasurer shall administer the
+Account.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+3491)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-180">
+          <num>226.180</num>
+          <heading>Duties as ex officio State Disbursing Officer for Federal Government;
+regulations.</heading>
+          <subsection eId="226-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Act for the Federal Government with
+respect to all financial matters required of him or her by the Federal
+Government.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Keep proper books and accounts and
+prepare vouchers and receipts relating thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-180__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Keep books of account and sign and pay
+all warrants relating to all state payroll deductions at the time and in the
+manner required, according to federal law and regulation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-180__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Perform such other duties in connection
+with the duties designated in subsections 1, 2 and 3 as may be required in the
+proper exercise thereof.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-180__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Adopt such regulations as are necessary
+to carry out the provisions of this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:320:1955]—(NRS A1991,
+1696)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-190">
+          <num>226.190</num>
+          <heading>Administration of oaths and affirmations.</heading>
+          <content>
+            <p>The State Treasurer shall have power to
+administer all oaths or affirmations required or allowed by law in matters
+touching the duties of his or her office.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 10:14:1866; B ï¿½ 2847; BH ï¿½ 1846; C ï¿½ 1993; RL ï¿½
+4369; NCL ï¿½ 7540]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-200">
+          <num>226.200</num>
+          <heading>Performance of other duties.</heading>
+          <content>
+            <p>The
+State Treasurer shall perform all duties not enumerated in this chapter which
+may be enjoined by law.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 10:14:1866; B ï¿½ 2847; BH ï¿½ 1846; C ï¿½ 1993; RL ï¿½
+4369; NCL ï¿½ 7540]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-210">
+          <num>226.210</num>
+          <heading>Prohibition against purchasing, selling or transferring warrants,
+scrip or evidence of indebtedness; penalties.</heading>
+          <subsection eId="226-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as provided in subsection 3, the
+State Treasurer is expressly prohibited:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-210__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>From purchasing or selling, or in any manner
+receiving to his or her own use or benefit, or to the use and benefit of any
+person or persons whatever, any state warrants, scrip, orders, demands, claim
+or claims, or other evidence of indebtedness against the State; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-210__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>From purchasing or being interested, or
+receiving, selling, or transferring, or causing to be purchased, received, sold
+or transferred, either in person or by agent or attorney, or by or through the
+agency or means of any person or persons whatever, any interest, claim, demand
+or other evidence of indebtedness against the State, either directly or indirectly;
+nor shall any clerk or employee of the State Treasurer be allowed to make any
+such purchase, sale or transfer, or to receive any agency from other parties to
+purchase, sell, transfer or bargain, in any manner, for any state warrants,
+scrip, demands or other evidence of indebtedness against the State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any person violating any of the
+provisions of subsection 1 shall be guilty of a gross misdemeanor. A conviction
+shall operate as a forfeiture of office, and the party convicted shall forever
+be disqualified from holding any office of honor, profit or trust in this
+state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Nothing in this section shall prevent
+the State Treasurer, his or her clerks and employees from selling or
+transferring only such warrants or scrip as they may receive for their services,
+but none other.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 71:108:1866; B ï¿½ 2669; BH ï¿½ 1706; C ï¿½ 1852; RL
+ï¿½ 2824; NCL ï¿½ 4824] + [Part 72:108:1866; B ï¿½ 2670; BH ï¿½ 1707; C ï¿½ 1853; RL ï¿½
+2825; NCL ï¿½ 4825] + [Part 74:108:1866; B ï¿½ 2672; BH ï¿½ 1709; C ï¿½ 1855; RL ï¿½
+2826; NCL ï¿½ 4826]—(NRS A1959,
+5)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-220">
+          <num>226.220</num>
+          <heading>Prohibited use of public money; responsibility on bond.</heading>
+          <content>
+            <p>The State Treasurer is made responsible upon
+his or her official bond for all moneys received by him or her belonging to the
+State, and is prohibited from using or loaning or borrowing the same, for any
+purpose whatever, except as provided by law.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [7:14:1866; B ï¿½ 2844; BH ï¿½ 1843; C ï¿½ 1990; RL ï¿½ 4366;
+NCL ï¿½ 7537]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-230">
+          <num>226.230</num>
+          <heading>Penalties.</heading>
+          <content>
+            <p>If the
+State Treasurer shall willfully neglect or refuse to perform any duty enjoined
+by law, or, by color of his or her office, shall knowingly do any act not
+authorized by law, or in any other manner than is authorized by law, the State
+Treasurer shall be deemed guilty of a misdemeanor and shall be further punished
+as provided inNRS 197.230.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [8:14:1866; B ï¿½ 2845; BH ï¿½ 1844; C ï¿½ 1991; RL ï¿½ 4367;
+NCL ï¿½ 7538]—(NRS A1967,
+532)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-300">
+          <num>226.300</num>
+          <heading>Establishment of pilot program; regulations; fees;
+confidentiality of certain information; approval of pilot program by Interim
+Finance Committee; submission of semiannual report to Legislature.</heading>
+          <content>
+            <p>Expired by limitation. (See chapter 403,Statutes
+of Nevada 2019, at page 2512.)
+STATEWIDE DATABASE OF SOURCES OF FINANCIAL ASSISTANCE FOR
+HIGHER EDUCATION</p>
+          </content>
+        </section>
+        <section eId="sec_226-400">
+          <num>226.400</num>
+          <heading>Creation; requirements; outreach program to victims of domestic
+violence.</heading>
+          <subsection eId="226-400__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Treasurer shall create and
+maintain a statewide database of sources of financial assistance for persons
+pursuing higher education.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-400__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The database must include, without
+limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-400__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A list of any program, scholarship, grant,
+student loan or other form of financial assistance for individuals seeking to
+pursue higher education.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-400__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The contact information of each person or
+entity responsible for the administration of each program, scholarship, grant,
+student loan or other form of financial assistance listed in the database; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-400__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The demographic requirements, if any,
+including, without limitation, age, race and ethnicity, household size,
+employment status or household income, for participation in each program,
+scholarship, grant, student loan or other form of financial assistance listed
+in the database.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-400__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The State Treasurer:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-400__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Shall make the database publicly available on
+an Internet website maintained by the State Treasurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-400__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Shall establish a toll-free telephone number
+and a means of electronic communication via the Internet website to assist in the
+dissemination and explanation of the information contained in the database and
+any other information regarding sources of financial assistance for pursuing
+higher education.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-400__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>May employ such staff as the State Treasurer
+deems necessary to maintain, support and promote the use of the database.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-400__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>May accept any gift, donation, bequest, grant
+or other source of money for the purpose of carrying out the provisions of this
+section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-400__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Attorney General shall establish a
+program to market and conduct outreach to victims of domestic violence or human
+trafficking to connect such victims with the information contained in the
+database maintained by the State Treasurer pursuant to this section. The
+Attorney General may accept any gift, donation, bequest, grant or other source
+of money for the purpose of carrying out the provisions of this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+2324)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-420">
+          <num>226.420</num>
+          <heading>State Treasurer to establish program by regulation; limitations
+on reimbursement; partial reimbursement.</heading>
+          <subsection eId="226-420__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Treasurer shall establish by
+regulation a program to provide reimbursement for tuition charges, registration
+fees, laboratory fees and any other mandatory fees paid to an institution
+within the Nevada System of Higher Education by a person who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-420__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Completed a Teacher Academy College Pathway
+Program offered pursuant toNRS 388.223;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-420__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided in subsection 3,
+has worked as a full-time, licensed teacher at a public school in this State
+for at least 3 consecutive school years.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-420__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The program may not provide
+reimbursement for any tuition charge, registration fee, laboratory fee or any
+other mandatory fee which was paid or otherwise provided for through a
+scholarship, financial aid, waiver or similar financial assistance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-420__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The State Treasurer may provide partial
+reimbursement of tuition charges, registration fees, laboratory fees and any
+other mandatory fees paid by a person who completed a Teacher Academy College
+Pathway Program offered pursuant toNRS
+388.223and who has worked as a full-time, licensed teacher at a public
+school in this State for 1 year or 2 consecutive years in an amount not to
+exceed, for each year of service at a public school in this State, one-third of
+the total tuition charges, registration fees, laboratory fees and any other
+mandatory fees paid by the person to an institution within the Nevada System of
+Higher Education which are subject to reimbursement pursuant to this section
+and the regulations adopted pursuant thereto.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+3003)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-425">
+          <num>226.425</num>
+          <heading>Nevada Grown Educator Account: Creation; administration; use of
+money; donations, gifts, grants and bequests; interest and income;
+nonreversion.</heading>
+          <subsection eId="226-425__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Nevada Grown Educator Account is
+hereby created in the State General Fund. The Account must be administered by
+the State Treasurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-425__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The money in the Account must be used
+to carry out the program established pursuant toNRS 226.420.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-425__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The State Treasurer may apply for and
+accept any donation, gift, grant, bequest or other source of money for deposit
+in the Account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-425__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The interest and income earned on money
+in the Account, after deducting any applicable charges, must be credited to the
+Account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-425__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Any money in the Account remaining at
+the end of a fiscal year does not revert to the State General Fund, and the
+balance in the Account must be carried forward to the next fiscal year.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+3004)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-450">
+          <num>226.450</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 226.450to226.466, inclusive, unless the context
+otherwise requires, the words and terms defined inNRS 226.452,226.454and226.456have the meanings ascribed to them
+in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS2023,
+1767)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-452">
+          <num>226.452</num>
+          <heading>ï¿½Programï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Programï¿½
+means the Student Loan Repayment for Providers of Health Care in Underserved
+Communities Program created byNRS 226.458.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+1767)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-454">
+          <num>226.454</num>
+          <heading>ï¿½Provider of health careï¿½ defined.</heading>
+          <subsection eId="226-454__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A physician;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-454__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A physician assistant licensed pursuant
+tochapter 630or633of NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-454__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A dentist;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-454__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A licensed nurse;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-454__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A person who holds a license as an
+attendant or is certified as an emergency medical technician, advanced
+emergency medical technician or paramedic pursuant tochapter 450Bof NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-454__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>An optometrist;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-454__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>An audiologist;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-454__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>A practitioner of respiratory care;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-454__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>A podiatric physician;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-454__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>A psychologist;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-454__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>A clinical professional counselor;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-454__subsec_12">
+            <num>12.</num>
+            <content>
+              <p>A perfusionist;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-454__subsec_13">
+            <num>13.</num>
+            <content>
+              <p>A pharmacist or pharmacy technician;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-454__subsec_14">
+            <num>14.</num>
+            <content>
+              <p>An associate in social work, a social
+worker, a master social worker, an independent social worker or a clinical
+social worker licensed pursuant tochapter 641Bof NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-454__subsec_15">
+            <num>15.</num>
+            <content>
+              <p>A midwife; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-454__subsec_16">
+            <num>16.</num>
+            <content>
+              <p>A provider of doula services who is
+enrolled with the Division of Health Care Financing and Policy of the
+Department of Health and Human Services to receive reimbursement through
+Medicaid pursuant toNRS 422.27177.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+1767)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-456">
+          <num>226.456</num>
+          <heading>ï¿½Student education loanï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Student
+education loanï¿½ has the meaning ascribed to it inNRS 226.510.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+1767)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-458">
+          <num>226.458</num>
+          <heading>Creation and administration of Program.</heading>
+          <subsection eId="226-458__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Student Loan Repayment for
+Providers of Health Care in Underserved Communities Program is hereby created
+to repay the student education loans of providers of health care who are
+eligible for the Program pursuant toNRS
+226.460and226.462and any
+regulations adopted pursuant thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-458__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Treasurer shall administer
+the Program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-458__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In administering the Program, the State
+Treasurer shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-458__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Ensure that persons who receive repayment of
+student education loans are committed to providing health care services in an
+underserved community in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-458__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Ensure that at least 15 percent of money
+available for the Program in any year be used to repay the student education
+loans of providers of health care who commit to practicing in a county whose
+population is less than 100,000, to the extent that such providers are
+participating in the Program;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-458__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>With regard to money available for the
+Program other than money used for the purpose described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-458__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>, prioritize
+the repayment of student education loans for providers of primary care,
+providers of health care who commit to accepting as patients recipients of
+Medicaid or insurance pursuant to the Childrenï¿½s Health Insurance Program and
+other providers of health care specified by the regulations adopted by the
+State Treasurer pursuant toNRS 226.462;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-458__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Work collaboratively to raise awareness about
+the Program with organizations that work with providers of health care and
+students studying to become providers of health care, including, without
+limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="226-458__subsec_3__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Educational institutions in this
+State, including, without limitation, institutions in the Nevada System of
+Higher Education;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-458__subsec_3__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Organizations that represent medical
+students and other students studying to become providers of health care;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-458__subsec_3__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Organizations that represent providers
+of health care;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-458__subsec_3__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Tribal governments; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-458__subsec_3__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Organizations who advocate for
+improved health outcomes in minority communities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-458__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½primary careï¿½
+means the practice of family medicine, pediatrics, internal medicine,
+psychiatry or obstetrics and gynecology.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+1767)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-460">
+          <num>226.460</num>
+          <heading>Eligibility of provider for repayment of student education loan.</heading>
+          <subsection eId="226-460__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Is a current resident of this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-460__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Is actively licensed, certified or
+registered in good standing to practice in this State as a provider of health
+care; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-460__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Commits to at least 5 years of clinical
+practice as a licensed, certified or registered provider of health care in this
+State:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-460__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In a census tract which, upon commencement of
+such clinical practice, is designated as a qualified census tract by the United
+States Secretary of Housing and Urban Development pursuant to 26 U.S.C. ï¿½
+42</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-460__subsec_3__subsec_d">
+              <num>(d)</num>
+              <subparagraph eId="226-460__subsec_3__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>(B)(ii);
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="226-460__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In a census tract which, upon commencement of
+such clinical practice, has a high level of social vulnerability as determined
+according to the Social Vulnerability Index developed by the Centers for
+Disease Control and Prevention of the United States Department of Health and
+Human Services;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-460__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In a community in which, according to the
+decennial census immediately preceding the commencement of such clinical
+practice, at least 20 percent of households were not proficient in the English
+language;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-460__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>On tribal lands or in a community where
+tribal members commonly reside;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-460__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In a geographic area that has been subject to
+historical instances of redlining, segregation or other discriminatory
+practices on the basis of race, color, religion, national origin, disability,
+sexual orientation, sex or gender identity or expression, as determined by the
+State Treasurer in accordance with the regulations adopted pursuant toNRS 226.462; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-460__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>In a county whose population is less than
+100,000.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+1768)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-462">
+          <num>226.462</num>
+          <heading>Application by provider for repayment of student education loan;
+regulations; maximum amount of assistance; confidentiality of information.</heading>
+          <subsection eId="226-462__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A provider of health care who meets the
+qualifications set forth inNRS 226.460and wishes to receive repayment of student education loans from the Program
+must submit an application to the State Treasurer in the form prescribed by the
+State Treasurer and comply with any regulations adopted pursuant to subsection
+2.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-462__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Treasurer:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-462__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Shall adopt regulations prescribing the
+procedures and standards, in addition to those prescribed byNRS 226.460, for determining the
+eligibility of a provider of health care to receive repayment of a student
+education loan from the Program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-462__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Shall adopt regulations establishing a
+methodology for determining the amount of repayment of a student education loan
+that a provider of health care is eligible to receive from the Program. That
+methodology must include, without limitation, a sliding scale that conditions
+the amount a provider of health care should receive from the Program on areas
+of specialization, type of degree and average loan burden for the particular
+field of health care in which the provider practices.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-462__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Shall adopt regulations establishing the:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="226-462__subsec_2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Procedure that the State Treasurer
+will use to carry out the provisions of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="226-462__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 3 ofNRS 226.458; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="226-462__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Manner in which the Program must
+prioritize the repayment of student education loans for the providers of health
+care pursuant to paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="226-462__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 3 ofNRS 226.458.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-462__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Shall adopt regulations prescribing the
+manner in which the State Treasurer will determine whether a geographic area
+meets the requirements of paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-462__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>of subsection 3 ofNRS 226.460.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-462__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Shall adopt regulations prescribing the
+procedures for the repayment of a student education loan of a provider of
+health care who has been found eligible to receive such repayment from the
+Program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-462__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>May adopt any other regulations necessary to
+carry out the Program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-462__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Program may not provide to a
+provider of health care more than $120,000 for the repayment of student
+education loans.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-462__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The application of a provider of health
+care for repayment of a student education loan and any related personally
+identifiable information of the applicant is confidential.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+1769)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-464">
+          <num>226.464</num>
+          <heading>Employment of staff by State Treasurer; posting of information
+about Program.</heading>
+          <subsection eId="226-464__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>May employ such staff as the State
+Treasurer deems necessary to administer the Program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-464__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Shall post information about the
+Program, including, without limitation, the requirements to be eligible to
+receive repayment of student education loans from the Program and the procedure
+to apply for such repayment, on an Internet website maintained by the State
+Treasurer.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+1769)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-466">
+          <num>226.466</num>
+          <heading>Account for Student Loan Repayment for Providers of Health Care
+in Underserved Communities: Creation; administration; sources and uses of
+money; interest and income; gifts, donations, bequests and grants.</heading>
+          <subsection eId="226-466__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Account for Student Loan Repayment
+for Providers of Health Care in Underserved Communities is hereby created in
+the State General Fund. The State Treasurer shall administer the Account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-466__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Money for the Account may be provided:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-466__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>By direct legislative appropriation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-466__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>By transfer from another account, including,
+without limitation, the Abandoned Property Trust Account created byNRS 120A.620; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-466__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>As provided in subsection 5.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-466__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Money in the Account must be used
+solely:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-466__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To administer the Account and the Program;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-466__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To repay the student education loans of
+providers of health care who have qualified for such repayment pursuant toNRS 226.460and226.462.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-466__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The interest and income earned on the
+money in the Account, after deducting any applicable charges, must be credited
+to the Account. Any money remaining in the Account at the end of a fiscal year
+does not revert to the State General Fund, and the balance in the Account must
+be carried forward to the next fiscal year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-466__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The State Treasurer may apply for and
+accept any gift, donation, bequest, grant or other source of money for the
+purpose of administering the Program and repaying the student education loans
+of providers of health care who have qualified for repayment of student
+education loans pursuant toNRS 226.460and226.462. The State Treasurer shall
+deposit any money so received into the Account.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+1770)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-500">
+          <num>226.500</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 226.500to226.590, inclusive, unless the context
+otherwise requires, the words and terms defined inNRS 226.510to226.550, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+2505; A2023,
+2876)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-510">
+          <num>226.510</num>
+          <heading>ï¿½Student education loanï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Student
+education loanï¿½ means any loan primarily for personal use to finance education
+or other school-related expenses.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+2505)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-520">
+          <num>226.520</num>
+          <heading>ï¿½Student loan borrowerï¿½ defined.</heading>
+          <subsection eId="226-520__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any resident of this State who receives
+or agrees to pay a student education loan; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-520__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any person who shares responsibility
+with such a resident for repaying the student education loan.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+2505)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-530">
+          <num>226.530</num>
+          <heading>ï¿½Student Loan Ombudsmanï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Student
+Loan Ombudsmanï¿½ means the Student Loan Ombudsman designated by the State
+Treasurer pursuant toNRS 226.560.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+2505)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-540">
+          <num>226.540</num>
+          <heading>ï¿½Student loan servicerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Student
+loan servicerï¿½ means any person, wherever located, responsible for the
+servicing of any student education loan to any student loan borrower.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+2505)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-550">
+          <num>226.550</num>
+          <heading>ï¿½Student loan servicingï¿½ or ï¿½servicingï¿½ defined.</heading>
+          <subsection eId="226-550__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Receiving any scheduled periodic payments
+from a student loan borrower pursuant to the terms of a student education loan
+or any notification that a student loan borrower made such a scheduled periodic
+payment and applying the payments to the account of a student loan borrower, as
+may be required pursuant to the terms of a student education loan or a contract
+governing the servicing of a student education loan;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-550__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>During a period in which no payment is
+required on a student education loan, maintaining account records for a student
+education loan and communicating with the student loan borrower on behalf of
+the owner of the promissory note for the student education loan; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-550__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Interacting with a student loan
+borrower concerning a student education loan with the goal of helping the
+student loan borrower avoid default on the student education loan or
+facilitating the activities described in subsection 1 or 2.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+2505)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-560">
+          <num>226.560</num>
+          <heading>Designation.</heading>
+          <subsection eId="226-560__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Provide timely assistance to any
+student loan borrower of any student education loan; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-560__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Carry out the duties as set forth inNRS 226.500to226.580, inclusive.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+2505)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-570">
+          <num>226.570</num>
+          <heading>Duties.</heading>
+          <subsection eId="226-570__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Receive, review and attempt to resolve
+any complaint from a student loan borrower, including, without limitation,
+attempting to resolve such a complaint in collaboration with an institution of
+higher education, a student loan servicer and any other person who participates
+in providing a student education loan.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-570__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Compile and analyze data on complaints
+as described in subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-570__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Assist student loan borrowers to
+understand their rights and responsibilities under the terms of student
+education loans.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-570__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Provide information to the public,
+governmental agencies and the Legislature regarding the problems and concerns
+of student loan borrowers and make recommendations for resolving those problems
+and concerns.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-570__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Analyze and monitor the development and
+implementation of federal, state and local laws, regulations and policies
+relating to student loan borrowers and recommend any changes the Student Loan
+Ombudsman deems necessary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-570__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Review the complete history of any
+student education loan for any student loan borrower who has provided written
+consent for such a review.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-570__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Disseminate information concerning the
+availability of the Student Loan Ombudsman to assist student loan borrowers,
+potential student loan borrowers, institutions of higher education, student
+loan servicers and any other persons who participate in providing a student
+education loan, with any concerns relating to student loan servicing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-570__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Assist student loan borrowers who are
+pursuing degrees in a health-related field to become aware of, qualify for and
+apply for the Student Loan Repayment for Providers of Health Care in
+Underserved Communities Program created byNRS
+226.458.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-570__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>Take any other actions necessary to
+fulfill the duties of the Student Loan Ombudsman as set forth in this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+2505; A2023,
+1770)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-575">
+          <num>226.575</num>
+          <heading>Complaints to be made available to Attorney General; agreement
+for sharing of information.</heading>
+          <subsection eId="226-575__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Student Loan Ombudsman shall make
+all complaints received pursuant toNRS
+226.570available to the Office of the Attorney General.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-575__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Student Loan Ombudsman and the
+Attorney General shall enter into an information-sharing agreement for the
+sharing of complaints between offices.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2876)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-580">
+          <num>226.580</num>
+          <heading>Establishment of course regarding student education loans.</heading>
+          <content>
+            <p>The Student Loan Ombudsman shall establish and
+maintain an education course for student loan borrowers which provides
+educational presentations and materials regarding student education loans. The
+educational course must include, without limitation, information concerning
+important loan terms, documentation requirements, monthly payment obligations,
+income-based repayment options, loan forgiveness and disclosure requirements.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+2506)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-590">
+          <num>226.590</num>
+          <heading>Biennial report to Legislature.</heading>
+          <subsection eId="226-590__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The implementation ofNRS 226.500to226.590, inclusive; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-590__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The overall effectiveness of the Student
+Loan Ombudsman.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+2506)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-600">
+          <num>226.600</num>
+          <heading>Establishment; deposit of money received from participants in
+program; willful violation constitutes deceptive trade practice; regulations.</heading>
+          <subsection eId="226-600__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To the extent consistent with federal
+law, the State Treasurer shall establish, by regulation, a program that enables
+a provider of broadband or commercial mobile radio service to participate in a
+voluntary contribution program for broadband infrastructure that enables a
+customer of the provider to opt in and make voluntary monetary contributions as
+part of the customerï¿½s monthly bill to fund a program of infrastructure grants
+for broadband deployment. The regulations must establish, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-600__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Procedures to enable a provider of broadband
+or commercial mobile radio service to elect to participate in the program;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-600__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The manner in which a participating provider
+must give notice to its customers about the program;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-600__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Procedures to enable a customer of a
+participating provider to opt in to the program and make contributions to the
+program; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-600__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The manner in which a participating provider
+must collect and account for contributions to the program made by participating
+customers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-600__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Treasurer shall deposit money
+collected from participating providers in the program established pursuant to
+subsection 1 in the Account for the Grant Program for Broadband Infrastructure
+created byNRS 223.660.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-600__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A willful violation by a participant in
+the program of any regulation adopted pursuant to subsection 1 constitutes a
+deceptive trade practice for purposes ofNRS
+598.0903to598.0999, inclusive.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3450)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-700">
+          <num>226.700</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As used
+inNRS 226.700to226.832, inclusive, unless the context
+otherwise requires, the words and terms defined inNRS 226.703to226.775, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4125; A2021,
+3810,3816;2023,
+2827)—(Substituted in revision for NRS 408.55048)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-703">
+          <num>226.703</num>
+          <heading>ï¿½Bankï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Bankï¿½
+means the Nevada State Infrastructure Bank.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4125; A2021,
+3816)—(Substituted in revision for NRS 408.55049)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-706">
+          <num>226.706</num>
+          <heading>ï¿½Board of Directorsï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Board
+of Directorsï¿½ means the Board of Directors of the Bank.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4125; A2021,
+3816)—(Substituted in revision for NRS 408.55051)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-709">
+          <num>226.709</num>
+          <heading>ï¿½Digital infrastructureï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Digital
+infrastructureï¿½ means any infrastructure which allows for the use of data,
+computerized devices, methods, systems and processes that are designed to
+enhance broadband connectivity or facilitate the development of new or existing
+technologies.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3810)—(Substituted in revision for NRS 408.550515)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-712">
+          <num>226.712</num>
+          <heading>ï¿½Eligible costsï¿½ defined.</heading>
+          <subsection eId="226-712__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Applying for and obtaining financial
+assistance from the Bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-712__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Preliminary engineering, traffic and
+revenue studies, environmental studies, right-of-way acquisition, legal and
+financial services associated with the development of the qualified project, construction,
+construction management, facilities, sustainability certification and other
+costs necessary for the qualified project to the extent such costs are an
+authorized use of the money obtained to capitalize the Bank.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4125; A2021,
+3811,3816)—(Substituted
+in revision for NRS 408.55052)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-715">
+          <num>226.715</num>
+          <heading>ï¿½Eligible projectï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Eligible
+projectï¿½ means the development, construction, repair, improvement, operation,
+maintenance, decommissioning or ownership of a transportation facility, utility
+infrastructure, water and wastewater infrastructure, renewable energy
+infrastructure, recycling and sustainability infrastructure, digital
+infrastructure, K-12 school facility, social infrastructure and other
+infrastructure related to economic development.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4126; A2021,
+3811,3816;2023,
+2827)—(Substituted in revision for NRS 408.55053)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-718">
+          <num>226.718</num>
+          <heading>ï¿½Executive Directorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Executive
+Directorï¿½ means the Executive Director of the Bank.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4126; A2021,
+3816)—(Substituted in revision for NRS 408.55054)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-721">
+          <num>226.721</num>
+          <heading>ï¿½Federal accountsï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Federal
+accountsï¿½ means any accounts established pursuant toNRS 226.787which are necessary to hold
+money from federal sources.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4126; A2021,
+3811,3816)—(Substituted
+in revision for NRS 408.55055)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-724">
+          <num>226.724</num>
+          <heading>ï¿½Financing agreementï¿½ defined.</heading>
+          <subsection eId="226-724__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Financing agreementï¿½ means any
+agreement entered into between the Bank and a qualified borrower pertaining to
+a loan or other financial assistance for a qualified project, which may or may
+not include nonfinancial provisions relating to the qualified project,
+including, without limitation, terms and conditions relating to the regulation
+and supervision of the qualified project.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-724__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term includes, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-724__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A loan agreement;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-724__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A trust indenture;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-724__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A security agreement;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-724__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A reimbursement agreement;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-724__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A guarantee agreement;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-724__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A bond or note; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-724__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>An ordinance or a resolution or similar
+instrument.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4126; A2021,
+3816)—(Substituted in revision for NRS 408.55056)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-727">
+          <num>226.727</num>
+          <heading>ï¿½Governmental unitï¿½ defined.</heading>
+          <subsection eId="226-727__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State of Nevada, including, without
+limitation, any board, commission, agency, department, division or
+instrumentality thereof;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-727__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A political subdivision of the State of
+Nevada, including, without limitation, a county, city, town, school district,
+general or local improvement district or a combination of two or more of those
+entities acting jointly, including, without limitation, as a regional
+transportation commission as defined inNRS
+482.1825; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-727__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A utility.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4126; A2021,
+3816)—(Substituted in revision for NRS 408.55057)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-730">
+          <num>226.730</num>
+          <heading>K-12 school facilityï¿½ defined.</heading>
+          <content>
+            <p>ï¿½K-12
+school facilityï¿½ means buildings and related assets, in a county whose
+population is less than 100,000, that are used primarily for educational
+instruction of pupils in kindergarten or in any grades 1 to 12, inclusive, and
+activities that directly support instruction. The term does not include
+facilities that are not used for educational instruction, including, without
+limitation, stand-alone athletic facilities, auditoriums and administrative
+buildings.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2824)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-733">
+          <num>226.733</num>
+          <heading>ï¿½Loanï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Loanï¿½
+means any form of direct financial assistance that is provided by the Bank to a
+qualified borrower to defray all or part of the anticipated or actual costs of
+a qualified project and is required to be repaid by the borrower over a period
+of time.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4126; A2021,
+3816)—(Substituted in revision for NRS 408.55058)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-736">
+          <num>226.736</num>
+          <heading>ï¿½Loan obligationï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Loan
+obligationï¿½ means a bond, note or other evidence of a qualified borrowerï¿½s
+obligation to repay a loan given by the Bank.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4126; A2021,
+3816)—(Substituted in revision for NRS 408.55059)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-739">
+          <num>226.739</num>
+          <heading>ï¿½Other financial assistanceï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Other
+financial assistanceï¿½ means any use of money by the Bank for the benefit of a
+qualified borrower, including, without limitation, a grant, contribution,
+credit enhancement, capital or debt reserve for bonds or other debt instrument
+financing, an interest rate subsidy, letter of credit or other credit
+instrument, security for a bond or other debt financing instrument and other
+lawful forms of financing and methods of leveraging funds that are approved by
+the Board of Directors and, in the case of money made available to the State by
+the Federal Government, as allowed by applicable federal law.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4127; A2021,
+3816)—(Substituted in revision for NRS 408.55061)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-742">
+          <num>226.742</num>
+          <heading>ï¿½Other infrastructure related to economic developmentï¿½ defined.</heading>
+          <subsection eId="226-742__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Supports a public purpose while
+promoting economic development for a local, regional or state purpose; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-742__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Is not a transportation facility,
+utility infrastructure, water and wastewater infrastructure, renewable energy
+infrastructure, recycling and sustainability infrastructure, digital
+infrastructure, K-12 school facility or social infrastructure.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3810; A2023,
+2827)—(Substituted in revision for NRS 408.550615)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-745">
+          <num>226.745</num>
+          <heading>ï¿½Project revenueï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Project
+revenueï¿½ means any rate, rent, fee, assessment related specifically to the
+project, charge or other receipt derived or to be derived by a qualified
+borrower from a qualified project and, if so provided in the applicable
+financing agreement, derived from any system of which the qualified project is
+a part or from any other revenue producing facility under the ownership or
+control of the qualified borrower, including, without limitation, the proceeds
+of a grant, gift, appropriation or loan, including, without limitation, the
+proceeds of a loan made by the Bank, investment earnings, payments to a reserve
+for capital or current expenses, proceeds of insurance or condemnation and
+proceeds from the sale or other disposition of property.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4127; A2021,
+3816)—(Substituted in revision for NRS 408.55062)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-748">
+          <num>226.748</num>
+          <heading>ï¿½Qualified borrowerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Qualified
+borrowerï¿½ means a governmental unit, an Indian reservation or Indian colony or
+a private nonprofit entity created for charitable or educational purposes.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4127; A2021,
+3812,3816)—(Substituted
+in revision for NRS 408.55063)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-751">
+          <num>226.751</num>
+          <heading>ï¿½Qualified projectï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Qualified
+projectï¿½ means an eligible project that has been selected by the Bank to
+receive a loan or other financial assistance.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4127; A2021,
+3816)—(Substituted in revision for NRS 408.55064)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-754">
+          <num>226.754</num>
+          <heading>ï¿½Recycling and sustainability infrastructureï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Recycling and sustainability infrastructureï¿½
+means any infrastructure which allows for the processing, storage or transfer
+of recyclable materials as defined inNRS
+444A.013.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3810)—(Substituted in revision for NRS 408.550643)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-757">
+          <num>226.757</num>
+          <heading>ï¿½Renewable energy infrastructureï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Renewable energy infrastructureï¿½ means any
+infrastructure which allows for the generation, storage or use of renewable
+energy as defined inNRS 701.070.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3810)—(Substituted in revision for NRS 408.550645)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-760">
+          <num>226.760</num>
+          <heading>ï¿½Social infrastructureï¿½ defined.</heading>
+          <subsection eId="226-760__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Is used or useful for the construction,
+development and maintenance of facilities and systems that support social
+services, including, without limitation, those services related to health care,
+education, affordable housing, workforce housing, homelessness and food
+security; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-760__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Augments existing services, including,
+without limitation, the services provided pursuant tochapters 319and387of NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3810; A2023,
+2828)—(Substituted in revision for NRS 408.550647)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-763">
+          <num>226.763</num>
+          <heading>ï¿½State and local accountsï¿½ defined.</heading>
+          <content>
+            <p>ï¿½State
+and local accountsï¿½ means any accounts established pursuant toNRS 226.787which are necessary to hold
+money from state and local governments or contributions made from any other
+source, except for federal sources.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4127; A2021,
+3812,3816)—(Substituted
+in revision for NRS 408.55065)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-766">
+          <num>226.766</num>
+          <heading>ï¿½Transportation facilityï¿½ defined.</heading>
+          <subsection eId="226-766__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A road, railroad, bridge, tunnel, overpass,
+airport, mass transit, light or commuter rail, conduit, ferry, boat, vessel,
+parking facility, intermodal or multimodal system or any other mode of
+transport, including, without limitation, those utilizing autonomous
+technology, and any rights of way necessary for any eligible transportation
+facility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-766__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Related or ancillary to, or used or
+useful to provide, operate, maintain or generate revenue for, a facility
+described in subsection 1, including, without limitation, administrative
+buildings and other buildings, structures, rest areas, maintenance yards, rail
+yards, ports of entry or storage facilities, vehicles, rolling stock, energy
+systems, control, communications and information systems, parking facilities
+and similar commercial facilities used for the support of or the transportation
+of persons, information or goods or other related equipment, items or property,
+including, without limitation, any other property that is needed to operate the
+facility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-766__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>All improvements, including equipment necessary
+to the full utilization of a transportation facility, including, without
+limitation, site preparation, roads and streets, sidewalks, water supply,
+outdoor lighting, belt line railroad sidings and lead tracks, bridges,
+causeways, terminals for railroad, automotive and air transportation and
+transportation facilities incidental to the project.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4127; A2021,
+3816)—(Substituted in revision for NRS 408.55066)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-769">
+          <num>226.769</num>
+          <heading>ï¿½Utilityï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Utilityï¿½
+has the meaning ascribed to it inNRS
+408.407.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4128; A2021,
+3816)—(Substituted in revision for NRS 408.55067)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-772">
+          <num>226.772</num>
+          <heading>ï¿½Utility infrastructureï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Utility
+infrastructureï¿½ means any infrastructure of a utility that is installed in any
+city or county that improves or expands the system of the utility.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4128; A2021,
+3812,3816)—(Substituted
+in revision for NRS 408.55068)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-775">
+          <num>226.775</num>
+          <heading>ï¿½Water and wastewater infrastructureï¿½ defined.</heading>
+          <subsection eId="226-775__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Relates to water, including, without
+limitation, clean water, drinking water, wastewater, energy efficiency projects
+at drinking water and wastewater facilities, brackish or seawater desalination,
+aquifer recharge, alternative water supply, water recycling and drought
+mitigation projects; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-775__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Augments the existing programs created
+pursuant tochapter 445Aof NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3810)—(Substituted in revision for NRS 408.550685)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-778">
+          <num>226.778</num>
+          <heading>Nevada State Infrastructure Bank: Creation; purpose; Board of
+Directors; meetings; quorum; compensation of members.</heading>
+          <subsection eId="226-778__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Nevada State Infrastructure Bank is
+hereby created within the Office of the State Treasurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-778__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The purpose of the Bank is to provide
+loans and other financial assistance to qualified borrowers for the development,
+construction, repair, improvement, operation, maintenance, decommissioning and
+ownership of transportation facilities, utility infrastructure, water and
+wastewater infrastructure, renewable energy infrastructure, recycling and
+sustainability infrastructure, digital infrastructure, K-12 school facilities,
+social infrastructure and other infrastructure related to economic development
+as necessary for public purposes.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-778__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Bank is administered by and
+operates under the direction of a Board of Directors consisting of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-778__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The State Treasurer or his or her designee,
+who shall serve as Chair of the Board of Directors;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-778__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Director of the Department of Business
+and Industry or his or her designee;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-778__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Executive Director of the Office of
+Economic Development or his or her designee;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-778__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The following members appointed by the
+Majority Leader of the Senate:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="226-778__subsec_3__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>One member who has knowledge, skill
+and experience relating to the housing or the hospitality industry; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-778__subsec_3__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>One member who represents the
+interests of organized labor within the building trades;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="226-778__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The following members appointed by the
+Speaker of the Assembly:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="226-778__subsec_3__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>One member who has knowledge, skill
+and experience in banking; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-778__subsec_3__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>One member who represents the
+interests of Native Americans, selected after consulting with Indian tribes and
+tribal organizations; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="226-778__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Two members who represent the general public,
+at least one of whom must reside in a county whose population is less than
+100,000, appointed by the Governor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-778__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Each member of the Board of Directors
+who is appointed pursuant to subsection 3 serves at the pleasure of the
+appointing authority. A person must not be appointed to the Board of Directors
+if he or she is currently serving as a Legislator.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-778__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A vacancy on the Board of Directors in
+an appointed position must be filled by the appointing authority in the same
+manner as the original appointment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-778__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Board of Directors shall elect
+annually from among its members a Vice Chair.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-778__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Five members of the Board of Directors
+constitute a quorum for the transaction of business, and the affirmative vote
+of at least five members of the Board of Directors is required to take action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-778__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>The members of the Board of Directors
+are public officers and are subject to all applicable provisions of law,
+including, without limitation, the provisions ofchapter
+281Aof NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-778__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>A meeting of the Board of Directors
+must be conducted in accordance with the provisions ofchapter 241of NRS, except that the Board of
+Directors may hold a closed meeting or close a portion of a meeting to receive,
+examine or consider information which the Bank is required to keep confidential
+pursuant toNRS 226.796.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-778__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>Each member of the Board of Directors
+who is not otherwise an officer or employee of this State is entitled:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-778__subsec_10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To receive $100 for each full day of
+attending a meeting of the Board of Directors; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-778__subsec_10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>While engaged in the business of the Board of
+Directors, to receive the per diem allowance and travel expenses provided for
+state officers and employees generally. The per diem allowance and travel
+expenses provided to a member of the Board of Directors who is an officer or
+employee of this State or a political subdivision of this State must be paid by
+the state agency or political subdivision that employs him or her.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-778__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>A member of the Board of Directors who
+is an officer or employee of this State or a political subdivision of this
+State must be relieved from his or her duties without loss of regular
+compensation so that he or she may prepare for and attend meetings of the Board
+of Directors and perform any work necessary to carry out the duties of the
+Board of Directors in the most timely manner practicable. A state agency or
+political subdivision of this State shall not require an officer or employee
+who is a member of the Board of Directors to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-778__subsec_11__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Make up the time the member is absent from
+work to carry out his or her duties as a member of the Board of Directors; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-778__subsec_11__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Take annual leave or compensatory time for
+the absence.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4128; A2021,
+3812,3816;2023,
+2828)—(Substituted in revision for NRS 408.55069)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-781">
+          <num>226.781</num>
+          <heading>Board of Directors: Powers; duties; limitations on conduct of
+Bank.</heading>
+          <subsection eId="226-781__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board of Directors may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-781__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Make, and from time to time amend and repeal,
+bylaws not inconsistent withNRS 226.700to226.832, inclusive, to carry into
+effect the powers and purposes ofNRS
+226.700to226.832, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Sue and be sued in the name of the Bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Have a seal and alter the same at the
+pleasure of the Board of Directors, but the failure to affix the seal does not
+affect the validity of an instrument executed on behalf of the Bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Make loans to qualified borrowers to finance
+all or part of the eligible costs of a qualified project.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Provide qualified borrowers with other
+financial assistance necessary to defray all or part of the eligible costs of a
+qualified project.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Acquire, hold and sell loan obligations at
+such prices and in such a manner as the Board of Directors deems advisable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Enter into contracts, arrangements and
+agreements with qualified borrowers and other persons and execute and deliver
+all financing agreements and other instruments necessary or convenient to carry
+out the powers and duties of the Board of Directors.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Enter into agreements with a department,
+agency or instrumentality of the United States or governmental unit of this
+State or another state for the purpose of providing for the financing of
+qualified projects.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Establish:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="226-781__subsec_1__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Policies and procedures to govern the
+selection of qualified projects and the issuance and administration of loans
+and other financial assistance provided by the Bank; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-781__subsec_1__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Fiscal controls and accounting
+procedures to ensure proper accounting and reporting by the Bank and qualified
+borrowers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>Acquire, by purchase, lease, donation or
+other lawful means, real or personal property and any interest therein.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>Sell, convey, pledge, lease, exchange,
+transfer and dispose of all or any part of the property and assets of the Bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>Procure insurance, guarantees, letters of
+credit and other forms of collateral or security or credit support for the
+payment of bonds or other securities issued by the Bank and the payment of
+premiums or fees on such insurance, guarantees, letters of credit and other
+forms of collateral or security or credit support.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>Collect or authorize the trustee under any
+trust indenture that secures any bonds or other securities issued by the Bank
+to collect amounts due from a qualified borrower under any loan obligation
+owned by the Bank, including, without limitation, taking any lawful action
+required to obtain payment of any sums in default.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>Unless restricted by the terms of an
+agreement with the holders of bonds or other securities issued by the Bank,
+consent to any modification of the terms of any loan obligations owned by the
+Bank, including, without limitation, the rate of interest, period of repayment
+and payment of any installment of principal or interest.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_o">
+              <num>(o)</num>
+              <content>
+                <p>Borrow money through the issuance of bonds
+and other securities as provided inNRS
+226.700to226.832, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_p">
+              <num>(p)</num>
+              <content>
+                <p>Incur expenses to obtain accounting,
+management, legal or financial consulting and other professional services
+necessary to the operations of the Bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_q">
+              <num>(q)</num>
+              <content>
+                <p>To the extent that money is available from
+public or private sources of administrative costs, pay any costs incurred for
+the administration of the operations of the Bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_r">
+              <num>(r)</num>
+              <content>
+                <p>Establish advisory committees, which may
+include persons from the private sector with civil engineering, banking and
+financial expertise.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_s">
+              <num>(s)</num>
+              <content>
+                <p>Procure insurance against losses in
+connection with the Bankï¿½s property, assets or activities, including, without
+limitation, insurance against liability for any act of the Bank or its
+employees or agents, or establish cash reserves to enable the Bank to act as a
+self-insurer against such losses.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_t">
+              <num>(t)</num>
+              <content>
+                <p>Impose and collect fees and charges in
+connection with the activities of the Bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_u">
+              <num>(u)</num>
+              <content>
+                <p>Apply for, receive and accept from any source
+aid grants or contributions of money, property, labor or other things of value
+to be used to carry out the statutory purposes and powers of the Bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>Enter into contracts, arrangements or
+agreements for the servicing and processing of financial agreements.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_w">
+              <num>(w)</num>
+              <content>
+                <p>Accept and hold, with payment of interest,
+money deposited with the Bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_x">
+              <num>(x)</num>
+              <content>
+                <p>Request technical advice, support and
+assistance pursuant toNRS 226.832.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_1__subsec_y">
+              <num>(y)</num>
+              <content>
+                <p>Do all other things necessary or convenient
+to exercise any power granted or reasonably implied byNRS 226.700to226.832, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-781__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 226.700to226.832, inclusive, the Bank may exercise
+any fiscal power granted to the Bank inNRS
+226.700to226.832, inclusive,
+without the review or approval of any other department, division or agency of
+the State or any political subdivision thereof, except for the Board of
+Directors.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-781__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In exercising the powers and performing
+the functions set forth inNRS 226.700to226.832, inclusive, the members of
+the Board of Directors:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-781__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Must act in a commercially reasonable manner
+and in the interests of this State. For the purposes of this paragraph, the
+interests of this State include, without limitation, the public welfare and
+economy of this State and the long-term and short-term interests of this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May, unless a member of the Board of
+Directors has knowledge concerning a matter in question that would cause
+reliance thereon to be unwarranted, rely on information, opinions, reports,
+books of account or statements, including, without limitation, financial
+statements and other financial data, that are prepared or presented by:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="226-781__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>One or more members of the Board of
+Directors or officers or employees of the Bank reasonably believed to be
+reliable and competent in the matters prepared or presented;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-781__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Counsel, public accountants, financial
+advisers, valuation advisers, investment bankers, engineers, architects or
+other persons as to matters reasonably believed to be within the professional
+or expert competence of the preparer or presenter; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-781__subsec_3__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>A committee on which the director or officer
+relying thereon does not serve, as to matters within the designated authority
+of the committee and matters on which the committee is reasonably believed to
+merit confidence.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-781__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>This section does not authorize the
+Bank to be or conduct business as a:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-781__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Bank or trust company within the jurisdiction
+ofchapters 657to671,
+inclusive, of NRS or under the control of an agency of the United States or
+this State; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-781__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Bank, banker or dealer in securities within
+the meaning of, or subject to the provisions of, any securities, securities
+exchange or securities dealersï¿½ laws of the United States or of this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-781__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Bank must, before accepting a
+deposit from any person or governmental unit, provide a notice to the depositor
+stating that the deposit is not insured by the Federal Deposit Insurance
+Corporation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-781__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The provisions of titles 55 and 57 of
+NRS do not apply to the Bank.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4129; A2021,
+3816;2023,
+2829)—(Substituted in revision for NRS 408.55071)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-784">
+          <num>226.784</num>
+          <heading>Executive Director: Appointed by Governor; duties; powers;
+compensation.</heading>
+          <subsection eId="226-784__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Governor shall, to the extent that
+money is available from public or private sources for administrative costs,
+appoint an Executive Director of the Bank. The Executive Director is in the
+unclassified service of the State and serves at the pleasure of the Governor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-784__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Executive Director shall
+administer, manage and conduct the business and affairs of the Bank subject to
+the direction of the Board of Directors, any conditions that the Board of
+Directors may from time to time prescribe or as delegated by the Board of
+Directors. Except as otherwise provided in this subsection, the Executive
+Director may exercise any power, function or duty conferred by law on the Bank
+in connection with the administration, management and conduct of the business
+and affairs of the Bank, including, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-784__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Hiring, to the extent that money is available
+from public or private sources for administrative costs, such employees in
+either the classified or unclassified service of the State as are necessary to
+carry out the statutory purposes and powers of the Bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-784__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Entering into contracts concerning
+investments, guarantees or credit enhancements.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-784__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Establishing procedures, guidelines,
+criteria, terms, conditions or other requirements of any contract, bond, loan,
+grant or program in order to carry out the intents and purposes of the Bank in
+authorizing the contract, bond, loan, grant or other program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-784__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Declining to guarantee any risk or to enter
+into any contract.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-784__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Reinsuring any risk or any part of any risk,
+as provided inNRS 226.799.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-784__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Making rules for payments through the Bank
+and determining to whom and through whom the payments are to be made.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-784__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Investing and reinvesting any money belonging
+to the Bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-784__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Entering into any contract or agreement,
+executing any instrument, conducting all business and affairs and performing
+any act necessary or convenient to carrying out the statutory purposes and
+powers of the Bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-784__subsec_2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Executing any instrument or performing any
+act necessary or convenient to carry out his or her duties pursuant toNRS 226.700to226.832, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-784__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Executive Director and any
+employees hired pursuant to this section must be paid by the Bank from money
+allocated to the Bank and appropriated or authorized by the Legislature or the
+Interim Finance Committee.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4131; A2021,
+3816)—(Substituted in revision for NRS 408.55072)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-787">
+          <num>226.787</num>
+          <heading>Nevada State Infrastructure Bank Fund: Creation; administration
+by Board of Directors; establishment of accounts; acceptable deposits;
+compliance with federal laws; requirements for investment of earnings;
+authorized uses for money in Fund.</heading>
+          <subsection eId="226-787__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Nevada State Infrastructure Bank
+Fund is hereby created as an enterprise fund. The Fund is a continuing fund
+without reversion.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-787__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Fund is administered by the Board
+of Directors.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-787__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Board of Directors may establish
+accounts and subaccounts within the Fund and shall ensure that accounting for
+the Fund is performed in accordance with all applicable laws and regulations
+governing the use of funds.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-787__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 7, all money received by the Bank pursuant toNRS 226.700to226.832, inclusive, must be deposited in
+the Fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-787__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Bank may accept for deposit into
+the Fund:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-787__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any money appropriated by the Legislature or
+authorized for allocation by the Interim Finance Committee;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-787__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Federal funds made available to the State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-787__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Gifts, grants, donations and contributions
+from a governmental unit, private entity or any other source;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-787__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Any money paid or credited to the Bank, by
+contract or otherwise, including, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="226-787__subsec_5__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Payment of principal and interest on a
+loan or other financial assistance provided to a qualified borrower by the
+Bank; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-787__subsec_5__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Interest earned from the investment or
+reinvestment of the Bankï¿½s money pursuant toNRS
+226.799;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="226-787__subsec_5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Proceeds from the issuance of bonds or other
+securities pursuant toNRS 226.781; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-787__subsec_5__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Any other lawful source of money that is made
+available to the Bank and is not already dedicated for another purpose.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-787__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Bank shall comply with all
+applicable federal laws governing the use of federal funds, including, without
+limitation, statutes and regulations governing:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-787__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any conditions or limitations on
+expenditures;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-787__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Reporting; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-787__subsec_6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The commingling of federal funds.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-787__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Earnings on balances in any federal
+accounts must be credited and invested in accordance with federal law. Earnings
+on any state and local accounts must be deposited in the Fund to the credit of
+the account that generates the earnings.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-787__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Money in the Fund may be used only:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-787__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the capitalization of the Bank; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-787__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To carry out the statutory purposes and
+powers of the Bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-787__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>A local government may use money from
+any source that is made available to the local government for the purposes of
+developing, constructing, repairing, improving, operating, maintaining,
+decommissioning or owning a transportation facility, utility infrastructure,
+water and wastewater infrastructure, renewable energy infrastructure, recycling
+and sustainability infrastructure, digital infrastructure, K-12 school
+facility, social infrastructure or other infrastructure related to economic
+development or for any other purpose set forth inNRS 226.700to226.832, inclusive, to make a gift, grant,
+donation or contribution to the Bank or to satisfy any obligation owed by the
+local government to the Bank, including, without limitation, payments of
+principal and interest.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4132; A2021,
+3813,3816;2023,
+2832)—(Substituted in revision for NRS 408.55073)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-790">
+          <num>226.790</num>
+          <heading>Loans: Application required; Executive Director to review
+applications; required terms of loans; Bank to determine form and content of
+applications, financing agreements and loan obligations; federal requirements; interest
+free loan to school districts under certain circumstances.</heading>
+          <subsection eId="226-790__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A qualified borrower that wishes to
+obtain a loan or other financial assistance from the Bank to develop,
+construct, repair, improve, operate, maintain, decommission or own an eligible
+project must apply to the Bank in the manner prescribed by the Bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-790__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Executive Director shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-790__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Review each application and determine whether
+the application is for an eligible project; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-790__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>At the request of the Board of Directors, submit
+information to the Board of Directors concerning any eligible project.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-790__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Board of Directors shall, from time
+to time, designate qualified projects from among the eligible projects. The
+Board of Directors may give preference to an eligible project that has
+demonstrated local financial support.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-790__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Bank may provide a loan and other
+financial assistance to a qualified borrower to pay for all or part of the
+eligible costs of a qualified project. The term of the loan or other financial
+assistance may not exceed the anticipated useful life of the qualified project.
+A loan or other financial assistance may be provided in anticipation of
+reimbursement for or direct payment of all or part of the eligible costs of a
+qualified project. For purposes of this subsection, the anticipated useful life
+of a K-12 school facility must not be deemed to be longer than 50 years.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-790__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Bank shall determine the form and
+content of a loan application, financing agreement or loan obligation,
+including, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-790__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The period for repayment and the rate or
+rates of interest on a loan; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-790__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any nonfinancial provisions included in a
+financing statement or loan obligation, including, without limitation, terms
+and conditions relating to the regulation and supervision of a qualified
+project.
+ï¿½Such form
+and content must substantially conform with the documents typically used for
+such transactions.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-790__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The terms and conditions set forth in a
+financing agreement or loan obligation for a loan or other financial assistance
+provided by the Bank using money from a federal account must comply with all
+applicable federal requirements.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-790__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>If a loan is made to a school district,
+the Bank may fix the rate of interest of the loan at 0 percent if the school
+district demonstrates to the Board of Directors that the school district has
+financial constraints that would not allow the school district to repay a loan
+with a rate of interest fixed according to the standards otherwise used by the
+Bank.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4133; A2021,
+3814,3816;2023,
+2833)—(Substituted in revision for NRS 408.55074)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-793">
+          <num>226.793</num>
+          <heading>Qualified borrower: Required entry into financing agreement to
+obtain loan or other financial assistance; authorized uses of loan proceeds.</heading>
+          <subsection eId="226-793__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A qualified borrower that wishes to
+obtain a loan or other financial assistance from the Bank must enter into a
+financing agreement with the Bank and may be required to issue a loan
+obligation to the Bank. Except as otherwise provided by specific statute, a
+qualified borrower entering into a financing agreement with the Bank or issuing
+a loan obligation to the Bank may perform any act, take any action, adopt any
+proceedings and make and carry out any contract or agreement with the Bank as may
+be agreed to by the Bank and the qualified borrower for carrying out the
+purposes contemplated byNRS 226.700to226.832, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-793__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A qualified borrower may, in addition
+to any authorization set forth in this section, use any authorization granted
+by any other statute that allows the qualified borrower to borrow money and
+issue obligations in obtaining a loan or other financial assistance from the
+Bank to the extent determined necessary or useful by the qualified borrower in
+connection with any financing agreement or the issuance, securing or sale of a
+loan obligation to the Bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-793__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A qualified borrower may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-793__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Receive, apply, pledge, assign and grant
+security interests in its project revenues to secure its loan obligations as
+provided inNRS 226.700to226.832, inclusive; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-793__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Impose and collect fees, rates, rents,
+assessments and other charges of general or special application for the
+operation of a qualified project, the system of which the qualified project is
+a part and any other revenue producing facilities from which the qualified
+borrower derives project revenues to meet its loan obligations under a
+financing agreement or to otherwise provide for the development, construction,
+repair, improvement, operation, maintenance, decommissioning or ownership of a
+qualified project.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4133; A2021,
+3816)—(Substituted in revision for NRS 408.55075)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-796">
+          <num>226.796</num>
+          <heading>Confidential information; exceptions.</heading>
+          <subsection eId="226-796__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsections 2 and 3, the Bank shall keep confidential any information that is
+required to be submitted or disclosed to the Bank:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-796__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In an application for a loan or other
+financial assistance and which has not already been made public or is not
+otherwise publicly available, other than:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="226-796__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The amount of the loan or other
+financial assistance being sought;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-796__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The name of each person in any
+submission or disclosure;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-796__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The basis for the loan or other
+financial assistance being sought;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-796__subsec_1__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>The terms or proposed terms of the
+loan or other financial assistance being sought;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-796__subsec_1__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Any information asserted in the
+submission or disclosure that is, or which the Bank asserts to be, necessary or
+relevant to the decision of the Bank to grant or deny the loan or other financial
+assistance; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-796__subsec_1__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>The amount of the loan or other
+financial assistance granted; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="226-796__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Which the Bank is required to keep
+confidential pursuant to federal law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-796__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Bank shall disclose the information
+set forth in subsection 1:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-796__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon the lawful order of a court of competent
+jurisdiction;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-796__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To any person upon the request of the person
+who is the subject of the information;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-796__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Upon the completion of the loan or other
+financial assistance, excluding any proprietary information; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-796__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In the course of the necessary administration
+of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-796__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Bank may disclose the information
+set forth in subsection 1 to an authorized agent of an agency of the United
+States Government, a state, a political subdivision of a state, a foreign government
+or a political subdivision of a foreign government which finances
+infrastructure projects.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-796__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A person seeking an order of a court of
+competent jurisdiction for the disclosure of information described in
+subsection 1 must submit a motion in writing to the court requesting the
+information. At least 10 days before submitting the motion, the person must
+provide notice to the Bank, the Attorney General and all persons who may be
+affected by the disclosure of the information. The notice must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-796__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Include, without limitation, a copy of the
+motion and all documents in support of the motion that are to be filed with the
+court; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-796__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Be delivered in person or by certified mail
+to the last known address of each person to whom notice must be provided.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-796__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-796__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Confidential business informationï¿½ means any
+information relating to the amount or source of any income, profits, losses or
+expenditures of a person, including, without limitation, data relating to cost
+or price submitted to the Bank in support of a proposal. The term does not
+include the amount of a bid or proposal.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-796__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Proprietary informationï¿½ means any trade
+secret or confidential business information that is contained in a proposal
+submitted to the Bank.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2824)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-799">
+          <num>226.799</num>
+          <heading>Bank may provide insurance or reinsurance of loans; duties;
+requirements.</heading>
+          <subsection eId="226-799__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Bank may provide insurance or
+reinsurance of loans or portions thereof, or their debt service, including,
+without limitation, amounts payable as premiums or penalties in the event of
+mandatory or optional prepayment, made to finance a qualified project, and to
+provide insurance or reinsurance or reserves, or portions thereof, or the yield
+therefrom, established to secure bonds or other securities issued to fund those
+loans or reserves.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-799__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Bank may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-799__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Arrange an agreement for insurance or
+reinsurance with a user, mortgagor, lending institution, insurer or any other
+entity authorized to arrange such agreements in this State; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-799__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Enter into an agreement for insurance or
+reinsurance with any insurer authorized to reinsure or insure such risks in
+this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-799__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Bank may fix a rate or rates of
+premium for insurance or reinsurance. The rates are not required to be uniform
+and may reflect any risk and classification of risk that the Bank determines to
+be reasonable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-799__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Bank may exercise any other power
+that is necessary or incidental to insurance, reinsurance and related matters.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-799__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Bank shall make reasonable
+provisions for the security of loans made by the Bank, and any insurance,
+reinsurance and other financing arrangements negotiated by the Bank.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-799__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Any insurance or reinsurance provided
+by the Bank does not constitute a debt or pledge of the faith and credit of the
+State or any subdivision of the State.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4134; A2021,
+3816)—(Substituted in revision for NRS 408.55076)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-802">
+          <num>226.802</num>
+          <heading>Permissible forms of security for issuance of revenue bonds by
+Bank.</heading>
+          <subsection eId="226-802__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A deed of trust on the resources,
+facilities and revenues of one or more qualified projects financed by the Bank;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-802__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A credit enhancement, including,
+without limitation, a letter of credit, bond insurance or surety bond provided
+by a private financial institution; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-802__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Insurance, reinsurance or a guarantee
+provided by the Bank itself.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4135; A2021,
+3816)—(Substituted in revision for NRS 408.55077)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-805">
+          <num>226.805</num>
+          <heading>Obligation to third person by Bank: Limitations; requirements.</heading>
+          <subsection eId="226-805__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any obligation to a third person made
+by the Bank, including, without limitation, a bond or other security issued by
+the Bank pursuant toNRS 226.781and any
+insurance, reinsurance or reserve provided by the Bank pursuant toNRS 226.799:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-805__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Does not constitute a debt, liability or
+obligation of this State or any political subdivision thereof, or a pledge of
+the faith and credit of this State or any political subdivision thereof, but is
+payable solely from the revenues or assets of the Bank; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-805__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Must contain on the face thereof a statement
+to the effect that the Bank is not obligated to pay the obligation or any
+interest thereon except from the revenues or assets, if any, pledged therefor
+and that neither the faith and credit nor the taxing power of this State or any
+political subdivision thereof is pledged to the payment of the principal of or
+the interest on the obligation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-805__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3, this section does not prohibit the Bank from:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-805__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Pledging the full faith and credit of the
+Bank for the satisfaction of any obligation to a third person made by the Bank;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-805__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Issuing a bond guarantee or credit
+enhancement for bonds issued by a qualified borrower.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="226-805__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Notwithstanding any provision inNRS 226.700to226.832, inclusive, to the contrary, the
+Bank shall not act as a surety or guarantor for a private utility or any other
+private company, association or corporation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4135; A2021,
+3816)—(Substituted in revision for NRS 408.55078)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-808">
+          <num>226.808</num>
+          <heading>Failure of qualified borrower to remit full amount due: Notice;
+withholding of money allotted or appropriated to borrower; exceptions.</heading>
+          <subsection eId="226-808__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, if a qualified borrower that has obtained a loan or other financial
+assistance from the Bank fails to remit in full any amount due to the Bank on
+the date on which the amount is due under the terms of any note or other loan
+obligation given to the Bank by the qualified borrower, the Bank shall notify
+the appropriate state agencies or officers, including, without limitation, the
+State Controller, who shall withhold all or a portion of any state money or
+other money administered by the State and its agencies, boards and instrumentalities
+that is allotted or appropriated to the qualified borrower and apply an amount
+necessary to the payment of the amount due.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-808__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>This section does not authorize the
+State or an agency, board or instrumentality thereof, or the State Controller,
+to withhold any money allocated or appropriated to a qualified borrower if to
+do so would violate the terms of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-808__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An appropriation by the Legislature;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-808__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any federal law;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-808__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A contract to which the State is a party;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-808__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A contract to which a governmental unit or
+qualified borrower is a party;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-808__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A judgment of a court that is binding upon
+the State; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-808__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The provisions ofNRS 387.121to387.12468, inclusive, governing
+apportionments and allowances from the State Education Fund.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4135; A2021,
+3816;2023,
+2834)—(Substituted in revision for NRS 408.55079)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-811">
+          <num>226.811</num>
+          <heading>Immunity from civil liability for certain persons.</heading>
+          <content>
+            <p>The Board of Directors and any member thereof,
+and any officer, employee, agent or committee member of the Bank is not liable
+in a civil action for any act performed on behalf of the Bank in good faith and
+within the scope of their duties or the exercise of their authority pursuant toNRS 226.700to226.832, inclusive.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4136; A2021,
+3816;2023,
+2834)—(Substituted in revision for NRS 408.55081)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-814">
+          <num>226.814</num>
+          <heading>Bank not required to provide notice or hearing before performing
+certain acts.</heading>
+          <content>
+            <p>Except as otherwise
+provided inNRS 226.700to226.832, inclusive, and notwithstanding any
+other provision of law, the Bank is not required to provide any notice or publication
+or to conduct any hearing or other proceeding before performing any act
+authorized inNRS 226.700to226.832, inclusive.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4136; A2021,
+3816)—(Substituted in revision for NRS 408.55082)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-817">
+          <num>226.817</num>
+          <heading>Bank exempt from taxation.</heading>
+          <content>
+            <p>The
+Bank is an instrumentality of this State, and its property and income are
+exempt from all taxation by this State and any political subdivision thereof.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4136; A2021,
+3816)—(Substituted in revision for NRS 408.55083)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-820">
+          <num>226.820</num>
+          <heading>Bonds and other securities issued by Bank exempt from taxation.</heading>
+          <subsection eId="226-820__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, bonds and other securities issued by the Bank pursuant to the
+provisions ofNRS 226.700to226.832, inclusive, their transfer and the
+income therefrom must forever be and remain free and exempt from taxation by
+this State or any subdivision thereof.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-820__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of subsection 1 do not
+apply to the tax on estates imposed pursuant to the provisions ofchapter 375Aof NRS or the tax on
+generation-skipping transfers imposed pursuant to the provisions ofchapter 375Bof NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4136; A2021,
+3816)—(Substituted in revision for NRS 408.55084)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-823">
+          <num>226.823</num>
+          <heading>Qualified borrower retains right to issue bonds.</heading>
+          <content>
+            <p>Notwithstanding any provision inNRS 226.700to226.832, inclusive, to the contrary,NRS 226.700to226.832, inclusive, are supplemental to,
+and not in lieu of, the right of any qualified borrower to issue general
+obligation bonds or other bonds that the qualified borrower is otherwise
+lawfully authorized to issue.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4136; A2021,
+3816)—(Substituted in revision for NRS 408.55085)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-826">
+          <num>226.826</num>
+          <heading>Relation to other law.</heading>
+          <subsection eId="226-826__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To the extent possible, the provisions
+ofNRS 226.700to226.832, inclusive, are intended to
+supplement other statutory provisions governing the development, construction,
+repair, improvement, maintenance, decommissioning, operation and ownership of
+transportation facilities, utility infrastructure, water and wastewater
+infrastructure, renewable energy infrastructure, recycling and sustainability
+infrastructure, digital infrastructure, K-12 school facilities, social
+infrastructure or other infrastructure related to economic development and the
+issuance of bonds and other securities by this State or a political subdivision
+thereof, and such other provisions must be given effect to the extent that
+those provisions do not conflict with the provisions ofNRS 226.700to226.832, inclusive. If there is a conflict
+between such other provisions and the provisions ofNRS 226.700to226.832, inclusive, the provisions ofNRS 226.700to226.832, inclusive, control.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-826__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions ofNRS 338.013to338.090, inclusive, apply to any contract
+for construction work on a qualified project if all or part of the costs of the
+qualified project are paid for using a loan or other financial assistance from
+the Bank. The Bank, the qualified borrower, any contractor who is awarded a
+contract or enters into an agreement to perform construction work on the
+qualified project, and any subcontractor who performs any portion of the
+construction work shall comply with the provisions ofNRS 338.013to338.090, inclusive, in the same manner as
+if a public body had undertaken the qualified project or had awarded the
+contract.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4136; A2021,
+3815,3816;2023,
+2834)—(Substituted in revision for NRS 408.55086)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-829">
+          <num>226.829</num>
+          <heading>Required reports.</heading>
+          <subsection eId="226-829__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Prepare a report on the operations of
+the Bank during that year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="226-829__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Submit the report prepared pursuant to
+subsection 1 to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="226-829__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Governor; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="226-829__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Director of the Legislative Counsel
+Bureau for transmittal to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="226-829__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>If the report is prepared in an even-numbered
+year, the next regular session of the Legislature; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="226-829__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>If the report is prepared in an
+odd-numbered year, the Legislative Commission.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4136; A2021,
+3816)—(Substituted in revision for NRS 408.55087)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_226-832">
+          <num>226.832</num>
+          <heading>Governmental units authorized to provide technical advice,
+support and assistance to Bank.</heading>
+          <content>
+            <p>Any
+division of the Department of Transportation, the Department of Business and
+Industry, the Office of Economic Development, the State Department of Conservation
+and Natural Resources, the Office of Energy or any other governmental unit may,
+to the extent that money is available for that purpose, provide technical
+advice, support and assistance to the Bank, including, without limitation, the
+Board of Directors.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4137; A2021,
+3816;2023,
+2835)—(Substituted in revision for NRS 408.55088)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

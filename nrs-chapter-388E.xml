@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-388E"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-388E"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="388E"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-388E/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-388E/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-388E/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-388E/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_388E">
+        <num>388E</num>
+        <heading>EDUCATION OF CHILDREN IN</heading>
+        <section eId="sec_388E-010">
+          <num>388E.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 388E.015to388E.045, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+800; A2017,
+3111)—(Substituted in revision for NRS 392B.010)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_388E-015">
+          <num>388E.015</num>
+          <heading>ï¿½Agency which provides child welfare servicesï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Agency which provides child welfare servicesï¿½
+has the meaning ascribed to it inNRS
+432B.030.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+3109)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_388E-025">
+          <num>388E.025</num>
+          <heading>ï¿½Foster careï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Foster
+careï¿½ has the meaning ascribed to it in 45 C.F.R. ï¿½ 1355.20.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+3109)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_388E-035">
+          <num>388E.035</num>
+          <heading>ï¿½Local education agencyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Local
+education agencyï¿½ includes, without limitation, the board of trustees of a
+school district and the sponsor of a charter school.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+3109)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_388E-045">
+          <num>388E.045</num>
+          <heading>ï¿½School of originï¿½ defined.</heading>
+          <content>
+            <p>ï¿½School
+of originï¿½ means the public school in which a child was enrolled at the time
+that the child was placed in foster care or the school in which a child who is
+in foster care is enrolled at the time of the most recent change in the
+placement of the child.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+3109)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_388E-105">
+          <num>388E.105</num>
+          <heading>Determination of best interests of child entering or in foster
+care regarding school to attend; considerations when determining best
+interests; required actions when child is to attend public school other than
+childï¿½s school of origin; school not to refuse enrollment.</heading>
+          <subsection eId="388E-105__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When a child enters foster care or
+changes placement while in foster care, the agency which provides child welfare
+services to the child shall determine whether it is in the best interests of
+the child for the child to remain in his or her school of origin. In making
+this determination, there is a rebuttable presumption that it is in the best
+interests of the child to remain in his or her school of origin.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="388E-105__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In determining whether it is in the
+best interests of a child in foster care to remain in his or her school of
+origin, the agency which provides child welfare services, in consultation with
+the local education agency and the educational decision maker appointed for the
+child pursuant toNRS 432B.462, must
+consider, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="388E-105__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The wishes of the child;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="388E-105__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The educational success, stability and
+achievement of the child;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="388E-105__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any individualized education program or
+academic plan developed for the child;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="388E-105__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Whether the child has been identified as an
+English learner;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="388E-105__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The health and safety of the child;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="388E-105__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The availability of necessary services for
+the child at the school of origin;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="388E-105__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Whether the child has a sibling enrolled in
+the school of origin; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="388E-105__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>A plan for the continued education of the
+child, developed pursuant toNRS
+432B.60847, if the child is admitted to a psychiatric hospital or facility
+which provides residential treatment for mental illness.
+ï¿½The costs of
+transporting the child to the school of origin must not be considered when
+determining whether it is in the best interests of the child to remain at his
+or her school of origin.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="388E-105__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the agency which provides child
+welfare services determines that it is in the best interests of a child in
+foster care to attend a public school other than the childï¿½s school of origin:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="388E-105__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The agency which provides child welfare
+services must:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="388E-105__subsec_3__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Provide written notice of its
+determination to every interested party as soon as practicable; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="388E-105__subsec_3__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>In collaboration with the local
+education agency, ensure that the child is immediately enrolled in that public
+school; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="388E-105__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The public school may not refuse to the
+enroll the child on the basis that the public school does not have:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="388E-105__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A certificate stating that the child
+has been immunized and has received proper boosters for that immunization;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="388E-105__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A birth certificate or other document
+suitable as proof of the childï¿½s identity;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="388E-105__subsec_3__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>A copy of the childï¿½s records from the
+school the child most recently attended; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="388E-105__subsec_3__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Any other documentation required by a
+policy adopted by the public school or the local education agency.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+3109; A2019,
+261;2021,
+3160)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_388E-115">
+          <num>388E.115</num>
+          <heading>Pupil who leaves foster care to remain enrolled in school of
+origin until end of school year; exception.</heading>
+          <content>
+            <p>The
+board of trustees of a school district or the governing body of a charter
+school must allow a pupil who leaves foster care to remain enrolled in his or
+her school of origin until the end of the school year during which the child
+leaves foster care unless the parent or guardian of the pupil elects to enroll
+the pupil in a different school.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+3110)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_388E-125">
+          <num>388E.125</num>
+          <heading>Transportation of child in foster care to school of origin;
+responsibility for cost; resolution of disputes relating to transportation of
+child.</heading>
+          <subsection eId="388E-125__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the agency which provides child
+welfare services to a child has determined pursuant toNRS 388E.105that it is in the best
+interests of the child to remain in his or her school of origin, the agency
+which provides child welfare services and the local education agency must provide
+the child with transportation to the school of origin:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="388E-125__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the entire time that the child is in
+foster care; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="388E-125__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Until the end of the school year during which
+the child leaves foster care.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="388E-125__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The agency which provides child welfare
+services and the local education agency are jointly responsible for the costs
+of transportation of a child to the childï¿½s school of origin unless the agency
+which provides child welfare services and the local education agency mutually
+agree otherwise.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="388E-125__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a dispute arises between the agency
+which provides child welfare services and the local education agency that is
+related to the transportation of a child in foster care to the childï¿½s school
+of origin, including, without limitation, a dispute related to the costs of
+transportation, and the dispute is not resolved within 5 business days, the
+juvenile or family court with jurisdiction over the child must resolve the
+dispute by court order within 5 business days.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="388E-125__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a dispute arises between the agency
+which provides child welfare services and the local education agency that is
+related to the transportation of a child in foster care, the agency which
+provides child welfare services and the local education agency must provide the
+child with transportation to the school of origin until the dispute is
+resolved.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+3110)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_388E-135">
+          <num>388E.135</num>
+          <heading>Designation and responsibilities of single point of contact for
+certain issues relating to education of children in foster care.</heading>
+          <subsection eId="388E-135__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department, each local education
+agency and each agency which provides child welfare services shall designate a
+single point of contact who is responsible for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="388E-135__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Developing policies and procedures necessary
+for the Department, local education agency or agency which provides child
+welfare services, as applicable, to comply with the requirements of the Every Student
+Succeeds Act, 20 U.S.C. ï¿½ï¿½ 6301 et seq., including, without limitation,
+policies and procedures relating to the:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="388E-135__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Communication of information relating
+to children in foster care among the Department, local education agencies and
+agencies which provide child welfare services; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="388E-135__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Transportation of children in foster
+care to their schools of origin.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="388E-135__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Communicating and coordinating with other
+single points of contact designated pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="388E-135__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Policies and procedures relating to
+transportation of a child in foster care to his or her school of origin must
+include, without limitation, a plan for paying the costs of such
+transportation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="388E-135__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½single point
+of contactï¿½ means a natural person or a team of personnel, each of whom has the
+ability and authority to perform the responsibilities described in this
+section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+3111)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_388E-145">
+          <num>388E.145</num>
+          <heading>Reports on children in foster care who attend public school.</heading>
+          <subsection eId="388E-145__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Board shall prepare an annual
+report concerning the academic progress of children in foster care who attend a
+public school in this State that includes, without limitation, the information
+prescribed by 20 U.S.C. ï¿½ 6311</p>
+            </content>
+            <paragraph eId="388E-145__subsec_1__subsec_h">
+              <num>(h)</num>
+              <subparagraph eId="388E-145__subsec_1__subsec_h__subsec_1">
+                <num>(1)</num>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="388E-145__subsec_1__subsec_c">
+              <num>(c)</num>
+            </paragraph>
+            <paragraph eId="388E-145__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>-(iii).
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="388E-145__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each local education agency shall, on
+or before the date established by the Department, and in the form prescribed by
+the Department, prepare and submit to the Department a report on children in
+foster care who attend a public school within the jurisdiction of the local
+education agency. This report must include the information prescribed by 20
+U.S.C. ï¿½ 6311</p>
+            </content>
+            <paragraph eId="388E-145__subsec_2__subsec_h">
+              <num>(h)</num>
+              <subparagraph eId="388E-145__subsec_2__subsec_h__subsec_1">
+                <num>(1)</num>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="388E-145__subsec_2__subsec_c">
+              <num>(c)</num>
+            </paragraph>
+            <paragraph eId="388E-145__subsec_2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>-(iii).
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="388E-145__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An agency which provides child welfare
+services to a child enrolled in public school in this State shall provide any
+information requested by the local education agency to the local education
+agency as soon as practicable.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+3111)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

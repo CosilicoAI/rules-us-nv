@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-512"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-512"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="512"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-512/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-512/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-512/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-512/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_512">
+        <num>512</num>
+        <heading>INSPECTION AND SAFETY OF</heading>
+        <section eId="sec_512-002">
+          <num>512.002</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 512.003to512.009, inclusive, have the meanings
+ascribed to them in such sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+514)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-003">
+          <num>512.003</num>
+          <heading>ï¿½Accidentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Accidentï¿½
+means any unplanned event which caused or could have caused death or bodily
+injury or which endangered or could have endangered human life and includes any
+mine fire, mine explosion, mine ignition, unplanned initiation of explosives,
+entrapment or falls of ground or inundation by water, dust or gas.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+515)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-004">
+          <num>512.004</num>
+          <heading>ï¿½Administratorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Administratorï¿½
+means the Administrator of the Division of Industrial Relations of the
+Department of Business and Industry.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+1530; A1993,
+1681)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-005">
+          <num>512.005</num>
+          <heading>ï¿½Imminent dangerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Imminent
+dangerï¿½ means the existence of any condition or practice in a mine which could
+reasonably be expected to cause death or serious physical harm to any worker if
+mine operations were to proceed in the affected area or if workers were to
+enter the affected area before the condition or practice was eliminated.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+515)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-006">
+          <num>512.006</num>
+          <heading>ï¿½Mineï¿½ defined.</heading>
+          <subsection eId="512-006__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An area of land:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="512-006__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Where exploration is conducted to discover or
+delineate minerals or mineral commodities in any deposit;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-006__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Where development is conducted to prepare or
+open any deposit of minerals or mineral commodities other than solid fuels for
+extraction; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-006__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Where exploitation or extraction of minerals
+or mineral commodities other than solid fuels is conducted from any deposit;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="512-006__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Private ways and roads appurtenant to
+such areas;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="512-006__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Structures, equipment, machinery, apparatus
+or other property, upon the surface or underground, used or to facilitate the
+work of exploring, developing or extracting minerals or mineral commodities
+other than solid fuels in or from any deposit; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="512-006__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Beneficiation plants, mills, smelters,
+refineries or other property used or to facilitate the treatment or reduction
+of any minerals or mineral commodities, whether or not contiguous to an area
+where exploitation or extraction of minerals or mineral commodities is
+conducted from any deposit.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+515)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-007">
+          <num>512.007</num>
+          <heading>ï¿½Operatorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Operatorï¿½
+means any person or organization operating, controlling or supervising a mine
+and owning the right to do so, and includes any individual, owner, lessor,
+lessee, agent, manager, worker, contractor, subcontractor, independent
+contractor, partnership, association or corporation or subsidiary of a
+corporation charged with the responsibility for the operation of such mine.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+515)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-008">
+          <num>512.008</num>
+          <heading>ï¿½Unwarrantable failure of an operator to complyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Unwarrantable failure of an operator to
+complyï¿½ means the failure of an operator to prevent the occurrence of or to
+abate a violation of a health or safety standard or regulation adopted pursuant
+to the provisions of this chapter due to indifference, lack of diligence or
+lack of reasonable care.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+515)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-009">
+          <num>512.009</num>
+          <heading>ï¿½Workerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Workerï¿½
+means any individual working for wages or other compensation, whether or not
+employed by an operator.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+515)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-020">
+          <num>512.020</num>
+          <heading>Qualifications of employees.</heading>
+          <subsection eId="512-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person employed by the
+Administrator pursuant to the provisions of this chapter must not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="512-020__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be an officer, director or employee, or have
+any personal or private interest in any operating mine, mill, smelter or ore
+reduction plant or the products thereof;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Hold, directly or indirectly, any financial
+interest in any company, partnership, organization or corporation or subsidiary
+of a corporation, which owns, operates or has a financial interest in any mines
+which are subject to the provisions of this chapter; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-020__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Be an officer or employee of any labor
+organization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="512-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person appointed as the Assistant
+Administrator responsible for the inspection of mines must have at least 7
+years of technical, operational or management experience in at least two of the
+following areas:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="512-020__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Mines;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-020__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Mills;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-020__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Beneficiation plants; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-020__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Smelters,
+ï¿½at least 3
+years of which must be in underground mining.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:176:1909; RL ï¿½ 4200; NCL ï¿½ 4210]—(NRS A1969,
+1002;1973,
+1480;1975,
+517;1981,
+1530;1991,
+65;1993,
+1681)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-090">
+          <num>512.090</num>
+          <heading>Office.</heading>
+          <content>
+            <p>The
+Administrator is entitled to be provided with a properly furnished office in
+Carson City, Nevada.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 6:176:1909; A1917,
+29; 1919 RL ï¿½ 4203; NCL ï¿½ 4213]—(NRS A1981,
+1531)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-120">
+          <num>512.120</num>
+          <heading>Authority regarding employees and representatives.</heading>
+          <subsection eId="512-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Employ necessary clerks, technicians,
+specialists, engineers or consultants.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="512-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Authorize representatives to perform
+all duties required of the Administrator.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:176:1909; A1925,
+230;1945,
+244; 1943 NCL ï¿½ 4209]—(NRS A1975,
+518;1981,
+1531;1985,
+434;1991,
+66)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-131">
+          <num>512.131</num>
+          <heading>Regulations: Adoption; copies to be furnished to operators and
+representatives of workers.</heading>
+          <subsection eId="512-131__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Administrator shall adopt regulations
+for mine health and safety as necessary to provide safe and healthful working
+conditions at mines. The regulations must provide protection that is at least
+equal to the protection provided by the Federal Mine Safety and Health Act, 30
+U.S.C. ï¿½ï¿½ 801 et seq., as amended. The Administrator may consider the following
+sources in adopting the regulations:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="512-131__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Common practices of the mining industry;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-131__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The American National Standards Institute;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-131__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The American Society of Mechanical Engineers;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-131__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The American Society for Testing and
+Materials International;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-131__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Applicable provisions contained in the Code
+of Federal Regulations;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-131__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The National Fire Protection Association,
+including, without limitation, the National Electrical Code;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-131__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Any national consensus standard; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-131__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Any safety order legally adopted by the
+Administrator.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="512-131__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Administrator shall forward a copy
+of each regulation adopted under this section to the operator of each mine and
+to the representative of the workers, if any, at the mine. Failure to receive a
+copy of the regulation does not relieve anyone of the obligation to comply with
+it.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+516; A1977,
+77;1979,
+85;1981,
+1531;2007,
+3310)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-140">
+          <num>512.140</num>
+          <heading>Annual report.</heading>
+          <content>
+            <p>The
+Administrator shall submit annually to the Governor, and to the Mining
+Oversight and Accountability Commission created byNRS 514A.040, as soon as practicable
+after the beginning of each calendar year, a full report of the administration
+of the Administratorï¿½s functions under this chapter during the preceding
+calendar year. The report must include, either in summary or detailed form, the
+information obtained by the Administrator under this chapter together with such
+findings and comments thereon and such recommendations as the Administrator may
+deem proper.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [11:176:1909; A1951,
+169]—(NRS A1975,
+518;1981,
+1531;2011,
+2698)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-151">
+          <num>512.151</num>
+          <heading>Duties: Educational and training programs; technical assistance
+to operators; collection of information and statistics; acceptance and
+administration of grants.</heading>
+          <subsection eId="512-151__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Administrator shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="512-151__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Develop and conduct programs for the
+education and training of operators and workers in the recognition, avoidance
+and prevention of accidents or unsafe or unhealthful working conditions in
+mines which are subject to the provisions of this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-151__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To the greatest extent possible, provide
+technical assistance to operators in meeting the requirements of this chapter
+and in further improving the health and safety conditions and practices in
+mines which are subject to the provisions of this chapter; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-151__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Collect information and statistics relative
+to mines, mining and the minerals industry of the State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="512-151__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Administrator may accept and
+administer grants and other money received from any private or public source,
+including the Federal Government, for the purposes of administering the
+provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+515; A1979,
+85;1981,
+1532)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-160">
+          <num>512.160</num>
+          <heading>Records and reports of operators; compilation and publication of
+reported information by Administrator; notification to Administrator of opening
+or closing of mine operations.</heading>
+          <subsection eId="512-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Operators shall maintain records and
+reports and shall submit, at least annually and at such other times as the
+Administrator deems necessary, and in the form the Administrator prescribes,
+reports of production, employment, mine activity and status, accidents, bodily
+injuries, loss of life, occupational illnesses and related data.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="512-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Administrator shall compile, keep
+and analyze and may publish, either in summary or detailed form, the
+information obtained pursuant to the provisions of subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="512-160__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Operators shall notify the
+Administrator before opening and upon closing mine operations. The notice must
+include the name and location of the mine, the name and address of the
+operator, the name of the person in charge of the operation, a statement of
+whether the operation will be continuous or intermittent, and upon closing, a statement
+of whether the closing is temporary or permanent.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 6:176:1909; A1917,
+29; 1919 RL ï¿½ 4203; NCL ï¿½ 4213]—(NRS A1975,
+519;1979,
+85;1981,
+1532)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-170">
+          <num>512.170</num>
+          <heading>Annual inspection and investigation of mines by Administrator or
+designee.</heading>
+          <subsection eId="512-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Determining whether there has been
+compliance with health and safety regulations or standards adopted or notices
+or orders issued pursuant to the provisions of this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="512-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Determining whether an imminent danger
+exists;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="512-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Determining the cause or causes of
+accidents, bodily injuries, loss of lives or occupational illnesses which have
+occurred in such mines;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="512-170__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Determining if there are dangerous
+conditions or practices with respect to the condition or manner of use of
+equipment, machinery or apparatus; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="512-170__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Obtaining such other information for
+any other purpose as the Administrator may deem advisable.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:176:1909; A1915,
+9;1955,
+148]—(NRS A1975,
+520;1981,
+1532)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-180">
+          <num>512.180</num>
+          <heading>Power of Administrator to inspect mines; operator to render
+assistance; advance notice of inspection prohibited; participation by
+representative of workers.</heading>
+          <subsection eId="512-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Administrator may enter all mines
+in this state subject to the provisions of this chapter, for the purposes of
+inspections, investigations or access to records and reports required to be
+maintained or for any other purpose necessary in the proper discharge of the
+Administratorï¿½s official duties. Operators shall render the Administrator such
+assistance as may be required to enable the Administrator to make a full,
+thorough and complete inspection or investigation of each and every part of
+such mine or mines. No advance notice of an inspection must be provided to any
+operator, worker, or representative of the workers, if any, at such mine.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="512-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>At the commencement of any inspection
+of a mine by the Administrator, the authorized representative of the workers at
+the mine must be given an opportunity to accompany the Administrator on the
+inspection and to participate in any conference held at the conclusion of the
+inspection. If there is no representative of the workers, the Administrator
+shall consult with a reasonable number of workers concerning matters of health
+and safety at the mine.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:176:1909; A1911,
+402;1925,
+13;1947,
+680;1951,
+246]—(NRS A1967,
+600;1971,
+141;1975,
+520;1981,
+1533)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-190">
+          <num>512.190</num>
+          <heading>Action by Administrator when inspection reveals dangerous
+conditions or violations; notice or order prima facie evidence of culpable
+negligence of operator.</heading>
+          <subsection eId="512-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Whenever, as the result of the
+inspection of any mine, the Administrator finds that an imminent danger exists
+in the mine or with respect to the condition or manner of use of equipment,
+machinery or apparatus, the Administrator shall thereupon issue an order:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="512-190__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Requiring the operator to cause all persons
+except those referred to in subsection 5, to be withdrawn immediately from and
+prohibited from entering the area where such danger exists until the
+Administrator determines that such imminent danger no longer exists.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-190__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prohibiting such equipment, machinery or
+apparatus to be used or operated until the Administrator determines that such
+imminent danger no longer exists.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="512-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If, upon any inspection of a mine, the
+Administrator finds that there has been a violation of any health or safety
+regulation or standard adopted pursuant to the provisions of this chapter, but
+the violation has not created an imminent danger, the Administrator shall issue
+a notice to the operator fixing a reasonable time for the abatement of the
+violation. If the Administrator subsequently finds:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="512-190__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon the expiration of the period of time as
+originally fixed or extended for the abatement of the violation, that the
+violation has not been totally abated and that the period of time should not be
+further extended; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-190__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Another violation of any health or safety regulation
+or standard caused by failure of an operator to prevent the occurrence of such
+violation due to indifference, lack of diligence or lack of reasonable care,
+during the same inspection or any subsequent inspection within 90 days after
+the issuance of the notice,
+ï¿½the
+Administrator shall forthwith issue an order requiring the operator to cause
+all persons in the area affected by such violation, except those persons
+referred to in subsection 5, to be withdrawn from and prohibited from entering
+the area until the Administrator determines that such violation has been
+abated.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="512-190__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Administrator finds a violation
+of a health and safety regulation or standard within 30 days following the
+abatement of a violation which resulted in the issuance of a withdrawal order
+under paragraph</p>
+            </content>
+            <paragraph eId="512-190__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 2, the Administrator shall forthwith issue an
+order requiring the operator to cause all persons in the area affected by such
+violation, except those persons referred to in subsection 5, to be withdrawn
+from and prohibited from entering the area until the Administrator determines
+that such violation has been abated.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="512-190__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If, as a result of any investigation of
+any accident occurring in a mine or as a result of any other investigation or
+tests performed by the Administrator, the Administrator has reason to believe
+that any equipment, machinery or apparatus will cause an accident, the
+Administrator may, by order, prohibit the use or operation in any mine of such
+equipment, machinery or apparatus until he or she determines that such
+equipment, machinery or apparatus has been repaired, modified, reconditioned or
+altered in a manner that an accident will thereafter be avoided.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="512-190__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The following persons are not required
+to be withdrawn from, or prohibited from entering, any area of the mine subject
+to a withdrawal order issued under this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="512-190__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any person whose presence in the area is
+necessary, in the judgment of the operator or the Administrator, to eliminate
+the condition described in the order;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-190__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any public official whose official duties
+require him or her to enter the area; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-190__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any consultant to any of the foregoing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="512-190__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A notice or order issued under this
+section is prima facie evidence of the culpable negligence of an operator in a
+criminal or civil proceeding at law against such operator for loss of life or
+bodily injury sustained because of the operatorï¿½s failure or refusal to comply
+with the requirements stated in the notice or order.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:176:1909; A1911,
+402;1925,
+13;1947,
+680;1951,
+246]—(NRS A1967,
+600;1975,
+521;1981,
+1533)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-195">
+          <num>512.195</num>
+          <heading>Notices and orders: Contents; distribution of copies;
+notification to Mine Safety and Health Administration of the United States
+Department of Labor required under certain circumstances.</heading>
+          <subsection eId="512-195__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Notices and orders issued pursuant to
+this chapter:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="512-195__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Must contain a detailed description of the
+conditions or practices which cause and constitute a situation of imminent
+danger or a violation of any health or safety regulation or standard and, where
+appropriate, a description of the area of the mine from which persons,
+equipment, machinery or apparatus must be withdrawn and prohibited from
+entering, and a description of the equipment, machinery or apparatus prohibited
+from being used or operated.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-195__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Must be in writing and signed by the
+Administrator and given promptly to the operator of the affected mine.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-195__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>May be modified, vacated or terminated by the
+Administrator.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="512-195__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Administrator shall furnish
+immediately a copy of any notice or order issued pursuant to this chapter to
+the operator and to a representative of the workers, if any, at the affected
+mine.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="512-195__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If an order is issued pursuant to
+subsection 1 ofNRS 512.190and the Mine
+Safety and Health Administration of the United States Department of Labor did
+not participate in the inspection on which that order is based, the
+Administrator shall notify the Mine Safety and Health Administration of the
+United States Department of Labor that the order has been issued.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+516; A1979,
+86;1981,
+1534)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-200">
+          <num>512.200</num>
+          <heading>Workers may request inspection of mine; conditions.</heading>
+          <subsection eId="512-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Whenever any worker or a representative
+of the workers, if any, has reasonable grounds to believe that a violation of a
+health or safety regulation or standard exists, or an imminent danger exists,
+the worker or representative of the workers may obtain an inspection by giving
+notice to the Administrator of the violation or danger.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="512-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The notice must be in writing, signed
+by the worker or representative of the workers, and a copy must be provided to
+the operator no later than at the time of inspection, except that, upon the
+request of the person giving notice, the personï¿½s name and the names of
+individual workers referred to therein must not appear in the copy.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="512-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon receipt of notification by the
+Administrator, an inspection in accordance with the provisions of this chapter
+may be made as soon as practicable to determine if a violation or imminent
+danger exists.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [7:176:1909; A1955,
+148]—(NRS A1975,
+522;1981,
+1535)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-210">
+          <num>512.210</num>
+          <heading>Administrator to notify Attorney General on failure or refusal
+of operator to comply with order; action by Attorney General.</heading>
+          <content>
+            <p>Upon the unwarrantable failure of an operator
+to comply or upon refusal of an operator of any mine to comply with the
+requirements of any order issued to such operator, the Administrator may
+immediately notify the Attorney General of the unwarrantable failure to comply
+or the refusal. The Attorney General, or the district attorney of the county in
+which the mine is situated at the instigation of the Attorney General, must
+thereupon immediately commence an action in the name of the State against the
+operator so notified for the enforcement of the penalty designated inNRS 512.270.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [8:176:1909; A1925,
+13;1947,
+680;1951,
+169]—(NRS A1975,
+523;1981,
+1535)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-220">
+          <num>512.220</num>
+          <heading>Serious accidents: Notice to Administrator; duties of operator
+and other persons; investigation of cause.</heading>
+          <subsection eId="512-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Whenever a serious accident occurs in
+any mine in this state subject to the provisions of this chapter, the operator
+shall, immediately and by the quickest means, notify the Administrator or the
+Administratorï¿½s deputy, as may be most convenient, of the accident, and shall
+take appropriate measures to preserve everything which might assist the
+Administrator in determining the cause or causes of the accident. Except as
+necessary to alleviate or eliminate any situation constituting an imminent
+danger or an unwarranted danger to property, a person shall not alter any
+condition which might assist the Administrator in determining the cause or
+causes of the accident.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="512-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Administrator may investigate fully
+the cause of the accident as soon as practicable after receipt of notification.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 10:176:1909; A1947,
+680;1955,
+148]—(NRS A1975,
+523;1981,
+1535;1991,
+66)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-231">
+          <num>512.231</num>
+          <heading>Copies of regulations, standards, notices and orders to be posted
+by operator.</heading>
+          <content>
+            <p>Copies of regulations
+and standards adopted and notices and orders issued by the Administrator
+pursuant to the provisions of this chapter must be posted by the operator on a
+bulletin board located in a conspicuous place at the mine.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+516; A1981,
+1536)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-241">
+          <num>512.241</num>
+          <heading>Publication and inspection of information, reports, notices,
+orders and findings.</heading>
+          <content>
+            <p>All
+information, reports, notices, orders or findings obtained or issued under the
+provisions of this chapter may be published and made available for public
+inspection.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+516)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_512-270">
+          <num>512.270</num>
+          <heading>Prohibited acts; separate offenses.</heading>
+          <subsection eId="512-270__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any operator who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="512-270__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Violates, fails or refuses to comply with any
+health or safety regulation or standard adopted by the Administrator pursuant
+to the provisions of this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-270__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Interferes with, hinders or delays the
+Administrator in carrying out the duties required under this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-270__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Refuses admission to the Administrator upon
+or through any mine which is subject to the provisions of this chapter or to
+render assistance;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-270__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Refuses to permit the Administrator to
+inspect or investigate any mine which is subject to the provisions of this
+chapter, or of any accident, bodily injury, fatality or occupational illness
+occurring at or connected with the mine;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-270__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Refuses to furnish to the Administrator any
+information or report requested by the Administrator pursuant to this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-270__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Knowingly makes any false statement or
+representation, or fails to make any statement or representation in any record,
+report or other document filed or required to be maintained pursuant to this
+chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-270__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Refuses to permit the Administrator to
+inspect or investigate any equipment, machinery, apparatus, tools or other
+property with respect to its condition or manner of use at any mine subject to
+the provisions of this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-270__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Fails to maintain any information or report
+required to be maintained pursuant to this chapter; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="512-270__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Violates or fails or refuses to comply with
+an order of withdrawal issued pursuant toNRS
+512.190,
+ï¿½is guilty of
+a gross misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="512-270__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each separate provision not complied
+with and each day after conviction of failure to comply with any standard or
+provision or this chapter is a separate offense and punished accordingly.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [42:176:1909; added1911,
+402; A1925,
+13; NCL ï¿½ 4248]—(NRS A1967,
+601;1971,
+540;1975,
+524;1981,
+1536)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

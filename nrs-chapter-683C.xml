@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-683C"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-683C"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="683C"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-683C/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-683C/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-683C/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-683C/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_683C">
+        <num>683C</num>
+        <heading>INSURANCE CONSULTANTS</heading>
+        <section eId="sec_683C-010">
+          <num>683C.010</num>
+          <heading>ï¿½Insurance consultantï¿½ defined.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, ï¿½insurance
+consultantï¿½ means a person who, for a fee, holds himself or herself out to the
+public as engaged in the business of offering advice, counsel, opinion or
+service with respect to the benefits, advantages or disadvantages promised
+pursuant to any policy of insurance that could be issued in this State.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1610)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_683C-018">
+          <num>683C.018</num>
+          <heading>Applicability of other provisions.</heading>
+          <content>
+            <p>The
+provisions ofchapters 679Aand679Bof NRS andNRS 683A.301,683A.341and683A.351apply to an insurance
+consultant.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+3297)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_683C-020">
+          <num>683C.020</num>
+          <heading>License required; exceptions; administrative fine.</heading>
+          <subsection eId="683C-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, no person may engage in the business of an insurance consultant
+unless a license has been issued to the person by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="683C-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An insurance consultantï¿½s license is
+not required for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="683C-020__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An attorney licensed to practice law in this
+State who is acting in his or her professional capacity;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="683C-020__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A licensed producer of insurance, broker or
+surplus lines broker;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="683C-020__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A trust officer of a bank who is acting in
+the normal course of his or her employment; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="683C-020__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An actuary or a certified public accountant
+who provides information, recommendations, advice or services in his or her
+professional capacity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="683C-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person required to be licensed in this
+State who acts as an insurance consultant without a license is subject to an
+administrative fine of not more than $1,000 for each act or violation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1610; A2003,
+3297;2017,
+2339)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_683C-030">
+          <num>683C.030</num>
+          <heading>Application for license; requirements; duration of license.
+[Effective until the date of the repeal of 42 U.S.C. ï¿½ 666, the federal law requiring
+each state to establish procedures for withholding, suspending and restricting
+the professional, occupational and recreational licenses for child support
+arrearages and for noncompliance with certain processes relating to paternity
+or child support proceedings.]</heading>
+          <subsection eId="683C-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An application for a license to act as
+an insurance consultant must be submitted to the Commissioner on forms
+prescribed by the Commissioner and must be accompanied by the applicable
+license fee set forth inNRS 680B.010and, in addition to any other fee or charge, all applicable fees required
+pursuant toNRS 680C.110. The license
+fee set forth inNRS 680B.010is not
+refundable. If the applicant is a natural person, the application must include
+the social security number of the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="683C-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An applicant for an insurance
+consultantï¿½s license must successfully complete an examination which the
+Commissioner shall establish by regulation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="683C-030__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Each license issued pursuant to this
+chapter is valid for 3 years from the date of issuance or until it is
+suspended, revoked or otherwise terminated, and each insurance consultant must
+pay, in addition to any other fee or charge, all applicable fees required
+pursuant toNRS 680C.110.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1610; A1997,
+2189;2003,
+3297;2005,
+2125;2009,
+1777;2015,
+2841;2019,
+3032)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_683C-035">
+          <num>683C.035</num>
+          <heading>Form and prerequisites for approval of application for license;
+licensing of business organization; verification of information; duration of
+license; lines of authority.</heading>
+          <subsection eId="683C-035__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner shall prescribe the
+form of application by a natural person for a license as an insurance
+consultant. The applicant must declare, under penalty of refusal to issue, or
+suspension or revocation of, the license, that the statements made in the
+application are true, correct and complete to the best of his or her knowledge
+and belief. Before approving the application, the Commissioner must find that
+the applicant has:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="683C-035__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Attained the age of 18 years.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="683C-035__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Not committed any act that is a ground for
+refusal to issue, or suspension or revocation of, a license pursuant toNRS 683A.451.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="683C-035__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Paid all applicable fees prescribed for the
+license, which may not be refunded.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="683C-035__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Passed each examination required for the
+license unless the applicant is a resident of another state and holds a similar
+license in that state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="683C-035__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A business organization must be
+licensed as an insurance consultant in order to act as such. Application must
+be made on a form prescribed by the Commissioner. Before approving the
+application, the Commissioner must find that the applicant has:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="683C-035__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Paid all applicable fees prescribed for the
+license, which may not be refunded; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="683C-035__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Designated a natural person who is licensed
+as an insurance consultant in this State and who is authorized to transact
+business on behalf of the business organization to be responsible for the
+organizationï¿½s compliance with the laws and regulations of this State relating
+to insurance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="683C-035__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner may require any
+document reasonably necessary to verify information contained in an
+application.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="683C-035__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A license issued pursuant to this
+chapter is valid for 3 years after the date of issuance or until it is
+suspended, revoked or otherwise terminated.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="683C-035__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>An insurance consultant may qualify for
+a license pursuant to this chapter in one or more of the lines of authority set
+forth in paragraphs</p>
+            </content>
+            <paragraph eId="683C-035__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="683C-035__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>, inclusive, of subsection 1 ofNRS 683A.261.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1611; A2001,
+2211;2003,
+3298;2005,
+2126;2009,
+1777;2015,
+2841;2019,
+3032;2023,
+2632)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_683C-040">
+          <num>683C.040</num>
+          <heading>Renewal of license; fees; expiration; reinstatement; contents of
+license; change of address. [Effective until the date of the repeal of 42
+U.S.C. ï¿½ 666, the federal law requiring each state to establish procedures for
+withholding, suspending and restricting the professional, occupational and
+recreational licenses for child support arrearages and for noncompliance with
+certain processes relating to paternity or child support proceedings.]</heading>
+          <subsection eId="683C-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A license may be renewed for additional
+3-year periods by submitting to the Commissioner an application for renewal
+and:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="683C-040__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the application is made:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="683C-040__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>On or before the renewal date of the
+license, all applicable renewal fees; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="683C-040__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Not more than 30 days after the
+renewal date of the license, all applicable renewal fees plus a penalty of 50
+percent of all applicable renewal fees except for any fee required pursuant toNRS 680C.110;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="683C-040__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the applicant is a natural person, the
+statement required pursuant toNRS
+683C.043; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="683C-040__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the applicant is a resident, proof of the
+successful completion of appropriate courses of study required for renewal, as
+established by the Commissioner by regulation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="683C-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 5, a license as an insurance consultant expires if the Commissioner
+does not receive from the insurance consultant an application for renewal
+pursuant to subsection 1 on or before the date which is 30 days after the
+renewal date.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="683C-040__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The fees specified in this section are
+not refundable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="683C-040__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A natural person who allows his or her
+license as an insurance consultant to expire pursuant to subsection 2 may,
+within 12 months after the renewal date, reinstate the license without passing
+a written examination if the natural person:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="683C-040__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Completes all applicable continuing education
+requirements; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="683C-040__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Pays a penalty of twice all applicable fees
+for renewal, except for any fee required pursuant toNRS 680C.110.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="683C-040__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>An insurance consultant who is unable
+to renew his or her license because of military service, extended medical
+disability or other extenuating circumstance may request a waiver of the time
+limit and of any fine or sanction otherwise required or imposed because of the
+failure to renew.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="683C-040__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A license must state the licenseeï¿½s
+name, address, personal identification number, the date of issuance, the lines of
+authority and the date of expiration and must contain any other information the
+Commissioner considers necessary. The license must be made available for public
+inspection upon request.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="683C-040__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>A licensee shall inform the
+Commissioner of each change of business, residence or electronic mail address,
+in writing or by other means acceptable to the Commissioner, within 30 days
+after the change.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="683C-040__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>As used in this section, ï¿½renewal dateï¿½
+means:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="683C-040__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the first renewal of the license, the
+last day of the month which is 3 years after the month in which the
+Commissioner originally issued the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="683C-040__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For each renewal after the first renewal of
+the license, the last day of the month which is 3 years after the month in
+which the license was last due to be renewed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1610; A1997,
+2190;2001,
+2210;2003,
+3298;2005,
+2126;2009,
+1778;2015,
+2842;2021,
+2965)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_683C-043">
+          <num>683C.043</num>
+          <heading>Payment of child support: Statement by applicant for license;
+grounds for denial of license; duty of Commissioner. [Effective until the date
+of the repeal of 42 U.S.C. ï¿½ 666, the federal law requiring each state to
+establish procedures for withholding, suspending and restricting the
+professional, occupational and recreational licenses for child support
+arrearages and for noncompliance with certain processes relating to paternity
+or child support proceedings.]</heading>
+          <subsection eId="683C-043__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A natural person who applies for the
+issuance or renewal of a license to act as an insurance consultant shall submit
+to the Commissioner the statement prescribed by the Division of Welfare and
+Supportive Services of the Department of Health and Human Services pursuant toNRS 425.520. The statement must be
+completed and signed by the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="683C-043__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall include the
+statement required pursuant to subsection 1 in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="683C-043__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The application or any other forms that must
+be submitted for the issuance or renewal of the license; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="683C-043__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A separate form prescribed by the
+Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="683C-043__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A license to act as an insurance
+consultant may not be issued or renewed by the Commissioner if the applicant is
+a natural person who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="683C-043__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Fails to submit the statement required
+pursuant to subsection 1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="683C-043__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Indicates on the statement submitted pursuant
+to subsection 1 that the applicant is subject to a court order for the support
+of a child and is not in compliance with the order or a plan approved by the
+district attorney or other public agency enforcing the order for the repayment
+of the amount owed pursuant to the order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="683C-043__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If an applicant indicates on the
+statement submitted pursuant to subsection 1 that the applicant is subject to a
+court order for the support of a child and is not in compliance with the order
+or a plan approved by the district attorney or other public agency enforcing
+the order for the repayment of the amount owed pursuant to the order, the
+Commissioner shall advise the applicant to contact the district attorney or
+other public agency enforcing the order to determine the actions that the
+applicant may take to satisfy the arrearage.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2188)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_683C-047">
+          <num>683C.047</num>
+          <heading>Suspension of license for failure to pay child support or comply
+with certain subpoenas or warrants; reinstatement of license. [Effective until
+the date of the repeal of 42 U.S.C. ï¿½ 666, the federal law requiring each state
+to establish procedures for withholding, suspending and restricting the
+professional, occupational and recreational licenses for child support
+arrearages and for noncompliance with certain processes relating to paternity
+or child support proceedings.]</heading>
+          <subsection eId="683C-047__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Commissioner receives a copy of
+a court order issued pursuant toNRS 425.540that provides for the suspension of all professional, occupational and
+recreational licenses, certificates and permits issued to a person who is the
+holder of a license to act as an insurance consultant, the Commissioner shall
+deem the license issued to that person to be suspended at the end of the 30th
+day after the date on which the court order was issued unless the Commissioner
+receives a letter issued to the holder of the license by the district attorney
+or other public agency pursuant toNRS
+425.550stating that the holder of the license has complied with the
+subpoena or warrant or has satisfied the arrearage pursuant toNRS 425.560.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="683C-047__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall reinstate a
+license to act as an insurance consultant that has been suspended by a district
+court pursuant toNRS 425.540if the
+Commissioner receives a letter issued by the district attorney or other public
+agency pursuant toNRS 425.550to the
+person whose license was suspended stating that the person whose license was suspended
+has complied with the subpoena or warrant or has satisfied the arrearage
+pursuant toNRS 425.560.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2189)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_683C-050">
+          <num>683C.050</num>
+          <heading>Requirements for partnership or corporation licensed as
+insurance consultant.</heading>
+          <content>
+            <p>A
+partnership or corporation licensed as an insurance consultant must require a
+license of each natural person who is authorized to act for the corporation or
+partnership. Each natural person must be named in the partnershipï¿½s or
+corporationï¿½s license and qualify as an individual licensee.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1611)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_683C-060">
+          <num>683C.060</num>
+          <heading>Written agreement with client: Required before rendering
+services; contents; retention; availability.</heading>
+          <content>
+            <p>In
+advance of rendering any service, a written agreement on a form approved by the
+Commissioner must be prepared by the insurance consultant and must be signed by
+both the consultant and the client. The agreement must outline the professional
+services to be provided by the consultant and state the fee for those services.
+The consultant shall retain a copy of the agreement for not less than 3 years
+after completion of the services. A copy of the agreement must be made
+available to the Commissioner upon request.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1611)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_683C-070">
+          <num>683C.070</num>
+          <heading>Licensee prohibited from holding other licenses concurrently.</heading>
+          <content>
+            <p>A person licensed pursuant to this chapter may
+not concurrently hold a license as a producer of insurance or a surplus lines
+brokerï¿½s license in any line.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1611; A2003,
+3299)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_683C-080">
+          <num>683C.080</num>
+          <heading>Association with and compensation from certain persons who sell
+insurance prohibited.</heading>
+          <content>
+            <p>A licensed
+insurance consultant shall not employ, be employed by or be in partnership
+with, or receive any remuneration arising out of his or her activities as an
+insurance consultant from, any licensed producer of insurance or surplus lines
+broker or insurer.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1611; A2003,
+3299)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_683C-100">
+          <num>683C.100</num>
+          <heading>Obligations.</heading>
+          <subsection eId="683C-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Serve with objectivity and complete
+loyalty the interests of his or her client; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="683C-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Render to his or her client
+information, counsel and service which, to the best of the consultantï¿½s
+knowledge, understanding and opinion, best serves the clientï¿½s insurance needs
+and interests.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1611)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_683C-105">
+          <num>683C.105</num>
+          <heading>Submission of location of business or change in location of
+business or residence; penalty.</heading>
+          <content>
+            <p>A
+licensee shall inform the Commissioner of all locations from which business is
+conducted and of any change of business or residence address, in writing or by
+any other means acceptable to the Commissioner, within 30 days after the
+change. If a licensee changes his or her address without giving written notice
+and the Commissioner is unable to locate the licensee after making a diligent
+effort, the Commissioner may revoke the license without a hearing. The mailing
+of a letter by certified mail, return receipt requested, addressed to the
+licensee at the last mailing address appearing on the records of the Division,
+and the return of the letter undelivered, constitutes a diligent effort by the
+Commissioner.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+3297)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_683C-110">
+          <num>683C.110</num>
+          <heading>Nonresident licensees: Service of process; promise to appear.</heading>
+          <subsection eId="683C-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A nonresident who is licensed by this
+state as an insurance consultant shall appoint the Commissioner, in writing, as
+his or her attorney upon whom may be served all legal process issued in
+connection with any action or proceeding brought or pending in this state
+against or involving the nonresident licensee and relating to transactions
+under his or her Nevada license. The appointment is irrevocable and remains in
+force so long as such an action or proceeding exists or may arise. Duplicate
+copies of process must be served upon the Commissioner, or other person in
+apparent charge of the Division during the Commissionerï¿½s absence, accompanied
+by payment of the fee for service of process. Promptly after any such service,
+the Commissioner shall forward a copy of the process by certified mail, return
+receipt requested, to the nonresident licensee at his or her business address
+of most recent record with the Division. Process so served and the copy so
+forwarded constitutes personal service upon the licensee for all purposes.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="683C-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each such nonresident licensee shall
+also file with the Commissioner a written promise to appear before the
+Commissioner pursuant to notice of hearing, order to show cause, or subpoena
+issued by the Commissioner and sent by certified mail to the licensee at his or
+her business address of most recent record with the Division, and that if the
+nonresident licensee fails to appear, the nonresident licensee thereby consents
+to any subsequent suspension, revocation or refusal to renew his or her
+license.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2210)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_683C-120">
+          <num>683C.120</num>
+          <heading>Disciplinary action.</heading>
+          <subsection eId="683C-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner may place an insurance
+consultant on probation, suspend his or her license for not more than 12
+months, or revoke or refuse to renew his or her license, or may impose an
+administrative fine or take any combination of the foregoing actions, for one
+or more of the causes set forth inNRS
+683A.451.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="683C-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions ofNRS 683A.461also apply to an insurance
+consultant.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2210)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_683C-130">
+          <num>683C.130</num>
+          <heading>Notice and effect of suspension, limitation or revocation of
+license.</heading>
+          <subsection eId="683C-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon suspension, limitation or
+revocation of the license of an insurance consultant, the Commissioner shall
+immediately notify the licensee in person or by mail addressed to the licensee
+at his or her most recent address of record with the Division. Notice by mail
+is effective when mailed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="683C-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall not again issue
+a license under this chapter to any natural person whose license has been
+revoked until at least 1 year after the revocation has become final, and
+thereafter not until the person again qualifies for it under this chapter. A
+person whose license has been revoked twice is not eligible for any license
+under this title.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="683C-130__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the license of a business
+organization is suspended, limited or revoked, no member, officer or director
+of the organization may be licensed, or designated in a license to exercise its
+powers, during the period of suspension or revocation, unless the Commissioner
+determines, by a preponderance of the evidence, that the member, officer or
+director was not personally at fault and did not knowingly aid, abet, assist or
+acquiesce in the matter for which the license was suspended or revoked.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="683C-130__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½preponderance
+of the evidenceï¿½ has the meaning ascribed to it inNRS 233B.0375.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2210; A2015,
+722)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

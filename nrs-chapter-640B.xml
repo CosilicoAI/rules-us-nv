@@ -1,0 +1,2361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-640B"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-640B"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="640B"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-640B/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-640B/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-640B/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-640B/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_640B">
+        <num>640B</num>
+        <heading>ATHLETIC TRAINERS</heading>
+        <section eId="sec_640B-003">
+          <num>640B.003</num>
+          <heading>Legislative declaration.</heading>
+          <content>
+            <p>The
+practice of athletic training is hereby declared to be a learned profession,
+affecting public health, safety and welfare, and subject to regulation to
+protect the public from the practice of athletic training by unqualified
+persons and from unprofessional conduct by persons who are licensed to engage
+in the practice of athletic training.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+896)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-005">
+          <num>640B.005</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 640B.011to640B.120, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+893; A2019,
+1587)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-011">
+          <num>640B.011</num>
+          <heading>ï¿½Assessmentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Assessmentï¿½
+includes taking the medical history of a patient, visually inspecting the
+injured portion of the body and the associated structures, palpating the bony
+landmarks and soft tissue and applying special tests to systematically assess
+the pathology and extent of the injury or condition.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+894)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-015">
+          <num>640B.015</num>
+          <heading>ï¿½Athleteï¿½ defined.</heading>
+          <subsection eId="640B-015__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Participates in an athletic activity
+conducted by:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-015__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An intercollegiate athletic association or
+interscholastic athletic association;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-015__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A professional athletic organization; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-015__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An amateur athletic organization; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-015__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Participates in a recreational sport
+activity that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-015__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Has officially designated coaches;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-015__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Conducts regularly scheduled practices or
+workouts that are supervised by coaches; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-015__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Has established schedules for competitive
+events or exhibitions.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+894)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-021">
+          <num>640B.021</num>
+          <heading>ï¿½Athletic injuryï¿½ defined.</heading>
+          <subsection eId="640B-021__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Participation in an athletic activity
+conducted by:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-021__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An intercollegiate athletic association or
+interscholastic athletic association;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-021__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A professional athletic organization; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-021__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An amateur athletic organization; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-021__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Participation in a recreational sport
+activity that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-021__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Has officially designated coaches;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-021__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Conducts regularly scheduled practices or
+workouts that are supervised by coaches; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-021__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Has established schedules for competitive
+events or exhibitions.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+894)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-025">
+          <num>640B.025</num>
+          <heading>ï¿½Boardï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Boardï¿½
+means the Board of Athletic Trainers.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+894)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-031">
+          <num>640B.031</num>
+          <heading>ï¿½Directionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Directionï¿½
+means an order issued by a physician to follow as a protocol, recommendation or
+oral order that is documented by the licensed athletic trainer or physician, or
+both.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+894)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-035">
+          <num>640B.035</num>
+          <heading>ï¿½Dispositionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Dispositionï¿½
+means the application of accepted management techniques to provide the
+appropriate care and resources concerning an athletic injury.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+894)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-037">
+          <num>640B.037</num>
+          <heading>ï¿½Dry needlingï¿½ defined.</heading>
+          <subsection eId="640B-037__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Means a skilled technique performed by
+an athletic trainer using a single-use, single-insertion, sterile filiform
+needle, which is used to penetrate the skin or underlying tissue to effect
+change in body conditions, pain, movement, impairment and disability.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-037__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Does not include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-037__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The stimulation of an auricular point;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-037__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The stimulation of sinus points or other
+nonlocal points to treat underlying organs;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-037__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Needle retention; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-037__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The teaching or application of acupuncture.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+1587)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-041">
+          <num>640B.041</num>
+          <heading>ï¿½Evaluationï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Evaluationï¿½
+includes, without limitation, the use of joint range of motion, manual muscle
+tests, ligamentous stress tests, neurological tests and functional capacity
+assessments.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+894)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-045">
+          <num>640B.045</num>
+          <heading>ï¿½Grade 5 joint mobilizationï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Grade
+5 joint mobilizationï¿½ means the movement of a joint beyond its physiological
+and capsular end point.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+894)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-051">
+          <num>640B.051</num>
+          <heading>ï¿½Graduate student athletic trainerï¿½ defined.</heading>
+          <subsection eId="640B-051__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Is enrolled in a graduate program of
+study approved by the Board; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-051__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Engages in the practice of athletic
+training under the supervision of a licensed athletic trainer.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+894)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-055">
+          <num>640B.055</num>
+          <heading>ï¿½Joint mobilizationï¿½ defined.</heading>
+          <subsection eId="640B-055__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The diagnosis of a physical disability;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-055__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The massaging of the superficial soft
+tissues of the body;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-055__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The use of X-rays or radium;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-055__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The use of electricity for
+cauterization or surgery;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-055__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Chiropractic adjustment as defined inNRS 634.014; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-055__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Grade 5 joint mobilization.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+894)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-060">
+          <num>640B.060</num>
+          <heading>ï¿½Licenseï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Licenseï¿½
+means a license issued pursuant to the provisions of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+895)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-065">
+          <num>640B.065</num>
+          <heading>ï¿½Licenseeï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Licenseeï¿½
+means a person who has been issued a license as an athletic trainer pursuant to
+the provisions of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+895)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-070">
+          <num>640B.070</num>
+          <heading>ï¿½Managementï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Managementï¿½
+means the act of controlling or influencing an injury, illness or condition.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+895)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-075">
+          <num>640B.075</num>
+          <heading>ï¿½Passive joint range of motionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Passive joint range of motionï¿½ means any
+movement of an articulating surface of a person without the active assistance
+of that person, which is performed with equipment or by another person.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+895)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-081">
+          <num>640B.081</num>
+          <heading>ï¿½Passive range of motionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Passive
+range of motionï¿½ means any movement of a part of a person without the active
+assistance of that person, which is performed with equipment or by another
+person.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+895)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-085">
+          <num>640B.085</num>
+          <heading>ï¿½Physicianï¿½ defined.</heading>
+          <subsection eId="640B-085__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A physician licensed pursuant tochapter 630of NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-085__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An osteopathic physician licensed
+pursuant tochapter 633of NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-085__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A homeopathic physician licensed
+pursuant tochapter 630Aof NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-085__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A chiropractic physician licensed
+pursuant tochapter 634of NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-085__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A naprapath licensed pursuant tochapter 634Bof NRS; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-085__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A podiatric physician licensed pursuant
+tochapter 635of NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+895; A2023,
+1680)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-090">
+          <num>640B.090</num>
+          <heading>ï¿½Practice of athletic trainingï¿½ defined.</heading>
+          <subsection eId="640B-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Practice of athletic trainingï¿½ means:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-090__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The prevention, recognition, assessment,
+management, treatment, disposition or reconditioning of the athletic injury of
+an athlete:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="640B-090__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Whose condition is within the
+professional preparation and education of the licensed athletic trainer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="640B-090__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>That is performed under the direction
+of a physician;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="640B-090__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The organization and administration of
+programs of athletic training;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-090__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The administration of an athletic training
+room;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-090__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The provision of information relating to
+athletic training to members of the public;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-090__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The performance of dry needling under the
+direction of a physician, if an athletic trainer is qualified to do so pursuant
+to the regulations adopted in accordance with subsection 5 ofNRS 640B.260; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-090__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Any combination of the activities described
+in paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-090__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-090__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term does not include the diagnosis
+of a physical disability, massaging of the superficial soft tissues of the body
+or the use of X-rays, radium or electricity for cauterization or surgery.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+895; A2019,
+1588)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-095">
+          <num>640B.095</num>
+          <heading>ï¿½Preventionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Preventionï¿½
+means the application and implementation of physical conditioning programs,
+preparticipation screening and the monitoring of risk factors that may cause an
+athletic injury.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+895)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-101">
+          <num>640B.101</num>
+          <heading>ï¿½Recognitionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Recognitionï¿½
+means the application of visual, verbal or tactile skills to acknowledge the
+presence of an injury, illness or other condition with an understanding of the
+predisposing factors of injury and pathomechanics, which assists in the
+assessment of the injury, illness or other condition.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+895)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-105">
+          <num>640B.105</num>
+          <heading>ï¿½Reconditioningï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Reconditioningï¿½
+means the application of practical and didactic knowledge and functional
+criteria to evaluate readiness for return to partial or full activities.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+895)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-111">
+          <num>640B.111</num>
+          <heading>ï¿½Student athletic trainerï¿½ defined.</heading>
+          <subsection eId="640B-111__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Is enrolled in an undergraduate program
+of study approved by the Board; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-111__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Engages in the practice of athletic
+training under the supervision of a licensed athletic trainer.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+896)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-115">
+          <num>640B.115</num>
+          <heading>ï¿½Supervisionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Supervisionï¿½
+means clinical on-site direction given by a licensed athletic trainer to a
+student athletic trainer or graduate student athletic trainer who is in the
+direct line of sight and within hearing distance of the licensed athletic
+trainer.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+896)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-120">
+          <num>640B.120</num>
+          <heading>ï¿½Treatmentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Treatmentï¿½
+means the application of the necessary knowledge and skills to assess an
+injury, illness or other condition and provide appropriate care.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+896)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-145">
+          <num>640B.145</num>
+          <heading>Applicability of chapter.</heading>
+          <subsection eId="640B-145__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who is licensed pursuant tochapters 630to637,
+inclusive, or chapter640,640Aor641Dof NRS, when acting within the scope of that license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-145__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who is employed by the Federal
+Government and engages in the practice of athletic training within the scope of
+that employment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-145__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person who is temporarily exempt from
+licensure pursuant toNRS 640B.335and
+is practicing athletic training within the scope of the exemption.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+896; A2017,
+3484;2021,
+1600;2023,
+1680)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-155">
+          <num>640B.155</num>
+          <heading>License is revocable privilege; holder acquires no vested right.</heading>
+          <content>
+            <p>A license issued pursuant to the provisions of
+this chapter is a revocable privilege, and the holder of the license does not
+acquire thereby any vested right.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+896)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-170">
+          <num>640B.170</num>
+          <heading>Creation; appointment and qualifications of members; terms,
+vacancies and removal from office; limitations on civil liability.</heading>
+          <subsection eId="640B-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board of Athletic Trainers is
+hereby created.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Governor shall appoint to the
+Board:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-170__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Three members who:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="640B-170__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Are licensed as athletic trainers
+pursuant to the provisions of this chapter; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="640B-170__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Have engaged in the practice of
+athletic training or taught or conducted research concerning the practice of
+athletic training for the 5 years immediately preceding their appointment;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="640B-170__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>One member who is licensed as a physical
+therapist pursuant tochapter 640of NRS and
+who is also licensed as an athletic trainer pursuant to this chapter; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-170__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>One member who is a representative of the
+public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Each member of the Board:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-170__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Must be a resident of this State; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-170__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May not serve more than two consecutive
+terms.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-170__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>After the initial terms, the members of
+the Board must be appointed to terms of 3 years.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-170__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A vacancy on the Board must be filled
+in the same manner as the original appointment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-170__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Governor may remove a member of the
+Board for incompetence, neglect of duty, moral turpitude or malfeasance in
+office.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-170__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>No member of the Board may be held
+liable in a civil action for any act he or she performs in good faith in the execution
+of his or her duties pursuant to the provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+896)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-190">
+          <num>640B.190</num>
+          <heading>Election of Chair; meetings; quorum.</heading>
+          <subsection eId="640B-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-190__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Elect from its members a Chair at the first
+meeting of each year; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-190__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Meet at least three times each year at the
+call of the Chair of the Board, or upon the written request of at least three
+members of the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A majority of the members of the Board
+constitutes a quorum for the transaction of the business of the Board.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+897)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-200">
+          <num>640B.200</num>
+          <heading>Employment of Executive Secretary and other personnel; members
+of Board not entitled to salary; per diem allowance and travel expenses of
+members and employees.</heading>
+          <subsection eId="640B-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board may employ an Executive
+Secretary and any other persons necessary to carry out its duties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The members of the Board are not
+entitled to receive a salary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>While engaged in the business of the
+Board, each member and employee of the Board is entitled to receive a per diem
+allowance and travel expenses at a rate fixed by the Board. The rate must not
+exceed the rate provided for officers and employees of this State generally.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+898)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-210">
+          <num>640B.210</num>
+          <heading>Fiscal year.</heading>
+          <content>
+            <p>The
+Board shall operate on the basis of a fiscal year beginning on July 1 and
+ending on June 30.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+898)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-220">
+          <num>640B.220</num>
+          <heading>Payment of expenses; deposit of money; delegation of authority
+to take disciplinary action; deposit of fines; claim for attorneyï¿½s fees and
+costs of investigation.</heading>
+          <subsection eId="640B-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in subsection
+4, all reasonable expenses incurred by the Board in carrying out the provisions
+of this chapter must be paid from the money that it receives. No part of the
+expenses of the Board may be paid from the State General Fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All money received by the Board must be
+deposited in a bank or other financial institution in this State and paid out
+on its order for its expenses.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-220__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In a manner consistent with the
+provisions ofchapter 622Aof NRS, the Board
+may delegate to a hearing officer or panel its authority to take any
+disciplinary action pursuant to this chapter, impose and collect fines and
+penalties related to that disciplinary action and deposit the money from the
+fines and penalties in a bank or other financial institution in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-220__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a hearing officer or panel is not
+authorized to take disciplinary action pursuant to subsection 3, the Board
+shall deposit all money collected from the imposition of fines and penalties
+with the State Treasurer for credit to the State General Fund. If money has
+been deposited in the State General Fund pursuant to this subsection, the Board
+may present a claim to the State Board of Examiners for recommendation to the
+Interim Finance Committee if money is needed to pay attorneyï¿½s fees or the
+costs of an investigation, or both.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+898; A2005,
+784)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-250">
+          <num>640B.250</num>
+          <heading>Preparation, maintenance and disclosure of certain information
+regarding applicants and licensees; record of proceedings and transactions;
+seal; enforcement of chapter.</heading>
+          <subsection eId="640B-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall prepare and maintain a
+separate list of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-250__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The licensees.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-250__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The applicants for a license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-250__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The licensees whose licenses have been
+revoked or suspended within the preceding year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall, upon request, disclose
+the information included in each list and may charge a fee for a copy of a
+list.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-250__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Board shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-250__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Prepare and maintain a record of its
+proceedings and transactions;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-250__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Adopt a seal of which each court in this State
+shall take judicial notice; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-250__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Enforce the provisions of this chapter and
+any regulations adopted pursuant thereto.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+897)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-260">
+          <num>640B.260</num>
+          <heading>Regulations.</heading>
+          <subsection eId="640B-260__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The passing grades for the examinations
+required byNRS 640B.310and640B.320.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-260__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Appropriate criteria for determining
+whether an entity is an intercollegiate athletic association, interscholastic
+athletic association, professional athletic organization or amateur athletic
+organization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-260__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The standards of practice for athletic
+trainers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-260__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The requirements for continuing
+education for the renewal of a license of an athletic trainer. The requirements
+must be at least equivalent to the requirements for continuing education for
+the renewal of a certificate of an athletic trainer issued by the National
+Athletic Trainers Association Board of Certification or its successor
+organization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-260__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The qualifications an athletic trainer
+must obtain before he or she is authorized to perform dry needling, which must
+include, without limitation, the successful completion of not less than 150
+hours of didactic education and training in dry needling approved by the Board.
+Such hours may include didactic education and training completed as part of a
+graduate-level program of study.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-260__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Procedures concerning the handling of
+needles used to perform dry needling, including, without limitation, procedures
+for the disposal of a needle after a single use.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-260__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Procedures to ensure that an athletic
+trainer does not engage in needle retention.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+897; A2019,
+1588)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-270">
+          <num>640B.270</num>
+          <heading>Inspection of offices and facilities of persons practicing
+athletic training.</heading>
+          <content>
+            <p>A member of the
+Board, an employee of the Board or a person designated by the Board may inspect
+any office or facility where a person is engaged in the practice of athletic
+training to determine whether each person who is engaged in the practice of
+athletic training in that office or facility is in compliance with the
+provisions of this chapter and any regulations adopted pursuant thereto.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+898)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-300">
+          <num>640B.300</num>
+          <heading>License required to practice athletic training; certain acts
+prohibited without license; exception for certain student athletic trainers;
+injunctive relief.</heading>
+          <subsection eId="640B-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, unless he or she has been issued a license as an athletic trainer
+by the Board pursuant to the provisions of this chapter, a person shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-300__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Engage in the practice of athletic training;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-300__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Hold himself or herself out as licensed or
+qualified to engage in the practice of athletic training; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-300__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Use in connection with his or her name any
+title, words, letters or other designation intended to imply or designate him
+or her as a licensed athletic trainer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A student athletic trainer or graduate
+student athletic trainer may engage in the practice of athletic training while
+under the supervision of a licensed athletic trainer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-300__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Board determines that a person
+has engaged, or is about to engage, in any act or practice that constitutes, or
+will constitute, a violation of the provisions of this section, the Board may
+make an application to an appropriate court for an order enjoining that act or
+practice, and upon a showing by the Board that the person has engaged, or is
+about to engage, in that act or practice, the court shall issue an injunction
+against that act or practice. Such an injunction does not prevent a criminal
+prosecution for that act or practice.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+898)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-310">
+          <num>640B.310</num>
+          <heading>Requirements for license: Qualifications; application;
+fingerprints; fees; examination; exception; reapplication after failure to pass
+examination.</heading>
+          <subsection eId="640B-310__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An applicant for a license as an
+athletic trainer must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-310__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be of good moral character;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-310__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Have at least a bachelorï¿½s degree in a
+program of study approved by the Board;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-310__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Submit an application on a form provided by
+the Board;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-310__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Submit a complete set of fingerprints and
+written permission authorizing the Board to forward the fingerprints to the
+Central Repository for Nevada Records of Criminal History for submission to the
+Federal Bureau of Investigation for its report;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-310__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Pay the fees prescribed by the Board pursuant
+toNRS 640B.410, which are not
+refundable; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-310__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Except as otherwise provided in subsection 2
+andNRS 640B.320, pass the examination
+prepared by the National Athletic Trainers Association Board of Certification
+or its successor organization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-310__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An applicant who submits proof of
+current certification as an athletic trainer by the National Athletic Trainers
+Association Board of Certification, or its successor organization, is not
+required to pass the examination required by paragraph</p>
+            </content>
+            <paragraph eId="640B-310__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>of subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-310__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An applicant who fails the examination
+may not reapply for a license for at least 1 year after the date on which the
+applicant submitted the application to the Board.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+899; A2005,
+228;2019,
+4300)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-320">
+          <num>640B.320</num>
+          <heading>Preparation of examinations; prohibition against participating
+in preparing or grading examination.</heading>
+          <subsection eId="640B-320__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the National Athletic Trainers
+Association Board of Certification, or its successor organization, if any,
+ceases to exist or ceases to prepare the examination required byNRS 640B.310, the Board shall designate
+another appropriate national organization to prepare the test. If the Board
+determines that no such organization exists, the Board shall prepare or cause
+to be prepared a test which must be offered not less than two times each year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-320__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The member of the Board who is a
+representative of the public shall not participate in preparing or grading any
+examination required by the Board.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+899)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-330">
+          <num>640B.330</num>
+          <heading>Issuance of license to persons licensed in other jurisdictions.</heading>
+          <subsection eId="640B-330__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, the Board shall issue a license as an athletic trainer, without
+examination, to an applicant who is licensed to engage in the practice of
+athletic training in another state, territory or possession of the United States,
+or the District of Columbia if the applicant submits to the Board:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-330__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An application on a form prescribed by the
+Board; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-330__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The fees prescribed by the Board pursuant toNRS 640B.410.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-330__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall not issue a license
+pursuant to this section unless the jurisdiction in which the applicant is
+licensed had requirements at the time the license was issued that the Board
+determines are substantially equivalent to the requirements for a license as an
+athletic trainer set forth in this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+900)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-335">
+          <num>640B.335</num>
+          <heading>Temporary exemption from licensure to practice athletic training
+for athletic trainer providing services to visiting athletic team or athletic
+event in this State; extension of exemption; conditions and limitations.</heading>
+          <subsection eId="640B-335__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 5, if an athletic trainer who holds a valid and unrestricted license
+to practice athletic training in another state or territory of the United
+States or another country has entered into a written or oral agreement to
+provide services to members of a visiting athletic team or organization, the
+athletic trainer is temporarily exempt from licensure and may practice athletic
+training in this State while providing services pursuant to the agreement to
+members of the visiting athletic team or organization who are present in this
+State for the purpose of engaging in competition or training.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-335__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 5, if an athletic trainer who holds a valid and unrestricted license
+to practice athletic training in another state or territory of the United
+States or another country has been invited by the governing body of a national
+organization to provide services to persons participating in an athletic event
+or training sanctioned or operated by the organization, the athletic trainer is
+temporarily exempt from licensure and may practice athletic training in this
+State while providing services to such persons.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-335__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection and subsection 4, an exemption described in this section is valid
+for a period of not more than 10 days for each competition or training session.
+Upon the application of an athletic trainer, the Board may grant an exemption
+of not more than 20 additional days for each competition or training session.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-335__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>An athletic trainer who is practicing
+athletic training under an exemption described in this section shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-335__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Practice athletic training at a medical
+facility;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-335__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide services to persons who are not
+described in subsection 1 or 2, as applicable; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-335__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Practice athletic training under such an
+exemption for more than 60 days in a calendar year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-335__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The provisions of this section do not
+apply to any contest or exhibition of unarmed combat conducted pursuant tochapter 467of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-335__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>As used in this section, ï¿½visiting
+athletic team or organizationï¿½ means an athletic team or organization which is
+primarily based at a location outside of this State.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+3484)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-340">
+          <num>640B.340</num>
+          <heading>Payment of child support: Submission of certain information by
+applicant; grounds for denial of license; duty of Board. [Effective until the
+date of the repeal of 42 U.S.C. ï¿½ 666, the federal law requiring each state to
+establish procedures for withholding, suspending and restricting the
+professional, occupational and recreational licenses for child support
+arrearages and for noncompliance with certain processes relating to paternity
+or child support proceedings.]</heading>
+          <subsection eId="640B-340__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to any other requirements
+set forth in this chapter:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-340__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An applicant for the issuance of a license to
+engage in the practice of athletic training shall include the social security
+number of the applicant in the application submitted to the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-340__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An applicant for the issuance or renewal of a
+license to engage in the practice of athletic training shall submit to the
+Board the statement prescribed by the Division of Welfare and Supportive
+Services of the Department of Health and Human Services pursuant toNRS 425.520. The statement must be
+completed and signed by the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-340__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall include the statement
+required pursuant to subsection 1 in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-340__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The application or any other forms that must
+be submitted for the issuance or renewal of the license; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-340__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A separate form prescribed by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-340__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A license to engage in the practice of
+athletic training may not be issued or renewed by the Board if the applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-340__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Fails to submit the statement required
+pursuant to subsection 1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-340__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Indicates on the statement submitted pursuant
+to subsection 1 that the applicant is subject to a court order for the support
+of a child and is not in compliance with the order or a plan approved by the
+district attorney or other public agency enforcing the order for the repayment
+of the amount owed pursuant to the order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-340__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If an applicant indicates on the
+statement submitted pursuant to subsection 1 that the applicant is subject to a
+court order for the support of a child and is not in compliance with the order
+or a plan approved by the district attorney or other public agency enforcing
+the order for the repayment of the amount owed pursuant to the order, the Board
+shall advise the applicant to contact the district attorney or other public
+agency enforcing the order to determine the actions that the applicant may take
+to satisfy the arrearage.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+899; A2005,
+2755,2814)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-350">
+          <num>640B.350</num>
+          <heading>Display of license.</heading>
+          <content>
+            <p>Each
+person licensed to practice as an athletic trainer shall display his or her
+license conspicuously at each place where the person engages in the practice of
+athletic training.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+900)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-370">
+          <num>640B.370</num>
+          <heading>Educational requirements to conduct evaluation of athletic
+injury or perform joint mobilization or to perform passive range of motion or
+passive joint range of motion.</heading>
+          <subsection eId="640B-370__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who is licensed as an athletic
+trainer shall not conduct an evaluation of an athletic injury or perform joint
+mobilization unless the person has earned at least a masterï¿½s degree in
+athletic training or a comparable area of study, as determined by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-370__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who is licensed as an athletic
+trainer and has not earned a masterï¿½s degree in athletic training or a
+comparable area of study, as determined by the Board, may perform passive range
+of motion or passive joint range of motion.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+901)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-400">
+          <num>640B.400</num>
+          <heading>Expiration; procedure for renewal or restoration.</heading>
+          <subsection eId="640B-400__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each license to engage in the practice
+of athletic training expires on June 30 of each year and may be renewed if,
+before the license expires, the licensee submits to the Board:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-400__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An application on a form prescribed by the
+Board;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-400__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Proof of completion of the requirements for
+continuing education prescribed by the Board pursuant toNRS 640B.260; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-400__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The fee for the renewal of the license
+prescribed by the Board pursuant toNRS
+640B.410.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-400__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A license that expires pursuant to the
+provisions of this section may be restored if the applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-400__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Complies with the provisions of subsection 1;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-400__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Submits to the Board proof of his or her
+ability to engage in the practice of athletic training; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-400__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Submits to the Board:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="640B-400__subsec_2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The fee for the restoration of an
+expired license; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="640B-400__subsec_2__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>For each year that the license was
+expired, the fee for the renewal of a license prescribed by the Board pursuant
+toNRS 640B.410.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-400__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Board determines that an
+applicant has not submitted satisfactory proof of his or her ability to engage
+in the practice of athletic training, the Board may require the applicant to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-400__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Pass an examination prescribed by the Board;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-400__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Engage in the practice of athletic training
+under the supervision of a person designated by the Board for a period
+prescribed by the Board.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+901)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-405">
+          <num>640B.405</num>
+          <heading>Renewal: Authority of Board to make data request concerning
+demographic and practice information available to applicants for voluntary
+completion and electronic submission; confidentiality of information provided.</heading>
+          <subsection eId="640B-405__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-405__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Make the data request developed by the
+Director of the Department of Health and Human Services pursuant toNRS 439A.116available to applicants for
+the renewal of a license pursuant to this chapter through a link on the electronic
+application for the renewal of a license; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-405__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Request each applicant to complete and
+electronically submit the data request to the Director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-405__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The information provided by an
+applicant for the renewal of a license pursuant to subsection 1 is confidential
+and, except as required by subsection 1, must not be disclosed to any person or
+entity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-405__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An applicant for the renewal of a
+license is not required to complete a data request pursuant to subsection 1 and
+is not subject to disciplinary action, including, without limitation, refusal
+to renew the license, for failure to do so.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+806)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-410">
+          <num>640B.410</num>
+          <heading>Fees; regulations.</heading>
+          <content>
+            <p>The
+Board shall, by regulation, prescribe the following fees which must not exceed:
+Application for a license..................................................................................... $250
+Examination for a license...................................................................................... 350
+Application for a license without
+examination.................................................. 350
+Annual renewal of a license.................................................................................. 350
+Restoration of an expired license......................................................................... 350
+Issuance of a duplicate license............................................................................... 50</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+901)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-700">
+          <num>640B.700</num>
+          <heading>Grounds; authorized disciplinary or other action; private
+reprimands prohibited; orders imposing discipline deemed public records.</heading>
+          <subsection eId="640B-700__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board may refuse to issue a license
+to an applicant or may take disciplinary action against a licensee if, after
+notice and a hearing as required by law, the Board determines that the
+applicant or licensee:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-700__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Has submitted false or misleading information
+to the Board or any agency of this State, any other state, the Federal
+Government or the District of Columbia;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has violated any provision of this chapter or
+any regulation adopted pursuant thereto;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Has been convicted of a felony, a crime
+relating to a controlled substance or a crime involving moral turpitude;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Has an alcohol or other substance use
+disorder;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Has violated the provisions ofNRS 200.5093,432B.220or432C.110;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Is guilty of gross negligence in his or her
+practice as an athletic trainer;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Is not competent to engage in the practice of
+athletic training;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Has failed to provide information requested
+by the Board within 60 days after receiving the request;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Has engaged in unethical or unprofessional
+conduct as it relates to the practice of athletic training;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_1__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>Has been disciplined in another state, a
+territory or possession of the United States, or the District of Columbia for
+conduct that would be a violation of the provisions of this chapter or any
+regulations adopted pursuant thereto if the conduct were committed in this
+State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_1__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>Has solicited or received compensation for
+services that he or she did not provide;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_1__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>If the licensee is on probation, has violated
+the terms of the probation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_1__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>Has terminated professional services to a
+client in a manner that detrimentally affected that client;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_1__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>Has performed or supervised the performance
+of a pelvic examination in violation ofNRS
+629.085; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_1__subsec_o">
+              <num>(o)</num>
+              <content>
+                <p>Has operated a medical facility, as defined
+inNRS 449.0151, at any time during
+which:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="640B-700__subsec_1__subsec_o__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The license of the facility was
+suspended or revoked; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="640B-700__subsec_1__subsec_o__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>An act or omission occurred which
+resulted in the suspension or revocation of the license pursuant toNRS 449.160.
+ï¿½This
+paragraph applies to an owner or other principal responsible for the operation
+of the facility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-700__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board may, if it determines that an
+applicant for a license or a licensee has committed any of the acts set forth
+in subsection 1, after notice and a hearing as required by law:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-700__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Refuse to issue a license to the applicant;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Refuse to renew or restore the license of the
+licensee;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Suspend or revoke the license of the
+licensee;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Place the licensee on probation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Impose an administrative fine of not more
+than $5,000;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Require the applicant or licensee to pay the
+costs incurred by the Board to conduct the investigation and hearing; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Impose any combination of actions set forth
+in paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-700__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-700__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Board shall not issue a private
+reprimand to a licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-700__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>An order that imposes discipline and
+the findings of fact and conclusions of law supporting that order are public
+records.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+901; A2005,
+785,1118;2009,
+898;2019,
+1939,3498;2021,
+1582)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-710">
+          <num>640B.710</num>
+          <heading>Suspension of license for failure to pay child support or comply
+with certain subpoenas or warrants; reinstatement of license. [Effective until
+2 years after the date of the repeal of 42 U.S.C. ï¿½ 666, the federal law
+requiring each state to establish procedures for withholding, suspending and
+restricting the professional, occupational and recreational licenses for child
+support arrearages and for noncompliance with certain processes relating to
+paternity or child support proceedings.]</heading>
+          <subsection eId="640B-710__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Board receives a copy of a court
+order issued pursuant toNRS 425.540that provides for the suspension of all professional, occupational and
+recreational licenses, certificates and permits issued to a licensee, the Board
+shall deem the license to be suspended at the end of the 30th day after the
+date the court order was issued unless the Board receives a letter issued to
+the licensee by the district attorney or other public agency pursuant toNRS 425.550stating that the licensee has
+complied with the subpoena or warrant or has satisfied the arrearage pursuant
+toNRS 425.560.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-710__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall reinstate a license
+that has been suspended by a district court pursuant toNRS 425.540if the Board receives a letter
+issued by the district attorney or other public agency pursuant toNRS 425.550to the licensee stating that
+the licensee has complied with the subpoena or warrant or has satisfied the
+arrearage pursuant toNRS 425.560.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+900; A2005,
+2814)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-720">
+          <num>640B.720</num>
+          <heading>Investigations and hearings; oaths and examination of witnesses;
+payment of fees and mileage; subpoenas.</heading>
+          <subsection eId="640B-720__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In a manner consistent with the
+provisions ofchapter 622Aof NRS, the Board
+may conduct investigations and hold hearings to carry out its duties pursuant
+to the provisions of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-720__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In such a hearing:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640B-720__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any member of the Board may administer oaths
+and examine witnesses; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640B-720__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Board or any member thereof may issue
+subpoenas to compel the attendance of witnesses and the production of books and
+papers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640B-720__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Each witness who is subpoenaed to
+appear before the Board is entitled to receive for his or her attendance the
+same fees and mileage allowed by law to a witness in a civil case. The amount
+must be paid by the party who requested the subpoena. If any witness who has
+not been required to attend at the request of any party is subpoenaed by the
+Board, his or her fees and mileage must be paid from the money of the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-720__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If any person fails to comply with the
+subpoena within 10 days after it is issued, the Chair of the Board may petition
+a court of competent jurisdiction for an order of the court compelling
+compliance with the subpoena.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-720__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Upon such a petition, the court shall
+enter an order directing the person subpoenaed to appear before the court at a
+time and place to be fixed by the court in its order, the time to be not more
+than 10 days after the date of the order, and to show cause why the person has
+not complied with the subpoena. A certified copy of the order must be served
+upon the person subpoenaed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-720__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>If it appears to the court that the
+subpoena was regularly issued by the Board, the court shall enter an order
+compelling compliance with the subpoena. The failure of the person to obey the
+order is a contempt of the court that issued the order.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+902; A2005,
+786)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-730">
+          <num>640B.730</num>
+          <heading>Confidentiality of certain records of Board; exceptions;
+retention of complaints.</heading>
+          <subsection eId="640B-730__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section andNRS 239.0115, a complaint
+filed with the Board, all documents and other information filed with the
+complaint and all documents and other information compiled as a result of an
+investigation conducted to determine whether to initiate disciplinary action
+against a person are confidential, unless the person submits a written
+statement to the Board requesting that such documents and information be made
+public records.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-730__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The charging documents filed with the
+Board to initiate disciplinary action pursuant tochapter
+622Aof NRS and all documents and information considered by the Board when
+determining whether to impose discipline are public records.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-730__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The provisions of this section do not
+prohibit the Board from communicating or cooperating with or providing any
+documents or other information to any other licensing board or any other agency
+that is investigating a person, including, without limitation, a law
+enforcement agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-730__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Board shall retain all complaints
+filed with the Board for at least 10 years, including, without limitation, any
+complaints not acted upon.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+903; A2005,
+786;2007,
+2142;2009,
+899)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-890">
+          <num>640B.890</num>
+          <heading>Limitation on insertion of same needle during dry needling.</heading>
+          <content>
+            <p>An athletic trainer who is qualified to
+perform dry needling pursuant to the regulations adopted in accordance with
+subsection 5 ofNRS 640B.260shall not
+insert the same needle more than one time during the performance of dry
+needling.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+1587)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640B-900">
+          <num>640B.900</num>
+          <heading>Penalties; report by Board to district attorney for prosecution.</heading>
+          <subsection eId="640B-900__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who violates any provision of
+this chapter is guilty of a gross misdemeanor and shall be punished by a fine
+of not more than $2,000 for each offense.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640B-900__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Board has reason to believe that
+a person has violated a provision of this chapter or a regulation adopted
+pursuant thereto, the Board shall report the facts to the district attorney of
+the county where the violation occurred, who may cause appropriate criminal
+proceedings to be brought against that person.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+903)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

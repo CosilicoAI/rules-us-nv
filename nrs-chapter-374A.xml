@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-374A"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-374A"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="374A"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-374A/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-374A/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-374A/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-374A/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_374A">
+        <num>374A</num>
+        <heading>LOCAL TAX FOR EXTRAORDINARY</heading>
+        <section eId="sec_374A-010">
+          <num>374A.010</num>
+          <heading>Imposition of tax in certain counties; rate of tax.</heading>
+          <subsection eId="374A-010__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A tax is hereby imposed on all
+retailers within a county in which:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="374A-010__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The board of county commissioners of the
+county has not imposed the maximum rate of tax that it is authorized to impose
+pursuant toNRS 377B.100;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="374A-010__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The board of trustees of a county school
+district has applied for a grant from the Fund to Assist School Districts in
+Financing Capital Improvements pursuant toNRS
+387.3335; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="374A-010__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The State Board of Examiners has approved the
+application by the board of trustees.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="374A-010__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The rate of the tax imposed by
+subsection 1 is the difference between:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="374A-010__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The rate of tax that the board of county
+commissioners of the county has imposed pursuant toNRS 377B.100; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="374A-010__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The maximum rate of tax that the board of
+county commissioners of the county is authorized to impose pursuant toNRS 377B.100,
+ï¿½but in no
+event may the rate imposed by subsection 1 exceed one-eighth of 1 percent of
+the gross receipts of any retailer from the sale of all tangible personal
+property sold at retail, or stored, used or otherwise consumed, in the county.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+3221)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_374A-020">
+          <num>374A.020</num>
+          <heading>Collection and administration of tax; distribution and use of
+proceeds.</heading>
+          <subsection eId="374A-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The collection of the tax imposed byNRS 374A.010must be commenced on the
+first day of the first calendar quarter that begins at least 120 days after the
+last condition in subsection 1 ofNRS
+374A.010is met.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="374A-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 374A.030, the tax must be
+administered, collected and distributed in the manner set forth inchapter 374of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="374A-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The board of trustees of the school
+district shall transfer the proceeds of the tax imposed byNRS 374A.010from the county school
+district fund to the fund described inNRS
+354.6105which must be established by the board of trustees. The money
+deposited in the fund described inNRS
+354.6105pursuant to this subsection must be accounted for separately in that
+fund and must only be expended by the board of trustees for the cost of the
+extraordinary maintenance, extraordinary repair and extraordinary improvement
+of school facilities within the county.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+3222; A2001,
+1827,2333;2003,
+162,2381;2005,
+1778;2009,
+2086)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_374A-030">
+          <num>374A.030</num>
+          <heading>Sales and Use Tax Account: Remittances; deposits; transfers.</heading>
+          <subsection eId="374A-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>All fees, taxes, interest and penalties
+imposed and all amounts of tax required to be paid pursuant to this chapter
+must be paid to the Department in the form of remittances payable to the
+Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="374A-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department shall deposit the
+payments with the State Treasurer for credit to the Sales and Use Tax Account
+in the State General Fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="374A-030__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The State Controller, acting upon the
+collection data furnished by the Department, shall monthly:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="374A-030__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Transfer from the Sales and Use Tax Account
+1.75 percent of all fees, taxes, interest and penalties collected pursuant to
+this chapter during the preceding month to the appropriate account in the State
+General Fund as compensation to the State for the cost of collecting the tax.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="374A-030__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Determine for each county an amount of money
+equal to any fees, taxes, interest and penalties collected in or for that
+county pursuant to this chapter during the preceding month, less the amount
+transferred to the State General Fund pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="374A-030__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="374A-030__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Transfer the amount determined for each
+county to the Intergovernmental Fund and remit the money to the county school
+district fund.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2086)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,2031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-212"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-212"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="212"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-212/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-212/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-212/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-212/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>212</num>
+        <heading>OFFENSES RELATING TO PRISONS</heading>
+        <section eId="sec_212-010">
+          <num>212.010</num>
+          <heading>Punishment for unauthorized injury of prisoner; forfeiture
+abolished except when statutorily authorized.</heading>
+          <subsection eId="212-010__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every person sentenced to imprisonment
+in any penal institution is under the protection of the law, and any
+unauthorized injury to his or her person shall be punished in the same manner
+as if he or she were not so convicted or sentenced.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-010__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A conviction of crime does not work a
+forfeiture of any property, real or personal, or of any right or interest
+therein unless otherwise specifically authorized by statute. All forfeitures in
+the nature of deodands, or in case of suicide or where a person flees from
+justice, are abolished.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 13; RL ï¿½ 6278; NCL ï¿½ 9962]—(NRS A1985,
+1468)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-020">
+          <num>212.020</num>
+          <heading>Inhumanity to prisoners.</heading>
+          <subsection eId="212-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A jailer or person who is guilty of
+willful inhumanity or oppression to any prisoner under the care or custody of
+the jailer or person shall be punished:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-020__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Where the prisoner suffers substantial bodily
+harm from the inhumanity or oppression, for a category D felony as provided inNRS 193.130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Where no substantial bodily harm results, for
+a gross misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Whether or not the prisoner suffers
+substantial bodily harm, any public officer guilty of willful inhumanity is
+guilty of a malfeasance in office.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 62:108:1866; B ï¿½ 2660; BH ï¿½ 1697; C ï¿½ 1843; RL
+ï¿½ 2818; NCL ï¿½ 4818]—(NRS A1967,
+524;1995,
+1255)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-030">
+          <num>212.030</num>
+          <heading>Warrant for arrest of escaped prisoner.</heading>
+          <subsection eId="212-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When any prisoner escapes from an
+institution or facility of the Department of Corrections, the Director of the
+Department may issue a warrant for the recapture of the escaped prisoner. The
+warrant is effective in any county in this State, and may command the sheriff
+of any county in this State, or any constable thereof, or any police officer of
+any city in this State, to arrest and return the prisoner to the Director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>When any prisoner escapes from a jail,
+branch county jail or other local detention facility, the sheriff, chief of
+police or other officer responsible for the operation of the facility may issue
+a warrant for the recapture of the escaped prisoner. The warrant is effective in
+any county in this State, and may command the sheriff of any county in this
+State, or any constable thereof, or any police officer of any city in this
+State, to arrest and return the prisoner to the officer who issued the warrant.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:72:1866; B ï¿½ 3765; BH ï¿½ 1425; C ï¿½ 1446; RL ï¿½ 7594;
+NCL ï¿½ 11491]—(NRS A1977,
+868;1983,
+726;1991,
+19;2001
+Special Session, 198)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-040">
+          <num>212.040</num>
+          <heading>Expenses of recapture and return of escaped prisoners.</heading>
+          <subsection eId="212-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If an escape is not the result of
+carelessness, incompetency or other official delinquency of the Director or
+other officers of the Department of Corrections, all expenses of enforcing the
+provisions ofNRS 212.030or appertaining
+to the recapture and return of escaped convicts are a charge against the State,
+and must be paid out of the Reserve for Statutory Contingency Account upon
+approval by the State Board of Examiners.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 211.060, all expenses of enforcing the
+provisions ofNRS 212.030or
+appertaining to the recapture and return of escaped convicts are a charge
+against the county, city or other local government responsible for the
+operation of that facility.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [2:72:1866; A1955,
+625]—(NRS A1963,
+1111;1977,
+868;1991,
+19,1755,1823;2001
+Special Session, 198)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-050">
+          <num>212.050</num>
+          <heading>Authority to offer reward in certain cases.</heading>
+          <subsection eId="212-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If any person who has been sentenced to
+confinement in the state prison, by any court having competent authority within
+this State, escapes therefrom, or is charged with murder or the perpetration of
+any crime punishable with death, the Governor may, upon satisfactory evidence
+of the guilt of the accused, offer a reward for information that leads to his
+or her apprehension. The reward offered by the Governor must not exceed the sum
+of $5,000, and must be paid out of the Reserve for Statutory Contingency Account
+upon approval by the State Board of Examiners.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If any person who has been sentenced to
+confinement in a jail, branch county jail or other local detention facility by
+any court having competent authority within this State, escapes therefrom, or
+is charged with murder or the perpetration of any crime punishable with death,
+the board of county commissioners of the county, the governing body of the city
+or other local government responsible for the operation of the facility may,
+upon satisfactory evidence of the guilt of the accused, offer a reward for information
+that leads to his or her apprehension. The reward offered by the board,
+governing body or other local government must not exceed the sum of $5,000.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [80:108:1866; B ï¿½ 2678; BH ï¿½ 1715; C ï¿½ 1861; RL ï¿½
+2831; NCL ï¿½ 4831]—(NRS A1963,
+1111;1971,
+8;1991,
+19,1755,1823)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-070">
+          <num>212.070</num>
+          <heading>Expenses of prosecuting prisoner and person acting in concert with
+prisoner who escapes or commits crime while incarcerated.</heading>
+          <subsection eId="212-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The expenses and costs of prosecuting
+any person for escaping from, or breaking out of, the state prison, or
+attempting so to do, or for the commission of any crime while a prisoner
+therein, or any person acting in concert with such a prisoner, whether as a
+principal or accessory, are a charge against the State and must be paid from
+the Reserve for Statutory Contingency Account upon approval by the State Board
+of Examiners.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The expenses and costs of prosecuting
+any person or persons for escaping from, or breaking out of, a jail, branch
+county jail or other local detention facility or attempting so to do, or for
+the commission of any crime while a prisoner therein, or any person acting in
+concert with such a prisoner, whether as a principal or accessory, are a charge
+against the county, city or other local government responsible for the
+operation of that facility.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 555; A1955,
+625]—(NRS A1963,
+1112;1991,
+20,1755,1824;1993,
+457)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-080">
+          <num>212.080</num>
+          <heading>Recapture and imprisonment.</heading>
+          <content>
+            <p>Every
+person in custody, under sentence of imprisonment for any crime, who shall
+escape from custody, may be recaptured and imprisoned for a term equal to the
+unexpired portion of the original term.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 73; RL ï¿½ 6338; NCL ï¿½ 10022]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-090">
+          <num>212.090</num>
+          <heading>Penalties for prisoner who escapes.</heading>
+          <subsection eId="212-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A felony, shall be punished:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-090__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Where a dangerous weapon is used or one or
+more hostages are taken to facilitate the escape or attempted escape, or
+substantial bodily harm results to anyone as a direct result of the escape or
+attempted escape, for a category B felony by imprisonment in the state prison
+for a minimum term of not less than 2 years and a maximum term of not more than
+20 years, and may be further punished by a fine of not more than $20,000. The
+sentence imposed pursuant to this paragraph must run consecutively after any
+sentence imposed for the original felony, and is not subject to suspension or
+the granting of probation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-090__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Where none of the aggravating factors
+specified in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-090__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>are present, for a category B felony by imprisonment
+in the state prison for a minimum term of not less than 1 year and a maximum
+term of not more than 10 years, and may be further punished by a fine of not
+more than $10,000.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A gross misdemeanor or misdemeanor,
+shall be punished:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-090__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Where a dangerous weapon is used to
+facilitate the escape or attempted escape, for a category B felony by
+imprisonment in the state prison for a minimum term of not less than 1 year and
+a maximum term of not more than 6 years, and may be further punished by a fine
+of not more than $5,000.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-090__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Where no dangerous weapon is used, for a
+gross misdemeanor.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 74; A1955,
+191]—(NRS A1967,
+524;1973,
+67;1979,
+1456;1995,
+1255)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-093">
+          <num>212.093</num>
+          <heading>Manufacture or possession by prisoner of items adapted, designed
+or commonly used to escape prohibited; penalty; exception.</heading>
+          <subsection eId="212-093__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 4, a prisoner who is in lawful custody or confinement, other than
+residential confinement, shall not knowingly manufacture, possess or have in
+his or her custody or control any key, picklock, bolt cutters, wire cutters,
+saw, digging tool, rope, ladder, hook or any other tool or item adapted,
+designed or commonly used for the purpose of escaping or attempting to escape
+from lawful custody or confinement, whether or not such an escape or attempted
+escape actually occurs.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-093__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A prisoner who violates any provision
+of subsection 1 and who is in lawful custody or confinement for a charge,
+conviction or sentence for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-093__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A felony, shall be punished for a category B
+felony by imprisonment in the state prison for a minimum term of not less than
+1 year and a maximum term of not more than 6 years, and may be further punished
+by a fine of not more than $5,000.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-093__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A gross misdemeanor or misdemeanor, shall be
+punished for a gross misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-093__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A sentence imposed upon a prisoner pursuant
+to this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-093__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is not subject to suspension or the granting
+of probation; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-093__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Must run consecutively after the prisoner has
+served any sentences imposed upon the prisoner for the offense or offenses for
+which the prisoner was in lawful custody or confinement when the prisoner
+violated the provisions of subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-093__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The provisions of this section do not
+apply to a prisoner who commits an act described in subsection 1 if the act is
+authorized by the warden, sheriff, administrator or other person responsible
+for administering the prison, or his or her designee, and the prisoner performs
+the act in accordance with the directions or instructions given to the prisoner
+by that person.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+1184)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-095">
+          <num>212.095</num>
+          <heading>Unauthorized absences which constitute escape from prison;
+punishment; exception.</heading>
+          <subsection eId="212-095__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any unauthorized absence from the place
+of assignment by an offender who is on temporary furlough, participating in a
+work or educational release program or otherwise in a classification assignment
+under the provisions ofchapter 209of NRS,
+constitutes an escape from prison which is a category B felony and the offender
+shall be punished as provided inNRS 212.090.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-095__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>This section does not apply to
+offenders released on parole.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+854; A1995,
+1255)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-100">
+          <num>212.100</num>
+          <heading>Aiding prisoner to escape.</heading>
+          <subsection eId="212-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>For a felony, for a category B felony
+by imprisonment in the state prison for a minimum term of not less than 1 year
+and a maximum term of not more than 10 years, and may be further punished by a
+fine of not more than $10,000.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For a gross misdemeanor or misdemeanor:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-100__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Where a dangerous weapon is used to effect or
+facilitate the escape or attempted escape, for a category B felony by
+imprisonment in the state prison for a minimum term of not less than 1 year and
+a maximum term of not more than 6 years, and may be further punished by a fine
+of not more than $5,000.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-100__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Where no dangerous weapon is used, for a
+gross misdemeanor.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 75; RL ï¿½ 6340; NCL ï¿½ 10024]—(NRS A1967,
+524;1979,
+1457;1995,
+1256)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-110">
+          <num>212.110</num>
+          <heading>Custodian permitting escape.</heading>
+          <content>
+            <p>A
+person who willfully allows a prisoner lawfully in the custody of the person to
+escape, or connives at or assists such an escape, or willfully omits any act or
+duty by reason of which an escape is occasioned, contributed to or assisted, is
+guilty of a category B felony and shall, if the person connives at or assists
+the escape, be punished by imprisonment in the state prison for a minimum term
+of not less than 1 year and a maximum term of not more than 6 years, and may be
+further punished by a fine of not more than $10,000, and in any other case, is
+guilty of a gross misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 76; RL ï¿½ 6341; NCL ï¿½ 10025]—(NRS A1967,
+525;1979,
+1457;1995,
+1256)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-120">
+          <num>212.120</num>
+          <heading>Ministerial officer permitting escape.</heading>
+          <content>
+            <p>An
+officer who asks or receives, directly or indirectly, any compensation,
+gratuity or reward, or promise thereof, to procure, assist, connive at or
+permit any prisoner in the custody of the officer to escape, whether the escape
+is attempted or not, or commits any unlawful act tending to hinder justice, is
+guilty of a category B felony and shall be punished by imprisonment in the
+state prison for a minimum term of not less than 1 year and a maximum term of not
+more than 6 years, and may be further punished by a fine of not more than
+$10,000.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 77; RL ï¿½ 6342; NCL ï¿½ 10026]—(NRS A1967,
+525;1979,
+1457;1995,
+1256)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-130">
+          <num>212.130</num>
+          <heading>Concealing escaped prisoner.</heading>
+          <subsection eId="212-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>For a category C felony as provided inNRS 193.130, if the prisoner was held for a
+felony.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For a gross misdemeanor, if the
+prisoner was held for a gross misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-130__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>For a misdemeanor, if the prisoner was
+held for a misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 78; RL ï¿½ 6343; NCL ï¿½ 10027]—(NRS A1967,
+525;1979,
+1458;1995,
+1256)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-135">
+          <num>212.135</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 212.135to212.189, inclusive, unless the context
+otherwise requires, the words and terms defined inNRS 212.137,212.138and212.139have the meanings ascribed to them
+in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+897)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-137">
+          <num>212.137</num>
+          <heading>ï¿½Contractorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Contractorï¿½
+means a person who provides services on a recurring basis to a prison pursuant
+to a contractual agreement with the Department of Corrections or the sheriff,
+chief of police or other officer responsible for the operation of the prison.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+897)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-138">
+          <num>212.138</num>
+          <heading>ï¿½Employeeï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Employeeï¿½
+means a person who works directly for a prison.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+897)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-139">
+          <num>212.139</num>
+          <heading>ï¿½Volunteerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Volunteerï¿½
+means a person who donates his or her time and effort on a recurring basis to a
+prison to enhance the activities and programs of the prison.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+897)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-140">
+          <num>212.140</num>
+          <heading>Unauthorized communication with prisoner.</heading>
+          <content>
+            <p>Every person who, not being authorized by law
+or by any officer authorized thereby, shall have any verbal communication with
+any prisoner in any jail, prison or other penal institution, or shall bring into
+or convey out of the same any writing, clothing, food, tobacco or any article
+whatsoever, shall be guilty of a misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 108; RL ï¿½ 6373; NCL ï¿½ 10057]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-150">
+          <num>212.150</num>
+          <heading>Communication with person charged or convicted of felony in
+county jail.</heading>
+          <subsection eId="212-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person shall not visit, or in any
+manner communicate with, any prisoner convicted of or charged with any felony,
+imprisoned in the county jail, other than the officer having such prisoner in
+charge, the prisonerï¿½s attorney or the district attorney, unless the person has
+a written permission so to do, signed by the district attorney, or has the
+consent of the Director of the Department of Corrections or the sheriff having
+such prisoner in charge.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any person violating, aiding in,
+conniving at or participating in the violation of this section is guilty of a
+gross misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 552; RL ï¿½ 6817; NCL ï¿½ 10497]—(NRS A1967,
+525;1977,
+869;2001
+Special Session, 198;2015,
+2521)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-160">
+          <num>212.160</num>
+          <heading>Furnishing weapon, facsimile, intoxicant or controlled substance
+to state prisoner; possession of controlled substance, marijuana or marijuana
+paraphernalia by state prisoner.</heading>
+          <subsection eId="212-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person, who is not authorized by law,
+who knowingly furnishes, attempts to furnish, or aids or assists in furnishing
+or attempting to furnish to a prisoner confined in an institution of the
+Department of Corrections, or any other place where prisoners are authorized to
+be or are assigned by the Director of the Department, any deadly weapon,
+explosive, a facsimile of a firearm or an explosive, any controlled substance
+or intoxicating liquor, shall be punished:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-160__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Where a deadly weapon, controlled substance,
+explosive or a facsimile of a firearm or explosive is involved, for a category
+B felony by imprisonment in the state prison for a minimum term of not less
+than 1 year and a maximum term of not more than 6 years, and may be further
+punished by a fine of not more than $5,000.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-160__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Where an intoxicant is involved, for a gross
+misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Knowingly leaving or causing to be left
+any deadly weapon, explosive, facsimile of a firearm or explosive, controlled
+substance or intoxicating liquor where it may be obtained by any prisoner
+constitutes, within the meaning of this section, the furnishing of the article
+to the prisoner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-160__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A prisoner confined in an institution
+of the Department of Corrections, or any other place where prisoners are
+authorized to be or are assigned by the Director of the Department, who
+possesses a controlled substance without lawful authorization or marijuana or
+marijuana paraphernalia, regardless of whether the person holds a valid registry
+identification card to engage in the medical use of cannabis pursuant tochapter 678Cof NRS, is guilty of a category D
+felony and shall be punished as provided inNRS
+193.130.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:163:1949; 1943 NCL ï¿½ 11474.01]—(NRS A1963,
+520;1967,
+525;1971,
+2026;1977,
+869;1979,
+1458;1985,
+596;1987,
+1548;1995,
+1257;2001
+Special Session, 198;2017,
+3711;2019,
+3848)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-165">
+          <num>212.165</num>
+          <heading>Prohibition on furnishing portable telecommunications device to
+prisoner and on possession of such devices in jail or institution or facility
+of Department of Corrections; penalties; petition for modification of sentence.</heading>
+          <subsection eId="212-165__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person shall not, without lawful
+authorization, knowingly furnish, attempt to furnish, or aid or assist in
+furnishing or attempting to furnish to a prisoner confined in an institution or
+a facility of the Department of Corrections, or any other place where prisoners
+are authorized to be or are assigned by the Director of the Department, a
+portable telecommunications device. A person who violates this subsection is
+guilty of a category E felony and shall be punished as provided inNRS 193.130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-165__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person shall not, without lawful
+authorization, carry into an institution or a facility of the Department, or
+any other place where prisoners are authorized to be or are assigned by the
+Director of the Department, a portable telecommunications device. A person who
+violates this subsection is guilty of a misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-165__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A prisoner confined in an institution
+or a facility of the Department, or any other place where prisoners are
+authorized to be or are assigned by the Director of the Department, shall not,
+without lawful authorization, possess or have in his or her custody or control
+a portable telecommunications device. A prisoner who violates this subsection
+is guilty of a category D felony and shall be punished as provided inNRS 193.130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-165__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A prisoner confined in a jail or any
+other place where such prisoners are authorized to be or are assigned by the
+sheriff, chief of police or other officer responsible for the operation of the
+jail, shall not, without lawful authorization, possess or have in his or her
+custody or control a portable telecommunications device. A prisoner who
+violates this subsection and who is in lawful custody or confinement for a
+charge, conviction or sentence for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-165__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A felony is guilty of a category D felony and
+shall be punished as provided inNRS 193.130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-165__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A gross misdemeanor is guilty of a gross
+misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-165__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A misdemeanor is guilty of a misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-165__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A sentence imposed upon a prisoner pursuant
+to subsection 3 or 4:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-165__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is not subject to suspension or the granting
+of probation; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-165__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Must run consecutively after the prisoner has
+served any sentences imposed upon the prisoner for the offense or offenses for
+which the prisoner was in lawful custody or confinement when the prisoner
+violated the provisions of subsection 3 or 4.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-165__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A person who was convicted and
+sentenced pursuant to subsection 4 may file a petition, if the underlying
+charge for which the person was in lawful custody or confinement has been
+reduced to a charge for which the penalty is less than the penalty which was
+imposed upon the person pursuant to subsection 4, with the court of original
+jurisdiction requesting that the court, for good cause shown:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-165__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Order that his or her sentence imposed
+pursuant to subsection 4 be modified to a sentence equivalent to the penalty
+imposed for the underlying charge for which the person was convicted; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-165__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Resentence him or her in accordance with the
+penalties prescribed for the underlying charge for which the person was
+convicted.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-165__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>A person who was convicted and
+sentenced pursuant to subsection 4 may file a petition, if the underlying
+charge for which the person was in lawful custody or confinement has been
+declined for prosecution or dismissed, with the court of original jurisdiction
+requesting that the court, for good cause shown:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-165__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Order that his or her original sentence
+pursuant to subsection 4 be reduced to a misdemeanor; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-165__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Resentence him or her in accordance with the
+penalties prescribed for a misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-165__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>No person has a right to the
+modification of a sentence pursuant to subsection 6 or 7, and the granting or
+denial of a petition pursuant to subsection 6 or 7 does not establish a basis
+for any cause of action against this State, any political subdivision of this
+State or any agency, board, commission, department, officer, employee or agent
+of this State or a political subdivision of this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-165__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-165__subsec_9__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Facilityï¿½ has the meaning ascribed to it inNRS 209.065.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-165__subsec_9__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Institutionï¿½ has the meaning ascribed to it
+inNRS 209.071.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-165__subsec_9__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>ï¿½Jailï¿½ means a jail, branch county jail or
+other local detention facility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-165__subsec_9__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>ï¿½Telecommunications deviceï¿½ has the meaning
+ascribed to it in subsection 6 ofNRS
+209.417.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+72; A2013,
+2095;2015,
+3081;2017,
+3660)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-170">
+          <num>212.170</num>
+          <heading>Furnishing intoxicant to person lawfully confined in jail or
+detention facility.</heading>
+          <subsection eId="212-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person who sells, barters,
+exchanges or in any manner disposes of any spirituous or malt liquor or beverage
+to any person confined in any county or city jail or detention facility is
+guilty of a gross misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>This section does not apply to any
+physician prescribing or furnishing liquor to any such person, when the liquor
+is prescribed or furnished for medicinal purposes only.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1911 C&amp;P ï¿½ 220; RL ï¿½ 6485; NCL ï¿½
+10167]—(NRS A1967,
+526;1989,
+1177)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-180">
+          <num>212.180</num>
+          <heading>Sale of liquor within half mile of institution of Department of
+Corrections unlawful; restriction on granting of new licenses; exception.</heading>
+          <subsection eId="212-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, it is unlawful for any person, unless the person was licensed to
+sell alcoholic beverages at that address before July 1, 1983, to sell by
+wholesale or retail any alcoholic beverage within one-half mile of any
+institution under the jurisdiction of the Department of Corrections which is
+designed to house 125 or more offenders within a secure perimeter, and no
+license may be granted authorizing the sale of any alcoholic beverage within
+one-half mile of such an institution.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of subsection 1 do not
+prohibit the sale or consumption of beer and wine at any event held pursuant to
+a special use permit or agreement with the Nevada State Prison Preservation
+Society, or any successor or similar nonprofit corporation, within the historic
+structures, buildings and other property of the Nevada State Prison so long as
+the beer and wine is served in temporary containers and beer or wine is not
+stored at the historic structures, buildings and other property of the Nevada
+State Prison.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-180__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-180__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Beerï¿½ has the meaning ascribed to it inNRS 369.010.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-180__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Historic structures, buildings and other
+property of the Nevada State Prisonï¿½ means the structures, buildings and other
+property described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-180__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 ofNRS 321.004.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-180__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>ï¿½Wineï¿½ has the meaning ascribed to it inNRS 369.140.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 239; RL ï¿½ 6504; NCL ï¿½ 10186]—(NRS A1979,
+1458;1983,
+381;2001
+Special Session, 199;2021,
+2080)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-185">
+          <num>212.185</num>
+          <heading>Possession or control of dangerous weapon or facsimile by
+incarcerated person prohibited.</heading>
+          <subsection eId="212-185__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who is incarcerated in the
+state prison or any county or city jail or detention facility or other
+correctional facility in this State, or is transferred for medical or
+psychiatric treatment at another institution, or is in transit to or from such
+facility, or is in the legal custody of any correctional officer or employee,
+and who possesses or has in his or her custody or control any:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-185__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Instrument or weapon of the kind commonly
+known as a blackjack, slungshot, billy, sand-club, sandbag or metal knuckles;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-185__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Explosive substance, including fixed
+ammunition, or any incendiary or explosive device;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-185__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Dirk, dagger, switchblade knife or sharp
+instrument;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-185__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Pistol, revolver or other firearm;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-185__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Facsimile of a firearm or an explosive;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-185__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Device capable of propelling a projectile
+with sufficient force to cause bodily harm, including, but not limited to, a
+pellet gun, slingshot, blowgun, crossbow or bow and arrow; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-185__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Other similar weapon, instrument or device,
+ï¿½is guilty of
+a category B felony and shall be punished by imprisonment in the state prison
+for a minimum term of not less than 1 year and a maximum term of not more than
+6 years.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-185__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For the purposes of this section,
+incarceration begins upon assignment to a cell or other place within the
+correctional facility after completion of the initial booking procedure.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+269; A1985,
+596;1989,
+1177;1995,
+1257)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-187">
+          <num>212.187</num>
+          <heading>Voluntary sexual conduct between prisoner and person other than
+employee of or contractor or volunteer for prison; penalty.</heading>
+          <subsection eId="212-187__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A prisoner who is in lawful custody or
+confinement, other than in the custody of the Division of Parole and Probation
+of the Department of Public Safety pursuant toNRS 209.4886or209.4888or residential confinement, and
+who voluntarily engages in sexual conduct with another person who is not an
+employee of or a contractor or volunteer for a prison is guilty of a category D
+felony and shall be punished as provided inNRS
+193.130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-187__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 212.188, a person who voluntarily
+engages in sexual conduct with a prisoner who is in lawful custody or
+confinement, other than in the custody of the Division of Parole and Probation
+of the Department of Public Safety pursuant toNRS 209.4886or209.4888or residential confinement, is
+guilty of a category D felony and shall be punished as provided inNRS 193.130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-187__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½sexual
+conductï¿½:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-187__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Includes acts of masturbation, sexual
+penetration or physical contact with another personï¿½s clothed or unclothed
+genitals or pubic area to arouse, appeal to or gratify the sexual desires of a
+person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-187__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Does not include acts of a person who has
+custody of a prisoner or an employee of or a contractor or volunteer for the
+prison in which the prisoner is confined that are performed to carry out the
+necessary duties of such a person, employee, contractor or volunteer.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+613; A1997,
+1643;1999,
+2882;2001,
+1164,1937;2001
+Special Session, 157;2003,
+26,29,2581;2013,
+1169;2015,
+899)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-188">
+          <num>212.188</num>
+          <heading>Sexual abuse of prisoner or unauthorized custodial conduct by
+employee of or contractor or volunteer for prison; penalties.</heading>
+          <subsection eId="212-188__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An employee of or a contractor or
+volunteer for a prison who voluntarily engages in, or attempts to engage in,
+with a prisoner who is in lawful custody or confinement, other than in the
+custody of the Division of Parole and Probation of the Department of Public
+Safety pursuant toNRS 209.4886or209.4888or residential confinement, any
+of the acts set forth in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-188__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-188__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 3, commits sexual
+abuse of a prisoner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-188__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-188__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 3, commits
+unauthorized custodial conduct.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-188__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Unless a greater penalty is provided
+pursuant to any other applicable provision of law, an employee of or a
+contractor or volunteer for a prison who commits:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-188__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Sexual abuse of a prisoner is guilty of a
+category D felony and shall be punished as provided inNRS 193.130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-188__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Unauthorized custodial conduct by engaging in
+any of the acts described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-188__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 3 is guilty of a gross
+misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-188__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Unauthorized custodial conduct by attempting
+to engage in any of the acts described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-188__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 3 is
+guilty of a misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-188__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-188__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Sexual abuseï¿½:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="212-188__subsec_3__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Includes any of the following acts
+between an employee of or a contractor or volunteer for a prison and a
+prisoner, regardless of whether the prisoner consents to the act:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) Sexual intercourse or anal
+intercourse, including penetration, however slight;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) Fellatio, cunnilingus or
+contact between the mouth and the anus;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (III) Penetration, however slight,
+of an object into the genital or anal opening of the body of a prisoner
+committed with the intent to abuse the prisoner or to arouse, appeal to or
+gratify the sexual desires of either person;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (IV) Any other intentional contact
+with a prisonerï¿½s unclothed genitals, pubic area, anus, buttocks, inner thigh
+or breasts committed with the intent to abuse the prisoner or to arouse, appeal
+to or gratify the sexual desires of either person;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (V) Watching a prisoner change
+clothing or use a shower, toilet or urinal;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (VI) Requiring a prisoner to expose
+his or her genitals, buttocks or breasts; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (VII) Capturing an image of the
+private area of a prisoner in violation ofNRS
+200.604.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="212-188__subsec_3__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Does not include acts of an employee
+of or a contractor or volunteer for the prison in which the prisoner is
+confined that are performed to carry out the official duties of such an
+employee, contractor or volunteer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="212-188__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Unauthorized custodial conductï¿½:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="212-188__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Includes any of the following acts
+between an employee of or a contractor or volunteer for a prison and a
+prisoner, regardless of whether the prisoner consents to the act:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) Contact between the mouth and
+any part of the body committed with the intent to abuse the prisoner or to
+arouse, appeal to or gratify the sexual desires of either person;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) Any other intentional contact
+with a prisonerï¿½s clothed genitals, pubic area, anus, buttocks, inner thigh or
+breasts committed with the intent to abuse the prisoner or to arouse, appeal to
+or gratify the sexual desires of either person;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (III) Any threat or request by an
+employee or a contractor or volunteer to engage in any act described in
+sub-subparagraphs (I) or (II); or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (IV) Any display by an employee or a
+contractor or volunteer of his or her unclothed genitals, buttocks or breasts
+in the presence of a prisoner.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="212-188__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Does not include acts of an employee
+of or a contractor or volunteer for the prison in which the prisoner is
+confined that are performed to carry out the official duties of such an
+employee, contractor or volunteer.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+897)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-189">
+          <num>212.189</num>
+          <heading>Unlawful acts related to human excrement or bodily fluid;
+penalty; investigation; testing for communicable diseases; plea bargaining
+prohibited.</heading>
+          <subsection eId="212-189__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 10, a prisoner who is under lawful arrest, in lawful custody or in
+lawful confinement shall not knowingly:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-189__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Store or stockpile any human excrement or
+bodily fluid;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Sell, supply or provide any human excrement
+or bodily fluid to any other person;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Buy, receive or acquire any human excrement
+or bodily fluid from any other person; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Use, propel, discharge, spread or conceal, or
+cause to be used, propelled, discharged, spread or concealed, any human
+excrement or bodily fluid:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="212-189__subsec_1__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>With the intent to have the excrement
+or bodily fluid come into physical contact with any portion of the body of
+another person, including, without limitation, an officer or employee of a
+prison or law enforcement agency, whether or not such physical contact actually
+occurs; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="212-189__subsec_1__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Under circumstances in which the
+excrement or bodily fluid is reasonably likely to come into physical contact
+with any portion of the body of another person, including, without limitation,
+an officer or employee of a prison or law enforcement agency, whether or not
+such physical contact actually occurs.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-189__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 4, if a prisoner who is under lawful arrest or in lawful custody
+violates any provision of subsection 1, the prisoner is guilty of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-189__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For a first offense, a gross misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For a second offense or any subsequent
+offense, a category D felony and shall be punished as provided inNRS 193.130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-189__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 4, if a prisoner who is in lawful confinement, other than
+residential confinement, violates any provision of subsection 1, the prisoner
+is guilty of a category B felony and shall be punished by imprisonment in the
+state prison for a minimum term of not less than 2 years and a maximum term of
+not more than 10 years, and may be further punished by a fine of not more than
+$10,000.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-189__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a prisoner who is under lawful
+arrest, in lawful custody or in lawful confinement violates any provision of
+paragraph</p>
+            </content>
+            <paragraph eId="212-189__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of subsection 1 and, at the time of the offense, the prisoner
+knew that any portion of the excrement or bodily fluid involved in the offense
+contained a communicable disease that causes or is reasonably likely to cause
+substantial bodily harm, the communicable disease is likely to be transmitted
+as a result of the offense and the communicable disease was actually
+transmitted to a victim as a result of the offense, the prisoner is guilty of a
+category A felony and shall be punished by imprisonment in the state prison:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For life with the possibility of parole, with
+eligibility for parole beginning when a minimum of 10 years has been served; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For a definite term of 25 years, with
+eligibility for parole beginning when a minimum of 10 years has been served,
+ï¿½and may be
+further punished by a fine of not more than $50,000.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-189__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A sentence imposed upon a prisoner
+pursuant to subsection 2, 3 or 4:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-189__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is not subject to suspension or the granting
+of probation; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Must run consecutively after the prisoner has
+served any sentences imposed upon the prisoner for the offense or offenses for
+which the prisoner was under lawful arrest, in lawful custody or in lawful
+confinement when the prisoner violated the provisions of subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-189__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>In addition to any other penalty, the
+court shall order a prisoner who violates any provision of paragraph</p>
+            </content>
+            <paragraph eId="212-189__subsec_6__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of
+subsection 1 to reimburse the appropriate person or governmental body for the
+cost of any examinations or testing:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Conducted pursuant to paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 8; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Paid for pursuant to subparagraph</p>
+              </content>
+              <subparagraph eId="212-189__subsec_6__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of
+paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="212-189__subsec_6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 8.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-189__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The warden, sheriff, administrator or
+other person responsible for administering a prison shall immediately and fully
+investigate any act described in subsection 1 that is reported or suspected to
+have been committed in the prison.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-189__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>If there is probable cause to believe
+that an act described in paragraph</p>
+            </content>
+            <paragraph eId="212-189__subsec_8__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of subsection 1 has been committed in a
+prison:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each prisoner believed to have committed the
+act or to have been the bodily source of any portion of the excrement or bodily
+fluid involved in the act shall submit to any appropriate examinations and
+testing to determine whether each such prisoner has any communicable disease.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If possible, a sample of the excrement or
+bodily fluid involved in the act must be recovered and tested to determine
+whether any communicable disease is present in the excrement or bodily fluid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_8__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the excrement or bodily fluid involved in
+the act came into physical contact with any portion of the body of an officer
+or employee of a prison or law enforcement agency:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="212-189__subsec_8__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The results of any examinations or
+testing conducted pursuant to paragraphs</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="212-189__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>must be provided to each
+such officer, employee or other person; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="212-189__subsec_8__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>For each such officer or employee:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) Of a prison, the person or
+governmental body operating the prison where the act was committed shall pay
+for any appropriate examinations and testing requested by the officer or
+employee to determine whether a communicable disease was transmitted to the
+officer or employee as a result of the act; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) Of any law enforcement agency,
+the law enforcement agency that employs the officer or employee shall pay for
+any appropriate examinations and testing requested by the officer or employee
+to determine whether a communicable disease was transmitted to the officer or
+employee as a result of the act.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="212-189__subsec_8__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The results of the investigation conducted
+pursuant to subsection 7 and the results of any examinations or testing
+conducted pursuant to paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>must be submitted to the district
+attorney of the county in which the act was committed or to the Office of the
+Attorney General for possible prosecution of each prisoner who committed the
+act.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-189__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>If a prisoner is charged with
+committing an act described in paragraph</p>
+            </content>
+            <paragraph eId="212-189__subsec_9__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of subsection 1 and a victim or an
+intended victim of the act was an officer or employee of a prison or law
+enforcement agency, the prosecuting attorney shall not dismiss the charge in
+exchange for a plea of guilty, guilty but mentally ill or nolo contendere to a
+lesser charge or for any other reason unless the prosecuting attorney knows or
+it is obvious that the charge is not supported by probable cause or cannot be
+proved at the time of trial.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-189__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>The provisions of this section do not
+apply to a prisoner who is in residential confinement or to a prisoner who
+commits an act described in subsection 1 if the act:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-189__subsec_10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is otherwise lawful and is authorized by the
+warden, sheriff, administrator or other person responsible for administering
+the prison, or his or her designee, and the prisoner performs the act in
+accordance with the directions or instructions given to the prisoner by that
+person;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Involves the discharge of human excrement or
+bodily fluid directly from the body of the prisoner and the discharge is the
+direct result of a temporary or permanent injury, disease or medical condition
+afflicting the prisoner that prevents the prisoner from having physical control
+over the discharge of his or her own excrement or bodily fluid; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-189__subsec_10__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Constitutes voluntary sexual conduct with
+another person in violation of the provisions ofNRS 212.187.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2676; A2003,
+1485;2007,
+1442;2009,
+150;2023,
+3491)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-1895">
+          <num>212.1895</num>
+          <heading>Applicability of certain provisions to custodian and prisoner
+assigned to private facility or institution; training to perform duties of
+correctional officer at private facility or institution; reimbursement to State
+for expenses relating to prisoner who escapes from private facility or
+institution.</heading>
+          <subsection eId="212-1895__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The provisions of this section andNRS 212.030to212.130, inclusive, and212.160to212.189, inclusive, apply to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-1895__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who has custody of a prisoner
+assigned to a private facility or institution in this State; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-1895__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A prisoner assigned to a private facility or
+institution in this State,
+ï¿½to the same
+extent that those provisions would apply if the prisoner had been assigned to a
+facility or institution operated by the Department of Corrections.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-1895__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A private organization that operates a
+private facility or institution must provide training to any person employed by
+the private facility or institution to perform the duties of a correctional
+officer described in subsection 5 ofNRS
+209.131. The training must be equivalent to the training provided to a
+correctional officer in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-1895__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The private organization that operates
+a private facility or institution must reimburse the State for any expenses
+charged against the State or paid by the State pursuant toNRS 212.040,212.050or212.070concerning a prisoner who escapes
+from the private facility or institution.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-1895__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-1895__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Prisonerï¿½ means any person who is:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="212-1895__subsec_4__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Convicted of a crime under the laws of
+this State and sentenced to imprisonment in the state prison; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="212-1895__subsec_4__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Convicted of a crime under the laws of
+another jurisdiction and sentenced to imprisonment by that jurisdiction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="212-1895__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Private facility or institutionï¿½ has the
+meaning ascribed to it inNRS 209.083.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2821)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-190">
+          <num>212.190</num>
+          <heading>Penalty.</heading>
+          <content>
+            <p>If any
+person shall, willfully and intentionally, break down, pull down, or otherwise
+destroy or injure, in whole or in part, any public jail or other place of
+confinement, every person so offending is guilty of a public offense
+proportionate to the value of the loss resulting therefrom, and in no event
+less than a gross misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 493; RL ï¿½ 6758; NCL ï¿½ 10440]—(NRS A1967,
+526)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_212-220">
+          <num>212.220</num>
+          <heading>Penalties for absence without authorization or tampering with
+electronic device; restitution.</heading>
+          <subsection eId="212-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 213.400, a person who has been arrested
+for, charged with or convicted of a felony or a gross misdemeanor, who is being
+supervised electronically pursuant to such an arrest, charge or conviction and
+who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-220__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is absent or attempts to be absent from his
+or her residence, employment or other activity authorized by the supervising
+agency without authorization; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-220__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Removes or disables or attempts to remove or
+disable the electronic device used to supervise the person,
+ï¿½is guilty of
+a gross misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who has been arrested for,
+charged with or convicted of a misdemeanor, who is supervised electronically
+pursuant to such an arrest, charge or conviction and who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="212-220__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is absent or attempts to be absent from his
+or her residence, employment or other activity authorized by the supervising
+agency without authorization; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212-220__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Removes or disables or attempts to remove or
+disable the electronic device used to supervise the person,
+ï¿½is guilty of
+a misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212-220__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In addition to any other penalty, the
+court shall order the person to pay restitution for any damage to or loss of
+the electronic device used to supervise the person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="212-220__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A sentence imposed pursuant to this
+section must run consecutively with the sentence imposed for the original
+offense.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+1225)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

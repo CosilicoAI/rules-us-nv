@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-655"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-655"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="655"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-655/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-655/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-655/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-655/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_655">
+        <num>655</num>
+        <heading>LOCKSMITHS AND SAFE MECHANICS</heading>
+        <section eId="sec_655-010">
+          <num>655.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 655.020to655.060, inclusive, have the meanings
+ascribed to them in such sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+839)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_655-020">
+          <num>655.020</num>
+          <heading>ï¿½Keyï¿½ defined.</heading>
+          <subsection eId="655-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A change key or a key designed to
+operate a specific lock.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="655-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A manipulation key or a key designed so
+that when variously positioned in the keyways of locks will operate the locks.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="655-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A master key or a key designed to
+operate a series of locks which are individually operated by change keys.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="655-020__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A tryout key or a key that will operate
+a series of locks in a larger series of locks.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+839)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_655-030">
+          <num>655.030</num>
+          <heading>ï¿½Lockï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Lockï¿½
+means a mechanical device furnished with a spring and a bolt or with a similar
+contrivance used for fastening a door, strong box or other object and opened by
+means of a key or combination.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+839)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_655-040">
+          <num>655.040</num>
+          <heading>ï¿½Locksmithï¿½ defined.</heading>
+          <subsection eId="655-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Making, repairing or adjusting locks;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="655-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Operating locks by mechanical means
+other than those intended by the manufacturers of the locks.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+839)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_655-050">
+          <num>655.050</num>
+          <heading>ï¿½Permitï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Permitï¿½
+means a permit to operate as a locksmith or safe mechanic.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+839)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_655-060">
+          <num>655.060</num>
+          <heading>ï¿½Safe mechanicï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Safe
+mechanicï¿½ means a person whose occupation consists in whole or in part of
+repairing, operating, adjusting or changing combinations on safes or vaults.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+839)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_655-070">
+          <num>655.070</num>
+          <heading>Permit: Requirement; investigation; issuance; expiration and
+renewal; possession by holder; report of change of address.</heading>
+          <subsection eId="655-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every person who wishes to operate as a
+locksmith or safe mechanic must obtain a permit from the sheriff of the county
+in which the personï¿½s principal place of business is located.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="655-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The sheriff of a county shall
+investigate each applicant and shall issue a permit to each applicant who
+qualifies under any ordinance adopted by the board of county commissioners of
+the county which regulates the occupation of locksmiths and who is found by the
+board of county commissioners to be suitable. An ordinance adopted by the board
+of county commissioners must specify fees for the issuance and renewal of a
+permit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="655-070__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A permit expires 5 years after the date
+it was obtained and may be renewed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="655-070__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The holder of a permit shall have the
+permit in his or her possession at all times.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="655-070__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The holder of a permit shall report any
+change of address of his or her principal place of business to the sheriff of
+the county in which the permit was obtained within 10 days after the change
+occurs.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+839; A1981,
+268;1999,
+31)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_655-075">
+          <num>655.075</num>
+          <heading>Payment of child support: Submission of certain information by
+applicant; grounds for denial of permit; duty of sheriff. [Effective until the
+date of the repeal of 42 U.S.C. ï¿½ 666, the federal law requiring each state to
+establish procedures for withholding, suspending and restricting the
+professional, occupational and recreational licenses for child support
+arrearages and for noncompliance with certain processes relating to paternity
+or child support proceedings.]</heading>
+          <subsection eId="655-075__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to any other requirements
+set forth in this chapter:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="655-075__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An applicant for the issuance of a permit
+shall include the social security number of the applicant in the application
+submitted to the sheriff of the county in which the principal place of business
+of the applicant is located.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="655-075__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An applicant for the issuance or renewal of a
+permit shall submit to the sheriff of the county in which the principal place
+of business of the applicant is located the statement prescribed by the
+Division of Welfare and Supportive Services of the Department of Health and
+Human Services pursuant toNRS 425.520.
+The statement must be completed and signed by the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="655-075__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The sheriff of a county shall include
+the statement required pursuant to subsection 1 in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="655-075__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The application or any other forms that must
+be submitted for the issuance or renewal of the permit; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="655-075__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A separate form prescribed by the sheriff.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="655-075__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A permit may not be issued or renewed
+by the sheriff of a county if the applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="655-075__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Fails to submit the statement required
+pursuant to subsection 1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="655-075__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Indicates on the statement submitted pursuant
+to subsection 1 that the applicant is subject to a court order for the support
+of a child and is not in compliance with the order or a plan approved by the
+district attorney or other public agency enforcing the order for the repayment
+of the amount owed pursuant to the order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="655-075__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If an applicant indicates on the
+statement submitted pursuant to subsection 1 that the applicant is subject to a
+court order for the support of a child and is not in compliance with the order
+or a plan approved by the district attorney or other public agency enforcing
+the order for the repayment of the amount owed pursuant to the order, the
+sheriff shall advise the applicant to contact the district attorney or other
+public agency enforcing the order to determine the actions that the applicant
+may take to satisfy the arrearage.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2184; A2005,
+2800,2807)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_655-078">
+          <num>655.078</num>
+          <heading>Suspension of permit for failure to pay child support or comply
+with certain subpoenas or warrants; reinstatement of permit. [Effective until 2
+years after the date of the repeal of 42 U.S.C. ï¿½ 666, the federal law
+requiring each state to establish procedures for withholding, suspending and
+restricting the professional, occupational and recreational licenses for child
+support arrearages and for noncompliance with certain processes relating to
+paternity or child support proceedings.]</heading>
+          <subsection eId="655-078__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the sheriff of a county receives a
+copy of a court order issued pursuant toNRS
+425.540that provides for the suspension of all professional, occupational
+and recreational licenses, certificates and permits issued to a person who is
+the holder of a permit issued by the sheriff, the sheriff shall deem the permit
+issued to that person to be suspended at the end of the 30th day after the date
+on which the court order was issued unless the sheriff receives a letter issued
+to the holder of the permit by the district attorney or other public agency
+pursuant toNRS 425.550stating that the
+holder of the permit has complied with the subpoena or warrant or has satisfied
+the arrearage pursuant toNRS 425.560.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="655-078__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A sheriff shall reinstate a permit
+issued by the sheriff that has been suspended by a district court pursuant toNRS 425.540if the sheriff receives a
+letter issued by the district attorney or other public agency pursuant toNRS 425.550to the person whose permit was
+suspended stating that the person whose permit was suspended has complied with
+the subpoena or warrant or has satisfied the arrearage pursuant toNRS 425.560.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2184; A2005,
+2807)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_655-080">
+          <num>655.080</num>
+          <heading>Penalties.</heading>
+          <content>
+            <p>Any
+person who violates any provision of this chapter shall be punished by a fine
+of not more than $500, and may be further punished by the revocation of his or
+her permit.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+840)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

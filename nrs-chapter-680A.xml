@@ -1,0 +1,3486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-680A"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-680A"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="680A"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-680A/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-680A/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-680A/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-680A/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_680A">
+        <num>680A</num>
+        <heading>AUTHORIZATION OF INSURERS</heading>
+        <section eId="sec_680A-010">
+          <num>680A.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this Code, unless the context otherwise requires, the words and terms
+defined inNRS 680A.020to680A.050, inclusive, shall have the
+meanings ascribed to them inNRS 680A.020to680A.050, inclusive.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1576; A2019,
+1427)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-020">
+          <num>680A.020</num>
+          <heading>ï¿½Charterï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Charterï¿½
+means the certificate of incorporation, articles of incorporation, articles of
+agreement, articles of association, charter granted by legislative act, or
+other basic constituent document of a corporation, or the power of attorney of
+the attorney-in-fact of a reciprocal insurer.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1576)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-028">
+          <num>680A.028</num>
+          <heading>ï¿½Multiple employer welfare arrangementï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Multiple employer welfare arrangementï¿½ has
+the meaning ascribed to it in 29 U.S.C. ï¿½ 1002(40).</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+1425)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-030">
+          <num>680A.030</num>
+          <heading>ï¿½Mutualï¿½ insurer defined.</heading>
+          <content>
+            <p>A
+ï¿½mutualï¿½ insurer is an incorporated insurer without capital stock and the
+governing body of which is elected by its policyholders. This definition shall
+not be deemed to exclude as ï¿½mutualï¿½ insurers certain foreign insurers found by
+the Commissioner to be organized on the mutual plan under the laws of their
+states of domicile, but having temporary share capital or providing for
+election of the insurerï¿½s governing body on a reasonable basis.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1576)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-040">
+          <num>680A.040</num>
+          <heading>ï¿½Reciprocalï¿½ insurer defined.</heading>
+          <content>
+            <p>A
+ï¿½reciprocalï¿½ insurer is an unincorporated aggregation of subscribers operating
+individually and collectively through an attorney-in-fact common to all such
+persons to provide reciprocal insurance among themselves.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1576)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-050">
+          <num>680A.050</num>
+          <heading>ï¿½Stockï¿½ insurer defined.</heading>
+          <content>
+            <p>A
+ï¿½stockï¿½ insurer is an incorporated insurer with its capital divided into shares
+and owned by its stockholders.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1576)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-058">
+          <num>680A.058</num>
+          <heading>Applicability of chapter to self-funded multiple employer
+welfare arrangements.</heading>
+          <subsection eId="680A-058__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The provisions of this chapter that
+govern domestic insurers, their business, capital and surplus requirements and
+the requirements for eligibility for a certificate of authority govern
+self-funded multiple employer welfare arrangements; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-058__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A self-funded multiple employer welfare
+arrangement must comply with the criteria set forth in this chapter to qualify
+for a certificate of authority.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+1426)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-060">
+          <num>680A.060</num>
+          <heading>Certificate of authority: Required; penalty.</heading>
+          <subsection eId="680A-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person shall not act as an insurer
+and an insurer shall not transact insurance in this State by mail or otherwise,
+except as authorized by a certificate of authority issued by the Commissioner
+and then in full force, and except as to such transactions as are expressly
+otherwise provided in this Code.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A domestic insurer and a foreign
+insurer from offices or by personnel or facilities located in this State shall
+not solicit insurance applications or otherwise transact insurance in another
+state or country unless it holds a subsisting certificate of authority granted
+to it by the Commissioner authorizing it to transact the same kind or kinds of
+insurance in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-060__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any officer, director, agent,
+representative or employee of any insurer who willfully authorizes, negotiates,
+makes or issues any insurance contract in violation of this section is guilty
+of a misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1576; A1983,
+684;1985,
+348)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-070">
+          <num>680A.070</num>
+          <heading>Certificate of authority: Exceptions to requirement.</heading>
+          <subsection eId="680A-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Investigation, settlement or litigation
+of claims under its policies lawfully written in this State, or liquidation of
+assets and liabilities of the insurer, other than collection of new premiums,
+all as resulting from its former authorized operations in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2 ofNRS 680A.060,
+transactions thereunder after issuance of a policy covering only subjects of
+insurance that are not resident, located or expressly to be performed in this
+State at the time of issuance, and lawfully solicited, written and delivered
+outside this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-070__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Prosecution or defense of suits at law,
+except that no insurer unlawfully transacting insurance in this State without a
+certificate of authority may institute or maintain, other than defend, any
+action at law or in equity in any court of this State, either directly or
+through an assignee or successor in interest, to enforce any right, claim or
+demand arising out of such an insurance transaction until the insurer, assignee
+or successor has obtained a certificate of authority. This provision does not
+apply to any suit or action by the receiver, rehabilitator or liquidator of
+such an insurer, assignee or successor under laws similar to those contained inchapter 696Bof NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-070__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Transactions pursuant to surplus lines
+coverages lawfully written underchapter 685Aof NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-070__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A suit, action or proceeding for the
+enforcement or defense of its rights relative to its investments in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-070__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Reinsurance, except as to a domestic
+reinsurer or the reinsurance of a domestic insurer, unless the reinsurance is
+authorized pursuant to subsection 1 ofNRS
+681A.110.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-070__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Transactions in this State involving
+group life insurance, group health or blanket health insurance, or group
+annuities where the master policy or contract of such groups was lawfully
+solicited, issued and delivered pursuant to the laws of a state in which the
+insurer was authorized to transact insurance, to a group organized for purposes
+other than the procurement of insurance or to a group approved pursuant toNRS 688B.030or689B.026, and where the policyholder is
+domiciled or otherwise has a bona fide situs.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-070__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>The issuance of annuities by an
+affiliate of an authorized insurer if the affiliate:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-070__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is approved by the Commissioner;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-070__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is organized as a nonprofit educational
+corporation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-070__subsec_8__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Issues annuities only to nonprofit
+institutions of education and research; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-070__subsec_8__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Reports and pays any premium tax on the
+annuities required pursuant tochapter 680Bof NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-070__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>Transactions, other than for workersï¿½
+compensation insurance or for industrial insurance provided pursuant tochapters 616Ato617,
+inclusive, of NRS, involving the procurement of excess liability insurance
+above underlying liability coverage or self-insured retention of at least
+$25,000,000, if procured from an unauthorized alien or foreign insurer who does
+not solicit, negotiate or enter into such transactions in this State by any
+means, and if procured by a person:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-070__subsec_9__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Whose total annual premiums for property and
+casualty insurance, not including workersï¿½ compensation or industrial
+insurance, is $1,000,000 or more; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-070__subsec_9__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Who employs 250 or more full-time employees.
+ï¿½A person who
+procures insurance in accordance with this subsection shall report and pay any
+premium tax on the insurance required pursuant toNRS 680B.040.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1581; A1985,
+1058;1987,
+484,642;1989,
+599;1991,
+861;1997,
+286;1999,
+400)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-080">
+          <num>680A.080</num>
+          <heading>Eligibility for certificate of authority: General requirements.</heading>
+          <subsection eId="680A-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>No foreign insurer may be authorized to
+transact insurance in this State which does not maintain reserves as required
+bychapter 681Bof NRS (assets and
+liabilities), as applicable to the kind or kinds of insurance transacted by
+such insurer, wherever transacted in the United States of America, or which
+transacts business anywhere in the United States of America on the assessment
+plan, or stipulated premium plan, or any similar plan.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>No insurer may be authorized to
+transact a kind of insurance in this State unless duly authorized or qualified
+to transact such insurance in the state or country of its domicile.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-080__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>No insurer may be authorized to
+transact in this State any kind of insurance which is not within the
+definitions as set forth inNRS 681A.010to681A.080, inclusive (kinds of
+insurance).
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-080__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>No such authority may be granted or
+continued to any insurer while in arrears to the State for fees, licenses,
+taxes, assessments, fines or penalties accrued on business previously
+transacted in this State.
+ï¿½In addition
+to the other requirements set forth in this section, an insurer who proposes to
+transact in this State insurance that protects a policyholder from liability
+arising out of the ownership, maintenance or use of a motor vehicle must
+demonstrate to the satisfaction of the Department of Motor Vehicles that the
+insurer is able to comply with the provisions ofNRS 485.314.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1577; A1997,
+1086;2001,
+2634)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-082">
+          <num>680A.082</num>
+          <heading>Eligibility for certificate of authority: Additional
+requirements for self-funded multiple employer welfare arrangements.</heading>
+          <subsection eId="680A-082__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The employers participating in the
+arrangement are members of a bona fide association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-082__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The employers participating in the
+arrangement exercise control over the arrangement, as follows:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-082__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-082__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>, control exists if
+the board of directors of the bona fide association or the employers
+participating in the arrangement have the right to elect at least 75 percent of
+the individuals designated in the arrangementï¿½s organizational documents as
+having control over operations of the arrangement and individuals designated in
+the arrangementï¿½s organizational documents in fact exercise control over the operation
+of the arrangement; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-082__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The use of a third-party administrator to
+process claims and to assist in the administration of the arrangement is not
+evidence of the lack of control over the operation of the arrangement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-082__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In this State, the arrangement provides
+only health care services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-082__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In this State, the arrangement provides
+or arranges benefits for health care services in compliance with the provisions
+of this title that mandate particular benefits or offerings and with provisions
+that require access to particular types or categories of health care providers
+and facilities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-082__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The arrangement provides health care
+services to not less than 20 employers and not less than 75 employees.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-082__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The arrangement may not solicit
+participation in the arrangement from the general public. However, the
+arrangement may employ licensed insurance producers who receive a commission,
+unlicensed individuals who do not receive a commission, and may contract with a
+licensed insurance producer who may be paid a commission or other remuneration,
+for the purpose of enrolling and renewing the enrollments of employers in the
+arrangement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-082__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The arrangement has been in existence
+and operated actively for a continuous period of not less than 10 years as of
+December 31, 2018, except for an arrangement that has been in existence and
+operated actively since December 31, 2015, and is sponsored by an association
+that has been in existence more than 25 years.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-082__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>The arrangement is not organized or
+maintained solely as a conduit for the collection of premiums and the
+forwarding of premiums to an insurance company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-082__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>The arrangement has aggregate stop loss
+coverage, with an attachment point of 120 percent of expected claims.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+1426)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-090">
+          <num>680A.090</num>
+          <heading>Eligibility for certificate of authority: Ownership; management.</heading>
+          <subsection eId="680A-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>No foreign insurer which is directly or
+indirectly owned or controlled in whole or substantial part by any government
+or governmental agency shall be authorized to transact insurance in Nevada.
+Membership in a mutual insurer, or subscribership in a reciprocal insurer, or
+ownership of stock of an insurer by the Alien Property Custodian or similar
+officer of the United States of America, or ownership of stock or other
+security which does not have voting rights with respect to the management of
+the insurer, or supervision of an insurer by public authority, shall not be
+deemed to be an ownership or control of the insurer for the purposes of this
+subsection.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall not grant or
+continue authority to transact insurance in this state to any insurer or
+proposed insurer:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-090__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Of which any director, officer or other
+individual materially part of the management is found by the Commissioner after
+investigation or upon reliable information to be incompetent, or dishonest, or
+untrustworthy, or of unfavorable business repute;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-090__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Of which the managers are so lacking in
+insurance company managerial experience in operations of the kind proposed in
+this state as to make such operation, currently or prospectively, hazardous to
+or contrary to the best interests of the insurance-buying or investing public
+of this state;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-090__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Which the Commissioner has good reason to
+believe is affiliated directly or indirectly through ownership, control,
+management, reinsurance transactions or other business relations with any
+person or persons of unfavorable business repute; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-090__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Whose business operations are or have been
+marked, to the injury of insurers, stockholders, policyholders, creditors or
+the public, by illegality, or by manipulation of assets, or of accounts, or of
+reinsurance, or by bad faith.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1578)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-095">
+          <num>680A.095</num>
+          <heading>Certificate of authority: Required to transact reinsurance;
+eligibility; exceptions.</heading>
+          <subsection eId="680A-095__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3, an insurer which is not authorized to transact insurance in this
+State may not transact reinsurance with a domestic insurer in this State, by
+mail or otherwise, unless the insurer holds a certificate of authority as a
+reinsurer in accordance with the provisions ofNRS 680A.010to680A.150, inclusive,680A.160to680A.280, inclusive,680A.320and680A.330.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-095__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To qualify for authority only to
+transact reinsurance, an insurer must meet the same requirements for capital
+and surplus as are imposed on an insurer which is authorized to transact
+insurance in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-095__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>This section does not apply to the
+joint reinsurance of title insurance risks or to reciprocal insurance
+authorized pursuant tochapter 694Bof NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+642; A2017,
+2333;2023,
+1856)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-100">
+          <num>680A.100</num>
+          <heading>Name of insurer.</heading>
+          <subsection eId="680A-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>No insurer shall be formed or
+authorized to transact insurance in this state which has or uses a name which
+is the same as or deceptively similar to that of another insurer already so
+authorized, without the written consent of such other insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>No life insurer shall be so authorized
+which has or uses a name deceptively similar to that of another insurer, other
+than a predecessor in interest, authorized to transact insurance in this state
+within the preceding 10 years if life insurance policies originally issued by
+such other insurer are still outstanding in this state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>No insurer shall be formed or
+authorized to transact insurance which has or uses a name the same as or
+deceptively similar to that of any foreign insurer not so authorized if such
+foreign insurer has within the next preceding 12 months signified its intention
+to secure an incorporation in this state under such name, or to do business as
+a foreign insurer in this state under such name, by filing notice of such
+intention with the Commissioner, unless the written consent to the use of such
+name or deceptively similar name has been given by such foreign insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-100__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>No insurer shall be so authorized which
+has or uses a name which tends to deceive or mislead as to the type of
+organization of the insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-100__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>In case of conflict of names between
+two insurers, or a conflict otherwise prohibited under this section, the
+Commissioner may permit (or shall require as a condition to the issuance of an
+original certificate of authority to an applicant insurer) the insurer to use
+in this state such supplementation or modification of its name or such business
+name as may reasonably be necessary to avoid the conflict.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-100__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Except as provided in subsection 5, an
+insurer shall conduct its business in this state in its own corporate (if
+incorporated) or proper (if a reciprocal insurer) name.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1579)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-110">
+          <num>680A.110</num>
+          <heading>Combinations of insuring powers.</heading>
+          <subsection eId="680A-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A life insurer may grant annuities and
+may be authorized to transact in addition only health insurance; but the
+Commissioner may, if the insurer otherwise qualifies therefor, continue so to
+authorize any life insurer which immediately prior to January 1, 1972, was
+lawfully authorized to transact in this state a kind or kinds of insurance in
+addition to life and health insurances and annuity business.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A reciprocal insurer shall not transact
+life insurance.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1579)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-120">
+          <num>680A.120</num>
+          <heading>Required capital.</heading>
+          <subsection eId="680A-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as provided in subsections 2 and
+5, to qualify for authority to transact any one kind of insurance as defined inNRS 681A.010to681A.080, inclusive, or combinations of
+kinds of insurance as shown below, an insurer shall possess and thereafter
+maintain unimpaired paid-in capital stock, if a stock insurer, or unimpaired
+basic surplus, if a mutual or a reciprocal insurer, and free surplus not less
+than 100 percent of the minimum required capital stock or minimum required
+basic surplus, and when first so authorized shall possess initial free surplus,
+all in amounts not less than as determined from the following table:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ FOREIGN
+MUTUALï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ RECIPROCAL
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ STOCK
+INSURERSï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ INSURERSï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ INSURERS
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Minimumï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Minimumï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Minimum
+Kind orï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Requiredï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Initialï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Requiredï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Initialï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Requiredï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Initial
+Kinds ofï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Capitalï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Freeï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Basicï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Freeï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Basicï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Free
+Insuranceï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Stockï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Surplusï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Surplusï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Surplusï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Surplusï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Surplus
+Life....................... 500,000ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 1,000,000ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 500,000ï¿½ï¿½ï¿½ï¿½ï¿½ 1,000,000ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ N/Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ N/A
+Health, Property,
+Casualty, Surety,
+Marine &amp;
+Transportation
+Multiple
+line.................... 500,000ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 1,000,000ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 500,000ï¿½ï¿½ï¿½ï¿½ï¿½ 1,000,000ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 500,000ï¿½ï¿½ï¿½ï¿½ï¿½ 1,000,000
+Title...................... 500,000ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 750,000ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ N/Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ N/Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ N/Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ N/A
+Financial
+Guarantee......... 10,000,000ï¿½ï¿½ï¿½ï¿½ï¿½ 40,000,000ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ N/Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ N/Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ N/Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ N/A
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>At the discretion of the Commissioner,
+a domestic insurer holding a valid certificate of authority to transact
+insurance in this state immediately prior to January 1, 1992, may, if otherwise
+qualified therefor, continue to be so authorized while possessing the amount of
+paid-in capital stock, if a stock insurer, or surplus, if a mutual insurer, required
+by the laws of this state for such authority immediately before January 1,
+1992, for a period not to exceed 2 years. On or before January 1, 1994, the
+insurer shall meet the requirements of subsection 1. The Commissioner shall not
+grant such an insurer authority to transact any other or additional kinds of
+insurance unless it then fully complies with the requirements as to capital and
+surplus, as applied to all kinds of insurance which it then proposes to
+transact, as provided by this section for like foreign insurers applying for
+original certificates of authority pursuant to this Code.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Capital and surplus requirements are
+based upon all the kinds of insurance transacted by the insurer in any and all
+areas in which it operates or proposes to operate, whether or not only a
+portion of such kinds are to be transacted in this state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-120__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As to surplus required for
+qualification to transact one or more kinds of insurance and thereafter to be
+maintained, domestic mutual insurers are governed bychapter 693Aof NRS and domestic reciprocal
+insurers are governed bychapter 694Bof
+NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-120__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>An insurer who transacts financial
+guaranty insurance in this state must transact only one kind of insurance and
+possess and maintain the minimum capital and surplus requirements pursuant to
+subsection 1.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1579; A1991,
+2026)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-130">
+          <num>680A.130</num>
+          <heading>Combinations of insurance for which additional capital not
+required.</heading>
+          <subsection eId="680A-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a life insurer, to grant annuities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a health insurer, to insure against
+congenital defects, as defined inNRS
+681A.020.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1581)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-140">
+          <num>680A.140</num>
+          <heading>Required deposit; deposit in other state.</heading>
+          <subsection eId="680A-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner shall not authorize an
+insurer to transact insurance in this state, other than an alien insurer or a
+title insurer, unless it makes and thereafter continuously maintains on deposit
+in this state, through the Commissioner, cash or securities eligible for such
+deposit under the laws of this state of a fair market value not less than its
+minimum required capital stock (if a stock insurer) or minimum required basic
+surplus (if a mutual or reciprocal insurer), for the protection of the
+insurerï¿½s policyholders or of its policyholders and creditors in the United
+States of America. The Commissioner may adopt regulations which allow the use
+of securities as a deposit without delivery of the securities to the
+Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall not so authorize
+a title insurer unless it so deposits and maintains such cash or securities of
+fair market value not less than its minimum required capital stock as a
+guaranty fund for the security and protection of the holders of, or
+beneficiaries under, the title insurance contracts issued by the insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-140__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner shall not so authorize
+an alien insurer unless it so makes and thereafter continuously maintains such
+a deposit, representing money in excess of all the insurerï¿½s liabilities under
+insurance contracts in force in the United States of America, of a fair market
+value of not less than that required under subsection 1, as to a like foreign
+insurer. The deposit must be held in trust for the protection of all the
+insurerï¿½s policyholders, or policyholders and creditors, in the United States
+of America.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-140__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In lieu of such a deposit made or
+maintained in this state, the Commissioner shall accept the certificate in
+proper form of the public officer having general supervision of insurers in any
+other state to the effect that a deposit of like quality and amount, or part
+thereof, by an insurer is being maintained for like purposes in public custody
+or control pursuant to the laws of that state, if the Commissioner is satisfied
+as to the like quality and amount of the deposit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-140__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>All such deposits in this state are
+subject to the applicable provisions ofchapter
+682Bof NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1581; A1985,
+607)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-150">
+          <num>680A.150</num>
+          <heading>Certificate of authority: Application.</heading>
+          <subsection eId="680A-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a corporation, a copy of its charter
+or certificate or articles of incorporation, together with all amendments
+thereto, or as restated and amended under the laws of its state or country of
+domicile, currently certified by the public officer with whom the originals are
+on file in that state or country.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a domestic incorporated insurer or a
+mutual insurer, a copy of its bylaws, certified by the insurerï¿½s corporate
+secretary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-150__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a reciprocal insurer, a copy of the
+power of attorney of its attorney-in-fact, certified by the attorney-in-fact;
+and if a domestic reciprocal insurer, the declaration provided for inNRS 694B.060.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-150__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A complete copy of its financial
+statement as of not earlier than the December 31 next preceding in form as
+customarily used in the United States by like insurers, sworn to by at least
+two executive officers of the insurer or certified by the public insurance
+supervisory officer of the insurerï¿½s state of domicile, or of entry into the
+United States if an alien insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-150__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A copy of the report of last
+examination made of the insurer within not more than 5 years next preceding,
+certified by the public insurance supervisory officer of the insurerï¿½s state of
+domicile, or of entry into the United States if an alien insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-150__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The appointment of the Commissioner
+pursuant toNRS 680A.250as its
+attorney to receive service of legal process.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-150__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>If a foreign or alien insurer, a
+certificate of the public insurance supervisory officer of its state or country
+of domicile showing that it is authorized or qualified for authority to
+transact in such state or country the kinds of insurance proposed to be
+transacted in this state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-150__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>If a foreign insurer, a certificate as
+to a deposit if it is to be tendered pursuant toNRS 680A.140.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-150__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>A copy of the insurerï¿½s rate book and
+of each form of policy currently proposed to be issued in this state, and of the
+form of application therefor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-150__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>If an alien insurer, a copy of the
+appointment and authority of its United States manager, certified by its
+officer having custody of its records.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-150__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>Designation by the insurer of its
+officer or representative authorized to appoint and remove its agents in this
+state.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1581; A1989,
+2175;1995,
+1753;2009,
+1764)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-155">
+          <num>680A.155</num>
+          <heading>Certificate of authority: Payment of certain taxes and penalties
+by certain applicants required.</heading>
+          <content>
+            <p>An
+insurer which has transacted insurance in this state without a certificate of
+authority must not be granted a certificate of authority unless it pays the tax
+imposed byNRS 680B.027and the
+penalties provided byNRS 685B.190for
+the 5 years immediately preceding the date upon which it applies for a
+certificate of authority.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+606; A1995,
+1612)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-160">
+          <num>680A.160</num>
+          <heading>Certificate of authority: Issuance or refusal; contents and
+ownership.</heading>
+          <subsection eId="680A-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If upon completion of its application
+the Commissioner finds that the insurer has met the requirements therefor under
+this Code, the Commissioner may issue to the insurer a proper certificate of
+authority; if the Commissioner does not so find, the Commissioner shall issue
+an order refusing such certificate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The certificate, if issued, shall state
+the insurerï¿½s name, home office address, state or country of organization, and
+the kinds of insurance the insurer is authorized to transact throughout Nevada.
+At the insurerï¿½s request, the Commissioner may issue a certificate of authority
+limited to particular types of insurance or coverages within a kind of
+insurance as defined inNRS 681A.010to681A.080, inclusive (kinds of
+insurance).
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-160__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Although issued and delivered to the
+insurer, the certificate of authority at all times shall be the property of the
+State of Nevada.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1583; A2019,
+1689)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-165">
+          <num>680A.165</num>
+          <heading>Certificate of authority: Insurer required to notify
+Commissioner of all material changes to information provided in application;
+suspension or revocation or administrative fine for failure to provide certain
+such notice.</heading>
+          <subsection eId="680A-165__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each insurer to which the Commissioner
+issues a certificate of authority shall notify the Commissioner of all material
+changes to the information provided by the insurer in its written application
+pursuant toNRS 680A.150, including,
+without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-165__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any change of address, such as a change to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="680A-165__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The mailing address of the home
+office, or any other physical address, of the insurer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="680A-165__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Any other mailing address of the
+insurer, including, without limitation, the address used for general
+correspondence or for annual renewal notices;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="680A-165__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any changes in the officers, directors or
+ownership of the insurer;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-165__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any changes to the manner of service of legal
+process against the insurer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-165__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Any changes to the articles of incorporation,
+by-laws or power of attorney for the attorney-in-fact of the insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-165__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The notice required by subsection 1
+must be provided to the Commissioner within 30 days after the date on which the
+change occurs.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-165__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If an insurer changes its physical or
+mailing address without giving written notice and the Commissioner is unable to
+locate the insurer after diligent effort, the Commissioner may suspend or
+revoke the insurerï¿½s certificate of authority without a hearing. The mailing of
+a letter by certified mail, return receipt requested, addressed to the insurer
+at its last mailing address appearing on the records of the Division, and the
+return of the letter undelivered, constitutes a diligent effort by the
+Commissioner. In lieu of such a suspension or revocation, the Commissioner may
+levy upon the insurer, and the insurer shall pay forthwith, an administrative
+fine of not more than $2,000 for each act or violation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+2333)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-170">
+          <num>680A.170</num>
+          <heading>Certificate of authority: Amendment; fee.</heading>
+          <content>
+            <p>Upon written application therefor by the
+insurer and due cause shown, the Commissioner may amend the certificate of
+authority of an insurer as required by change of name or to show any change in
+the kinds of insurance the insurer may thereafter transact and is qualified to
+transact in this state. The insurer shall accompany such request with the fee
+for amendment as specified inNRS 680B.010(fee schedule).</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1583)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-173">
+          <num>680A.173</num>
+          <heading>Transfer of insurerï¿½s domicile: Foreign insurer may become
+domestic insurer.</heading>
+          <content>
+            <p>A foreign
+insurer with a certificate of authority to transact insurance in this state may
+become a domestic insurer by complying with the requirements of this Code for
+forming a domestic insurer of the same type. After complying with those
+requirements, the insurer has the same rights and obligations as other domestic
+insurers.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+683)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-175">
+          <num>680A.175</num>
+          <heading>Transfer of insurerï¿½s domicile: Termination of status as
+domestic insurer; qualification as foreign insurer.</heading>
+          <subsection eId="680A-175__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a domestic insurer transfers its
+domicile to another state, it ceases to be a domestic insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-175__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall issue to such an
+insurer a certificate of authority to transact insurance as a foreign insurer
+if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-175__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The insurer qualifies as a foreign insurer;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-175__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Such certification is in the best interest of
+the policyholders of this state.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+683)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-177">
+          <num>680A.177</num>
+          <heading>Transfer of insurerï¿½s domicile: Duties of insurer; effect on
+policies.</heading>
+          <subsection eId="680A-177__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner may require a domestic
+insurer which converts to a foreign insurer or a foreign insurer which converts
+to a domestic insurer to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-177__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Obtain new licenses for its agents;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-177__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Make new appointments of agents; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-177__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Apply for any other new license, certificate
+or authorization.
+ï¿½Any license,
+appointment or authorization which the Commissioner does not require an insurer
+to renew continues in effect after the conversion.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-177__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All policies of an insurer remain in
+effect when it transfers its domicile into or out of this state. The
+Commissioner may require that the insurer endorse the policies with its new
+name or location.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-177__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Every insurer which transfers its
+domicile into or out of this state shall notify the Commissioner at least 30
+days before the transfer. Such an insurer shall file new forms for its policies
+and any other documents required by the Commissioner with the Commissioner on
+or before the effective date of the transfer. The insurer may use existing
+forms if approved by and under the conditions imposed by the Commissioner.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+683)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-180">
+          <num>680A.180</num>
+          <heading>Continuance, expiration and reinstatement of certificate of
+authority.</heading>
+          <subsection eId="680A-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A certificate of authority continues in
+force as long as the insurer is entitled thereto under this Code, and until
+suspended or revoked by the Commissioner or terminated at the insurerï¿½s
+request, if, each year, the insurer:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-180__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Pays on or before March 1 the continuation
+fee provided inNRS 680B.010and, in
+addition to any other fee or charge, all applicable fees required pursuant toNRS 680C.110;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-180__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Files its annual statement for the next
+preceding calendar year as required byNRS
+680A.270; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-180__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Pays, if required, the premium taxes for the
+preceding calendar year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If not so continued by the insurer, its
+certificate of authority expires at midnight on the May 31 next following such
+failure of the insurer to continue it in force, unless earlier revoked for
+failure to pay taxes as provided inNRS
+680A.190. The Commissioner shall promptly notify the insurer of the
+occurrence of any failure resulting in the impending expiration of its
+certificate of authority.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-180__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner may, upon the
+insurerï¿½s request made within 3 months after expiration, reinstate a
+certificate of authority which the insurer has inadvertently permitted to
+expire, after the insurer has fully cured all its failures which resulted in
+the expiration, and upon payment by the insurer of the fee for reinstatement
+specified in subsection 1 ofNRS 680B.010.
+Otherwise, the insurer may be granted another certificate of authority only
+after filing an application therefor and meeting all other requirements for an
+original certificate of authority in this state.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1583; A1987,
+643;1997,
+3017;2009,
+1765)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-190">
+          <num>680A.190</num>
+          <heading>Refusal to continue or suspension or revocation of certificate
+of authority: Mandatory grounds; notice; hearing.</heading>
+          <subsection eId="680A-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner shall refuse to
+continue or shall suspend or revoke an insurerï¿½s certificate of authority:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-190__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If such action is required by any provision
+of this Code;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-190__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If it is a foreign insurer and it no longer
+meets the requirements for a certificate of authority, on account of deficiency
+of capital or surplus or otherwise;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-190__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If it is a domestic insurer and it has failed
+to cure an impairment of capital or surplus within the time allowed therefor by
+the Commissioner under this Code or is otherwise no longer qualified for the
+certificate of authority;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-190__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the insurerï¿½s certificate of authority to
+transact insurance therein is suspended or revoked by its state of domicile, or
+state of entry into the United States of America if an alien insurer;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-190__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>For failure of the insurer to pay taxes on
+its premiums if required by this Code; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-190__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>For failure of the insurer to furnish
+information to the Commissioner relating to medical malpractice insurance
+issued by the insurer in this State or any other state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except in case of insolvency,
+impairment of required capital or surplus, or suspension or revocation by
+another state, the Commissioner shall give the insurer at least 20 daysï¿½ notice
+in advance of any such refusal, suspension or revocation under this section,
+and of the particulars of the reasons therefor. If the insurer requests a
+hearing thereon within those 20 days, the Commissionerï¿½s proposed action is
+automatically stayed until an order by the Commissioner is made after the
+hearing.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1584; A1975,
+1304;1987,
+643)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-200">
+          <num>680A.200</num>
+          <heading>Refusal to continue or suspension, limitation or revocation of
+certificate of authority: Grounds; administrative fine in lieu of certain
+suspension or revocation; immediate suspension; statute of limitations.</heading>
+          <subsection eId="680A-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 616B.472, the Commissioner may refuse
+to continue or may suspend, limit or revoke an insurerï¿½s certificate of
+authority if the Commissioner finds after a hearing thereon, or upon waiver of
+hearing by the insurer, that the insurer has:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-200__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Violated or failed to comply with any lawful
+order of the Commissioner;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-200__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Conducted business in an unsuitable manner;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-200__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Willfully violated or willfully failed to
+comply with any lawful regulation of the Commissioner; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-200__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Violated any provision of this Code other
+than one for violation of which suspension or revocation is mandatory.
+ï¿½In lieu of
+such a suspension or revocation, the Commissioner may levy upon the insurer,
+and the insurer shall pay forthwith, an administrative fine of not more than $2,000
+for each act or violation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided inchapter 696Bof NRS, the Commissioner shall
+suspend or revoke an insurerï¿½s certificate of authority on any of the following
+grounds if the Commissioner finds after a hearing thereon that the insurer:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-200__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is in unsound condition, is being
+fraudulently conducted, or is in such a condition or is using such methods and
+practices in the conduct of its business as to render its further transaction
+of insurance in this State currently or prospectively hazardous or injurious to
+policyholders or to the public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-200__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>With such frequency as to indicate its
+general business practice in this State:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="680A-200__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Has without just cause failed to pay,
+or delayed payment of, claims arising under its policies, whether the claims
+are in favor of an insured or in favor of a third person with respect to the
+liability of an insured to the third person; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="680A-200__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Without just cause compels insureds or
+claimants to accept less than the amount due them or to employ attorneys or to
+bring suit against the insurer or such an insured to secure full payment or
+settlement of such claims.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="680A-200__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Refuses to be examined, or its directors,
+officers, employees or representatives refuse to submit to examination relative
+to its affairs, or to produce its books, papers, records, contracts,
+correspondence or other documents for examination by the Commissioner when
+required, or refuse to perform any legal obligation relative to the
+examination.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-200__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as otherwise provided inNRS 681A.110, has reinsured all its risks
+in their entirety in another insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-200__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Has failed to pay any final judgment rendered
+against it in this State upon any policy, bond, recognizance or undertaking as
+issued or guaranteed by it, within 30 days after the judgment became final or
+within 30 days after dismissal of an appeal before final determination,
+whichever date is the later.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In addition to the grounds specified in
+subsections 1 and 2, the Commissioner may refuse to continue or may suspend,
+limit or revoke an insurerï¿½s certificate of authority if the Commissioner finds
+after a hearing thereon, or upon waiver of hearing by the insurer, that the
+insurer has failed to comply with any provision ofNRS 439B.800to439B.875, inclusive, if applicable, or
+any applicable regulation adopted pursuant thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-200__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Commissioner may, without advance
+notice or a hearing thereon, immediately suspend the certificate of authority
+of any insurer as to which proceedings for receivership, conservatorship,
+rehabilitation or other delinquency proceedings have been commenced in any
+state by the public officer who supervises insurance for that state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-200__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>No proceeding to suspend, limit or
+revoke a certificate of authority pursuant to this section may be maintained
+unless it is commenced by the giving of notice to the insurer within 5 years
+after the occurrence of the charged act or omission. This limitation does not
+apply if the Commissioner finds fraudulent or willful evasion of taxes.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1584; A1983,
+431;1991,
+808;1995,
+1613,1754;1997,
+530;1999,
+1734;2021,
+3060)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-205">
+          <num>680A.205</num>
+          <heading>Determination of hazardous financial condition of insurer:
+Regulations; hearing; disciplinary actions; review of order.</heading>
+          <subsection eId="680A-205__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner may adopt regulations
+to define when an insurer is considered to be in a hazardous financial
+condition and to set forth the standards to be considered by the Commissioner
+in determining whether the continued operation of an insurer transacting
+business in this state may be considered to be hazardous to its policyholders
+or creditors or to the general public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-205__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Commissioner determines after a
+hearing that any insurer is in a hazardous financial condition, the
+Commissioner may, instead of suspending or revoking the insurerï¿½s certificate
+of authority, limit the insurerï¿½s certificate of authority as the Commissioner
+deems reasonably necessary to correct, eliminate or remedy any conduct,
+condition or ground that is deemed to be a cause of the hazardous financial
+condition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-205__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An order or decision of the
+Commissioner under this section is subject to review in accordance withNRS 679B.310to679B.370, inclusive, at the request of
+any party to the proceedings whose interests are substantially affected.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1752)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-210">
+          <num>680A.210</num>
+          <heading>Suspension, limitation or revocation of or refusal to continue
+certificate of authority: Order and notice; effect on agentsï¿½ authority.</heading>
+          <subsection eId="680A-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>All suspensions, limitations or
+revocations of, or refusals to continue, an insurerï¿½s certificate of authority
+must be by the Commissionerï¿½s order given to the insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon issuance of the order, the
+Commissioner shall forthwith give notice thereof to the insurerï¿½s agents in
+this state, of record in the Division, and shall also suspend, limit or revoke
+the authority of such agents to represent the insurer.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1585; A1991,
+1621;1993,
+1904)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-220">
+          <num>680A.220</num>
+          <heading>Suspension of certificate of authority: Duration; insurerï¿½s
+obligations during suspension period; reinstatement.</heading>
+          <subsection eId="680A-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Suspension of an insurerï¿½s certificate
+of authority must be for such period as the Commissioner specifies in the order
+of suspension, but not to exceed 1 year. During the suspension period the
+Commissioner may rescind or shorten the suspension by further order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>During the suspension period the
+insurer shall not solicit or write any new business in this state, but must
+file its annual statement, pay fees, licenses and taxes as required under this
+Code, and may service its business already in force in this state, as if the
+certificate of authority had continued in full force.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-220__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon expiration of the suspension period,
+if within such period the certificate of authority has not terminated, the
+insurerï¿½s certificate of authority is automatically reinstated unless the
+Commissioner finds that the causes of the suspension, being other than a past
+event, are continuing, or that the insurer is otherwise not in compliance with
+the requirements of this Code, and of which the Commissioner shall give the
+insurer notice not less than 30 days in advance of expiration of the suspension
+period.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-220__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Upon reinstatement of the insurerï¿½s
+certificate of authority, the authority of its agents in this state to
+represent the insurer is also reinstated. The Commissioner shall promptly
+notify the insurer and its agents in this state, of record in the Division, of
+such reinstatement.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1586; A1991,
+1621;1993,
+1904)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-225">
+          <num>680A.225</num>
+          <heading>Penalty for failure of insurer to comply with certain
+requirements for electronic maintenance, transmittal and exchange of health
+information.</heading>
+          <subsection eId="680A-225__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Commissioner receives
+notification from the Department of Health and Human Services pursuant toNRS 439.5895that an insurer is not in
+compliance with the requirements of subsection 4 ofNRS 439.589, the Commissioner may, after
+notice and the opportunity for a hearing in accordance with the provisions of
+this title, require corrective action or impose an administrative fine in the
+amount prescribed byNRS 680A.200.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-225__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall not suspend or
+revoke the certificate of authority of an insurer for failure to comply with
+the requirements of subsection 4 ofNRS
+439.589.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+1855)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-230">
+          <num>680A.230</num>
+          <heading>Applicability of general corporation laws to foreign insurers;
+exception.</heading>
+          <content>
+            <p>The general corporation
+laws of this state do not apply to foreign insurers holding certificates of
+authority to transact insurance in this state, except as otherwise provided inNRS 80.190.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1586; A1971,
+1933;1987,
+1063;1989,
+627;1991,
+1318)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-240">
+          <num>680A.240</num>
+          <heading>Issuance of policies under additional titles: Registration;
+inclusion of such business in annual statement.</heading>
+          <subsection eId="680A-240__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A property insurer or multiple line
+insurer authorized to transact insurance in Nevada shall have the right to
+issue property insurance policies under its own name and under additional
+ï¿½titlesï¿½ or under additional ï¿½titlesï¿½ duly registered by the insurer with the
+Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-240__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A life insurer or multiple line insurer
+authorized to transact insurance in Nevada shall have the right to issue life
+or health insurance policies under its own name and under additional ï¿½titlesï¿½
+or under additional ï¿½titlesï¿½ duly registered by the insurer with the
+Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-240__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner shall, upon the
+insurerï¿½s request, furnish to the insurer the form required for such
+registration, and the insurer shall pay the fee for registration as specified
+inNRS 680B.010(fee schedule).
+Registered titles shall be shown on the insurerï¿½s certificate of authority and
+shall remain in effect for so long as the insurerï¿½s certificate of authority is
+in effect, subject to earlier termination of the registration at the insurerï¿½s
+request.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-240__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>All business transacted by the insurer
+under additional titles shall be included in business and transactions of the
+insurer to be shown by its annual statement filed with the Commissioner, for
+all purposes under this Code.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1586; A2017,
+2333)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-250">
+          <num>680A.250</num>
+          <heading>Service of process: Appointment of Commissioner as attorney in
+fact for receipt required for certain insurers; methods of serving.</heading>
+          <subsection eId="680A-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Before the Commissioner may authorize
+it to transact insurance in this state, each insurer must appoint the
+Commissioner as its attorney in fact to receive service of legal process issued
+against the insurer in this state. The appointment must be made on a form as
+designated and furnished by the Commissioner, and must be accompanied by a copy
+of a resolution of the board of directors or like governing body of the
+insurer, if an incorporated insurer, showing that those officers who executed
+the appointment were authorized to do so on behalf of the insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The appointment must be irrevocable,
+must bind the insurer and any successor in interest to the assets or
+liabilities of the insurer, and must remain in effect as long as there is in
+force any contract of the insurer in this state or any obligation of the
+insurer arising out of its transactions in this state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-250__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Service of such process against a
+foreign or alien insurer must be made only by service thereof upon the
+Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-250__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Service of such process against a
+domestic insurer may be made as provided in this section, or in any other
+manner provided by Nevada Rules of Civil Procedure.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-250__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>At the time of application for a
+certificate of authority the insurer shall file the appointment with the
+Commissioner, together with a designation of the person to whom process against
+it served upon the Commissioner is to be forwarded. The insurer shall provide
+written notice to the Commissioner of any change of such a designation by a new
+filing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-250__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Service of process against an insurer
+for whom the Commissioner is attorney in fact must be made in accordance withNRS 680A.260.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1587; A1985,
+607;2021,
+2943)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-260">
+          <num>680A.260</num>
+          <heading>Service of process: Method of serving if Commissioner
+statutorily designated as attorney in fact for receipt; extension of time to
+appear; record.</heading>
+          <subsection eId="680A-260__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Commissioner is designated by
+specific statute as attorney in fact for the purpose of receiving service of
+process, such service must be made by delivering to and leaving with the
+Division, one copy of the process, together with the fee therefor as specified
+inNRS 680B.010, taxable as costs in
+the action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-260__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon such service, the Division shall
+forthwith forward such process, with the date and time of service of the same
+on the Division noted thereon, to the person currently designated to receive
+the copy as provided by specific statute. Service of process is complete when
+the copy has been so forwarded.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-260__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Process served in the manner provided
+by this section for all purposes constitutes valid and binding personal service
+within this state. If summons is served under this section, the time within
+which the insurer is required to appear must be extended an additional 10 days
+beyond that otherwise allowed by Nevada Rules of Civil Procedure.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-260__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Commissioner shall keep a record of
+the day of service upon him or her of all legal process.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-260__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>For the purposes of this section,
+ï¿½processï¿½ includes only a summons or the initial documents served in an action.
+The Commissioner is not required to serve any documents after the initial
+service of process.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1587; A1985,
+608;2021,
+2944)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-265">
+          <num>680A.265</num>
+          <heading>Annual financial statement: Filing; reporting of violation of
+law found during audit; penalty for failure to file; consolidation of
+statements prohibited; exception; regulations.</heading>
+          <subsection eId="680A-265__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 5, every:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-265__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Domestic insurer;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-265__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Fraternal benefit society authorized to do
+business in this State pursuant tochapter 695Aof NRS; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-265__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Corporation subject to the provisions ofchapter 695Bof NRS,
+ï¿½shall file
+with the Commissioner, on or before June 1 of each year, a financial statement
+as of December 31 of the preceding calendar year that is certified by a
+certified public accountant who is not an employee of the insurer. The
+Commissioner may request a financial statement from a foreign or alien insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-265__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a certified public accountant finds
+any violation of the laws of this State during any audit he or she conducts
+pursuant to subsection 1, the certified public accountant shall, if the
+Commissioner has adopted regulations pursuant to subsection 6 pertaining to the
+reporting of a violation found during an audit, report the violation in
+accordance with those regulations.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-265__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An insurer who does not file a report
+pursuant to subsection 1 on or before June 1 of each year is subject to the
+penalty imposed pursuant toNRS 680A.280.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-265__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A statement filed with the Commissioner
+must not be a consolidated report with any other subsidiary, affiliate or
+parent company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-265__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The provisions of this section do not
+apply to a domestic insurer who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-265__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is not licensed or authorized to do business
+in any state other than Nevada; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-265__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is exempted from the requirements of this
+section by order of the Commissioner for good cause shown.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-265__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Commissioner may adopt reasonable
+regulations relating to annual audited financial reports to administer the
+provisions of this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+2026; A1995,
+1755)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-270">
+          <num>680A.270</num>
+          <heading>Filing of annual statement and payment of fee by authorized
+insurers; statement of alien insurer; actions by Commissioner for failure to
+file; filing of quarterly statement by domestic insurer; regulations;
+confidentiality of certain information; compensation information.</heading>
+          <subsection eId="680A-270__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each authorized insurer shall annually
+on or before March 1, or within any reasonable extension of time therefor which
+the Commissioner for good cause may have granted on or before that date, file
+with the Commissioner a full and true statement of its financial condition,
+transactions and affairs as of December 31 preceding. The statement must be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-270__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In the general form and context of, and
+require information as called for by, an annual statement as is currently in
+general and customary use in the United States for the type of insurer and
+kinds of insurance to be reported upon, with any useful or necessary
+modification or adaptation thereof, supplemented by additional information
+required by the Commissioner;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-270__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prepared in accordance with:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="680A-270__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>TheAnnual Statement Instructionsfor the type of insurer to be reported on as adopted by the National
+Association of Insurance Commissioners for the year in which the insurer files
+the statement; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="680A-270__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>TheAccounting Practices and
+Procedures Manualadopted by the National Association of Insurance
+Commissioners and effective on January 1, 2001, and as amended by the National
+Association of Insurance Commissioners after that date; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="680A-270__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Verified by the oath of the insurerï¿½s
+president or vice president and secretary or actuary, as applicable, or, in the
+absence of the foregoing, by two other principal officers, or if a reciprocal
+insurer, by the oath of the attorney-in-fact, or its like officers if a
+corporation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-270__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The statement of an alien insurer must
+be verified by its United States manager or other officer who is authorized to
+do so, and may relate only to the insurerï¿½s transactions and affairs in the
+United States unless the Commissioner requires otherwise. If the Commissioner
+requires a statement as to the insurerï¿½s affairs throughout the world, the
+insurer shall file the statement with the Commissioner as soon as reasonably
+possible.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-270__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner may refuse to
+continue, or may suspend or revoke, the certificate of authority of any insurer
+failing to file its annual statement when due.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-270__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>At the time of filing its annual
+statement with the Commissioner, the insurer shall pay the fee for filing its
+annual statement as prescribed byNRS
+680B.010.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-270__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Each domestic insurer shall file with
+the Commissioner and the National Association of Insurance Commissioners a
+quarterly statement in the form most recently adopted by the National
+Association of Insurance Commissioners for that type of insurer. The quarterly
+statement must be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-270__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Prepared in accordance with the instructions
+which are applicable to that form, including, without limitation, the required
+date of submission for the form; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-270__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Filed by electronic means.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-270__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Commissioner may adopt regulations
+requiring each domestic, foreign and alien insurer which is authorized to
+transact insurance in this state to file the insurerï¿½s annual statement with
+the National Association of Insurance Commissioners or its successor
+organization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-270__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 239.0115, all work papers, documents
+and materials prepared pursuant to this section by or on behalf of the Division
+are confidential and must not be disclosed by the Division.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-270__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>To the extent that theAnnual
+Statement Instructionsreferenced in subparagraph (1) of paragraph</p>
+            </content>
+            <paragraph eId="680A-270__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of
+subsection 1 or the instructions for the preparation of quarterly statements
+referenced in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-270__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 5 require the disclosure of
+compensation paid to or on behalf of an insurerï¿½s officers, directors or
+employees, the information may be filed with the Commissioner and the National
+Association of Insurance Commissioners as exhibits separate from the annual and
+quarterly statements required by this section. Except as otherwise provided inNRS 239.0115, the compensation information
+described in this subsection is confidential and must not be disclosed by the
+Division.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1588; A1995,
+1755;2003,
+3279;2007,
+2155;2017,
+2334;2019,
+1690)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-280">
+          <num>680A.280</num>
+          <heading>Annual or other required statement: Penalties for failure to
+file or false statements.</heading>
+          <subsection eId="680A-280__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any insurer failing, without just cause
+beyond the reasonable control of the insurer, to file a statement as required
+inNRS 680A.265and680A.270shall be required to pay a
+penalty of $100 for each dayï¿½s delay, but not to exceed $3,000 in aggregate
+amount, to be recovered in the name of the State of Nevada by the Attorney General.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-280__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any director, officer, agent or
+employee of any insurer who subscribes to, makes or concurs in making or
+publishing, any annual or other statement required by law, knowing the same to
+contain any material statement which is false, is guilty of a gross
+misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1588; A2017,
+2335;2019,
+1691)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-300">
+          <num>680A.300</num>
+          <heading>Agent required; execution of emergency bond.</heading>
+          <subsection eId="680A-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>No authorized insurer may make, write,
+place, renew or cause to be made, placed or renewed, any policy or duplicate
+policy, endorsement or contract of insurance of any kind upon persons, property
+or risks resident, located or to be performed in this State, except through its
+duly appointed and licensed agents.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In any case where it is necessary to
+execute an emergency bond and a commissioned agent authorized to execute the
+bond is not present, a manager or other employee of the insurer having
+authority under a power of attorney may execute the bond in order to produce a
+valid contract between the insurer and the obligee. The commissioned agent who
+executes the bond shall make and retain an adequate office record of the transaction.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1589; A1981,
+704;2009,
+1765;2019,
+1691)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-320">
+          <num>680A.320</num>
+          <heading>Transaction or agreement with parent corporation, financial
+holding company, depository institution, subsidiary or affiliated person: Prohibitions;
+duty and obligation of insurer.</heading>
+          <subsection eId="680A-320__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>For the purposes of this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-320__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An ï¿½affiliated personï¿½ is a person controlled
+by any combination of the insurer, the parent corporation, a subsidiary or the
+principal stockholders or officers or directors of any of the foregoing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-320__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Depository institutionï¿½ has the meaning
+ascribed to it in section 3 of the Federal Deposit Insurance Act, 12 U.S.C. ï¿½
+1813</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-320__subsec_1__subsec_c">
+              <num>(c)</num>
+              <subparagraph eId="680A-320__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="680A-320__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>ï¿½Financial holding companyï¿½ means a bank
+holding company that satisfies the requirements of section 4</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-320__subsec_1__subsec_l">
+              <num>(l)</num>
+              <subparagraph eId="680A-320__subsec_1__subsec_l__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of the Bank
+Holding Company Act of 1956, 12 U.S.C. ï¿½ 1841</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="680A-320__subsec_1__subsec_l">
+              <num>(l)</num>
+              <subparagraph eId="680A-320__subsec_1__subsec_l__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="680A-320__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>ï¿½Health facilityï¿½ has the meaning ascribed to
+it inNRS 439A.015.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-320__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A ï¿½subsidiaryï¿½ is a person of which either
+the insurer and the parent corporation or the insurer or the parent corporation
+holds practical control.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-320__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>No insurer may engage directly or
+indirectly in any transaction or agreement with its parent corporation, a
+financial holding company, a depository institution, or any subsidiary or
+affiliated person which will result or tend to result in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-320__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Substitution contrary to the interest of the
+insurer and through any method of any asset of the insurer with an asset or
+assets of inferior quality or lower fair market value;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-320__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Deception as to the true operating results of
+the insurer;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-320__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Deception as to the true financial condition
+of the insurer;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-320__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Allocation to the insurer of a proportion of
+the expense of combined facilities or operations which is unfair and
+unfavorable to the insurer;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-320__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Unfair or excessive charges against the
+insurer for services, facilities, supplies or reinsurance;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-320__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Unfair and inadequate charges by the insurer
+for reinsurance, services, facilities or supplies furnished by the insurer to
+others;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-320__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Payment by the insurer for services,
+facilities, supplies or reinsurance not reasonably needed by the insurer;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-320__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Depletion of the insurerï¿½s surplus, through
+payment of dividends or other distribution or withdrawal, below the amount
+thereof reasonably required for conduct of the insurerï¿½s business and
+maintenance of growth with safety to policyholders; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-320__subsec_2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Payment by the insurer for services or
+products for which the health facility has charged less than fair market value,
+unless the reduced charge is reflected in the form of reduced premiums. In
+determining what constitutes fair market value, consideration must be given to
+reasonable agreements for the preferential provision of health care, in accordance
+with regulations adopted by the Commissioner. An insurer which pays less than
+fair market value for services or products in a transaction which is subject to
+the provisions of this paragraph shall annually file a certification with the
+Commissioner that the reduced payment has been reflected in the form of reduced
+premiums, together with documentation supporting the certification.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-320__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In all transactions between the insurer
+and its parent corporation, or involving the insurer and any subsidiary or
+affiliated person, full recognition must be given to the paramount duty and
+obligation of the insurer to protect the interests of policyholders, both
+existing and future.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-320__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a health facility is a parent,
+subsidiary or affiliate of an insurer or of a parent or facility of an insurer,
+and the insurer purchases medical or any other services or products from the
+health facility, the health facility may not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-320__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Attempt artificially to reduce or increase
+its margin of profit by altering the charges to the insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-320__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Alter its true operating results or financial
+condition through charges to the insurer for services or products.
+ï¿½This
+subsection does not prohibit activities authorized pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-320__subsec_4__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>of
+subsection 2.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-320__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If a health facility is found, after
+notice and a hearing, to have violated the provisions of subsection 4, the
+Commissioner may impose an administrative fine of not more than $5,000 for each
+violation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1590; A1987,
+884;1989,
+599;2001,
+2183)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-330">
+          <num>680A.330</num>
+          <heading>Retaliatory provision.</heading>
+          <subsection eId="680A-330__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When, by or pursuant to the laws of any
+other state or foreign country or province, any taxes, licenses and other fees
+in the aggregate, and any fines, penalties, deposit requirements or other material
+requirements, obligations, prohibitions or restrictions are or would be imposed
+upon Nevada insurers doing business or that might seek to do business in such
+state, country or province, or upon the agents or representatives of such
+insurers or upon brokers or adjusters, which are in excess of such taxes,
+licenses and other fees in the aggregate, or which are in excess of the fines,
+penalties, deposit requirements or other requirements, obligations,
+prohibitions or restrictions directly imposed upon similar insurers, or upon
+the agents or representatives of such insurers, or upon brokers, or upon
+adjusters, of such other state, country or province under the statutes of this
+state, so long as such laws of such other state, country or province continue
+in force or are so applied, the same taxes, licenses and other fees in the
+aggregate, or fines, penalties or deposit requirements or other material
+requirements, obligations, prohibitions or restrictions of whatever kind must
+be imposed by the Commissioner or the Department of Taxation upon the insurers,
+or upon the agents or representatives of such insurers, or upon brokers, of
+such other state, country or province doing business or seeking to do business
+in Nevada. Any tax, license or other fee or other obligation imposed by any
+city, county or other political subdivision or agency of such other state,
+country or province on Nevada insurers or their agents, representatives or
+adjusters shall be deemed to be imposed by such state, country or province
+within the meaning of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-330__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>This section does not apply to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-330__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Personal income taxes;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-330__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Ad valorem taxes on real or personal
+property; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-330__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Special purpose obligations or assessments
+imposed by another state in connection with particular kinds of insurance other
+than property insurance,
+ï¿½except that
+deductions, from premium taxes or other taxes otherwise payable, allowed on
+account of real or personal property taxes paid must be taken into
+consideration by the Commissioner and the Executive Director of the Department
+of Taxation in determining the propriety and extent of retaliatory action under
+this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-330__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>For the purposes of this section the
+domicile of an alien insurer, other than insurers formed under the laws of
+Canada or a province thereof, is that state designated by the insurer in
+writing filed with the Commissioner at the time of admission to this state or
+within 6 months after January 1, 1972, whichever date is the later, and may be
+any one of the following states:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-330__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>That in which the insurer was first
+authorized to transact insurance;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-330__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>That in which is located the insurerï¿½s
+principal place of business in the United States of America; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-330__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>That in which is held the largest deposit of
+trusteed assets of the insurer for the protection of its policyholders in the
+United States of America.
+ï¿½If the
+insurer makes no such designation, its domicile shall be deemed to be that
+state in which is located its principal place of business in the United States
+of America.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-330__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The domicile of a Canadian insurer is
+the province of Canada in which its head office is located.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1590; A1993,
+1905)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-500">
+          <num>680A.500</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 680A.500to680A.600, inclusive, unless the context
+otherwise requires, the words and terms defined inNRS 680A.510and680A.520have the meanings ascribed to
+them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+611; A2023,
+2621)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-510">
+          <num>680A.510</num>
+          <heading>ï¿½Deliver by electronic meansï¿½ defined.</heading>
+          <subsection eId="680A-510__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To deliver to an electronic mail
+address at which a party has consented to receive notices or documents; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-510__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To post a notice or document on an
+electronic network or website accessible via the Internet or a mobile
+application or using a computer, mobile device, tablet or any other electronic
+device and to deliver a separate notice of the posting of the notice or
+document to an electronic mail address at which a party has consented to
+receive notices or documents.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+611)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-520">
+          <num>680A.520</num>
+          <heading>ï¿½Partyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Partyï¿½
+means any recipient of a notice or document required to be provided as part of
+an insurance transaction, including, without limitation, an applicant, insured,
+policyholder or holder of an annuity contract.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+611)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-530">
+          <num>680A.530</num>
+          <heading>Applicability.</heading>
+          <subsection eId="680A-530__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Do not apply to a notice or other
+document delivered by an insurer in an electronic form before October 1, 2017,
+to a party who consented before that date to receive the notice or other
+document in an electronic form which was authorized by law at the time of
+delivery; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-530__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Shall not be construed to affect any
+other provision of law relating to the content or timing of delivery of any
+notice or other document.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+611; A2023,
+2621)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-540">
+          <num>680A.540</num>
+          <heading>Authority to deliver by electronic means certain types of
+notices or documents in certain circumstances; delivery by electronic means
+satisfies requirements of Nevada Insurance Code regarding delivery in physical
+form.</heading>
+          <subsection eId="680A-540__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A notice to a party or any other
+document which is required by law to be provided as part of an insurance
+transaction or which serves as evidence of insurance coverage may be delivered
+by electronic means if such delivery satisfies the requirements ofchapter 719of NRS andNRS 680A.550.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-540__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The delivery of a notice or other
+document pursuant to subsection 1 is deemed to satisfy any requirement of this
+Code to deliver a notice or other document in physical form, including, without
+limitation, by:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-540__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Mail;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-540__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Mail, postage prepaid;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-540__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Certified mail;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-540__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Certified mail, return receipt requested;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-540__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>First-class mail;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-540__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Registered mail;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-540__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Registered mail, return receipt requested; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-540__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Overnight delivery using a nationally
+recognized carrier.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+611)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-550">
+          <num>680A.550</num>
+          <heading>Requirements for delivery.</heading>
+          <subsection eId="680A-550__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2 andNRS 680A.555and680A.560, a notice or other document may
+be delivered by electronic means by an insurer to a party pursuant to
+subsection 1 ofNRS 680A.540if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-550__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The party has affirmatively consented to
+delivery by electronic means and has not withdrawn such consent;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-550__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Before giving consent to delivery by
+electronic means, the party is provided with a clear and conspicuous statement
+informing the party of:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="680A-550__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The right of the party to withdraw
+consent to delivery by electronic means at any time and any conditions or
+consequences which may be imposed in the event consent is withdrawn;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="680A-550__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The types of notices and other
+documents to which the consent of the party to delivery by electronic means
+would apply;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="680A-550__subsec_1__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The right of the party to have a
+notice or other document delivered in paper form; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="680A-550__subsec_1__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>The procedures the party must follow
+to withdraw consent to delivery by electronic means and to update the
+electronic mail address of the party;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="680A-550__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The party, after being provided with a
+statement of the hardware and software requirements for access to and retention
+of a notice or other document delivered by electronic means, consents or confirms
+consent electronically in a manner that reasonably demonstrates that the party
+can access information in the electronic form that will be used for delivery by
+electronic means of notices or other documents to which the party has given
+consent;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-550__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The insurer takes measures reasonably
+calculated to ensure that delivery by electronic means results in the receipt
+of a notice or other document by the party; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-550__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Upon a change in the hardware or software
+requirements for access to and retention of a notice or other document
+delivered by electronic means which occurs after the party has consented to
+delivery by electronic means which creates a material risk that the party will
+not be able to access or retain a subsequent notice or other document, the
+insurer provides the party with:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="680A-550__subsec_1__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A statement that describes the revised
+hardware or software requirements for access to and retention of a notice or
+other documents delivered by electronic means and the right of the party to
+withdraw consent without the imposition of any condition or consequence not
+described in the statement initially provided to the party pursuant to
+paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="680A-550__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="680A-550__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A revised statement containing the
+information described in paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="680A-550__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>which applies to the revised hardware or
+software requirements.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-550__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a provision of this Code or any
+other law applicable to the delivery of a notice or other document, including,
+without limitation, a notice required pursuant toNRS 687B.320to687B.350, inclusive, requires
+verification or acknowledgment of receipt of the notice or other document, the
+notice or other document may be delivered by electronic means only if the
+electronic form used for delivery provides for verification or acknowledgment
+of receipt. If the insurer does not receive verification or acknowledgment of
+receipt within 3 days after delivery by electronic means of a notice or other document
+described by this subsection, the insurer shall deliver the notice or other
+document by any other delivery method authorized by law.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+612; A2023,
+2621)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-555">
+          <num>680A.555</num>
+          <heading>Authority of plan sponsor of health plan to consent to delivery
+by electronic means on behalf of party covered by health plan; requirements and
+restrictions for delivery by electronic means to party covered by health plan.</heading>
+          <subsection eId="680A-555__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The plan sponsor of a health plan may,
+on behalf of a party covered by the health plan, provide the consent for
+delivery of any notice or other document relating to the health plan required
+by paragraph</p>
+            </content>
+            <paragraph eId="680A-555__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1 ofNRS
+680A.550.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-555__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Before providing consent on behalf of a
+party covered by the health plan pursuant to subsection 1, the plan sponsor
+must confirm, using reasonable means, that the party routinely uses electronic
+communications during the normal course of employment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-555__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Before delivering by electronic means
+any notice or other document to a party on whose behalf a plan sponsor has
+provided consent pursuant to subsection 1, the insurer for the health plan
+must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-555__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Provide the party an opportunity to opt out
+of delivery by electronic means; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-555__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Document that the conditions set forth in
+paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-555__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-555__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>, inclusive, of subsection 1 ofNRS 680A.550are satisfied.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-555__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A notice of cancellation, nonrenewal or
+termination of a health plan must be sent to a party covered by the health plan
+by mail unless the notice is delivered by electronic means in a manner that
+provides for the verification of the receipt of the notice.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-555__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-555__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Health planï¿½ means a policy, contract,
+certificate or agreement entered into, offered by or issued by an insurer to
+provide, deliver, arrange for, pay for or reimburse any of the costs of health
+care services, including, without limitation, services relating to vision or
+dental care.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-555__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Plan sponsorï¿½ means a person, other than a
+person regulated by the Commissioner or Division, who establishes, adopts or
+maintains a health plan that covers residents of this State. The term includes,
+without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="680A-555__subsec_5__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>An employer who establishes, adopts or
+maintains such a health plan;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="680A-555__subsec_5__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>An employer and one or more employee
+organizations that jointly establish, adopt or maintain such a health plan; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="680A-555__subsec_5__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>An association, committee, joint board
+or trustees or any similar group of representatives that establish, adopt or
+maintain such a health plan.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2620)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-560">
+          <num>680A.560</num>
+          <heading>Circumstances in which insurer required to cease delivery by
+electronic means.</heading>
+          <subsection eId="680A-560__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The insurer attempts to deliver by
+electronic means a notice or other document and has a reasonable basis to
+believe that the notice or other document was not received by the party; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-560__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The insurer becomes aware that the electronic
+mail address provided by the party is no longer valid.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+613)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-570">
+          <num>680A.570</num>
+          <heading>Withdrawal of consent to delivery by electronic means.</heading>
+          <subsection eId="680A-570__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The withdrawal of consent by a party to
+delivery by electronic means does not affect the legal effectiveness, validity
+or enforceability of a notice or other document delivered by electronic means
+to the party before the withdrawal of consent is effective.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-570__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A withdrawal of consent by a party
+becomes effective within a reasonable period of time after receipt of the
+withdrawal of consent by the insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-570__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The failure of an insurer to comply
+with the provisions of paragraph</p>
+            </content>
+            <paragraph eId="680A-570__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>of subsection 1 ofNRS 680A.550or680A.580is deemed to constitute a
+withdrawal of consent to delivery by electronic means unless a party elects to
+continue to grant consent.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+613)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-580">
+          <num>680A.580</num>
+          <heading>Effect of consent to delivery by electronic means given before
+October 1, 2017.</heading>
+          <subsection eId="680A-580__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A statement that describes:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-580__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any notices or documents to be delivered by
+electronic means pursuant toNRS 680A.500to680A.600, inclusive, which were not
+previously delivered by electronic means; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-580__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The right of the party to withdraw consent
+without the imposition of any condition or consequence that was not disclosed
+at the time the party gave consent; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-580__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A statement that satisfies the
+requirements of paragraph</p>
+            </content>
+            <paragraph eId="680A-580__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 ofNRS 680A.550.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+613)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-590">
+          <num>680A.590</num>
+          <heading>Enforceability of contract or policy of insurance if electronic
+consent or confirmation of consent not obtained; producer of insurance not
+subject to civil liability for delivery or failure to deliver by electronic
+means; relation to Electronic Signatures in Global and National Commerce Act.</heading>
+          <subsection eId="680A-590__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The failure to obtain the electronic
+consent or confirmation of consent of a party pursuant to paragraph</p>
+            </content>
+            <paragraph eId="680A-590__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of
+subsection 1 ofNRS 680A.550may not
+be the sole basis for determining that a contract or policy of insurance is not
+legally effective, valid or enforceable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-590__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A producer of insurance is not subject
+to civil liability for any harm or injury that occurs as a result of the
+election of a party for the delivery by electronic means of any notice or other
+document or for the failure of an insurer to deliver by electronic means a
+notice or other document.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-590__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Nothing inNRS 680A.500to680A.600, inclusive, shall be construed
+to modify, limit or supersede the federal Electronic Signatures in Global and
+National Commerce Act, 15 U.S.C. ï¿½ï¿½ 7001 et seq.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+613)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_680A-600">
+          <num>680A.600</num>
+          <heading>Insurer authorized to satisfy requirement to mail or deliver a
+standard policy of property or casualty insurance or standard endorsement of
+such policy which does not contain personally identifiable information by
+posting on Internet website in certain circumstances.</heading>
+          <subsection eId="680A-600__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The policy or endorsement is accessible
+to the insured and to any producer of insurance who transacted insurance
+involving the policy or endorsement with the insured for as long as the policy
+or endorsement is in force;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-600__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The insurer retains an archive of expired
+policies and endorsements for not less than 5 years after the expiration of
+each policy or endorsement and makes expired policies and endorsements
+available upon request;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-600__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The policy or endorsement is posted in
+a manner that enables the insured and any producer of insurance who transacted
+insurance involving the policy or endorsement with the insured to print and
+save the policy or endorsement using any program or other application which is
+widely available on the Internet and free to use;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-600__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The insurer provides, in or with the
+declarations page provided at the time of issuance of the initial policy and
+each renewal of the policy:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="680A-600__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A description of the exact form of policy or
+endorsement purchased by the insured;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-600__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A description of the right of the insured to
+receive, upon request and without charge, a paper copy of the policy or
+endorsement by mail; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="680A-600__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The address of the Internet website where the
+policy or endorsement is posted;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="680A-600__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Upon request of the insured and without
+charge, the insurer mails a paper copy of the policy or endorsement to the
+insured;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-600__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The insurer provides notice in the
+manner preferred by the insured of any change to the policy or endorsement
+which includes a description of the right of the insured to obtain, upon
+request and without charge, a paper copy of the revised policy or endorsement
+and the address of the Internet website where the revised policy or endorsement
+is posted; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="680A-600__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The insurer complies with all
+applicable provisions ofchapter 719of NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+613)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

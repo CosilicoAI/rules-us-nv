@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-74"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-74"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="74"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-74/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-74/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-74/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-74/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_74">
+        <num>74</num>
+        <heading>CONTEMPTS</heading>
+        <section eId="sec_74-040">
+          <num>74.040</num>
+          <heading>Punishment for contempt.</heading>
+          <content>
+            <p>A
+justice may punish for contempt for the same acts or omissions, in the same
+manner and with the same effects as is provided for judges inchapter 22of NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 856; RL ï¿½ 5798; NCL ï¿½ 9345]—(NRS A1975,
+510)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_74-050">
+          <num>74.050</num>
+          <heading>Entry of conviction in docket.</heading>
+          <content>
+            <p>The
+conviction, specifying particularly the offense and the judgment thereon, must
+be entered by the justice in his or her docket.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 857; RL ï¿½ 5799; NCL ï¿½ 9346]</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

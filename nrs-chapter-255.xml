@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-255"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-255"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="255"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-255/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-255/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-255/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-255/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_255">
+        <num>255</num>
+        <heading>COUNTY SURVEYORS</heading>
+        <section eId="sec_255-010">
+          <num>255.010</num>
+          <heading>Creation of office.</heading>
+          <content>
+            <p>The
+office of county surveyor is hereby created.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1:64:1861; A 1862, 32;1949,
+144; 1943 NCL ï¿½ 2164]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_255-020">
+          <num>255.020</num>
+          <heading>Appointment.</heading>
+          <content>
+            <p>The
+board of county commissioners may appoint a county surveyor who serves at the
+pleasure of the board to perform surveying and such other services for the
+county as the board determines appropriate.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1:64:1861; A 1862, 32;1949,
+144; 1943 NCL ï¿½ 2164] + [Part 1:108:1866; B ï¿½ 2599; BH ï¿½ 1636; C ï¿½ 1782; RL
+ï¿½ 2765; NCL ï¿½ 4765] + [Part 9:108:1866; B ï¿½ 2607; BH ï¿½ 1644; C ï¿½ 1790; RL ï¿½
+2773; NCL ï¿½ 4773]—(NRS A1973,
+317;1997,
+271)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_255-025">
+          <num>255.025</num>
+          <heading>Qualifications.</heading>
+          <content>
+            <p>No
+person may be appointed as a county surveyor unless the person is a
+professional land surveyor licensed pursuant to the provisions ofchapter 625of NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+85; A1973,
+317;1989,
+789;1997,
+271,1062)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_255-030">
+          <num>255.030</num>
+          <heading>Oath and bond.</heading>
+          <subsection eId="255-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Take and subscribe to the oath of
+office.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="255-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Execute to the State of Nevada a bond
+in the penal sum of not less than $500 nor more than $5,000, the amount thereof
+to be determined by the board of county commissioners. The bond shall be
+supplied in accordance with the provisions ofchapter
+282of NRS and shall be approved by the board of county commissioners.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:64:1861; A1883,
+45;1949,
+144; 1943 NCL ï¿½ 2165]—(NRS A1977,
+150)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_255-040">
+          <num>255.040</num>
+          <heading>Vacancy.</heading>
+          <content>
+            <p>Vacancies
+in the office of county surveyor shall be filled as in the case of other county
+officers.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [6:64:1861; A1949,
+144; 1943 NCL ï¿½ 2169]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_255-050">
+          <num>255.050</num>
+          <heading>Office.</heading>
+          <content>
+            <p>The county
+surveyor shall keep his or her office at the county seat.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1:64:1861; A 1862, 32;1949,
+144; 1943 NCL ï¿½ 2164]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_255-060">
+          <num>255.060</num>
+          <heading>Salary; compensation in lieu of salary; mileage; filing of
+statement of account by certain surveyors.</heading>
+          <subsection eId="255-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board of county commissioners shall
+pay to each county surveyor appointed pursuant toNRS 255.020:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="255-060__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A salary set by the board; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="255-060__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In lieu of a salary, fair and reasonable
+compensation in connection with each survey ordered by the board, or for other
+services performed by the county surveyor for the county, when he or she has
+been authorized to perform the services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="255-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The county surveyor is entitled to
+receive, in addition to the salary or compensation allowed by subsection 1,
+mileage for transportation necessary to fulfill his or her duties as determined
+by the board of county commissioners, at the rate for such mileage as is
+provided by law to be allowed to county officers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="255-060__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except when the county surveyor is paid
+a salary, the county surveyor shall file with the clerk of the board of county
+commissioners a proper statement of account for all services the county
+surveyor performs, and for all allowances claimed by him or her for mileage,
+duly acknowledged as provided by law for filing claims for payment of accounts
+due from the county.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [13a:64:1861; added1949,
+144; 1943 NCL ï¿½ 2174.02]—(NRS A1997,
+271)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_255-070">
+          <num>255.070</num>
+          <heading>Deputies: Appointment; oaths.</heading>
+          <content>
+            <p>The
+county surveyor may appoint deputy surveyors, who shall severally take and
+subscribe to the oath of office, and for the faithful performance of whose
+duties the county surveyor shall be responsible.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [3:64:1861; B ï¿½ 3058; BH ï¿½ 2212; C ï¿½ 2363; RL ï¿½ 1666;
+NCL ï¿½ 2166]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_255-080">
+          <num>255.080</num>
+          <heading>Certificate admissible in evidence.</heading>
+          <content>
+            <p>The
+certificate of the county surveyor, or any of the county surveyorï¿½s deputies,
+shall be submitted as legal evidence in any court of this state, but the same
+may be subject to be rebutted by other evidence. Surveys made by the mutual
+consent of parties may also be admitted as legal evidence in any court of this
+state; but this section shall not be so construed as to exclude the testimony
+of other surveyors or engineers.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [4:64:1861; B ï¿½ 3059; BH ï¿½ 2213; C ï¿½ 2364; RL ï¿½ 1667;
+NCL ï¿½ 2167]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_255-090">
+          <num>255.090</num>
+          <heading>Survey by disinterested person when county surveyor an
+interested party.</heading>
+          <content>
+            <p>When it shall
+appear that the county surveyor is interested in any tract of land, the title
+of which is in dispute before any court, and a survey of which is necessary,
+the court shall direct the survey to be made by some capable and disinterested
+person, who shall return such survey on oath or affirmation, and shall receive
+for his or her services a fair and reasonable compensation.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [5:64:1861; B ï¿½ 3060; BH ï¿½ 2214; C ï¿½ 2365; RL ï¿½ 1668;
+NCL ï¿½ 2168]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_255-100">
+          <num>255.100</num>
+          <heading>Survey ordered by court or board of county commissioners.</heading>
+          <content>
+            <p>The county surveyor, either by himself or
+herself or one of the county surveyorï¿½s deputies, shall execute any survey that
+may be required by order of any court, or upon the order or at the direction of
+the board of county commissioners.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [7:64:1861; A1949,
+144; 1943 NCL ï¿½ 2170]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_255-110">
+          <num>255.110</num>
+          <heading>Records and maps: Duties; public inspection.</heading>
+          <subsection eId="255-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The county surveyor shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="255-110__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Keep a correct and fair record of all surveys
+made by him or her in his or her official capacity, or by the county surveyorï¿½s
+deputies acting in his or her stead, in the form of original field notes in
+field books to be provided by the county for that purpose.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="255-110__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Number such surveys progressively.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="255-110__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Make and preserve a fair and accurate record
+map of each survey, drawn in waterproof ink on tracing cloth or produced by the
+use of other materials of a permanent nature generally used for that purpose in
+the engineering profession, endorsing thereon its proper number and his or her
+official certificate of survey.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="255-110__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Obtain maps of mining claims, mill sites and
+tunnel rights recorded with the county recorder and prepare a county mining
+claim map which must accurately reflect the location of all such claims. A
+county surveyor shall not refuse to accept a map submitted by the locator of
+the mine, nor shall the county surveyor prepare a map in lieu of one submitted
+by the locator, unless he or she can affirmatively show that the map submitted
+does not accurately reflect the location of all of the claims.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="255-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All records of surveys required by this
+chapter must be transmitted by the county surveyor to his or her successor in
+office.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="255-110__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Field notes and records maps must be
+available for copying to any person requiring a copy of the field notes or
+records maps.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [8:64:1861; A1949,
+144; 1943 NCL ï¿½ 2171]—(NRS A1960,
+136;1971,
+2196;1973,
+868;2001,
+1746)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_255-120">
+          <num>255.120</num>
+          <heading>Survey: Courses; variation of meridian.</heading>
+          <subsection eId="255-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The courses shall be expressed
+according to the true meridian.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="255-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The variation of the magnetic meridian
+from the true meridian shall be expressed on the plat with the year, month and
+day of the survey.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [9:64:1861; B ï¿½ 3064; BH ï¿½ 2218; C ï¿½ 2369; RL ï¿½ 1672;
+NCL ï¿½ 2172]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_255-130">
+          <num>255.130</num>
+          <heading>Certification of subdivision plat; fees.</heading>
+          <subsection eId="255-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Before a subdivision plat is accepted
+by a board of county commissioners pursuant to law, the subdivision plat must
+be submitted to and certified as to its correctness and eligibility for
+recording by the county surveyor, or the county surveyorï¿½s deputy, if there is
+one qualified to act in the county.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="255-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Reasonable fees based on work done by
+the county surveyor or the county surveyorï¿½s deputy must be paid to the county
+by the subdivider.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [13:64:1861; added1949,
+144; 1943 NCL ï¿½ 2174.01]—(NRS A1997,
+272)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

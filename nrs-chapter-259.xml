@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-259"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-259"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="259"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-259/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-259/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-259/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-259/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_259">
+        <num>259</num>
+        <heading>CORONERS</heading>
+        <section eId="sec_259-010">
+          <num>259.010</num>
+          <heading>Coronersï¿½ districts; inapplicability of certain provisions of
+chapter.</heading>
+          <subsection eId="259-010__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every county in this State constitutes
+a coronerï¿½s district, except a county where a coroner is appointed pursuant to
+the provisions ofNRS 244.163.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-010__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of this chapter, exceptNRS 259.025,259.045,259.047,259.049, subsections 3 and 4 ofNRS 259.050,NRS 259.053and259.150to259.180, inclusive, do not apply to any
+county where a coroner is appointed pursuant to the provisions ofNRS 244.163.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:107:1909; RL ï¿½ 7542; NCL ï¿½ 11425]—(NRS A1963,
+198;1969,
+664;1979,
+1368;2005,
+1063;2017,
+475;2019,
+4163)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-020">
+          <num>259.020</num>
+          <heading>Sheriffs are ex officio coroners; exceptions.</heading>
+          <content>
+            <p>Except in any county where a coroner is
+appointed pursuant toNRS 244.163, all
+sheriffs in this state are ex officio coroners, unless such an arrangement is
+altered pursuant to the mechanism set forth inNRS 244.1507.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:107:1909; A1911,
+58;1949,
+595; 1943 NCL ï¿½ 11426]—(NRS A1979,
+1368;2009,
+594)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-025">
+          <num>259.025</num>
+          <heading>Account for support of office of county coroner.</heading>
+          <subsection eId="259-025__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board of county commissioners of
+each county may create in the county general fund an account for the support of
+the office of the county coroner. The county treasurer shall deposit in that
+account the money received from:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="259-025__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The State Registrar of Vital Statistics
+pursuant toNRS 440.690; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="259-025__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A district health officer pursuant toNRS 440.715.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="259-025__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The money in the account must be
+accounted for separately and not as a part of any other account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-025__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The interest and income earned on the
+money in the account, after deducting any applicable charges, must be credited
+to the account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-025__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Claims against the account must be paid
+as other claims against the county are paid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-025__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 8, the county coroner may use the money in the account to pay
+expenses relating to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="259-025__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A youth program involving the office of the
+county coroner, including, without limitation, a program of visitation
+established pursuant toNRS 62E.720;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="259-025__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Training for a member of the staff of the
+office of the county coroner;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="259-025__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Training an ex officio coroner and his or her
+deputies on the investigation of deaths;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="259-025__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The purchase of specialized equipment for the
+office of the county coroner; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="259-025__subsec_5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any program established by the coroner
+pursuant toNRS 259.049.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="259-025__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Any money remaining in the account at
+the end of any fiscal year does not revert to the county general fund and must
+be carried forward to the next fiscal year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-025__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Before the end of each fiscal year:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="259-025__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The board of county commissioners of each
+county that constitutes a coronerï¿½s district pursuant toNRS 259.010and which has created an
+account for the support of the office of the county coroner pursuant to
+subsection 1 shall designate the office of a county coroner created pursuant toNRS 244.163to receive the money in the
+account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="259-025__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The county treasurer of each county that
+constitutes a coronerï¿½s district pursuant toNRS
+259.010and for which the board of county commissioners has created an
+account for the support of the office of the county coroner pursuant to
+subsection 1 shall transfer all money in the account to the county treasurer of
+the county in which the office of the county coroner designated pursuant to
+paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="259-025__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>is established.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="259-025__subsec_7__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The county treasurer of the county in which
+the office of the county coroner designated pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="259-025__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>is
+established shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="259-025__subsec_7__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Deposit all the money received
+pursuant to paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="259-025__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>into the account created in that county pursuant to
+subsection 1; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="259-025__subsec_7__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Account for the money received from
+each county in separate subaccounts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="259-025__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>The office of the county coroner
+designated to receive money pursuant to subsection 7 may only use the money in
+each subaccount and any interest attributable to that money to pay expenses
+which are incurred in the county from which the money was transferred and which
+relate to the training of an ex officio coroner and his or her deputies on the
+investigation of deaths.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+1062; A2019,
+4164)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-030">
+          <num>259.030</num>
+          <heading>Travel and subsistence.</heading>
+          <content>
+            <p>The
+coroner is entitled to allowances for the expenses of any travel and
+subsistence which the coroner necessarily incurs in the performance of his or
+her duties.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [18:107:1909; A1955,
+60]—(NRS A1979,
+1368)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-040">
+          <num>259.040</num>
+          <heading>Deputies.</heading>
+          <subsection eId="259-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>All coroners may appoint deputies, who
+are authorized to transact such official business pertaining to the office as
+their principals direct. Coroners are responsible for the compensation of the
+deputies and are responsible on their official bonds for all official
+malfeasance or nonfeasance of the deputies. The appointment of a deputy must
+not be construed to confer upon that deputy policymaking authority for the
+office of the county coroner or the county by which the deputy is employed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All appointments of deputies must be
+made in writing and must, with the oath of office, be filed in the office of
+the recorder of the county within which the principal holds and exercises his
+or her office.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:107:1909; A1911,
+58;1949,
+595; 1943 NCL ï¿½ 11426]—(NRS A1979,
+1368;2005,
+683)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-045">
+          <num>259.045</num>
+          <heading>Coroner to notify next of kin of decedent of fact of death;
+authority to notify and provide coronerï¿½s report to decedentï¿½s parents,
+guardians, adult children or custodians.</heading>
+          <subsection eId="259-045__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The coroner shall make a reasonable
+effort to notify a decedentï¿½s next of kin who is authorized to order the burial
+or cremation of the human remains of the decedent pursuant toNRS 451.024of the fact of the decedentï¿½s
+death without unreasonable delay.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-045__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The coroner may notify the parents,
+guardians, adult children or custodians of a decedent of the fact of the
+decedentï¿½s death and provide a copy of the report of the coroner to the parents,
+guardians, adult children or custodians regardless of whether they are the next
+of kin authorized to order the burial or cremation of the human remains of the
+decedent pursuant toNRS 451.024.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-045__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½custodianï¿½
+has the meaning ascribed to it inNRS
+432B.060.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+900; A2017,
+475)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-047">
+          <num>259.047</num>
+          <heading>Test of decedent for communicable diseases; report of results.</heading>
+          <subsection eId="259-047__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The coroner may cause a decedent under
+the jurisdiction of the coroner to be tested for communicable diseases without
+obtaining a court order if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="259-047__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A law enforcement officer, emergency medical
+attendant or firefighter came in contact with the blood or bodily fluids of the
+decedent in the course of his or her official duties before the decedent came
+under the jurisdiction of the coroner;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="259-047__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The coroner or an employee of the coroner
+comes in contact with the blood or bodily fluids of a decedent in the course of
+his or her official duties; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="259-047__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any other person came in contact with the
+blood or bodily fluids of the decedent while rendering care or assistance in an
+emergency before the decedent came under the jurisdiction of the coroner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="259-047__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The coroner shall report the results of
+any test conducted pursuant to subsection 1 to the local health officer.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+4163)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-049">
+          <num>259.049</num>
+          <heading>Program to promote mental health of certain persons; program to
+provide bereavement services to public.</heading>
+          <subsection eId="259-049__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A program to promote the mental health
+of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="259-049__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The employees of the office of the coroner;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="259-049__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any person impacted as a result of providing
+services in his or her professional capacity in response to an incident
+involving mass casualties within the county.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="259-049__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A program that provides bereavement
+services to members of the public within the county.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+4163)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-050">
+          <num>259.050</num>
+          <heading>Investigation into cause of death; postmortem examination;
+inquest.</heading>
+          <subsection eId="259-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When a coroner or the coronerï¿½s deputy
+is informed that a person has been killed, has committed suicide or has
+suddenly died under such circumstances as to afford reasonable ground to
+suspect that the death has been occasioned by unnatural means, the coroner
+shall make an appropriate investigation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In all cases where it is apparent or
+can be reasonably inferred that the death may have been caused by a criminal
+act, the coroner or the coronerï¿½s deputy shall notify the district attorney of
+the county where the inquiry is made, and the district attorney shall make an
+investigation with the assistance of the coroner. If the sheriff is not ex
+officio the coroner, the coroner shall also notify the sheriff, and the
+district attorney and sheriff shall make the investigation with the assistance
+of the coroner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-050__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If it is apparent to or can be
+reasonably inferred by the coroner that a death may have been caused by drug
+use or poisoning, the coroner shall cause a postmortem examination to be
+performed on the decedent by a forensic pathologist unless the death occurred
+following a hospitalization stay of 24 hours or more.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-050__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A coroner may issue a subpoena for the
+production of any document, record or material that is directly related or
+believed to contain evidence related to an investigation by the coroner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-050__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The holding of a coronerï¿½s inquest is
+within the sound discretion of the district attorney or district judge of the
+county. An inquest need not be conducted in any case of death manifestly
+occasioned by natural cause, suicide, accident, motor vehicle crash or when it
+is publicly known that the death was caused by a person already in custody, but
+an inquest must be held unless the district attorney or a district judge
+certifies that no inquest is required.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-050__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>If an inquest is to be held, the
+district attorney shall call upon a justice of the peace of the county to
+preside over it. The justice of the peace shall summon three persons qualified
+by law to serve as jurors, to appear before the justice of the peace forthwith
+at the place where the body is or such other place within the county as may be
+designated by him or her to inquire into the cause of death.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-050__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>A single inquest may be held with
+respect to more than one death, where all the deaths were occasioned by a
+common cause.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [3:107:1909; A1919,
+60;1949,
+152; 1943 NCL ï¿½ 11427]—(NRS A1977,
+666;1979,
+1369;2015,
+1660;2019,
+4165)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-053">
+          <num>259.053</num>
+          <heading>Postmortem examination by forensic pathologist: Determination of
+cause of death; death certificate.</heading>
+          <subsection eId="259-053__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The forensic pathologist shall
+determine the cause of death of the decedent; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-053__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The certifier of death shall record on
+the death certificate the exact cause of death as determined by the forensic
+pathologist.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+4163)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-060">
+          <num>259.060</num>
+          <heading>Penalty for failure to attend as juror.</heading>
+          <content>
+            <p>Every
+person summoned as a juror who fails to appear without having a reasonable
+excuse, shall forfeit a sum, not exceeding $100, to be recovered by the
+district attorney, in any court of competent jurisdiction, and paid by the
+person into the county treasury.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [4:107:1909; RL ï¿½ 7545; NCL ï¿½ 11428]—(NRS A1979,
+1369)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-070">
+          <num>259.070</num>
+          <heading>Oath of juror.</heading>
+          <content>
+            <p>When
+the jurors attend, they must be sworn by the justice of the peace to inquire
+who the person was, and when, where and by what means the person came to his or
+her death, and into the circumstances attending his or her death, and to render
+a true verdict thereon according to the evidence.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [5:107:1909; A1919,
+60; 1919 RL ï¿½ 7546; NCL ï¿½ 11429]—(NRS A1979,
+1369)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-080">
+          <num>259.080</num>
+          <heading>Fees of jurors; expenses of transportation of jury.</heading>
+          <subsection eId="259-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Jurors of coronersï¿½ juries (with not
+more than three persons upon the jury) are entitled to receive for each dayï¿½s
+service $15, to be certified to the county clerk by the justice of the peace,
+and audited, allowed and paid as are other claims against the county.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>When it is necessary for a coronerï¿½s
+jury to travel a greater distance than 1 mile to view the remains, or to the
+place where the inquest is to be held, the necessary and actual expenses
+incurred for the transportation of the jury must be allowed, audited and paid
+as are other claims against the county, after having been duly certified by the
+justice of the peace.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:69:1919; A1933,
+68,152;1937,
+210;1949,
+10;1951,
+107;1953,
+134]—(NRS A1963,
+348;1979,
+1370;1983,
+1010)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-090">
+          <num>259.090</num>
+          <heading>Inquest: Summoning and examination of witnesses; examination of
+decedent; adjournment.</heading>
+          <subsection eId="259-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The justice of the peace may issue
+subpoenas for witnesses, returnable as the justice of the peace may direct, and
+served by such person as he or she may direct.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>He or she must summon and examine as
+witnesses every person who, in his or her opinion or that of any of the jurors,
+has any knowledge of the facts, and he or she may summon a qualified surgeon or
+physician to inspect the body, or hold a postmortem examination thereon, or a
+chemist to make an analysis of the stomach or the tissues of the deceased and
+give a professional opinion as to the cause of the death.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-090__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The coroner may adjourn the inquest
+from time to time as may be necessary.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [6:107:1909; A1949,
+595; 1943 NCL ï¿½ 11430]—(NRS A1979,
+1370)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-100">
+          <num>259.100</num>
+          <heading>Witness failing to attend punishable for contempt.</heading>
+          <content>
+            <p>Any witness failing to obey the subpoena of
+the justice of the peace may be attached and fined for contempt in like manner
+as in a justice court.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [7:107:1909; RL ï¿½ 7548; NCL ï¿½ 11431]—(NRS A1979,
+1370)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-110">
+          <num>259.110</num>
+          <heading>Rendition of verdict: Certification; contents.</heading>
+          <content>
+            <p>After inspecting the body and hearing the
+testimony, the jury shall render their verdict and certify the same by an
+inquisition in writing, signed by them, and setting forth the name of the
+deceased, when, where and by what means the deceased came to his or her death;
+if by criminal means, the name of the person causing the death.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [8:107:1909; RL ï¿½ 7549; NCL ï¿½ 11432]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-120">
+          <num>259.120</num>
+          <heading>Testimony to be reduced to writing and filed with clerk of
+district court.</heading>
+          <content>
+            <p>The testimony at
+such an inquest must be reduced to writing in such manner as the justice of the
+peace may direct, and filed by him or her, without delay, in the office of the
+clerk of the district court of the county.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [9:107:1909; RL ï¿½ 7550; NCL ï¿½ 11433]—(NRS A1979,
+1370)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-130">
+          <num>259.130</num>
+          <heading>Warrant to issue for accused.</heading>
+          <content>
+            <p>If
+the jury finds that the dead person was killed by another person under
+circumstances not excusable or justifiable in law, and that the person who
+committed the act is not in custody, the justice of the peace shall issue a
+warrant signed by him or her, with his or her name of office, for the arrest of
+the accused.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [10:107:1909; RL ï¿½ 7551; NCL ï¿½ 11434]—(NRS A1979,
+1370)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-140">
+          <num>259.140</num>
+          <heading>Service and return of warrant.</heading>
+          <content>
+            <p>The
+warrant of the justice of the peace may be served in any county of the State,
+and the officer serving such a warrant may return it before a magistrate of the
+county in which it is issued. The officer receiving such a warrant has the same
+power under the warrant as the officer would have by virtue of a warrant from
+any court or magistrate of this state.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [11:107:1909; RL ï¿½ 7552; NCL ï¿½ 11435]—(NRS A1979,
+1370)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-145">
+          <num>259.145</num>
+          <heading>Fee of justice of the peace for holding inquest.</heading>
+          <subsection eId="259-145__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A justice of the peace is entitled, for
+each day necessarily employed in holding an inquest, to a fee of $23.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-145__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>This fee must be paid out of the county
+treasury as other demands against the county are paid.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [17:107:1909; A1933,
+259;1949,
+152;1953,
+127]—(NRS A1979,
+1370;1993,
+1353;2001,
+3213)—(Substituted in revision for NRS 259.200)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-150">
+          <num>259.150</num>
+          <heading>Inventory of money and property of decedent; delivery to county
+treasurer; signs prohibiting entrance to residence of decedent; penalty for
+disregard of prohibition.</heading>
+          <subsection eId="259-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The coroner shall inventory, in the
+presence of at least one other person, any money or property which may have
+been found on or about the deceased, unless taken from his or her possession by
+legal authority, and shall deliver without delay a signed copy of the inventory
+and the money or property to the treasurer of the county. If the coroner fails
+to pay or deliver such money or property to the county treasurer, the county
+treasurer may recover it by an action at law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="259-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The coroner shall affix appropriate
+seals, signs or other devices prohibiting entrance to the residence of a
+deceased person who had lived alone under circumstances indicating that no
+other person can reasonably be expected to provide immediate security for the
+deceasedï¿½s property. Any person, except the coroner, the coronerï¿½s deputy, a
+law enforcement officer or the executor or administrator of the deceasedï¿½s
+estate, who removes such a coronerï¿½s seal, sign or other device or who enters
+upon any property bearing such a seal, sign or other device is guilty of a
+misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [12:107:1909; RL ï¿½ 7553; NCL ï¿½ 11436]—(NRS A1977,
+910;1979,
+14)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-160">
+          <num>259.160</num>
+          <heading>Duties of county treasurer pertaining to money and property of
+decedent.</heading>
+          <subsection eId="259-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon payment of money into the county
+treasurerï¿½s office in such case, he or she shall place it to the credit of the
+county. Upon the delivery of property, he or she shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="259-160__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Deliver such property to the public
+administrator or a person employed or contracted with pursuant toNRS 253.125, as applicable, for disposition
+according to law; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="259-160__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Give written notice to the public
+administrator or a person employed or contracted with pursuant toNRS 253.125, as applicable, of his or her
+intention to sell such property at public sale.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="259-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If within 10 days after the giving of
+notice pursuant to paragraph</p>
+            </content>
+            <paragraph eId="259-160__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1, the public administrator or a
+person employed or contracted with pursuant toNRS 253.125, as applicable, claims the
+property for disposition, the county treasurer shall deliver it to him or her.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="259-160__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the public administrator or a person
+employed or contracted with pursuant toNRS
+253.125, as applicable, does not claim the property as provided in
+subsection 2, the county treasurer may, after giving notice by posting at the
+courthouse for at least 10 days, sell the property at public sale and place the
+proceeds to the credit of the county.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [13:107:1909; RL ï¿½ 7554; NCL ï¿½ 11437]—(NRS A1969,
+664;2019,
+1543)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-170">
+          <num>259.170</num>
+          <heading>Payment to representatives of decedent.</heading>
+          <content>
+            <p>If
+the money or the proceeds from the sale of property are demanded within 6
+years, the county treasurer shall pay the same to the person legally authorized
+to receive it, but the same may be paid at any subsequent time to the
+representatives of the deceased upon an order from the tribunal invested with
+the power to allow claims against the county.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [14:107:1909; A1911,
+59; RL ï¿½ 7555; NCL ï¿½ 11438]—(NRS A1969,
+664)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_259-180">
+          <num>259.180</num>
+          <heading>Burial of decedent; payment of expenses.</heading>
+          <content>
+            <p>After the inquest, if no one takes charge of
+the body, the coroner shall cause it to be decently buried. The expenses of the
+burial must be paid from the money deposited with the county treasurer or the
+estate of the deceased, as the case may be. If the deceased has no money or
+estate, or the money or estate of the deceased is insufficient to bear the
+entire cost of burial, the county in which the deceased is buried shall bear
+the cost of the burial in excess of any money or estate available.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [16:107:1909; RL ï¿½ 7557; NCL ï¿½ 11440]—(NRS A1969,
+664;1979,
+14)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

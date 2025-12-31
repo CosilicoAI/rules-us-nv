@@ -1,0 +1,2013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-640A"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-640A"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="640A"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-640A/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-640A/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-640A/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-640A/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_640A">
+        <num>640A</num>
+        <heading>OCCUPATIONAL THERAPISTS AND</heading>
+        <section eId="sec_640A-010">
+          <num>640A.010</num>
+          <heading>Legislative declaration.</heading>
+          <subsection eId="640A-010__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Only competent and scrupulous persons
+practice occupational therapy in this state; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-010__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Persons who practice occupational
+therapy in this state maintain an appropriate standard of professional conduct.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+986)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-020">
+          <num>640A.020</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 640A.030to640A.060, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+986)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-030">
+          <num>640A.030</num>
+          <heading>ï¿½Boardï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Boardï¿½
+means the Board of Occupational Therapy.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+986)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-040">
+          <num>640A.040</num>
+          <heading>ï¿½Occupational therapistï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Occupational
+therapistï¿½ means a person who is licensed pursuant to this chapter to practice
+occupational therapy.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+986)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-050">
+          <num>640A.050</num>
+          <heading>ï¿½Occupational therapyï¿½ defined.</heading>
+          <subsection eId="640A-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Providing services for habilitation,
+rehabilitation and the promotion of health and wellness to a client;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Assisting a client in achieving the
+highest practicable physical, cognitive and psychosocial well-being to improve
+the physical and mental health of the client and the quality of life of the
+client;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-050__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Teaching a client skills for daily
+living;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-050__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Assisting a client in the development
+of cognitive and perceptual motor skills, and in the integration of sensory
+functions;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-050__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Assisting a client in learning to play and
+to use his or her leisure time constructively;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-050__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Assisting a client in developing
+functional skills necessary to be considered for employment;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-050__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Assessing the need for, designing,
+constructing and training a client in the use and application of selected
+orthotic devices and adaptive equipment;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-050__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Assessing the need for prosthetic
+devices for the upper body and training a client in the functional use of
+prosthetic devices;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-050__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>Teaching a client crafts and exercises
+designed to enhance his or her ability to function normally;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-050__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>Administering to a client manual tests
+of his or her muscles and range of motion, and interpreting the results of
+those tests;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-050__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>Incorporating into the treatment of a
+client the safe and appropriate use of physical agent modalities and techniques
+which have been acquired through an educational program required to obtain the
+certification described inNRS 640A.120,
+or through a program of continuing education or higher education; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-050__subsec_12">
+            <num>12.</num>
+            <content>
+              <p>Adapting the environment of a client
+to reduce the effects of handicaps.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+986; A2013,
+275;2023,
+434)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-060">
+          <num>640A.060</num>
+          <heading>ï¿½Occupational therapy assistantï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Occupational therapy assistantï¿½ means a
+person who is licensed pursuant to this chapter to practice occupational
+therapy under the general supervision of an occupational therapist.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+987)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-070">
+          <num>640A.070</num>
+          <heading>Applicability of chapter.</heading>
+          <subsection eId="640A-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Holding a current license or
+certificate issued pursuant tochapter 391,630to637B,
+inclusive,640,640Bto641B, inclusive, or641Dof NRS, who practices within the scope of
+that license or certificate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Employed by the Federal Government who
+practices occupational therapy within the scope of that employment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-070__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Enrolled in an educational program that
+is accredited by the Accreditation Council for Occupational Therapy Education
+of the American Occupational Therapy Association, Inc. or its successor
+organization, or a comparable foreign educational program accepted by the
+National Board for Certification in Occupational Therapy, or its successor
+organization, which is designed to lead to a certificate or degree in
+occupational therapy, if the person is designated by a title which clearly
+indicates that he or she is a student.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+987; A2003,
+904;2013,
+276;2021,
+1600;2023,
+434,1680)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-080">
+          <num>640A.080</num>
+          <heading>Creation; qualifications, appointment and terms of members;
+vacancies.</heading>
+          <subsection eId="640A-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board of Occupational Therapy,
+consisting of five members appointed by the Governor, is hereby created.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Governor shall appoint to the
+Board:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-080__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>One member who is a representative of the
+general public. This member must not be:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="640A-080__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>An occupational therapist or an
+occupational therapy assistant; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="640A-080__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The spouse or the parent or child, by
+blood, marriage or adoption, of an occupational therapist or an occupational
+therapy assistant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="640A-080__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>One member who is an occupational therapist
+or occupational therapy assistant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-080__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Three members who are occupational
+therapists.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640A-080__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Each member of the Board must be a
+resident of Nevada. An occupational therapist or occupational therapy assistant
+appointed to the Board must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-080__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Have practiced, taught or conducted research
+in occupational therapy for the 5 years immediately preceding the appointment;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-080__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except for the initial members, hold a
+license issued pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640A-080__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>No member of the Board may serve more
+than two consecutive terms.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-080__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If a vacancy occurs during a memberï¿½s
+term, the Governor shall appoint a person qualified under this chapter to
+replace that member for the remainder of the unexpired term.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+987; A1995,
+93;2003,
+1197;2007,
+1846)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-090">
+          <num>640A.090</num>
+          <heading>Meetings; Chair; compliance with Open Meeting Law; quorum.</heading>
+          <subsection eId="640A-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-090__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Hold at least two meetings a year at the call
+of the Chair or upon the written request of two or more members.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-090__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Elect a Chair at the first regular meeting of
+each year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-090__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Comply with the provisions ofchapter 241of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640A-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A majority of the members of the Board
+constitutes a quorum.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+988; A2005,
+979;2013,
+276)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-100">
+          <num>640A.100</num>
+          <heading>Salary, per diem allowance and travel expenses of members;
+employment, duties and salaries of Executive Director and other employees;
+payment of expenses and salaries.</heading>
+          <subsection eId="640A-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each member of the Board is entitled to
+receive:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-100__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A salary of not more than $150 per day, as
+fixed by the Board, while engaged in the business of the Board; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-100__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A per diem allowance and travel expenses, at
+a rate fixed by the Board, while engaged in the business of the Board. The rate
+must not exceed the rate provided for state officers and employees generally.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640A-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board may employ an Executive
+Director and any other employees it deems necessary, establish their duties and
+fix their salaries.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The expenses of the Board and members
+of the Board, and the salaries of its employees, must be paid from the fees
+received by the Board pursuant to this chapter, and no part of those expenses
+and salaries may be paid out of the State General Fund.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+988; A2013,
+277;2023,
+435)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-110">
+          <num>640A.110</num>
+          <heading>Powers and duties; regulations.</heading>
+          <subsection eId="640A-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-110__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Enforce the provisions of this chapter and
+any regulations adopted pursuant thereto;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-110__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prepare and maintain a record of its
+proceedings, including, without limitation, any administrative proceedings;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-110__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Evaluate the qualifications and determine the
+eligibility of an applicant for a license as an occupational therapist or
+occupational therapy assistant and, upon payment of the appropriate fee, issue
+the appropriate license to a qualified applicant;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-110__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Adopt regulations establishing standards of
+practice for persons licensed pursuant to this chapter and any other
+regulations necessary to carry out the provisions of this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-110__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Require a person licensed pursuant to this
+chapter to submit to the Board such documentation as the Board deems necessary
+to determine whether the licensee has acquired the skills necessary to perform
+physical agent modalities;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-110__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Investigate any complaint filed with the
+Board against a licensee; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-110__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Unless the Board determines that extenuating
+circumstances exist, forward to the appropriate law enforcement agency any substantiated
+information submitted to the Board concerning a person who practices or offers
+to practice occupational therapy or as an occupational therapy assistant
+without the appropriate license issued pursuant to the provisions of this
+chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640A-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board may transact any other
+business necessary to enable the Board to carry out its duties pursuant to this
+chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+988; A2013,
+277,2242)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-115">
+          <num>640A.115</num>
+          <heading>Inspection of premises by Board.</heading>
+          <content>
+            <p>A
+member or any agent of the Board may enter any premises in this State where a
+person who holds a license issued pursuant to the provisions of this chapter
+practices occupational therapy or as an occupational therapy assistant and
+inspect it to determine whether a violation of any provision of this chapter
+has occurred, including, without limitation, an inspection to determine whether
+any person at the premises is practicing occupational therapy or as an
+occupational therapy assistant without the appropriate license issued pursuant
+to the provisions of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+2242)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-120">
+          <num>640A.120</num>
+          <heading>Qualifications for license.</heading>
+          <subsection eId="640A-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Have passed the examination approved by
+the Board pursuant toNRS 640A.150;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Hold a current certification as an
+occupational therapist or occupational therapy assistant, as applicable, with
+the National Board for Certification in Occupational Therapy, or its successor
+organization.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+988; A2013,
+277;2015,
+3024,3902;2023,
+435)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-130">
+          <num>640A.130</num>
+          <heading>Waiver for completion of equivalent foreign education and
+experience.</heading>
+          <content>
+            <p>Repealed. (See chapter
+88,Statutes
+of Nevada 2023, at page 440.)</p>
+          </content>
+        </section>
+        <section eId="sec_640A-140">
+          <num>640A.140</num>
+          <heading>Application for license.</heading>
+          <subsection eId="640A-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 640A.165,640A.166and640A.168, a person who desires to be
+licensed by the Board as an occupational therapist or occupational therapy
+assistant must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-140__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Submit an application to the Board in the
+manner prescribed by the Board; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-140__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide evidence satisfactory to the Board
+that he or she possesses the qualifications required pursuant toNRS 640A.120.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640A-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The application must include all
+information required to complete the application.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+989; A1997,
+2152;2005,
+2753,2807;2015,
+3025,3903;2023,
+435)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-145">
+          <num>640A.145</num>
+          <heading>Payment of child support: Submission of certain information by
+applicant; grounds for denial of license; duty of Board. [Effective until the
+date of the repeal of 42 U.S.C. ï¿½ 666, the federal law requiring each state to
+establish procedures for withholding, suspending and restricting the
+professional, occupational and recreational licenses for child support
+arrearages and for noncompliance with certain processes relating to paternity
+or child support proceedings.]</heading>
+          <subsection eId="640A-145__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to any other requirements
+set forth in this chapter:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-145__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An applicant for the issuance of a license as
+an occupational therapist or occupational therapy assistant shall include the
+social security number of the applicant in the application submitted to the
+Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-145__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An applicant for the issuance or renewal of a
+license as an occupational therapist or occupational therapy assistant shall
+submit to the Board the statement prescribed by the Division of Welfare and
+Supportive Services of the Department of Health and Human Services pursuant toNRS 425.520. The statement must be
+completed and signed by the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640A-145__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall include the statement
+required pursuant to subsection 1 in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-145__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The application or any other forms that must
+be submitted for the issuance or renewal of the license; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-145__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A separate form prescribed by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640A-145__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A license as an occupational therapist
+or occupational therapy assistant may not be issued or renewed by the Board if
+the applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-145__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Fails to submit the statement required
+pursuant to subsection 1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-145__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Indicates on the statement submitted pursuant
+to subsection 1 that the applicant is subject to a court order for the support of
+a child and is not in compliance with the order or a plan approved by the
+district attorney or other public agency enforcing the order for the repayment
+of the amount owed pursuant to the order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640A-145__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If an applicant indicates on the
+statement submitted pursuant to subsection 1 that the applicant is subject to a
+court order for the support of a child and is not in compliance with the order
+or a plan approved by the district attorney or other public agency enforcing
+the order for the repayment of the amount owed pursuant to the order, the Board
+shall advise the applicant to contact the district attorney or other public
+agency enforcing the order to determine the actions that the applicant may take
+to satisfy the arrearage.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2151; A2005,
+2753,2807)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-150">
+          <num>640A.150</num>
+          <heading>Examination for license.</heading>
+          <subsection eId="640A-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Approve an examination on the laws and
+regulations governing the practice of occupational therapy in this State; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Establish the requirements to pass the
+examination.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+989; A2013,
+278;2023,
+436)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-160">
+          <num>640A.160</num>
+          <heading>Issuance of license without examination.</heading>
+          <content>
+            <p>Repealed. (See chapter 88,Statutes
+of Nevada 2023, at page 440.)</p>
+          </content>
+        </section>
+        <section eId="sec_640A-165">
+          <num>640A.165</num>
+          <heading>Expedited license by endorsement as occupational therapist:
+Requirements; procedure for issuance.</heading>
+          <subsection eId="640A-165__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board may issue a license by
+endorsement as an occupational therapist to an applicant who meets the
+requirements set forth in this section. An applicant may submit to the Board an
+application for such a license if the applicant satisfies the requirements set
+forth inNRS 640A.120and holds a
+corresponding valid and unrestricted license as an occupational therapist in
+the District of Columbia or any state or territory of the United States.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-165__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An applicant for a license by
+endorsement pursuant to this section must submit to the Board with his or her
+application:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-165__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Proof satisfactory to the Board that the
+applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="640A-165__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Satisfies the requirements of
+subsection 1;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="640A-165__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Has not been disciplined or
+investigated by the corresponding regulatory authority of the District of
+Columbia or any state or territory in which the applicant currently holds or
+has held a license as an occupational therapist; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="640A-165__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Has not been held civilly or criminally
+liable for malpractice in the District of Columbia or any state or territory of
+the United States;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="640A-165__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An affidavit stating that the information
+contained in the application and any accompanying material is true and correct;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-165__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A fee in the amount of the fee set by a
+regulation of the Board pursuant toNRS
+640A.190for the initial issuance of a license; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-165__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Any other information required by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640A-165__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Not later than 15 business days after
+receiving an application for a license by endorsement as an occupational
+therapist pursuant to this section, the Board shall provide written notice to
+the applicant of any additional information required by the Board to consider
+the application. Unless the Board denies the application for good cause, the
+Board shall approve the application and issue a license by endorsement as an
+occupational therapist to the applicant not later than 45 days after receiving
+the application.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-165__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A license by endorsement as an
+occupational therapist may be issued at a meeting of the Board or between its
+meetings by the Chair of the Board. Such an action shall be deemed to be an
+action of the Board.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+3023; A2019,
+4298;2023,
+436)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-166">
+          <num>640A.166</num>
+          <heading>Expedited license by endorsement as occupational therapist for
+active member of Armed Forces, memberï¿½s spouse, veteran or veteranï¿½s surviving
+spouse: Requirements; procedure for issuance; provisional license pending
+action on application.</heading>
+          <subsection eId="640A-166__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board may issue a license by
+endorsement as an occupational therapist to an applicant who meets the
+requirements set forth in this section. An applicant may submit to the Board an
+application for such a license if the applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-166__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Holds a corresponding valid and unrestricted
+license as an occupational therapist in the District of Columbia or any state
+or territory of the United States;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-166__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Meets the requirements set forth inNRS 640A.120; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-166__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Is an active member of, or the spouse of an
+active member of, the Armed Forces of the United States, a veteran or the
+surviving spouse of a veteran.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640A-166__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An applicant for a license by
+endorsement pursuant to this section must submit to the Board with his or her
+application:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-166__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Proof satisfactory to the Board that the
+applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="640A-166__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Satisfies the requirements of
+subsection 1;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="640A-166__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Has not been disciplined or
+investigated by the corresponding regulatory authority of the District of Columbia
+or the state or territory in which the applicant holds a license as an
+occupational therapist; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="640A-166__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Has not been held civilly or
+criminally liable for malpractice in the District of Columbia or any state or
+territory of the United States;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="640A-166__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An affidavit stating that the information
+contained in the application and any accompanying material is true and correct;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-166__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A fee in the amount set by a regulation of
+the Board pursuant toNRS 640A.190for
+the initial issuance of a license; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-166__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Any other information required by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640A-166__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Not later than 15 business days after
+receiving an application for a license by endorsement as an occupational
+therapist pursuant to this section, the Board shall provide written notice to
+the applicant of any additional information required by the Board to consider
+the application. Unless the Board denies the application for good cause, the
+Board shall approve the application and issue a license by endorsement as an
+occupational therapist to the applicant not later than 45 days after receiving
+all the additional information required by the Board to complete the
+application.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-166__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A license by endorsement as an
+occupational therapist may be issued at a meeting of the Board or between its
+meetings by the Chair of the Board. Such an action shall be deemed to be an
+action of the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-166__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>At any time before making a final
+decision on an application for a license by endorsement pursuant to this
+section, the Board may grant a provisional license authorizing an applicant to
+practice as an occupational therapist in accordance with regulations adopted by
+the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-166__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>As used in this section, ï¿½veteranï¿½ has
+the meaning ascribed to it inNRS 417.005.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+3902; A2019,
+4299;2023,
+437)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-168">
+          <num>640A.168</num>
+          <heading>Reciprocal license: Qualifications; application; issuance.</heading>
+          <subsection eId="640A-168__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board may issue a license by
+reciprocity as an occupational therapist or occupational therapy assistant to
+an applicant who meets the requirements set forth in this section. An applicant
+may submit an application for such a license if the applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-168__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Holds a valid and unrestricted license as an
+occupational therapist or occupational therapy assistant, as applicable, in any
+state that is a member of the Occupational Therapy Licensure Compact; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-168__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Meets the requirements set forth inNRS 640A.120.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640A-168__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An applicant for a license by
+reciprocity pursuant to this section must submit to the Board with his or her
+application:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-168__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Proof satisfactory to the Board that the
+applicant satisfies the requirements of subsection 1;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-168__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A fee in the amount set by regulation of the
+Board pursuant toNRS 640A.190; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-168__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any other information required by the Board.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+432)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-170">
+          <num>640A.170</num>
+          <heading>Temporary license: Qualifications; issuance; period of validity;
+renewal; revocation.</heading>
+          <subsection eId="640A-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board may issue a temporary license
+to a person who has the qualifications required pursuant toNRS 640A.120and who is licensed as an
+occupational therapist or occupational therapy assistant in good standing in
+another state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A temporary license issued pursuant to subsection
+1 is valid for 6 months or until the person to whom it is issued otherwise
+obtains a license pursuant to this chapter, whichever occurs first.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Board may renew a temporary license
+not more than once and may revoke a temporary license for any of the grounds
+set forth inNRS 640A.200.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+990; A2013,
+278;2023,
+437)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-172">
+          <num>640A.172</num>
+          <heading>Provisional license: Qualifications; issuance; limitations;
+period of validity; renewal; revocation.</heading>
+          <subsection eId="640A-172__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board may issue a provisional
+license to a person who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-172__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Has passed the examination approved by the
+Board pursuant toNRS 640A.150;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-172__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has graduated from an educational program
+accredited by the Accreditation Council for Occupational Therapy Education of
+the American Occupational Therapy Association Inc., or its successor
+organization, or a comparable foreign educational program accepted by the
+National Board for Certification in Occupational Therapy, or its successor
+organization, as an equivalent requirement for certification; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-172__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Is eligible to take the national examination
+required for certification by the National Board for Certification in
+Occupational Therapy.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640A-172__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A provisional license issued pursuant
+to this section authorizes the person to whom the provisional license is issued
+to practice occupational therapy only under the general supervision of an
+occupational therapist licensed pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-172__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A provisional license issued pursuant
+to this section is valid for 6 months or until the person to whom it is issued
+otherwise obtains a license pursuant to this chapter, whichever occurs first.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-172__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Board may renew a provisional
+license not more than once and may revoke a provisional license for any of the
+grounds set forth inNRS 640A.200.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+432)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-180">
+          <num>640A.180</num>
+          <heading>Expiration, renewal and reinstatement of license; placement of
+license on inactive status; regulations.</heading>
+          <subsection eId="640A-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall adopt regulations
+prescribing the period for which a license issued pursuant to the provisions of
+this chapter is valid. Except as otherwise provided inNRS 640A.170and640A.172, the period must be not less
+than 1 year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board may adopt regulations
+prescribing the manner in which a license issued pursuant to this chapter must
+be renewed, which may include requirements for continuing education. Such
+requirements for continuing education may require a licensee to take and pass
+the examination approved by the Board pursuant toNRS 640A.150at intervals set by the
+Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-180__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Board may adopt regulations
+providing for the late renewal of a license and the reinstatement of an expired
+license, except that the Board may not renew or reinstate a license if 5 years
+have passed since its expiration.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-180__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Board may, at the request of a
+person licensed pursuant to this chapter, place the license on inactive status
+if the person:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-180__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Does not practice occupational therapy, or
+represent that the person is authorized to practice occupational therapy, in
+this State; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-180__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Satisfies any requirements for continuing
+education established by the Board.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+990; A2013,
+279;2023,
+438)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-185">
+          <num>640A.185</num>
+          <heading>Renewal of license: Authority of Board to make data request
+concerning demographic and practice information available to applicants for
+voluntary completion and electronic submission; confidentiality of information
+provided.</heading>
+          <subsection eId="640A-185__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The information provided by an
+applicant for the renewal of a license pursuant to subsection 1 is confidential
+and, except as required by subsection 1, must not be disclosed to any person or
+entity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-185__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An applicant for the renewal of a
+license is not required to complete a data request pursuant to subsection 1 and
+is not subject to disciplinary action, including, without limitation, refusal
+to renew the license, for failure to do so.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+806)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-190">
+          <num>640A.190</num>
+          <heading>Fees; regulations.</heading>
+          <subsection eId="640A-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board may by regulation establish
+reasonable fees for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-190__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The examination of an applicant for a
+license;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-190__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The initial issuance of a license, including
+a license by endorsement;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-190__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The issuance of a temporary license;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-190__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The issuance of a provisional license;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-190__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The issuance of a license by reciprocity
+pursuant toNRS 640A.168;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-190__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The renewal of a license; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-190__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The late renewal of a license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640A-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If an applicant submits an application
+for a license by endorsement pursuant toNRS
+640A.166, the Board shall collect not more than one-half of the fee
+established pursuant to subsection 1 for the initial issuance of the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-190__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, the fees must be set in such an amount as to reimburse the Board
+for the cost of carrying out the provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+990; A2013,
+279;2015,
+3025,3903;2023,
+438)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-200">
+          <num>640A.200</num>
+          <heading>Authorized disciplinary or other action; grounds; reinstatement
+of revoked license; orders imposing discipline deemed public records.</heading>
+          <subsection eId="640A-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board may, after notice and a
+hearing as required by law, suspend, revoke or refuse to issue or renew a
+license to practice as an occupational therapist or occupational therapy
+assistant, or may impose conditions upon the use of that license, if the Board
+determines that the holder of or applicant for the license is guilty of
+unprofessional conduct which has endangered or is likely to endanger the public
+health, safety or welfare. The Board may reinstate a revoked license pursuant
+to the provisions ofchapter 622Aof NRS
+upon application by the person to whom the license was issued.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Notwithstanding the provisions ofchapter 622Aof NRS, if the Board receives a
+report pursuant to subsection 5 ofNRS
+228.420, a disciplinary proceeding regarding the report must be commenced
+within 30 days after the Board receives the report.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An order that imposes discipline and
+the findings of fact and conclusions of law supporting that order are public
+records.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-200__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section,
+ï¿½unprofessional conductï¿½ includes:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-200__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The obtaining of a license by fraud or
+through the misrepresentation or concealment of a material fact;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-200__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The conviction of:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="640A-200__subsec_4__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A felony or gross misdemeanor relating
+to the practice of occupational therapy; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="640A-200__subsec_4__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Any crime involving moral turpitude;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="640A-200__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The violation of any provision of this
+chapter or regulation of the Board adopted pursuant to this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-200__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The performance or supervision of the
+performance of a pelvic examination in violation ofNRS 629.085; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-200__subsec_4__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The operation of a medical facility, as
+defined inNRS 449.0151, at any time
+during which:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="640A-200__subsec_4__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The license of the facility is
+suspended or revoked; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="640A-200__subsec_4__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>An act or omission occurs which
+results in the suspension or revocation of the license pursuant toNRS 449.160.
+ï¿½This
+paragraph applies to an owner or other principal responsible for the operation
+of the facility.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+990; A1993,
+795;2003,
+2714,3456;2005,
+783;2009,
+897;2021,
+1582)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-205">
+          <num>640A.205</num>
+          <heading>Suspension of license for failure to pay child support or comply
+with certain subpoenas or warrants; reinstatement of license. [Effective until
+2 years after the date of the repeal of 42 U.S.C. ï¿½ 666, the federal law
+requiring each state to establish procedures for withholding, suspending and
+restricting the professional, occupational and recreational licenses for child
+support arrearages and for noncompliance with certain processes relating to
+paternity or child support proceedings.]</heading>
+          <subsection eId="640A-205__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Board receives a copy of a court
+order issued pursuant toNRS 425.540that provides for the suspension of all professional, occupational and
+recreational licenses, certificates and permits issued to a person who is the
+holder of a license as an occupational therapist or occupational therapy
+assistant, the Board shall deem the license issued to that person to be
+suspended at the end of the 30th day after the date on which the court order
+was issued unless the Board receives a letter issued to the holder of the
+license by the district attorney or other public agency pursuant toNRS 425.550stating that the holder of the
+license has complied with the subpoena or warrant or has satisfied the
+arrearage pursuant toNRS 425.560.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-205__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall reinstate a license as
+an occupational therapist or occupational therapy assistant that has been
+suspended by a district court pursuant toNRS
+425.540if the Board receives a letter issued by the district attorney or
+other public agency pursuant toNRS 425.550to the person whose license was suspended stating that the person whose license
+was suspended has complied with the subpoena or warrant or has satisfied the
+arrearage pursuant toNRS 425.560.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2152; A2005,
+2807)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-210">
+          <num>640A.210</num>
+          <heading>Authority to conduct investigations, hold hearings and examine
+witnesses; oaths; subpoenas.</heading>
+          <subsection eId="640A-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In a manner consistent with the
+provisions ofchapter 622Aof NRS, the Board
+may conduct investigations, hold hearings and examine witnesses in carrying out
+its duties pursuant to this chapter. For the purposes of this chapter:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-210__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any member of the Board may administer oaths;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-210__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Chair of the Board may issue subpoenas to
+compel the attendance of witnesses and the production of books and papers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640A-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If any person fails to comply with the
+subpoena within 10 days after its issuance, the Chair of the Board may petition
+the district court for an order of the court compelling compliance with the
+subpoena.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon such a petition, the court shall
+enter an order directing the person subpoenaed to appear before the court at a
+time and place to be fixed by the court in its order, the time to be not more
+than 10 days after the date of the order, and to show cause why the person has
+not complied with the subpoena. A certified copy of the order must be served
+upon the person subpoenaed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-210__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If it appears to the court that the
+subpoena was regularly issued by the Board, the court shall enter an order
+compelling compliance with the subpoena, and upon failure to obey the order the
+person must be dealt with as for contempt of court.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+991; A2005,
+784)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-215">
+          <num>640A.215</num>
+          <heading>Filing of complaints.</heading>
+          <content>
+            <p>Any
+person who becomes aware that a person practicing occupational therapy or as an
+occupational therapy assistant in this State has, is or is about to become
+engaged in conduct which constitutes grounds for initiating disciplinary action
+pursuant toNRS 640A.200may file a
+complaint with the Board. A complaint may be filed anonymously. If a complaint
+is filed anonymously, the Board may accept the complaint but may refuse to
+consider the complaint if anonymity of the complainant makes processing the
+complaint impossible or unfair to the person who is the subject of the
+complaint.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+2242)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-217">
+          <num>640A.217</num>
+          <heading>Administrative citation: Issuance; order to take corrective
+action; payment or waiver of administrative fine; additional sanction.</heading>
+          <subsection eId="640A-217__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A member or agent of the Board may
+issue a citation to a licensee if the member or agent concludes that, based on
+a preponderance of the evidence, the licensee has violated any regulation of
+the Board that requires a licensee to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-217__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Provide his or her current contact
+information to the Board;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-217__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide to the Board information relating to
+the supervision or employment of the licensee;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-217__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Display his or her license or a copy thereof;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-217__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Practice only under the name listed on his or
+her license;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-217__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Provide proof of continuing education; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-217__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Provide to the Board information or
+documentation required to be maintained by the licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640A-217__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A citation issued pursuant to this
+section may include, without limitation, an order to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-217__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Take action to correct any condition
+resulting from any act that constitutes a violation of a provision set forth in
+subsection 1, at the cost of the person who committed the violation. If the
+citation contains such an order, the citation must:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="640A-217__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>State the time permitted for
+compliance, which must be not less than 5 business days after the date the
+person receives the citation; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="640A-217__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Specifically describe the corrective
+action to be taken.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="640A-217__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided by subsection 4,
+pay an administrative fine not to exceed the amount prescribed pursuant to
+subsection 3.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="640A-217__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any administrative fine imposed
+pursuant to this section must be in the amount prescribed by regulation of the
+Board, which must be not more than $500.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-217__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a citation issued pursuant to this
+section contains an order to pay an administrative fine, the person to whom the
+citation was issued may submit a written request to the Board to waive the
+administrative fine. If the Board determines that good cause exists to waive
+the administrative fine, the Board may grant the request.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-217__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The sanctions authorized by this
+section are separate from, and in addition to, any other remedy, civil or
+criminal, authorized by this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+433)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-220">
+          <num>640A.220</num>
+          <heading>Confidentiality of certain records of Board; exceptions;
+retention of complaints.</heading>
+          <subsection eId="640A-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section andNRS 239.0115, a complaint
+filed with the Board, all documents and other information filed with the
+complaint and all documents and other information compiled as a result of an
+investigation conducted to determine whether to initiate disciplinary action
+against a person are confidential, unless the person submits a written
+statement to the Board requesting that such documents and information be made
+public records.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The charging documents filed with the
+Board to initiate disciplinary action pursuant tochapter
+622Aof NRS and all documents and information considered by the Board when
+determining whether to impose discipline are public records.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-220__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Board shall, to the extent
+feasible, communicate or cooperate with or provide any documents or other
+information to any other licensing board or any other agency that is
+investigating a person, including, without limitation, a law enforcement
+agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-220__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Board shall retain all complaints
+filed with the Board for at least 10 years, including, without limitation, any
+complaints not acted upon.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+991; A2003,
+3457;2005,
+784;2007,
+2142;2009,
+897;2013,
+2243)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-230">
+          <num>640A.230</num>
+          <heading>Unauthorized practice prohibited; penalties.</heading>
+          <subsection eId="640A-230__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 629.091, a person shall not practice
+occupational therapy, or represent that he or she is authorized to practice
+occupational therapy, in this state unless he or she holds a current license
+issued pursuant to this chapter. A person who violates the provisions of this
+subsection is guilty of a gross misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="640A-230__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In addition to any other penalty
+prescribed by law, if the Board determines that a person has violated the
+provisions of subsection 1, the Board may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="640A-230__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Issue and serve on the person an order to
+cease and desist until the person obtains from the Board the proper license or
+otherwise demonstrates that he or she is no longer in violation of subsection
+1. An order to cease and desist must include a telephone number with which the
+person may contact the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-230__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Issue a citation to the person. A citation
+issued pursuant to this paragraph must be in writing, describe with
+particularity the nature of the violation and inform the person of the
+provisions of this paragraph. Each activity in which the person is engaged
+constitutes a separate offense for which a separate citation may be issued. To
+appeal a citation, the person must submit a written request for a hearing to
+the Board not later than 30 days after the date of issuance of the citation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-230__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Assess against the person an administrative
+fine of not more than $5,000.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-230__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Impose any combination of the penalties set
+forth in paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-230__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-230__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="640A-230__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+991; A1995,
+753;2013,
+279,2243)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_640A-250">
+          <num>640A.250</num>
+          <heading>Injunctive relief.</heading>
+          <content>
+            <p>Whenever
+any person has engaged in or is about to engage in any conduct which
+constitutes a violation of the provisions of this chapter, the district court
+of any county, on application of the Board, may issue an injunction or any
+other order restraining such conduct. Proceedings under this section must be
+governed byRule 65of the
+Nevada Rules of Civil Procedure, except that no bond or undertaking is required
+in any action commenced by the Board.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+2242)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,1657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-132"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-132"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="132"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-132/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-132/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-132/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-132/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_132">
+        <num>132</num>
+        <heading>GENERAL PROVISIONS</heading>
+        <section eId="sec_132-010">
+          <num>132.010</num>
+          <heading>Construction of title: Liberal construction.</heading>
+          <content>
+            <p>This title must be liberally construed so that
+a speedy settlement of estates is accomplished at the least expense to the
+parties.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 307:107:1941; 1931 NCL ï¿½ 9882.307]—(NRS A1999,
+2254)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-015">
+          <num>132.015</num>
+          <heading>Construction of title: Title to be construed consistent withchapter 719of NRS.</heading>
+          <content>
+            <p>Except as otherwise
+specifically provided in this title, the provisions of this title must be
+construed in a manner consistent with the provisions ofchapter 719of NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+3435)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-025">
+          <num>132.025</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this title, unless the context otherwise requires, the words and terms
+defined inNRS 132.030to132.370, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2249; A2001,
+2340;2007,
+895;2011,
+1434;2015,
+3526;2017,
+3436)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-030">
+          <num>132.030</num>
+          <heading>ï¿½Abatementï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Abatementï¿½
+means a proportional reduction of a pecuniary devise when the money or other
+assets out of which the devise is payable are not sufficient to pay the devise
+in full.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2249)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-035">
+          <num>132.035</num>
+          <heading>ï¿½Acknowledgmentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Acknowledgmentï¿½
+means a declaration that an instrument has been executed for the purposes
+stated therein and, if the instrument was executed in a representative
+capacity, that the instrument was signed with proper authority and executed as
+the act of the person represented and identified therein.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2249)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-040">
+          <num>132.040</num>
+          <heading>ï¿½Administratorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Administratorï¿½
+means a person not designated in a will who is appointed by the court to
+administer an estate.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2249)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-045">
+          <num>132.045</num>
+          <heading>ï¿½Agentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Agentï¿½
+means a person authorized to represent or act for another person, including an
+attorney-in-fact under a durable or nondurable power of attorney and a person
+authorized to make decisions concerning the health care of another person.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2249)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-050">
+          <num>132.050</num>
+          <heading>ï¿½Beneficiaryï¿½ defined.</heading>
+          <subsection eId="132-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A trust, includes a person who has a
+present or future interest, vested or contingent, and the owner of an interest
+by assignment or other transfer;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="132-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A charitable trust, includes any person
+entitled to enforce the trust;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="132-050__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An instrument designating a
+beneficiary, includes a beneficiary of any nonprobate transfer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="132-050__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A beneficiary designated in a governing
+instrument, includes a grantee of a deed, a devisee, a beneficiary of a trust,
+a beneficiary under a designation, a donee, an appointee or a taker in default
+under a power of appointment, or a person in whose favor a power of attorney or
+a power held in any individual, fiduciary or representative capacity is
+exercised,
+ï¿½but does not
+include a person who receives less than $100 under a will.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2249; A2011,
+1434)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-053">
+          <num>132.053</num>
+          <heading>ï¿½Certified paper originalï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Certified
+paper originalï¿½ means a tangible document that contains the text of an
+electronic will and, if applicable, a self-proving affidavit concerning the
+electronic will.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+3435)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-055">
+          <num>132.055</num>
+          <heading>ï¿½Childï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Childï¿½
+includes a person entitled to take as a child by intestate succession from the
+parent whose relationship is involved and excludes a person who is a stepchild,
+a foster child, a grandchild or any more remote descendant.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2250)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-060">
+          <num>132.060</num>
+          <heading>ï¿½Citationï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Citationï¿½
+means a document issued by the clerk of the court, as authorized by statute or
+ordered by the court, requiring a person to appear, directing a person to act
+or conduct himself or herself in a specified way, or notifying a person of a
+hearing.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2250)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-065">
+          <num>132.065</num>
+          <heading>ï¿½Claimï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Claim,ï¿½
+in respect to the estate of a decedent, includes a liability of the decedent,
+whether arising in contract, in tort or otherwise, that arises before the death
+of the decedent.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2250)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-070">
+          <num>132.070</num>
+          <heading>ï¿½Codicilï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Codicilï¿½
+means an addition to a will that may modify or revoke one or more provisions of
+the will, or add one or more provisions to the will, and is signed with the
+same formalities as a witnessed will, electronic will or holographic will.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2250; A2001,
+2340)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-075">
+          <num>132.075</num>
+          <heading>ï¿½Community propertyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Community
+propertyï¿½ has the meaning ascribed to it inNRS
+123.220.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2250)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-080">
+          <num>132.080</num>
+          <heading>ï¿½Community property with right of survivorshipï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Community property with right of
+survivorshipï¿½ means community property in which a right of survivorship exists
+pursuant toNRS 111.064or115.060or any other provision of law.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2250)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-085">
+          <num>132.085</num>
+          <heading>ï¿½Descendantï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Descendantï¿½
+includes descendants of all generations. For the purposes of this section, the
+relationship of parent and child at each generation is determined by the
+definitions of ï¿½childï¿½ and ï¿½parentï¿½ contained in this title.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2250)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-090">
+          <num>132.090</num>
+          <heading>ï¿½Designation of beneficiaryï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Designation
+of beneficiaryï¿½ means a governing instrument naming a beneficiary of an
+insurance policy or annuity, of an account designated as payable on death, of a
+security registered as transferable on death, or of a pension, profit-sharing,
+retirement or similar benefit plan or other nonprobate transfer.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2250; A2011,
+1435)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-095">
+          <num>132.095</num>
+          <heading>ï¿½Deviseï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Devise,ï¿½
+used as a noun, means a testamentary disposition of real or personal property
+and, used as a verb, means to dispose of real or personal property by will.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2250)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-100">
+          <num>132.100</num>
+          <heading>ï¿½Deviseeï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Deviseeï¿½
+means a person designated in a will to receive a devise. For the purposes ofchapters 133,134,135and148of NRS, in the case of a devise to an existing trust or trustee, or to a
+trustee of a trust described by will, the term means the trust or trustee, and
+not a beneficiary of the trust.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2250)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-115">
+          <num>132.115</num>
+          <heading>ï¿½Distributeeï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Distributeeï¿½
+means a person who has received property of a decedent from the decedentï¿½s
+personal representative other than as a creditor or purchaser. A testamentary
+trustee is a distributee only to the extent of distributed assets or increment
+thereto remaining in his or her hands. A beneficiary of a testamentary trust to
+whom the trustee has distributed property received from a personal
+representative is a distributee of the personal representative. As used in this
+section, ï¿½testamentary trusteeï¿½ includes a trustee to whom assets are
+transferred by will to the extent of the devised assets.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2250)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-116">
+          <num>132.116</num>
+          <heading>ï¿½District courtï¿½ and ï¿½courtï¿½ defined.</heading>
+          <content>
+            <p>ï¿½District
+courtï¿½ or ï¿½courtï¿½ means a district court of this State sitting in probate or
+otherwise adjudicating matters pursuant to this title.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+895)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-1165">
+          <num>132.1165</num>
+          <heading>ï¿½Domestic partnersï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Domestic
+partnersï¿½ has the meaning ascribed to it inNRS
+122A.030.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+3524)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-1168">
+          <num>132.1168</num>
+          <heading>ï¿½Electronic notary publicï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Electronic
+notary publicï¿½ has the meaning ascribed to it inNRS 240.186.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+3435)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-117">
+          <num>132.117</num>
+          <heading>ï¿½Electronic recordï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Electronic
+recordï¿½ has the meaning ascribed to it inNRS
+719.090.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2340; A2017,
+3436;2021,
+962)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-118">
+          <num>132.118</num>
+          <heading>ï¿½Electronic signatureï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Electronic
+signatureï¿½ has the meaning ascribed to it inNRS
+719.100.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2340; A2021,
+962)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-119">
+          <num>132.119</num>
+          <heading>ï¿½Electronic willï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Electronic
+willï¿½ means a will that is created and maintained in an electronic record.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2340; A2017,
+3436;2021,
+962)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-120">
+          <num>132.120</num>
+          <heading>ï¿½Estateï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Estateï¿½
+includes the property of the decedent or trust whose affairs are subject to
+this title as it is originally constituted and as it exists from time to time
+during administration.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2251)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-125">
+          <num>132.125</num>
+          <heading>ï¿½Estate taxï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Estate
+taxï¿½ means federal estate tax, including any interest and penalty thereon.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2251)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-130">
+          <num>132.130</num>
+          <heading>ï¿½Executorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Executorï¿½
+means a person nominated in a will and appointed by the court to execute the
+provisions of the will and administer the estate of the decedent.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2251)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-135">
+          <num>132.135</num>
+          <heading>ï¿½Expenses of administrationï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Expenses
+of administrationï¿½ means funeral expenses and expenses actually and properly
+incurred by a personal representative in the administration of an estate,
+including, without limitation, expenses incurred for the maintenance or
+preservation of the assets of an estate, plus the fees of the personal
+representative, any attorney retained by the personal representative and any
+other consultant engaged by him or her.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2251; A2017,
+1672)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-140">
+          <num>132.140</num>
+          <heading>ï¿½Family allowanceï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Family
+allowanceï¿½ means the money allocated from the estate by the court pursuant toNRS 146.030.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2251)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-145">
+          <num>132.145</num>
+          <heading>ï¿½Fiduciaryï¿½ defined.</heading>
+          <subsection eId="132-145__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="132-145__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Trust adviserï¿½ has the meaning ascribed to
+it inNRS 163.5545.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="132-145__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Trust protectorï¿½ has the meaning ascribed to
+it inNRS 163.5547.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2251; A2017,
+1672)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-147">
+          <num>132.147</num>
+          <heading>ï¿½Foreign jurisdictionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Foreign
+jurisdictionï¿½ means any jurisdiction other than this State.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+3524)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-150">
+          <num>132.150</num>
+          <heading>ï¿½Giftï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Giftï¿½
+means a gratuitous transfer of property to a recipient for less than full
+market value.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2251)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-155">
+          <num>132.155</num>
+          <heading>ï¿½Governing instrumentï¿½ defined.</heading>
+          <subsection eId="132-155__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A deed, will, trust, insurance policy
+or annuity, designated as payable on death;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="132-155__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A security registered as transferable
+on death;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="132-155__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A pension, profit-sharing, retirement
+or similar benefit plan;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="132-155__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>An instrument creating or exercising a
+power of appointment or a power of attorney; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="132-155__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A dispositive, appointive or nominative
+instrument of any similar type.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2251)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-160">
+          <num>132.160</num>
+          <heading>ï¿½Guardianï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Guardianï¿½
+means a person who has qualified as the guardian of a minor or incapacitated
+person pursuant to testamentary or judicial appointment, but does not include a
+guardian ad litem.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2251)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-165">
+          <num>132.165</num>
+          <heading>ï¿½Heirsï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Heirsï¿½
+means persons, including the surviving spouse and the state, who are entitled
+by intestate succession to the property of a decedent.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2251)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-170">
+          <num>132.170</num>
+          <heading>ï¿½Holographic willï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Holographic
+willï¿½ means a testamentary document that complies with the requirements ofNRS 133.090.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2251)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-175">
+          <num>132.175</num>
+          <heading>ï¿½Incapacitated personï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Incapacitated
+personï¿½ means a person who is impaired by reason of mental illness, mental
+deficiency, advanced age, disease, weakness of mind or any other cause except
+minority, to the extent of lacking sufficient understanding or capacity to make
+or communicate responsible decisions.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2251)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-180">
+          <num>132.180</num>
+          <heading>ï¿½Interestï¿½ defined.</heading>
+          <subsection eId="132-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The whole of any property, real or
+personal, legal or equitable, present or future, or any part thereof, or any
+other estate therein;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="132-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A power to appoint, consume, apply or
+expend property; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="132-180__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any other right, power, privilege or
+immunity relating to property.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2251)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-185">
+          <num>132.185</num>
+          <heading>ï¿½Interested personï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Interested
+personï¿½ means a person whose right or interest under an estate or trust may be
+materially affected by a decision of a fiduciary or a decision of the court.
+The fiduciary or court shall determine who is an interested person according to
+the particular purposes of, and matter involved in, a proceeding.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2252; A2007,
+2395;2011,
+1435;2015,
+3526)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-190">
+          <num>132.190</num>
+          <heading>ï¿½Intestateï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Intestate,ï¿½
+used as a noun, means a decedent who dies without leaving a will.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2252)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-195">
+          <num>132.195</num>
+          <heading>ï¿½Intestate estateï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Intestate
+estateï¿½ includes an estate where no will has been offered or admitted to
+probate as the last will and testament and an estate where the will does not
+distribute the entire estate.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2252)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-200">
+          <num>132.200</num>
+          <heading>ï¿½Inventoryï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Inventoryï¿½
+means the description of assets required byNRS
+144.040.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2252)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-205">
+          <num>132.205</num>
+          <heading>ï¿½Issueï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Issueï¿½
+means children, grandchildren or more remote lineal descendants.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2252)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-210">
+          <num>132.210</num>
+          <heading>ï¿½Joint tenants with right of survivorshipï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Joint tenants with right of survivorshipï¿½
+includes co-owners of property held under circumstances that entitle one or
+more to the whole of the property on the death of the other or others.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2252)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-215">
+          <num>132.215</num>
+          <heading>ï¿½Leaseï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Leaseï¿½
+includes an oil, gas or other mineral lease.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2252)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-220">
+          <num>132.220</num>
+          <heading>ï¿½Lettersï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Lettersï¿½
+includes letters testamentary, letters of administration, letters of
+administration with will annexed and letters of special administration.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2252)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-225">
+          <num>132.225</num>
+          <heading>ï¿½Lienï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Lienï¿½
+means a charge upon property for the satisfaction of a debt, including an
+obligation not satisfied, a judgment, unpaid taxes and an unpaid obligation for
+materials or labor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2252)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-230">
+          <num>132.230</num>
+          <heading>ï¿½Minorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Minorï¿½
+means a person who is under 18 years of age.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2252)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-235">
+          <num>132.235</num>
+          <heading>ï¿½Mortgageï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Mortgageï¿½
+means a conveyance, agreement or arrangement in which property is encumbered or
+used as security.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2252)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-237">
+          <num>132.237</num>
+          <heading>ï¿½Nonprobate transferï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Nonprobate
+transferï¿½ has the meaning ascribed to it inNRS
+111.721.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2011,
+1434)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-240">
+          <num>132.240</num>
+          <heading>ï¿½Noticeï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Noticeï¿½
+means information provided pursuant toNRS
+155.010or155.020or any other
+statute requiring advance information of an opportunity, obligation or the occurrence
+of an event.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2252)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-245">
+          <num>132.245</num>
+          <heading>ï¿½Oathï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Oathï¿½
+means a form of attestation which affirms that the taker will faithfully
+perform the duties of a specified office.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2252)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-250">
+          <num>132.250</num>
+          <heading>ï¿½Orderï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Orderï¿½
+includes a declaration, decree or judgment by a court and is a final judgment
+for all purposes, including an appeal underNRS
+155.190.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2252)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-255">
+          <num>132.255</num>
+          <heading>ï¿½Parentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Parentï¿½
+includes any person entitled to take, or who would be entitled to take if the
+child died without a will, as a parent by intestate succession from the child
+whose relationship is in question and excludes any person who is a stepparent,
+foster parent or grandparent.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2252)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-260">
+          <num>132.260</num>
+          <heading>ï¿½Personï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Personï¿½
+includes a natural person, organization, government or a governmental
+subdivision, agency or instrumentality.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2252)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-265">
+          <num>132.265</num>
+          <heading>ï¿½Personal representativeï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Personal
+representativeï¿½ includes an executor, an administrator, a successor personal
+representative, a special administrator and persons who perform substantially
+the same function under the law governing their status.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2252)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-270">
+          <num>132.270</num>
+          <heading>ï¿½Petitionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Petitionï¿½
+means a verified written request to the court for an order.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2252)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-275">
+          <num>132.275</num>
+          <heading>ï¿½Probateï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Probate,ï¿½
+used as a noun, means a legal proceeding in which the court has jurisdiction to
+administer, pay out and distribute the assets of a decedent to the persons
+entitled to them, including devisees, heirs, creditors and others.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2253)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-280">
+          <num>132.280</num>
+          <heading>ï¿½Probate homesteadï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Probate
+homesteadï¿½ means a homestead that can be set apart by the court pursuant toNRS 146.020.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2253)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-285">
+          <num>132.285</num>
+          <heading>ï¿½Propertyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Propertyï¿½
+means anything that may be the subject of ownership, and includes both real and
+personal property and any interest therein.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2253)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-286">
+          <num>132.286</num>
+          <heading>ï¿½Qualified custodianï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Qualified
+custodianï¿½ means a person who meets the requirements ofNRS 133.320.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+3436)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-287">
+          <num>132.287</num>
+          <heading>ï¿½Recordï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Recordï¿½
+means information that is inscribed on a tangible medium, or that is stored in
+an electronic medium and is retrievable in perceivable form.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2340)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-290">
+          <num>132.290</num>
+          <heading>ï¿½Right of representationï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Right
+of representationï¿½ means the method of distributing property by which, through
+inheritance or succession, the descendants of a deceased heir take the same
+share or right in the estate of another person that their parent or other
+ancestor would have taken if living. A posthumous child is deemed living at the
+death of his or her parent.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2253)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-295">
+          <num>132.295</num>
+          <heading>ï¿½Securityï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Securityï¿½
+includes any note, stock, treasury stock, bond, debenture, evidence of
+indebtedness, certificate of interest or participation in an oil, gas or mining
+title or lease or in payments out of production under such a title or lease,
+collateral trust certificate, transferable share, voting trust certificate or,
+in general, any interest or instrument commonly known as a security, or any
+certificate of interest or participation, any temporary or interim certificate,
+receipt or certificate of deposit for, or any warrant or right to subscribe to
+or purchase any of the foregoing.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2253)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-300">
+          <num>132.300</num>
+          <heading>ï¿½Separate propertyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Separate
+propertyï¿½ has the meaning ascribed to it inNRS
+123.130.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2253)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-305">
+          <num>132.305</num>
+          <heading>ï¿½Settlementï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Settlement,ï¿½
+in reference to the estate of a decedent, includes administration, distribution
+and closing.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2253)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-310">
+          <num>132.310</num>
+          <heading>ï¿½Settlorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Settlorï¿½
+means the person who creates a trust, however described in the trust
+instrument.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2253)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-315">
+          <num>132.315</num>
+          <heading>ï¿½Special administratorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Special
+administratorï¿½ means a personal representative appointed pursuant tochapter 140of NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2253)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-317">
+          <num>132.317</num>
+          <heading>ï¿½Spouseï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Spouseï¿½
+includes a domestic partner as set forth inNRS
+122A.200.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+3524)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-320">
+          <num>132.320</num>
+          <heading>ï¿½Stateï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Stateï¿½
+means a state of the United States, the District of Columbia, Puerto Rico, the
+United States Virgin Islands, or any territory or insular possession subject to
+the jurisdiction of the United States.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2253)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-325">
+          <num>132.325</num>
+          <heading>ï¿½Successor personal representativeï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Successor personal representativeï¿½ means a
+personal representative, other than a special administrator, who is appointed
+to succeed a previously appointed personal representative.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2253)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-330">
+          <num>132.330</num>
+          <heading>ï¿½Successorsï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Successorsï¿½
+means persons, other than creditors, who are entitled to property of a decedent
+under the terms of the decedentï¿½s will or pursuant to this title.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2253)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-335">
+          <num>132.335</num>
+          <heading>ï¿½Taxï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Taxï¿½
+includes an income, property, excise, estate, gift or inheritance tax.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2253)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-337">
+          <num>132.337</num>
+          <heading>ï¿½Testamentary trustï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Testamentary
+trustï¿½ means a trust created by the terms of the will of a person.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+3524)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-340">
+          <num>132.340</num>
+          <heading>ï¿½Testate estateï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Testate
+estateï¿½ means an estate with respect to which a will has been offered and
+admitted to probate.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2253)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-345">
+          <num>132.345</num>
+          <heading>ï¿½Testatorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Testatorï¿½
+means a person who makes a will.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2253)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-350">
+          <num>132.350</num>
+          <heading>ï¿½Trustï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Trustï¿½
+means an interest in property held by one person for the benefit of another,
+established by an instrument executed during the life of the settlor or by the
+settlorï¿½s will. The term includes an express trust, private or charitable, with
+additions thereto, wherever and however created. The term also includes a trust
+created or determined by judgment or decree under which the trust is to be
+administered in the manner of an express trust.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2253)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-355">
+          <num>132.355</num>
+          <heading>ï¿½Trusteeï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Trusteeï¿½
+includes an original, additional or successor trustee, whether or not appointed
+or confirmed by a court.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2254)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-360">
+          <num>132.360</num>
+          <heading>ï¿½Verificationï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Verificationï¿½
+means a declaration that a statement is true, made under oath or affirmation
+under penalty of perjury for false statement.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2254)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-370">
+          <num>132.370</num>
+          <heading>ï¿½Willï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Willï¿½
+means a formal document that provides for the distribution of the property of a
+decedent upon the death of the decedent. The term includes a codicil and a
+testamentary instrument that merely appoints an executor, revokes or revises
+another will, nominates a guardian, or expressly excludes or limits the right
+of an individual or class to succeed to property of the decedent passing by
+intestate succession.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+2254)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-375">
+          <num>132.375</num>
+          <heading>Term: ï¿½In the presence.ï¿½</heading>
+          <subsection eId="132-375__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>For the purposes of this title, being
+ï¿½in the presenceï¿½ of a testator, settlor, principal or witness includes,
+without limitation, being in the same location at the same time or appearing in
+the same location at the same time by means of audio-video communication.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="132-375__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½audio-video
+communicationï¿½ has the meaning ascribed to it in paragraph</p>
+            </content>
+            <paragraph eId="132-375__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 3
+ofNRS 133.088.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+962)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-380">
+          <num>132.380</num>
+          <heading>Terms: ï¿½Writingï¿½ or ï¿½written.ï¿½</heading>
+          <content>
+            <p>As
+used in this title, unless the context otherwise requires, when the term
+ï¿½writingï¿½ or ï¿½writtenï¿½ is used in reference to a will, the term includes an
+electronic will.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2340)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_132-390">
+          <num>132.390</num>
+          <heading>Circumstances in which person is interested person.</heading>
+          <subsection eId="132-390__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>For the purposes of this title, a
+person is an interested person with respect to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="132-390__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A judicial proceeding, a notice of a proposed
+action or a nonjudicial settlement, if the person has or claims to have an
+enforceable right or interest that may be materially affected by the outcome of
+that proceeding, proposed action or nonjudicial settlement. While living, a
+settlor or a testator shall be deemed to have an enforceable right with respect
+to any trust or will that he or she created. For the purposes of this
+paragraph, a person may not claim to have a right or interest under an estate
+or trust after the entry of an order of the court declaring the right or
+interest invalid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="132-390__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An estate of a decedent, if the person:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="132-390__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Is an heir, devisee, child, spouse,
+creditor, settlor or beneficiary;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="132-390__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Has a property right in or claim
+against the estate of a decedent, including, without limitation, the Director
+of the Department of Health and Human Services in any case in which money is
+owed to the Department of Health and Human Services as a result of the payment
+of benefits for Medicaid;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="132-390__subsec_1__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Has priority for appointment as a
+personal representative; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="132-390__subsec_1__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Is any other fiduciary representing an
+interested person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="132-390__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A trust, if the person:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="132-390__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Is a living settlor or, if a court has
+appointed a guardian of the estate of the settlor, the guardian of the estate
+appointed by the court;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="132-390__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Is the trustee, including, without
+limitation, each acting cotrustee;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="132-390__subsec_1__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Holds the presently exercisable right
+to remove or replace the trustee or a cotrustee;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="132-390__subsec_1__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Asserts the right to serve as the
+trustee or as a cotrustee;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="132-390__subsec_1__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Is a current beneficiary or a
+remainder beneficiary of that trust;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="132-390__subsec_1__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Holds a presently exercisable power of
+appointment that permits the holder to designate or change the designation of a
+current beneficiary or a remainder beneficiary of that trust;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="132-390__subsec_1__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>Holds a presently exercisable power
+that permits the holder to designate, remove or otherwise change the
+designation of a person who, pursuant to this paragraph, would be an interested
+person;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="132-390__subsec_1__subsec_c__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>Is a creditor of the settlor who has a
+claim which has been accepted by the trustee or who has asserted the trusteeï¿½s
+liability therefor in a probate proceeding or in a civil action under
+subsection 8 or 9 ofNRS 111.779; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="132-390__subsec_1__subsec_c__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>Is a creditor of the trust who has
+given the trustee written notice of its claim.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="132-390__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A revocable trust that is the subject of a
+petition underNRS 164.015relating to
+the validity of the trust or any trust-related document, if the person, after
+the death of the settlor, under the terms of any version of the trust documents
+in dispute, would be:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="132-390__subsec_1__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A current beneficiary or a remainder
+beneficiary of that trust; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="132-390__subsec_1__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A trustee or a successor trustee,
+including, without limitation, a cotrustee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="132-390__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A will that, while the testator is still
+living, is the subject of a petition under subsection 2 ofNRS 30.040, if the person, after the death
+of the testator, would be:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="132-390__subsec_1__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A beneficiary of that will; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="132-390__subsec_1__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A fiduciary designated in or pursuant
+to the terms of that will.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="132-390__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For the purposes of this title, the
+following persons are not interested persons:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="132-390__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>With respect to a motion, petition or
+proceeding, any person holding or claiming an interest or right that is not
+affected by the motion, petition or proceeding.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="132-390__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Director of the Department of Health and
+Human Services after any money owed to the Department has been paid in full or
+with respect to the estate or trust of a decedent who did not receive any
+benefits from Medicaid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="132-390__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A vexatious litigant with regard to a motion,
+petition or proceeding for which the vexatious litigant has been denied
+standing pursuant toNRS 155.165.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="132-390__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>As to the estate of a decedent:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="132-390__subsec_2__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>After a will has been admitted to
+probate, an heir, child or spouse who is not a beneficiary of the will, except
+for the purposes ofNRS 133.110,133.160and137.080.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="132-390__subsec_2__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A creditor whose claim has not been
+accepted by the personal representative, if the enforcement of the claim of the
+creditor is barred under the provisions ofchapter
+11or147of NRS or any other applicable
+statute of limitations.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="132-390__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>As to a trust:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="132-390__subsec_2__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The guardian of the person of an
+interested person, unless the guardian is expressly permitted to act for the
+interested person under the terms of the trust instrument;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="132-390__subsec_2__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A beneficiary or creditor whose right
+or claim is barred by any applicable statute of limitations, including, without
+limitation, the statute of limitations found inchapter
+11of NRS orNRS 164.021,164.025or166.170;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="132-390__subsec_2__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Any beneficiary of a revocable trust,
+except as expressly provided in paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="132-390__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of subsection 1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="132-390__subsec_2__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Any disclaimant as to a disclaimed
+interest, except with respect to the enforcement of the disclaimer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="132-390__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="132-390__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Current beneficiaryï¿½ has the meaning
+ascribed to it inNRS 165.020.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="132-390__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Remainder beneficiaryï¿½ has the meaning
+ascribed to it inNRS 165.020.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+3524)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

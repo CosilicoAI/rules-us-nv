@@ -1,0 +1,2262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-706A"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-706A"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="706A"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-706A/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-706A/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-706A/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-706A/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_706A">
+        <num>706A</num>
+        <heading>TRANSPORTATION NETWORK</heading>
+        <section eId="sec_706A-010">
+          <num>706A.010</num>
+          <heading>Legislative declaration.</heading>
+          <content>
+            <p>It
+is hereby declared to be the purpose and policy of the Legislature in enacting
+this chapter to ensure the safety, reliability and cost-effectiveness of the
+transportation services provided by drivers and monitored autonomous vehicle
+providers affiliated with transportation network companies in this State.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1401; A2021,
+3755)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-020">
+          <num>706A.020</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 706A.030to706A.060, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1379,1401;
+A2021,
+2247,3755)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-030">
+          <num>706A.030</num>
+          <heading>ï¿½Authorityï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Authorityï¿½
+means the Nevada Transportation Authority.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1401)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-040">
+          <num>706A.040</num>
+          <heading>ï¿½Driverï¿½ defined.</heading>
+          <subsection eId="706A-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Means a natural person who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-040__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Operates a motor vehicle that is owned,
+leased or otherwise authorized for use by the person; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-040__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Enters into an agreement with a
+transportation network company to receive connections to potential passengers
+and related services from a transportation network company in exchange for the
+payment of a fee to the transportation network company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Does not include a limousine driver who
+provides limousine services under a contract entered into pursuant toNRS 706A.163.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1379,1401;
+A2021,
+2247)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-042">
+          <num>706A.042</num>
+          <heading>ï¿½Limousine driverï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Limousine
+driverï¿½ means a person who has been issued a driverï¿½s permit by the Authority
+pursuant toNRS 706.462and is employed
+or under a contract to operate a limousine for a limousine motor carrier.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+2246)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-043">
+          <num>706A.043</num>
+          <heading>ï¿½Limousine motor carrierï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Limousine
+motor carrierï¿½ means a motor carrier who has obtained a certificate of public
+convenience and necessity to operate a limousine which does not limit the
+number of limousines that the motor carrier is authorized to operate.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+2246)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-044">
+          <num>706A.044</num>
+          <heading>ï¿½Limousine servicesï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Limousine
+servicesï¿½ means the transportation in a limousine by a limousine driver of one
+or more passengers between points chosen by the passenger or passengers and
+prearranged through the use of the digital network or software application
+service of a transportation network company. The term includes only the period
+beginning when a limousine driver accepts a request by a passenger for
+transportation through the digital network or software application service of a
+transportation network company and ending when the last such passenger fully
+disembarks from the limousine operated by the limousine driver.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+2246)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-045">
+          <num>706A.045</num>
+          <heading>ï¿½Monitored autonomous vehicleï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Monitored
+autonomous vehicleï¿½ means an autonomous vehicle, as defined inNRS 482A.030, in which a monitored
+autonomous vehicle monitor is physically present at all times during the
+operation of the vehicle.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3754)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-046">
+          <num>706A.046</num>
+          <heading>ï¿½Monitored autonomous vehicle monitorï¿½ defined.</heading>
+          <subsection eId="706A-046__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The safety of the operations of the
+monitored autonomous vehicle; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-046__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>That the monitored autonomous vehicle
+complies with the applicable motor vehicle laws and traffic laws of this State.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3754)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-047">
+          <num>706A.047</num>
+          <heading>ï¿½Monitored autonomous vehicle providerï¿½ defined.</heading>
+          <subsection eId="706A-047__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Owns and operates a monitored autonomous
+vehicle; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-047__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Enters into an agreement with a
+transportation network company to receive connections to potential passengers
+and related services from a transportation network company in exchange for the
+payment of a fee to the transportation network company.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3754)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-050">
+          <num>706A.050</num>
+          <heading>ï¿½Transportation network companyï¿½ and ï¿½companyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Transportation network companyï¿½ or ï¿½companyï¿½
+means an entity that uses a digital network or software application service to
+connect a passenger to a driver or monitored autonomous vehicle provider who
+can provide transportation services to the passenger.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1379,1401;
+A2021,
+3755)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-060">
+          <num>706A.060</num>
+          <heading>ï¿½Transportation servicesï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Transportation
+servicesï¿½ means the transportation by a driver or monitored autonomous vehicle
+provider of one or more passengers between points chosen by the passenger or
+passengers and prearranged through the use of the digital network or software
+application service of a transportation network company. The term includes only
+the period beginning when a driver or a monitored autonomous vehicle provider
+accepts a request by a passenger for transportation through the digital network
+or software application service of a transportation network company and ending
+when the last such passenger fully disembarks from the motor vehicle operated
+by the driver or the monitored autonomous vehicle operated by the monitored
+autonomous vehicle provider.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1379,1401;
+A2021,
+3755)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-070">
+          <num>706A.070</num>
+          <heading>Provisions of chapter not applicable to certain persons.</heading>
+          <subsection eId="706A-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Common motor carriers or contract motor
+carriers that are providing transportation services pursuant to a contract with
+the Department of Health and Human Services entered into pursuant toNRS 422.27495.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who provides a digital network
+or software application service to enable persons who are interested in sharing
+expenses for transportation to a destination, commonly known as carpooling, to
+connect with each other, regardless of whether a fee is charged by the person
+who provides the digital network or software application service.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1402)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-075">
+          <num>706A.075</num>
+          <heading>Applicability of laws governing motor vehicles to persons
+regulated under chapter; exemptions from provisions of this chapter andchapters 704and706of NRS; inapplicability of chapter to permitted autonomous vehicle network
+companies or fully autonomous vehicles operated by such companies.</heading>
+          <subsection eId="706A-075__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, the provisions of this chapter do not exempt any person from any
+law governing the operation of a motor vehicle upon the highways of this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-075__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A transportation network company which
+holds a valid permit issued by the Authority pursuant to this chapter, a driver
+or monitored autonomous vehicle provider who has entered into an agreement with
+such a company and a vehicle or monitored autonomous vehicle operated by such a
+driver or monitored autonomous vehicle provider are exempt from:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-075__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The provisions ofchapter
+704of NRS relating to public utilities; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-075__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided inNRS 706.88396and706A.163, the provisions ofchapter 706of NRS,
+ï¿½to the
+extent that the services provided by the company, driver or monitored
+autonomous vehicle provider are within the scope of the permit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-075__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The provisions of this chapter relating
+to monitored autonomous vehicles and monitored autonomous vehicle providers do
+not apply to an autonomous vehicle network company which has been issued a
+permit pursuant toNRS 706B.130or to
+a fully autonomous vehicle operated by such a company.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1409; A2017,
+3838;2021,
+2247,3755)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-077">
+          <num>706A.077</num>
+          <heading>Transportation network company not prohibited from obtaining
+permit as and providing services of autonomous vehicle network company.</heading>
+          <content>
+            <p>Nothing in this chapter shall be construed to
+prohibit a transportation network company from obtaining a permit to act as an
+autonomous vehicle network company pursuant toNRS 706B.130and providing, within the
+scope of such a permit, the services authorized bychapter 706Bof NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+4480)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-080">
+          <num>706A.080</num>
+          <heading>Motor vehicle operated by driver or monitored autonomous vehicle
+operated by monitored autonomous vehicle provider not commercial motor vehicle.</heading>
+          <content>
+            <p>Nothing in this chapter shall be construed to
+deem a motor vehicle operated by a driver to provide transportation services or
+a monitored autonomous vehicle operated by a monitored autonomous vehicle
+provider to provide transportation services to be a commercial motor vehicle.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1402; A2021,
+3756)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-090">
+          <num>706A.090</num>
+          <heading>Company prohibited from controlling, directing or managing
+driver, motor vehicle operated by driver, monitored autonomous vehicle provider
+or monitored autonomous vehicle operated by monitored autonomous vehicle
+provider.</heading>
+          <subsection eId="706A-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A driver or the motor vehicle operated
+by a driver; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A monitored autonomous vehicle provider
+or any monitored autonomous vehicle operated by a monitored autonomous vehicle
+provider.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1402; A2021,
+3756)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-100">
+          <num>706A.100</num>
+          <heading>Regulations.</heading>
+          <content>
+            <p>The
+Authority shall adopt such regulations as are necessary to carry out the
+provisions of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1410)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-110">
+          <num>706A.110</num>
+          <heading>Permit required for companies; driver or monitored autonomous
+vehicle provider providing transportation services required to be affiliated
+with company holding permit; Authority authorized to regulate companies,
+drivers and monitored autonomous vehicle providers; inapplicability ofchapter 706of NRS to companies, drivers and monitored autonomous vehicle providers.</heading>
+          <subsection eId="706A-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A transportation network company shall
+not engage in business in this State unless the company holds a valid permit
+issued by the Authority pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A driver or monitored autonomous
+vehicle provider shall not provide transportation services unless the company with
+which the driver or monitored autonomous vehicle provider is affiliated holds a
+valid permit issued by the Authority pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-110__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Authority is authorized and
+empowered to regulate, pursuant to the provisions of this chapter, all transportation
+network companies, drivers and monitored autonomous vehicle providers who
+operate or wish to operate within this State. Except as otherwise provided inNRS 706.88396and706A.163, the Authority shall not apply
+any provision ofchapter 706of NRS to a
+transportation network company, driver or monitored autonomous vehicle provider
+who operates within the provisions of this chapter and the regulations adopted
+pursuant thereto.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1402; A2017,
+3838;2021,
+2248,3756)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-120">
+          <num>706A.120</num>
+          <heading>Submission of application for permit.</heading>
+          <content>
+            <p>A
+person who desires to operate a transportation network company in this State
+must submit to the Authority an application for the issuance of a permit to
+operate a transportation network company. The application must be in the form
+required by the Authority and must include such information as the Authority,
+by regulation, determines is necessary to prove the person meets the
+requirements of this chapter for the issuance of a permit.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1380,1402;
+A2015,
+1410)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-130">
+          <num>706A.130</num>
+          <heading>Issuance and scope of permit.</heading>
+          <subsection eId="706A-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon receipt of a completed application
+and upon a determination by the Authority that an applicant meets the
+requirements for the issuance of a permit to operate a transportation network
+company, the Authority shall issue to the applicant within 30 days a permit to
+operate a transportation network company in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In accordance with the provisions of
+this chapter, a permit issued pursuant to this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-130__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Authorizes a transportation network company
+to connect one or more passengers through the use of a digital network or
+software application service to a driver or monitored autonomous vehicle
+provider who can provide transportation services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-130__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Authorizes a transportation network company
+to make its digital network or software application service available to one or
+more drivers or monitored autonomous vehicle providers to receive connections
+to potential passengers from the company in exchange for the payment of a fee
+by the driver or monitored autonomous vehicle provider to the company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-130__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as otherwise provided inNRS 706.88396and706A.163, does not authorize a
+transportation network company or any driver or monitored autonomous vehicle
+provider to engage in any activity otherwise regulated pursuant tochapter 706of NRS other than the activity
+authorized by this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-130__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Nothing in this chapter prohibits the
+issuance of a permit to operate a transportation network company to a person
+who is regulated pursuant tochapter 706of
+NRS if the person submits an application pursuant toNRS 706A.120and meets the requirements
+for the issuance of a permit.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1380,1402;
+A2015,
+1411;2017,
+3838;2021,
+2248,3756)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-140">
+          <num>706A.140</num>
+          <heading>Fee; annual assessment.</heading>
+          <subsection eId="706A-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Authority shall charge and collect
+a fee in an amount established by the Authority by regulation from each
+applicant for a permit to operate a transportation network company in this
+State. The fee required by this subsection is not refundable. The Authority
+shall not issue a permit to operate a transportation network company in this
+State unless the applicant has paid the fee required by this subsection.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For each year after the year in which
+the Authority issues a permit to a transportation network company, the
+Authority shall levy and collect an annual assessment from the transportation
+network company at a rate determined by the Authority based on the gross
+operating revenue derived from the intrastate operations of the transportation
+network company in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-140__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The annual assessment levied and
+collected by the Authority pursuant to subsection 2 must be used by the
+Authority for the regulation of transportation network companies.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1380; A2015,
+1411)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-150">
+          <num>706A.150</num>
+          <heading>Company required to appoint and keep registered agent.</heading>
+          <content>
+            <p>A transportation network company shall appoint
+and keep in this State a registered agent as provided inNRS 14.020.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1403)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-160">
+          <num>706A.160</num>
+          <heading>Agreements between companies and drivers: Application and
+investigation of driver; qualifications of driver; verification that driver
+holds state business license; termination.</heading>
+          <subsection eId="706A-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A transportation network company may
+enter into an agreement with one or more drivers to receive connections to
+potential passengers from the company in exchange for the payment of a fee by
+the driver to the company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Before a transportation network company
+allows a person to be connected to potential passengers using the digital
+network or software application service of the company pursuant to an agreement
+with the company, except for a contract entered into pursuant toNRS 706A.163, the company must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-160__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Require the person to submit an application
+to the company, which must include, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="706A-160__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The name, age and address of the
+applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="706A-160__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A copy of the driverï¿½s license of the
+applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="706A-160__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>A record of the driving history of the
+applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="706A-160__subsec_2__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>A description of the motor vehicle of
+the applicant and a copy of the motor vehicle registration.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="706A-160__subsec_2__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Proof that the applicant has complied
+with the requirements ofNRS 485.185.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="706A-160__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>At the time of application and not less than
+once every 3 years thereafter, conduct or contract with a third party to
+conduct an investigation of the criminal history of the applicant, which must
+include, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="706A-160__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A review of a commercially available
+database containing criminal records from each state which are validated using
+a search of the primary source of each record.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="706A-160__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A search of a database containing the
+information available in the sex offender registry maintained by each state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="706A-160__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>At the time of application and not less than
+once every year thereafter, obtain and review a complete record of the driving
+history of the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-160__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A transportation network company may
+enter into an agreement with a driver if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-160__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The applicant is at least 19 years of age.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-160__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The applicant possesses a valid driverï¿½s
+license issued by the Department of Motor Vehicles unless the applicant is
+exempt from the requirement to obtain a Nevada driverï¿½s license pursuant toNRS 483.240.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-160__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The applicant provides proof that the motor
+vehicle operated by him or her is registered with the Department of Motor
+Vehicles unless the applicant is exempt from the requirement to register the
+motor vehicle in this State pursuant toNRS
+482.385.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-160__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The applicant provides proof that the motor
+vehicle operated by him or her is operated and maintained in compliance with
+all applicable federal, state and local laws.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-160__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The applicant provides proof that he or she
+currently is in compliance with the provisions ofNRS 485.185.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-160__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>In the 3 years immediately preceding the date
+on which the application is submitted, the applicant has not been found guilty
+of three or more violations of the motor vehicle laws of this State or any
+traffic ordinance of any city or town, the penalty prescribed for which is a
+misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-160__subsec_3__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In the 3 years immediately preceding the date
+on which the application is submitted, the applicant has not been found guilty
+of any violation of the motor vehicle laws of this State or any traffic
+ordinance of any city or town, the penalty prescribed for which is a gross
+misdemeanor or felony.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-160__subsec_3__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>In the 7 years immediately preceding the date
+on which the application is submitted, the applicant has not been found guilty
+of any violation of federal, state or local law prohibiting driving or being in
+actual physical control of a vehicle while under the influence of intoxicating
+liquor or a controlled substance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-160__subsec_3__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>In the 7 years immediately preceding the date
+on which the application is submitted, the applicant has not been found guilty
+of any crime involving an act of terrorism, an act of violence, a sexual
+offense, fraud, theft, damage to property of another or the use of a motor
+vehicle in the commission of a felony.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-160__subsec_3__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>The name of the applicant does not appear in
+the database searched pursuant to subparagraph</p>
+              </content>
+              <subparagraph eId="706A-160__subsec_3__subsec_j__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="706A-160__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of
+subsection 2.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-160__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A driver shall, not later than 6 months
+after a transportation network company allows the driver to be connected to
+potential passengers using the digital network or software application service
+of the company pursuant to an agreement with the company and annually
+thereafter, on or before the anniversary date of that agreement, provide to the
+company verification that the driver holds a valid state business license
+pursuant tochapter 76of NRS. Such
+verification may consist of the business identification number assigned by the
+Secretary of State to the driver upon compliance with the provisions ofchapter 76of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-160__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A transportation network company shall
+terminate an agreement with any driver who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-160__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Fails to submit to the transportation network
+company a change in his or her address, driverï¿½s license or motor vehicle
+registration within 30 days after the date of the change.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-160__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Fails to immediately report to the
+transportation network company any change in his or her driving history or
+criminal history.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-160__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Refuses to authorize the transportation
+network company to obtain and review an updated complete record of his or her
+driving history not less than once each year and an investigation of his or her
+criminal history not less than once every 3 years.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-160__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Is determined by the transportation network
+company to be ineligible for an agreement pursuant to subsection 3 on the basis
+of any updated information received by the transportation network company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-160__subsec_5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Fails to comply with the provisions of subsection
+4.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1403; A2017,
+4183;2021,
+2248)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-161">
+          <num>706A.161</num>
+          <heading>Agreements between companies and monitored autonomous vehicle
+providers; compensation of monitored autonomous vehicle monitor.</heading>
+          <subsection eId="706A-161__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A transportation network company may
+enter into an agreement with one or more monitored autonomous vehicle providers
+to receive connections to potential passengers from the company in exchange for
+the payment of a fee by the monitored autonomous vehicle provider to the
+company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-161__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A monitored autonomous vehicle monitor
+employed by a monitored autonomous vehicle provider which has entered into an
+agreement with a transportation network company pursuant to subsection 1 may
+only accept compensation for his or her services from the monitored autonomous
+vehicle provider by which he or she is employed.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3754)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-162">
+          <num>706A.162</num>
+          <heading>Liability in tort of monitored autonomous vehicle providers.</heading>
+          <content>
+            <p>A monitored autonomous vehicle provider who
+provides transportation services using a monitored autonomous vehicle is liable
+in tort for any damages arising out of the provision of transportation services
+in the same manner and to the same extent as if the monitored autonomous vehicle
+provider were a driver providing transportation services using a motor vehicle.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3754)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-163">
+          <num>706A.163</num>
+          <heading>Contracts between companies and limousine motor carriers:
+Limousine services not to be provided through company without valid permit;
+applicability of laws governing motor carriers; requirement to notify company
+of change in limousine carrierï¿½s certificate of public convenience and
+necessity; applicability of certain taxes to fare.</heading>
+          <subsection eId="706A-163__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A transportation network company may
+enter into a contract with a limousine motor carrier whereby limousine drivers
+employed by the limousine motor carrier may receive connections to potential
+passengers and related services from a transportation network company in
+exchange for the payment of a fee by the limousine motor carrier to the
+transportation network company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-163__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Notwithstanding any contract entered into
+pursuant to subsection 1, a limousine motor carrier shall not provide limousine
+services through a transportation network company unless the transportation
+network company holds a valid permit issued by the Authority pursuant to this
+chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-163__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A limousine motor carrier which enters
+into a contract pursuant to subsection 1:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-163__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Remains subject to the provisions ofchapter 706of NRS and any regulations adopted
+pursuant thereto, including with respect to limousine services provided
+pursuant to a contract entered into pursuant to subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-163__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Shall notify the transportation network
+company of any change in the status of the certificate of public convenience
+and necessity of the limousine motor carrier within 24 hours after the
+limousine motor carrier receives notice of or becomes aware of such a change.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-163__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The fare charged for the transportation
+of a passenger by a limousine driver pursuant to a contract entered into
+pursuant to subsection 1 is subject to the excise tax imposed pursuant toNRS 372B.140and exempt from the excise
+tax imposed pursuant toNRS 372B.150.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+2246)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-170">
+          <num>706A.170</num>
+          <heading>Company authorized to charge fare for transportation services or
+limousine services; disclosure of rates; provision of estimate; payment;
+additional charges to passengers with disabilities prohibited; regulations
+establishing maximum fare during emergencies.</heading>
+          <subsection eId="706A-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In accordance with the provisions of
+this chapter, a transportation network company which holds a valid permit
+issued by the Authority pursuant to this chapter may, on behalf of a driver,
+monitored autonomous vehicle provider or a limousine motor carrier with which
+the company has entered into a contract pursuant toNRS 706A.163, charge a fare for
+transportation services or limousine services provided to a passenger by the
+driver, monitored autonomous vehicle provider or limousine driver.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a fare is charged, the company must
+disclose the rates charged by the company and the method by which the amount of
+a fare is calculated:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-170__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>On an Internet website maintained by the
+company; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-170__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Within the digital network or software
+application service of the company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a fare is charged, the company must
+offer to each passenger the option to receive, before the passenger enters the
+motor vehicle of a driver, the monitored autonomous vehicle of a monitored
+autonomous vehicle provider or the limousine of a limousine driver, an estimate
+of the amount of the fare that will be charged to the passenger.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-170__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A transportation network company may
+accept payment of a fare only electronically. A transportation network company,
+driver, monitored autonomous vehicle provider or limousine driver when
+providing limousine services shall not solicit or accept cash as payment of a
+fare.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-170__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A transportation network company shall
+not impose any additional charge for a driver or monitored autonomous vehicle provider
+who provides transportation services or a limousine driver who provides
+limousine services to a person with a physical disability because of the
+disability.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-170__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Authority may adopt regulations
+establishing a maximum fare that may be charged during an emergency, as defined
+inNRS 414.0345.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1404; A2021,
+2250,3757)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-180">
+          <num>706A.180</num>
+          <heading>Company prohibited from allowing driver or monitored autonomous
+vehicle provider to connect to passenger under certain circumstances;
+inspection of vehicles used by drivers and monitored autonomous vehicles used
+by monitored autonomous vehicle providers.</heading>
+          <subsection eId="706A-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A transportation network company shall
+not allow a driver or monitored autonomous vehicle provider to be connected to
+potential passengers using the digital network or software application service
+of the company if the motor vehicle operated by the driver or the monitored
+autonomous vehicle operated by the monitored autonomous vehicle provider to
+provide transportation services:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-180__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is not in compliance with all federal, state
+and local laws concerning the operation and maintenance of the motor vehicle or
+monitored autonomous vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-180__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has less than four doors.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-180__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Is designed to carry more than eight
+passengers, including the driver.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-180__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Is a farm tractor, mobile home, recreational
+vehicle, semitractor, semitrailer, trailer, bus, motorcycle or tow car.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A transportation network company shall
+inspect or cause to be inspected every motor vehicle used by a driver to
+provide transportation services and every monitored autonomous vehicle used by
+a monitored autonomous vehicle provider to provide transportation services
+before allowing the driver to use the motor vehicle or the monitored autonomous
+vehicle provider to use the monitored autonomous vehicle to provide transportation
+services and not less than once each year thereafter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-180__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The inspection required by subsection 2
+must include, without limitation, an inspection of the foot and emergency
+brakes, steering, windshield, rear window, other glass, windshield wipers, headlights,
+tail lights, turn indicator lights, braking lights, front seat adjustment
+mechanism, doors, horn, speedometer, bumpers, muffler, exhaust, tires, rear
+view mirrors and safety belts of the vehicle which ensures the proper
+functioning of each component.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1405; A2021,
+3757)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-190">
+          <num>706A.190</num>
+          <heading>Adoption of policy prohibiting discrimination; prohibition
+against discrimination; accommodations for passenger who requires
+wheelchair-accessible vehicle.</heading>
+          <subsection eId="706A-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A transportation network company shall
+adopt a policy which prohibits discrimination against a passenger or potential
+passenger on account of national origin, religion, age, disability, sex, race,
+color, sexual orientation or gender identity or expression.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A driver or monitored autonomous
+vehicle provider shall not discriminate against a passenger or potential
+passenger on account of national origin, religion, age, disability, sex, race,
+color, sexual orientation or gender identity or expression.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-190__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A transportation network company shall
+provide to each passenger an opportunity to indicate whether the passenger
+requires transportation in a motor vehicle or monitored autonomous vehicle that
+is wheelchair accessible. If the company cannot provide the passenger with
+transportation services in a motor vehicle or monitored autonomous vehicle that
+is wheelchair accessible, the company must direct the passenger to an
+alternative provider or means of transportation that is wheelchair accessible,
+if available.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1405; A2021,
+3758)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-200">
+          <num>706A.200</num>
+          <heading>Provision of photograph of driver or limousine driver and
+license plate number of vehicle required before provision of transportation
+services or limousine services.</heading>
+          <subsection eId="706A-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>For each instance in which a driver,
+monitored autonomous vehicle provider or limousine driver provides
+transportation services or limousine services to a passenger, the
+transportation network company which connected the passenger to the driver,
+monitored autonomous vehicle provider or limousine driver shall provide to the
+passenger, before the passenger enters the motor vehicle of a driver, the
+monitored autonomous vehicle of a monitored autonomous vehicle provider or the
+limousine of a limousine driver, as applicable:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-200__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A photograph of the driver or limousine
+driver who will provide the transportation services and the license plate
+number of the motor vehicle operated by the driver or limousine operated by the
+limousine driver; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-200__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The license plate number of the monitored
+autonomous vehicle operated by the monitored autonomous vehicle provider.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The information required by subsection
+1 must be provided to the passenger:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-200__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>On an Internet website maintained by the
+company; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-200__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Within the digital network or software
+application service of the company.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1405; A2021,
+2251,3758)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-210">
+          <num>706A.210</num>
+          <heading>Transmission of receipt to passenger; contents of receipt.</heading>
+          <subsection eId="706A-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A description of the point of origin
+and the destination of the transportation services or limousine services;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The total time for which transportation
+services or limousine services were provided;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The total distance traveled; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-210__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>An itemization of the fare, if any,
+charged for the transportation services or limousine services.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1406; A2021,
+2251,3758)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-220">
+          <num>706A.220</num>
+          <heading>Contract between company and Department of Health and Human
+Services authorized.</heading>
+          <content>
+            <p>A
+transportation network company may enter into a contract with any agency of the
+Department of Health and Human Services to provide assistance in transportation
+pursuant to the programs administered by the agency.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1406)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-230">
+          <num>706A.230</num>
+          <heading>Records maintained by company: Period of maintenance; contents;
+inspection; confidentiality.</heading>
+          <subsection eId="706A-230__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A transportation network company shall
+maintain the following records relating to the business of the company for a
+period of at least 3 years after the date on which the record is created:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-230__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Trip records;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-230__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Driver records and vehicle inspection
+records;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-230__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Monitored autonomous vehicle provider records
+and monitored autonomous vehicle inspection records;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-230__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Records of each complaint and the resolution
+of each complaint; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-230__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Records of each accident or other incident
+that involved a driver or monitored autonomous vehicle provider and was
+reported to the transportation network company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-230__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each transportation network company
+shall make its records available for inspection by the Authority upon request
+and only as necessary for the Authority to investigate complaints. This
+subsection does not require a company to make any proprietary information
+available to the Authority. Except as otherwise provided in subsection 3, any
+records provided to the Authority are confidential and must not be disclosed
+other than to employees of the Authority.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-230__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Authority shall disclose to the
+Secretary of State the name of each driver and monitored autonomous vehicle
+provider and such other information as the Secretary of State determines
+necessary to enforce the provisions ofchapter 76of NRS. If the Secretary of State obtains any confidential information pursuant
+to this subsection, the Secretary of State, and any employee of the Secretary
+of State engaged in the administration ofchapter
+76of NRS or charged with the custody of any records or files relating to
+the administration ofchapter 76of NRS, shall
+maintain the confidentiality of that information in the same manner and to the
+same extent as provided by law for the Authority.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1406; A2017,
+4185;2021,
+3759)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-240">
+          <num>706A.240</num>
+          <heading>Accounts of business transactions maintained by companies;
+provision of annual report to Authority; regulations.</heading>
+          <subsection eId="706A-240__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each transportation network company
+shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-240__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Keep uniform and detailed accounts of all
+business transacted in this State and provide such accounts to the Authority
+upon request;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-240__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>On or before May 15 of each year, provide an
+annual report to the Authority regarding all business conducted by the company
+in this State during the preceding calendar year; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-240__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Provide the information determined by the
+Authority to be necessary to verify the collection of money owed to the State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-240__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Authority shall adopt regulations
+setting forth the form and contents of the information required to be provided
+pursuant to subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-240__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Authority determines that a
+transportation network company has failed to include information in its
+accounts or report required pursuant to subsection 1, the Authority shall
+notify the company to provide such information. A company which receives a
+notice pursuant to this subsection shall provide the specified information
+within 15 days after receipt of such a notice.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-240__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>All information required to be provided
+pursuant to this section must be signed by an officer or agent of, or other
+person authorized by, the transportation network company under oath.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1406)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-250">
+          <num>706A.250</num>
+          <heading>Prohibition against disclosure of personally identifiable
+information of passengers; exceptions.</heading>
+          <subsection eId="706A-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, a transportation network company shall not disclose to any person the
+personally identifiable information of a passenger who received services from
+the company unless:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-250__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The disclosure is otherwise required by law;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-250__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The company determines that disclosure is
+required to protect or defend the terms of use of the services or to
+investigate violations of those terms of use; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-250__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The passenger consents to the disclosure.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A transportation network company may
+disclose to a driver, monitored autonomous vehicle provider or limousine driver
+when providing limousine services the name and telephone number of a passenger
+for the purposes of facilitating correct identification of the passenger and
+facilitating communication between the driver, monitored autonomous vehicle
+provider or limousine driver and the passenger.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1408: A2021,
+2251,3759)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-260">
+          <num>706A.260</num>
+          <heading>Provision of contact information of Authority by company;
+creation of system to receive and address consumer complaints required.</heading>
+          <subsection eId="706A-260__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Provide notice of the contact
+information of the Authority on an Internet website maintained by the company
+or within the digital network or software application service of the company;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-260__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Create a system to receive and address
+complaints from consumers which is available during normal business hours in
+this State.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1408)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-270">
+          <num>706A.270</num>
+          <heading>Companies required to report information to Authority relating
+to crashes involving drivers or monitored autonomous vehicle providers;
+Authority required to submit annual report concerning such information and
+sufficiency of insurance coverage limits to Legislature.</heading>
+          <subsection eId="706A-270__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each transportation network company
+shall provide to the Authority reports containing information relating to motor
+vehicle crashes involving drivers or monitored autonomous vehicle providers
+affiliated with the company which occurred in this State while the driver or
+monitored autonomous vehicle provider was providing transportation services or
+logged into the digital network or software application service of the company
+and available to receive requests for transportation services. The reports
+required by this subsection must contain the information identified in
+subsection 2 and be submitted:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-270__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For all crashes that occurred during the
+first 6 months that the company operates within this State, on or before the
+date 7 months after the company was issued a permit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-270__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For all crashes that occurred during the
+first 12 months that the company operates within this State, on or before the
+date 13 months after the company was issued a permit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-270__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The reports submitted pursuant to
+subsection 1 must include, for the period of time specified in subsection 1:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-270__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The number of motor vehicle crashes which
+occurred in this State involving such a driver or monitored autonomous vehicle provider;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-270__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The highest, lowest and average amount paid
+for bodily injury or death to one or more persons that occurred as a result of
+such a crash; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-270__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The highest, lowest and average amount paid
+for damage to property that occurred as a result of such a crash.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-270__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Authority shall collect the reports
+submitted by transportation network companies pursuant to subsection 1 and
+determine whether the limits of coverage required pursuant toNRS 690B.470are sufficient. The
+Authority shall submit a report stating whether the limits of coverage required
+pursuant toNRS 690B.470are
+sufficient and containing the information, in an aggregated format which does
+not reveal the identity of any person, submitted by transportation network
+companies pursuant to subsection 1 since the last report of the Authority
+pursuant to this subsection:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-270__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To the Legislative Commission on or before
+December 1 of each odd-numbered year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-270__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To the Director of the Legislative Counsel
+Bureau for transmittal to the Nevada Legislature on or before December 1 of
+each even-numbered year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1409; A2021,
+3759)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-280">
+          <num>706A.280</num>
+          <heading>Prohibited acts by drivers and monitored autonomous vehicle
+providers.</heading>
+          <subsection eId="706A-280__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A driver or monitored autonomous
+vehicle provider shall not solicit or accept a passenger or provide
+transportation services to any person unless the person has arranged for the
+transportation services through the digital network or software application
+service of the transportation network company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-280__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>With respect to a passengerï¿½s
+destination, a driver or monitored autonomous vehicle provider shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-280__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Deceive or attempt to deceive any passenger
+who rides or desires to ride in the driverï¿½s motor vehicle or the monitored
+autonomous vehicle providerï¿½s monitored autonomous vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-280__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Convey or attempt to convey any passenger to
+a destination other than the one directed by the passenger.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-280__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Take a longer route to the passengerï¿½s
+destination than is necessary, unless specifically requested to do so by the
+passenger.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-280__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Fail to comply with the reasonable and lawful
+requests of the passenger as to speed of travel and route to be taken.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-280__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A driver or monitored autonomous
+vehicle provider shall not, at the time the driver or monitored autonomous
+vehicle provider picks up a passenger, refuse or neglect to provide
+transportation services to any orderly passenger unless the driver or monitored
+autonomous vehicle provider can demonstrate to the satisfaction of the
+Authority that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-280__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For a driver, the driver has good reason to
+fear for the driverï¿½s personal safety;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-280__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For a monitored autonomous vehicle provider,
+the monitored autonomous vehicle provider or monitored autonomous vehicle
+monitor has good reason to fear for the personal safety of the monitor in the
+monitored autonomous vehicle picking up the person requesting transportation
+services; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-280__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The driver or monitored autonomous vehicle
+provider is prohibited by law or regulation from carrying the person requesting
+transportation services.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1407; A2021,
+3760)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-290">
+          <num>706A.290</num>
+          <heading>Drivers prohibited from consuming, using or being under
+influence of intoxicating liquor or controlled substance; company to provide
+notice of prohibition; submission and receipt of complaints of suspected
+violation; suspension and investigation of drivers; termination of agreement;
+records of complaints.</heading>
+          <subsection eId="706A-290__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A driver is prohibited from consuming,
+using or being under the influence of any intoxicating liquor or controlled
+substance during any period in which the driver is providing transportation
+services on behalf of the transportation network company and any period in
+which the driver is logged into the digital network or software application
+service of the transportation network company and available to receive requests
+for transportation services but is not providing transportation services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-290__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each transportation network company
+shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-290__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Provide notice of the provisions of
+subsection 1:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="706A-290__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>On an Internet website maintained by
+the company; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="706A-290__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Within the digital network or software
+application service of the company; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="706A-290__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide for the submission to the company of
+a complaint by a passenger who reasonably believes that a driver is operating a
+motor vehicle in violation of the provisions of subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-290__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon receipt of a complaint submitted
+by a passenger who reasonably believes that a driver is operating a motor
+vehicle in violation of the provisions of subsection 1, a transportation
+network company shall immediately suspend the access of the driver to the
+digital network or software application service of the company and conduct an
+investigation of the complaint. The company shall not allow the driver to
+access the digital network or software application service of the company or
+provide transportation services in affiliation with the company until after the
+investigation is concluded.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-290__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a transportation network company
+determines, pursuant to an investigation conducted pursuant to subsection 3,
+that a driver has violated the provisions of subsection 1, the company shall
+terminate the agreement entered into with the driver and shall not allow the
+driver to access the digital network or software application service of the
+company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="706A-290__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Each transportation network company
+shall maintain a record of each complaint described in subsection 3 and
+received by the company for a period of not less than 3 years after the date on
+which the complaint is received. The record must include, without limitation,
+the name of the driver, the date on which the complaint was received, a summary
+of the investigation conducted by the company and the results of the
+investigation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1407)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-300">
+          <num>706A.300</num>
+          <heading>Suspension or revocation of permit by Authority; administrative
+fine; person who violates provision of chapter not subject to criminal penalty.</heading>
+          <subsection eId="706A-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Authority determines that a
+transportation network company, driver or monitored autonomous vehicle provider
+has violated the terms of a permit issued pursuant to this chapter or any
+provision of this chapter or any regulations adopted pursuant thereto, the
+Authority may, depending on whether the violation was committed by the company,
+the driver, both the company and the driver or both the company and the
+monitored autonomous vehicle provider:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-300__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the Authority determines that the
+violation is willful and endangers public safety, suspend or revoke the permit
+issued to the transportation network company;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-300__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the Authority determines that the
+violation is willful and endangers public safety, impose against the
+transportation network company an administrative fine in an amount not to
+exceed $100,000 per violation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-300__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Prohibit a person from operating as a driver
+or monitored autonomous vehicle provider; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-300__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Impose any combination of the penalties
+provided in paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-300__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-300__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-300__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To determine the amount of an
+administrative fine imposed pursuant to paragraph</p>
+            </content>
+            <paragraph eId="706A-300__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-300__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of subsection 1,
+the Authority shall consider:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-300__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The size of the transportation network
+company;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-300__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The severity of the violation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-300__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any good faith efforts by the transportation
+network company to remedy the violation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-300__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The history of previous violations by the
+transportation network company; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-300__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any other factor that the Authority
+determines to be relevant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-300__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Notwithstanding the provisions ofNRS 193.151, a person who violates any
+provision of this chapter is not subject to any criminal penalty for such a
+violation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1408; A2021,
+3761)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_706A-310">
+          <num>706A.310</num>
+          <heading>Restrictions on regulation of companies, drivers, monitored
+autonomous vehicle providers, limousine motor carriers, limousine drivers and
+vehicles by local governmental entities; exceptions; provisions of chapter do
+not exempt person from requirement to obtain state business license; company to
+provide notice of requirement and penalties to drivers and monitored autonomous
+vehicle providers.</heading>
+          <subsection eId="706A-310__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, a local governmental entity shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-310__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Impose any tax or fee on:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="706A-310__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A transportation network company
+operating within the scope of a valid permit issued by the Authority pursuant
+to this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="706A-310__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A driver who has entered into an
+agreement with a transportation network company described in subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="706A-310__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or a vehicle operated by such a driver or for transportation services provided
+by such a driver;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="706A-310__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>A monitored autonomous vehicle
+provider who has entered into an agreement with a transportation network
+company described in subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="706A-310__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or a monitored autonomous vehicle
+operated by such a monitored autonomous vehicle provider or for transportation
+services provided by such a monitored autonomous vehicle provider; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="706A-310__subsec_1__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>A limousine motor carrier that has
+entered into an contract with such a company pursuant toNRS 706A.163for the provision of
+limousine services or a vehicle operated by a limousine driver when providing
+limousine services or limousine services provided by such a limousine driver.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="706A-310__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Require a transportation network company
+operating within the scope of a valid permit issued by the Authority pursuant
+to this chapter to obtain from the local government any certificate, license or
+permit to operate within that scope or require a driver or monitored autonomous
+vehicle provider who has entered into an agreement with such a company, a
+limousine motor carrier that has entered into a contract with a transportation
+network company pursuant toNRS 706A.163or a limousine driver when providing limousine services to obtain from the local
+government any certificate, license or permit to provide transportation
+services or limousine services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-310__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Impose any other requirement upon a
+transportation network company, driver, monitored autonomous vehicle provider,
+a limousine motor carrier that has entered into a contract with a
+transportation network company pursuant toNRS
+706A.163or a limousine driver when providing limousine services which is
+not of general applicability to all persons who operate a motor vehicle within
+the jurisdiction of the local government.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-310__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Nothing in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="706A-310__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Prohibits a local governmental entity from
+requiring a transportation network company, a driver, monitored autonomous
+vehicle provider, a limousine motor carrier that has entered into a contract
+with a transportation network company pursuant toNRS 706A.163or a limousine driver who
+provides limousine services to obtain from the local government a business
+license or to pay any business license fee in the same manner that is generally
+applicable to any other business that operates within the jurisdiction of the
+local government.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="706A-310__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prohibits an airport or its governing body
+from requiring a transportation network company, a driver, monitored autonomous
+vehicle provider, a limousine motor carrier that has entered into a contract
+with a transportation network company pursuant toNRS 706A.163or a limousine driver who
+provides limousine services to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="706A-310__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Obtain a permit or certification to
+operate at the airport;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="706A-310__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Pay a fee to operate at the airport;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="706A-310__subsec_2__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Comply with any other requirement to operate
+at the airport.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="706A-310__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Exempts a vehicle operated by a driver,
+monitored autonomous vehicle provider, a limousine motor carrier that has
+entered into a contract with a transportation network company pursuant toNRS 706A.163or a limousine driver who
+provides limousine services from any tax imposed pursuant toNRS 354.705,371.043or371.045.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="706A-310__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The provisions of this chapter do not
+exempt any person from the requirement to obtain a state business license
+issued pursuant tochapter 76of NRS. A
+transportation network company shall notify each driver and monitored
+autonomous vehicle provider of the requirement to obtain a state business
+license issued pursuant tochapter 76of NRS
+and the penalties for failing to obtain a state business license.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1409; A2021,
+2251,3761)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

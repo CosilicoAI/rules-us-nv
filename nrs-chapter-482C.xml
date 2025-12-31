@@ -1,0 +1,2094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-482C"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-482C"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="482C"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-482C/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-482C/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-482C/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-482C/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_482C">
+        <num>482C</num>
+        <heading>PEER-TO-PEER CAR SHARING</heading>
+        <section eId="sec_482C-100">
+          <num>482C.100</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 482C.110to482C.210, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1841)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-110">
+          <num>482C.110</num>
+          <heading>ï¿½Car sharing delivery periodï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Car
+sharing delivery periodï¿½ means the period of time before the car sharing start
+time during which a shared vehicle is being delivered to the location where the
+shared vehicle driver will assume control of the shared vehicle.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1841)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-115">
+          <num>482C.115</num>
+          <heading>ï¿½Car sharing periodï¿½ defined.</heading>
+          <subsection eId="482C-115__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Begins:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-115__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If there is a car sharing delivery period, at
+the start of that period; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-115__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If there is no car sharing delivery period,
+at the car sharing start time; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-115__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Ends at the car sharing termination time.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1841)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-120">
+          <num>482C.120</num>
+          <heading>ï¿½Car sharing program agreementï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Car sharing program agreementï¿½ means an
+agreement entered into between a peer-to-peer car sharing program and a shared
+vehicle driver or shared vehicle owner which establishes terms and conditions
+governing the sharing of a vehicle through the peer-to-peer car sharing
+program.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1841)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-125">
+          <num>482C.125</num>
+          <heading>ï¿½Car sharing start timeï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Car
+sharing start timeï¿½ means the time when the shared vehicle becomes subject to
+the control of the shared vehicle driver at or after the time the reservation
+of a shared vehicle is scheduled to begin, as documented in the records of the
+peer-to-peer car sharing program.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1841)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-130">
+          <num>482C.130</num>
+          <heading>ï¿½Car sharing termination timeï¿½ defined.</heading>
+          <subsection eId="482C-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The expiration of the agreed upon
+period of time established for the use of a shared vehicle according to the
+terms of the car sharing program agreement if the shared vehicle is delivered
+to the location agreed upon in the car sharing program agreement;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The expiration of the agreed upon
+period of time established for the use of a shared vehicle according to the
+terms of the car sharing program agreement if the shared vehicle is delivered
+to a location alternatively agreed upon by the shared vehicle owner and shared
+vehicle driver and as communicated through a peer-to-peer car sharing program
+and incorporated into the car sharing program agreement; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-130__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>When the shared vehicle owner or the
+authorized designee of the shared vehicle owner takes possession and control of
+the shared vehicle.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1841)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-170">
+          <num>482C.170</num>
+          <heading>ï¿½Passenger carï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Passenger
+carï¿½ has the meaning ascribed to it inNRS
+482.087.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1841)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-175">
+          <num>482C.175</num>
+          <heading>ï¿½Peer-to-peer car sharingï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Peer-to-peer
+car sharingï¿½ means the authorized use of a vehicle by an individual other than
+the owner of the vehicle through a peer-to-peer car sharing program.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1842)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-180">
+          <num>482C.180</num>
+          <heading>ï¿½Peer-to-peer car sharing programï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Peer-to-peer car sharing programï¿½ means a
+platform operated by a business that connects shared vehicle owners with shared
+vehicle drivers to enable the sharing of vehicles in exchange for money.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1842)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-190">
+          <num>482C.190</num>
+          <heading>ï¿½Shared vehicleï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Shared
+vehicleï¿½ means a vehicle that is shared or available for sharing through a
+peer-to-peer car sharing program.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1842)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-195">
+          <num>482C.195</num>
+          <heading>ï¿½Shared vehicle driverï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Shared
+vehicle driverï¿½ means a person who has been authorized to drive a shared
+vehicle by the shared vehicle owner pursuant to the terms of a car sharing
+program agreement.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1842)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-200">
+          <num>482C.200</num>
+          <heading>ï¿½Shared vehicle ownerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Shared
+vehicle ownerï¿½ means the registered owner of a shared vehicle or a person who
+is authorized by the registered owner to make a vehicle available for sharing
+through a peer-to-peer car sharing program.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1842)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-210">
+          <num>482C.210</num>
+          <heading>ï¿½Vehicleï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Vehicleï¿½
+has the meaning ascribed to it inNRS
+482.135.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1842)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-230">
+          <num>482C.230</num>
+          <heading>Charging, collecting, reporting and remitting of fees in
+connection with program; deposit of money; certain amounts excluded from
+calculation of fees; exemptions; duties of Executive Director of Department of
+Taxation.</heading>
+          <subsection eId="482C-230__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 8, when a shared vehicle that is a passenger car is shared through a
+peer-to-peer car sharing program in this State, the peer-to-peer car sharing
+program shall charge and collect from the shared vehicle driver:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-230__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A governmental services fee of 10 percent of
+the total amount for which the shared vehicle was shared with the shared
+vehicle driver, excluding any taxes or other fees imposed by a governmental
+entity and the items described in subsection 7; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-230__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any fee required pursuant toNRS 244A.810or244A.860, as applicable.
+ï¿½The amount
+of each fee charged pursuant to this subsection must be indicated in the car
+sharing program agreement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-230__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The fees due from a peer-to-peer car
+sharing program to the Department of Taxation pursuant to subsection 1 are due
+on the last day of each calendar quarter. On or before the last day of the
+month following each calendar quarter, the peer-to-peer car sharing program
+shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-230__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>File with the Department of Taxation, on a
+form prescribed by the Department of Taxation, a report indicating the total
+amount of each of the fees collected by the peer-to-peer car sharing program
+pursuant to subsection 1 during the immediately preceding calendar quarter; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-230__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Remit to the Department of Taxation the fees
+collected by the peer-to-peer car sharing program pursuant to subsection 1
+during the immediately preceding calendar quarter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-230__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in a
+contract made pursuant toNRS 244A.820or244A.870, the Department of
+Taxation shall deposit all money received from a peer-to-peer car sharing
+program pursuant to the provisions of subsection 1 with the State Treasurer for
+credit to the State General Fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-230__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>To ensure compliance with this section,
+the Department of Taxation may audit the records of a peer-to-peer car sharing
+program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-230__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection, the provisions of this section do not limit or affect the payment
+of any taxes or fees imposed pursuant to the provisions ofchapter 482of NRS. A shared vehicle owner is not
+required to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-230__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be licensed pursuant toNRS 482.363to make a shared vehicle
+available for sharing through a peer-to-peer car sharing program; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-230__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Charge and collect the fees required pursuant
+to subsection 1 or any fee required pursuant toNRS 244A.810,244A.860or482.313when sharing a shared vehicle
+through a peer-to-peer car sharing program if the shared vehicle owner is the
+registered owner of the shared vehicle or a person authorized by the registered
+owner of the shared vehicle to make the shared vehicle available for sharing
+through the peer-to-peer car sharing program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-230__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Department of Motor Vehicles shall,
+upon request, provide to the Department of Taxation any information in its
+records relating to a peer-to-peer car sharing program that the Department of
+Taxation considers necessary to collect the fees described in subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-230__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>For the purposes of charging and
+collecting the governmental services fee described in paragraph</p>
+            </content>
+            <paragraph eId="482C-230__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of
+subsection 1, the following items must not be included in the total amount for
+which the shared vehicle was shared:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-230__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The amount of any fee charged and collected
+pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-230__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-230__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The amount of any charge for fuel used to
+operate the shared vehicle;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-230__subsec_7__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The amount of any fee or charge for the
+delivery, transportation or other handling of the shared vehicle by an agent of
+the peer-to-peer vehicle sharing program, not including the shared vehicle
+driver;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-230__subsec_7__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The amount of any fee or charge for
+insurance, including, without limitation, personal accident insurance, extended
+coverage or insurance coverage for personal property; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-230__subsec_7__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The amount of any charges assessed against a
+shared vehicle driver for damages for which the shared vehicle driver is held
+responsible.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-230__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>The fees required pursuant to
+subsection 1 do not apply with respect to any shared vehicle made available
+through a peer-to-peer car sharing program to this State, its unincorporated
+agencies and instrumentalities or any county, city, district or other political
+subdivisions of this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-230__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>The Executive Director of the Department
+of Taxation shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-230__subsec_9__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Adopt such regulations as the Executive
+Director determines are necessary to carry out the provisions of this section;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-230__subsec_9__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon the request of the Director of the
+Department of Motor Vehicles, provide to the Director of the Department of
+Motor Vehicles a copy of any record or report described in this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1842)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-240">
+          <num>482C.240</num>
+          <heading>Duty of program to remit sales and use tax on shared vehicle;
+circumstances in which program is not liable for tax; program to collect
+electronic certification regarding payment of tax by shared vehicle owner.</heading>
+          <subsection eId="482C-240__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, a peer-to-peer car sharing program shall collect and remit, on
+behalf of any shared vehicle owner, sales and use taxes measured by the gross
+charges for the sharing of a vehicle that is placed on a digital network or
+software application of the peer-to-peer car sharing program on or after
+October 1, 2021, for the purpose of making the vehicle available for sharing
+through the peer-to-peer car sharing program if the shared vehicle owner has
+not paid any sales or use tax due or has elected to collect sales and use taxes
+measured by the gross charges for the sharing of the vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-240__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department of Taxation shall not
+hold a peer-to-peer car sharing program liable for the payment, collection or
+remittance of sales and use taxes owed by a shared vehicle owner if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-240__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The peer-to-peer car sharing program provides
+proof satisfactory to the Department of Taxation that the peer-to-peer car
+sharing program has made a reasonable effort to obtain accurate information
+from the shared vehicle owner regarding whether the shared vehicle owner has
+paid the sales and use taxes due on a shared vehicle described in subsection 1;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-240__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The failure to collect and remit the sales
+and use taxes measured by the gross charges for the sharing of the vehicle through
+the peer-to-peer car sharing program was due to incorrect or false information
+provided to the peer-to-peer car sharing program by the shared vehicle owner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-240__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>On or after October 1, 2021, a
+peer-to-peer car sharing program shall not allow a vehicle to be placed on a
+digital network or software application of the peer-to-peer car sharing program
+for the purpose of making the vehicle available for sharing through the
+peer-to-peer car sharing program unless the peer-to-peer car sharing program
+first requests an electronic certification from the shared vehicle owner as to
+whether the shared vehicle owner paid all sales and use taxes due on the
+purchase of the shared vehicle. The Department of Taxation may prescribe by
+regulation the method by which a peer-to-peer car sharing program shall obtain
+an electronic certification from the shared vehicle owner as to whether the
+shared vehicle owner paid all sales and use taxes due on the purchase of the
+shared vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-240__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Nothing in this section shall be construed
+to relieve a peer-to-peer car sharing program of liability for collecting but
+failing to remit to the Department of Taxation any sales and use tax pursuant
+to this section. The Department of Taxation shall not require a peer-to-peer
+car sharing program to collect or remit sales and use taxes measured by the
+gross charges for the sharing of the vehicle if the full amount of sales and
+use taxes were paid on the purchase price of the shared vehicle by the shared
+vehicle owner.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1843)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-245">
+          <num>482C.245</num>
+          <heading>Records of program: Maintenance; inspection; type; penalty.</heading>
+          <subsection eId="482C-245__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each person responsible for maintaining
+the records of a peer-to-peer car sharing program shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-245__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Keep such records as may be necessary to
+determine the amount of the liability of the peer-to-peer car sharing program
+pursuant toNRS 482C.230and482C.240;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-245__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Preserve those records for 4 years or until
+any litigation or prosecution pursuant tochapter
+360of NRS or audit conducted pursuant toNRS 482C.230is finally determined,
+whichever is longer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-245__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Make the records available for inspection by
+the Department of Taxation upon demand at reasonable times during regular
+business hours.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-245__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department of Taxation may by
+regulation specify the types of records which must be kept to determine the
+amount of the liability of a taxpayer pursuant toNRS 482C.230and482C.240.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-245__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any person who violates the provisions
+of subsection 1 is guilty of a misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1844)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-250">
+          <num>482C.250</num>
+          <heading>Regulations.</heading>
+          <content>
+            <p>The
+Director shall adopt such regulations as are necessary to carry out the
+provisions of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1844)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-255">
+          <num>482C.255</num>
+          <heading>Tort liability of program; duty to ensure shared vehicle owner and
+driver are insured under policy meeting certain requirements; coverage under
+motor vehicle insurance policy of program; ability of program to seek
+indemnification for certain losses.</heading>
+          <subsection eId="482C-255__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, a peer-to-peer car sharing program assumes any tort liability of
+a shared vehicle owner arising out of the use or operation of the shared
+vehicle during the car sharing period up to an amount of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-255__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For bodily injury to or death of one person
+in any one crash, $50,000;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-255__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For bodily injury to or death of two or more
+persons in any one crash and subject to the limit for one person, $100,000; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-255__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For injury to or destruction of property of
+others in any one crash, $20,000,
+ï¿½or any
+amount set forth in the car sharing program agreement which is greater than an
+amount provided for by this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-255__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of subsection 1 do not
+apply to a shared vehicle owner:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-255__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Who made an intentional and fraudulent
+material misrepresentation or omission to the peer-to-peer car sharing program
+before the car sharing period in which the liability arose; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-255__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Who acts in concert with a shared vehicle
+driver who fails to return the shared vehicle pursuant to the terms of the car
+sharing program agreement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-255__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The assumption of liability pursuant to
+subsection 1 includes, without limitation, liability for bodily injury,
+property damage, uninsured and underinsured motorist or personal injury
+protection losses by damaged third parties to the same extent as the insurance
+required byNRS 485.185is required to
+include coverage for such damage or losses, up to any applicable amount set
+forth in subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-255__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A peer-to-peer car sharing program
+shall ensure that, during each car sharing period:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-255__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Both the shared vehicle owner and the shared
+vehicle driver are insured under a motor vehicle liability insurance policy
+that includes coverage which is not less than:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="482C-255__subsec_4__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>For bodily injury to or death of one
+person in any one crash, $50,000;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="482C-255__subsec_4__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>For bodily injury to or death of two
+or more persons in any one crash and subject to the limit for one person,
+$100,000; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="482C-255__subsec_4__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>For injury to or destruction of
+property of others in any one crash, $20,000,
+ï¿½or any amount
+set forth in the car sharing program agreement which is greater than an amount
+provided for by this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="482C-255__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any insurance policy used to satisfy the
+requirements of paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-255__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="482C-255__subsec_4__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Expressly recognizes that the shared
+vehicle insured under the policy is made available and used through a
+peer-to-peer car sharing program; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="482C-255__subsec_4__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Does not prohibit or exclude the use
+of the shared vehicle by a shared vehicle driver.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-255__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The insurance policy used to satisfy
+the requirements of subsection 4 may be a policy maintained by:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-255__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The shared vehicle owner;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-255__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The shared vehicle driver;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-255__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The peer-to-peer car sharing program; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-255__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The shared vehicle owner, shared vehicle
+driver and peer-to-peer car sharing program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-255__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The insurance policy used to satisfy
+the requirements of subsection 4 must provide primary insurance during each car
+sharing period. If, during the car sharing period, a claim arises in another
+state with minimum financial responsibility requirements that are higher than
+the amounts set forth in paragraph</p>
+            </content>
+            <paragraph eId="482C-255__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 4, the insurance policy
+used to satisfy the requirements of subsection 4 must satisfy the difference in
+minimum coverage amounts, up to the applicable policy limits.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-255__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The insurer providing the insurance
+used to satisfy the requirements of subsection 4 shall assume primary liability
+for a claim when:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-255__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A dispute exists as to who was in control of
+the shared vehicle at the time of the occurrence out of which liability arose
+and the peer-to-peer car sharing program does not have available, did not
+retain or fails to provide the information required byNRS 482C.270; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-255__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A dispute exists as to whether the shared
+vehicle was returned to an alternatively agreed upon location.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-255__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>If the insurance used to satisfy the
+requirements of subsection 4 has lapsed or does not provide the coverage
+required pursuant to subsection 4, the peer-to-peer car sharing program:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-255__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Shall assume liability for damages up to the
+amounts set forth in subsection 1, which may be satisfied through the
+peer-to-peer car sharing programï¿½s own insurance policy, beginning with the
+first dollar of any claim; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-255__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is responsible for defending against any such
+claim,
+ï¿½except in
+the situation where the shared vehicle owner acts in concert with a shared
+vehicle driver who fails to return the shared vehicle pursuant to the terms of
+the car sharing program agreement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-255__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>Coverage under a motor vehicle
+liability insurance policy maintained by a peer-to-peer car sharing program
+must not be dependent on another insurer first denying a claim or require
+another motor vehicle liability insurance policy to first deny a claim.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-255__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>Nothing in this chapter shall be
+construed to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-255__subsec_10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Limit the liability of a peer-to-peer car
+sharing program for any act or omission of the peer-to-peer car sharing program
+that results in injury to any person as a result of the use of a shared vehicle
+through the peer-to-peer car sharing program; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-255__subsec_10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Limit the ability of a peer-to-peer car
+sharing program to, by contract, seek indemnification from the shared vehicle
+owner or shared vehicle driver for economic loss sustained by the peer-to-peer
+car sharing program resulting from a breach of the terms and conditions of the
+car sharing program agreement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-255__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>As used in this section,
+ï¿½alternatively agreed upon locationï¿½ means a location alternatively agreed upon
+by the shared vehicle owner and shared vehicle driver, as communicated through
+a peer-to-peer car sharing program for the return of the shared vehicle.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1844)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-260">
+          <num>482C.260</num>
+          <heading>Notice to shared vehicle owner that car sharing may violate
+terms of lien.</heading>
+          <content>
+            <p>At the time the
+owner of a motor vehicle registers as a shared vehicle owner through a
+peer-to-peer car sharing program and before the shared vehicle owner is
+permitted to make his or her vehicle available for car sharing through a
+peer-to-peer car sharing program, the peer-to-peer car sharing program shall
+notify the shared vehicle owner that, if the shared vehicle has a lien against
+it, the use of the shared vehicle through a peer-to-peer car sharing program,
+including, without limitation, use without insurance coverage for physical
+damage, may violate the terms of the contract with the lienholder.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1846)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-265">
+          <num>482C.265</num>
+          <heading>Exclusion of certain coverage by authorized insurer.</heading>
+          <subsection eId="482C-265__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An authorized insurer that writes motor
+vehicle liability insurance in this State may exclude any and all coverage for
+and any duty to defend or indemnify for any claim afforded under a shared
+vehicle ownerï¿½s motor vehicle liability insurance policy, including, without
+limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-265__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Liability coverage for bodily injury and
+property damage;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-265__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Personal injury protection coverage;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-265__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Uninsured and underinsured motorist coverage;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-265__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Medical payments coverage;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-265__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Comprehensive physical damage coverage; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-265__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Collision physical damage coverage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-265__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Nothing in this section shall be
+construed to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-265__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Invalidate or limit an exclusion contained in
+a motor vehicle liability insurance policy, including, without limitation, any
+insurance policy in use or approved for use that excludes coverage for motor
+vehicles made available for rent, sharing or hire or for any business use.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-265__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Invalidate, limit or restrict an insurerï¿½s
+ability to underwrite an insurance policy or to cancel or decline to renew a
+policy.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-265__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½authorized
+insurerï¿½ has the meaning ascribed to it inNRS
+679A.030.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1846)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-270">
+          <num>482C.270</num>
+          <heading>Records relating to car sharing: Contents; maintenance;
+production of copies and inspection; payment of expenses of Department for
+examination of records outside State; regulations.</heading>
+          <subsection eId="482C-270__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A peer-to-peer car sharing program
+shall collect and maintain the following records relating to the sharing of a
+shared vehicle through the peer-to-peer car sharing program in such format as
+the Director may prescribe:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-270__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The exact car sharing start time and car
+sharing termination time, plus the exact start and end time of any car sharing
+delivery period;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-270__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The pick-up and drop-off locations for each
+car sharing period;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-270__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The amount of any fees paid by the shared
+vehicle driver for each car sharing period;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-270__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The amount of any revenues received by the
+shared vehicle owner for each car sharing period; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-270__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Such other records as the Director may
+require by regulation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-270__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The peer-to-peer car sharing program
+shall maintain the peer-to-peer car sharing records required pursuant to
+subsection 1 for a period of not less than 6 years after the record is created.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-270__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon request, the peer-to-peer car
+sharing program shall provide copies of the peer-to-peer car sharing records
+maintained pursuant to this section andNRS
+482C.330to the shared vehicle owner, shared vehicle driver, insurer of the
+shared vehicle owner or shared vehicle driver or a claimant alleging damages
+related to the use of the shared vehicle to facilitate a claim coverage
+investigation or the settlement, negotiation or litigation of a claim.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-270__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Upon request, each peer-to-peer car
+sharing record maintained pursuant to this section andNRS 482C.330must be made available for
+inspection by a shared vehicle owner, shared vehicle driver, the insurer of a
+shared vehicle owner or shared vehicle driver or the Department or its designee
+at any time during regular business hours, subject to the provisions of any
+applicable data security or data privacy law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-270__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A peer-to-peer car sharing program that
+keeps outside of this State any books, papers and records maintained pursuant
+to this section andNRS 482C.330shall
+pay to the Department an amount equal to the allowance provided for state
+officers and employees generally while traveling outside of the State for each
+day or fraction thereof during which an employee of the Department is engaged
+in examining those documents, plus any other actual expenses incurred by the
+employee while he or she is absent from his or her regular place of employment
+to examine those documents.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-270__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Director shall adopt such
+regulations as the Director determines are necessary to carry out the
+provisions of this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1847)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-275">
+          <num>482C.275</num>
+          <heading>Chapter imposes no liability inconsistent with federal law
+governing vicarious liability of vehicle owners who rent or lease vehicles.</heading>
+          <content>
+            <p>The provisions of this chapter shall not be
+construed to impose liability which is inconsistent with the provisions of 49
+U.S.C. ï¿½ 30106.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1847)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-280">
+          <num>482C.280</num>
+          <heading>Recovery by motor vehicle insurer against insurer of program.</heading>
+          <subsection eId="482C-280__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Made against the shared vehicle owner
+or shared vehicle driver for loss or injury that occurs during the car sharing
+period; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-280__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Excluded under the terms of the motor
+vehicle liability insurance policy of the motor vehicle insurer who is not the
+motor vehicle insurer of the peer-to-peer car sharing program.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1847)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-285">
+          <num>482C.285</num>
+          <heading>Program has insurable interest in shared vehicle; program may
+own or maintain insurance providing certain coverage.</heading>
+          <subsection eId="482C-285__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Notwithstanding any other provision of
+law, a peer-to-peer car sharing program shall be deemed to have an insurable
+interest in a shared vehicle during the car sharing period.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-285__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A peer-to-peer car sharing program may
+own and maintain as the named insured one or more policies of motor vehicle
+liability insurance that provide coverage for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-285__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Liabilities assumed by the peer-to-peer car
+sharing program under a peer-to-peer car sharing program agreement;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-285__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any liability of a shared vehicle owner;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-285__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any liability of a shared vehicle driver; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-285__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Damage or loss to a shared motor vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-285__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Nothing in this section shall be construed
+to require a peer-to-peer car sharing program to obtain or maintain the motor
+vehicle liability insurance policy necessary to satisfy the requirements of
+subsection 4 ofNRS 482C.255or to
+impose any liability on the peer-to-peer car sharing program which does not
+obtain or maintain such a policy.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1848)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-295">
+          <num>482C.295</num>
+          <heading>Licensure of program required; application; evidence of
+insurance; fee; expiration and renewal of license.</heading>
+          <subsection eId="482C-295__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A peer-to-peer car sharing program
+shall not engage in business in this State unless the person who operates the
+peer-to-peer car sharing program holds a valid license issued by the Department
+pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-295__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who desires to operate a
+peer-to-peer car sharing program in this State must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-295__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Submit to the Department an application for
+the issuance of a license to operate a peer-to-peer car sharing program in such
+form and including such information and documentation as the Director may
+require by regulation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-295__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide evidence of insurance coverage to
+satisfy any liability that accrues to a peer-to-peer car sharing program for
+damage that arises from the failure of the peer-to-peer car sharing program to
+comply with the provisions of this chapter in an amount established by the
+Director by regulation, which is separate from any insurance coverage a
+peer-to-peer car sharing program may use to satisfy the liability which may
+accrue to a peer-to-peer car sharing program pursuant toNRS 482C.255or which may be used to satisfy
+the requirements of subsection 4 ofNRS
+482C.255, or file a bond or make a deposit pursuant toNRS 482C.320.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-295__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Pay a fee of $125.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-295__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Licenses issued pursuant to subsection
+2 expire on December 31 of each year. Before December 31 of each year,
+licensees shall submit to the Department an application for renewal of the
+license in such form and including such information and documentation as the
+Director may require by regulation accompanied by an annual renewal fee of $50.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1848)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-300">
+          <num>482C.300</num>
+          <heading>Grounds for refusal to issue or suspension or revocation of
+license.</heading>
+          <subsection eId="482C-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Material misstatement in the
+application for a license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Willful failure to comply with any
+provision of this chapter or regulations adopted pursuant thereto. If the
+Department notifies a peer-to-peer car sharing program that the peer-to-peer
+car sharing program has violated the provisions of this chapter or the
+regulations adopted pursuant thereto and the peer-to-peer car sharing program
+fails to take corrective action within 10 days after having received the notice
+or continues to violate the provisions of this chapter or the regulations
+adopted pursuant thereto, the failure to take corrective action or the
+continuing violation, as applicable, shall be deemed prima facie evidence of
+willful failure to comply with the provisions of this chapter or the regulations
+adopted pursuant thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-300__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Failure or refusal to furnish and keep
+in force any bond or maintain insurance in an amount established by the
+Director in regulations adopted pursuant toNRS
+482C.295to satisfy any liability that accrues to a peer-to-peer car
+sharing program for damage that arises from the failure of the peer-to-peer car
+sharing program to comply with the provisions of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-300__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Failure or refusal to pay or otherwise
+discharge any final judgment entered against the licensee arising out of a
+violation of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1848)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-305">
+          <num>482C.305</num>
+          <heading>Petition for hearing on denial, suspension or revocation of
+license; timeline for hearing and final decision; Director may issue subpoenas.</heading>
+          <subsection eId="482C-305__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An applicant or licensee may, within 30
+days after receipt of the notice of denial, suspension or revocation, petition
+the Director in writing for a hearing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-305__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3, the Director shall make written findings of fact and conclusions
+and grant or finally deny the application or suspend or revoke the license
+within 15 days after the hearing unless, by interim order, the Director extends
+the time to 30 days after the hearing. If the license has been temporarily
+suspended, the suspension expires not later than 15 days after the hearing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-305__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Director finds that the action
+is necessary in the public interest, upon notice to the licensee, the Director
+may temporarily suspend or refuse to renew the license issued to a peer-to-peer
+car sharing program for a period not to exceed 30 days. A hearing must be held,
+and a final decision rendered, within 30 days after notice of the temporary
+suspension.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-305__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Director may issue subpoenas for
+the attendance of witnesses and the production of evidence.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1849)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-310">
+          <num>482C.310</num>
+          <heading>Trial de novo.</heading>
+          <content>
+            <p>Upon
+judicial review of the denial or revocation of a license, the court for good
+cause shown may order a trial de novo.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1849)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-320">
+          <num>482C.320</num>
+          <heading>Program may file bond or make deposit in lieu of insurance coverage;
+compensation from bond or deposit; refund of deposit.</heading>
+          <subsection eId="482C-320__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In lieu of insurance coverage to
+satisfy any liability that accrues to a peer-to-peer car sharing program for
+damage that arises from the failure of the peer-to-peer car sharing program to
+comply with the provisions of this chapter, a peer-to-peer car sharing program
+may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-320__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>File with the Department a bond of a surety
+company authorized to transact business in this State in an amount not less
+than $5,000 conditioned that the peer-to-peer car sharing program will comply
+with the provisions of this chapter in the operation of the peer-to-peer car
+sharing program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-320__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Deposit with the Department, under such terms
+as the Director may prescribe, a like amount of lawful money of the United States
+or a savings certificate of a bank, credit union, savings and loan association
+or savings bank situated in Nevada, which must state that the amount is
+unavailable for withdrawal except upon order of the Director. Interest earned
+on the amount accrues to the account of the licensee or applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-320__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The bond must be continuous in form,
+and the total aggregate liability on the bond must be limited to the payment of
+the total amount of the bond.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-320__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The bond must provide that a shared
+vehicle owner or shared vehicle driver injured by the failure of the licensee
+to provide the disclosures required byNRS
+482C.325or to otherwise comply with the provisions of this chapter may
+apply to the Director for compensation from the bond. The Director, for good
+cause shown and after notice and an opportunity for hearing, may determine the
+amount of compensation and the person to whom it is to be paid. The surety
+shall then make the payment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-320__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A deposit made pursuant to paragraph</p>
+            </content>
+            <paragraph eId="482C-320__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 may be disbursed by the Director, for good cause shown and
+after notice and an opportunity for hearing, in an amount determined by the
+Director to compensate a shared vehicle owner or shared vehicle driver for an
+injury incurred due to the failure of the licensee to provide the disclosures
+required byNRS 482C.325or to
+otherwise comply with the provisions of this chapter, or released upon receipt
+of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-320__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A court order requiring the Director to
+release all or a specified portion of the deposit; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-320__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A statement signed by the licensee requesting
+the Director to release the deposit, or a specified portion thereof, and
+stating the purpose for which the release is requested.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-320__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>When a deposit is made pursuant to
+paragraph</p>
+            </content>
+            <paragraph eId="482C-320__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1, liability under the deposit must be in the
+amount prescribed by the Department. If the amount of the deposit is reduced or
+if there is an outstanding court judgment for which the licensee is liable
+under the deposit, the license as a peer-to-peer car sharing program is
+automatically suspended. The license must be reinstated if the licensee:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-320__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Files an additional bond pursuant to
+subsection 1;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-320__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Restores the deposit with the Department to
+the original amount required under this section; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-320__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Satisfies the outstanding judgment for which
+the licensee is liable under the deposit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-320__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A deposit made pursuant to paragraph</p>
+            </content>
+            <paragraph eId="482C-320__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 may be refunded:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-320__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>By order of the Director, 3 years after the
+date the licensee ceases to be licensed by the Department, if the Director is
+satisfied that there are no outstanding claims against the deposit; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-320__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>By order of court, at any time within 3 years
+after the date the licensee ceases to be licensed by the Department, upon
+evidence satisfactory to the court that there are no outstanding claims against
+the deposit.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1849)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-325">
+          <num>482C.325</num>
+          <heading>Disclosures required in car sharing program agreement.</heading>
+          <subsection eId="482C-325__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any right of the peer-to-peer car
+sharing program to seek indemnification from the shared vehicle owner or the
+shared vehicle driver for economic loss sustained by the peer-to-peer car
+sharing program resulting from a breach of the terms and conditions of the car
+sharing program agreement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-325__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>That a motor vehicle liability
+insurance policy issued to the shared vehicle owner for the shared vehicle or
+to the shared vehicle driver does not provide a defense or indemnification for
+any claim asserted by the peer-to-peer car sharing program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-325__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>That the insurance coverage of the
+peer-to-peer car sharing program on the shared vehicle owner and the shared
+vehicle driver is in effect only during each car sharing period and that, for
+any use of the shared vehicle by the shared vehicle driver after the car
+sharing termination time, the shared vehicle driver and shared vehicle owner
+may not have insurance coverage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-325__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The daily rate, fees and, if applicable,
+any insurance or protection package costs that are charged to the shared
+vehicle owner or the shared vehicle driver.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-325__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>That the motor vehicle liability
+insurance of the shared vehicle owner may not provide coverage for a shared
+vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-325__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>An emergency telephone number to
+personnel capable of fielding roadside assistance and other customer service
+inquiries.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-325__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>If there are conditions under which a
+shared vehicle driver must maintain a personal motor vehicle liability
+insurance policy with certain applicable coverage limits on a primary basis in
+order to book a shared motor vehicle.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1850)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-330">
+          <num>482C.330</num>
+          <heading>Shared vehicle driver must possess driverï¿½s license; records
+regarding shared vehicle drivers to be kept by program.</heading>
+          <subsection eId="482C-330__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A peer-to-peer car sharing program may
+not enter into a car sharing program agreement with a person to be a shared
+vehicle driver unless the person:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-330__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Possesses a valid driverï¿½s license issued by
+the Department that authorizes the person to operate vehicles of the class of
+the shared vehicle; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-330__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is exempt from the requirement to obtain a
+Nevada driverï¿½s license pursuant to subsection 3 ofNRS 483.240and possesses a valid driverï¿½s
+license issued to the person in his or her home state or country that
+authorizes the person to operate vehicles of the class of the shared vehicle in
+that home state or country.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-330__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A peer-to-peer car sharing program
+shall keep a record of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-330__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The name and address of each shared vehicle
+driver;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-330__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The number of the driverï¿½s license of each
+shared vehicle driver and each other person, if any, who will operate the
+shared vehicle; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-330__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The place of issuance of each driverï¿½s
+license described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-330__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1851)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-335">
+          <num>482C.335</num>
+          <heading>Program has sole responsibility for certain equipment;
+indemnification by shared vehicle driver.</heading>
+          <content>
+            <p>A
+peer-to-peer car sharing program shall have sole responsibility for any
+equipment, such as a GPS system or other special equipment, that is put in or
+on the shared vehicle to monitor or facilitate the car sharing transaction and
+shall indemnify and hold harmless the shared vehicle owner for any damage to or
+theft of such equipment during the car sharing period not caused by the shared
+vehicle owner. A peer-to-peer car sharing program may enter into an agreement
+with a shared vehicle driver wherein the shared vehicle driver agrees to
+indemnify the peer-to-peer car sharing program for any loss or damage to such
+equipment that occurs during the car sharing period.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1851)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-340">
+          <num>482C.340</num>
+          <heading>Safety recalls: Program to verify shared vehicle not subject to
+recall; program to notify vehicle owner of duties regarding safety recalls;
+duties of shared vehicle owner.</heading>
+          <subsection eId="482C-340__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>At the time a motor vehicle owner
+registers as a shared vehicle owner through a peer-to-peer car sharing program
+and before being permitted to make a shared vehicle available for car sharing
+through the peer-to-peer car sharing program, the peer-to-peer car sharing
+program shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-340__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Verify that the shared vehicle is not subject
+to any safety recalls on the vehicle for which the repairs have not been made;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-340__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notify the shared vehicle owner of the
+requirements of subsections 2, 3 and 4.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-340__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a shared vehicle owner has received
+an actual notice of a safety recall on the vehicle, the shared vehicle owner
+may not make the vehicle available as a shared vehicle on a peer-to-peer car
+sharing program until the safety recall repair has been made.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-340__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a shared vehicle owner receives an
+actual notice of a safety recall on a shared vehicle while the shared vehicle
+is made available through a peer-to-peer car sharing program, the shared
+vehicle owner shall remove the shared vehicle from being made available through
+the peer-to-peer car sharing program as soon as possible after receiving the
+notice of the safety recall and until the safety recall repair has been made.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482C-340__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a shared vehicle owner receives an
+actual notice of a safety recall on a shared vehicle while the shared vehicle
+is in the possession of a shared vehicle driver, the shared vehicle owner shall
+notify the peer-to-peer car sharing program as soon as possible after receiving
+the notice of the safety recall so that the shared vehicle owner may address
+the safety recall repair.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1851)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482C-350">
+          <num>482C.350</num>
+          <heading>Restrictions on regulation of program, shared vehicle driver,
+shared vehicle owner or shared vehicle by local governmental entities;
+exceptions; provisions of section do not exempt person from requirement to
+obtain state business license.</heading>
+          <subsection eId="482C-350__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2 andNRS 244A.810and244A.860, a local governmental entity
+shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-350__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Impose any tax or fee on:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="482C-350__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Any peer-to-peer car sharing program
+operating within the scope of a valid license issued pursuant toNRS 482C.295;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="482C-350__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Any shared vehicle driver;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="482C-350__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Any shared vehicle owner; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="482C-350__subsec_1__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Any shared vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="482C-350__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Require:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="482C-350__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A peer-to-peer car sharing program
+operating within the scope of a valid license issued pursuant toNRS 482C.295to obtain from the local
+government any certificate, license or permit to operate as a peer-to-peer car
+sharing program; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="482C-350__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A shared vehicle owner who makes a
+shared vehicle available through a peer-to-peer car sharing program to obtain
+from the local government any certificate, license or permit to make the shared
+vehicle available through a peer-to-peer car sharing program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="482C-350__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Impose any other requirement on a
+peer-to-peer car sharing program, shared vehicle owner or shared vehicle driver
+which is not of general applicability to all similarly situated persons or
+entities within the jurisdiction of the local government.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-350__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Nothing in this section shall be
+construed to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482C-350__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Prohibit a local government from requiring a
+peer-to-peer car sharing program, or a shared vehicle owner operating as a
+corporation, limited partnership or limited-liability company through which the
+shared vehicle owner shares a vehicle using a peer-to-peer car sharing program,
+to obtain from the local government a business license or to pay any business
+license fee in the same manner that is generally applicable to any other
+business that operates within the jurisdiction of the local government.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482C-350__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prohibit an airport or its governing body
+from requiring a peer-to-peer car sharing program or shared vehicle owner to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="482C-350__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Obtain a permit or certification to
+operate at the airport;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="482C-350__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Pay a fee to operate at the airport;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="482C-350__subsec_2__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Comply with any other requirement to
+operate at the airport.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="482C-350__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Exempt a shared vehicle from any tax imposed
+pursuant toNRS 354.705,371.043or371.045.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482C-350__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Nothing in this section shall be
+construed to exempt a peer-to-peer car sharing program from the requirement to
+obtain a state business license pursuant tochapter
+76of NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1852)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

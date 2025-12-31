@@ -1,0 +1,3270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-480"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-480"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="480"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-480/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-480/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-480/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-480/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_480">
+        <num>480</num>
+        <heading>ADMINISTRATION OF LAWS</heading>
+        <section eId="sec_480-010">
+          <num>480.010</num>
+          <heading>Definitions.</heading>
+          <subsection eId="480-010__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Departmentï¿½ means the Department of
+Public Safety.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-010__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½Directorï¿½ means the Director of the
+Department of Public Safety.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2532)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-100">
+          <num>480.100</num>
+          <heading>Creation; powers and duties set forth in chapter.</heading>
+          <subsection eId="480-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department of Public Safety is
+hereby created.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department is vested with the
+powers and authority provided in this chapter and shall carry out the purposes
+of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2532)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-110">
+          <num>480.110</num>
+          <heading>Department to execute, administer and enforce, and perform
+functions and duties provided in certain other chapters and sections of NRS.</heading>
+          <content>
+            <p>Except as otherwise provided therein, the
+Department shall execute, administer and enforce, and perform the functions and
+duties provided in:
+ï¿½ï¿½ï¿½ï¿½ï¿½ 1.Chapters
+176Aand213of NRS relating to parole and
+probation;
+ï¿½ï¿½ï¿½ï¿½ï¿½ 2.Chapter
+453of NRS relating to controlled substances andchapter 454of NRS relating to dangerous drugs;
+ï¿½ï¿½ï¿½ï¿½ï¿½ 3.Chapter
+459of NRS relating to the transportation of hazardous materials;
+ï¿½ï¿½ï¿½ï¿½ï¿½ 4.Chapter
+477of NRS relating to the State Fire Marshal; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ 5.NRS
+486.363to486.375, inclusive,
+relating to the education and safety of motorcycle riders.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2532; A2003,
+415;2015,
+293;2017,
+113;2021,
+2112)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-120">
+          <num>480.120</num>
+          <heading>Director of Department: Creation of office; appointment;
+classification; other employment prohibited; employment of deputies and staff.</heading>
+          <subsection eId="480-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The office of Director is hereby
+created within the Department of Public Safety.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director of the Department:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-120__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is appointed by and serves at the pleasure of
+the Governor;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-120__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Must be appointed with special reference to
+his or her training, experience, capacity and interest in the field of
+administration or the administering of laws relating to public safety;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-120__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Is in the unclassified service of the State;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-120__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Shall devote his or her entire time and
+attention to the business of the office and shall not pursue any other business
+or occupation or hold any other office of profit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Director may, within the limits of
+legislative appropriations, employ such deputy directors as may be needed for
+the administration of the Department. A deputy director:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-120__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Serves at the pleasure of the Director;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-120__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Must be appointed with special reference to
+his or her training, experience, capacity and interest in the field of
+administration or the administering of laws relating to public safety;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-120__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Is in the unclassified service of the State;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-120__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as otherwise provided inNRS 284.143, shall devote his or her entire
+time and attention to the business of the office and shall not pursue any other
+business or occupation or hold any other office of profit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-120__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Director shall appoint such
+technical, clerical and operational staff as the execution of his or her duties
+and the operation of the Department may require.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2532)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-130">
+          <num>480.130</num>
+          <heading>Department: Divisions and Nevada Office of Cyber Defense
+Coordination.</heading>
+          <subsection eId="480-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An Investigation Division;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A Nevada Highway Patrol Division;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-130__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A State Fire Marshal Division;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-130__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A Division of Parole and Probation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-130__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A Capitol Police Division;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-130__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A Nevada Office of Cyber Defense
+Coordination;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-130__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>A Training Division; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-130__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>A Records, Communications and
+Compliance Division.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2533; A2007,
+2926;2011,
+1069;2013,
+2099;2017,
+117,1636;2021,
+2112)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-140">
+          <num>480.140</num>
+          <heading>Department: Functions and responsibilities of divisions and
+Nevada Office of Cyber Defense Coordination.</heading>
+          <subsection eId="480-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Investigation Division shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-140__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Execute, administer and enforce the
+provisions ofchapter 453of NRS relating to
+controlled substances andchapter 454of NRS
+relating to dangerous drugs;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-140__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Investigate technological crime, as defined
+inNRS 205A.030, and enforce the
+provisions of the law of this State relating to technological crime, as defined
+inNRS 205A.030;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-140__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Provide investigative services to the
+divisions of the Department as determined by the Director;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-140__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Assist the Secretary of State in carrying out
+an investigation pursuant toNRS 293.124;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-140__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Upon request, assist:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="480-140__subsec_1__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The Department of Taxation in carrying
+out a criminal investigation relating to cannabis pursuant toNRS 372A.200to372A.380, inclusive, andchapter 678Aof NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="480-140__subsec_1__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The Division of Public and Behavioral
+Health of the Department of Health and Human Services in carrying out a
+criminal investigation relating to cannabis pursuant tochapter 678Cof NRS; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="480-140__subsec_1__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The Cannabis Compliance Board in
+carrying out a criminal investigation pursuant to title 56 of NRS; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="480-140__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Perform such duties and exercise such powers
+as may be conferred upon it pursuant to this chapter and any other specific
+statute.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Nevada Highway Patrol Division shall,
+in conjunction with the Department of Motor Vehicles, execute, administer and
+enforce the provisions ofchapters 484Ato484E, inclusive, of NRS and perform such duties
+and exercise such powers as may be conferred upon it pursuant toNRS 480.360and any other specific statute.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-140__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The State Fire Marshal Division shall
+execute, administer and enforce the provisions ofchapter
+477of NRS and perform such duties and exercise such powers as may be
+conferred upon it pursuant tochapter 477of
+NRS and any other specific statute.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-140__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Division of Parole and Probation
+shall execute, administer and enforce the provisions ofchapters 176Aand213of NRS relating to parole and probation and perform such duties and exercise
+such powers as may be conferred upon it pursuant to those chapters and any
+other specific statute.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-140__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Capitol Police Division shall
+assist in the enforcement of subsection 1 ofNRS
+331.140.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-140__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Nevada Office of Cyber Defense
+Coordination shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-140__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Serve as the strategic planning, facilitating
+and coordinating office for cybersecurity policy and planning in this State;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-140__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Execute, administer and enforce the
+provisions ofNRS 480.900to480.950, inclusive, and perform such duties
+and exercise such powers as may be conferred upon it pursuant toNRS 480.900to480.950, inclusive, and any other specific
+statute.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-140__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The Training Division shall provide
+training to the employees of the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-140__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>The Records, Communications and
+Compliance Division shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-140__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Execute, administer and enforce the
+provisions ofchapter 179Aof NRS and
+perform such duties and exercise such powers as may be conferred upon it
+pursuant tochapter 179Aof NRS and any
+other specific statute;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-140__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide dispatch services for the Department
+and other agencies as determined by the Director;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-140__subsec_8__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Maintain records of the Department as
+determined by the Director; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-140__subsec_8__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Provide support services to the Director, the
+divisions of the Department and the Nevada Criminal Justice Information System
+as may be imposed by the Director.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2533; A2007,
+2927;2011,
+1069;2013,
+2100;2015,
+293;2017,
+118,1636;2021,
+914,2113)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-150">
+          <num>480.150</num>
+          <heading>General duties and powers of Director; regulations.</heading>
+          <subsection eId="480-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-150__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Direct and supervise all administrative and
+technical activities of the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-150__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Formulate the policies of the Department and
+the various divisions thereof.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-150__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Coordinate the activities of the various
+divisions of the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-150__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Furnish fiscal, accounting and other
+administrative services to the various divisions of the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-150__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Adopt such regulations as he or she deems
+necessary for the operation of the Department and the enforcement of all laws
+administered by the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director may delegate to the
+officers and employees of the Department such authorities and responsibilities
+not otherwise delegated by a specific statute as the Director deems necessary
+for the efficient conduct of the business of the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-150__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Director may authorize:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-150__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department to use certain designations to
+identify itself;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-150__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The various divisions of the Department to
+use certain designations to identify themselves, including, without limitation,
+the designation of ï¿½State Policeï¿½ if such a designation is appropriate; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-150__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The officers and employees of the Department
+to use certain designations to identify themselves.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2534; A2011,
+1070;2021,
+915)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-155">
+          <num>480.155</num>
+          <heading>Duty of tribal liaison to communicate with certain entities
+concerning missing or murdered indigenous persons.</heading>
+          <subsection eId="480-155__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Indian tribes and tribal communities in
+this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-155__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Tribal organizations;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-155__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Urban Indian organizations;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-155__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Other tribal liaisons designated by
+state agencies pursuant toNRS 233A.260;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-155__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Nongovernmental entities that provide
+services to women who are members of Indian tribes.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+1755)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-160">
+          <num>480.160</num>
+          <heading>Main office of Department to be kept in Carson City; maintenance
+of branch offices.</heading>
+          <subsection eId="480-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department shall keep its main
+office at Carson City, Nevada, in rooms provided by the Buildings and Grounds
+Section of the State Public Works Division of the Department of Administration.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department may maintain such branch
+offices throughout the State as the Director deems necessary for the efficient
+operation of the Department and the various divisions thereof in space provided
+by the Buildings and Grounds Section. Any leases or agreements entered into
+pursuant to this subsection must be executed in accordance with the provisions
+ofNRS 331.110.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2534; A2011,
+2554,2985)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-170">
+          <num>480.170</num>
+          <heading>Deposit of money collected or received by State Fire Marshal
+Division.</heading>
+          <content>
+            <p>Money collected or
+received by the State Fire Marshal Division pursuant tochapter 477of NRS must be deposited with the
+State Treasurer for credit to the appropriate account of the Division.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2534; A2021,
+2114)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-300">
+          <num>480.300</num>
+          <heading>Creation of division.</heading>
+          <content>
+            <p>There
+is hereby created within the Department a division to be known as the Nevada
+Highway Patrol.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2535)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-310">
+          <num>480.310</num>
+          <heading>Composition.</heading>
+          <subsection eId="480-310__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>One Chief; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-310__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Such number of inspectors, supervisors,
+troopers and commercial officers as the Director determines necessary to
+perform the duties set forth inNRS 480.360,
+within the limits of legislative appropriations therefor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2535)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-320">
+          <num>480.320</num>
+          <heading>Payment of cadets.</heading>
+          <content>
+            <p>The
+Nevada Highway Patrol shall not authorize any payment to a cadet for remaining
+ready for duty if the cadet is attending an authorized training academy for
+which room and board is provided at no cost to the cadet.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2535)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-330">
+          <num>480.330</num>
+          <heading>Powers and duties of Chief; appointment of personnel to protect
+life and property and enforce state law.</heading>
+          <subsection eId="480-330__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Chief of the Nevada Highway Patrol
+is the chief officer of the Nevada Highway Patrol and has the powers and duties
+provided inNRS 480.360, which must be
+performed under the direction and supervision of the Director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-330__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>When requested by the Governor to
+preserve order, protect life or property and enforce the laws of this State,
+the Chief may appoint such personnel of the Nevada Highway Patrol as may be necessary
+for that purpose. The salaries and expenses of the personnel incidental to
+those operations must be paid out of appropriations for the Department from the
+State General Fund.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2535)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-340">
+          <num>480.340</num>
+          <heading>Contracts to provide services relating to control of vehicular
+traffic in connection with special events.</heading>
+          <subsection eId="480-340__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, the Chief of the Nevada Highway Patrol may enter into a contract with
+any person or governmental agency to provide services for the control of
+vehicular traffic related to or affected by any special event sponsored by the
+person or agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-340__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any such contract:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-340__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Must require the sponsor of the special event
+to reimburse the Nevada Highway Patrol for the cost of the services provided.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-340__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May require the sponsor to furnish a bond to
+ensure that reimbursement is made.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-340__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Is subject to the following limitations:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="480-340__subsec_2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The services provided pursuant to the
+contract must be provided by personnel of the Nevada Highway Patrol or other
+qualified personnel of the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="480-340__subsec_2__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The services required must not impair
+the ability of the Nevada Highway Patrol to perform its customary duties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-340__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any money received by the Nevada
+Highway Patrol pursuant to such a contract must be deposited with the State
+Treasurer for credit to the State Highway Fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-340__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½special
+eventï¿½ has the meaning ascribed to it inNRS
+484A.800.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2535; A2005,
+676;2007,
+2043)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-350">
+          <num>480.350</num>
+          <heading>Qualifications of appointed personnel.</heading>
+          <subsection eId="480-350__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Be persons qualified at the time of
+their appointment with the knowledge of all traffic laws of this State and the
+provisions ofchapters 482,483and706of
+NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-350__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Be versed in all laws relating to the
+powers of police officers as to traffic law violations and other offenses
+committed over and along the highways of this State.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2535)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-360">
+          <num>480.360</num>
+          <heading>Duties of personnel.</heading>
+          <subsection eId="480-360__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To police the public highways of this
+State, to enforce and to aid in enforcing thereon all the traffic laws of the
+State of Nevada and to enforce all other laws of this State when:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-360__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In the apprehension or pursuit of an offender
+or suspected offender;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-360__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Making arrests for crimes committed in their
+presence or upon or adjacent to the highways of this State; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-360__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Making arrests pursuant to a warrant in the
+officerï¿½s possession or communicated to the officer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-360__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To investigate crashes on all primary
+and secondary highways within the State of Nevada resulting in personal injury,
+property damage or death, and to gather evidence to prosecute any person guilty
+of any violation of the law contributing to the happening of such a crash.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-360__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In conjunction with the Department of
+Motor Vehicles, to enforce the provisions ofchapters
+365,366,408,482to486,
+inclusive,487and706of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-360__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>To enforce the provisions of laws and
+regulations relating to motor carriers, the safety of their vehicles and
+equipment, and their transportation of hazardous materials and other cargo.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-360__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>To maintain the repository for
+information concerning hazardous materials in Nevada and to carry out its
+duties pursuant tochapter 459of NRS
+concerning the transportation of hazardous materials.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-360__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>To perform such other duties in
+connection with those specified in this section as may be imposed by the
+Director.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2536; A2001,
+2639;2005,
+676;2007,
+2927;2015,
+1621)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-370">
+          <num>480.370</num>
+          <heading>Nevada Highway Patrol Revolving Account: Creation; permissible
+use; administration; amount of money to be deposited.</heading>
+          <content>
+            <p>The
+Nevada Highway Patrol Revolving Account is hereby created as a special account
+in the State Highway Fund and must be used for making change in the main and
+branch offices of the Nevada Highway Patrol. The Account must be administered
+by the Chief of the Highway Patrol. The State Board of Examiners shall
+determine the amount of money to be deposited in the Account, within the limits
+of money available for that purpose.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+676)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-400">
+          <num>480.400</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 480.400to480.545, inclusive, unless the context
+otherwise requires, the words and terms defined inNRS 480.405to480.440, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2536; A2019,
+163)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-405">
+          <num>480.405</num>
+          <heading>ï¿½Act of terrorismï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Act
+of terrorismï¿½ has the meaning ascribed to it inNRS 202.4415.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+160)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-407">
+          <num>480.407</num>
+          <heading>ï¿½Criminal intelligence informationï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Criminal intelligence informationï¿½ means any
+information about an identifiable person or group of persons that is collected
+by a natural person, a private entity or a public safety agency or another
+federal, state or local governmental agency in an effort to detect, prevent,
+investigate or respond to criminal activity or acts of terrorism.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+160)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-410">
+          <num>480.410</num>
+          <heading>ï¿½Investigation Divisionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Investigation
+Divisionï¿½ means the Investigation Division of the Department.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2536)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-420">
+          <num>480.420</num>
+          <heading>ï¿½Off-road vehicleï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Off-road
+vehicleï¿½ means a vehicle which is intended for recreational or industrial use
+and which is not intended or designed for use on a public highway.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2536)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-425">
+          <num>480.425</num>
+          <heading>ï¿½Public safety agencyï¿½ defined.</heading>
+          <subsection eId="480-425__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A public fire department, fire
+protection district or other agency of this State or a political subdivision of
+this State, the primary functions of which are to control, extinguish and
+suppress fires;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-425__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A law enforcement agency as defined inNRS 277.035;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-425__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An emergency medical service;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-425__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Division of Emergency Management of
+the Office of the Military; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-425__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A local organization for emergency
+management, as defined inNRS 414.036.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+161; A2021,
+2114)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-430">
+          <num>480.430</num>
+          <heading>ï¿½Special mobile equipmentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Special
+mobile equipmentï¿½ has the meaning ascribed to it inNRS 482.123.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2536)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-440">
+          <num>480.440</num>
+          <heading>ï¿½Vehicleï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Vehicleï¿½
+has the meaning ascribed to it inNRS
+482.135.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2536)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-450">
+          <num>480.450</num>
+          <heading>Composition of Division.</heading>
+          <subsection eId="480-450__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A Chief appointed by the Director; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-450__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Within the limits of legislative
+appropriations, a number of investigators and agents which the Director
+determines to be sufficient to carry out the duties of the Division, who are
+employed in the classified service of the State.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2536)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-460">
+          <num>480.460</num>
+          <heading>Duties of Chief of Division.</heading>
+          <subsection eId="480-460__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Furnish services relating to the
+investigation of crimes, including interrogation with the use of polygraph
+instruments, upon the request of the following:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-460__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Attorney General;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-460__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The head of any agency, bureau, board, commission,
+department, division, office or other unit of the Executive Department of the
+State Government which is authorized or required to conduct criminal
+investigations; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-460__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any sheriff, chief of police or district
+attorney.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-460__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Disseminate information relating to the
+dangers of the use of controlled substances and dangerous drugs.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-460__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Provide and operate a system of
+recording all information received by the Investigation Division relating to
+persons who have alleged connections with organized crime or have some
+connection with violations of laws regulating controlled substances or
+dangerous drugs.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-460__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Arrange for the purchase of controlled
+substances and dangerous drugs when such a purchase is necessary in an
+investigation of offenses relating to controlled substances and dangerous
+drugs.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-460__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Procure from law enforcement agencies
+and other reliable sources information relating to violators of laws which
+govern controlled substances and dangerous drugs, including information about
+their character, probable motives, circumstances of arrest, methods of
+operation and other pertinent information.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-460__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Enforce the provisions ofchapter 453of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-460__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Furnish information relating to any
+person of whom he or she maintains a record to any law enforcement agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-460__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Assist the Secretary of State in
+carrying out an investigation pursuant toNRS
+293.124.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-460__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>Upon request, assist:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-460__subsec_9__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Taxation in carrying out a
+criminal investigation relating to cannabis pursuant toNRS 372A.200to372A.380, inclusive, andchapter 678Aof NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-460__subsec_9__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Division of Public and Behavioral Health
+of the Department of Health and Human Services in carrying out a criminal
+investigation relating to cannabis pursuant tochapter
+678Cof NRS; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-460__subsec_9__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Cannabis Compliance Board in carrying out
+a criminal investigation pursuant to title 56 of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-460__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>Investigate technological crime, as
+defined inNRS 205A.030, and enforce
+the provisions of the law of this State relating to technological crime, as
+defined inNRS 205A.030.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2536; A2009,
+37;2021,
+916)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-470">
+          <num>480.470</num>
+          <heading>Additional duties of Chief of Division; powers of Chief;
+accounting for and expenditure of money.</heading>
+          <subsection eId="480-470__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Chief of the Investigation Division
+shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-470__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Investigate and enforce the provisions of law
+relating to theft and fraud in matters concerning vehicles, including special
+mobile equipment and off-road vehicles.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-470__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Procure from law enforcement agencies and
+other reliable sources information relating to violators of laws that govern
+theft and fraud relating to vehicles, including special mobile equipment and
+off-road vehicles. The information may concern the character of the violators,
+their probable motives, the circumstances of their arrests and their methods of
+operation, and may include any other pertinent information.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-470__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Establish and conduct proactive law
+enforcement programs intended to reduce the incidence of commercial theft and
+fraud related to vehicles.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-470__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To carry out the provisions of this
+section, the Chief of the Investigation Division may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-470__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Accept gifts and grants of money from any
+person or governmental agency; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-470__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Employ or contract with persons to provide
+professional or technical assistance to the Division, payable from the money
+accepted pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-470__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Money accepted by the Chief pursuant to
+this section must be accounted for separately in the State General Fund and is
+hereby authorized for expenditure to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-470__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Pay the cost of carrying out the duties of
+the Chief set forth in this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-470__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Conduct educational programs to provide
+information to owners of vehicles, including special mobile equipment and
+off-road vehicles, concerning the prevention and reduction of commercial theft
+and fraud related to vehicles.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-470__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Provide such equipment as the Chief
+determines is necessary to test methods of preventing or reducing commercial
+theft and fraud related to vehicles.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-470__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½commercial
+theftï¿½ means the theft of vehicles, including special mobile equipment and
+off-road vehicles, for financial gain.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2537)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-480">
+          <num>480.480</num>
+          <heading>Agreements with other law enforcement agencies; powers and
+responsibilities of peace officer acting pursuant to agreement.</heading>
+          <content>
+            <p>The Chief of the Investigation Division may
+enter into agreements with any state or local law enforcement agency in this
+State or in any other state to carry out the duties of the Division. A peace
+officer, while carrying out the duties of the Investigation Division pursuant
+to such an agreement, has the same powers and responsibilities as an
+investigator of the Investigation Division.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2538)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-490">
+          <num>480.490</num>
+          <heading>Appointment of persons with special skills or training;
+ï¿½category I peace officerï¿½ defined.</heading>
+          <subsection eId="480-490__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If circumstances require the
+appointment of persons with special skills or training, the Chief of the
+Investigation Division may appoint persons as investigators who have those
+special skills or training and have completed the requirements for the training
+of a category I peace officer. A person appointed as an investigator has the
+powers of a peace officer while carrying out the duties assigned to him or her
+by the Chief or a person designated by the Chief.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-490__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½category I
+peace officerï¿½ has the meaning ascribed to it inNRS 432B.610.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2538)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-500">
+          <num>480.500</num>
+          <heading>Identification of dead bodies; missing persons.</heading>
+          <subsection eId="480-500__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When a coroner is unable to establish
+the identity of a dead body by means other than by dental records, the coroner
+shall have a dental examination of the body made by a dentist. The dentist
+shall prepare a record of his or her findings and forward it to the coroner,
+who shall enter the information into the computer for the National Crime
+Information Center.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-500__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each sheriff, chief of police or other
+law enforcement agency which receives a report of a person missing under
+suspicious circumstances who is 18 years of age or older shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-500__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notify immediately such persons and make
+inquiries concerning the missing person as the agency deems necessary; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-500__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Enter the information concerning the missing
+person into the computer for the National Crime Information Center.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-500__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The sheriff, chief of police or other
+law enforcement agency shall request the written consent of the next of kin or
+guardian of a person who has been reported to him or her as missing for 30 days
+or more to obtain certain identifying information about the missing person that
+the National Crime Information Center recommends be provided from the
+appropriate providers of medical care. After receiving the written consent, the
+sheriff, chief of police or other law enforcement agency shall obtain the
+identifying information from the providers of medical care and enter that
+information and any other relevant information into the computer for the
+National Crime Information Center for comparison with the identifying
+information that is on file concerning unidentified deceased persons. This
+subsection does not prevent the voluntary release of identifying information
+about the missing person by the next of kin or guardian of the missing person
+at any time.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-500__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The next of kin or guardian of the
+person reported as missing shall promptly notify the appropriate law
+enforcement agency when the missing person is found.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-500__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The sheriff, chief of police or other
+law enforcement agency shall update the records entered into the computer for
+the National Crime Information Center when a missing person has been found.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2538; A2009,
+38)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-503">
+          <num>480.503</num>
+          <heading>Person missing from Indian reservation or Indian colony:
+Acceptance of report; entry of information into National Crime Information
+Center.</heading>
+          <subsection eId="480-503__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Accept a report of a person who is 18
+years of age or older and missing from an Indian reservation or Indian colony
+that is located in whole or in part in this State if the person who is reported
+missing:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-503__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Has a physical or mental disability;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-503__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is missing after an emergency or natural
+disaster;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-503__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Is missing under:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="480-503__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Circumstances that indicate he or she
+may be in danger or that his or her disappearance may not be voluntary; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="480-503__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Any other suspicious circumstance; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-503__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Enter the information concerning the
+missing person into the National Crime Information Center pursuant toNRS 480.500.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+1755)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-505">
+          <num>480.505</num>
+          <heading>Person missing from Indian reservation or Indian colony:
+Notification of receipt of report.</heading>
+          <subsection eId="480-505__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Missing and Murdered Unit within
+the Office of Justice Services of the Bureau of Indian Affairs;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-505__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person employed as a police officer
+by the Indian tribe having jurisdiction over the Indian reservation or Indian
+colony from which the person is missing; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-505__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The tribal liaison designated by the
+Department pursuant toNRS 233A.260.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+1755)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-510">
+          <num>480.510</num>
+          <heading>Sheriffs and chiefs of police to furnish to Division certain
+information concerning violations connected to controlled substances, dangerous
+drugs and theft of vehicles.</heading>
+          <subsection eId="480-510__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Controlled substances or dangerous
+drugs; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-510__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The theft of vehicles, including
+special mobile equipment or off-road vehicles.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2539)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-520">
+          <num>480.520</num>
+          <heading>Authority of Director to expend appropriated money to purchase
+or otherwise obtain evidence; duty of State Controller; keeping of money.</heading>
+          <subsection eId="480-520__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director may, as he or she
+determines necessary, to assist local law enforcement agencies or the
+Investigation Division in the purchase of evidence and in employing persons
+other than peace officers to obtain evidence, expend money appropriated for
+such a purpose.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-520__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon receiving a written request from
+the Director for money appropriated pursuant to this section, the State
+Controller shall draw a warrant, payable to the Director, in an amount which
+does not exceed any limit set by the Legislature in the appropriation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-520__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Director may keep money drawn
+pursuant to this section in accounts in one or more banks or credit unions or
+in cash.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2539)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-530">
+          <num>480.530</num>
+          <heading>Nevada Threat Analysis Center: Creation; appointment and
+classification of Director; duties.</heading>
+          <subsection eId="480-530__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Nevada Threat Analysis Center is
+hereby created within the Investigation Division.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-530__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Chief of the Investigation Division
+shall appoint a Director of the Center who is in the classified service of the
+State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-530__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Center shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-530__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Collect and maintain criminal intelligence
+information and other information regarding actual or potential threats to
+public safety; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-530__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Analyze the criminal intelligence information
+and other information collected pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-530__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and disseminate the
+information to a public safety agency or other federal, state or local
+governmental agency or a private entity as the Center determines is necessary
+to detect, prevent, investigate or respond to criminal activity or acts of
+terrorism.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+161)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-535">
+          <num>480.535</num>
+          <heading>Nevada Threat Analysis Center: Confidentiality of information
+collected; penalties for violation.</heading>
+          <subsection eId="480-535__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3 ofNRS 480.530, any
+criminal intelligence information or other information collected by the Nevada
+Threat Analysis Center, including, without limitation, any papers, records,
+documents, reports, materials, databases or other evidence related to actual or
+suspected criminal activity or acts of terrorism is confidential and must not
+be disclosed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-535__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who knowingly violates any
+provision of this section or who assists, solicits or conspires with another
+person to violate any provision of this section is guilty of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-535__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A category C felony and shall be punished as
+provided inNRS 193.130if the person acted
+with intent to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="480-535__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Commit, cause, aid, further or
+conceal, or attempt to commit, cause, aid, further or conceal, any act of
+terrorism; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="480-535__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Assist, solicit or conspire with
+another person to commit, cause, aid, further or conceal any act of terrorism;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="480-535__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-535__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>does not apply, a gross
+misdemeanor.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+161)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-540">
+          <num>480.540</num>
+          <heading>Nevada Threat Analysis Center Advisory Committee: Creation;
+members; Chair and Vice Chair; meetings; service without compensation; duties.</heading>
+          <subsection eId="480-540__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Nevada Threat Analysis Center
+Advisory Committee is hereby created within the Investigation Division. Except
+as otherwise provided in subsection 2, the Advisory Committee consists of 2 ex
+officio nonvoting members pursuant to subsection 2 and not more than 15 voting
+members, which must include, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-540__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Chief of the Investigation Division;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-540__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Chief of the Nevada Highway Patrol of the
+Department;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-540__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Chief of the Division of Emergency
+Management of the Office of the Military or another person designated by the
+Adjutant General of the Office of the Military who has experience relating to
+homeland security;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-540__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Three members appointed by the Nevada
+Sheriffsï¿½ and Chiefsï¿½ Association or its legal successor who are
+representatives of the Association or its legal successor;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-540__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>One member appointed by the Director of the
+Department who is a representative of the Nevada Fire Chiefsï¿½ Association or
+its legal successor;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-540__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>One member appointed by the Director of the
+Department who is employed as a police officer by an Indian tribe;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-540__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>One member appointed by the sheriff of each
+county in which a metropolitan police department has been established who is a
+representative of the metropolitan police department; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-540__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Any other members appointed by the Director
+of the Department based on their experience or knowledge.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-540__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection, the following persons are ex officio nonvoting members of the
+Advisory Committee:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-540__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Director of the Nevada Threat Analysis
+Center created byNRS 480.530.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-540__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Director of the Department or his or her
+designee except, in the case of a tie vote on any question, the Director or his
+or her designee shall cast the deciding vote.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-540__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Director of the Department or his
+or her designee shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-540__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Serve as the Chair of the Committee; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-540__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Select from the members a Vice Chair.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-540__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Appointed members of the Advisory
+Committee serve at the pleasure of the appointing authority.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-540__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Advisory Committee shall meet at
+least twice annually at the call of the Chair and in conformance withNRS 480.545.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-540__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Members of the Advisory Committee serve
+without compensation and are not entitled to receive a per diem allowance or
+travel expenses.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-540__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The Advisory Committee shall advise the
+Nevada Threat Analysis Center created byNRS
+480.530on best practices for the collection, maintenance, analysis and
+dissemination of criminal intelligence information.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+161; A2021,
+2114)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-545">
+          <num>480.545</num>
+          <heading>Nevada Threat Analysis Center Advisory Committee: Compliance
+with Open Meeting Law; exception; confidentiality of information and materials
+under certain circumstances.</heading>
+          <subsection eId="480-545__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, the Nevada Threat Analysis Center Advisory Committee created byNRS 480.540shall comply with the
+provisions ofchapter 241of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-545__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Advisory Committee may hold a
+closed meeting:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-545__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To receive or provide security briefings; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-545__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To discuss:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="480-545__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Active criminal investigations;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="480-545__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Criminal intelligence information;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="480-545__subsec_2__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Actual or suspected acts of terrorism;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="480-545__subsec_2__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Suspected or confirmed threats to
+public safety;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="480-545__subsec_2__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Deficiencies in security with respect
+to public services, public facilities or infrastructure; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="480-545__subsec_2__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Deficiencies in security with respect
+to handling criminal intelligence information.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-545__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>All information and materials received
+or prepared by the Advisory Committee during a closed meeting pursuant to
+subsection 2 and all minutes and audiovisual or electronic reproductions of
+such a meeting are confidential and not subject to inspection by the general
+public. If a criminal proceeding is initiated as a result of information or
+materials received or prepared by the Advisory Committee during such a closed
+meeting, such information or materials are subject to discovery and disclosure
+in accordance with applicable law.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+162)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-600">
+          <num>480.600</num>
+          <heading>Duty of Nevada Highway Patrol and Investigation Division to
+provide copies of crash reports, statements by witnesses and photographs upon
+request; timing; fee for reproduction; exceptions.</heading>
+          <subsection eId="480-600__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The materials are privileged or
+confidential pursuant to a specific statute; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-600__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The crash involved:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-600__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The death or substantial bodily harm of a
+person;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-600__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Failure to stop at the scene of a crash; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-600__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The commission of a felony.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2539; A2005,
+701;2015,
+1622)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-610">
+          <num>480.610</num>
+          <heading>Inspections for purpose of locating stolen vehicles: Authority
+to conduct; timing; privately owned terminals and parking facilities;
+definitions.</heading>
+          <subsection eId="480-610__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>For the purpose of locating stolen
+vehicles, except as otherwise provided in subsection 3, an employee of the
+Department or a local law enforcement agency whose primary responsibility is to
+conduct investigations involving the theft of motor vehicles, may inspect:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-610__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The identification numbers of a vehicle that
+is on the highway or in any garage, repair shop, terminal, parking facility,
+establishment where new or used vehicles or equipment for vehicles are sold,
+leased or rented, vehicle salvage pool or any other similar establishment, or
+any commercial location where agricultural or construction work is being
+actively performed; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-610__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The title or registration of a vehicle
+described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-610__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>to determine the rightful ownership or possession of
+the vehicle or an identifiable component part.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-610__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Whenever possible, a person who
+conducts an inspection pursuant to this section shall conduct the inspection
+during normal business hours and in such a manner as to minimize any
+interference with or delay of the business operations of the establishment
+where the inspection takes place.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-610__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person may not conduct an inspection
+pursuant to this section of a terminal that is privately owned or a parking
+facility that is privately owned unless, before conducting the inspection, the
+person obtains permission to conduct the inspection from:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-610__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The owner of the terminal or parking
+facility; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-610__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An agent or representative of the owner who
+has been authorized by the owner to grant permission to a person seeking to
+conduct an inspection pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-610__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-610__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Garageï¿½ has the meaning ascribed to it inNRS 487.540.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-610__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Identifiable component partï¿½ means a
+component of a motor vehicle that may be distinguished from other similar
+components by a serial number or other distinguishing number, sign or mark.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-610__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>ï¿½Local law enforcement agencyï¿½ means:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="480-610__subsec_4__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The sheriffï¿½s office of a county;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="480-610__subsec_4__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A metropolitan police department; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="480-610__subsec_4__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>A police department of an incorporated
+city.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="480-610__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>ï¿½Parking facilityï¿½ means a parking deck,
+parking garage, parking structure or paved or unpaved parking lot that members
+of the public regularly enter, are reasonably likely to enter, or are invited
+or permitted to enter as invitees or licensees.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-610__subsec_4__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>ï¿½Terminalï¿½ means a terminal that members of
+the public regularly enter, are reasonably likely to enter, or are invited or
+permitted to enter as invitees or licensees.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-610__subsec_4__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>ï¿½Vehicleï¿½ has the meaning ascribed to it inNRS 482.135.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2539)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-800">
+          <num>480.800</num>
+          <heading>Justice Assistance Grant Trust Account.</heading>
+          <subsection eId="480-800__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Justice Assistance Grant Trust
+Account is hereby created in the State General Fund. All money received by the
+State of Nevada pursuant to the Edward Byrne Memorial Justice Assistance Grant
+Program, 42 U.S.C. ï¿½ï¿½ 3750 et seq., must be deposited in the Trust Account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-800__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director shall administer the Trust
+Account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-800__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The money in the Trust Account may only
+be expended in accordance with the provisions of the Edward Byrne Memorial
+Justice Assistance Grant Program, 42 U.S.C. ï¿½ï¿½ 3750 et seq., and any
+regulations adopted pursuant thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-800__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The interest and income earned on the
+money in the Trust Account, after deducting any applicable charges, must be
+credited to the Trust Account.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+2866)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-810">
+          <num>480.810</num>
+          <heading>Account for Reentry Programs.</heading>
+          <subsection eId="480-810__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Account for Reentry Programs is
+hereby created in the State General Fund. The Account must be administered by
+the Director or a designee of the Director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-810__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director or designee may apply for
+and accept any gift, donation, bequest, grant or other source of money for the
+use of the Account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-810__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>All money received for the use of the Account
+pursuant to subsection 2 orNRS 209.4889or from any other source must be deposited with the State Treasurer for credit
+to the Account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-810__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>All expenditures from the Account must
+be approved by the Director or designee, in accordance with procedures
+established by regulation by the Director. The Director may designate an
+advisory group to assist in the preparation of such procedures. The money in
+the Account may be expended only to pay necessary administrative costs and to
+pay for programs for reentry of persons into the community upon their release
+from incarceration, including, without limitation, judicial programs, training
+programs and programs for the treatment of addictive disorders.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-810__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The interest and income earned on the
+money in the Account, after deducting any applicable charges, must be credited
+to the Account. All claims against the Account must be paid as other claims
+against the State are paid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-810__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>To the extent money is available in the
+Account, the Director or designee may enter into one or more contracts with one
+or more public or private entities to provide services to persons participating
+in a program for reentry into the community upon their release from incarceration.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2594; A2011,
+450)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-900">
+          <num>480.900</num>
+          <heading>Legislative findings and declarations regarding security of
+information systems.</heading>
+          <subsection eId="480-900__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The protection and security of
+information systems, and the coordination of efforts to promote the protection
+and security of information systems, are essential to protecting the health,
+safety and welfare of the people of this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-900__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The continued development of
+technologies relating to information systems and the expanding and diverse
+applications of those technologies pose significant implications for the
+functioning of any infrastructure in this State that is critical to the health,
+safety and welfare of the people of this State, particularly in the areas of
+transportation, health care, energy, education, law enforcement and commercial
+enterprises.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-900__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Information systems and the application
+of information systems relating to the operation of State Government and local
+governments make up a statewide cyberinfrastructure that is integral to the
+delivery of essential services to the people of this State and the essential
+functions of government that ensure the protection of the health, safety and
+welfare of the people of this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-900__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Protecting and securing the statewide
+cyberinfrastructure requires the identification of the areas in which
+information systems may be vulnerable to attack, unauthorized use or misuse or
+other dangerous, harmful or destructive acts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-900__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Protecting and securing the statewide
+cyberinfrastructure requires an ability to identify and eliminate threats to
+information systems in both the public and private sectors.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-900__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Protecting and securing the statewide
+cyberinfrastructure requires a strategic statewide plan for responding to
+incidents in which information systems are compromised, breached or damaged,
+including, without limitation, actions taken to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-900__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Minimize the harmful impacts of such
+incidents on the health, safety and welfare of the people of this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-900__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Minimize the disruptive effects of such
+incidents on the delivery of essential services to the people of this State and
+on the essential functions of government that ensure the protection of the
+health, safety and welfare of the people of this State; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-900__subsec_6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Ensure the uninterrupted and continuous
+delivery of essential services to the people of this State and the
+uninterrupted and continuous operations of the essential functions of
+government that ensure the protection of the health, safety and welfare of the
+people of this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-900__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Protecting and securing the statewide
+cyberinfrastructure depends on collaboration and cooperation, including the
+voluntary sharing of information and analysis regarding cybersecurity threats,
+among local, state and federal agencies and across a broad spectrum of the
+public and private sectors.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-900__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Institutions of higher education play a
+critical role in protecting and securing statewide cyberinfrastructure by
+developing programs that support a skilled workforce, promote innovation and
+contribute to a more secure statewide cyberinfrastructure.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-900__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>It is therefore in the public interest
+that the Legislature enact provisions to enable the State to prepare for and
+mitigate risks to, and otherwise protect, information systems and statewide
+cyberinfrastructure.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1632)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-902">
+          <num>480.902</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 480.900to480.950, inclusive, unless the context
+otherwise requires, the words and terms defined inNRS 480.904to480.912, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1633; A2019,
+2472)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-904">
+          <num>480.904</num>
+          <heading>Administratorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Administratorï¿½
+means the Administrator of the Nevada Office of Cyber Defense Coordination
+appointed pursuant toNRS 480.920.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1633)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-906">
+          <num>480.906</num>
+          <heading>ï¿½Information systemï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Information
+systemï¿½ means any computer equipment, computer software, procedures or
+technology used to communicate, collect, process, distribute or store
+information.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1633)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-908">
+          <num>480.908</num>
+          <heading>ï¿½Officeï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Officeï¿½
+means the Nevada Office of Cyber Defense Coordination of the Department of
+Public Safety.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1633)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-910">
+          <num>480.910</num>
+          <heading>ï¿½Security of an information systemï¿½ defined.</heading>
+          <subsection eId="480-910__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The physical infrastructure of an
+information system; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-910__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Information, including, without
+limitation, personal information, that is stored on, transmitted to, from or
+through, or generated by an information system.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1633)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-912">
+          <num>480.912</num>
+          <heading>ï¿½State agencyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½State
+agencyï¿½ means every public agency, bureau, board, commission, department or
+division of the Executive Branch of State Government.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1634)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-920">
+          <num>480.920</num>
+          <heading>Nevada Office of Cyber Defense Coordination: Creation;
+composition.</heading>
+          <subsection eId="480-920__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Administrator of the Office, who is
+appointed by the Director; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-920__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Within the limits of legislative
+appropriations, a number of employees which the Director determines to be
+sufficient to carry out the duties of the Office.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1634)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-924">
+          <num>480.924</num>
+          <heading>Duties of Office.</heading>
+          <subsection eId="480-924__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Develop procedures for risk-based
+assessments that identify vulnerabilities in the information systems that are
+operated or maintained by state agencies and any potential threats that may
+exploit such vulnerabilities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-924__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Based on the results of risk-based
+assessments, identify risks to the security of information systems that are
+operated or maintained by state agencies.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-924__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Develop best practices for preparing
+for and mitigating risks to, and otherwise protecting, the security of
+information systems that are operated or maintained by state agencies.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1634; A2019,
+2473)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-926">
+          <num>480.926</num>
+          <heading>Office to establish partnerships, consult and coordinate with
+various entities and agencies.</heading>
+          <subsection eId="480-926__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Establish partnerships with:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-926__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Local governments;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-926__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Nevada System of Higher Education; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-926__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Private entities, to the extent practicable,
+ï¿½to encourage
+the development of strategies to prepare for and mitigate risks to, and otherwise
+protect, the security of information systems that are operated or maintained by
+a public or private entity in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-926__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Establish partnerships to assist and
+receive assistance from local governments and appropriate agencies of the
+Federal Government regarding the development of strategies to prepare for and
+mitigate risks to, and otherwise protect, the security of information systems.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-926__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Consult with the Division of Emergency
+Management of the Office of the Military and the Office of the Chief
+Information Officer within the Office of the Governor regarding the development
+of strategies to prepare for and mitigate risks to, and otherwise protect, the
+security of information systems.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-926__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Coordinate with the Investigation
+Division of the Department regarding gathering intelligence on and initiating
+investigations of cyber threats and incidents.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1634; A2019,
+2473;2021,
+2115)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-928">
+          <num>480.928</num>
+          <heading>Office to establish policies and procedures; Administrator to
+appoint cybersecurity incident response teams; duties of cybersecurity incident
+response teams; private entity authorized to use cybersecurity incident
+response team.</heading>
+          <subsection eId="480-928__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Office shall establish policies and
+procedures for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-928__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A state agency to notify the Office of any
+specific threat to the security of an information system operated or maintained
+by the state agency;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-928__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any other public or private entity to
+voluntarily notify the Office of any specific threat to the security of an
+information system;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-928__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Office to notify state agencies,
+appropriate law enforcement and prosecuting authorities and any other
+appropriate public or private entity of any specific threat to the security of
+an information system of which the Office has been notified; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-928__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The Administrator to convene a cybersecurity
+incident response team appointed pursuant to subsection 2 upon notification of
+the Office of a specific threat to the security of an information system.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-928__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In consultation with appropriate state
+agencies, local governments and agencies of the Federal Government, the
+Administrator shall appoint a cybersecurity incident response team or teams.
+Such a team may include, without limitation, an investigator employed by the
+Investigation Division of the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-928__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A cybersecurity incident response team
+appointed pursuant to subsection 2 shall convene at the call of the Administrator
+and, subject to the direction of the Administrator, shall assist the Office and
+any appropriate state agencies, local governments or agencies of the Federal
+Government in responding to the threat to the security of an information
+system.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-928__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A private entity may, in its
+discretion, use the services of a cybersecurity incident response team
+appointed pursuant to subsection 2.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1635; A2019,
+2474)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-930">
+          <num>480.930</num>
+          <heading>Office to prepare and update statewide strategic plan regarding
+security of information systems; use of information by private entity; state
+agencies with cybersecurity policy required to test adherence to policy by
+employees and submit results to Office.</heading>
+          <subsection eId="480-930__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Office shall prepare and make
+publicly available a statewide strategic plan that outlines policies,
+procedures, best practices and recommendations for preparing for and mitigating
+risks to, and otherwise protecting, the security of information systems in this
+State and for recovering from and otherwise responding to threats to or attacks
+on the security of information systems in this State. The statewide strategic
+plan prepared and made available pursuant to this subsection must not identify
+or include information which allows for the identification of specific
+vulnerabilities in the information systems in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-930__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The statewide strategic plan must
+include, without limitation, policies, procedures, best practices and
+recommendations for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-930__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Identifying, preventing and responding to
+threats to and attacks on the security of information systems in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-930__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Ensuring the safety of, and the continued
+delivery of essential services to, the people of this State in the event of a
+threat to or attack on the security of an information system in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-930__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Protecting the confidentiality of personal
+information that is stored on, transmitted to, from or through, or generated by
+an information system in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-930__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Investing in technologies, infrastructure and
+personnel for protecting the security of information systems; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-930__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Enhancing the voluntary sharing of
+information and any other collaboration among state agencies, local
+governments, agencies of the Federal Government and appropriate private
+entities regarding protecting the security of information systems.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-930__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The statewide strategic plan must be
+updated at least every 2 years.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-930__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A private entity may, in its
+discretion, make use of the information set forth in the statewide strategic
+plan.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-930__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Each agency of the State Government
+that has adopted a cybersecurity policy shall test the adherence of its
+employees to that policy on a periodic basis. Such an agency shall submit the
+results of the testing to the Office annually for consideration in the update
+of the statewide strategic plan.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1635; A2019,
+2474)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-932">
+          <num>480.932</num>
+          <heading>Office to prepare and submit quarterly and annual reports.</heading>
+          <subsection eId="480-932__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Office shall quarterly prepare and
+submit to the Governor a report assessing the preparedness of the State, as of
+the date of the report, to counteract, prevent and respond to potential
+cybersecurity threats. The report must be based on information and documents
+readily available to the Office.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-932__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Office shall annually prepare a
+report that includes, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-932__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A summary of the progress made by the Office
+during the previous year in executing, administering and enforcing the
+provisions ofNRS 480.900to480.950, inclusive, and performing such
+duties and exercising such powers as are conferred upon it pursuant toNRS 480.900to480.950, inclusive, and any other specific
+statute;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-932__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A general description of any threat during
+the previous year to the security of an information system that prompted the
+Administrator to convene a cybersecurity incident response team pursuant toNRS 480.928, and a summary of the response
+to the threat;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-932__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A summary of the goals and objectives of the
+Office for the upcoming year;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-932__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A summary of any issues presenting challenges
+to the Office; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-932__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any other information that the Administrator
+determines is appropriate to include in the report.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-932__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The report required pursuant to
+subsection 2 must be submitted not later than July 1 of each year to the
+Governor and to the Nevada Commission on Homeland Security created byNRS 239C.120.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1635; A2019,
+2475)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-935">
+          <num>480.935</num>
+          <heading>Political subdivisions required to adopt and maintain
+cybersecurity incident response plan; plan to be filed with Office;
+requirements for plan; confidentiality; exceptions; regulations.</heading>
+          <subsection eId="480-935__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each political subdivision shall adopt
+and maintain a cybersecurity incident response plan. Each new or revised plan
+must be filed within 10 days after adoption or revision with the Office.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-935__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Office shall, by regulation,
+prescribe the contents of a cybersecurity incident response plan, which must
+include, without limitation, a plan:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-935__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To prepare for a cybersecurity threat;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-935__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To detect and analyze a cybersecurity threat;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-935__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>To contain, eradicate and recover from a
+cybersecurity incident; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-935__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For postincident activity that includes a
+discussion regarding information learned and any analytics associated with the
+cybersecurity incident.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-935__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Each political subdivision shall review
+its cybersecurity incident response plan at least once each year and, as soon
+as practicable after the review is completed but not later than December 31 of
+each year, file with the Office:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-935__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any revised cybersecurity incident response
+plan resulting from the review; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-935__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A written certification that the most recent
+cybersecurity incident response plan filed pursuant to this subsection or
+subsection 1 is the current cybersecurity incident response plan for the
+political subdivision.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-935__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 239.0115, a cybersecurity incident
+response plan filed pursuant to the requirements of this section, including any
+revisions adopted thereto, is confidential and must be securely maintained by
+the Office. An officer, employee or other person to whom the plan is entrusted
+by the Office shall not disclose the contents of such a plan except:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="480-935__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon the lawful order of a court of competent
+jurisdiction;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-935__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>As is reasonably necessary in the case of an
+act of terrorism or related emergency; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="480-935__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Pursuant to the provisions ofNRS 239.0115.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="480-935__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>As used in this section, ï¿½political
+subdivisionï¿½ means a city or county of this State.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+2472)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-940">
+          <num>480.940</num>
+          <heading>Confidentiality of certain records.</heading>
+          <subsection eId="480-940__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any record of a state agency, including
+the Office, or a local government, including, without limitation, a record
+obtained from a private entity, which identifies the detection of, the
+investigation of or a response to a suspected or confirmed threat to or attack
+on the security of an information system is not a public record and may be
+disclosed by the Administrator only to another state agency or local
+government, a cybersecurity incident response team appointed pursuant toNRS 480.928and appropriate law enforcement
+or prosecuting authorities and only for the purposes of preparing for and
+mitigating risks to, and otherwise protecting, the security of information
+systems or as part of a criminal investigation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-940__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Office shall not require any
+private entity to provide any information or data that, in the sole discretion
+of the private entity, would compromise any information system of the private
+entity if such information or data were made public.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1636; A2019,
+2475)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_480-950">
+          <num>480.950</num>
+          <heading>Regulations.</heading>
+          <subsection eId="480-950__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Office may adopt any regulations
+necessary to carry out the provisions ofNRS
+480.900to480.950, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="480-950__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Every state agency shall, to the extent
+practicable, comply with the provisions of any regulations adopted by the
+Office pursuant toNRS 480.900to480.950, inclusive.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1636)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

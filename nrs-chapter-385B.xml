@@ -1,0 +1,1539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-385B"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-385B"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="385B"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-385B/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-385B/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-385B/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-385B/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_385B">
+        <num>385B</num>
+        <heading>NEVADA INTERSCHOLASTIC</heading>
+        <section eId="sec_385B-010">
+          <num>385B.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 385B.015to385B.045, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+2141; A2017,
+728;2019,
+271;2023,
+3384)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-015">
+          <num>385B.015</num>
+          <heading>ï¿½Child of a military familyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Child
+of a military familyï¿½ has the meaning ascribed to it inNRS 388F.010.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+271)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-017">
+          <num>385B.017</num>
+          <heading>Out-of-school activityï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Out-of-school
+activityï¿½ means an activity that is not associated with a school, including,
+without limitation, a club team or athletic camp or program.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+3382)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-020">
+          <num>385B.020</num>
+          <heading>ï¿½Pupilï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Pupilï¿½
+means a student of a school or a child that receives instruction at home and is
+excused from compulsory enrollment and attendance pursuant toNRS 392.070.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+2141; A2023,
+1199)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-030">
+          <num>385B.030</num>
+          <heading>ï¿½Sanctioned sportï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Sanctioned
+sportï¿½ means any athletic competition that is approved by the Nevada
+Interscholastic Activities Association.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+2141)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-040">
+          <num>385B.040</num>
+          <heading>ï¿½Schoolï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Schoolï¿½
+means any school that is affiliated with or is a member of the Nevada
+Interscholastic Activities Association.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+2141)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-045">
+          <num>385B.045</num>
+          <heading>ï¿½Zone of attendanceï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Zone
+of attendanceï¿½ means the zone established by the board of trustees of a school
+district pursuant toNRS 388.040to
+designate which school within the district a pupil must attend.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+728)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-050">
+          <num>385B.050</num>
+          <heading>Formation; composition; purposes; board members; terms.</heading>
+          <subsection eId="385B-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The county school district trustees may
+form a nonprofit association, to be known as the Nevada Interscholastic
+Activities Association, composed of all of the school districts of the State
+for the purposes of controlling, supervising and regulating all interscholastic
+athletic events and other interscholastic events in the public schools. This
+section does not prohibit a public school, which is authorized by the
+Association to do so, from joining an association formed for similar purposes
+in another state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="385B-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any board formed to govern the Nevada
+Interscholastic Activities Association must include at least three members who
+are parents or guardians of pupils who participate in a sanctioned sport. Of
+the members who are parents or guardians of pupils who participate in a
+sanctioned sport:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="385B-050__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>At least one member must be a resident of a
+county whose population is 700,000 or more;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-050__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>At least one member must be a resident of a
+county whose population is 100,000 or more but less than 700,000;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-050__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>At least one member must be a resident of a
+county whose population is less than 100,000; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-050__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Each member must not be an employee of or an
+immediate family member of an employee of a school district, charter school or
+private school.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="385B-050__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any advisory board formed to advise a
+governing board of the Nevada Interscholastic Activities Association must
+include at least three members who are pupils currently participating in a
+sanctioned sport. Of the members who are pupils currently participating in a
+sanctioned sport:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="385B-050__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>At least one member must be a resident of a
+county whose population is 700,000 or more;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-050__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>At least one member must be a resident of a
+county whose population is 100,000 or more but less than 700,000;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-050__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>At least one member must be a resident of a
+county whose population is less than 100,000; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-050__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Each member must not be an employee of or an
+immediate family member of an employee of a school district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="385B-050__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The terms of each member of a board
+formed to govern the Nevada Interscholastic Activities Association who is a
+parent or guardian of a pupil who participates in a sanctioned sport and each
+pupil who is a member of an advisory board to such a governing board must be
+consistent in duration with the terms of other members of the applicable board
+and be served in full-year increments during any year that a pupil who is a
+member or a pupil whose parent or guardian is a member participates in one or
+more sanctioned sports.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+316; A1989,
+689;2005,
+2824;2021,
+3401)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-060">
+          <num>385B.060</num>
+          <heading>Adoption of rules and regulations in manner provided by Nevada
+Administrative Procedure Act; safety standards for spirit squads;
+qualifications for coaches of spirit squads; consultation with Homeschool
+Advisory Councils required under certain circumstances.</heading>
+          <subsection eId="385B-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Nevada Interscholastic Activities
+Association shall adopt rules and regulations in the manner provided for state
+agencies bychapter 233Bof NRS as may be
+necessary to carry out the provisions of this chapter. The regulations must
+include provisions governing the eligibility and participation of homeschooled
+children in interscholastic activities and events. In addition to the
+regulations governing eligibility, a homeschooled child who wishes to
+participate must have on file with the school district in which the child
+resides a current notice of intent of a homeschooled child to participate in
+programs and activities pursuant toNRS
+388D.070.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="385B-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Nevada Interscholastic Activities
+Association shall adopt regulations setting forth:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="385B-060__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The standards of safety for each event,
+competition or other activity engaged in by a spirit squad of a school that is
+a member of the Nevada Interscholastic Activities Association, which must
+substantially comply with the spirit rules of the National Federation of State
+High School Associations, or its successor organization; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-060__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The qualifications required for a person to
+become a coach of a spirit squad.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="385B-060__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Nevada Interscholastic
+Activities Association intends to adopt, repeal or amend a policy, rule or
+regulation concerning or affecting homeschooled children, the Association shall
+consult with the Northern Nevada Homeschool Advisory Council and the Southern
+Nevada Homeschool Advisory Council, or their successor organizations, to
+provide those Councils with a reasonable opportunity to submit data, opinions
+or arguments, orally or in writing, concerning the proposal or change. The
+Association shall consider all written and oral submissions respecting the
+proposal or change before taking final action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="385B-060__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½spirit squadï¿½
+means any team or other group of persons that is formed for the purpose of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="385B-060__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Leading cheers or rallies to encourage
+support for a team that participates in a sport that is sanctioned by the
+Nevada Interscholastic Activities Association; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-060__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Participating in a competition against
+another team or other group of persons to determine the ability of each team or
+group of persons to engage in an activity specified in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-060__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+316; A2003,
+2959;2005,
+2824;2007,
+1513,3029;2013,
+538;2015,
+1833,2142;2019,
+3279)—(Substituted in revision for NRS 386.430)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-065">
+          <num>385B.065</num>
+          <heading>Authorization to allow certain pupils to participate in
+sanctioned sport or other interscholastic event at different school; payment of
+costs associated with such participation.</heading>
+          <subsection eId="385B-065__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Nevada Interscholastic Activities
+Association may, by regulation, allow a pupil who is enrolled in a charter
+school, private school, parochial school or public school to participate in a
+sanctioned sport or other interscholastic event at a public school that offers
+the sanctioned sport or other interscholastic event if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="385B-065__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The charter school, private school, parochial
+school or public school enrolls not more than 30 pupils collectively in grades
+9, 10, 11 and 12 during a school year;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-065__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The pupil resides in the school district or
+zone of attendance in which the public school is located or, if the pupil does
+not reside in that school district or zone of attendance, the pupil may
+participate in a sanctioned sport or other interscholastic event at a public
+school which is located nearest to the residence of the pupil or which is
+specified in regulations adopted by the Association;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-065__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The sanctioned sport or other interscholastic
+event is not offered at the charter school, private school, parochial school or
+public school in which the pupil is enrolled; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-065__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The board of trustees of the school district
+in which the public school is located approves the participation of the pupil
+in the sanctioned sport or other interscholastic event at the public school.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="385B-065__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the board of trustees of a school
+district approves the participation of a pupil in a sanctioned sport or other
+interscholastic event at a public school located within the school district
+pursuant to paragraph</p>
+            </content>
+            <paragraph eId="385B-065__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of subsection 1, the board of trustees may negotiate,
+contract for or otherwise require the payment of any costs associated with the
+participation of the pupil in the sanctioned sport or other interscholastic
+event pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="385B-065__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The provisions of this section do not
+limit or otherwise affect:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="385B-065__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The authority of a board of trustees of a
+school district relating to any public school or pupil enrolled in a public
+school in the school district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-065__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The authority of the Association relating to
+any school or pupil enrolled in a school.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-065__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The ability of a pupil who is enrolled in a
+charter school to participate in sports at a public school pursuant toNRS 388A.474.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+728)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-070">
+          <num>385B.070</num>
+          <heading>Rules and regulations to include criteria for staging of
+all-star game and participation of all-star team.</heading>
+          <subsection eId="385B-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The staging of an all-star game,
+contest or meet by any other organization; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="385B-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The participation of an all-star team
+in a game, contest or meet regardless of whether the game, contest or meet is
+approved by any other organization.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+538)—(Substituted in revision for NRS 386.433)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-080">
+          <num>385B.080</num>
+          <heading>Adoption of regulations prescribing policy for prevention and
+treatment of injuries to the head which may occur during or affect
+participation; requirements of policy; compilation of educational information
+on injuries to the head; annual acknowledgment of policy by parent and pupil;
+posting of policy; review of policy.</heading>
+          <subsection eId="385B-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Nevada Interscholastic Activities
+Association shall, in cooperation with the Superintendent of Public Instruction
+and the Chief Medical Officer, adopt regulations prescribing a policy
+concerning the prevention and treatment of injuries to the head which may occur
+during or otherwise affect a pupilï¿½s participation in interscholastic
+activities and events, including, without limitation, a concussion of the
+brain. The policy must provide information concerning the nature and risk of
+injuries to the head which may occur during a pupilï¿½s participation in
+interscholastic activities and events, including, without limitation, the risks
+associated with continuing to participate in the activity or event after
+sustaining such an injury.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="385B-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The policy adopted pursuant to
+subsection 1 must require that if a pupil has or sustains or is suspected of
+having or sustaining an injury to the head while participating in an
+interscholastic activity or event, the pupil:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="385B-080__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Must be immediately removed from the activity
+or event; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-080__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May return to the activity or event if the
+parent or legal guardian of the pupil provides a signed statement of a provider
+of health care acting within his or her scope of practice indicating that the
+pupil is medically cleared for participation in the activity or event and the
+date on which the pupil may return to the activity or event.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="385B-080__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Nevada Interscholastic Activities
+Association shall compile educational information on the prevention and
+treatment of injuries to the head, including, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="385B-080__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Information about injuries to the head,
+including, without limitation, traumatic brain injuries and concussions of the
+brain;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-080__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The procedure to be followed after an injury
+to the head or a suspected injury to the head of a pupil is sustained,
+including, without limitation, any procedure in the policy adopted pursuant to
+subsection 1 to determine when a pupil may return to full participation in any
+interscholastic activity or event;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-080__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The symptoms that a pupil who has sustained
+an injury to the head is likely to exhibit and the manner in which such
+symptoms are likely to subside over time; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-080__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The recommended care and accommodations for a
+pupil who has sustained or is suspected to have sustained a concussion or other
+injury to the head and the resources for identifying the proper care and
+accommodations for a specific pupil.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="385B-080__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Before a pupil participates in an
+interscholastic activity or event, and on an annual basis thereafter, the
+Nevada Interscholastic Activities Association shall ensure that the pupil and
+his or her parent or legal guardian:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="385B-080__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Are provided with a copy of the policy
+adopted pursuant to subsection 1; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-080__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Sign a statement on a form prescribed by the Nevada
+Interscholastic Activities Association acknowledging that the pupil, if
+capable, and his or her parent or guardian understand:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="385B-080__subsec_4__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>That injuries to the head may occur
+during the participation of a pupil in interscholastic activities and events;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="385B-080__subsec_4__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The risks associated with
+participating in an activity or event in which a pupil may sustain an injury to
+the head;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="385B-080__subsec_4__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The risks associated with continuing
+to participate in an activity or event after a pupil has sustained an injury to
+the head; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="385B-080__subsec_4__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>That the policy adopted pursuant to
+subsection 1 and the educational information compiled pursuant to subsection 3
+are available on the Internet website maintained by the Nevada Interscholastic
+Activities Association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="385B-080__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Nevada Interscholastic Activities
+Association shall post the policy adopted pursuant to subsection 1 and the
+educational information compiled pursuant to subsection 3 on the Internet
+website of the Nevada Interscholastic Activities Association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="385B-080__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>At least once every 5 years, the Nevada
+Interscholastic Activities Association shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="385B-080__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Review the policy adopted pursuant to
+subsection 1 and the information compiled pursuant to subsection 3; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-080__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Update the policy and information to reflect
+current best practices in the prevention and treatment of injuries to the head.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="385B-080__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>As used in this section, ï¿½provider of
+health careï¿½ means a physician or physician assistant licensed underchapter 630or633of NRS, an advanced practice registered nurse licensed underchapter 632of NRS, a physical therapist licensed
+underchapter 640of NRS or an athletic
+trainer licensed underchapter 640Bof NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2011,
+785; A2019,
+138;2023,
+1363)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-090">
+          <num>385B.090</num>
+          <heading>Procedures for review of disputes; stay of decision pending
+courtï¿½s final judgment prohibited.</heading>
+          <subsection eId="385B-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The rules and regulations of the Nevada
+Interscholastic Activities Association adopted pursuant toNRS 385B.060must provide for adequate
+review procedures to determine and review disputes arising in regard to the
+Associationï¿½s decisions and activities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="385B-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A decision of the Nevada
+Interscholastic Activities Association or a decision of a person designated by
+the Association to review and make final decisions on disputes on behalf of the
+Association pursuant to the rules and regulations adopted pursuant toNRS 385B.060must not be stayed by a
+court pending the courtï¿½s final judgment on the matter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+316; A2005,
+2824;2007,
+1040)—(Substituted in revision for NRS 386.440)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-100">
+          <num>385B.100</num>
+          <heading>Pupils and schools authorized to appeal final decision or order
+to Executive Director; appointment and duties of hearing officer; posting of
+summary of appeal.</heading>
+          <subsection eId="385B-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any pupil or school that is aggrieved
+by a final decision or order made pursuant to a regulation adopted by the
+Nevada Interscholastic Activities Association by:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="385B-100__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An administrator of a school district who is
+responsible for interpreting and enforcing the regulations adopted by the
+Nevada Interscholastic Activities Association;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-100__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A panel of principals chosen from schools
+located in a school district; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-100__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Executive Director,
+ï¿½may file a
+written appeal with the Executive Director. The Executive Director shall
+appoint a hearing officer to review the decision or order that is the subject
+of the appeal.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="385B-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A hearing officer appointed pursuant to
+subsection 1 shall issue a decision or order in writing and shall cause a copy
+of the decision or order to be served on each party to the appeal or counsel
+for the party. The decision or order must include a summary of the appeal that
+includes:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="385B-100__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A statement of the relevant facts;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-100__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A statement of the issues presented and the
+opposing arguments of the parties;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-100__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An analysis of the arguments; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-100__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The conclusion of the hearing officer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="385B-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Not later than 10 days after the
+issuance of the decision or order of the hearing officer, the Executive
+Director shall cause a copy of the summary required by subsection 2 to be
+posted on the Internet website of the Nevada Interscholastic Activities
+Association. The summary must be redacted as necessary to prevent the
+identification of any person involved in the appeal who is less than 18 years
+of age, which information is confidential. The redacted summary is a public
+record and must be open to public inspection as provided inNRS 239.010.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="385B-100__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½Executive
+Directorï¿½ means the Executive Director of the Nevada Interscholastic Activities
+Association.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+2141)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-110">
+          <num>385B.110</num>
+          <heading>Membership of charter schools, private schools and parochial
+schools.</heading>
+          <content>
+            <p>The rules and regulations
+adopted by the Nevada Interscholastic Activities Association must provide for
+the membership of charter schools, private schools and parochial schools which
+may elect to join the Association.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+316; A1999,
+3291;2005,
+2824)—(Substituted in revision for NRS 386.450)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-120">
+          <num>385B.120</num>
+          <heading>Applicability of regulations and requirements to charter
+schools, private schools and parochial schools.</heading>
+          <content>
+            <p>If
+a charter school, private school or parochial school elects to become a member
+of the Nevada Interscholastic Activities Association, the school is subject to
+the same regulations and requirements and is liable for the same fees and
+charges as other schools within the Association.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+316; A1999,
+3291;2005,
+2824)—(Substituted in revision for NRS 386.460)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-130">
+          <num>385B.130</num>
+          <heading>Rules and regulations governing eligibility of pupil who
+transfers schools apply equally to public schools and private schools;
+eligibility of pupil who is child of military family that transfers schools.</heading>
+          <subsection eId="385B-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any rules and regulations adopted by
+the Nevada Interscholastic Activities Association governing the eligibility of
+a pupil who transfers from one school to another school to participate in an
+interscholastic activity or event must apply equally to public schools and to
+private schools that are members of the Association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="385B-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Notwithstanding any provision of law to
+the contrary, a pupil who is a child of a military family and transferred
+schools pursuant to the provisions ofchapter
+388Fof NRS is immediately eligible to participate and practice in any
+sanctioned sport or other interscholastic activity or event at the school to
+which the pupil transfers.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+2142; A2019,
+271)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-140">
+          <num>385B.140</num>
+          <heading>Eligibility of pupil enrolled in grade 9 to participate and
+practice in sanctioned sport at public or private school.</heading>
+          <subsection eId="385B-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A public school and who resides within
+the zone of attendance of the public school at the time of enrollment is
+immediately eligible to participate and practice in a sanctioned sport at the
+public school, regardless of whether the pupil:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="385B-140__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Resided in a different zone of attendance
+before the pupilï¿½s enrollment in grade 9; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-140__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Attended a school other than a public school
+before the pupilï¿½s enrollment in grade 9.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="385B-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A private school is immediately
+eligible to participate and practice in a sanctioned sport at the private
+school, regardless of whether the pupil attended a school other than a private
+school before the pupilï¿½s enrollment in grade 9.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+2142; A2017,
+728)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-145">
+          <num>385B.145</num>
+          <heading>Eligibility of pupil who attended school in another country as
+foreign exchange student to participate in sanctioned sport.</heading>
+          <subsection eId="385B-145__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, if a pupil who attended a school in another country as a foreign
+exchange student upon return enrolls in the same school attended before
+attending school in another country, the Nevada Interscholastic Activities
+Association shall hold the pupil harmless for purposes of determining
+eligibility to participate in a sanctioned sport so that the pupil may
+participate in a sanctioned sport to the same extent as though he or she had
+not attended school in another country, including, without limitation, not
+considering the period during which the pupil was attending school in the other
+country and waiving any eligibility requirements that may otherwise prevent the
+pupil from participating in a sanctioned sport solely because of the
+circumstances caused by attending school in another country as a foreign
+exchange student.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="385B-145__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of this section do not
+apply to a pupil described in subsection 1 who exceeds the age allowed for
+participation in a sanctioned sport.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+278)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-150">
+          <num>385B.150</num>
+          <heading>Participation by homeschooled children in interscholastic
+activities and events; applicability of provisions to homeschooled children.</heading>
+          <subsection eId="385B-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A homeschooled child must be allowed to
+participate in interscholastic activities and events in accordance with the
+regulations adopted by the Nevada Interscholastic Activities Association
+pursuant toNRS 385B.060if a notice
+of intent of a homeschooled child to participate in programs and activities is
+filed for the child with the school district in which the child resides for the
+current school year pursuant toNRS
+388D.070.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="385B-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of this chapter and the
+regulations adopted pursuant thereto that apply to pupils enrolled in public
+schools who participate in interscholastic activities and events apply in the
+same manner to homeschooled children who participate in interscholastic
+activities and events, including, without limitation, provisions governing:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="385B-150__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Eligibility and qualifications for
+participation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-150__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Fees for participation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-150__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Insurance;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-150__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Transportation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-150__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Requirements of physical examination;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-150__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Responsibilities of participants;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-150__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Schedules of events;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-150__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Safety and welfare of participants;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-150__subsec_2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Eligibility for awards, trophies and medals;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-150__subsec_2__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>Conduct of behavior and performance of
+participants; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-150__subsec_2__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>Disciplinary procedures.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2959; A2005,
+2824;2007,
+3029;2015,
+1834,2143;2019,
+3280)—(Substituted in revision for NRS 386.462)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-160">
+          <num>385B.160</num>
+          <heading>Limitation on challenges based upon participation by
+homeschooled children and certain children of military families.</heading>
+          <content>
+            <p>No challenge may be brought by the Nevada
+Interscholastic Activities Association, a school district, a public school or a
+private school, a parent or guardian of a pupil enrolled in a public school or
+a private school, a pupil enrolled in a public school or private school, or any
+other entity or person claiming that an interscholastic activity or event is
+invalid because homeschooled children or children of a military family who
+transferred schools pursuant to the provisions ofchapter
+388Fof NRS are allowed to participate in the interscholastic activity or
+event.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2959; A2005,
+2825;2015,
+1835;2019,
+271,3280)—(Substituted
+in revision for NRS 386.463)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-170">
+          <num>385B.170</num>
+          <heading>Limitation on adoption of regulations and rules by school
+districts and schools concerning eligibility and participation of homeschooled
+children and certain children of military families.</heading>
+          <subsection eId="385B-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Eligibility of homeschooled children or
+children of a military family who transferred schools pursuant to the
+provisions ofchapter 388Fof NRS to
+participate in interscholastic activities and events pursuant to this chapter;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="385B-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Participation of homeschooled children
+or children of a military family who transferred schools pursuant to the
+provisions ofchapter 388Fof NRS in
+interscholastic activities and events pursuant to this chapter,
+ï¿½that are
+more restrictive than the provisions governing eligibility and participation
+prescribed by the Nevada Interscholastic Activities Association pursuant toNRS 385B.060and385B.130.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2959; A2005,
+2825;2015,
+1835;2019,
+271,3281)—(Substituted
+in revision for NRS 386.464)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-180">
+          <num>385B.180</num>
+          <heading>Requests to join similar association in another state.</heading>
+          <content>
+            <p>The rules and regulations of the Nevada
+Interscholastic Activities Association must provide criteria for the approval
+of requests made by public schools for authorization to join an interscholastic
+activity association formed in another state.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+689; A2005,
+2825)—(Substituted in revision for NRS 386.465)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-190">
+          <num>385B.190</num>
+          <heading>Determination of liability of Association and public school
+belonging to similar association in another state.</heading>
+          <subsection eId="385B-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any liability or action against the
+Nevada Interscholastic Activities Association must be determined in the same
+manner and with the same limitations and conditions as provided inNRS 41.0305to41.039, inclusive. To this extent, the
+Association shall be deemed a political subdivision of the State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="385B-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any liability or action against a
+public school which is a member of an association for interscholastic
+activities formed in another state must be determined in the same manner and
+with the same limitations and conditions as provided inNRS 41.0305to41.039, inclusive. To this extent, the
+public school shall be deemed a political subdivision of the State.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+317; A1987,
+97;1989,
+689;2005,
+2825)—(Substituted in revision for NRS 386.470)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-200">
+          <num>385B.200</num>
+          <heading>Prohibition against required participation in out-of-school
+activity; disciplinary action; adoption of regulations.</heading>
+          <subsection eId="385B-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A coach, manager or other person
+associated with a sanctioned sport or spirit squad at a school shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="385B-200__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Condition qualification for a team or
+acceptance of a pupil as a member of a team for the sanctioned sport or spirit
+squad on the participation of the pupil in an out-of-school activity; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-200__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Otherwise compel the participation of a pupil
+in an out-of-school activity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="385B-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a person violates subsection 1, the
+Executive Director of the Nevada Interscholastic Activities Association may
+prohibit the person from coaching, managing or otherwise being associated with
+a sanctioned sport or spirit squad at a school for not more than 1 year from
+the date on which the person was found to have violated subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="385B-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Nevada Interscholastic Activities
+Association shall adopt:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="385B-200__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Regulations prescribing a system of
+progressive discipline for violations ofNRS
+385B.210or385B.220that ends in
+the permanent prohibition on a person who has committed such violations being
+associated with a sanctioned sport or spirit squad at a school.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-200__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any other regulations necessary to carry out
+the provisions of this section andNRS
+385B.210and385B.220.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="385B-200__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½spirit squadï¿½
+includes, without limitation, any cheer, student, dance, drill, pom or mascot
+group of a school that is authorized to participate in interscholastic
+activities and events pursuant toNRS
+385B.065.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+3382)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-210">
+          <num>385B.210</num>
+          <heading>Submission of required reports on participation in out-of-school
+activity.</heading>
+          <subsection eId="385B-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>On or before July 1 of each year, each
+coach, manager or other person who is associated with a sanctioned sport or
+spirit squad shall submit a report to the Executive Director of the Nevada
+Interscholastic Activities Association that includes information about whether
+the coach, manager or other person also coaches, manages or is otherwise
+associated with an out-of-school activity related to the same sanctioned sport
+or spirit squad at the school. The report must include, for the immediately
+preceding school year:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="385B-210__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The name of the person;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-210__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The number of pupils who:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="385B-210__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Are members of a team that
+participates in a sanctioned sport or spirit squad at the school and is coached
+or managed by the person, or with whom the person is otherwise associated; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="385B-210__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Participate in an out-of-school activity
+related to the sanctioned sport or spirit squad that is coached or managed by
+the person, or with whom the person is otherwise associated;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="385B-210__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The number of pupils who:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="385B-210__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Tried out for a team that participates
+in a sanctioned sport or spirit squad at the school and is coached or managed
+by the person, or with whom the person is otherwise associated;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="385B-210__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Were not accepted as a member of that
+team or spirit squad; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="385B-210__subsec_1__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Do not participate in an out-of-school
+activity related to the sanctioned sport or spirit squad that is coached or
+managed by the person, or with whom the person is otherwise associated;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="385B-210__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The number of pupils who:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="385B-210__subsec_1__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Tried out for a team that participates
+in a sanctioned sport or spirit squad at the school and is coached or managed
+by the person, or with whom the person is otherwise associated;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="385B-210__subsec_1__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Were accepted as a member of that team
+or spirit squad; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="385B-210__subsec_1__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Do not participate in an out-of-school
+activity related to the sanctioned sport or spirit squad that is coached or
+managed by the person, or with whom the person is otherwise associated;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="385B-210__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The percentage of pupils on a team that
+participates in a sanctioned sport or spirit squad at the school that is
+coached or managed by the person, or with whom the person is otherwise
+associated, who also participate in an out-of-school activity that is coached
+or managed by the person, or with whom the person is otherwise associated; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-210__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Any other information required by the Nevada
+Interscholastic Activities Association to ensure compliance with subsection 1
+ofNRS 385B.200.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="385B-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Nevada Interscholastic
+Activities Association requires the use of an electronic system for the
+registration of pupils to participate in a sanctioned sport or spirit squad or
+coaches, managers or other persons who are associated with a sanctioned sport
+or spirit squad, the Nevada Interscholastic Activities Association must provide
+for the submission of the report required pursuant to subsection 1 and the
+provision of notice pursuant toNRS
+385B.220through the electronic system.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="385B-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½spirit squadï¿½
+includes, without limitation, any cheer, student, dance, drill, pom or mascot
+group of a school that is authorized to participate in interscholastic
+activities or events pursuant toNRS
+385B.065.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+3382)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_385B-220">
+          <num>385B.220</num>
+          <heading>Required notice regarding participation in out-of-school
+activity; form.</heading>
+          <subsection eId="385B-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Before a pupil participates in a
+sanctioned sport or other interscholastic activity or event at a school, and
+annually thereafter, the coach, manager or director of the sanctioned sport or
+other interscholastic activity or event shall notify each participating pupil
+and his or her parent or legal guardian of the rights of the pupil while the
+pupil is participating in the sanctioned sport or other interscholastic
+activity or event, including, where applicable, that a person may not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="385B-220__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Compel the participation of the pupil in an
+out-of-school activity; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="385B-220__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Condition qualification for a team or
+acceptance of the pupil as a member of a team that participates in a sanctioned
+sport or spirit squad at the school on participation of the pupil in an
+out-of-school activity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="385B-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Nevada Interscholastic Activities
+Association shall prescribe the form and contents of the notice required to be
+provided to a pupil pursuant to subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="385B-220__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½spirit squadï¿½
+includes, without limitation, any cheer, student, dance, drill, pom or mascot
+group of a school that is authorized to participate in interscholastic
+activities or events pursuant toNRS
+385B.065.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+3383)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-348A"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-348A"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="348A"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-348A/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-348A/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-348A/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-348A/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_348A">
+        <num>348A</num>
+        <heading>ISSUANCE OF PRIVATE</heading>
+        <section eId="sec_348A-010">
+          <num>348A.010</num>
+          <heading>Definitions.</heading>
+          <subsection eId="348A-010__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Councilï¿½ means the Private Activity
+Bond Council created byNRS 348A.050.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="348A-010__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½Directorï¿½ means the Director of the
+Department of Business and Industry.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="348A-010__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>ï¿½Private activity bondï¿½ has the meaning
+ascribed to it in 26 U.S.C. ï¿½ 141.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="348A-010__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>ï¿½State ceilingï¿½ has the meaning
+ascribed to it in 26 U.S.C. ï¿½ 146</p>
+            </content>
+            <paragraph eId="348A-010__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="348A-010__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>ï¿½Volume capï¿½ has the meaning ascribed
+to it in 26 U.S.C. ï¿½ 146</p>
+            </content>
+            <paragraph eId="348A-010__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="348A-010__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+479; A1993,
+1569;2019,
+2431)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_348A-020">
+          <num>348A.020</num>
+          <heading>Determination of aggregate face amount of bonds.</heading>
+          <subsection eId="348A-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The volume cap for the Director is, for
+any calendar year, 50 percent of the state ceiling for that year, subject to
+augmentation or diminution in accordance with any regulation adopted pursuant
+toNRS 348A.040.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="348A-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The volume cap for any local government
+in this state is, for any calendar year, an amount which bears the same ratio
+to 50 percent of the state ceiling for that year as the population of that
+local government bears to the population of the entire state, subject to
+augmentation or diminution in accordance with any regulation adopted pursuant
+toNRS 348A.040.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+479)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_348A-030">
+          <num>348A.030</num>
+          <heading>Director or designee may make required certification.</heading>
+          <content>
+            <p>The Director or any officer or employee of the
+State designated in writing by the Governor or the Director may make the
+certification required by 26 U.S.C. ï¿½ 149(e)(2)(F).</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+479)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_348A-040">
+          <num>348A.040</num>
+          <heading>Regulations.</heading>
+          <subsection eId="348A-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Procedures by which volume caps may be
+augmented or diminished within the state ceiling for any calendar year;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="348A-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Requirements for the timely use or
+reversion of the volume cap for any local government; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="348A-040__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Provisions by which the Director, any
+local government or any agency of this or any other state may share or use any
+available volume cap.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+479)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_348A-050">
+          <num>348A.050</num>
+          <heading>Private Activity Bond Council: Creation; Chair; membership;
+terms; vacancies; compensation, allowances and expenses of members; members
+holding public office or employed by governmental entity; meetings; quorum;
+administrative support.</heading>
+          <subsection eId="348A-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Private Activity Bond Council is
+hereby created.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="348A-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Council consists of seven members
+as follows:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="348A-050__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Director, or his or her designee, who
+shall serve as Chair of the Council;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="348A-050__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Executive Director of the Office of
+Economic Development, or his or her designee;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="348A-050__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>One member who is a member of the Senate
+appointed by the Legislative Commission;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="348A-050__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>One member who is a member of the Assembly
+appointed by the Legislative Commission;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="348A-050__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>One member appointed by the Nevada League of
+Cities;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="348A-050__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>One member appointed by the Nevada
+Association of Counties; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="348A-050__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>One member who has experience in financing
+affordable housing projects appointed by the Director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="348A-050__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An appointed member of the Council
+serves a term of 2 years and until his or her successor is appointed. An
+appointed member may be reappointed for additional terms of 2 years in the same
+manner as the original appointment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="348A-050__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A vacancy in the appointed membership
+of the Council must be filled in the same manner as the original appointment
+for the remainder of the unexpired term.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="348A-050__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Each member of the Council:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="348A-050__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Serves without compensation; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="348A-050__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>While engaged in the business of the Council,
+is entitled to receive the per diem allowance and travel expenses provided for
+state officers and employees generally.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="348A-050__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A member of the Council who is an
+officer or employee of this State or a political subdivision of this State must
+be relieved from his or her duties without loss of regular compensation to
+prepare for and attend meetings of the Council and perform any work necessary
+to carry out the duties of the Council in the most timely manner practicable. A
+state agency or political subdivision of this State shall not require an
+officer or employee who is a member of the Council to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="348A-050__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Make up the time he or she is absent from
+work to carry out his or her duties as a member of the Council; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="348A-050__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Take annual leave or compensatory time for
+the absence.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="348A-050__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The Council shall meet at the call of
+the Chair as frequently as required to perform its duties, but not less than
+twice each year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="348A-050__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>A majority of the voting members of the
+Council constitutes a quorum for the transaction of business, and a majority of
+a quorum present at any meeting is sufficient for any official action taken by
+the Council.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="348A-050__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>The Department of Business and Industry
+shall provide the Council with administrative support.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+2430)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_348A-060">
+          <num>348A.060</num>
+          <heading>Private Activity Bond Council: Duties.</heading>
+          <subsection eId="348A-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Receive and consider the annual report
+concerning housing submitted by the Advisory Committee on Housing, created byNRS 319.174;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="348A-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Advise the Governor, the State Board of
+Finance or the Director on the allocation of the state ceiling for the issuance
+of private activity bonds during any calendar year; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="348A-060__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon request, advise the Governor, the
+State Board of Finance or the Director on any other matter concerning private
+activity bonds.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+2431)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

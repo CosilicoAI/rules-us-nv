@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-532"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-532"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="532"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-532/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-532/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-532/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-532/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_532">
+        <num>532</num>
+        <heading>STATE ENGINEER</heading>
+        <section eId="sec_532-005">
+          <num>532.005</num>
+          <heading>Tribal governmentï¿½ defined.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, ï¿½tribal
+governmentï¿½ means a federally recognized American Indian tribe pursuant to 25
+C.F.R. ï¿½ï¿½ 83.1 to 83.12, inclusive.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+58)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-010">
+          <num>532.010</num>
+          <heading>Office created.</heading>
+          <content>
+            <p>The
+Office of the State Engineer is hereby created.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1:108:1919; A1949,
+450; 1943 NCL ï¿½ 7390]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-020">
+          <num>532.020</num>
+          <heading>Appointment.</heading>
+          <content>
+            <p>The
+State Engineer is appointed by and responsible to the Director of the State Department
+of Conservation and Natural Resources.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1:108:1919; A1949,
+450; 1943 NCL ï¿½ 7390]—(NRS A1957,
+652;1987,
+1311)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-030">
+          <num>532.030</num>
+          <heading>Qualifications.</heading>
+          <content>
+            <p>No
+person may be appointed as State Engineer who is not a licensed professional
+engineer pursuant to the provisions ofchapter 625of NRS and who does not have such training in hydraulic and general engineering
+and such practical skill and experience as shall fit that person for the
+position.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1:108:1919; A1949,
+450; 1943 NCL ï¿½ 7390]—(NRS A1997,
+1069)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-040">
+          <num>532.040</num>
+          <heading>Oath.</heading>
+          <content>
+            <p>Before
+entering upon the duties of his or her office, the State Engineer shall take
+and subscribe to an official oath, such as is provided by law for state
+officers, before a person authorized by the law of this State to administer
+oaths.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [12:140:1913; 1919 RL p. 3227; NCL ï¿½ 7900]—(NRS A1959,
+552;1975,
+347)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-060">
+          <num>532.060</num>
+          <heading>Classification; restrictions on other employment.</heading>
+          <subsection eId="532-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Engineer is in the
+unclassified service of the State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 284.143, the State Engineer shall
+devote his or her entire time and attention to the business of the Office of
+the State Engineer and shall not pursue any other business or occupation or
+hold any other office of profit.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [31:295:1953; A1955,
+525]—(NRS A1959,
+552;1960,
+396;1964,
+2;1965,
+706;1967,
+1501;1971,
+1440;1981,
+1283;1995,
+2316)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-070">
+          <num>532.070</num>
+          <heading>Location of office.</heading>
+          <content>
+            <p>The
+State Engineer shall keep his or her office at the State Capital.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [17:140:1913; A1949,
+102; 1943 NCL ï¿½ 7904] + [Part 1:108:1919; A1949,
+450; 1943 NCL ï¿½ 7390]—(NRS A2003,
+1452;2011,
+324)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-080">
+          <num>532.080</num>
+          <heading>Seal.</heading>
+          <subsection eId="532-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Engineer is empowered and
+directed to procure for the Office of the State Engineer a seal upon which
+shall appear his or her official title and such other suitable inscription as
+the State Engineer may deem proper.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The seal shall be affixed to all
+official permits, certificates and other documents issued by the State Engineer
+under the provisions of law.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [74:140:1913; 1919 RL p. 3244; NCL ï¿½ 7960]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-090">
+          <num>532.090</num>
+          <heading>Appointment of technical, clerical and operational staff;
+persons appointed to conduct snow surveys exempted from state human resources
+system.</heading>
+          <subsection eId="532-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Engineer may, with the
+consent of the Director of the State Department of Conservation and Natural
+Resources, appoint such technical, clerical and operational staff as the
+execution of the duties of the State Engineer and the operation of the Division
+may require.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Snow survey personnel appointed for the
+purposes ofNRS 532.170are exempt from
+the provisions ofchapter 284of NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:108:1919; A1929,
+143;1949,
+450; 1943 NCL ï¿½ 7391]—(NRS A1957,
+653;1959,
+552;1963,
+71;1985,
+434)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-100">
+          <num>532.100</num>
+          <heading>Expenses.</heading>
+          <content>
+            <p>The State
+Engineer may purchase such material and incur such expenses for traveling and
+other purposes as may be necessary for the proper conduct and maintenance of
+the Office of the State Engineer, to be paid from the moneys which may be
+appropriated for such purposes from time to time, as other state claims are
+paid.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:108:1919; A1929,
+143;1949,
+450; 1943 NCL ï¿½ 7391]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-110">
+          <num>532.110</num>
+          <heading>General duties.</heading>
+          <content>
+            <p>The
+State Engineer shall perform such duties as are or may be prescribed by law and
+the Director of the State Department of Conservation and Natural Resources.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:108:1919; A1929,
+143;1949,
+450; 1943 NCL ï¿½ 7391]—(NRS A1957,
+653)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-120">
+          <num>532.120</num>
+          <heading>Rules and regulations; regulations governing contests.</heading>
+          <subsection eId="532-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Engineer may make such
+reasonable rules and regulations as may be necessary for the proper and orderly
+execution of the powers conferred by law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Engineer may adopt
+regulations, not in conflict with law, governing the practice and procedure in
+all contests before the Office of the State Engineer, to ensure the proper and
+orderly exercise of the powers granted by law, and the speedy accomplishment of
+the purposes ofchapters 533,534,535and536of NRS. Such rules of practice and procedure
+must be furnished to any person upon application therefor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [31:140:1913; 1919 RL p. 3232; NCL ï¿½ 7918] +
+[86:140:1913; 1919 RL p. 3248; NCL ï¿½ 7972]—(NRS A2007,
+2014)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-130">
+          <num>532.130</num>
+          <heading>Power to administer oaths.</heading>
+          <content>
+            <p>The
+State Engineer and his or her authorized assistants may administer such oaths
+as may be necessary in the performance of their official duties.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [16:140:1913; 1919 RL p. 3227; NCL ï¿½ 7903]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-140">
+          <num>532.140</num>
+          <heading>Reports.</heading>
+          <content>
+            <p>The State
+Engineer shall prepare and deliver to the Director of the State Department of
+Conservation and Natural Resources at such times as may be required by the
+Director, a full report of the work of the Office of the State Engineer,
+including a detailed statement of the expenditures thereof, with such
+recommendations as the State Engineer may deem advisable.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [14:140:1913; 1919 RL p. 3227; NCL ï¿½ 7901]—(NRS A1959,
+552)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-150">
+          <num>532.150</num>
+          <heading>Records: Public inspection; certified copies as evidence.</heading>
+          <subsection eId="532-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The records of the Office of the State
+Engineer are public records and shall remain on file in the Office of the State
+Engineer and be open to the inspection of the public at all times during
+business hours.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Such records shall show in full all
+maps, profiles and engineering data relating to the use of water.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-150__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Certified copies thereof shall be
+admissible as evidence in all cases where the original would be admissible as
+evidence.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [15:140:1913; 1919 RL p. 3227; NCL ï¿½ 7902]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-160">
+          <num>532.160</num>
+          <heading>Duties of Attorney General and district attorneys.</heading>
+          <content>
+            <p>The Attorney General and the district attorney
+of the county in which legal questions arise shall be the legal advisers of the
+State Engineer and shall perform any and all legal duties necessary in
+connection with their work without any further compensation than their salaries
+fixed by law.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [78:140:1913; 1919 RL p. 3246; NCL ï¿½ 7964]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-165">
+          <num>532.165</num>
+          <heading>Duties: Studies and inventories; review of governmental
+proposals for flood control and water development projects; program to map
+water rights.</heading>
+          <subsection eId="532-165__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Conduct necessary studies and
+inventories.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-165__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Review and evaluate proposals by
+federal, state and local agencies for flood control and water development
+projects to ensure that such proposals are compatible with the state water
+resource plan and are in compliance with Nevada water laws.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-165__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Within the limits of legislative
+appropriations, implement a program to map water rights statewide on a
+geographic information system.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+239; A1977,
+1171;1995,
+2685)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-167">
+          <num>532.167</num>
+          <heading>Duties: Water budget and inventory.</heading>
+          <subsection eId="532-167__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The total amount of groundwater
+appropriated in the basin in accordance with decreed, certified and permitted
+rights regardless of whether the water appropriations are temporary in nature;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-167__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An estimate of the amount of groundwater
+used by domestic wells in the basin; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-167__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An estimate of the amount of all
+groundwater that is available for appropriation in the basin.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+3497)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-170">
+          <num>532.170</num>
+          <heading>Agreements concerning use and development of water resources.</heading>
+          <subsection eId="532-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Subject to the provisions of subsection
+2 and with the approval of the Director of the State Department of Conservation
+and Natural Resources, the State Engineer, for and on behalf of the State of
+Nevada, is authorized to enter into agreements with the United States
+Geological Survey, the United States Soil Conservation Service, and any state
+agency, subdivision or institution having jurisdiction in such matters, for
+cooperation in making stream measurements, underground water studies, snow
+surveys, or any investigations related to the development and use of the water
+resources of Nevada.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The expenses of such investigations and
+surveys shall be divided between the parties upon an equitable basis.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:117:1945; 1943 NCL ï¿½ 8259]—(NRS A1959,
+553)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-175">
+          <num>532.175</num>
+          <heading>Agreements concerning cooperative management of groundwater
+basins shared between states.</heading>
+          <content>
+            <p>The
+State Engineer, after a public hearing on the issue and with the approval of
+the Director of the State Department of Conservation and Natural Resources, for
+and on behalf of the State of Nevada, is authorized to enter into agreements
+with neighboring states or their political subdivisions concerning cooperative
+management of groundwater basins shared between the states.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+108)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-180">
+          <num>532.180</num>
+          <heading>Cooperation with United States and California relative to waters
+of Lake Tahoe and adjacent areas.</heading>
+          <content>
+            <p>With
+the approval of the Director of the State Department of Conservation and
+Natural Resources, the State Engineer, for and on behalf of the State of
+Nevada, is authorized to cooperate with the United States Government and the
+State of California in making a study of the various problems pertaining to the
+future needs and uses of the waters of Lake Tahoe in the area adjacent thereto,
+and, if it appears that at some future period there may be a shortage of water,
+to study ways and means of developing a supplemental water supply so that the
+development of the area will not be impeded and existing water rights not
+jeopardized.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:173:1947; 1943 NCL ï¿½ 7392.04]—(NRS A1959,
+553)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-200">
+          <num>532.200</num>
+          <heading>Adjudication Emergency Account.</heading>
+          <subsection eId="532-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>For the purpose of advancing and paying
+for stenographic work and transcripts required by law or order of court, or for
+the costs, witness fees or expenses incurred by or upon the authority of the
+Attorney General and the State Engineer in any litigation affecting any order
+of determination adjudicating the waters of any system of streams in this
+state, there is hereby created the Adjudication Emergency Account in the State
+General Fund. All money returned pursuant to subsection 3 andNRS 533.190until those returns total an
+amount determined by the State Board of Examiners must be deposited in this
+Account, and thereafter the Account must be maintained for the purposes
+designated in this section. If the balance in the Adjudication Emergency
+Account exceeds the amount determined by the State Board of Examiners, that
+portion of the balance in the Account which exceeds the amount determined by
+the State Board of Examiners must be deposited in the State General Fund. If
+the balance in the Adjudication Emergency Account is below the amount
+determined by the State Board of Examiners, the State Engineer may request an
+allocation from the Contingency Account pursuant toNRS 353.266,353.268and353.269.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>No part of the Adjudication Emergency
+Account may be used in the payment of attorneyï¿½s fees.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The State of Nevada shall recover all
+costs paid or advanced pursuant to the provisions of this section, and the
+money recovered must be placed in the Adjudication Emergency Account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-200__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>All expenditures from the Adjudication
+Emergency Account must be paid as other claims against the State are paid.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:136:1927; NCL ï¿½ 8251] + [2:136:1927; NCL ï¿½ 8252] +
+[3:136:1927; NCL ï¿½ 8253]—(NRS A1979,
+114;1985,
+720;1991,
+1781;2001,
+2774)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-210">
+          <num>532.210</num>
+          <heading>Water Distribution Revolving Account.</heading>
+          <subsection eId="532-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The fund created pursuant to the
+provisions of chapter 232, Statutes of Nevada 1931, and chapter 23, Statutes of
+Nevada 1943, is hereby continued as a revolving account within the State
+General Fund, for the purposes set forth inNRS
+533.270to533.295, inclusive, and
+for the purposes set forth in the provisions ofchapters
+534,535and536of NRS pertaining to the conservation and distribution of waters.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The money in the Water Distribution
+Revolving Account may be used for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="532-210__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The payment of state water commissionersï¿½ and
+assistant state water commissionersï¿½ salaries and expenses.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="532-210__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The payment of salaries and expenses of other
+employees engaged in the work of the distribution of waters or streams that are
+directly under the supervision of the State Engineer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="532-210__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The payment of expenses necessarily incurred
+by the state water commissioners in the distribution of water.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="532-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The money in the Water Distribution
+Revolving Account, or so much thereof as is necessary, may be used by the State
+Engineer for the uses and purposes of, and in the administration of the
+provisions of,chapter 534of NRS pertaining
+to the conservation and distribution of underground waters.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:232:1931; A1943,
+34; 1943 NCL ï¿½ 8255] + [2:232:1931; A1943,
+34; 1943 NCL ï¿½ 8255.01]—(NRS A1979,
+666;1991,
+1781)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-220">
+          <num>532.220</num>
+          <heading>Channel Clearance, Maintenance, Restoration, Surveying and Monumenting
+Program: Establishment; administration; purpose; grant qualification; immunity
+of state, local and tribal governments; refund of certain fees; certain permits
+not to be denied for lack of money.</heading>
+          <subsection eId="532-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Channel Clearance, Maintenance,
+Restoration, Surveying and Monumenting Program is hereby established and must
+be administered by the State Engineer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>This Program is to aid local
+governments and tribal governments in this State in the clearance, maintenance,
+restoration, surveying and monumenting of navigable rivers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-220__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any incorporated city, county, other
+political subdivision of this State or tribal government in this State may
+apply to the State Engineer for a grant under this Program if the incorporated
+city, county, other political subdivision or tribal government requesting the
+money agrees to match the state grant equally.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-220__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The State, its departments, divisions
+and agencies, an incorporated city, a county, all other political subdivisions
+of this State and tribal governments in this State, and their employees and
+agents, are immune from civil liability for damages caused by an alteration or
+disturbance of a riverbed or flooding sustained as a result of any act or
+omission by an employee or agent in clearing or causing to be cleared,
+maintaining or restoring a channel of a river pursuant to this section if the
+channel is cleared, maintained or restored pursuant to a permit granted by the
+Division of State Lands of the State Department of Conservation and Natural
+Resources and such other permits and approvals as are required by law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-220__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Division of State Lands and the
+Division of Environmental Protection of the State Department of Conservation
+and Natural Resources shall refund the application or permit fees, if any, paid
+by a governmental entity to apply for a state permit to perform channel
+clearance, maintenance, restoration, surveying and monumenting if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="532-220__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The governmental entity applies for the
+applicable permits from the Division of State Lands and from the Division of
+Environmental Protection of the State Department of Conservation and Natural
+Resources;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="532-220__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The governmental entity obtains all other
+permits and approvals as are required by law;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="532-220__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The governmental entity applies for a grant
+pursuant to subsection 3; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="532-220__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The grant is denied for lack of money in the
+Account for the Channel Clearance, Maintenance, Restoration, Surveying and
+Monumenting Program after:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="532-220__subsec_5__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The State Engineer requests an
+allocation from the Contingency Account pursuant to subsection 4 ofNRS 532.230; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="532-220__subsec_5__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>An allocation from the Contingency
+Account is not made within 90 days after the request is made.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="532-220__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A state permit must not be denied for
+lack of money in the Account for the Channel Clearance, Maintenance,
+Restoration, Surveying and Monumenting Program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-220__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>As used in this section, ï¿½navigable
+riverï¿½ means a river or stream that is used, or is susceptible of being used,
+in its ordinary condition for trade or travel in the customary modes of trade
+or travel on rivers or streams.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+821; A1979,
+114;1985,
+305;1989,
+1692;1993,
+112;1997,
+2221;1999,
+1240;2023,
+58)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_532-230">
+          <num>532.230</num>
+          <heading>Account for the Channel Clearance, Maintenance, Restoration,
+Surveying and Monumenting Program.</heading>
+          <subsection eId="532-230__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Account for the Channel Clearance,
+Maintenance, Restoration, Surveying and Monumenting Program is hereby created
+in the State General Fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-230__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The money in the Account must be
+administered by the State Engineer and must be expended only to aid local
+governments or tribal governments in the manner provided inNRS 532.220.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-230__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the balance in the Account is below
+$250,000, the State Engineer may request an allocation from the Contingency
+Account pursuant toNRS 353.266,353.268and353.269.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="532-230__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the balance in the Account is not
+sufficient to provide a grant of money to an incorporated city, a county, a
+political subdivision of this State or a tribal government in this State, the
+State Engineer shall request an allocation from the Contingency Account
+pursuant toNRS 353.266,353.268and353.269.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+865; A1997,
+2222;1999,
+1241;2023,
+59)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

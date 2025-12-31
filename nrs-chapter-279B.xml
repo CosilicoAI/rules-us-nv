@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-279B"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-279B"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="279B"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-279B/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-279B/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-279B/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-279B/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_279B">
+        <num>279B</num>
+        <heading>REHABILITATION OF ABANDONED</heading>
+        <section eId="sec_279B-010">
+          <num>279B.010</num>
+          <heading>Legislative findings and declarations.</heading>
+          <subsection eId="279B-010__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>There exists within the urban areas of
+this State a large number of deteriorated, substandard and unsanitary
+residential properties which have been abandoned by their owners;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="279B-010__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>These properties are a threat to the
+health, safety and well-being of the persons occupying neighboring properties;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="279B-010__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>There is also a shortage of decent,
+safe and affordable housing for persons of low or moderate income and the
+counties and cities of this State have an obligation to provide such persons
+with an opportunity to obtain residential property;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="279B-010__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>It is in the public interest to
+encourage the preservation and maintenance of housing in this State for persons
+of low or moderate income, in order to improve their living conditions and, in
+doing so, to benefit the health, safety and welfare of the people of this
+State; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="279B-010__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The provisions of this chapter are in
+addition to, and do not abrogate or limit the application of, any other
+provisions of law granting to a county or city the authority to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="279B-010__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Develop affordable housing; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="279B-010__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Rehabilitate abandoned residential
+properties.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+189; A2005,
+1305)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_279B-020">
+          <num>279B.020</num>
+          <heading>Definitions.</heading>
+          <subsection eId="279B-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Abandoned residential propertyï¿½ means
+residential property which has been:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="279B-020__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Acquired by the governing body pursuant to
+the provisions ofNRS 361.603or
+subsection 3 ofNRS 279B.100, or by a
+grant from the Federal Government, the state government or any political
+subdivision of the State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="279B-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Declared to have been abandoned by the
+Federal Government, the state government or the governing body; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="279B-020__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Determined by the governing body to be in
+need of rehabilitation because of its deteriorated, substandard or unsanitary
+condition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="279B-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½Affordable housingï¿½ has the meaning
+ascribed to it inNRS 278.0105.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="279B-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>ï¿½Agencyï¿½ means an agency of a county or
+city established or designated to administer a program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="279B-020__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>ï¿½Governing bodyï¿½ means the governing
+body of a county or city.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="279B-020__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>ï¿½Programï¿½ means a program for the
+rehabilitation of abandoned residential properties established by a governing
+body pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="279B-020__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>ï¿½Rehabilitationï¿½ includes structural
+improvements, landscaping and any other measure to improve the appearance of
+property or maintain property in a decent, safe and sanitary condition.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+189; A2019,
+1414)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_279B-030">
+          <num>279B.030</num>
+          <heading>County or city may establish program; contents of ordinance.</heading>
+          <subsection eId="279B-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The governing body of a county or city
+may adopt an ordinance establishing a program for the rehabilitation of
+abandoned residential properties in that county or city.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="279B-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The ordinance must contain provisions:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="279B-030__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Establishing an agency, or designating an
+existing agency, of the county or city to administer the program;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="279B-030__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Setting forth the criteria for determining
+the eligibility of an applicant for the rehabilitation of abandoned residential
+property; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="279B-030__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Establishing such other requirements for
+participation in the program as the governing body considers necessary.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+190)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_279B-040">
+          <num>279B.040</num>
+          <heading>Qualifications for rehabilitation.</heading>
+          <subsection eId="279B-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An applicant for rehabilitation of
+abandoned residential property must, at the time application is made:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="279B-040__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be a natural person who:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="279B-040__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Is a resident of the city or an
+unincorporated area of the county, as the case may be;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="279B-040__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Is a member of a household having a
+gross income of less than 120 percent of the median gross income for households
+of the same size residing in the same county or city, as applicable, as that
+percentage is defined by the United States Department of Housing and Urban
+Development;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="279B-040__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Intends to reside on the abandoned
+residential property for which the rehabilitation is sought;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="279B-040__subsec_1__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Has the financial resources to rehabilitate
+the abandoned residential property in accordance with the terms of the
+agreement;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="279B-040__subsec_1__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Has the ability to complete the
+rehabilitation within a reasonable time and maintain the property in a decent,
+safe and sanitary condition; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="279B-040__subsec_1__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Meets such other requirements as are
+imposed by the governing body; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="279B-040__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Be an organization that:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="279B-040__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Is recognized as exempt pursuant to 26
+U.S.C. ï¿½ 501</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="279B-040__subsec_1__subsec_c">
+              <num>(c)</num>
+              <subparagraph eId="279B-040__subsec_1__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>or 501</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="279B-040__subsec_1__subsec_c">
+              <num>(c)</num>
+              <subparagraph eId="279B-040__subsec_1__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="279B-040__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Provides affordable housing to natural
+persons who meet the criteria set forth in subparagraphs</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="279B-040__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="279B-040__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of
+paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="279B-040__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="279B-040__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Has the financial resources to
+rehabilitate the abandoned residential property in accordance with the terms of
+the agreement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="279B-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any abandoned residential property for
+which an application for the rehabilitation is sought must be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="279B-040__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Entirely situated within the boundaries of
+the city or within an unincorporated area of the county, as the case may be;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="279B-040__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Capable of rehabilitation within reasonable
+limits; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="279B-040__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Subject to not more than two encumbrances.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+190; A2005,
+1305;2019,
+1414)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_279B-050">
+          <num>279B.050</num>
+          <heading>Agency to inspect property and interview applicant for
+rehabilitation; recommendation to governing body.</heading>
+          <subsection eId="279B-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon receiving an application for
+rehabilitation of abandoned residential property, the agency shall inspect the
+property to determine if rehabilitation of the property is feasible.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="279B-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>After inspection of the property, the
+agency shall interview the applicant or, if the applicant is an organization
+described in paragraph</p>
+            </content>
+            <paragraph eId="279B-050__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 ofNRS 279B.040, the representative of the
+organization, to determine if the applicant satisfies the criteria for
+eligibility for the rehabilitation of abandoned residential property and, if
+the applicant satisfies those criteria, the terms and conditions of the agreement
+to rehabilitate the property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="279B-050__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The agency shall recommend to the
+governing body the terms and conditions of the agreement.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+190; A2005,
+1306)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_279B-060">
+          <num>279B.060</num>
+          <heading>Written agreement for rehabilitation: Contents; transfer of
+title or sale of property to applicant upon completion or substantial
+compliance.</heading>
+          <subsection eId="279B-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the governing body approves the
+application for the rehabilitation of an abandoned residential property, the
+written agreement entered between the county or city and the applicant must
+identify the property and specify:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="279B-060__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>That the property must be rehabilitated for
+decent, safe and sanitary residential use;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="279B-060__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The terms and conditions of the
+rehabilitation of the property, including the period within which the
+rehabilitation must begin and be completed; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="279B-060__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>That the rehabilitation must be performed to
+the satisfaction of the governing body.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="279B-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the applicant completes the
+rehabilitation of the property in compliance with all terms and conditions of
+the agreement to the satisfaction of the governing body, the governing body
+must convey title to the property to the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="279B-060__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the applicant substantially complies
+with the terms and conditions of the agreement but fails to complete the rehabilitation
+of the property in full compliance with all terms and conditions of the
+agreement to the satisfaction of the governing body, the governing body must
+offer to sell the property to the applicant for a price not to exceed the fair
+market value of the property as it existed before the applicant began any
+rehabilitation of the property.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+190)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_279B-070">
+          <num>279B.070</num>
+          <heading>Duties of natural person or organization to whom title to
+property is transferred.</heading>
+          <subsection eId="279B-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A natural person to whom title to
+abandoned residential property is conveyed pursuant to this chapter shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="279B-070__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Maintain the property in a decent, safe and
+sanitary condition; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="279B-070__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Reside on the property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="279B-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An organization to which title to
+abandoned residential property is conveyed pursuant to this chapter shall
+maintain the property in a decent, safe and sanitary condition.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+190; A2005,
+1306)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_279B-080">
+          <num>279B.080</num>
+          <heading>Agency to provide advice and technical assistance; access to
+property required; deficiencies in maintenance of property.</heading>
+          <subsection eId="279B-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>During the rehabilitation of the
+abandoned property, the agency shall provide such advice and technical
+assistance as may be reasonably requested.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="279B-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The applicant for rehabilitation of
+abandoned residential property shall permit representatives of the agency, the
+governing body and, if state or federal assistance is involved, the State or
+Federal Government, to have access to the property during normal business hours
+to ensure compliance with this chapter and with the provisions of the agreement
+for rehabilitation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="279B-080__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the agency discovers deficiencies in
+the maintenance of the property during any inspection, it shall advise the
+applicant in the proper methods of correcting those deficiencies.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+190)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_279B-090">
+          <num>279B.090</num>
+          <heading>Preference to applicants with low income and applicants that are
+organizations which serve natural persons with low income; conditions.</heading>
+          <subsection eId="279B-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Applicants who are members of
+households having a gross income that is 50 percent or less of the median gross
+income for households of the same size within the same geographic area; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="279B-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Applicants that are organizations which
+serve natural persons described in subsection 1.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+191; A2005,
+1306)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_279B-100">
+          <num>279B.100</num>
+          <heading>Powers of governing body.</heading>
+          <subsection eId="279B-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Establish a panel of contractors who
+have agreed to provide continuing maintenance at a discount to properties
+rehabilitated pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="279B-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Use for the purposes of this chapter
+any money made available to it for housing for persons having low or moderate
+incomes under state or federal law, if permitted by the terms of the state or
+federal law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="279B-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Accept gifts, grants and bequests of
+property for the purposes of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+191)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

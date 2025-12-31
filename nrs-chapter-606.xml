@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-606"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-606"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="606"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-606/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-606/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-606/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-606/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_606">
+        <num>606</num>
+        <heading>DIRECTORY OF NEWLY HIRED</heading>
+        <section eId="sec_606-010">
+          <num>606.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words defined
+inNRS 606.020to606.060, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2345)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_606-020">
+          <num>606.020</num>
+          <heading>ï¿½Business dayï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Business
+dayï¿½ has the meaning ascribed to it in 42 U.S.C. ï¿½ 653a(g)(3).</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2345)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_606-030">
+          <num>606.030</num>
+          <heading>ï¿½Departmentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Departmentï¿½
+means the Department of Employment, Training and Rehabilitation.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2345)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_606-040">
+          <num>606.040</num>
+          <heading>ï¿½Divisionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Divisionï¿½
+means the Employment Security Division of the Department.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2345)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_606-050">
+          <num>606.050</num>
+          <heading>ï¿½Employeeï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Employeeï¿½
+has the meaning ascribed to it in 42 U.S.C. ï¿½ 653a(a)(2)(A).</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2345)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_606-060">
+          <num>606.060</num>
+          <heading>ï¿½Employerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Employerï¿½
+has the meaning ascribed to it in 42 U.S.C. ï¿½ 653a(a)(2)(B).</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2345)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_606-100">
+          <num>606.100</num>
+          <heading>Establishment of directory: Division of Welfare and Supportive
+Services and Department of Health and Human Services to provide information to
+certain agencies.</heading>
+          <subsection eId="606-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Within 3 business days after the date
+information regarding a newly hired employee is entered into the directory
+established pursuant to subsection 1, the Division of Welfare and Supportive
+Services of the Department of Health and Human Services shall provide the
+information to the National Directory of New Hires established pursuant to 42
+U.S.C. ï¿½ 653</p>
+            </content>
+            <paragraph eId="606-100__subsec_2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="606-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Each calendar quarter, the Department
+shall submit to the United States Secretary of Health and Human Services the
+information required by the Secretary pursuant to 42 U.S.C. ï¿½ 653a</p>
+            </content>
+            <paragraph eId="606-100__subsec_3__subsec_g">
+              <num>(g)</num>
+              <subparagraph eId="606-100__subsec_3__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>(B).
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="606-100__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Upon request, the Department shall
+provide the information included in the directory established pursuant to
+subsection 1 to the agencies described in 42 U.S.C. ï¿½ 653a</p>
+            </content>
+            <paragraph eId="606-100__subsec_4__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2345)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_606-110">
+          <num>606.110</num>
+          <heading>Department to provide information to Chief of Program for
+Enforcement of Child Support; Chief to compare information received from
+Department with information in state case registry.</heading>
+          <subsection eId="606-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Chief shall, pursuant to the
+provisions of 42 U.S.C. ï¿½ 653a</p>
+            </content>
+            <paragraph eId="606-110__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>, compare the information received pursuant to
+subsection 1 with the information contained in the state case registry
+established by the Division of Welfare and Supportive Services of the
+Department of Health and Human Services pursuant to 42 U.S.C. ï¿½ 654a.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2345)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_606-120">
+          <num>606.120</num>
+          <heading>Employer to provide Division with certain information concerning
+newly hired employees; Division to include in directory information received
+from employers; civil penalty for noncompliance.</heading>
+          <subsection eId="606-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Division shall include in the
+directory of newly hired employees the information received pursuant to this
+section within 5 business days after the receipt of the information.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="606-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In addition to any other penalty
+provided by law, the Division may adopt by regulation a civil penalty of less
+than $25 for an employer who fails to comply with the provisions of 42 U.S.C. ï¿½
+653a. Any such penalty must be imposed by the Division after notice and an
+opportunity for a hearing.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2345)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

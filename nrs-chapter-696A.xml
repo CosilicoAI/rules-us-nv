@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-696A"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-696A"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="696A"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-696A/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-696A/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-696A/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-696A/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_696A">
+        <num>696A</num>
+        <heading>MOTOR CLUBS</heading>
+        <section eId="sec_696A-010">
+          <num>696A.010</num>
+          <heading>Short title.</heading>
+          <content>
+            <p>This
+chapter constitutes and may be cited as the Motor Club Law.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1875)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-020">
+          <num>696A.020</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>Except
+where the context otherwise requires, the terms used in this chapter shall be
+given the meanings set forth inNRS
+696A.030to696A.070, inclusive,
+but such meaning shall not, merely by reason of the enactment ofNRS 696A.030to696A.070, inclusive, govern the
+interpretation of any other provision of this Code.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1876)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-030">
+          <num>696A.030</num>
+          <heading>Acts constituting service.</heading>
+          <content>
+            <p>Any
+act by a motor club for the purpose of rendering a service defined in this
+chapter constitutes such service, whether or not the service as defined is
+completed.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1876)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-040">
+          <num>696A.040</num>
+          <heading>ï¿½Club agentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Club
+agentï¿½ means a person other than the motor club itself who acts or aids in any
+manner in the solicitation, delivery or negotiation of any service contract, or
+of the renewal or continuance thereof.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1876)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-050">
+          <num>696A.050</num>
+          <heading>ï¿½Motor clubï¿½ defined.</heading>
+          <subsection eId="696A-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Such services as community traffic
+safety services, travel and touring service, theft or reward service, map
+service, towing service, buying and selling service, discount service,
+emergency road service, bail bond service and legal fee reimbursement service
+in the defense of traffic offenses, none of which enumerated services, if
+provided by motor club itself, shall be subject to the insurance laws of this
+state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The purchase of accidental injury and
+death benefits insurance coverage, as provided by applicable statutes, by an
+insurer authorized to do business in this state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-050__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Other features or services not deemed
+by the Commissioner to constitute the business of insurance.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1876)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-060">
+          <num>696A.060</num>
+          <heading>ï¿½Personï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Personï¿½
+is limited to any person who conducts a motor club business in this state.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1876; A1985,
+539)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-070">
+          <num>696A.070</num>
+          <heading>ï¿½Service contractï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Service
+contractï¿½ means a written contract whereby any person promises for a
+consideration to render, furnish or procure motor club service for any other
+person.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1876)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-080">
+          <num>696A.080</num>
+          <heading>Deposit and maintenance of security: Form; amount.</heading>
+          <subsection eId="696A-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person shall not render or agree to
+render motor club service without first depositing and thereafter continuously
+maintaining security in one of the following forms with the Commissioner:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="696A-080__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The sum of $100,000 in cash.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-080__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Securities approved by the Commissioner,
+having a market value of $100,000 and being of a type approved by the
+Commissioner and legal for investment by admitted insurers issuing
+nonassessable policies on a reserve basis.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-080__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A surety bond which complies withNRS 679B.175and is in the principal sum
+of $100,000, with an admitted surety insurer as surety.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="696A-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In lieu of the deposit required by
+subsection 1, a foreign or alien motor club may deposit evidence satisfactory
+to the Commissioner that it has on deposit with an officer of a state of the
+United States of America, authorized by the law of such state to accept such
+deposit:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="696A-080__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Securities which meet the requirements of
+paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-080__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 of at least a like amount for the benefit and
+security of all members and creditors of such motor club; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-080__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A surety bond, in the principal sum of
+$100,000, which meets the requirements ofNRS
+696A.090, issued by a bonding company authorized to do business in the State
+of Nevada and in the state where the bond is posted.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1877; A2021,
+2998)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-090">
+          <num>696A.090</num>
+          <heading>Purpose and conditions of security.</heading>
+          <subsection eId="696A-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Be for the protection, use and benefit
+of all persons whose applications for membership in a motor club have been
+accepted by such club or its representative.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Be subject to the following conditions
+and, if a bond, shall be so expressly conditioned:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="696A-090__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The club will faithfully furnish and render
+to such persons any and all of the motor club services sold or offered for sale
+by it.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-090__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The club will pay any fines, fees or penalties
+imposed upon it under or pursuant to this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1877)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-100">
+          <num>696A.100</num>
+          <heading>Persons authorized to sue on bond.</heading>
+          <content>
+            <p>If
+such bond or evidence that such bond is filed in another state is filed, any
+person defrauded or injured by any wrongful act, misrepresentation or failure
+on the part of a motor club with respect to the selling or rendering of any of
+its services may bring suit on such bond in the personï¿½s own name; but the
+aggregate liability of the surety for all such suits shall, in no event, exceed
+the sum of such bond.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1877)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-110">
+          <num>696A.110</num>
+          <heading>Deposit in lieu of bond: Conditions; execution on judgments
+against club.</heading>
+          <content>
+            <p>A deposit of cash or
+securities, in lieu of such bond, shall be subject to the conditions applying
+to the bond and is also subject to execution on judgments against the club.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1878)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-120">
+          <num>696A.120</num>
+          <heading>Name of club: Submission to Commissioner for approval; rejection
+of similar name.</heading>
+          <content>
+            <p>The name of a
+motor club shall be submitted to the Commissioner for approval pursuant toNRS 696A.140, before the commencement of
+business under the provisions of this chapter. The Commissioner may reject any
+name so submitted when the proposed name would interfere with the transactions
+of a motor club already doing business in this state or is so similar to one
+already appropriated as to confuse or is likely to mislead the public in any
+respect. In such case a name not liable to such objections shall be chosen.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1878)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-130">
+          <num>696A.130</num>
+          <heading>Rendering of motor club service without certificate of authority
+prohibited.</heading>
+          <content>
+            <p>A person shall not
+render or agree to render motor club service in this state without first
+procuring from the Commissioner a certificate of authority so to act.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1878)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-140">
+          <num>696A.140</num>
+          <heading>Certificate of authority: Application and documents; fees; bond;
+name approval.</heading>
+          <subsection eId="696A-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>It files with the Commissioner the
+following:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="696A-140__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A formal application for the certificate in
+such form and detail as the Commissioner requires, executed under oath by its
+president or other principal officer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-140__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A certified copy of its charter or articles
+of incorporation and its bylaws.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="696A-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>It pays to the Commissioner the
+following:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="696A-140__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The fee specified inNRS 680B.010for the filing of an
+application for the certificate;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-140__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The fee specified inNRS 680B.010for the issuance of the
+certificate; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-140__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In addition to any other fee or charge, all
+applicable fees required pursuant toNRS
+680C.110.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="696A-140__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>It deposits the required cash,
+securities, bond or evidence of such a deposit in another state as provided inNRS 696A.080with the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-140__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Its name is approved by the
+Commissioner pursuant toNRS 696A.120.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1878; A1987,
+471;1991,
+2206;2009,
+1822;2021,
+2999)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-150">
+          <num>696A.150</num>
+          <heading>Certificate of authority: Expiration; renewal; fees.</heading>
+          <content>
+            <p>Every certificate of authority issued to a
+motor club expires annually on March 1 unless it is revoked or suspended. The
+certificate may be renewed by paying to the Commissioner an annual fee for
+renewal of $500 before the expiration of the certificate and, in addition to
+any other fee or charge, all applicable fees required pursuant toNRS 680C.110.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1878; A1987,
+472;1991,
+1635;1993,
+614;2009,
+1822)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-160">
+          <num>696A.160</num>
+          <heading>Certificate of authority: Revocation or suspension; notice to
+public.</heading>
+          <subsection eId="696A-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner shall revoke or
+suspend the certificate of authority of a motor club whenever, after a hearing,
+the Commissioner finds in accordance with the procedure provided inNRS 679B.310to679B.370, inclusive, that any of the
+following circumstances exist:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="696A-160__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The club has violated any provision of this
+chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-160__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>It is insolvent.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-160__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Its assets are less than its liabilities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-160__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>It or its officers refuse to submit to an
+examination.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-160__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>It is transacting business fraudulently.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="696A-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall give notice of
+such revocation or suspension to the public in such manner as the Commissioner
+deems proper.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1879)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-170">
+          <num>696A.170</num>
+          <heading>Examination by Commissioner.</heading>
+          <subsection eId="696A-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every motor club shall be subject to
+examination by the Commissioner in the manner and under the conditions provided
+for examination of insurers contained inNRS
+679B.230to679B.290, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The expense of such examination shall
+be paid by the motor club.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1879)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-180">
+          <num>696A.180</num>
+          <heading>Commissioner required to be appointed attorney upon whom process
+may be served.</heading>
+          <subsection eId="696A-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every motor club desiring to transact
+business in this state shall file with the Commissioner a duly executed
+instrument whereby the motor club shall appoint and constitute the Commissioner
+and his or her successor or successors in office the true and lawful attorney
+of such motor club upon whom all lawful process in any action or legal
+proceeding against it on a contract issued or cause of action arising in this
+state may be served, and shall agree that any such lawful process against it
+which may be served upon its attorney as provided in this section shall be of
+the same force and validity as if served upon the motor club and that the
+authority thereof shall continue in force irrevocably so long as any liability
+of the motor club in the State remains outstanding. The fee for filing such
+power of attorney shall be $5.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Process authorized by such instrument
+or by any similar instrument executed prior to January 1, 1972, shall be served
+in the manner and under the conditions provided inNRS 680A.260.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1879)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-185">
+          <num>696A.185</num>
+          <heading>Annual filing requirements; fees and assessments; administrative
+penalty.</heading>
+          <subsection eId="696A-185__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every motor club shall file with the
+Commissioner on or before March 1 of each year a report which summarizes its
+activities for the preceding calendar year. The report must be verified by at
+least two officers of the motor club.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-185__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The report must be on a form prescribed
+by the Commissioner and must include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="696A-185__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A financial statement for the motor club,
+including its balance sheet and receipts and disbursements for the preceding
+calendar year;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-185__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any material changes in the information given
+in the previous report;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-185__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The number of members enrolled in the year;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-185__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The costs of all services provided for that
+year; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-185__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any other information relating to the motor
+club requested by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="696A-185__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The motor club must pay to the
+Commissioner all applicable fees.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-185__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Every motor club shall file with the
+Commissioner on or before June 1 of each year a financial statement of the
+motor club certified by an independent public accountant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-185__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Any motor club failing, without just
+cause beyond its reasonable control, to file timely the report or financial
+statement or to pay timely the fees as required by this section shall pay an
+administrative penalty of $100 per day until the report or statement is filed,
+except that the total penalty must not exceed $3,000. The Attorney General
+shall recover the penalty in the name of the State of Nevada.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-185__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A motor club is not exempt from the
+provisions ofNRS 679B.700.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+471; A1991,
+1635,2207;1993,
+613;2007,
+3331;2009,
+1823)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-190">
+          <num>696A.190</num>
+          <heading>Information for members; service contract.</heading>
+          <subsection eId="696A-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every motor club shall furnish to its
+members a service contract or a membership card and the following information:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="696A-190__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The exact name of the motor club;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-190__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The exact location of the motor clubï¿½s home
+office, and of its usual place of business in this state, giving street, number
+and city; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-190__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A description of the services or benefits to
+which the member is entitled.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="696A-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A completed application for membership
+and the description of services shall constitute the service contract.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1879)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-200">
+          <num>696A.200</num>
+          <heading>Approval of forms; revisions and modifications.</heading>
+          <subsection eId="696A-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>No motor club shall issue for delivery
+or deliver in this state any evidence of membership, or statement of services
+and benefits, or service contract until the form thereof has been filed with
+and approved in writing by the Commissioner. The Commissioner shall approve any
+such form found by the Commissioner to be in compliance with law and free of
+ambiguous, inequitable and misleading provisions.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Every motor club having met the
+requirements of subsection 1 shall thereafter file with the Commissioner every
+revision or modification of any document required in subsection 1. Such
+revision or modification shall be effective when filed and shall be deemed to
+meet the requirements of this chapter until disapproved by the Commissioner.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1880)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-210">
+          <num>696A.210</num>
+          <heading>Service contract: Required provisions.</heading>
+          <subsection eId="696A-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The exact corporate or other name of
+the club.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The exact location of its home office
+and of its usual place of business in this state, giving street number and
+city.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A provision that the contract may be
+cancelled at any time by either the club or the holder, and that the holder
+will, if the holder has actually paid the consideration, thereupon be entitled
+to the unused portion of the consideration paid for such contract, calculated
+on a pro rata basis over the period of the contract, without any deductions.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-210__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A provision plainly specifying:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="696A-210__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The services promised.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-210__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>That the holder will not be required to pay
+any sum, in addition to the amount specified in the contract, for any services
+thus specified.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-210__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The territory wherein such services are to be
+rendered.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-210__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The date when such service will commence.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="696A-210__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A statement in not less than 14-point
+modern type at the head of the contract stating, ï¿½This is not an insurance
+contract.ï¿½</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1880)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-220">
+          <num>696A.220</num>
+          <heading>Service contract: Solicitation for club without certificate of
+authority prohibited.</heading>
+          <content>
+            <p>A person
+shall not solicit or aid in the solicitation of another person to purchase a
+service contract issued by a club not having a certificate of authority
+procured pursuant to this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1880)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-230">
+          <num>696A.230</num>
+          <heading>Service contract: Misrepresentation of terms, benefits or
+privileges prohibited.</heading>
+          <content>
+            <p>A club or
+an officer or agent thereof shall not in any manner misrepresent the terms,
+benefits or privileges of any service contract issued or to be issued by it.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1881)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-240">
+          <num>696A.240</num>
+          <heading>Service contract: Contrary to provisions of chapter valid and
+binding.</heading>
+          <content>
+            <p>Any service contract
+made, issued or delivered contrary to any provision of this chapter, shall
+nevertheless be valid and binding on the club.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1881)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-250">
+          <num>696A.250</num>
+          <heading>License: Required to act as club agent.</heading>
+          <content>
+            <p>No
+person shall act as a club agent in this state without first procuring a
+license so to act from the Commissioner.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1881)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-260">
+          <num>696A.260</num>
+          <heading>License: Contents of application. [Effective until the date of
+the repeal of 42 U.S.C. ï¿½ 666, the federal law requiring each state to
+establish procedures for withholding, suspending and restricting the
+professional, occupational and recreational licenses for child support
+arrearages and for noncompliance with certain processes relating to paternity
+or child support proceedings.]</heading>
+          <subsection eId="696A-260__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An application for a license as a club
+agent must be submitted to the Commissioner upon forms prescribed and furnished
+by the Commissioner. If the applicant is a natural person, the application must
+include the social security number of the applicant. As a part of, or in
+connection with, any application, the applicant shall furnish information
+concerning his or her identity, personal history, experience, business record
+and other pertinent facts which the Commissioner may reasonably require.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-260__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the applicant is a firm, partnership
+or corporation, the application, in addition to the requirements of subsection
+1, shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="696A-260__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Contain the names of all members and officers
+of the firm, partnership or corporation; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-260__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Designate who is to exercise the powers to be
+conferred by the license on the firm, partnership or corporation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="696A-260__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner shall require each
+natural person of a firm, partnership or corporation to furnish information to
+the Commissioner as though applying for an individual license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-260__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Any person willfully misrepresenting
+any fact required to be disclosed in any application is subject to the
+penalties provided inNRS 696A.350.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1881; A1997,
+2206;1999,
+520,545)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-270">
+          <num>696A.270</num>
+          <heading>License: Conditions for issuance and renewal.</heading>
+          <subsection eId="696A-270__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Issue or renew any club agentï¿½s license
+except in compliance with this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-270__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Issue or renew any club agentï¿½s license
+to, or to be exercised by, any person found by the Commissioner to be
+untrustworthy or incompetent, or who has not established to the satisfaction of
+the Commissioner that the person is qualified therefor in accordance with this
+chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1881)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-280">
+          <num>696A.280</num>
+          <heading>License: Qualifications.</heading>
+          <subsection eId="696A-280__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Is at least 21 years of age.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-280__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Has been a bona fide resident of this
+state or is a resident of a state which will permit residents of this state to
+act as club agents in such other state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-280__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Is a trustworthy person with a good
+reputation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1882)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-290">
+          <num>696A.290</num>
+          <heading>License: Form and contents.</heading>
+          <subsection eId="696A-290__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The name of the licensee and the
+business address of the licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-290__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The date of issuance and the date of
+expiration.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-290__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The name of the represented motor club.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1882)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-300">
+          <num>696A.300</num>
+          <heading>License: Term; renewal; fees. [Effective until the date of the
+repeal of 42 U.S.C. ï¿½ 666, the federal law requiring each state to establish
+procedures for withholding, suspending and restricting the professional,
+occupational and recreational licenses for child support arrearages and for
+noncompliance with certain processes relating to paternity or child support
+proceedings.]</heading>
+          <subsection eId="696A-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each license for a club agent issued or
+renewed under this chapter continues in force for 3 years unless it is
+suspended, revoked or otherwise terminated. A license may be renewed upon
+submission of the statement required pursuant toNRS 696A.303and payment to the
+Commissioner of all applicable fees for renewal. The statement must be
+submitted and the fees must be paid on or before the renewal date for the
+license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any license not so renewed expires on
+the renewal date. The Commissioner may accept a request for renewal received by
+the Commissioner within 30 days after the expiration of the license if the request
+is accompanied by the statement required pursuant toNRS 696A.303, a fee for renewal of 150
+percent of all applicable fees otherwise required, except for any fee required
+pursuant toNRS 680C.110.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-300__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In addition to all applicable fees
+required pursuant toNRS 680C.110to
+be deposited in the Fund for Insurance Administration and Enforcement created
+byNRS 680C.100, the Commissioner
+shall collect in advance and deposit with the State Treasurer for credit to the
+State General Fund the fees specified inNRS
+680B.010for licensure as a club agent.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-300__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½renewal dateï¿½
+means:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="696A-300__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the first renewal of the license, the
+last day of the month which is 3 years after the month in which the
+Commissioner originally issued the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-300__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For each renewal after the first renewal of
+the license, the last day of the month which is 3 years after the month in
+which the license was last due to be renewed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1882; A1987,
+472;1989,
+527;1995,
+1103;1997,
+2206;2005,
+2159;2009,
+1823;2011,
+101;2015,
+2844;2021,
+2999)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-303">
+          <num>696A.303</num>
+          <heading>Payment of child support: Statement by applicant for license;
+grounds for denial of license; duty of Commissioner. [Effective until the date
+of the repeal of 42 U.S.C. ï¿½ 666, the federal law requiring each state to establish
+procedures for withholding, suspending and restricting the professional,
+occupational and recreational licenses for child support arrearages and for
+noncompliance with certain processes relating to paternity or child support
+proceedings.]</heading>
+          <subsection eId="696A-303__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A natural person who applies for the
+issuance or renewal of a club agentï¿½s license shall submit to the Commissioner
+the statement prescribed by the Division of Welfare and Supportive Services of
+the Department of Health and Human Services pursuant toNRS 425.520. The statement must be
+completed and signed by the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-303__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall include the
+statement required pursuant to subsection 1 in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="696A-303__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The application or any other forms that must
+be submitted for the issuance or renewal of the license; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-303__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A separate form prescribed by the
+Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="696A-303__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A club agentï¿½s license may not be
+issued or renewed by the Commissioner if the applicant is a natural person who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="696A-303__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Fails to submit the statement required
+pursuant to subsection 1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="696A-303__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Indicates on the statement submitted pursuant
+to subsection 1 that the applicant is subject to a court order for the support
+of a child and is not in compliance with the order or a plan approved by the
+district attorney or other public agency enforcing the order for the repayment
+of the amount owed pursuant to the order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="696A-303__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If an applicant indicates on the
+statement submitted pursuant to subsection 1 that the applicant is subject to a
+court order for the support of a child and is not in compliance with the order
+or a plan approved by the district attorney or other public agency enforcing
+the order for the repayment of the amount owed pursuant to the order, the
+Commissioner shall advise the applicant to contact the district attorney or
+other public agency enforcing the order to determine the actions that the
+applicant may take to satisfy the arrearage.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2205)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-307">
+          <num>696A.307</num>
+          <heading>Suspension of license for failure to pay child support or comply
+with certain subpoenas or warrants; reinstatement of license. [Effective until
+the date of the repeal of 42 U.S.C. ï¿½ 666, the federal law requiring each state
+to establish procedures for withholding, suspending and restricting the
+professional, occupational and recreational licenses for child support
+arrearages and for noncompliance with certain processes relating to paternity
+or child support proceedings.]</heading>
+          <subsection eId="696A-307__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Commissioner receives a copy of
+a court order issued pursuant toNRS 425.540that provides for the suspension of all professional, occupational and
+recreational licenses, certificates and permits issued to a person who has been
+issued a club agentï¿½s license, the Commissioner shall deem the license to be
+suspended at the end of the 30th day after the date on which the court order
+was issued unless the Commissioner receives a letter issued to the holder of
+the license by the district attorney or other public agency pursuant toNRS 425.550stating that the holder of the
+license has complied with the subpoena or warrant or has satisfied the
+arrearage pursuant toNRS 425.560.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-307__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall reinstate a club
+agentï¿½s license suspended by a district court pursuant toNRS 425.540if the Commissioner receives a
+letter issued by the district attorney or other public agency pursuant toNRS 425.550to the person whose license was
+suspended stating that the person whose license was suspended has complied with
+the subpoena or warrant or has satisfied the arrearage pursuant toNRS 425.560.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2206)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-310">
+          <num>696A.310</num>
+          <heading>Suspension or revocation of or refusal to renew license of club
+agent.</heading>
+          <content>
+            <p>The Commissioner may
+suspend, revoke or refuse to renew any club agentï¿½s license issued under this
+chapter for any cause specified in any other provision of this chapter, or for
+any of the same applicable grounds and in the manner provided for a producer of
+insurance inNRS 683A.451and683A.461.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1882; A2001,
+2251)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-320">
+          <num>696A.320</num>
+          <heading>Revocation, suspension or refusal of licenses of firms,
+partnerships or corporations.</heading>
+          <content>
+            <p>The
+club agentï¿½s license of any firm, partnership or corporation may be suspended,
+revoked or refused for any cause which relates to any individual designated in
+the license to exercise its powers.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1882)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-340">
+          <num>696A.340</num>
+          <heading>Applicability of chapter.</heading>
+          <subsection eId="696A-340__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A duly authorized attorney at law
+acting in the usual course of his or her profession.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-340__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any authorized insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-340__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any motor carrier association providing
+one or more of the services described inNRS
+696A.050to its members.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1883)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-350">
+          <num>696A.350</num>
+          <heading>Penalties.</heading>
+          <subsection eId="696A-350__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person violating the provisions ofNRS 696A.080to696A.110, inclusive, is guilty of a gross
+misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="696A-350__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any person violating any other
+provisions ofNRS 696A.010to696A.340, inclusive, other thanNRS 696A.080to696A.110, inclusive, is guilty of a
+misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1883)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_696A-360">
+          <num>696A.360</num>
+          <heading>Applicability of other provisions.</heading>
+          <content>
+            <p>Motor
+clubs are also subject, in the same manner as insurers, to the following
+provisions of this Code to the extent reasonably applicable:
+ï¿½ï¿½ï¿½ï¿½ï¿½ 1.Chapter
+679Aof NRS (scope and definitions);
+ï¿½ï¿½ï¿½ï¿½ï¿½ 2.Chapter
+679Bof NRS (Commissioner of Insurance);
+ï¿½ï¿½ï¿½ï¿½ï¿½ 3.NRS
+683A.400(fiduciary funds);
+ï¿½ï¿½ï¿½ï¿½ï¿½ 4.Chapter
+685Bof NRS (unauthorized insurers);
+ï¿½ï¿½ï¿½ï¿½ï¿½ 5.NRS
+686A.010to686A.310, inclusive
+(trade practices and frauds); and
+ï¿½ï¿½ï¿½ï¿½ï¿½ 6.Chapter
+696Bof NRS (delinquent insurers).</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1883; A2023,
+24)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

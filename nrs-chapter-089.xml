@@ -1,0 +1,2347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-89"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-89"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="89"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-89/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-89/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-89/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-89/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_89">
+        <num>89</num>
+        <heading>PROFESSIONAL ENTITIES AND</heading>
+        <section eId="sec_89-010">
+          <num>89.010</num>
+          <heading>Short title.</heading>
+          <content>
+            <p>This
+chapter is known and may be cited as the Professional Entities and Associations
+Act.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+865; A1969,
+519)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-020">
+          <num>89.020</num>
+          <heading>Definitions.</heading>
+          <subsection eId="89-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Articlesï¿½ means either the articles of
+incorporation of a professional corporation or the articles of organization of
+a professional limited-liability company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½Employeeï¿½ means a person licensed or
+otherwise legally authorized to render professional service within this State
+who renders such service through a professional entity or a professional
+association, but does not include clerks, bookkeepers, technicians or other
+persons who are not usually considered by custom and practice of the profession
+to be rendering professional services to the public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>ï¿½Licensedï¿½ means legally authorized by
+the appropriate regulating board of this State to engage in a regulated
+profession in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-020__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>ï¿½Ownerï¿½ means the owner of stock in a
+professional corporation or the owner of a memberï¿½s interest, as defined inNRS 86.091, in a professional
+limited-liability company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-020__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>ï¿½Ownerï¿½s interestï¿½ means the stock of a
+professional corporation or a memberï¿½s interest, as defined inNRS 86.091, of a professional
+limited-liability company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-020__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>ï¿½Professional associationï¿½ means a
+common-law association of two or more persons licensed or otherwise legally
+authorized to render professional service within this State when created by
+written articles of association which contain in substance the following
+provisions characteristic of corporate entities:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-020__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The death, insanity, bankruptcy, retirement,
+resignation, expulsion or withdrawal of any member of the association does not
+cause its dissolution.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-020__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The authority to manage the affairs of the
+association is vested in a board of directors or an executive board or
+committee, elected by the members of the association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-020__subsec_6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The members of the association are employees
+of the association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-020__subsec_6__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Membersï¿½ ownership is evidenced by
+certificates.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-020__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>ï¿½Professional corporationï¿½ means a
+corporation organized under this chapter to render a professional service.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-020__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>ï¿½Professional entityï¿½ means either a
+professional corporation or a professional limited-liability company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-020__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>ï¿½Professional limited-liability
+companyï¿½ means a limited-liability company organized pursuant to this chapter
+to render professional service.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-020__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>ï¿½Professional serviceï¿½ means any type
+of personal service which may legally be performed only pursuant to a license,
+certificate of registration or other legal authorization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-020__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>ï¿½Regulating boardï¿½ means the body
+which regulates and authorizes the admission to the profession which a professional
+entity or a professional association is authorized to perform.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+865; A1969,
+519;1995,
+2117;2003,
+3159;2007,
+2432;2011,
+2811)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-022">
+          <num>89.022</num>
+          <heading>Prohibition against formation of entity for certain illegal
+purposes.</heading>
+          <content>
+            <p>A person shall not form
+an entity pursuant to this chapter for any illegal purpose or with the
+fraudulent intent to conceal any business activity, or lack thereof, from another
+person or a governmental agency.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+896)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-023">
+          <num>89.023</num>
+          <heading>Form required for filing of records.</heading>
+          <subsection eId="89-023__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each record filed with the Secretary of
+State pursuant to this chapter must be on or accompanied by a form prescribed
+by the Secretary of State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-023__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Secretary of State may refuse to
+file a record which does not comply with subsection 1 or which does not contain
+all of the information required by statute for filing the record.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-023__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the provisions of the form
+prescribed by the Secretary of State conflict with the provisions of any record
+that is submitted for filing with the form:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-023__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The provisions of the form control for all
+purposes with respect to the information that is required by statute to appear
+in the record in order for the record to be filed; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-023__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Unless otherwise provided in the record, the
+provisions of the record control in every other situation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-023__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Secretary of State may by
+regulation provide for the electronic filing of records with the Office of the
+Secretary of State.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 111)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-025">
+          <num>89.025</num>
+          <heading>Fees.</heading>
+          <content>
+            <p>Except as
+otherwise provided inNRS 89.200to89.270, inclusive, the fees set forth inNRS 78.755to78.785, inclusive, apply to professional
+corporations and the fees set forth inNRS
+86.561apply to professional limited-liability companies.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1139; A2007,
+2433;2009,
+1714)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-027">
+          <num>89.027</num>
+          <heading>Filing of records written in language other than English.</heading>
+          <content>
+            <p>No record which is written in a language other
+than English may be filed or submitted for filing in the Office of the
+Secretary of State pursuant to the provisions of this chapter unless it is
+accompanied by a verified translation of that record into the English language.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1137; A2003,
+3160)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-028">
+          <num>89.028</num>
+          <heading>Secretary of State authorized to adopt certain regulations to
+allow professional entity or professional association to carry out powers and
+duties through most recent technology.</heading>
+          <content>
+            <p>The
+Secretary of State may adopt regulations to define, for the purposes of certain
+provisions of this chapter, the terms ï¿½meeting,ï¿½ ï¿½writing,ï¿½ ï¿½writtenï¿½ and other
+terms to allow a professional entity, professional association or other entity
+which is subject to the provisions of this chapter to carry out its powers and
+duties as prescribed by this chapter through the use of the most recent
+technology available including, without limitation, the use of electronic
+communications, videoconferencing, telecommunications and blockchains.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2011,
+781; A2019,
+2825)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-030">
+          <num>89.030</num>
+          <heading>Applicability ofchapters 78and86of
+NRS.</heading>
+          <content>
+            <p>The laws applicable to other
+Nevada corporations organized underchapter 78of NRS and limited-liability companies organized underchapter 86of NRS and all rights, privileges and
+duties thereunder shall apply to professional corporations and professional
+limited-liability companies, respectively, except where such laws are in
+conflict with or inconsistent with the provisions of this chapter. In case of
+conflict, the provisions of this chapter shall apply.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+865; A2007,
+2433)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-040">
+          <num>89.040</num>
+          <heading>Filing requirements; required provisions of articles; name.</heading>
+          <subsection eId="89-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>One or more persons may organize a
+professional entity in the manner provided for organizing a corporation
+pursuant tochapter 78of NRS or a
+limited-liability company pursuant tochapter 86of NRS. Each person organizing the professional entity must, except as
+otherwise provided in subsection 2 ofNRS
+89.050, be authorized to perform the professional service for which the
+professional entity is organized. The articles must contain the following
+additional information:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-040__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The profession to be practiced by means of
+the professional entity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-040__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The names and addresses, either residence or
+business, of the original stockholders and directors of the professional
+corporation or the original members and managers of the professional
+limited-liability company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-040__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as otherwise provided in paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-040__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-040__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>, a certificate from the regulating board of the profession to be
+practiced showing that each of the directors, stockholders, managers or members
+who is a natural person is licensed to practice the profession.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-040__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For a professional entity organized pursuant
+to this chapter and practicing pursuant to the provisions ofNRS 623.349, a certificate from the
+regulating board or boards of the profession or professions to be practiced
+showing that control and two-thirds ownership of the professional entity is
+held by persons registered or licensed pursuant to the applicable provisions ofchapter 623,623Aor625of NRS. As used in this paragraph,
+ï¿½controlï¿½ has the meaning ascribed to it inNRS
+623.349.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-040__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>For a professional entity formed pursuant to
+subsection 5 ofNRS 89.070, a
+certificate from the State Bar of Nevada showing at least one stockholder or
+member who is a natural person is admitted by the Supreme Court of the State of
+Nevada to practice law as a member of the State Bar of Nevada.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The corporate name of a professional
+corporation must contain the words ï¿½Professional Corporationï¿½ or the
+abbreviation ï¿½Prof. Corp.,ï¿½ ï¿½P.C.ï¿½ or ï¿½PC,ï¿½ or the word ï¿½Charteredï¿½ or the
+abbreviation ï¿½Chtd.,ï¿½ or ï¿½Limitedï¿½ or the abbreviation ï¿½Ltd.ï¿½ The corporate
+name must contain the last name of one or more of its current or former
+stockholders.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-040__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The name of a professional
+limited-liability company must contain the words ï¿½Professional
+Limited-Liability Companyï¿½ or the abbreviations ï¿½Prof. L.L.C.,ï¿½ ï¿½Prof. LLC,ï¿½
+ï¿½P.L.L.C.,ï¿½ ï¿½PLLC,ï¿½ or the word ï¿½Charteredï¿½ or the abbreviation ï¿½Chtd.,ï¿½ or
+ï¿½Limitedï¿½ or the abbreviation ï¿½Ltd.ï¿½ The name of a professional
+limited-liability company must contain the last name of one or more of its
+current or former members.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-040__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The professional entity may render
+professional services and exercise its authorized powers under a fictitious
+name if the professional entity has first registered the name in the manner
+required bychapter 602of NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+865; A1969,
+520;1979,
+122;1987,
+585;1991,
+323,1305;1995,
+2118;2001,
+1780;2003,
+3160;2003,
+20th Special Session, 111;2007,
+2433;2009,
+1714)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-045">
+          <num>89.045</num>
+          <heading>List or statement to be maintained at principal place of
+business or with custodian of records; requirement to assist in criminal
+investigation; failure to comply; regulations.</heading>
+          <subsection eId="89-045__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A professional entity shall maintain at
+its principal place of business in this State or with its custodian of records:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-045__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A current list of its owners of record; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-045__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A statement indicating where such a list is
+maintained.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-045__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon the request of the Secretary of
+State, the professional entity shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-045__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Provide the Secretary of State with the name
+and contact information of the custodian of the list described in subsection 1.
+The information required pursuant to this paragraph shall be kept confidential
+by the Secretary of State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-045__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide written notice to the Secretary of
+State within 10 days after any change in the information contained in the list
+described in subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-045__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon the request of any law enforcement
+agency in the course of a criminal investigation, the Secretary of State may
+require a professional entity to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-045__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Submit to the Secretary of State, within 3
+business days, a copy of the list required to be maintained pursuant to
+subsection 1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-045__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Answer any interrogatory submitted by the
+Secretary of State that will assist in the criminal investigation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-045__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a professional entity fails to
+comply with any requirement pursuant to subsection 3, the Secretary of State
+may take any action necessary, including, without limitation, the suspension or
+revocation of the corporate charter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-045__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Secretary of State shall not
+reinstate or revive a charter that was revoked or suspended pursuant to
+subsection 4 unless:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-045__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The professional entity complies with the
+requirements of subsection 3; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-045__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The law enforcement agency conducting the investigation
+advises the Secretary of State to reinstate or revive the corporate charter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-045__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Secretary of State may adopt
+regulations to administer the provisions of this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+1335; A2009,
+2858;2019,
+400)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-050">
+          <num>89.050</num>
+          <heading>Scope of business; property and investments; professional
+services by officers and employees.</heading>
+          <subsection eId="89-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, a professional entity may be organized only for the purpose of
+rendering one specific type of professional service and may not engage in any
+business other than rendering the professional service for which it was
+organized and services reasonably related thereto, except that a professional
+entity may own real and personal property appropriate to its business and may
+invest its money in any form of real property, securities or any other type of
+investment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A professional entity may be organized
+to render a professional service relating to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-050__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Architecture, interior design, residential
+design, engineering and landscape architecture, or any combination thereof, and
+may be composed of persons:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="89-050__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Engaged in the practice of
+architecture as provided inchapter 623of
+NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-050__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Practicing as a registered interior
+designer as provided inchapter 623of NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-050__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Engaged in the practice of residential
+design as provided inchapter 623of NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-050__subsec_2__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Engaged in the practice of landscape
+architecture as provided inchapter 623Aof
+NRS; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-050__subsec_2__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Engaged in the practice of
+professional engineering as provided inchapter
+625of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="89-050__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Medicine, homeopathy, osteopathy, naprapathy,
+chiropractic and psychology, or any combination thereof, and may be composed of
+persons engaged in the practice of:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="89-050__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Medicine as provided inchapter 630of NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-050__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Homeopathic medicine as provided inchapter 630Aof NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-050__subsec_2__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Osteopathic medicine as provided inchapter 633of NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-050__subsec_2__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Chiropractic as provided inchapter 634of NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-050__subsec_2__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Naprapathy as provided inchapter 634Bof NRS; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-050__subsec_2__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Psychology and licensed to provide
+services pursuant tochapter 641of NRS.
+ï¿½Such a
+professional entity may market and manage additional professional entities
+which are organized to render a professional service relating to medicine, homeopathy,
+osteopathy, naprapathy, chiropractic and psychology.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="89-050__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Mental health services, and may be composed
+of the following persons, in any number and in any combination:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="89-050__subsec_2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Any psychologist who is licensed to
+practice in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-050__subsec_2__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Any social worker who holds a masterï¿½s
+degree in social work and who is licensed by this State as a clinical social
+worker;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-050__subsec_2__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Any registered nurse who is licensed
+to practice professional nursing in this State and who holds a masterï¿½s degree
+in the field of psychiatric nursing;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-050__subsec_2__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Any marriage and family therapist who
+is licensed by this State pursuant tochapter
+641Aof NRS; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-050__subsec_2__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Any clinical professional counselor
+who is licensed by this State pursuant tochapter
+641Aof NRS.
+ï¿½Such a
+professional entity may market and manage additional professional entities
+which are organized to render a professional service relating to mental health
+services pursuant to this paragraph.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-050__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A professional entity may render a
+professional service only through its officers, managers and employees who are
+licensed or otherwise authorized by law to render the professional service.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+866; A1969,
+705;1985,
+585;1991,
+323,1306;1995,
+353,1704;1997,
+206;2001,
+1781;2003,
+435;2007,
+2434,3077;2017,
+1303;2019,
+1391;2023,
+1686)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-055">
+          <num>89.055</num>
+          <heading>Prohibited acts by owner of entity organized to render certain
+medical and psychological services; prohibited acts by licensee who renders
+service through entity organized to render certain medical and psychological
+services.</heading>
+          <subsection eId="89-055__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An owner of a professional entity
+organized pursuant to paragraph</p>
+            </content>
+            <paragraph eId="89-055__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 2 ofNRS 89.050shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-055__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Create a policy or contract, written or
+otherwise, to restrict or prohibit the good faith communication between a
+patient and a person licensed pursuant tochapter
+630,630A,633,634,634Bor641of NRS, concerning the patientï¿½s
+medical records, health care, risks or benefits of such health care or
+treatment options.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-055__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Influence or interfere with the professional
+judgment of a person licensed pursuant tochapter
+630,630A,633,634,634Bor641of NRS, including, without limitation, the
+professional judgment of such a person concerning:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="89-055__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The care of a patient;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-055__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The custodian of the medical records
+of a patient;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-055__subsec_1__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Employment decisions, including hiring
+or terminating an employee; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-055__subsec_1__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Coding or billing procedures.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="89-055__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Terminate a contract or refuse to renew a
+contract with a person licensed pursuant tochapter
+630,630A,633,634,634Bor641of NRS because the person:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="89-055__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Advocates on behalf of a patient in
+private or public;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-055__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Assists a patient in seeking
+reconsideration of a denial of coverage of health care services; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-055__subsec_1__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Reports a violation of law to an
+appropriate authority.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="89-055__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Require a person licensed pursuant tochapter 630,630A,633,634,634Bor641of
+NRS to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="89-055__subsec_1__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Provide professional services to a
+specified number of patients within a particular amount of time; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-055__subsec_1__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Work a certain number of hours in a
+specified period of time.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="89-055__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Require a person licensed pursuant tochapter 630,630A,633,634,634Bor641of
+NRS to obtain the approval or review of a contract by a third party, including,
+without limitation, a provider of insurance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-055__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person licensed pursuant tochapter 630,630A,633,634,634Bor641of
+NRS who renders a professional service through a professional entity organized
+pursuant to paragraph</p>
+            </content>
+            <paragraph eId="89-055__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 2 ofNRS
+89.050shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-055__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Render such a professional service if the
+service exceeds the scope of his or her licensed authority pursuant tochapter 630,630A,633,634,634Bor641of
+NRS; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-055__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Through the use of an agreement, directive,
+financial incentive or any other arrangement, influence or interfere with the
+professional judgment of another person licensed pursuant tochapter 630,630A,633,634,634Bor641of
+NRS who renders a professional service through the same professional entity.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1303; A2019,
+1392;2023,
+1687)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-060">
+          <num>89.060</num>
+          <heading>Professional relationship preserved.</heading>
+          <subsection eId="89-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person personally liable in tort for
+any act in which the person has not personally participated.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A director, officer or employee of a
+professional entity liable in contract for any contract which the director,
+officer or employee signs on behalf of a professional entity within the limits
+of his or her actual authority.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+866; A1969,
+521;2003,
+3160;2007,
+2435)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-070">
+          <num>89.070</num>
+          <heading>Restrictions on ownership and transfer of shares.</heading>
+          <subsection eId="89-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section andNRS 623.349:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-070__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>No professional entity may issue any of its ownerï¿½s
+interest to anyone other than a natural person who is licensed to render the
+same specific professional services as those for which the professional entity was
+formed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-070__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>No owner may enter into a voting trust
+agreement or any other type of agreement vesting another person with the
+authority to exercise the voting power of any or all of his or her ownerï¿½s
+interest, unless the other person is licensed to render the same specific
+professional services as those for which the professional entity was formed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-070__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>No ownerï¿½s interest may be sold or
+transferred except to a natural person who is eligible to be an owner or to the
+personal representative or estate of a deceased or legally incapacitated
+stockholder. The personal representative or estate of the owner may continue to
+own the ownerï¿½s interest for a reasonable period, but may not participate in
+any decisions concerning the rendering of professional services.
+ï¿½The articles,
+bylaws or operating agreement of the professional entity may provide
+specifically for additional restrictions on the transfer of an ownerï¿½s interest
+and may provide for the redemption or purchase of the ownerï¿½s interest by the professional
+entity, its owners or an eligible individual account plan complying with the
+requirements of subsection 2 at prices and in a manner specifically set forth. An
+owner may transfer his or her ownerï¿½s interest in the professional entity or
+any other interest in the assets of the professional entity to a revocable
+trust if the owner acts as trustee of the revocable trust and any person who
+acts as cotrustee and is not licensed to perform the services for which the professional
+entity was formed does not participate in any decisions concerning the
+rendering of those services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 623.349, a person not licensed to
+render the professional services for which the professional entity was formed may
+own a beneficial interest in any of the assets, including an ownerï¿½s interest, held
+for the personï¿½s account by an eligible individual account plan sponsored by
+the professional entity for the benefit of its employees, which is intended to
+qualify under section 401 of the Internal Revenue Code, 26 U.S.C. ï¿½ 401, if the
+terms of the trust are such that the total number of shares which may be
+distributed for the benefit of persons not licensed to render the professional
+services for which the professional entity was formed is less than a
+controlling interest and:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-070__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The trustee of the trust is licensed to
+render the same specific professional services as those for which the professional
+entity was formed; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-070__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The trustee is not permitted to participate
+in any decisions concerning the rendering of professional services in his or
+her capacity as trustee.
+ï¿½A trustee
+who is individually an owner may participate in his or her individual capacity
+as an owner, manager, director or officer in any decision.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-070__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 4, a professional entity in which all the owners who are natural
+persons are licensed to render the same specific professional service may
+acquire and hold an ownerï¿½s interest in another professional entity or in a
+similar entity organized pursuant to the corresponding law of another state,
+only if all the owners who are natural persons of the professional entity whose
+stock is acquired are licensed in that professional entityï¿½s state of formation
+to render the same specific professional service as the owners who are natural
+persons of the professional entity that acquires the ownerï¿½s interest.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-070__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A professional entity practicing
+pursuant toNRS 623.349in which all the
+owners are natural persons, regardless of whether or not the natural persons
+are licensed to render the same specific professional service, may acquire and
+hold an ownerï¿½s interest in another professional entity or in a similar entity organized
+pursuant to the corresponding law of another state if control and two-thirds
+ownership of the business organization or association that is acquired is held
+by persons registered or licensed pursuant to the applicable provisions ofchapter 623,623Aor625of NRS. As used in this subsection,
+ï¿½controlï¿½ has the meaning ascribed to it inNRS
+623.349.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-070__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>An attorney may form a legal services
+professional entity that is organized or incorporated in the State of Nevada
+with one or more natural persons, each of whom is a member in good standing and
+eligible to practice before the bar of any jurisdiction of the United States,
+and such legal services entity may issue an ownerï¿½s interest to a natural
+person who is a member in good standing and eligible to practice before the bar
+of any jurisdiction of the United States provided that at least one attorney
+admitted by the Supreme Court of the State of Nevada to practice law as a
+member of the State Bar of Nevada owns an ownerï¿½s interest in the professional
+entity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-070__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Any act in violation of this section is
+void and does not pass any rights or privileges or vest any powers, except to
+an innocent person who is not an owner and who has relied on the effectiveness
+of the action.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+866; A1969,
+521;1977,
+643;1991,
+1306;1995,
+2118;2001,
+1781;2007,
+2435;2009,
+1715)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-080">
+          <num>89.080</num>
+          <heading>Duties upon legal disqualification of officer, stockholder,
+director, member, manager or employee; qualifications of officer, director or
+manager; death of owner whose interest is in revocable trust.</heading>
+          <subsection eId="89-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If any officer, stockholder, director,
+member, manager or employee of a professional entity organized under this
+chapter who has been rendering professional service to the public becomes
+legally disqualified to render such professional services within this State, he
+or she shall sever within a reasonable period all professional service with and
+financial interest in the professional entity, but this chapter does not prevent
+a professional entity formed under this chapter from entering into a contract
+with an employee which provides for severance pay or for compensation for past
+services upon termination of professional service, whether by death or
+otherwise.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 623.349, a natural person may not be an
+officer, director or manager of a professional entity formed under this chapter
+unless the natural person is licensed to render the same specific professional
+services as those for which the professional entity was formed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-080__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon the death of an owner of a
+professional entity who has transferred his or her interest in the professional
+entity to a revocable trust as permitted byNRS
+89.070, the trustee of the revocable trust may continue to retain any
+interest so transferred for a reasonable period, but may not exercise any
+authority concerning the rendering of professional services and may not, except
+as otherwise provided inNRS 623.349,
+distribute the ownerï¿½s interest to any person not licensed to render the
+services for which the professional entity was formed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-080__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A professional entityï¿½s failure to
+require compliance with the provisions of this section is a ground for the
+forfeiture of its charter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+866; A1969,
+522;1991,
+1307;1995,
+2119;2001,
+1783;2007,
+2437)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-100">
+          <num>89.100</num>
+          <heading>Authority of regulating boards not affected.</heading>
+          <content>
+            <p>The provisions of this chapter relating to
+professional entities do not bar the regulating board of any profession from
+taking any action otherwise within its power, nor do they affect the rules of
+ethics or practice of any profession.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+867; A1969,
+522;2007,
+2437)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-110">
+          <num>89.110</num>
+          <heading>Scope of authority.</heading>
+          <content>
+            <p>No
+professional entity may do any act which is prohibited to be done by natural
+persons licensed to practice the profession which the professional entity is
+organized to practice.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+867; A1995,
+2120;2007,
+2438)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-200">
+          <num>89.200</num>
+          <heading>Inapplicability ofchapter 87of NRS.</heading>
+          <content>
+            <p>The provisions ofchapter
+87of NRS do not apply to professional associations.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+523; A2005,
+443)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-210">
+          <num>89.210</num>
+          <heading>Filing requirements; name of association.</heading>
+          <subsection eId="89-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Within 30 days after the organization
+of a professional association under this chapter, the association shall file
+with the Secretary of State a copy of the articles of association, duly signed,
+and shall pay at that time a filing fee of $75. A copy of any amendments to the
+articles of association must also be filed with the Secretary of State within
+30 days after the adoption of such amendments. Each copy of amendments so filed
+must be certified as true and correct and be accompanied by a filing fee of
+$175.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The name of such a professional
+association must contain the words ï¿½Professional Association,ï¿½ ï¿½Professional
+Organizationï¿½ or the abbreviations ï¿½Prof. Assï¿½nï¿½ or ï¿½Prof. Org.ï¿½ The
+association may render professional services and exercise its authorized powers
+under a fictitious name if the association has first registered the name in the
+manner required underchapter 602of NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+523; A1979,
+123;2001,
+3190;2003,
+3160;2003,
+20th Special Session, 112)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-215">
+          <num>89.215</num>
+          <heading>Penalty for purporting to do business as professional
+association without filing articles of association; enforcement; regulations.</heading>
+          <subsection eId="89-215__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every person who is purporting to do
+business in this State as a professional association and who willfully fails or
+neglects to file with the Secretary of State articles of association is subject
+to a fine of not less than $1,000 but not more than $10,000, to be recovered in
+a court of competent jurisdiction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-215__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>When the Secretary of State is advised
+that a person is subject to the fine described in subsection 1, the Secretary
+of State may, as soon as practicable, refer the matter to the district attorney
+of the county in which the personï¿½s principal place of business is located or
+the Attorney General, or both, for a determination of whether to institute
+proceedings to recover the fine. The district attorney of the county in which
+the personï¿½s principal place of business is located or the Attorney General may
+institute and prosecute the appropriate proceedings to recover the fine. If the
+district attorney or the Attorney General prevails in a proceeding to recover
+the fine described in subsection 1, the district attorney or the Attorney
+General is entitled to recover the costs of the proceeding, including, without
+limitation, the cost of any investigation and reasonable attorneyï¿½s fees.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-215__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In the course of an investigation of a
+violation of this section, the Secretary of State may require a person to
+answer any interrogatory submitted by the Secretary of State that will assist
+in the investigation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-215__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Secretary of State may adopt regulations
+to administer the provisions of this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+1714; A2013,
+896)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-220">
+          <num>89.220</num>
+          <heading>Professional relationship preserved.</heading>
+          <subsection eId="89-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A member or employee of a professional
+association shall not be personally liable in tort for any act in which the
+member or employee has not personally participated.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A member or employee of a professional
+association shall not be personally liable in contract for any contract which
+the member or employee signs on behalf of a professional association within the
+limits of his or her actual authority.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+523; A2003,
+3161)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-230">
+          <num>89.230</num>
+          <heading>Restrictions on membership and rendering of professional
+services.</heading>
+          <content>
+            <p>Except as otherwise
+provided inNRS 623.349, members who
+organize a professional association must all be natural persons licensed to
+render the same specific professional services as those for which the
+professional association is organized. Except as otherwise provided by law, a
+professional association may render professional service only through its
+members and employees who are licensed or otherwise authorized by law to render
+the professional service.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+523; A1995,
+2120;2001,
+1783)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-240">
+          <num>89.240</num>
+          <heading>Duties upon legal disqualification of member or employee;
+redemption of and restrictions on transfer and ownership of memberï¿½s interest.</heading>
+          <subsection eId="89-240__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If any member or employee of a
+professional association who has been rendering professional service to the
+public becomes legally disqualified to render the professional service within
+this State, the member or employee shall sever within a reasonable period all
+professional service with and financial interest in the association; but this
+chapter does not prevent a professional association from entering into a
+contract with a member or employee which provides for severance pay or for
+compensation for past services upon termination of professional service,
+whether by death or otherwise. Upon the death of a member of the association
+who has transferred his or her interest in the association to a revocable trust
+as permitted by subsection 2, the trustee of the revocable trust may continue
+to retain any interest so transferred for a reasonable period, but may not
+exercise any authority concerning the rendering of professional services and
+may not, except as otherwise provided inNRS
+623.349, distribute the interest in the association or its assets to any
+person not licensed to render the services for which the association was
+organized.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-240__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise authorized byNRS 623.349, a membership interest in a
+professional association may not be sold or transferred except to a natural
+person who is eligible to be a member of the association or to the personal
+representative or estate of a deceased or legally incapacitated member, except
+as provided in this subsection. The personal representative of such a member
+may continue to own such interest for a reasonable period, but may not
+participate in any decisions concerning the rendering of professional service.
+A member may transfer his or her interest in the association or any other
+interest in the assets of the association to a revocable trust if the member
+acts as trustee of the revocable trust and any person who acts as cotrustee and
+is not licensed to perform the services for which the association is organized
+does not participate in any decisions concerning the rendering of those
+professional services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-240__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The articles of association may provide
+specifically for additional restrictions on the transfer of membersï¿½ interests
+and may provide for the redemption or purchase of such an interest by the
+association or its other members at prices and in a manner specifically set
+forth in the articles.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+523; A1991,
+1308;1995,
+2120;2001,
+1783)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-250">
+          <num>89.250</num>
+          <heading>Annual list: Filing requirements; fees; regulations.</heading>
+          <subsection eId="89-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, a professional association shall, at the time of the filing of
+its articles of association with the Secretary of State, or, if the
+professional association has selected an alternative due date pursuant to
+subsection 8, on or before that alternative due date, and annually thereafter
+on or before the last day of the month in which the anniversary date of its
+organization occurs in each year, or, if applicable, on or before the last day
+of the month in which the anniversary date of the alternative due date occurs
+in each year, file with the Secretary of State a list showing the names and
+addresses, either residence or business, of all members and employees in the
+professional association and certifying that all members and employees are
+licensed to render professional service in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A professional association organized
+and practicing pursuant to the provisions of this chapter andNRS 623.349shall, at the time of the
+filing of its articles of association with the Secretary of State, or, if the
+professional association has selected an alternative due date pursuant to
+subsection 8, on or before that alternative due date, and annually thereafter
+on or before the last day of the month in which the anniversary date of its
+organization occurs in each year, or, if applicable, on or before the last day
+of the month in which the anniversary date of the alternative due date occurs
+in each year, file with the Secretary of State a list:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-250__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Showing the names and addresses, either
+residence or business, of all members and employees of the professional
+association who are licensed or otherwise authorized by law to render
+professional service in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-250__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Certifying that all members and employees who
+render professional service are licensed or otherwise authorized by law to
+render professional service in this State; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-250__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Certifying that all members who are not
+licensed to render professional service in this State do not render professional
+service on behalf of the professional association except as authorized by law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-250__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Each list filed pursuant to this
+section must be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-250__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Made on a form furnished by the Secretary of
+State and must not contain any fiscal or other information except that
+expressly called for by this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-250__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Signed by the chief executive officer of the
+professional association or by some other person specifically authorized by the
+chief executive officer to sign the list.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-250__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Accompanied by a declaration under penalty of
+perjury that:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="89-250__subsec_3__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The professional association has
+complied with the provisions ofchapter 76of
+NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-250__subsec_3__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The professional association
+acknowledges that pursuant toNRS 239.330,
+it is a category C felony to knowingly offer any false or forged instrument for
+filing in the Office of the Secretary of State; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-250__subsec_3__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>None of the members or employees
+identified in the list has been identified in the list with the fraudulent
+intent of concealing the identity of any person or persons exercising the power
+or authority of a member or employee in furtherance of any unlawful conduct.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-250__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Upon filing:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-250__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The initial list required by this section,
+the professional association shall pay to the Secretary of State a fee of $150.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-250__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Each annual list required by this section,
+the professional association shall pay to the Secretary of State a fee of $150.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-250__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If a professional association files an
+amended list of members and employees with the Secretary of State within 60
+days after the date on which the initial list required by this section is
+filed, the professional association is not required to pay a fee for filing the
+amended list.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-250__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A person who files with the Secretary
+of State an initial list or annual list required by this section which
+identifies a member or an employee of a professional association with the
+fraudulent intent of concealing the identity of any person or persons
+exercising the power or authority of a member or employee in furtherance of any
+unlawful conduct is subject to the penalty set forth inNRS 225.084.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-250__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>For the purposes of this section, a
+person is not deemed to exercise actual control of the daily operations of a
+professional association based solely on the fact that the person holds an
+ownership interest in the professional association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-250__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>The Secretary of State may allow a
+professional association to select an alternative due date for filing the
+initial list required by this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-250__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>The Secretary of State may adopt
+regulations to administer the provisions of subsection 8.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+524; A1995,
+1139;1999,
+1625;2001,
+101,1784,2725,3190;2003,
+194,3161;2003,
+20th Special Session, 112,187;2005,
+2270;2009,
+2045;2013,
+896;2015,
+2923;2017,
+2795)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-251">
+          <num>89.251</num>
+          <heading>List or statement to be maintained at principal place of
+business or with custodian of records; requirement to assist in criminal
+investigation; failure to comply; regulations.</heading>
+          <subsection eId="89-251__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A professional association shall
+maintain at its principal place of business in this State or with its custodian
+of records:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-251__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A current list of each member; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-251__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A statement indicating where such a list is
+maintained.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-251__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon the request of the Secretary of
+State, the professional association shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-251__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Provide the Secretary of State with the name
+and contact information of the custodian of the list described in subsection 1.
+The information required pursuant to this paragraph shall be kept confidential
+by the Secretary of State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-251__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide written notice to the Secretary of
+State within 10 days after any change in the information contained in the list
+described in subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-251__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon the request of any law enforcement
+agency in the course of a criminal investigation, the Secretary of State may
+require a professional association to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-251__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Submit to the Secretary of State, within 3
+business days, a copy of the list required to be maintained pursuant to
+subsection 1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-251__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Answer any interrogatory submitted by the
+Secretary of State that will assist in the criminal investigation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-251__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a professional association fails to
+comply with any requirement pursuant to subsection 3, the Secretary of State
+may take any action necessary, including, without limitation, the suspension or
+revocation of the articles of association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-251__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Secretary of State shall not
+reinstate or revive articles of association that were revoked or suspended
+pursuant to subsection 4 unless:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-251__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The professional association complies with the
+requirements of subsection 3; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-251__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The law enforcement agency conducting the
+investigation advises the Secretary of State to reinstate or revive the
+articles of association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-251__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Secretary of State may adopt
+regulations to administer the provisions of this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+1335; A2009,
+2858;2019,
+400)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-252">
+          <num>89.252</num>
+          <heading>Defaulting associations: Identification; penalty.</heading>
+          <subsection eId="89-252__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each professional association that is
+required to make a filing and pay the fee prescribed inNRS 89.250but refuses to do so within the
+time provided is in default.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-252__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For default, there must be added to the
+amount of the fee a penalty of $75. The fee and penalty must be collected as
+provided in this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1138; A2001,
+3191;2003,
+20th Special Session, 113)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-254">
+          <num>89.254</num>
+          <heading>Defaulting associations: Duties of Secretary of State;
+forfeiture of right to transact business; assets held in trust; distribution of
+assets.</heading>
+          <subsection eId="89-254__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Secretary of State shall provide
+written notice to each professional association which is in default pursuant to
+the provisions ofNRS 89.252. The
+written notice:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-254__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Must include a statement indicating the
+amount of the filing fee, penalties incurred and costs remaining unpaid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-254__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>At the request of the professional
+association, may be provided electronically.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-254__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>On the first day of the first
+anniversary of the month following the month in which the filing was required,
+the articles of association of the professional association are revoked and its
+right to transact business is forfeited.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-254__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Secretary of State shall compile a
+complete list containing the names of all professional associations whose right
+to transact business has been forfeited.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-254__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Secretary of State shall forthwith
+notify each professional association specified in subsection 3 by providing
+written notice of the forfeiture of its right to transact business. The written
+notice:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-254__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Must include a statement indicating the
+amount of the filing fee, penalties incurred and costs remaining unpaid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-254__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>At the request of the professional
+association, may be provided electronically.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-254__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If the articles of association of a
+professional association are revoked and the right to transact business is
+forfeited, all the property and assets of the defaulting professional
+association must be held in trust by its members, as for insolvent
+corporations, and the same proceedings may be had with respect to its property
+and assets as apply to insolvent corporations. Any interested person may
+institute proceedings at any time after a forfeiture has been declared, but, if
+the Secretary of State reinstates the articles of association, the proceedings
+must be dismissed and all property restored to the members of the professional
+association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-254__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>If the assets of the professional
+association are distributed, they must be applied to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-254__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The payment of the filing fee, penalties and
+costs due to the State; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-254__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The payment of the creditors of the
+professional association.
+ï¿½Any balance
+remaining must be distributed as set forth in the articles of association or,
+if no such provisions exist, among the members of the professional association.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1138; A2003,
+20th Special Session, 113)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-256">
+          <num>89.256</num>
+          <heading>Defaulting associations: Conditions and procedure for
+reinstatement.</heading>
+          <subsection eId="89-256__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsections 3 and 4 andNRS 89.251, the
+Secretary of State shall reinstate any professional association which has
+forfeited its right to transact business under the provisions of this chapter
+and restore the right to carry on business in this State and exercise its
+privileges and immunities if it:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-256__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Files with the Secretary of State:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="89-256__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The list and certification required byNRS 89.250;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-256__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The information required pursuant toNRS 77.310; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-256__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>A declaration under penalty of
+perjury, on a form provided by the Secretary of State, that the reinstatement
+is authorized by a court of competent jurisdiction in this State or by the duly
+selected chief executive officer of the professional association; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="89-256__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided inNRS 231.14057, pays to the Secretary of
+State:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="89-256__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The filing fee and penalty set forth
+inNRS 89.250and89.252for each year or portion thereof
+during which the articles of association have been revoked; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-256__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A fee of $300 for reinstatement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-256__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>When the Secretary of State reinstates
+the professional association, the Secretary of State shall issue to the
+professional association a certificate of reinstatement if the professional
+association:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-256__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Requests a certificate of reinstatement; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-256__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Pays the required fees pursuant to subsection
+7 ofNRS 78.785.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-256__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 231.14057, the Secretary of State
+shall not order a reinstatement unless all delinquent fees and penalties have
+been paid, and the revocation of the articles of association occurred only by
+reason of the failure to pay the fees and penalties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-256__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the articles of association of a
+professional association have been revoked pursuant to the provisions of this
+chapter and have remained revoked for 10 consecutive years, the articles must
+not be reinstated.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-256__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A reinstatement pursuant to this
+section relates back to the date on which the professional association
+forfeited its right to transact business under the provisions of this chapter
+and reinstates the professional associationï¿½s right to transact business as if
+such right had at all times remained in full force and effect.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1138; A2001,
+3191;2003,
+20th Special Session, 114;2005,
+2271;2007,
+1336,2438,2701;2013,
+897;2019,
+929)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-258">
+          <num>89.258</num>
+          <heading>Renewal or revival of articles of association: Procedure; fee;
+certificate as evidence; status of association.</heading>
+          <subsection eId="89-258__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 89.251, a professional association
+which did exist or is existing underNRS
+89.200to89.270, inclusive, may,
+upon complying with the provisions ofNRS
+89.256, procure a renewal or revival of its articles of association for any
+period, together with all the rights, franchises, privileges and immunities,
+and subject to all its existing and preexisting debts, duties and liabilities
+secured or imposed by its original articles of association and amendments
+thereto, or existing articles of association, by filing:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-258__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A certificate with the Secretary of State,
+which must set forth:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="89-258__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The name of the professional
+association, which must be the name of the professional association at the time
+of the renewal or revival, or its name at the time its original articles of
+association expired.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-258__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The information required pursuant toNRS 77.310.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-258__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The date on which the renewal or
+revival of the professional associationï¿½s articles of association is to
+commence or be effective, which may be, in cases of a revival, before the date
+of the certificate of revival.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-258__subsec_1__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Whether or not the renewal or revival
+is to be perpetual and, if not perpetual, the time for which the renewal or
+revival is to continue.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="89-258__subsec_1__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>That the professional association
+desiring to renew or revive its articles of association is, or has been,
+organized and carrying on the business authorized by its existing or original
+articles of association and amendments thereto, and desires to renew or
+continue through revival its existence pursuant to and subject to the provisions
+of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="89-258__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A list of its members and employees who are
+licensed or otherwise authorized by law to render professional services in this
+State and their addresses, either residence or business.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-258__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A declaration under penalty of perjury, on a
+form provided by the Secretary of State, that the renewal or revival is
+authorized by a court of competent jurisdiction in this State or by the owners
+of the membership interests in the professional association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="89-258__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A professional association whose articles
+of association have expired and are being renewed shall cause the certificate
+to be signed by a member of the professional association. The certificate of
+renewal must be approved by a majority of the members who hold a membership
+interest in the professional association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-258__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A professional association seeking to
+revive its original or amended articles of association shall cause the
+certificate of revival to be signed by a person or persons designated or
+appointed by the members of the professional association. The signing and
+filing of the certificate of revival must be approved by the written consent of
+the holders of a membership interest in the professional association holding at
+least a majority of the voting power and must contain a recital that this
+consent was secured. The professional association shall pay to the Secretary of
+State the fee required to form a new professional association pursuant to the
+provisions ofNRS 89.200to89.270, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-258__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The filed certificate of renewal or
+revival, or a copy thereof which has been certified under the hand and seal of
+the Secretary of State, must be received in all courts and places as prima
+facie evidence of the facts therein stated and of the qualification to do
+business in this State of the professional association named therein.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-258__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A renewal or revival pursuant to this
+section relates back to the date on which the professional associationï¿½s
+articles of association expired or was revoked and renews or revives the
+professional associationï¿½s articles of association and right to transact
+business as if such right had at all times remained in full force.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="89-258__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A professional association that has
+revived or renewed its articles of association pursuant to the provisions of
+this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="89-258__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is a professional association and continues
+to be a professional association for the time stated in the certificate of
+revival or renewal;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-258__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Possesses the rights, privileges and
+immunities conferred by the original articles of association and byNRS 89.200to89.270, inclusive; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="89-258__subsec_6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Is subject to the restrictions and
+liabilities set forth inNRS 89.200to89.270, inclusive.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1318)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-260">
+          <num>89.260</num>
+          <heading>Authority of regulating boards not affected.</heading>
+          <content>
+            <p>The provisions of this chapter relating to
+professional associations do not bar the regulating board of any profession
+from taking any action otherwise within its power, nor do they affect the rules
+of ethics or practice of any profession.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+524)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_89-270">
+          <num>89.270</num>
+          <heading>Scope of authority.</heading>
+          <content>
+            <p>No
+professional association may do any act which is prohibited to be done by
+natural persons licensed to practice the profession which the professional
+association is organized to practice.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+524; A1995,
+2121)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

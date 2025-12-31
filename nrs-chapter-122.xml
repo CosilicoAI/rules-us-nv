@@ -1,0 +1,3589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-122"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-122"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="122"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-122/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-122/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-122/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-122/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_122">
+        <num>122</num>
+        <heading>MARRIAGE</heading>
+        <section eId="sec_122-001">
+          <num>122.001</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 122.0015to122.006, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+722; A2011,
+2044;2013,
+341;2017,
+1024)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-0015">
+          <num>122.0015</num>
+          <heading>ï¿½Commercial wedding chapelï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Commercial
+wedding chapelï¿½ means a permanently affixed structure which operates a business
+principally for the performance of weddings and which is licensed for that
+purpose.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2011,
+2043; A2013,
+341)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-002">
+          <num>122.002</num>
+          <heading>ï¿½Commissioner townshipï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Commissioner
+townshipï¿½ means a township whose population is 15,500 or more, as most recently
+certified by the Governor pursuant toNRS
+360.285, and which is located in a county whose population is 100,000 or
+more.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+765; A1971,
+1552;1995,
+247;1997,
+178;2009,
+723)—(Substituted in revision for NRS 122.171)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-004">
+          <num>122.004</num>
+          <heading>ï¿½Marriage officiantï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Marriage
+officiantï¿½ means a person, other than a minister, other church or religious
+official authorized to solemnize a marriage or notary public, who obtains a
+certificate of permission to perform marriages as provided inNRS 122.062to122.073, inclusive.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1024)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-006">
+          <num>122.006</num>
+          <heading>ï¿½Other church or religious official authorized to solemnize a
+marriageï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Other church
+or religious official authorized to solemnize a marriageï¿½ means a person of any
+church or religious organization, other than a minister, who has been
+authorized to solemnize a marriage according to the usages of that church or
+religious organization.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+722; A2013,
+1186)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-010">
+          <num>122.010</num>
+          <heading>What constitutes marriage; no common-law marriages after March
+29, 1943.</heading>
+          <subsection eId="122-010__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Marriage, so far as its validity in law
+is concerned, is a civil contract, to which the consent of the parties capable
+in law of contracting is essential. Consent alone will not constitute marriage;
+it must be followed by solemnization as authorized and provided by this
+chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-010__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of subsection 1
+requiring solemnization shall not invalidate any marriage contract in effect
+prior to March 29, 1943, to which the consent only of the parties capable in
+law of contracting the contract was essential.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:33:1861; A1943,
+279; 1943 NCL ï¿½ 4050]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-020">
+          <num>122.020</num>
+          <heading>Persons capable of marriage.</heading>
+          <subsection eId="122-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2 andNRS 122.025, two
+persons, regardless of gender, who are at least 18 years of age, not nearer of
+kin than second cousins or cousins of the half blood, and not having a spouse
+living, may be joined in marriage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Two persons, regardless of gender, who
+are married to each other may be rejoined in marriage if the record of their
+marriage has been lost or destroyed or is otherwise unobtainable.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:33:1861; A1867,
+88;1891,
+15;1947,
+445; 1943 NCL ï¿½ 4051]—(NRS A1961,
+357;1973,
+1578;1975,
+1817;1977,
+279;1981,
+678;2009,
+1503;2017,
+755;2019,
+3660)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-025">
+          <num>122.025</num>
+          <heading>Marriage of minor who is 17 years of age: Consent of parent or
+guardian; authorization by court.</heading>
+          <subsection eId="122-025__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A minor who is 17 years of age may
+marry only if the minor has the consent of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-025__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Either parent; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-025__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The minorï¿½s legal guardian,
+ï¿½and the
+minor also obtains authorization from a district court as provided in this
+section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-025__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In extraordinary circumstances, a
+district court may authorize the marriage of a minor who is 17 years of age if
+the court finds, by clear and convincing evidence, after an evidentiary hearing
+in which both parties to the prospective marriage provide sworn testimony,
+that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-025__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Both parties to the prospective marriage are
+residents of this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-025__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The marriage will serve the best interests of
+the minor; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-025__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The minor has the consent required by
+paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-025__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-025__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1.
+ï¿½Pregnancy
+alone does not establish that the best interests of the minor will be served by
+marriage, nor may pregnancy be required by a court as a condition necessary for
+its authorization for the marriage of the minor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-025__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In determining the best interests of
+the minor for the purposes of subsection 2, the court shall consider, without
+limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-025__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The difference in age between the parties to
+the prospective marriage;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-025__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The need for the marriage to occur before the
+minor reaches 18 years of age; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-025__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The emotional and intellectual maturity of
+the minor.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+316; A1975,
+1817;1977,
+279;2019,
+3660)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-030">
+          <num>122.030</num>
+          <heading>Documents constituting presumptive evidence of marriage.</heading>
+          <subsection eId="122-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>With respect to any marriage solemnized
+before January 1, 1971, the original certificate and records of marriage made
+by the judge, justice or minister, as prescribed in this chapter, and the
+record thereof by the recorder of the county, or a copy or abstract of the
+record certified by the recorder, must be received in all courts and places as
+presumptive evidence of the fact of the marriage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>With respect to any marriage solemnized
+on or after January 1, 1971, the original certificate and records of marriage
+made by the judge, justice, minister or other church or religious official
+authorized to solemnize a marriage, notary public, commissioner of civil
+marriages, deputy commissioner of civil marriages, marriage officiant or mayor
+of an incorporated city, as prescribed in this chapter, and the record thereof
+by the county recorder or the county clerk, as the case may be, or a copy or
+abstract of the record certified by the county recorder or the county clerk, as
+the case may be, must be received in all courts and places as presumptive
+evidence of the fact of the marriage.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [14:33:1861; B ï¿½ 207; BH ï¿½ 483; C ï¿½ 494; RL ï¿½ 2350;
+NCL ï¿½ 4062]—(NRS A1969,
+763;1991,
+69;2007,
+887;2009,
+723;2013,
+1186;2017,
+1024,1196)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-040">
+          <num>122.040</num>
+          <heading>Marriage license: Requirements; issuance by county clerk; waiver
+of certain requirements; public records; expiration.</heading>
+          <subsection eId="122-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Before persons may be joined in
+marriage, a license must be obtained for that purpose from the county clerk of
+any county in the State. Except as otherwise provided in this subsection, the
+license must be issued at the county seat of that county. The board of county
+commissioners:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-040__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In a county whose population is 700,000 or
+more may, at the request of the county clerk, designate not more than five
+branch offices of the county clerk at which marriage licenses may be issued, if
+the designated branch offices are located outside of the county seat.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-040__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In a county whose population is less than
+700,000 may, at the request of the county clerk, designate one branch office of
+the county clerk at which marriage licenses may be issued, if the designated
+branch office is established in a county office building which is located
+outside of the county seat.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, before issuing a marriage license, the county clerk shall require each
+applicant to provide proof of the applicantï¿½s name and age. The county clerk
+may accept as proof of the applicantï¿½s name and age an original or certified
+copy of any of the following:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-040__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A driverï¿½s license, instruction permit or
+identification card issued by this State or another state, the District of
+Columbia or any territory of the United States.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-040__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A passport.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-040__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A birth certificate and:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="122-040__subsec_2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Any secondary document that contains
+the name and a photograph of the applicant; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="122-040__subsec_2__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Any document for which identification
+must be verified as a condition to receipt of the document.
+ï¿½If the birth
+certificate is written in a language other than English, the county clerk may
+request that the birth certificate be translated into English and notarized.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="122-040__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A military identification card or military
+dependent identification card issued by any branch of the Armed Forces of the
+United States.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-040__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A Certificate of Citizenship, Certificate of
+Naturalization, Permanent Resident Card or Temporary Resident Card issued by
+the United States Citizenship and Immigration Services of the Department of
+Homeland Security.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-040__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Any other document that provides the
+applicantï¿½s name and age. If the applicant clearly appears over the age of 25
+years, no documentation of proof of age is required.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-040__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 4, the county clerk issuing the license shall require each applicant
+to answer under oath each of the questions contained in the form of license.
+The county clerk shall, except as otherwise provided in this subsection,
+require each applicant to include the applicantï¿½s social security number on the
+affidavit of application for the marriage license. If a person does not have a
+social security number, the person must state that fact. The county clerk shall
+not require any evidence to verify a social security number. If any of the
+information required is unknown to the person, the person must state that the
+answer is unknown. The county clerk shall not deny a license to an applicant
+who states that the applicant does not have a social security number or who
+states that any requested information concerning the applicantï¿½s parents is
+unknown.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-040__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Upon finding that extraordinary
+circumstances exist which result in only one applicant being able to appear
+before the county clerk, the county clerk may waive the requirements of
+subsection 3 with respect to the person who is unable to appear before the
+county clerk, or may refer the applicant to the district court. If the
+applicant is referred to the district court, the district court may waive the
+requirements of subsection 3 with respect to the person who is unable to appear
+before the county clerk. If the district court waives the requirements of
+subsection 3, the district court shall notify the county clerk in writing. If
+the county clerk or the district court waives the requirements of subsection 3,
+the county clerk shall require the applicant who is able to appear before the county
+clerk to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-040__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Answer under oath each of the questions
+contained in the form of license. The applicant shall answer any questions with
+reference to the other person named in the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-040__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Include the applicantï¿½s social security
+number and the social security number of the other person named in the license
+on the affidavit of application for the marriage license. If either person does
+not have a social security number, the person responding to the question must
+state that fact. The county clerk shall not require any evidence to verify a
+social security number.
+ï¿½If any of
+the information required on the application is unknown to the person responding
+to the question, the person must state that the answer is unknown. The county
+clerk shall not deny a license to an applicant who states that the applicant
+does not have a social security number or who states that any requested
+information concerning the parents of either the person who is responding to
+the question or the person who is unable to appear is unknown.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-040__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>When the authorization of a district
+court is required because the marriage involves a minor, the county clerk shall
+issue the license if that authorization is given to the county clerk in
+writing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-040__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>All records pertaining to marriage
+licenses are public records and open to inspection pursuant to the provisions
+ofNRS 239.010.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-040__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>A marriage license issued on or after
+July 1, 1987, expires 1 year after its date of issuance.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:33:1861; A1867,
+88;1899,
+47;1919,
+382;1927,
+49;1947,
+41;1949,
+91; 1943 NCL ï¿½ 4053]—(NRS A1959,
+484;1961,
+332;1975,
+144,435;1977,
+280;1979,
+486;1981,
+678;1985,
+1211;1987,
+1419;1991,
+1866;1993,
+28,1230;1997,
+2287,3323;1999,
+547;2007,
+1053;2009,
+1503;2011,
+1146,2044;2013,
+341,3665;2017,
+1518;2019,
+3661;2021,
+571;2023,
+1307)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-045">
+          <num>122.045</num>
+          <heading>Preparation of affidavit of correction to correct information in
+marriage license; fees.</heading>
+          <subsection eId="122-045__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, if any information in a marriage license is incorrect, the county
+clerk may charge and collect from a person a fee of not more than $25 for the
+preparation of an affidavit of correction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-045__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The county clerk may not charge and
+collect from a person any fee for the preparation of an affidavit of correction
+pursuant to subsection 1 if the only errors to be corrected in the marriage
+license are clerical errors that were made by the county clerk.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-045__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>All fees collected by the county clerk
+pursuant to this section must be deposited in the county general fund.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1322)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-050">
+          <num>122.050</num>
+          <heading>Form of marriage license.</heading>
+          <content>
+            <p>The
+marriage license must contain the name of each applicant as shown in the
+documents presented pursuant to subsection 2 ofNRS 122.040. The marriage license must be
+substantially in the following form:
+Marriage License
+(Expires 1 Year After Issuance)
+State of Nevadaï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ }
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ }ss.
+County of................................................ }
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ These presents are to
+authorize any minister, other church or religious official authorized to
+solemnize a marriage, notary public or marriage officiant who has obtained a
+certificate of permission to perform marriages, any Supreme Court justice,
+judge of the Court of Appeals or district judge within this State, or justice
+of the peace within a township wherein the justice of the peace is permitted to
+solemnize marriages or if authorized pursuant to subsection 3 ofNRS 122.080, or a municipal judge if
+authorized pursuant to subsection 4 ofNRS
+122.080, or any commissioner of civil marriages or his or her deputy within
+a commissioner township wherein they are permitted to solemnize marriages or
+any mayor if authorized pursuant to subsection 5 ofNRS 122.080, to join in marriage ........
+of (City, town or location) ........, State of ........ State of birth (If not
+in U.S.A., name of country) ........; Date of birth ........ Name of Parent No.
+1 ........ State of birth of Parent No. 1 (If not in U.S.A., name of country)
+........ Name of Parent No. 2 ........ State of birth of Parent No. 2 (If not
+in U.S.A., name of country) ........ Number of this marriage (1st, 2nd, etc.)
+..... Former Spouse: Deceased ........ Divorced ........ Annulled ........ When
+........ Where ........ And ........ of (City, town or location) ........,
+State of ........ State of birth (If not in U.S.A., name of country) ........;
+Date of birth ........ Name of Parent No. 1 ........ State of birth of Parent
+No. 1 (If not in U.S.A., name of country) ........ Name of Parent No. 2
+........ State of birth of Parent No. 2 (If not in U.S.A., name of country)
+........ Number of this marriage (1st, 2nd, etc.) ........ Former Spouse:
+Deceased ........ Divorced ........ Annulled ........ When ........ Where
+........; and to certify the marriage according to law.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Witness my hand and the seal
+of the county, this ..... day of the month of ï¿½ï¿½ï¿½. of the year ............
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+(Seal)ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Clerk
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Deputy
+clerk</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:33:1861; A1867,
+88;1899,
+47;1919,
+382;1927,
+49;1947,
+41;1949,
+91; 1943 NCL ï¿½ 4053]—(NRS A1967,
+1291;1969,
+763;1975,
+436;1981,
+679;1985,
+243;1987,
+1420;1993,
+1461;2001,
+31;2007,
+1055;2009,
+723;2013,
+1186,1746;2017,
+756,1025,1197,1521;2023,
+1309)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-055">
+          <num>122.055</num>
+          <heading>Consolidation of forms for marriage; requirements and
+limitations on information on reverse of form.</heading>
+          <subsection eId="122-055__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The county clerk may place the
+affidavit of application for a marriage license, the certificate of marriage
+and the marriage license on a single form.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-055__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The county clerk shall have printed or
+stamped on the reverse of the form:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-055__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Instructions for obtaining a certified copy
+or certified abstract of the certificate of marriage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-055__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Language in black ink and at least 16-point
+bold type in a font that is easy to read and that is in substantially the following
+form:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ This is a duplicate of your
+certificate. This is not a certified copy. After the certificate has been
+recorded by the county recorder or filed by the county clerk, you may obtain a
+certified copy. For name changes and other legal matters, you will need to
+obtain a certified copy.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-055__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Nothing may be printed, stamped or
+written on the reverse of the form other than the instructions and language
+described in subsection 2 and a time stamp used by the county clerk to signify
+that the form has been filed.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1419; A1991,
+69;2007,
+887;2011,
+1854;2017,
+1025)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-060">
+          <num>122.060</num>
+          <heading>Fees.</heading>
+          <subsection eId="122-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The county clerk is entitled to receive
+as his or her fee for issuing a marriage license the sum of $21.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The county clerk shall also at the time
+of issuing the marriage license:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-060__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Collect the sum of $10 and:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="122-060__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>If the board of county commissioners
+has adopted an ordinance pursuant toNRS
+246.100, deposit the sum into the county general fund pursuant toNRS 246.180for filing the originally signed
+certificate of marriage described inNRS
+122.120.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="122-060__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>If the board of county commissioners
+has not adopted an ordinance pursuant toNRS
+246.100, pay it over to the county recorder as his or her fee for recording
+the originally signed certificate of marriage described inNRS 122.120.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="122-060__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Collect the additional fee described in
+subsection 2 ofNRS 246.180, if the board
+of county commissioners has adopted an ordinance authorizing the collection of
+such fee, and deposit the fee pursuant toNRS
+246.190.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-060__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Collect the additional fee imposed pursuant
+toNRS 246.075, if the board of county
+commissioners has adopted an ordinance imposing the fee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-060__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The county clerk shall also at the time
+of issuing the marriage license collect the additional sum of $4 for the State
+of Nevada. The fees collected for the State must be paid over to the county
+treasurer by the county clerk on or before the fifth day of each month for the
+preceding calendar month, and must be placed to the credit of the State General
+Fund. The county treasurer shall remit quarterly all such fees deposited by the
+county clerk to the State Controller for credit to the State General Fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-060__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The county clerk shall also at the time
+of issuing the marriage license collect the additional sum of $50 for the
+Account for Aid for Victims of Domestic or Sexual Violence in the State General
+Fund. The fees collected for this purpose must be paid over to the county
+treasurer by the county clerk on or before the fifth day of each month for the
+preceding calendar month, and must be placed to the credit of that Account. The
+county treasurer shall, on or before the 15th day of each month, remit those
+fees deposited by the county clerk to the State Controller for credit to that
+Account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-060__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Any fee charged and collected pursuant
+to this section is separate and distinct from any administrative fee charged
+and collected by a county clerkï¿½s office, including, without limitation, a fee
+for certifying a copy of a marriage license.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:33:1861; A1867,
+88;1899,
+47;1919,
+382;1927,
+49;1947,
+41;1949,
+91; 1943 NCL ï¿½ 4053]—(NRS A1957,
+347;1959,
+740;1960,
+72;1967,
+1110;1975,
+437;1979,
+636;1981,
+382;1983,
+912;1987,
+26,1421;1991,
+1678,1679;2001,
+2918,3216;2003,
+227;2007,
+887;2009,
+263;2013,
+3667;2015,
+2629;2021,
+3257)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-061">
+          <num>122.061</num>
+          <heading>Office hours for issuance of marriage licenses.</heading>
+          <subsection eId="122-061__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In any county whose population is
+100,000 or more, except as otherwise provided in subsection 3, the main office
+of the county clerk where marriage licenses may be issued must be open to the
+public for the purpose of issuing such licenses from 8 a.m. to 12 a.m. every
+day including holidays, and may remain open at other times. The board of county
+commissioners shall determine the hours during which a branch office of the
+county clerk where marriage licenses may be issued must remain open to the
+public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-061__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In all other counties, the board of
+county commissioners shall determine the hours during which the offices where
+marriage licenses may be issued must remain open to the public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-061__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any office where marriage licenses may
+be issued may deviate from the hours of operation required pursuant to this
+section if the board of county commissioners approves the plan for the
+deviation submitted by the office. Such a plan must be fiscally neutral or
+result in cost savings.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1979,
+487; A1979,
+1333;1993,
+29;2009,
+1506;2010,
+26th Special Session, 50;2011,
+2046)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-062">
+          <num>122.062</num>
+          <heading>Licensed, ordained or appointed ministers, other church or
+religious officials authorized to solemnize a marriage, notaries public,
+marriage officiants and chaplains of Armed Forces to obtain certificates from
+county clerk; temporary replacements; solemnization by minister or other
+authorized person who resides in another state or who is retired.</heading>
+          <subsection eId="122-062__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any licensed, ordained or appointed
+minister or other church or religious official authorized to solemnize a
+marriage in good standing within his or her church or religious organization,
+or either of them, incorporated, organized or established in this State, a
+notary public appointed by the Secretary of State pursuant tochapter 240of NRS and in good standing with the
+Secretary of State, or a marriage officiant may join together in marriage persons
+who present a marriage license obtained from any county clerk of the State, if
+the minister, other church or religious official authorized to solemnize a
+marriage, notary public or marriage officiant first obtains or renews a
+certificate of permission to perform marriages as provided inNRS 122.062to122.073, inclusive. The fact that a
+minister or other church or religious official authorized to solemnize a
+marriage is retired does not disqualify him or her from obtaining a certificate
+of permission to perform marriages if, before retirement, the minister or other
+church or religious official authorized to solemnize a marriage had active
+charge of a church or religious organization for a period of at least 3 years.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-062__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A temporary replacement for a licensed,
+ordained or appointed minister or other church or religious official authorized
+to solemnize a marriage certified pursuant toNRS
+122.062to122.073, inclusive, may
+solemnize marriages pursuant to subsection 1 for a period not to exceed 90 days,
+if the requirements of this subsection are satisfied. The minister or other
+church or religious official authorized to solemnize a marriage whom he or she
+temporarily replaces shall provide him or her with a written authorization
+which states the period during which it is effective, and the temporary
+replacement shall obtain from the county clerk in the county in which he or she
+is a temporary replacement a written authorization to solemnize marriage and
+submit to the county clerk an application fee of $25.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-062__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any chaplain who is assigned to duty in
+this State by the Armed Forces of the United States may solemnize marriages if
+the chaplain obtains a certificate of permission to perform marriages from the
+county clerk of the county in which his or her duty station is located. The
+county clerk shall issue such a certificate to a chaplain upon proof of his or
+her military status as a chaplain and of his or her assignment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-062__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A licensed, ordained or appointed
+minister, other church or religious official authorized to solemnize a
+marriage, active or retired, a notary public or person who desires to be a
+marriage officiant may submit to the county clerk in the county in which a
+marriage is to be performed an application to perform a specific marriage in
+the county. The application must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-062__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Include the full names and addresses of the
+persons to be married;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-062__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Include the date and location of the marriage
+ceremony;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-062__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Include the information and documents
+required pursuant to subsection 1 ofNRS
+122.064;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-062__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the county clerk has established a
+training course for an applicant seeking to obtain a certificate of permission
+to perform marriages or a single marriage in this State, include verification
+that the applicant has satisfied the requirements of paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-062__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of
+subsection 1 ofNRS 122.064; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-062__subsec_4__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Be accompanied by an application fee of $25.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-062__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A county clerk may grant authorization
+to perform a specific marriage to a person who submitted an application
+pursuant to subsection 4 if the county clerk is satisfied that the minister or
+other church or religious official authorized to solemnize a marriage, whether
+he or she is active or retired, is in good standing with his or her church or
+religious organization or, in the case of a notary public, if the notary public
+is in good standing with the Secretary of State, and, if the county clerk has
+established a training course for an applicant seeking to obtain a certificate
+of permission to perform marriages or a single marriage in this State, that the
+applicant satisfied the requirements of paragraph</p>
+            </content>
+            <paragraph eId="122-062__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of subsection 1 ofNRS 122.064. The authorization must be in
+writing and need not be filed with any other public officer. A separate
+authorization is required for each marriage performed. A person may not obtain
+more than five authorizations to perform a specific marriage pursuant to this
+section in any calendar year and must acknowledge that he or she is subject to
+the jurisdiction of the county clerk with respect to the provisions of this
+chapter governing the conduct of ministers, other church or religious officials
+authorized to solemnize a marriage, notaries public or marriage officiants to
+the same extent as if he or she had obtained a certificate of permission to
+perform marriages.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1289; A1969,
+37;1993,
+1462;1997,
+2040;1999,
+520,541;2009,
+724;2013,
+1187;2017,
+757,1026;2019,
+452)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-064">
+          <num>122.064</num>
+          <heading>Initial application for or renewal of certificate: Form;
+required information; fees. [Effective until the date of the repeal of 42
+U.S.C. ï¿½ 666, the federal law requiring each state to establish procedures for
+withholding, suspending and restricting the professional, occupational and
+recreational licenses for child support arrearages and for noncompliance with
+certain processes relating to paternity or child support proceedings.]</heading>
+          <subsection eId="122-064__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A certificate of permission to perform
+marriages or a renewal of such a certificate may be obtained only from the
+county clerk of the county in which the minister, other church or religious
+official authorized to solemnize a marriage, notary public or person who
+desires to be a marriage officiant resides, after the filing of a proper
+application. The initial application or application for renewal must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-064__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be in writing and be verified by the
+applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-064__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the applicant is a minister or other
+church or religious official authorized to solemnize a marriage:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="122-064__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Include the date of licensure,
+ordination or appointment of the minister or other church or religious official
+authorized to solemnize a marriage, and the name of the church or religious
+organization with which he or she is affiliated; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="122-064__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Be accompanied by one copy of the
+affidavit of authority to solemnize marriages described in subsection 5.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="122-064__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the applicant is a notary public:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="122-064__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Include the date of the appointment of
+the notary public by the Secretary of State; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="122-064__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Be accompanied by a verification
+issued by the Secretary of State within the 3 months immediately preceding the
+date of the application which states that the applicant has been appointed as a
+notary public by the Secretary of State pursuant tochapter
+240of NRS and is in good standing with the Secretary of State. The county
+clerk must refuse to issue a certificate of permission if the appointment of
+the notary public is suspended or revoked and may refuse to issue a certificate
+of permission if the notary public has committed any violations ofchapter 240of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="122-064__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the county clerk has established a
+training course for an applicant seeking to obtain a certificate of permission
+to perform marriages or a single marriage in this State:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="122-064__subsec_1__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Include an additional fee not to
+exceed $100 for the course; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="122-064__subsec_1__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Be accompanied by verification that
+the applicant successfully completed the course.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="122-064__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Include the social security number of the
+applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-064__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Be accompanied by an application fee of $25.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-064__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To determine the qualifications of any
+minister, other church or religious official authorized to solemnize a
+marriage, notary public or person who desires to be a marriage officiant who
+has filed an application for a certificate of permission, the county clerk with
+whom the application has been filed may require:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-064__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The church or religious organization of the
+minister or other church or religious official authorized to solemnize a
+marriage to furnish any evidence which the county clerk considers necessary or
+helpful.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-064__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An investigation of the background and
+present activities of the minister, other church or religious official
+authorized to solemnize a marriage, notary public or person who desires to be a
+marriage officiant. The cost of an investigation conducted pursuant to this
+paragraph must be charged to the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-064__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In addition to the requirement of good
+standing, the county clerk shall, before approving an initial application,
+satisfy himself or herself that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-064__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the applicant is a minister or other
+church or religious official authorized to solemnize a marriage, the
+applicantï¿½s ministry is one of service to his or her church or religious
+organization or, in the case of a retired minister or other church or religious
+official authorized to solemnize a marriage, that his or her active ministry
+was of such a nature.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-064__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>No certificate previously issued to the
+applicant has been cancelled for a knowing violation of the laws of this State
+or of the United States.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-064__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The applicant has not been convicted of a
+felony, released from confinement or completed his or her parole or probation,
+whichever occurs later, within 10 years before the date of the application.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-064__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The county clerk may require any
+applicant to submit information in addition to that required by this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-064__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The affidavit of authority to solemnize
+marriages required by subparagraph (2) of paragraph</p>
+            </content>
+            <paragraph eId="122-064__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 must be
+in substantially the following form:
+AFFIDAVIT
+OF AUTHORITY TO SOLEMNIZE MARRIAGES FOR CHURCHES AND RELIGIOUS ORGANIZATIONS
+State of Nevadaï¿½ï¿½ï¿½ï¿½ï¿½ }
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ }ss.
+County of ............... }
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ The..................................................
+(name of church or religious organization) is organized and carries on its work
+in the State of Nevada. Its active meetings are located
+at.................................................. (street address, city or town).
+The.................................................. (name of church or
+religious organization) hereby finds
+that.................................................. (name of minister or
+other person authorized to solemnize marriages) is in good standing and is
+authorized by the.................................................. (name of
+church or religious organization) to solemnize a marriage.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ I am duly authorized
+by.................................................. (name of church or
+religious organization) to complete and submit this affidavit.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+Signature of Official
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+Name of Official
+(type or print name)
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+Title of Official
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+Address
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+City, State and Zip Code
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+Telephone Number
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Signed and sworn to (or
+affirmed) before me this.......... day of the month of.................... of
+the year...........
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+Notary Public for
+..............................
+County, Nevada.
+My appointment
+expires..............................
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-064__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Not later than 30 days after issuing or
+renewing a certificate of permission to perform marriages to a notary public,
+the county clerk must submit to the Secretary of State the name of the notary
+public to whom the certificate has been issued.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-064__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>If a licensed, ordained or appointed
+minister, other church or religious official authorized to solemnize a marriage
+or marriage officiant who holds a certificate of permission to perform
+marriages changes his or her mailing address, the minister, other church or
+religious official authorized to solemnize a marriage or marriage officiant
+must notify the county clerk who issued the certificate of his or her new
+mailing address not later than 30 days after the change. Pursuant toNRS 122.068, a county clerk may revoke the
+certificate of permission to perform marriages of a licensed, ordained or
+appointed minister, other church or religious official authorized to solemnize
+a marriage or marriage officiant who fails to notify the county clerk of his or
+her new mailing address within 30 days after the change. If a notary public who
+holds a certificate of permission to perform marriages changes his or her
+mailing address, the notary public must submit to the Secretary of State a
+request for an amended certificate of appointment pursuant toNRS 240.036.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-064__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>The fees collected by the county clerk
+pursuant to paragraph</p>
+            </content>
+            <paragraph eId="122-064__subsec_8__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of subsection 1 must be deposited in the account
+established pursuant toNRS 19.016.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1290; A1969,
+91;1977,
+457;1997,
+2041;2009,
+725;2013,
+1188;2017,
+1027;2019,
+454)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-065">
+          <num>122.065</num>
+          <heading>Payment of child support: Statement by applicant for
+certificate; grounds for denial of certificate; duty of county clerk.
+[Effective until the date of the repeal of 42 U.S.C. ï¿½ 666, the federal law
+requiring each state to establish procedures for withholding, suspending and
+restricting the professional, occupational and recreational licenses for child
+support arrearages and for noncompliance with certain processes relating to
+paternity or child support proceedings.]</heading>
+          <subsection eId="122-065__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An applicant for the issuance of a
+certificate of permission shall submit to the county clerk the statement
+prescribed by the Division of Welfare and Supportive Services of the Department
+of Health and Human Services pursuant toNRS
+425.520. The statement must be completed and signed by the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-065__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The county clerk shall include the
+statement required pursuant to subsection 1 in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-065__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The application or any other forms that must
+be submitted for the issuance of the certificate of permission; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-065__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A separate form prescribed by the county
+clerk.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-065__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A certificate of permission may not be
+issued by the county clerk if the applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-065__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Fails to submit the statement required
+pursuant to subsection 1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-065__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Indicates on the statement submitted pursuant
+to subsection 1 that the applicant is subject to a court order for the support
+of a child and is not in compliance with the order or a plan approved by the
+district attorney or other public agency enforcing the order for the repayment
+of the amount owed pursuant to the order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-065__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If an applicant indicates on the
+statement submitted pursuant to subsection 1 that the applicant is subject to a
+court order for the support of a child and is not in compliance with the order
+or a plan approved by the district attorney or other public agency enforcing
+the order for the repayment of the amount owed pursuant to the order, the
+county clerk shall advise the applicant to contact the district attorney or
+other public agency enforcing the order to determine the actions that the
+applicant may take to satisfy the arrearage.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2039)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-066">
+          <num>122.066</num>
+          <heading>Database of ministers, other church or religious officials
+authorized to solemnize a marriage, notaries public or marriage officiants who
+have been issued certificate of permission to perform marriages; maintenance of
+database by Secretary of State; entry of certain information into database by
+county clerk; approval of application for or renewal of certificate; validity
+of certificate; expiration; removal of authority to solemnize marriage.</heading>
+          <subsection eId="122-066__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Secretary of State shall establish
+and maintain a statewide database of ministers, other church or religious
+officials authorized to solemnize a marriage, notaries public or marriage
+officiants who have been issued a certificate of permission to perform
+marriages or whose certificate has been renewed. The database must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-066__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Serve as the official list of ministers,
+other church or religious officials authorized to solemnize a marriage,
+notaries public or marriage officiants approved to perform marriages in this
+State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-066__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide for a single method of storing and
+managing the official list;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-066__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Be a uniform, centralized and interactive
+database;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-066__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Be electronically secure and accessible to
+each county clerk in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-066__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Contain the name, mailing address and other
+pertinent information of each minister, other church or religious official
+authorized to solemnize a marriage, notary public or marriage officiant as
+prescribed by the Secretary of State; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-066__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Include a unique identifier assigned by the
+Secretary of State to each minister, other church or religious official
+authorized to solemnize a marriage, notary public or marriage officiant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-066__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the county clerk approves an
+application for a certificate of permission to perform marriages or for the
+renewal of a certificate, the county clerk shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-066__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Enter all information contained in the
+application into the electronic statewide database of ministers, other church
+or religious officials authorized to solemnize a marriage, notaries public or
+marriage officiants maintained by the Secretary of State not later than 10 days
+after the certificate of permission to perform marriages or the renewal of a
+certificate is approved by the county clerk; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-066__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide to the Secretary of State all information
+related to the minister, other church or religious official authorized to
+solemnize a marriage, notary public or marriage officiant pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-066__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>of subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-066__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon approval of an application
+pursuant to subsection 2, the minister, other church or religious official
+authorized to solemnize a marriage, notary public or marriage officiant:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-066__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Shall comply with the laws of this State
+governing the solemnization of marriage and conduct of ministers, other church
+or religious officials authorized to solemnize a marriage, notaries public or
+marriage officiants;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-066__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is subject to further review or investigation
+by the county clerk to ensure that he or she continues to meet the statutory
+requirements for a person authorized to solemnize a marriage; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-066__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Shall provide the county clerk with any
+changes to his or her status or information, including, without limitation, the
+address or telephone number of the church or religious organization, if
+applicable, or any other information pertaining to certification within 30 days
+after such a change. If a notary public to whom a certificate of permission to
+perform marriages has been issued or renewed changes his or her address, the
+notary public must submit to the Secretary of State a request for an amended
+certificate of appointment in accordance withNRS
+240.036.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-066__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In addition to the circumstances set
+forth in this section in which a certificate of permission to perform marriages
+is no longer valid or expires, a county clerk may, in his or her discretion,
+establish a policy providing that a certificate of permission expires 5 years
+after the date it was issued or renewed. If a county clerk does not establish
+such a policy, the certificate of permission remains valid unless and until it
+becomes invalid or expires pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-066__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A certificate of permission is valid
+until:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-066__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the certificate is issued to a minister or
+other church or religious official authorized to solemnize a marriage, the
+county clerk has received an affidavit of removal of authority to solemnize
+marriages pursuant toNRS 122.0665or
+the certificate of permission is revoked pursuant toNRS 122.068.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-066__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the certificate is issued to a notary public,
+the appointment as a notary public has expired or has been cancelled, revoked
+or suspended. If, after the expiration of his or her appointment, a notary
+public receives a new appointment, the notary public may reapply for a
+certificate of permission to perform marriages.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-066__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>An affidavit of removal of authority to
+solemnize marriages that is received pursuant to paragraph</p>
+            </content>
+            <paragraph eId="122-066__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 5
+must be sent to the county clerk within 5 days after the minister or other
+church or religious official authorized to solemnize a marriage ceased to be a
+member of the church or religious organization in good standing or ceased to be
+a minister or other church or religious official authorized to solemnize a
+marriage for the church or religious organization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-066__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>If the county clerk in the county where
+the certificate of permission was issued has reason to believe that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-066__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The minister or other church or religious
+official authorized to solemnize a marriage is no longer in good standing
+within his or her church or religious organization, or that he or she is no
+longer a minister or other church or religious official authorized to solemnize
+a marriage, or that such church or religious organization no longer exists;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-066__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The notary public is no longer in good
+standing with the Secretary of State or that the appointment of the notary
+public has expired; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-066__subsec_7__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The marriage officiant is no longer in good
+standing with the county clerk,
+ï¿½the county
+clerk may require satisfactory proof of the good standing of the minister,
+other church or religious official authorized to solemnize a marriage, notary
+public or marriage officiant. If such proof is not presented within 15 days,
+the county clerk shall remove the certificate of permission by amending the
+electronic record of the minister, other church or religious official
+authorized to solemnize a marriage, notary public or marriage officiant in the
+statewide database pursuant to subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-066__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 9, if any minister or other church or religious official authorized
+to solemnize a marriage to whom a certificate of permission has been issued
+severs ties with his or her church or religious organization or moves from the
+county in which his or her certificate was issued, the certificate shall expire
+immediately upon such severance or move, and the church or religious
+organization shall, within 5 days after the severance or move, file an
+affidavit of removal of authority to solemnize marriages pursuant toNRS 122.0665. If the minister or other
+church or religious official authorized to solemnize a marriage voluntarily
+advises the county clerk of the county in which his or her certificate was
+issued of his or her severance with his or her church or religious
+organization, or that he or she has moved from the county, the certificate
+shall expire immediately upon such severance or move without any notification
+to the county clerk by the church or religious organization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-066__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>If any minister or other church or
+religious official authorized to solemnize a marriage, who is retired and to
+whom a certificate of permission has been issued, moves from the county in
+which his or her certificate was issued to another county in this State, the
+certificate remains valid until such time as the certificate otherwise expires
+or is removed or revoked as prescribed by law. The minister or other church or
+religious official authorized to solemnize a marriage must provide his or her
+new address to the county clerk in the county to which the minister or other
+church or religious official authorized to solemnize a marriage has moved.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-066__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>If any notary public or marriage
+officiant to whom a certificate of permission has been issued or renewed moves
+from the county in which his or her certificate was issued, the certificate
+shall expire immediately upon such move.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-066__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>The Secretary of State may adopt
+regulations concerning the creation and administration of the statewide
+database. This section does not prohibit the Secretary of State from making the
+database publicly accessible for the purpose of viewing ministers, other church
+or religious officials who are authorized to solemnize a marriage, notaries
+public or marriage officiants to whom a certificate of permission to perform
+marriages has been issued or renewed in this State.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1290; A1969,
+92;1971,
+1550;2009,
+728;2011,
+1855;2013,
+1191,3668;2017,
+1030)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-0665">
+          <num>122.0665</num>
+          <heading>Affidavit of removal of authority to solemnize marriages: Form
+of affidavit; filing by church or religious organization that authorized
+official to solemnize marriages.</heading>
+          <subsection eId="122-0665__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a minister or other church or
+religious official authorized to solemnize a marriage is no longer authorized
+to solemnize a marriage by the church or religious organization that authorized
+the minister or other church or religious official to solemnize marriages when
+he or she applied for a certificate of permission to perform marriages pursuant
+toNRS 122.064, the church or religious
+organization shall, within 5 days after the authorization is terminated, file
+an affidavit of removal of authority to solemnize marriages with the county
+clerk of the county where the original affidavit of authority to solemnize
+marriages was filed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-0665__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The affidavit of removal of authority
+to solemnize marriages must be in substantially the following form:
+AFFIDAVIT
+OF REMOVAL OF AUTHORITY TO SOLEMNIZE MARRIAGES FOR CHURCHES OR RELIGIOUS
+ORGANIZATIONS
+State of Nevadaï¿½ï¿½ï¿½ï¿½ï¿½ }
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ }ss.
+County of ............... }
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ The........................................
+(name of church or religious organization) is organized and carries on its work
+in the State of Nevada. Its active meetings are located
+at........................................ (street address, city or town).
+The........................................ (name of church or religious
+organization) hereby removes the authority
+of........................................ (name of minister or other church or
+religious official authorized to solemnize marriages), filed in the County
+of........................................, on the.......... day of the month
+of...................., of the year.........., to solemnize marriages.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ I am duly authorized
+by........................................ (name of church or religious
+organization) to complete and submit this affidavit.
+..........................................
+Signature of Official
+..........................................
+Name of Official
+(type or print name)
+..........................................
+Title of Official
+..........................................
+Address
+..........................................
+City, State and Zip Code
+..........................................
+Telephone Number
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Signed and sworn to (or
+affirmed) before me this.......... day of the month of.................... of
+the year...........
+..........................................
+Notary Public for
+..............................
+County, Nevada.
+My appointment
+expires..............................</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+722; A2013,
+1193,3670)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-067">
+          <num>122.067</num>
+          <heading>Suspension of certificate for failure to pay child support or
+comply with certain subpoenas or warrants; reinstatement of certificate.
+[Effective until the date of the repeal of 42 U.S.C. ï¿½ 666, the federal law
+requiring each state to establish procedures for withholding, suspending and
+restricting the professional, occupational and recreational licenses for child
+support arrearages and for noncompliance with certain processes relating to
+paternity or child support proceedings.]</heading>
+          <subsection eId="122-067__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a county clerk receives a copy of a
+court order issued pursuant toNRS 425.540that provides for the suspension of all professional, occupational and
+recreational licenses, certificates and permits issued to a person who is the
+holder of a certificate of permission, the county clerk shall deem the
+certificate of permission issued to that person to be suspended at the end of
+the 30th day after the date on which the court order was issued unless the
+county clerk receives a letter issued to the holder of the certificate of
+permission by the district attorney or other public agency pursuant toNRS 425.550stating that the holder of the
+certificate of permission has complied with the subpoena or warrant or has
+satisfied the arrearage pursuant toNRS
+425.560.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-067__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A county clerk shall reinstate a
+certificate of permission that has been suspended by a district court pursuant
+toNRS 425.540if the county clerk
+receives a letter issued by the district attorney or other public agency
+pursuant toNRS 425.550to the person
+whose certificate of permission was suspended stating that the person whose
+certificate of permission was suspended has complied with the subpoena or
+warrant or has satisfied the arrearage pursuant toNRS 425.560.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2040)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-068">
+          <num>122.068</num>
+          <heading>Revocation of certificates and removal of authority to solemnize
+marriages; hearing; duties of Secretary of State.</heading>
+          <subsection eId="122-068__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any county clerk who has issued or
+renewed a certificate of permission to perform marriages to a minister, other
+church or religious official authorized to solemnize a marriage, notary public
+or marriage officiant pursuant toNRS
+122.062to122.073, inclusive, may
+revoke the certificate for good cause shown after a hearing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-068__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the certificate of permission to
+perform marriages of any minister, other church or religious official
+authorized to solemnize a marriage, notary public or marriage officiant is
+revoked or if the county clerk has received an affidavit of removal of authority
+to solemnize marriages pursuant toNRS
+122.0665, the county clerk shall inform the Secretary of State of that
+fact, and the Secretary of State shall immediately remove the name of the
+minister, other church or religious official authorized to solemnize a
+marriage, notary public or marriage officiant from the official list contained
+in the database of ministers, other church or religious officials authorized to
+solemnize a marriage, notaries public or marriage officiants and shall notify
+each county clerk and county recorder in the State of the revocation or removal
+of authority.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1291; A2009,
+730;2013,
+1194,3671;2017,
+1032)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-071">
+          <num>122.071</num>
+          <heading>Judicial review.</heading>
+          <content>
+            <p>Any
+minister, other church or religious official authorized to solemnize a
+marriage, notary public or marriage officiant whose application for a
+certificate of permission to perform marriages or renewal of such certificate
+is denied, or whose certificate of permission is revoked, is entitled to
+judicial review of such action in the district court of the county in which
+such action was taken.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1291; A2009,
+731;2013,
+1195;2017,
+1033)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-073">
+          <num>122.073</num>
+          <heading>Additional regulations by county clerk.</heading>
+          <content>
+            <p>Each
+county clerk may prescribe additional regulations, which shall not conflict
+with the provisions of this chapter, relating to the issuance and revocation of
+certificates of permission to perform marriages.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1291; A2009,
+731)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-080">
+          <num>122.080</num>
+          <heading>Solemnization of marriage by Supreme Court justice, appellate
+judge, district judge, justice of the peace, municipal judge, commissioner and
+deputy commissioner of civil marriages and mayor; unlawful acts.</heading>
+          <subsection eId="122-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>After receipt of the marriage license
+previously issued to persons wishing to be married as provided inNRS 122.040and122.050, it is lawful for any justice of
+the Supreme Court, any judge of the Court of Appeals, any judge of the district
+court, any justice of the peace in his or her township if it is not a
+commissioner township, any justice of the peace in a commissioner township if
+authorized pursuant to subsection 3, any municipal judge if authorized pursuant
+to subsection 4, any commissioner of civil marriages within his or her county
+and within a commissioner township therein, any deputy commissioner of civil
+marriages within the county of his or her appointment and within a commissioner
+township therein or any mayor if authorized pursuant to subsection 5, to join
+together in marriage all persons not prohibited by this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>This section does not prohibit:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-080__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A justice of the peace of one township, while
+acting in the place and stead of the justice of the peace of any other
+township, from performing marriage ceremonies within the other township, if
+such other township is not a commissioner township.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-080__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A justice of the peace of one township
+performing marriages in another township of the same county where there is no
+duly qualified and acting justice of the peace, if such other township is not a
+commissioner township or if he or she is authorized to perform the marriage
+pursuant to subsection 3.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-080__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In any calendar year, a justice of the
+peace may perform not more than 20 marriage ceremonies in commissioner
+townships if he or she does not accept any fee, gratuity, gift, honorarium or
+anything of value for or in connection with solemnizing the marriage other than
+a nonmonetary gift that is of nominal value.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-080__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In any calendar year, a municipal judge
+may perform not more than 20 marriage ceremonies in this State if he or she
+does not accept any fee, gratuity, gift, honorarium or anything of value for or
+in connection with solemnizing the marriage other than a nonmonetary gift that
+is of nominal value.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-080__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A mayor of an incorporated city may
+perform a marriage ceremony if he or she is:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-080__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The mayor of a city organized under general
+law; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-080__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Authorized by the city council or other
+governing body of a city organized under a special charter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-080__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Any mayor who performs a marriage
+ceremony shall not accept any fee, gratuity, gift, honorarium or anything of
+value for or in connection with solemnizing the marriage other than a
+nonmonetary gift that is of nominal value.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-080__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Any justice of the peace who performs a
+marriage ceremony in a commissioner township or any municipal judge or mayor
+who performs a marriage ceremony in this State and who, in violation of this
+section, accepts any fee, gratuity, gift, honorarium or anything of value for
+or in connection with solemnizing the marriage is guilty of a misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:33:1861; A1867,
+88;1899,
+47;1901,
+19;1911,
+317;1925,
+232;1933,
+42; R1937,
+72; A1943,
+175;1947,
+830;1951,
+431]—(NRS A1969,
+764;1993,
+1463;1999,
+1323;2013,
+1747;2017,
+758,1197)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-090">
+          <num>122.090</num>
+          <heading>Marriage solemnized by unauthorized person: When valid.</heading>
+          <content>
+            <p>No marriage solemnized before any person
+professing to be a judge, justice, minister or other church or religious
+official authorized to solemnize a marriage, notary public or marriage
+officiant to whom a certificate of permission to perform marriages or a renewal
+of a certificate has been issued, commissioner of civil marriages, deputy
+commissioner of civil marriages or mayor shall be deemed or adjudged to be
+void, nor shall the validity thereof be in any way affected on account of any
+want of jurisdiction or authority, provided it be consummated with a full
+belief on the part of the persons so married, or either of them, that they have
+been lawfully joined in marriage.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [13:33:1861; B ï¿½ 206; BH ï¿½ 482; C ï¿½ 493; RL ï¿½ 2349;
+NCL ï¿½ 4061]—(NRS A1969,
+764;2009,
+731;2013,
+1195;2017,
+1033,1198)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-100">
+          <num>122.100</num>
+          <heading>Marriages solemnized between March 3, 1937, and March 24, 1943,
+validated.</heading>
+          <content>
+            <p>All marriages
+solemnized since March 3, 1937, and performed in the manner prescribed and
+required by section 4 of chapter 33, Statutes of Nevada 1861, prior to its
+repeal on March 3, 1937, are hereby expressly validated. All such marriages so
+solemnized and performed between March 3, 1937, and March 24, 1943, are hereby
+declared to be valid to all intents and purposes to the same extent as if
+section 4 of chapter 33, Statutes of Nevada 1861, had not been repealed on
+March 3, 1937.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [4a:33:1861; added1943,
+208; 1943 NCL ï¿½ 4052]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-103">
+          <num>122.103</num>
+          <heading>Marriages solemnized by certain ministers before May 20, 1967,
+validated.</heading>
+          <content>
+            <p>All marriages
+solemnized by ministers holding certificates of permission issued pursuant to
+formerNRS 122.070are
+hereby expressly validated.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1291)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-110">
+          <num>122.110</num>
+          <heading>No particular form of solemnization required; witness.</heading>
+          <subsection eId="122-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In the solemnization of marriage, no
+particular form is required except that the parties shall declare, in the
+presence of the justice, judge, minister or other church or religious official
+authorized to solemnize a marriage, notary public or marriage officiant to whom
+a certificate of permission to perform marriages or a renewal of a certificate
+has been issued, justice of the peace, commissioner of civil marriages, deputy
+commissioner of civil marriages or mayor, and the attending witness, that they
+take each other as spouses.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In every case, there shall be at least
+one witness present besides the person performing the ceremony.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [6:33:1861; B ï¿½ 199; BH ï¿½ 475; C ï¿½ 486; RL ï¿½ 2342;
+NCL ï¿½ 4054]—(NRS A1969,
+764;1977,
+470;2009,
+731;2013,
+1195;2017,
+759,1033,1199)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-120">
+          <num>122.120</num>
+          <heading>Certificate of marriage: Form.</heading>
+          <subsection eId="122-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>After a marriage is solemnized, the
+person solemnizing the marriage shall give to each couple being married an
+uncertified copy of a certificate of marriage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The certificate of marriage must
+contain the date of birth of each applicant as contained in the form of
+marriage license pursuant toNRS 122.050.
+If two persons, regardless of gender, who are spouses of each other are being
+rejoined in marriage pursuant to subsection 2 ofNRS 122.020, the certificate of marriage
+must state that the persons were rejoined in marriage and that the certificate
+is replacing a record of marriage which was lost or destroyed or is otherwise
+unobtainable. The certificate of marriage must be in substantially the
+following form:
+State of Nevada
+Marriage Certificate
+State of Nevadaï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ }
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ }ss.
+County of............................................ }
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ This is to certify that the
+undersigned, ................................ (a minister or other church or
+religious official authorized to solemnize a marriage, notary public, judge,
+justice of the peace of ................................ County, commissioner
+of civil marriages, deputy commissioner of civil marriages, marriage officiant
+or mayor, as the case may be), did on the ................ day of the month of
+ï¿½ï¿½ï¿½. of the year ..............., at ................ (address or church),
+................ (city), Nevada, join or rejoin, as the case may be, in lawful
+wedlock ................ (name), of ................ (city), State of
+................, date of birth ................, and ................ (name),
+of ................(city), State of ................, date of birth
+................, with their mutual consent, in the presence of
+................ and ................ (witnesses). (If two persons, regardless
+of gender, who are the spouses of each other are being rejoined in marriage
+pursuant to subsection 2 ofNRS 122.020,
+this certificate replaces the record of the marriage of the persons who are
+being rejoined in marriage.)
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ .........................................................................
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Signature
+of person performing
+(Seal of County Clerk)ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ the
+marriage
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ .........................................................................
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Name
+under signature typewritten
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ or
+printed in black ink
+......................................................
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ County Clerk
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ .........................................................................
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Official
+title of person performing
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ the
+marriage
+......................................................
+......................................................
+ï¿½ï¿½ï¿½ï¿½ Coupleï¿½s mailing address
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>All information contained in the
+certificate of marriage must be typewritten or legibly printed in black ink,
+except the signatures. The signature of the person performing the marriage must
+be an original signature.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [7:33:1861; A1867,
+88; BH ï¿½ 476; C ï¿½ 487; RL ï¿½ 2343; NCL ï¿½ 4055]—(NRS A1977,
+470;1987,
+1421;2001,
+32;2007,
+1056;2009,
+731,1506;2013,
+1195;2017,
+759,1033,1199,1522;2023,
+1310)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-130">
+          <num>122.130</num>
+          <heading>Certificate of marriage: Recording; loss or destruction before
+recording; replacement certificate; fees.</heading>
+          <subsection eId="122-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each person who solemnizes a marriage
+shall make a record of it and, within 10 days after the marriage, shall deliver
+to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-130__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the board of county commissioners has
+adopted an ordinance pursuant toNRS 246.100,
+the county clerk of the county where the license was issued the original
+certificate of marriage required byNRS
+122.120.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-130__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the board of county commissioners has not
+adopted an ordinance pursuant toNRS 246.100,
+the county recorder of the county where the license was issued the original
+certificate of marriage required byNRS
+122.120.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the original certificate of marriage
+that is held by the person who solemnizes the marriage is lost or destroyed
+before it is delivered pursuant to subsection 1, the county clerk may charge
+and collect from the person who solemnizes the marriage a fee of not more than
+$15 for the preparation of an affidavit of loss or destruction and the issuance
+of a replacement certificate. All fees collected by the county clerk pursuant
+to this subsection must be deposited in the county general fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-130__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>All original certificates must be
+recorded by the county recorder or filed by the county clerk in a book to be
+kept by him or her for that purpose. For recording or filing the original
+certificates, the county recorder or county clerk is entitled to the fees
+designated in subsection 2 ofNRS 122.060and subsection 3 ofNRS 122.135. All
+such fees must be deposited in the county general fund.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [8:33:1861; A1899,
+47; C ï¿½ 488; RL ï¿½ 2344; NCL ï¿½ 4056] + [9:33:1861; A1899,
+47; C ï¿½ 489; RL ï¿½ 2345; NCL ï¿½ 4057]—(NRS A1965,
+1253;1967,
+1110;1969,
+764,1462;1977,
+470;1983,
+348;1987,
+1423;1999,
+1323;2007,
+888;2013,
+3671)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-135">
+          <num>122.135</num>
+          <heading>Preparation of affidavit of correction to correct information in
+certificate of marriage; fees.</heading>
+          <subsection eId="122-135__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, if any information in a certificate of marriage is incorrect, the
+county clerk or the county recorder may charge and collect from a person a fee
+of not more than $25 for the preparation of an affidavit of correction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-135__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Neither the county clerk nor the county
+recorder may charge and collect from a person any fee for the preparation of an
+affidavit of correction pursuant to subsection 1 if the only errors to be
+corrected in the certificate of marriage are clerical errors that were made by
+the county clerk.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-135__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Whether or not a person is required to
+pay any fee for the preparation of an affidavit of correction pursuant to
+subsection 1:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-135__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The county clerk shall charge and collect
+from the person a fee in an amount equal to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="122-135__subsec_3__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>If the board of county commissioners
+has adopted an ordinance pursuant toNRS
+246.100, the amount that the county clerk is required to charge and collect
+pursuant toNRS 246.180for filing the
+corrected certificate of marriage; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="122-135__subsec_3__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>If the board of county commissioners
+has not adopted an ordinance pursuant toNRS
+246.100, the amount that the county recorder is required to charge and
+collect pursuant toNRS 247.305, and the
+county clerk shall pay the fee over to the county recorder as his or her fee
+for recording the corrected certificate of marriage; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="122-135__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The county recorder shall charge and collect
+from the person a fee in an amount equal to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="122-135__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>If the board of county commissioners
+has adopted an ordinance pursuant toNRS
+246.100, the amount that the county clerk is required to charge and collect
+pursuant toNRS 246.180, and the county
+recorder shall pay the fee over to the county clerk as his or her fee for
+recording the corrected certificate of marriage; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="122-135__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>If the board of county commissioners
+has not adopted an ordinance pursuant toNRS
+246.100, the amount that the county recorder is required to charge and
+collect pursuant toNRS 247.305for
+recording the corrected certificate of marriage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-135__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>All fees collected pursuant to this
+section must be deposited in the county general fund.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1322; A2007,
+889)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-137">
+          <num>122.137</num>
+          <heading>Amended certificate of marriage: Issuance for name change;
+requirements; fee.</heading>
+          <subsection eId="122-137__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a marriage was solemnized in this
+State and a party to the marriage receives a certified copy of a court order
+from a court of this State or another state, the District of Columbia or any
+territory of the United States changing the name of the party, the county clerk
+of the county where the original marriage license was issued to the party shall
+issue an amended certificate of marriage to that party that sets forth the new
+name of the party, upon receipt by the county clerk of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-137__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A certified copy of the original certificate
+of marriage;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-137__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A certified copy of the court order;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-137__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A notarized affidavit of amendment prepared
+by the county clerk and executed by the parties to the marriage; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-137__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The fees required pursuant to subsection 2.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-137__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The county clerk may charge and collect
+a fee of not more than $25 for the preparation of the affidavit of amendment
+pursuant to paragraph</p>
+            </content>
+            <paragraph eId="122-137__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 1. The party requesting the amended
+certificate of marriage must also pay any fee required pursuant toNRS 246.180orNRS 247.305, as applicable, for the filing
+or recording of the amended certificate of marriage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-137__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon compliance with subsection 1, the
+county clerk shall issue the amended certificate of marriage to the parties to
+the marriage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-137__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The county clerk or county recorder, as
+applicable, shall maintain as a public record the original certificate of
+marriage and the amended certificate of marriage issued pursuant to this
+section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+1306)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-138">
+          <num>122.138</num>
+          <heading>Amended certificate of marriage: Form.</heading>
+          <subsection eId="122-138__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An amended certificate of marriage
+issued pursuant toNRS 122.137must be
+substantially in the following form:
+State of Nevada
+Amended Certificate of Marriage
+State of Nevadaï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ }
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ }ss.
+County of ........................................... }
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ This is to acknowledge that a
+marriage officiant, did on the ........ day of the month of ........ of the
+year ........, at ................ (address or church), ................
+(city), Nevada, join in lawful wedlock ............... (name), of
+................ (city), State of ................, date of birth ..........,
+and ................ (name), of ............... (city), State of
+................, date of birth ........, with their mutual consent, in the
+presence of at least one witness.
+(Seal of County Clerk)
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ This certificate is issued to
+reflect an amendment made pursuant to Instrument No. ............ on file at
+the Office of the ................ County [Clerk or Recorder] and the court
+order issued in ................ County, State of ................, Case No.
+..........
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ The original Certificate of
+Marriage No. .........., recorded or filed as Instrument No. .........., is on
+file at the Office of the ................ County [Clerk or Recorder].
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-138__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All information contained in the
+amended certificate of marriage must be typewritten or legibly printed in black
+ink, except the signatures.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+1306)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-139">
+          <num>122.139</num>
+          <heading>Amended certificate of marriage: Filing or recording.</heading>
+          <subsection eId="122-139__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a county clerk issues an amended
+certificate of marriage pursuant toNRS
+122.137and the board of county commissioners:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-139__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Has adopted an ordinance pursuant toNRS 246.100, the county clerk shall, within
+10 days after its issuance, file the amended certificate of marriage in the
+office of the county clerk.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-139__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has not adopted an ordinance pursuant toNRS 246.100, the party to whom the amended
+certificate of marriage is issued shall, within 10 days after receipt, file the
+amended certificate of marriage with the county recorder where the original
+certificate of marriage was recorded.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-139__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For the recording or filing of an
+amended certificate of marriage pursuant to this section, the county recorder
+or county clerk is entitled to the fees designated in subsection 2 ofNRS 122.137.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+1307)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-140">
+          <num>122.140</num>
+          <heading>Illegitimate children legitimatized.</heading>
+          <content>
+            <p>Illegitimate
+children shall become legitimatized by the subsequent marriage of their parents
+with each other.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [15:33:1861; B ï¿½ 208; BH ï¿½ 484; C ï¿½ 495; RL ï¿½ 2351;
+NCL ï¿½ 4063]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-150">
+          <num>122.150</num>
+          <heading>Forms used by Friends or Quakers valid.</heading>
+          <content>
+            <p>All
+marriages solemnized among the people called ï¿½Friendsï¿½ or ï¿½Quakers,ï¿½ in the
+forms heretofore practiced and in use in their meetings, shall be good and
+valid.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [17:33:1861; B ï¿½ 210; BH ï¿½ 486; C ï¿½ 497; RL ï¿½ 2353;
+NCL ï¿½ 4065]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-160">
+          <num>122.160</num>
+          <heading>Marriages between Indians performed by tribal custom on
+reservation or in colony: Validity; certificate of declaration.</heading>
+          <subsection eId="122-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Marriages between Indians performed in
+accordance with tribal customs within closed Indian reservations and Indian
+colonies have the same validity as marriages performed in any other manner
+provided for by the laws of this State, if there is recorded or filed in the
+county in which the marriage takes place, within 30 days after the performance
+of the tribal marriage, a certificate declaring the marriage to have been
+performed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The certificate of declaration required
+to be recorded or filed by subsection 1 must include the names of the persons
+married, their ages, tribe, and place and date of marriage. The certificate
+must be signed by an official of the tribe, reservation or colony.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-160__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The certificate must be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-160__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the board of county commissioners has
+adopted an ordinance pursuant toNRS 246.100,
+filed with the county clerk of the county in which the marriage was performed
+and filed by the county clerk without charge.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-160__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the board of county commissioners has not
+adopted an ordinance pursuant toNRS 246.100,
+recorded with the county recorder of the county in which the marriage was
+performed and recorded by the county recorder without charge.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:188:1943; 1943 NCL ï¿½ 4072] + [2:188:1943; 1943 NCL
+ï¿½ 4072.01] + [3:188:1943; 1943 NCL ï¿½ 4072.02]—(NRS A1997,
+2288;2001,
+1755;2007,
+889,1313)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-170">
+          <num>122.170</num>
+          <heading>Marriages between Indians consummated in accordance with tribal
+customs valid: Certificate of marriage; contents; recording.</heading>
+          <subsection eId="122-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Marriages between Indians heretofore or
+hereafter consummated in accordance with tribal custom have the same validity as
+marriages performed in any other manner provided for by the laws of the State
+of Nevada.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A certificate of any such marriage may
+be signed by:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-170__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An official of the tribe of which at least
+one of the parties is a member;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-170__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An official of the reservation or colony in
+or upon which at least one of the parties shall at the time reside; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-170__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The superintendent of an Indian agency
+legally established in this State by the United States.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The certificate may be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-170__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the board of county commissioners has
+adopted an ordinance pursuant toNRS 246.100,
+filed in the office of the county clerk of the county where such marriage took
+place, and within 30 days thereafter; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-170__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the board of county commissioners has not
+adopted an ordinance pursuant toNRS 246.100,
+recorded in the office of the recorder of the county where such marriage took place,
+and within 30 days thereafter,
+ï¿½and such
+certificate or a certified copy thereof is prima facie evidence of the facts
+therein recited.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-170__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The certificate must give the names of
+the parties married, their ages, tribe, and the place and date of the marriage,
+and must show the official status of the person signing the same.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-170__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Any certificate, affidavit or other
+type of proof recognized by the United States, or any department thereof, as
+proof of a valid tribal marriage, regardless of when or where the tribal
+marriage was entered into, is proof of the validity of the tribal marriage in
+the State of Nevada.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:97:1945; 1943 NCL ï¿½ 4072.03] + [2:97:1945; 1943
+NCL ï¿½ 4072.04] + [3:97:1945; 1943 NCL ï¿½ 4072.05]—(NRS A2007,
+890)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-173">
+          <num>122.173</num>
+          <heading>Commissioner of civil marriages: County clerk is ex officio in
+larger counties; appointment of county clerk in smaller counties; solemnization
+of marriages; no additional compensation.</heading>
+          <subsection eId="122-173__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In a county whose population is 700,000
+or more and in which a commissioner township is located, the county clerk
+shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-173__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be commissioner of civil marriages for such
+township; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-173__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Solemnize marriages within each commissioner
+township located within his or her county.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-173__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In a county whose population is less
+than 700,000 and in which a commissioner township is located, the board of
+county commissioners may, by ordinance, appoint the county clerk to act as the
+commissioner of civil marriages. Such an ordinance may authorize the
+commissioner of civil marriages to solemnize marriages within each commissioner
+township located within the county.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-173__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The county clerk is not entitled to
+receive additional compensation for acting in the capacity of commissioner of
+civil marriages.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+765; A1993,
+34;2011,
+1148)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-175">
+          <num>122.175</num>
+          <heading>Deputy commissioners of civil marriages: Appointment; powers and
+duties; compensation; limitation on number on duty.</heading>
+          <subsection eId="122-175__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In a county whose population is 700,000
+or more, the commissioner of civil marriages may appoint deputy commissioners
+of civil marriages. Such deputies shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-175__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Solemnize marriages in commissioner townships
+under the direction of the commissioner; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-175__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Perform such other duties as the commissioner
+may direct.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-175__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In a county whose population is less
+than 700,000 and in which the board of county commissioners has appointed the
+county clerk to act as the commissioner of civil marriages, the board may, by
+ordinance, establish the number of deputy commissioners of civil marriages
+which may be appointed by the commissioner of civil marriages to carry out the
+duties set forth in subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-175__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>No deputy commissioner of civil
+marriages may solemnize marriages at any time other than during the working
+hours or shift during which the deputy commissioner is employed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-175__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The deputy commissioners of civil
+marriages are employees of the county clerkï¿½s office and are entitled to be
+compensated by a salary and by such other benefits as are available to other
+county personnel regularly employed in the same county clerkï¿½s office. The
+compensation of any deputy commissioner of civil marriages must not be based in
+any manner upon the number or volume of marriages that the deputy commissioner
+may solemnize in the performance of his or her duties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-175__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>In counties in which deputy
+commissioners of civil marriages are employed, no more than two deputy
+commissioners may be on duty within the courthouse of such a county for the
+purpose of solemnizing marriages at any one time.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+765; A1993,
+34;2011,
+1149)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-177">
+          <num>122.177</num>
+          <heading>Area for solemnizing marriages.</heading>
+          <subsection eId="122-177__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The county shall provide a suitable area
+separate from the marriage license bureau or other place where marriage
+licenses are issued for the solemnizing of marriages.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-177__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The area shall be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-177__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Appropriately furnished by the county to
+provide a tranquil atmosphere and the solemnizing ceremony shall be privately
+conducted in a dignified manner without haste; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-177__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Situated in a building entirely separate from
+and unconnected with any building in which marriage licenses are issued.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+766; A1979,
+637)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-179">
+          <num>122.179</num>
+          <heading>Clerical personnel, supplies and equipment to be provided by
+county.</heading>
+          <subsection eId="122-179__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The county shall provide suitable
+office space, office equipment, office supplies, and secretarial or other
+clerical personnel necessary for the proper operation of the office of the
+commissioner of civil marriages.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-179__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The county clerk shall establish the
+office of the commissioner of civil marriages as a separate office and shall
+maintain separate records for that office.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+766; A1977,
+576)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-181">
+          <num>122.181</num>
+          <heading>Fees for solemnizing marriages: Amounts; disposition.</heading>
+          <subsection eId="122-181__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The commissioner of civil marriages or
+his or her deputy commissioner of civil marriages is entitled to receive as his
+or her fee for solemnizing a marriage $70. The fee must be deposited in the
+county general fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-181__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The commissioner of civil marriages or
+his or her deputy commissioner of civil marriages shall also at the time of
+solemnizing a marriage collect the additional sum of $5 for the Account for Aid
+for Victims of Domestic or Sexual Violence in the State General Fund. The fees
+collected for this purpose must be paid over to the county treasurer by the
+county clerk on or before the fifth day of each month for the preceding
+calendar month, and must be credited to that Account. The county treasurer
+shall, on or before the 15th day of each month, remit those fees deposited by
+the clerk to the State Controller for credit to that Account.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+766; A1975,
+540;1991,
+1867;2001,
+3217;2013,
+1196)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-183">
+          <num>122.183</num>
+          <heading>Hours of operation for office.</heading>
+          <content>
+            <p>The board of
+county commissioners may, by ordinance, determine the hours of operation for
+the office of the commissioner of civil marriages.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+766; A1979,
+637;1993,
+29,35,2261,2262;2003,
+341)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-185">
+          <num>122.185</num>
+          <heading>Signs required in office and rooms; contents.</heading>
+          <subsection eId="122-185__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>That the solemnization of the marriage
+by the commissioner of civil marriages is not necessary for a valid marriage
+and that the parties wishing to be married may have a justice of the peace
+within a township where such justice of the peace is permitted to perform
+marriages, or any minister, other church or religious official authorized to
+solemnize a marriage or notary public of their choice who holds a valid
+certificate of permission to perform marriages within the State, perform the
+ceremony;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-185__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The amount of the fee to be charged for
+solemnization of a marriage in the office of the commissioner of civil
+marriages;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-185__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>That all fees charged are paid into the
+county general fund of the particular county involved;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-185__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>That other than the statutory fee, the
+commissioner of civil marriages and the deputy commissioners of civil marriages
+are precluded by law from receiving any gratuity fee or remuneration whatsoever
+for solemnizing a marriage; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-185__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>That if the commissioner of civil
+marriages, any deputy commissioner of civil marriages, or any other employee in
+the office of the commissioner or in the office of the county clerk solicits
+such an extra gratuity fee or other remuneration, the matter should be reported
+to the district attorney for such county.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+766; A2009,
+732;2013,
+1196,3671)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-187">
+          <num>122.187</num>
+          <heading>Receipt of additional fees prohibited.</heading>
+          <content>
+            <p>No
+other fee may be charged or received by the commissioner of civil marriages for
+solemnizing a marriage or for any other pertinent service other than the fee
+established byNRS 122.181.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+767)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-189">
+          <num>122.189</num>
+          <heading>Prohibited acts.</heading>
+          <subsection eId="122-189__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Solicit, accept or receive any
+gratuity, remuneration or fee whatsoever for the solemnizing of marriages;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-189__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Participate in or receive the benefits
+of any fees solicited or received by any other person; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-189__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Influence or attempt to influence any
+person to have a marriage solemnized in the office of the commissioner of civil
+marriages.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+767; A1977,
+576)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-191">
+          <num>122.191</num>
+          <heading>Display and contents of signs indicating location of office.</heading>
+          <content>
+            <p>Signs may be displayed to inform any person of
+the location of the office of the commissioner of civil marriages. Such signs
+shall have printed thereon only the following words: ï¿½Office of the
+Commissioner of Civil Marriages.ï¿½ Such signs shall be displayed in a
+conservative manner commensurate with the dignified function of the office of
+the commissioner of civil marriages.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+767)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-193">
+          <num>122.193</num>
+          <heading>Penalty.</heading>
+          <content>
+            <p>Any person
+who violates any provision ofNRS 122.173to122.193, inclusive, is guilty of a
+misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+767)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-200">
+          <num>122.200</num>
+          <heading>False statement to procure marriage license.</heading>
+          <content>
+            <p>Any person who shall make a false statement in
+procuring a marriage license with reference to any matter required byNRS 122.040and122.050to be stated under oath shall be
+guilty of a gross misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:33:1861; A1867,
+88;1899,
+47;1919,
+382;1927,
+49;1947,
+41;1949,
+91; 1943 NCL ï¿½ 4053]—(NRS A1967,
+530)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-210">
+          <num>122.210</num>
+          <heading>Unauthorized issuance of marriage license by county clerk.</heading>
+          <content>
+            <p>If any county clerk shall issue or sign any
+marriage license in any manner other than is authorized by this chapter, the
+county clerk shall forfeit and pay a sum not exceeding $1,000 to and for the
+use of the person aggrieved.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:33:1861; A1867,
+88;1899,
+47;1919,
+382;1927,
+49;1947,
+41;1949,
+91; 1943 NCL ï¿½ 4053]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-215">
+          <num>122.215</num>
+          <heading>Solicitation to perform marriage prohibited on county property
+where marriage licenses are issued; civil penalty.</heading>
+          <content>
+            <p>It
+is unlawful for any county employee, commercial wedding chapel employee or
+other person to solicit or otherwise influence, while on county property where
+marriage licenses are issued, any person to be married by a marriage
+commissioner or justice of the peace or at a commercial wedding chapel. Any
+person who violates this section is subject to a civil penalty of not more than
+$500 for each violation. A board of county commissioners may, at the request of
+the county clerk, enact an ordinance delegating to a hearing officer the
+authority to determine violations of this section and to levy civil penalties
+for such violations.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+577; A2013,
+3672;2019,
+457)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-220">
+          <num>122.220</num>
+          <heading>Solemnizing marriage without exhibition of marriage license.</heading>
+          <subsection eId="122-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>It is unlawful for any Supreme Court
+justice, judge of the Court of Appeals, judge of a district court, justice of
+the peace, municipal judge, minister or other church or religious official
+authorized to solemnize a marriage, notary public, commissioner of civil
+marriages, deputy commissioner of civil marriages, marriage officiant or mayor
+to join together as spouses persons allowed by law to be joined in marriage,
+until the persons proposing such marriage exhibit to him or her a license from
+the county clerk as provided by law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any Supreme Court justice, judge of the
+Court of Appeals, judge of a district court, justice of the peace, municipal
+judge, minister or other church or religious official authorized to solemnize a
+marriage, notary public, commissioner of civil marriages, deputy commissioner
+of civil marriages, marriage officiant or mayor who violates the provisions of
+subsection 1 is guilty of a misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 214; RL ï¿½ 6479; NCL ï¿½ 10162] + [1911
+C&amp;P ï¿½ 215; RL ï¿½ 6480; NCL ï¿½ 10163]—(NRS A1967,
+530;1969,
+765;1993,
+1463;2009,
+733;2013,
+1197,1747;2017,
+760,1035,1200)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-230">
+          <num>122.230</num>
+          <heading>Failure of person solemnizing marriage to make and deliver
+certificate to county clerk or county recorder.</heading>
+          <subsection eId="122-230__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the board of county commissioners
+has adopted an ordinance pursuant toNRS
+246.100, the county clerk; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-230__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the board of county commissioners
+has not adopted an ordinance pursuant toNRS
+246.100, the county recorder,
+ï¿½is guilty of
+a misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 10:33:1861; A1903,
+70; RL ï¿½ 2346; NCL ï¿½ 4058]—(NRS A1967,
+530;1987,
+1423;2007,
+890;2013,
+3672)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-240">
+          <num>122.240</num>
+          <heading>Failure of county recorder or county clerk to record certificate
+of marriage.</heading>
+          <content>
+            <p>Every county recorder
+or county clerk who fails or neglects to record or file a certificate of
+marriage as required by this chapter is guilty of a misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 10:33:1861; A1903,
+70; RL ï¿½ 2346; NCL ï¿½ 4058]—(NRS A1967,
+530;1987,
+1423;2007,
+890;2013,
+3672)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-250">
+          <num>122.250</num>
+          <heading>Willful making of false certificate of marriage.</heading>
+          <content>
+            <p>If any person shall willfully make any false
+certificate of any marriage or pretended marriage, the person is guilty of a
+gross misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [11:33:1861; B ï¿½ 204; BH ï¿½ 480; C ï¿½ 491; RL ï¿½ 2347;
+NCL ï¿½ 4059]—(NRS A1967,
+530)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-260">
+          <num>122.260</num>
+          <heading>Solemnization of marriage by unauthorized person or where legal
+impediment known; civil penalty; delegation of authority to hearing officer to
+determine violations and levy penalties.</heading>
+          <content>
+            <p>If
+any person undertakes to join others in marriage and is not lawfully authorized
+so to do, or knows of the existence of any legal impediment to the proposed
+marriage, the person shall be punished by a civil penalty of not more than
+$1,500. A board of county commissioners may enact an ordinance delegating to a
+hearing officer the authority to determine violations of this section and to
+levy civil penalties for those violations.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [12:33:1861; B ï¿½ 205; BH ï¿½ 481; C ï¿½ 492; RL ï¿½ 2348;
+NCL ï¿½ 4060]—(NRS A1967,
+530;2017,
+1035;2019,
+457)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-270">
+          <num>122.270</num>
+          <heading>Recovery of forfeitures by civil actions.</heading>
+          <content>
+            <p>In all cases when a violation of the
+provisions of this chapter is not declared a misdemeanor or gross misdemeanor,
+the fines and forfeitures shall be recovered by a civil action, to be brought
+by any person aggrieved or by the county treasurer.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [16:33:1861; B ï¿½ 209; BH ï¿½ 485; C ï¿½ 496; RL ï¿½ 2352;
+NCL ï¿½ 4064]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-280">
+          <num>122.280</num>
+          <heading>Display of information.</heading>
+          <content>
+            <p>In
+each county whose population is 100,000 or more, the county may provide a space
+at each office and branch office of the county clerk in which a commercial
+wedding chapel, a licensed business which operates principally for the
+performance of weddings in the county or a church or religious organization
+incorporated, organized or established in this State may display printed or
+digital information.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+2629; A2021,
+573)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_122-290">
+          <num>122.290</num>
+          <heading>Certificate of vow renewal: Establishment of program; form; fee.</heading>
+          <subsection eId="122-290__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A county clerk may, in his or her
+discretion, establish a program to provide for the issuance of a certificate of
+vow renewal. If a county clerk establishes such a program, upon the request of
+a couple who desires to renew their marriage vows, the county clerk shall issue
+a certificate of vow renewal.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-290__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The request for a certificate of vow
+renewal must be made on a form prescribed by the county clerk and must include
+the date of the vow renewal and the county in which the vow renewal occurred.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-290__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The certificate of vow renewal must
+contain:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="122-290__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The date of the vow renewal;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-290__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The county in which the vow renewal occurred;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-290__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The name of the persons to whom the
+certificate of vow renewal is issued; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="122-290__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A statement that the certificate of vow
+renewal is not a record of marriage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="122-290__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>This section may not be used to
+establish a record of marriage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-290__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A county clerk may charge and collect a
+fee in the same amount as the fee collected for the issuance of a marriage
+license pursuant toNRS 122.060to cover
+the cost of preparing the certificate furnished pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="122-290__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Notwithstanding any other provision of
+law to the contrary, a certificate of vow renewal is exempt from any schedule
+for the retention of records that applies to records in the office of the
+county clerk.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1024)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

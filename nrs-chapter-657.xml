@@ -1,0 +1,1631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-657"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-657"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="657"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-657/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-657/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-657/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-657/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_657">
+        <num>657</num>
+        <heading>GENERAL PROVISIONS</heading>
+        <section eId="sec_657-005">
+          <num>657.005</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inchapters 657to671, inclusive, of NRS, unless the context
+otherwise requires, the words and terms defined inNRS 657.016to657.085, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+965; A1985,
+737,2148;1987,
+1897;1995,
+1549;1997,
+974;2013,
+636;2023,
+2875)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-016">
+          <num>657.016</num>
+          <heading>ï¿½Bank,ï¿½ ï¿½commercial bank,ï¿½ ï¿½banking companyï¿½ and ï¿½banking
+corporationï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Bank,ï¿½
+ï¿½commercial bank,ï¿½ ï¿½banking companyï¿½ or ï¿½banking corporationï¿½ means a
+corporation or limited-liability company that is chartered by this State,
+another state or the United States and conducts the business of receiving money
+as demand deposits or otherwise carries on a banking or banking and trust
+business. The terms do not include a thrift company engaged in business
+pursuant tochapter 677of NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+965; A1985,
+737;1989,
+2031;1995,
+473,1549;1997,
+974)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-026">
+          <num>657.026</num>
+          <heading>ï¿½Commissionerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Commissionerï¿½
+means the Commissioner of Financial Institutions.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1897)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-035">
+          <num>657.035</num>
+          <heading>ï¿½Demand depositsï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Demand
+depositsï¿½ means all deposits the immediate withdrawal of which can be legally
+required upon a proper written request for such payment.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+965)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-037">
+          <num>657.037</num>
+          <heading>ï¿½Depository institutionï¿½ defined.</heading>
+          <subsection eId="657-037__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Holds or receives deposits, savings or
+share accounts;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-037__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Issues certificates of deposit; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-037__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Provides to its customers other
+depository accounts which are subject to withdrawal by checks, drafts or other
+instruments or by electronic means to effect payment to a third party.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+2147; A1989,
+2032;1995,
+1549)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-039">
+          <num>657.039</num>
+          <heading>ï¿½Derivative transactionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Derivative
+transactionï¿½ has the meaning ascribed to it in 12 U.S.C. ï¿½ 84(b)(3).</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+636)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-040">
+          <num>657.040</num>
+          <heading>ï¿½Division of Financial Institutionsï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Division of Financial Institutionsï¿½ means the
+Division of Financial Institutions of the Department of Business and Industry.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1721; A1993,
+1894)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-045">
+          <num>657.045</num>
+          <heading>ï¿½Insolvencyï¿½ defined.</heading>
+          <subsection eId="657-045__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When a bank cannot meet its deposit
+liabilities as they become due in the regular course of business.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-045__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>When the actual cash market value of a
+bankï¿½s assets is insufficient to pay its liabilities to depositors and other
+creditors.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-045__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>When a bankï¿½s reserve falls under the
+amount required bychapters 657to671, inclusive, of NRS, and it fails to make good
+such reserve within 30 days after being required to do so by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-045__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>When the undivided profits and surplus
+are inadequate to cover losses of the bank and the stockholdersï¿½ or membersï¿½
+equity of the bank has been reduced below the requirements of law.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+965; A1983,
+1721;1987,
+1897;1997,
+974)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-055">
+          <num>657.055</num>
+          <heading>ï¿½Net earningsï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Net
+earningsï¿½ means the excess of the gross earnings of any bank over the expenses
+and losses chargeable against such earnings.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+965)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-058">
+          <num>657.058</num>
+          <heading>ï¿½Nevadaï¿½ defined.</heading>
+          <subsection eId="657-058__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The word ï¿½bankï¿½ or the term ï¿½depository
+institutionï¿½ means organized under the laws of this State; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-058__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term ï¿½national bankï¿½ means having
+its headquarters within this State.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1549)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-064">
+          <num>657.064</num>
+          <heading>ï¿½Savings depositï¿½ defined.</heading>
+          <subsection eId="657-064__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>With respect to which the depository
+institution may require the depositor to give written notice of withdrawal not
+less than 7 days before a withdrawal, but from which the depositor may
+otherwise make withdrawals without giving written notice; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-064__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Which is not payable on a specific date
+or at the expiration of a specified time after the date of deposit.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+737)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-070">
+          <num>657.070</num>
+          <heading>ï¿½Stockholdersï¿½ equityï¿½ and ï¿½membersï¿½ equityï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Stockholdersï¿½ equityï¿½ or ï¿½membersï¿½ equityï¿½
+means the capital, surplus and retained earnings of a bank.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+974)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-075">
+          <num>657.075</num>
+          <heading>ï¿½Surplusï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Surplusï¿½
+means a fund created pursuant to the provisions ofchapters
+657to671, inclusive, of NRS by a bank
+from payments by stockholders or members or from the bankï¿½s net earnings or
+undivided profits which, to the amount specified and by any additions thereto
+set apart and designated as such, is not available for the payment of dividends
+and cannot be used for the payment of expenses or losses while the bank has
+undivided profits.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+965; A1995,
+473)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-085">
+          <num>657.085</num>
+          <heading>ï¿½Time depositï¿½ defined.</heading>
+          <subsection eId="657-085__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The depositor does not have a right to
+withdraw for a period of 7 days or more after the date of deposit; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-085__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Is payable at the expiration of a
+specified time not less than 7 days after the date of deposit.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+965; A1985,
+737)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-095">
+          <num>657.095</num>
+          <heading>Applicability ofchapters 78,86and92Aof NRS.</heading>
+          <content>
+            <p>The
+provisions ofchapters 78,86and92Aof
+NRS that are not in conflict withchapters 657to671, inclusive, of NRS are hereby adopted
+as a part ofchapters 657to671, inclusive, of NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+966; A1995,
+473;1997,
+975)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-097">
+          <num>657.097</num>
+          <heading>Applicability of provisions concerning Regulatory
+Experimentation Program for Product Innovation.</heading>
+          <content>
+            <p>Except
+as otherwise required by the Director of the Department of Business and
+Industry pursuant toNRS 657A.430or657A.620, the provisions ofchapters 657to671,
+inclusive, of NRS do not apply to a participant in the Regulatory
+Experimentation Program for Product Innovation established and administered
+pursuant tochapter 657Aof NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+3997)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-105">
+          <num>657.105</num>
+          <heading>Effect of certain chapters on powers, privileges, duties and
+restrictions of corporations, companies, associations and natural persons.</heading>
+          <subsection eId="657-105__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The powers, privileges, duties and
+restrictions conferred and imposed upon any corporation, company, association
+or natural person, existing and doing business under the laws of this State,
+are hereby abridged, enlarged or modified, as each particular case may require,
+to conform to the provisions ofchapters 657to671, inclusive, of NRS, notwithstanding
+anything to the contrary in its respective articles of incorporation, articles
+of organization or charter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-105__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½doing
+business under the laws of this Stateï¿½ does not include the lending of money to
+a person who is not a resident of this State, whether or not the bank which
+extended the credit or serviced the loan is located in this State.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+966; A1989,
+2032;1995,
+473)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-110">
+          <num>657.110</num>
+          <heading>Certain mortgagees and beneficiaries of deeds of trust to
+provide contact information to the Division of Financial Institutions; Division
+of Financial Institutions to maintain information on its Internet website.</heading>
+          <subsection eId="657-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each mortgagee or beneficiary of a deed
+of trust under a residential mortgage loan, including, without limitation, a
+bank, credit union, savings bank, savings and loan association, thrift company
+or other financial institution which is licensed, registered or otherwise
+authorized to do business in this State, shall provide to the Division of
+Financial Institutions the name, street address and any other contact
+information of a person to whom:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="657-110__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A borrower or a representative of a borrower
+must send any document, record or notification necessary to facilitate a
+mediation conducted pursuant toNRS 40.437or107.086.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-110__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A unit-ownersï¿½ association must send any
+notice required to be given pursuant toNRS
+116.3116to116.31168, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="657-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Division of Financial Institutions
+shall maintain on its Internet website the information provided to the Division
+pursuant to subsection 1 and provide a prominent display of, or a link to, the
+information described in subsection 1, on the home page of its Internet
+website.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-110__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="657-110__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Borrowerï¿½ means a person who is a mortgagor
+or grantor of a deed of trust under a residential mortgage loan.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-110__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Residential mortgage loanï¿½ means a loan
+which is primarily for personal, family or household use and which is secured
+by a mortgage or deed of trust on owner-occupied housing as defined inNRS 107.015.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1348; A2015,
+3333;2017,
+545,4106;2019,
+1382)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-120">
+          <num>657.120</num>
+          <heading>Fees and charges: Imposition and collection by financial
+institution; limitations.</heading>
+          <subsection eId="657-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A financial institution may impose and
+collect a fee or charge, not to exceed an amount specified in or limited by
+specific statute, for any service it provides to a customer, if the fee or
+charge is clearly and conspicuously disclosed in writing to the customer before
+the customer receives the service. A financial institution must provide a
+customer with written notice of any increase in the fee or charge at least 10
+days before the increase becomes effective.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A fee or charge for the presentation
+for payment, on a single business day, of multiple checks drawn by a customer
+on an account for which there is an insufficient balance to pay all the checks,
+must be determined as if the checks drawn in a single series or class were
+presented:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="657-120__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In the order the checks were written;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-120__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>From the lowest check number to the highest
+check number; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-120__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In order of ascending amounts, the check for
+the smallest sum being presented first.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="657-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½financial
+institutionï¿½ means an institution licensed pursuant to the provisions of this
+title orchapter 645Bor649of NRS, or a similar institution chartered or
+licensed pursuant to federal law.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+566; A1999,
+3809;2017,
+3101)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-130">
+          <num>657.130</num>
+          <heading>Committees to review compliance: Definitions; confidentiality
+and privilege.</heading>
+          <subsection eId="657-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>As used in this section, unless the
+context otherwise requires:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="657-130__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Committee to review complianceï¿½ means one or
+more persons assigned or engaged by a financial institution to test, review or
+evaluate its conduct, transactions or potential transactions, policies or
+procedures for the purpose of monitoring and improving or enforcing compliance
+with state and federal statutes and regulations requiring safe, sound and fair
+lending practices, including, without limitation, acts concerning equal credit
+opportunity, fair housing, fair lending, flood zone protection, housing and
+financial discrimination, truth in lending and financial reporting to federal
+or state regulatory agencies.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-130__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Financial institutionï¿½ means an institution
+licensed pursuant to the provisions of this title orchapter 645Bof NRS, or a similar institution
+chartered or licensed pursuant to federal law. The term includes, without
+limitation, a holding company, affiliate or subsidiary of such an institution.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="657-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise voluntarily
+authorized by the financial institution:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="657-130__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A document prepared for or created by a
+committee to review compliance is confidential and privileged, and is not
+subject to discovery or admissible in evidence in a civil action of this State,
+even if it has been submitted to a governmental or regulatory agency of this
+State, the United States or a foreign government.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-130__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A member of a committee to review compliance
+or a person who acted under the direction of the committee cannot be required
+to testify in a civil action concerning the contents of a document described in
+paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-130__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>or concerning the discussions or conclusions of, or the actions
+taken by, the committee.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1784; A1999,
+3809;2017,
+3102)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-140">
+          <num>657.140</num>
+          <heading>Loan agreements: Certain provisions for recovery prohibited;
+exceptions.</heading>
+          <subsection eId="657-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, a financial institution shall not include in any loan agreement a
+provision that allows the financial institution to recover, take, appropriate
+or otherwise apply as a setoff against any debt or liability owing to the
+financial institution under the loan agreement money from an account unrelated
+to the loan agreement to the extent the money is exempt from execution pursuant
+to paragraph</p>
+            </content>
+            <paragraph eId="657-140__subsec_1__subsec_y">
+              <num>(y)</num>
+              <content>
+                <p>of subsection 1 ofNRS
+21.090.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="657-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of subsection 1 do not
+apply to a provision in a loan agreement that specifically authorizes automatic
+withdrawals from an account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-140__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The provisions of this section may not
+be varied by agreement, and the rights conferred by this section may not be
+waived. Any provision included in an agreement that conflicts with this section
+is void.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-140__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="657-140__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½An account unrelated to the loan agreementï¿½
+includes, without limitation, an account pledged as security under the loan agreement,
+unless the specific account pledged as security is conspicuously described in
+the loan agreement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-140__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Financial institutionï¿½ means an institution
+licensed pursuant to the provisions of this title orchapter 645Bor649of NRS, or a similar institution chartered or licensed pursuant to federal law.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+382; A2007,
+3027;2017,
+3102)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-150">
+          <num>657.150</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 657.150to657.290, inclusive, unless the context
+otherwise requires, the words and terms defined inNRS 657.160and657.170have the meanings ascribed to them
+in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+1841; A2007,
+1490;2023,
+3469)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-160">
+          <num>657.160</num>
+          <heading>ï¿½Financial institutionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Financial
+institutionï¿½ means a depository institution or any other institution regulated
+pursuant tochapters 657to671, inclusive, of NRS. The term includes,
+without limitation, a holding company, affiliate or subsidiary of such an
+institution.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+1841)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-170">
+          <num>657.170</num>
+          <heading>ï¿½Licenseï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Licenseï¿½
+means any license, certificate, registration, permit or similar type of
+authorization.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+1841)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-180">
+          <num>657.180</num>
+          <heading>License to operate or manage: Additional requirements;
+fingerprints; grounds for refusal to issue license.</heading>
+          <subsection eId="657-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to any other requirements
+set forth by specific statute, each person who applies for a license to operate
+a financial institution and each person who will serve as a director, officer,
+manager or member acting in a managerial capacity for such a financial
+institution must submit:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="657-180__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Proof satisfactory to the Commissioner that
+the person:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="657-180__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Has a good reputation for honesty,
+trustworthiness and integrity and is competent to transact the business of the
+financial institution in a manner which protects the interests of the general
+public.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="657-180__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Has not made a false statement of
+material fact on the application.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="657-180__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Has not committed any of the acts
+specified in subsection 2.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="657-180__subsec_1__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Has not had a license to operate a
+financial institution suspended or revoked within the 10 years immediately
+preceding the date of the application.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="657-180__subsec_1__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Has not been convicted of, or entered
+a plea of nolo contendere to, a felony or any crime involving fraud,
+misrepresentation or moral turpitude.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="657-180__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A complete set of his or her fingerprints and
+written permission authorizing the Division of Financial Institutions to
+forward the fingerprints to the Central Repository for Nevada Records of
+Criminal History for submission to the Federal Bureau of Investigation for its
+report.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="657-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In addition to any other lawful
+reasons, the Commissioner may refuse to issue a license to operate a financial
+institution if the person who applies for the license or any person who will
+serve as a director, officer, manager or member acting in a managerial capacity
+for the financial institution:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="657-180__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Has committed or participated in any act
+which, if committed or done by a holder of a license, would be grounds for the
+suspension or revocation of the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-180__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has previously been refused a license to
+operate a financial institution or has had such a license suspended or revoked.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-180__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Has participated in any act which was a basis
+for the refusal or revocation of a license to operate a financial institution.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-180__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Has falsified any of the information
+submitted to the Commissioner in support of the application for the license.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+1841)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-185">
+          <num>657.185</num>
+          <heading>License to establish new depository institution: Commissioner
+prohibited from requiring identification of physical address of main office in
+application for license; authority of Commissioner to require identification of
+general location of main office in application and provision of physical
+address before commencement of business.</heading>
+          <subsection eId="657-185__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner shall not require an
+applicant for a license to establish a new depository institution to identify
+in the application for the license the physical address where the main office
+of the proposed depository institution will be located.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-185__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner may require an
+applicant for a license to establish a new depository institution to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="657-185__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Identify in the application for the license
+the location, described in general terms, where the main office of the proposed
+depository institution will be located; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-185__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide to the Commissioner the physical
+address of the main office of the proposed depository institution before the
+depository institution commences business.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+3469)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-190">
+          <num>657.190</num>
+          <heading>Suspension or revocation of license to operate or manage:
+Additional grounds.</heading>
+          <content>
+            <p>In addition to
+any other lawful reasons, the Commissioner may suspend or revoke a license to
+operate a financial institution if the person who holds the license or any
+person who serves as a director, officer, manager or member acting in a
+managerial capacity for the financial institution has engaged in any act that
+would be grounds for denying a license pursuant toNRS 657.180.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+1842)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-200">
+          <num>657.200</num>
+          <heading>Use or change of business name; prohibitions.</heading>
+          <subsection eId="657-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A financial institution must obtain the
+approval of the Commissioner before using or changing a business name.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A financial institution shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="657-200__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Use any business name which is identical or
+similar to a business name used by another financial institution or which may
+mislead or confuse the public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-200__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Use any printed forms which may mislead or
+confuse the public.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+1842)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-210">
+          <num>657.210</num>
+          <heading>Authorization of Commissioner to investigate business; free
+access required; compelling attendance of witnesses; fees.</heading>
+          <subsection eId="657-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>For the purpose of discovering
+violations ofchapters 657to671, inclusive, of NRS or of securing information
+lawfully required underchapters 657to671, inclusive, of NRS, the Commissioner or the
+Commissionerï¿½s duly authorized representatives may at any time investigate the
+business and examine the books, accounts, papers and records used therein of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="657-210__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any licensee;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-210__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any other person engaged in an activity for
+which a license is required pursuant to the provisions ofchapters 657to671,
+inclusive, of NRS; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-210__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any person whom the Commissioner has
+reasonable cause to believe is violating or is about to violate any provision
+ofchapters 657to671,
+inclusive, of NRS, whether or not the person claims to be within the authority
+or beyond the scope ofchapters 657to671, inclusive, of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="657-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For the purpose of examination, the
+Commissioner or the Commissionerï¿½s authorized representatives must have and be
+given free access to the offices and places of business, files, safes and
+vaults of such persons.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner may require the
+attendance of any person and examine the person under oath regarding:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="657-210__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any transaction or business regulated
+pursuant to the provisions ofchapters 657to671, inclusive, of NRS; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-210__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The subject matter of any audit, examination,
+investigation or hearing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="657-210__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Commissioner shall charge and
+collect from each licensee or other person a fee at the rate established and,
+if applicable, adjusted pursuant toNRS
+658.101for the cost of any supervision, audit, examination, investigation
+or hearing conducted pursuant tochapters 657to671, inclusive, of NRS or any regulations
+adopted pursuant thereto.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+1842; A2017,
+396)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-220">
+          <num>657.220</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 657.220to657.290, inclusive, unless the context
+otherwise requires, the words and terms defined inNRS 657.230to657.270, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+1488)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-230">
+          <num>657.230</num>
+          <heading>ï¿½Designated reporterï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Designated
+reporterï¿½ means a person designated by a financial institution to receive
+reports of known or suspected exploitation of an older person or vulnerable
+person pursuant toNRS 657.290.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+1488)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-240">
+          <num>657.240</num>
+          <heading>ï¿½Exploitationï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Exploitationï¿½
+has the meaning ascribed to it inNRS
+200.5092.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+1488; A2015,
+840)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-250">
+          <num>657.250</num>
+          <heading>ï¿½Older personï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Older
+personï¿½ has the meaning ascribed to it inNRS
+200.5092.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+1488; A2015,
+840)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-260">
+          <num>657.260</num>
+          <heading>Reasonable cause to believeï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Reasonable
+cause to believeï¿½ has the meaning ascribed to it inNRS 200.50925.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+1489)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-270">
+          <num>657.270</num>
+          <heading>ï¿½Vulnerable personï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Vulnerable
+personï¿½ has the meaning ascribed to it inNRS
+200.5092.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+1489; A2015,
+840)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-280">
+          <num>657.280</num>
+          <heading>Training; reporting to designated reporter.</heading>
+          <subsection eId="657-280__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each financial institution shall
+provide training concerning the identification and reporting of the suspected
+exploitation of an older person or vulnerable person to each officer and
+employee of the financial institution who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="657-280__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>May, as part of his or her regular duties for
+the financial institution, come into direct contact with an older person or
+vulnerable person; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-280__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May review or approve the financial
+documents, records or transactions of an older person or vulnerable person in
+connection with providing financial services to the older person or vulnerable
+person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="657-280__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The training required pursuant to
+subsection 1 must be provided as soon as reasonably practicable, but not later
+than 6 months after the officer or employee is employed by the financial
+institution.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-280__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The training required pursuant to
+subsection 1 must include, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="657-280__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An explanation of the conduct which
+constitutes exploitation of an older person or vulnerable person;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-280__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The manner in which exploitation of an older
+person or vulnerable person may be recognized;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-280__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Information concerning the manner in which
+reports of exploitation are investigated; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-280__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Instruction concerning when and how to report
+known or suspected exploitation of an older person or vulnerable person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="657-280__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>An officer or employee who has observed
+or has knowledge of an incident that is directly related to a transaction or
+matter which is within his or her scope of practice and which reasonably
+appears to be exploitation of an older person or vulnerable person shall report
+the known or suspected exploitation to the designated reporter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+1489)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_657-290">
+          <num>657.290</num>
+          <heading>Designated reporter: Designation; duty to report; authority to
+delay disbursement or transaction; expiration of delay; immunity;
+considerations in determining whether exploitation has occurred.</heading>
+          <subsection eId="657-290__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each financial institution shall
+designate a person or persons to whom an officer or employee of the financial
+institution must report known or suspected exploitation of an older person or
+vulnerable person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-290__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If an officer or employee reports known
+or suspected exploitation of an older person or vulnerable person to a
+designated reporter and, based on such a report or based on his or her own
+observations or knowledge, the designated reporter knows or has reasonable
+cause to believe that an older person or vulnerable person has been exploited,
+the designated reporter:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="657-290__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided in subsection 3,
+shall report the known or suspected exploitation of the older person or
+vulnerable person to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="657-290__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The local office of the Aging and
+Disability Services Division of the Department of Health and Human Services;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="657-290__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A police department or sheriffï¿½s
+office;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="657-290__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The countyï¿½s office for protective
+services, if one exists in the county where the suspected action occurred; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="657-290__subsec_2__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>A toll-free telephone service
+designated by the Aging and Disability Services Division of the Department of
+Health and Human Services;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="657-290__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Shall make such a report as soon as
+reasonably practicable; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-290__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>May temporarily delay a requested
+disbursement from, or a requested transaction involving, an account of an older
+person or vulnerable person or an account to which an older person or vulnerable
+person is a beneficiary if the designated reporter:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="657-290__subsec_2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Not later than 2 business days after
+the date on which the requested disbursement or transaction is delayed:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) Provides written notification of
+the delay and the reason for the delay to all parties authorized to transact
+business on the account, except a party who is reasonably believed to have
+engaged in the suspected exploitation; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) Notifies the local office of
+the Aging and Disability Services Division of the Department of Health and
+Human Services and a local law enforcement agency of the delay; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="657-290__subsec_2__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Notifies the local office of the Aging
+and Disability Services Division of the Department of Health and Human Services
+and the appropriate local law enforcement agency of any new information that is
+relevant to the delay within a reasonable time after becoming aware of the
+information.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="657-290__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the designated reporter knows or has
+reasonable cause to believe that the exploitation of the older person or
+vulnerable person involves an act or omission of the Aging and Disability
+Services Division, another division of the Department of Health and Human
+Services or a law enforcement agency, the designated reporter shall make the
+report to an agency other than the one alleged to have committed the act or
+omission.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="657-290__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In accordance with the provisions of
+subsection 3 ofNRS 239A.070, in
+making a report pursuant to this section, a designated reporter may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="657-290__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Disclose any facts or information that form
+the basis of the determination that the designated reporter knows or has
+reasonable cause to believe that an older person or vulnerable person has been
+exploited, including, without limitation, the identity of any person believed
+to be involved in the exploitation of the older person or vulnerable person;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-290__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide any financial records or other
+documentation relating to the exploitation of the older person or vulnerable
+person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="657-290__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A financial institution and any of its
+officers, employees and designated reporters are immune from civil, criminal
+and administrative liability arising from:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="657-290__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Making a report in good faith pursuant to
+this section;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-290__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Delaying a requested disbursement or
+transaction involving the known or suspected exploitation of an older person or
+vulnerable person pursuant to this section; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-290__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Taking any reasonable action which is:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="657-290__subsec_5__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Performed in furtherance of a duty or
+authorization created by subsection 2, 3 or 4; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="657-290__subsec_5__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Based upon a reasonable belief that an
+older person or vulnerable person has been exploited.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="657-290__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection and subsections 7 and 8, a delay in a requested disbursement or
+transaction authorized by paragraph</p>
+            </content>
+            <paragraph eId="657-290__subsec_6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 2 expires 15 business
+days after the date on which the requested disbursement or transaction was
+delayed. If the local office of the Aging and Disability Services Division of
+the Department of Health and Human Services or a local law enforcement agency requests
+in writing that the designated reporter extend the delay, the delay expires
+upon the earlier of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-290__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Twenty-five business days after the date on
+which the requested disbursement or transaction was delayed; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-290__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon the written request of the local office
+of the Aging and Disability Services Division of the Department of Health and
+Human Services or the local law enforcement agency that requested the extension
+of the delay or upon the order of a court of competent jurisdiction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="657-290__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>A delay in a requested disbursement or
+transaction authorized by paragraph</p>
+            </content>
+            <paragraph eId="657-290__subsec_7__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 2 may expire before the
+period set forth in subsection 6 and the designated reporter may proceed with
+the requested disbursement or transaction if the designated reporter reasonably
+believes that the requested disbursement or transaction will not result in
+exploitation of the older person or vulnerable person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="657-290__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>A court of competent jurisdiction may
+issue an order extending a delay of a requested disbursement or transaction
+authorized by paragraph</p>
+            </content>
+            <paragraph eId="657-290__subsec_8__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 2 based on the petition of the local
+office of the Aging and Disability Services Division of the Department of
+Health and Human Services, a local law enforcement agency or any other
+interested party.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="657-290__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>When determining whether an older
+person or vulnerable person has been exploited, a designated reporter may
+consider any of the following circumstances, if applicable and without
+limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="657-290__subsec_9__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A requested disbursement from, or a requested
+transaction involving, an account of an older person or vulnerable person or an
+account to which an older person or vulnerable person is a beneficiary that the
+older person or vulnerable person cannot explain;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-290__subsec_9__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A request to close a certificate of deposit
+of an older person or vulnerable person that is made:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="657-290__subsec_9__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Before the date of maturity of the
+certificate of deposit; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="657-290__subsec_9__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>With apparent disregard for any
+penalty associated with closing the certificate of deposit before the date of
+maturity of the certificate of deposit;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="657-290__subsec_9__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A check written by an older person or
+vulnerable person under suspicious circumstances;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-290__subsec_9__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An uncharacteristic attempt by an older
+person or vulnerable person to initiate a wire transfer of a significant sum of
+money;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-290__subsec_9__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A suspicious signature on documentation
+relating to an account of an older person or vulnerable person;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-290__subsec_9__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A suspicious alteration to a:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="657-290__subsec_9__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Trust to which an older person or
+vulnerable person is a beneficiary; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="657-290__subsec_9__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Will or trust for which an older
+person or vulnerable person is a testator or trustee;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="657-290__subsec_9__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A suspicious alteration in a power of
+attorney relating to an older person or vulnerable person; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="657-290__subsec_9__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>A person attempting to initiate a financial
+transaction on behalf of an older person or vulnerable person without proper
+documentation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+1489; A2019,
+3499;2023,
+3469)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

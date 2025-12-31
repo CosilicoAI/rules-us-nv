@@ -1,0 +1,2322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-368A"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-368A"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="368A"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-368A/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-368A/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-368A/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-368A/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_368A">
+        <num>368A</num>
+        <heading>TAX ON LIVE ENTERTAINMENT</heading>
+        <section eId="sec_368A-010">
+          <num>368A.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 368A.020to368A.115, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 146; A2005,
+2480;2005,
+22nd Special Session, 140;2015,
+3762;2021,
+2708)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-020">
+          <num>368A.020</num>
+          <heading>ï¿½Admission chargeï¿½ defined.</heading>
+          <subsection eId="368A-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, ï¿½admission chargeï¿½ means the total amount, expressed in terms of
+money, of consideration paid for the right or privilege to enter or have access
+to a facility where live entertainment is provided.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section orNRS 368A.200or any other
+specific statute, the term includes, without limitation, an entertainment fee,
+a cover charge, a required minimum purchase of food, beverages or merchandise,
+a membership fee and a service charge or any other fee or charge that is
+required to be paid in exchange for admission to a facility where live entertainment
+is provided.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The term does not include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-020__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The value of an admission to a facility
+provided to a patron on a complimentary basis, unless the complimentary
+admission is associated with a separate purchase that is required for the
+patron to enter or have access to the facility; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-020__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A charge for the right or privilege of
+entering, or having access to, a particular portion within a facility, that is
+in addition to a charge described in subsection 1 or 2, including, without
+limitation, a charge for:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="368A-020__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Food, beverages or merchandise that is
+in addition to a required minimum purchase of food, beverages or merchandise as
+described in subsection 2; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-020__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Access to tables, seats, lounge chairs
+or particular areas near a swimming pool.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-020__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection, the term does not include license or rental fees for luxury suites,
+boxes or similar products at facilities with a maximum occupancy of at least
+7,500 persons. If the license or rental fee includes the admission of a certain
+number of patrons to a facility where a live entertainment event is provided,
+the admission charge is an amount equal to the lowest priced admission charge
+for the live entertainment event multiplied by the number of admissions to the
+live entertainment event included in the license or rental fee.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 146; A2005,
+2481;2015,
+3762)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-030">
+          <num>368A.030</num>
+          <heading>ï¿½Boardï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Boardï¿½
+means the Nevada Gaming Control Board.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 146)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-040">
+          <num>368A.040</num>
+          <heading>ï¿½Businessï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Businessï¿½
+means any activity engaged in or caused to be engaged in by a business entity
+with the object of gain, benefit or advantage, either direct or indirect, to
+any person or governmental entity.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 146)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-050">
+          <num>368A.050</num>
+          <heading>ï¿½Business entityï¿½ defined.</heading>
+          <subsection eId="368A-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Business entityï¿½ includes:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-050__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A corporation, partnership, proprietorship,
+limited-liability company, business association, joint venture,
+limited-liability partnership, business trust and their equivalents organized
+under the laws of this State or another jurisdiction and any other type of
+entity that engages in business.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-050__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A natural person engaging in a business if
+that person is deemed to be a business entity pursuant toNRS 368A.120.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term does not include a
+governmental entity.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 146)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-053">
+          <num>368A.053</num>
+          <heading>Casual assemblageï¿½ defined.</heading>
+          <subsection eId="368A-053__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Participants in conventions, business
+meetings or tournaments governed bychapter 463of NRS, and their guests; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-053__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Persons celebrating a friendï¿½s or
+family memberï¿½s wedding, birthday, anniversary, graduation, religious ceremony
+or similar occasion that is generally recognized as customary for celebration.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+2480)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-055">
+          <num>368A.055</num>
+          <heading>Commissionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Commissionï¿½
+means the Nevada Gaming Commission.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+22nd Special Session, 140)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-057">
+          <num>368A.057</num>
+          <heading>ï¿½Escortï¿½ defined.</heading>
+          <subsection eId="368A-057__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Escortï¿½ means a person who, for
+monetary consideration, in the form of a fee, commission or salary, dates,
+socializes, visits, consorts with or accompanies, or offers to date, socialize,
+visit, consort with or accompany, another or others to or about social affairs,
+entertainments or places of amusement or within any place of public resort or
+within any private quarters. The term does not include a person who advertises,
+or works as an employee, agent or independent contractor for a person who
+advertises, that sexual conduct will be provided to a patron, or who solicits,
+offers to provide or provides acts of sexual conduct to a patron.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-057__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½sexual
+conductï¿½ means sexual intercourse, oral-genital contact or any touching of the
+sexual organs or other intimate parts of a person for the purpose of arousing
+or gratifying the sexual desire of either person.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+3762)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-058">
+          <num>368A.058</num>
+          <heading>ï¿½Escort serviceï¿½ defined.</heading>
+          <subsection eId="368A-058__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Escort serviceï¿½ means a person who,
+for a fee, commission, profit, payment or other monetary consideration,
+furnishes, refers or offers to furnish or refer an escort to a patron, offers
+to introduce a patron to an escort, or who provides an escort to a patron. The
+term does not include a person who advertises that an escort will provide
+sexual conduct to a patron or who solicits, offers to provide or provides acts
+of sexual conduct to a patron.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-058__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½sexual
+conductï¿½ has the meaning ascribed to it inNRS
+368A.057.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+3762)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-060">
+          <num>368A.060</num>
+          <heading>ï¿½Facilityï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Facilityï¿½
+means any area or premises, indoor or outdoor, where live entertainment is
+provided and for which consideration is collected for the right or privilege of
+entering, or having access to, that area or those premises.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 147; A2005,
+2481;2015,
+3763)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-070">
+          <num>368A.070</num>
+          <heading>ï¿½Gameï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Gameï¿½
+has the meaning ascribed to it inNRS
+463.0152.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 147)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-075">
+          <num>368A.075</num>
+          <heading>ï¿½Governmental entityï¿½ defined.</heading>
+          <subsection eId="368A-075__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The United States and any of its
+unincorporated agencies and instrumentalities;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-075__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any incorporated agency or
+instrumentality of the United States wholly owned by the United States or by a
+corporation wholly owned by the United States;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-075__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The State of Nevada and any of its
+unincorporated agencies and instrumentalities; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-075__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Any county, city, district or other
+political subdivision of this State.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+2708)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-080">
+          <num>368A.080</num>
+          <heading>ï¿½Licensed gaming establishmentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Licensed gaming establishmentï¿½ has the
+meaning ascribed to it inNRS 463.0169.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 147)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-090">
+          <num>368A.090</num>
+          <heading>ï¿½Live entertainmentï¿½ defined.</heading>
+          <subsection eId="368A-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Live entertainmentï¿½ means any activity
+provided for pleasure, enjoyment, recreation, relaxation, diversion or other
+similar purpose by a person or persons who are physically present when
+providing that activity to a patron or group of patrons who are physically
+present.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-090__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Includes, without limitation, any one or more
+of the following activities:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="368A-090__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Music or vocals provided by one or
+more professional or amateur musicians or vocalists;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-090__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Dancing performed by one or more
+professional or amateur dancers or performers, including, without limitation,
+dancing performed by one or more persons who are nude or partially nude;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-090__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Acting or drama provided by one or
+more professional or amateur actors or players;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-090__subsec_2__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Acrobatics or stunts provided by one
+or more professional or amateur acrobats, performers or stunt persons;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-090__subsec_2__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Animal stunts or performances induced
+by one or more animal handlers or trainers, except as otherwise provided in
+subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-090__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="368A-090__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="368A-090__subsec_2__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Athletic or sporting contests, events
+or exhibitions provided by one or more professional or amateur athletes,
+sportsmen or sportswomen;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-090__subsec_2__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>Comedy or magic provided by one or
+more professional or amateur comedians, magicians, illusionists, entertainers
+or performers;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-090__subsec_2__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>A show or production involving any
+combination of the activities described in subparagraphs</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-090__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>to</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-090__subsec_2__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>, inclusive;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-090__subsec_2__subsec_b__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>A performance by a disc jockey who
+presents recorded music; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-090__subsec_2__subsec_b__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>An escort who is escorting one or
+more persons at a location or locations in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="368A-090__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided in subsection 3,
+excludes, without limitation, any one or more of the following activities:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="368A-090__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Television, radio, closed circuit or
+Internet broadcasts of live entertainment;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-090__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Entertainment provided by a patron or
+patrons, including, without limitation, singing by patrons or dancing by or
+between patrons;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-090__subsec_2__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Animal behaviors induced by animal
+trainers or caretakers primarily for the purpose of education and scientific
+research;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-090__subsec_2__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>An activity that is an uncompensated,
+spontaneous performance that is not longer than 20 minutes during a 60-minute
+period;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-090__subsec_2__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>An activity described in subparagraphs</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-090__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>to</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-090__subsec_2__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>, inclusive, of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="368A-090__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>that does not constitute a performance,
+including, without limitation, go-go dancing; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="368A-090__subsec_2__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Marketing or promotional activities,
+including, without limitation, dancing or singing that is for a period that
+does not exceed 20 minutes during a 60-minute period and that is associated
+with the serving of food and beverages.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-090__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The exclusions set forth in paragraph</p>
+            </content>
+            <paragraph eId="368A-090__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 2 do not apply to an activity provided by a nonprofit
+religious, charitable, fraternal or other organization that qualifies as a
+tax-exempt organization pursuant to 26 U.S.C. ï¿½ 501</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-090__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>, or by a nonprofit
+corporation organized or existing under the provisions ofchapter 82of NRS, when the number of tickets to
+the activity offered for sale or other distribution is 15,000 or more.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-090__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½person who is
+nude or partially nudeï¿½ means a natural person with any of the following less
+than completely or opaquely covered:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-090__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>His or her genitals;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-090__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The pubic region; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-090__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A female breast below a point immediately
+above the top of the areola.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 147; A2005,
+2481;2015,
+3763)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-097">
+          <num>368A.097</num>
+          <heading>Shopping mallï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Shopping
+mallï¿½ includes any area or premises where multiple vendors assemble for the
+primary purpose of selling goods or services, regardless of whether
+consideration is collected for the right or privilege of entering that area or
+those premises.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+2480)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-100">
+          <num>368A.100</num>
+          <heading>ï¿½Slot machineï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Slot
+machineï¿½ has the meaning ascribed to it inNRS
+463.0191.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 147)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-110">
+          <num>368A.110</num>
+          <heading>ï¿½Taxpayerï¿½ defined.</heading>
+          <subsection eId="368A-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 4, if live entertainment that is taxable under this chapter is
+provided at a licensed gaming establishment, the person licensed to conduct
+gaming at that establishment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsections 3 and 4, if live entertainment that is taxable under this chapter
+is not provided at a licensed gaming establishment, the owner or operator of
+the facility where the live entertainment is provided.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-110__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 4, if live entertainment that is taxable under this chapter is
+provided at a publicly owned facility or on public land, the person who
+collects the taxable receipts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-110__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If live entertainment that is taxable
+under this chapter is provided by an escort, the escort or, if the escort works
+as an employee, agent or independent contractor for an escort service, the
+owner or operator of the escort service.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 147; A2015,
+3765)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-115">
+          <num>368A.115</num>
+          <heading>ï¿½Trade showï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Trade
+showï¿½ means an event of limited duration primarily attended by members of a
+particular trade or industry for the purpose of exhibiting their merchandise or
+services or discussing matters of interest to members of that trade or
+industry.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+2480)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-120">
+          <num>368A.120</num>
+          <heading>Natural persons who are deemed to be business entities.</heading>
+          <content>
+            <p>A natural person engaging in a business shall
+be deemed to be a business entity that is subject to the provisions of this
+chapter if the person is required to file with the Internal Revenue Service a
+Schedule C (Form 1040), Profit or Loss From Business Form, or its equivalent or
+successor form, or a Schedule E (Form 1040), Supplemental Income and Loss Form,
+or its equivalent or successor form, for the business.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 147)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-140">
+          <num>368A.140</num>
+          <heading>Duties of Board, Commission and Department; applicability ofchapters 360and463of NRS.</heading>
+          <subsection eId="368A-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall collect the tax imposed
+by this chapter from taxpayers who are licensed gaming establishments. The
+Commission shall adopt such regulations as are necessary to carry out the
+provisions of this subsection. The regulations must be adopted in accordance
+with the provisions ofchapter 233Bof NRS
+and must be codified in the Nevada Administrative Code.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-140__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Collect the tax imposed by this chapter from
+all other taxpayers; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-140__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Adopt such regulations as are necessary to
+carry out the provisions of paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-140__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-140__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>For the purposes of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-140__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subsection 1, the provisions ofchapter 463of NRS relating to the payment,
+collection, administration and enforcement of gaming license fees and taxes,
+including, without limitation, any provisions relating to the imposition of penalties
+and interest, shall be deemed to apply to the payment, collection,
+administration and enforcement of the taxes imposed by this chapter to the
+extent that those provisions do not conflict with the provisions of this
+chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-140__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Subsection 2, the provisions ofchapter 360of NRS relating to the payment,
+collection, administration and enforcement of taxes, including, without
+limitation, any provisions relating to the imposition of penalties and
+interest, shall be deemed to apply to the payment, collection, administration
+and enforcement of the taxes imposed by this chapter to the extent that those
+provisions do not conflict with the provisions of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-140__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>To ensure that the tax imposed byNRS 368A.200is collected fairly and
+equitably, the Commission, the Board and the Department shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-140__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Jointly, coordinate the administration and
+collection of that tax and the regulation of taxpayers who are liable for the
+payment of the tax.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-140__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon request, assist the other agencies in
+the collection of that tax.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 149; A2005,
+22nd Special Session, 140)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-150">
+          <num>368A.150</num>
+          <heading>Establishment of amount of tax liability when Board or
+Department determines that taxpayer is acting with intent to defraud State or
+to evade payment of tax or when amount subject to tax is unclear.</heading>
+          <subsection eId="368A-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-150__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Board determines that a taxpayer who is a
+licensed gaming establishment is taking any action with intent to defraud the
+State or to evade the payment of the tax or any part of the tax imposed by this
+chapter, the Board shall establish an amount upon which the tax imposed by this
+chapter must be based.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-150__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department determines that a taxpayer who
+is not a licensed gaming establishment is taking any action with intent to
+defraud the State or to evade the payment of the tax or any part of the tax
+imposed by this chapter, the Department shall establish an amount upon which
+the tax imposed by this chapter must be based.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The amount established by the Board or
+the Department pursuant to subsection 1 must be based upon the tax liability of
+business entities that are deemed comparable by the Board or the Department to
+that of the taxpayer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-150__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-150__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Board determines that a taxpayer who is a
+licensed gaming establishment is liable for the tax imposed by this chapter but
+the amount upon which the tax must be based is vague or subjective, not capable
+of reasonable determination or is the subject of a dispute that cannot be
+proven to the reasonable satisfaction of the Nevada Gaming Commission, the
+Nevada Gaming Commission may establish the amount upon which the tax must be
+based by multiplying the number of admissions to the facility where the live
+entertainment was provided by an amount not to exceed $50. The provisions ofchapter 463of NRS relating to the imposition of
+penalties and interest apply to the determination of the amount of tax owed by
+the taxpayer pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-150__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department determines that a taxpayer who
+is not a licensed gaming establishment is liable for the tax imposed by this
+chapter but the amount upon which the tax must be based is vague or subjective,
+not capable of reasonable determination or is the subject of a dispute that
+cannot be proven to the reasonable satisfaction of the Nevada Tax Commission,
+the Nevada Tax Commission may establish the amount upon which the tax must be
+based by multiplying the number of admissions to the facility where the live
+entertainment was provided by an amount not to exceed $50. The provisions ofchapter 360of NRS relating to the imposition of
+penalties and interest apply to the determination of the amount of tax owed by
+the taxpayer pursuant to this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 152; A2015,
+3766)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-160">
+          <num>368A.160</num>
+          <heading>Maintenance and availability of records for determining
+liability of taxpayer; liability to taxpayer of lessee, assignee or transferee
+of certain premises; penalty.</heading>
+          <subsection eId="368A-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each person responsible for maintaining
+the records of a taxpayer shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-160__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Keep such records as may be necessary to
+determine the amount of the liability of the taxpayer pursuant to the
+provisions of this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-160__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Preserve those records for:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="368A-160__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>At least 5 years if the taxpayer is a
+licensed gaming establishment or until any litigation or prosecution pursuant
+to this chapter is finally determined, whichever is longer; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-160__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>At least 4 years if the taxpayer is
+not a licensed gaming establishment or until any litigation or prosecution
+pursuant to this chapter is finally determined, whichever is longer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="368A-160__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Make the records available for inspection by
+the Board or the Department upon demand at reasonable times during regular
+business hours.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commission and the Department may
+adopt regulations pursuant toNRS 368A.140specifying the types of records which must be kept to determine the amount of
+the liability of a taxpayer for the tax imposed by this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-160__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any agreement that is entered into,
+modified or extended after January 1, 2004, for the lease, assignment or
+transfer of any premises upon which any activity subject to the tax imposed by
+this chapter is, or thereafter may be, conducted shall be deemed to include a
+provision that the taxpayer required to pay the tax must be allowed access to,
+upon demand, all books, records and financial papers held by the lessee,
+assignee or transferee which must be kept pursuant to this section. Any person
+conducting activities subject to the tax imposed byNRS 368A.200who fails to maintain or
+disclose his or her records pursuant to this subsection is liable to the
+taxpayer for any penalty paid by the taxpayer for the late payment or
+nonpayment of the tax caused by the failure to maintain or disclose records.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-160__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A person who violates any provision of
+this section is guilty of a misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 150; A2005,
+22nd Special Session, 141)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-170">
+          <num>368A.170</num>
+          <heading>Examination of records by Board or Department; payment of
+expenses of Board or Department for examination of records outside State.</heading>
+          <subsection eId="368A-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To verify the accuracy of any report
+filed or, if no report is filed by a taxpayer, to determine the amount of tax
+required to be paid:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-170__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Board, or any person authorized in
+writing by the Board, may examine the books, papers and records of any licensed
+gaming establishment that may be liable for the tax imposed by this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-170__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department, or any person authorized in
+writing by the Department, may examine the books, papers and records of any
+other person who may be liable for the tax imposed by this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any person who may be liable for the
+tax imposed by this chapter and who keeps outside of this State any books,
+papers and records relating thereto shall pay to the Board or the Department an
+amount equal to the allowance provided for state officers and employees
+generally while traveling outside of the State for each day or fraction thereof
+during which an employee of the Board or the Department is engaged in examining
+those documents, plus any other actual expenses incurred by the employee while
+the employee is absent from his or her regular place of employment to examine
+those documents.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 151)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-180">
+          <num>368A.180</num>
+          <heading>Confidentiality of records and files of Board and Department.</heading>
+          <subsection eId="368A-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section andNRS 239.0115and360.250, the records and files of the Board
+and the Department concerning the administration of this chapter are
+confidential and privileged. The Board, the Department and any employee of the
+Board or the Department engaged in the administration of this chapter or
+charged with the custody of any such records or files shall not disclose any
+information obtained from the records or files of the Board or the Department
+or from any examination, investigation or hearing authorized by the provisions
+of this chapter. The Board, the Department and any employee of the Board or the
+Department may not be required to produce any of the records, files and
+information for the inspection of any person or for use in any action or
+proceeding.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The records and files of the Board and
+the Department concerning the administration of this chapter are not
+confidential and privileged in the following cases:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-180__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Testimony by a member or employee of the
+Board or the Department and production of records, files and information on
+behalf of the Board or the Department or a taxpayer in any action or proceeding
+pursuant to the provisions of this chapter, if that testimony or the records,
+files or information, or the facts shown thereby, are directly involved in the
+action or proceeding.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-180__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Delivery to a taxpayer or his or her
+authorized representative of a copy of any report or other document filed by
+the taxpayer pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-180__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Publication of statistics so classified as to
+prevent the identification of a particular person or document.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-180__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Exchanges of information with the Internal
+Revenue Service in accordance with compacts made and provided for in such
+cases.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-180__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Disclosure in confidence to the Governor or
+his or her agent in the exercise of the Governorï¿½s general supervisory powers,
+or to any person authorized to audit the accounts of the Board or the
+Department in pursuance of an audit, or to the Attorney General or other legal
+representative of the State in connection with an action or proceeding pursuant
+to this chapter, or to any agency of this or any other state charged with the
+administration or enforcement of laws relating to taxation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 151; A2007,
+2093)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-200">
+          <num>368A.200</num>
+          <heading>Imposition and amount of tax; tax collected from purchaser;
+exemptions from tax.</heading>
+          <subsection eId="368A-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, there is hereby imposed an excise tax on admission to any facility in
+this State where live entertainment is provided and on the charge for live
+entertainment provided by an escort at one or more locations in this State. The
+rate of the tax is:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-200__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>, for admission to a facility in this State where live entertainment is
+provided, 9 percent of the admission charge to the facility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For live entertainment provided by an escort
+who is escorting one or more persons at a location or locations in this State,
+9 percent of the total amount, expressed in terms of money, of consideration
+paid for the live entertainment provided by the escort.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Amounts paid for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-200__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Admission charges collected and retained by a
+nonprofit religious, charitable, fraternal or other organization that qualifies
+as a tax-exempt organization pursuant to 26 U.S.C. ï¿½ 501</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>, or by a nonprofit
+corporation organized or existing under the provisions ofchapter 82of NRS, are not taxable pursuant to
+this section, only if the number of tickets to the live entertainment which are
+offered for sale or other distribution to patrons, either directly or
+indirectly through a partner, subsidiary, client, affiliate or other
+collaborator, is less than 7,500.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Gratuities directly or indirectly remitted to
+persons employed at a facility where live entertainment is provided are not
+taxable pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Fees imposed, collected and retained by an
+independent financial institution in connection with the use of credit cards or
+debit cards to pay the admission charge to a facility where live entertainment
+is provided are not taxable pursuant to this section. As used in this
+paragraph, ï¿½independent financial institutionï¿½ means a financial institution that
+is not the taxpayer or an owner or operator of the facility where the live
+entertainment is provided or an affiliate of any of those persons.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The tax imposed by this section must be
+added to and collected from the purchaser at the time of purchase, whether or
+not the admission for live entertainment is purchased for resale.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-200__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The tax imposed by subsection 1 does
+not apply to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-200__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Live entertainment that this State is
+prohibited from taxing under the Constitution, laws or treaties of the United
+States or the Nevada Constitution.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Live entertainment that is governed by the
+Nevada Interscholastic Activities Association pursuant tochapter 385Bof NRS or is provided or sponsored
+by an elementary school, junior high school, middle school or high school, if
+only pupils or faculty provide the live entertainment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An athletic contest, event, tournament or
+exhibition provided by an institution of the Nevada System of Higher Education,
+if students of such an institution are contestants in the contest, event,
+tournament or exhibition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Live entertainment that is provided by or entirely
+for the benefit of a nonprofit religious, charitable, fraternal or other
+organization that qualifies as a tax-exempt organization pursuant to 26 U.S.C.
+ï¿½ 501</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>, or a nonprofit corporation organized or existing under the provisions
+ofchapter 82of NRS, only if the number of
+tickets to the live entertainment which are offered for sale or other
+distribution to patrons, either directly or indirectly through a partner,
+subsidiary, client, affiliate or other collaborator, is less than 7,500.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_4__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any boxing contest or exhibition governed by
+the provisions ofchapter 467of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_4__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Live entertainment that is not provided at a
+licensed gaming establishment if the facility in which the live entertainment
+is provided has a maximum occupancy of less than 200 persons.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_4__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Live entertainment that is provided at a
+licensed gaming establishment that is licensed for less than 51 slot machines,
+less than 6 games, or any combination of slot machines and games within those
+respective limits, if the facility in which the live entertainment is provided
+has a maximum occupancy of less than 200 persons.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_4__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Live entertainment that is provided at a trade
+show.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_4__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Music performed by musicians who move
+constantly through the audience if no other form of live entertainment is
+afforded to the patrons.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_4__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>Live entertainment that is provided at a
+licensed gaming establishment at private meetings or dinners attended by
+members of a particular organization or by a casual assemblage if the purpose
+of the event is not primarily for entertainment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_4__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>Live entertainment that is provided in the
+common area of a shopping mall, unless the entertainment is provided in a
+facility located within the mall.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_4__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>Food and product demonstrations provided at a
+shopping mall, a craft show or an establishment that sells grocery products,
+housewares, hardware or other supplies for the home.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_4__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>Live entertainment that is incidental to an
+amusement ride, a motion simulator or a similar digital, electronic, mechanical
+or electromechanical attraction. For the purposes of this paragraph, live
+entertainment shall be deemed to be incidental to an amusement ride, a motion
+simulator or a similar digital, electronic, mechanical or electromechanical
+attraction if the live entertainment is:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="368A-200__subsec_4__subsec_m__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Not the predominant element of the
+attraction; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-200__subsec_4__subsec_m__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Not the primary purpose for which the
+public rides, attends or otherwise participates in the attraction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_4__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>A race scheduled at a race track in this
+State and sanctioned by the National Association for Stock Car Auto Racing, if
+two or more such races are held at that race track during the same calendar
+year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_4__subsec_o">
+              <num>(o)</num>
+              <content>
+                <p>An athletic contest, event or exhibition
+conducted by a professional team based in this State if the professional team
+based in this State is a participant in the contest, event or exhibition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_4__subsec_p">
+              <num>(p)</num>
+              <content>
+                <p>Live entertainment that is provided by or
+entirely for the benefit of a governmental entity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-200__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-200__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Affiliateï¿½ has the meaning ascribed to it inNRS 463.0133.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Maximum occupancyï¿½ means, in the following
+order of priority:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="368A-200__subsec_5__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The maximum occupancy of the facility
+in which live entertainment is provided, as determined by the State Fire
+Marshal or the local governmental agency that has the authority to determine
+the maximum occupancy of the facility;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-200__subsec_5__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>If such a maximum occupancy has not
+been determined, the maximum occupancy of the facility designated in any permit
+required to be obtained in order to provide the live entertainment; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-200__subsec_5__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>If such a permit does not designate
+the maximum occupancy of the facility, the actual seating capacity of the
+facility in which the live entertainment is provided.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="368A-200__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>ï¿½Operatorï¿½ includes, without limitation, a
+person who operates a facility where live entertainment is provided or who
+presents, produces or otherwise provides live entertainment.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 147; A2005,
+2483;2005,
+22nd Special Session, 142;2007,
+3433;2015,
+3766;2021,
+2708,3394)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-220">
+          <num>368A.220</num>
+          <heading>Filing of reports and payment of tax; deposit of amounts
+received in State General Fund; deposit of certain amount for credit to Nevada
+Arts Council.</heading>
+          <subsection eId="368A-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-220__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each taxpayer who is a licensed gaming
+establishment shall file with the Board, on or before the 15th day of each
+month, a report showing the amount of all taxable receipts for the preceding
+month or the month in which the taxable events occurred. The report must be in
+a form prescribed by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-220__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>All other taxpayers shall file with the
+Department, on or before the last day of each month, a report showing the
+amount of all taxable receipts for the preceding month. The report must be in a
+form prescribed by the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board or the Department, if it
+deems it necessary to ensure payment to or facilitate the collection by the
+State of the tax imposed byNRS 368A.200,
+may require reports to be filed not later than 10 days after the end of each
+calendar quarter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-220__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Each report required to be filed by
+this section must be accompanied by the amount of the tax that is due for the
+period covered by the report.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-220__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection, the Board and the Department shall deposit all taxes, interest and
+penalties they receive pursuant to this chapter in the State Treasury for
+credit to the State General Fund. On or before October 1 of each year, the
+Department shall deposit $150,000 from the taxes, interest and penalties it
+receives pursuant to this chapter in the State Treasury for credit to the
+Nevada Arts Council created byNRS
+233C.025. The amount deposited in the State Treasury for credit to the
+Nevada Arts Council pursuant to this subsection is hereby authorized for
+expenditure by the Nevada Arts Council as a continuing appropriation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 149; A2005,
+2484;2013,
+165;2015,
+3769)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-230">
+          <num>368A.230</num>
+          <heading>Extension of time for payment; payment of interest during period
+of extension.</heading>
+          <content>
+            <p>Upon written
+application made before the date on which payment must be made, the Board or
+the Department may, for good cause, extend by 30 days the time within which a
+taxpayer is required to pay the tax imposed by this chapter. If the tax is paid
+during the period of extension, no penalty or late charge may be imposed for
+failure to pay at the time required, but the taxpayer shall pay interest at the
+rate of 0.75 percent per month from the date on which the amount would have
+been due without the extension until the date of payment, unless otherwise
+provided inNRS 360.232or360.320.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 150; A2011,
+3144)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-240">
+          <num>368A.240</num>
+          <heading>Credit for amount of tax paid on account of certain charges
+taxpayer is unable to collect; violations.</heading>
+          <subsection eId="368A-240__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a taxpayer:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-240__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is unable to collect all or part of an
+admission charge or charge for live entertainment provided by an escort, which
+was included in the taxable receipts reported for a previous reporting period;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-240__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has taken a deduction on his or her federal
+income tax return pursuant to 26 U.S.C. ï¿½ 166</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-240__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>for the amount which the
+taxpayer is unable to collect,
+ï¿½the taxpayer
+is entitled to receive a credit for the amount of tax paid on account of that
+uncollected amount. The credit may be used against the amount of tax that the
+taxpayer is subsequently required to pay pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-240__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Internal Revenue Service
+disallows a deduction described in paragraph</p>
+            </content>
+            <paragraph eId="368A-240__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 and the
+taxpayer claimed a credit on a return for a previous reporting period pursuant
+to subsection 1, the taxpayer shall include the amount of that credit in the
+amount of taxes reported pursuant to this chapter in the first return filed
+with the Board or the Department after the deduction is disallowed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-240__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a taxpayer collects all or part of
+an admission charge or charge for live entertainment provided by an escort, for
+which the taxpayer claimed a credit on a return for a previous reporting period
+pursuant to subsection 2, the taxpayer shall include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-240__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The amount collected in the charges reported
+pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-240__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-240__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The tax payable on the amount collected in
+the amount of taxes reported,
+ï¿½in the first
+return filed with the Board or the Department after that collection.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-240__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 5, upon determining that a taxpayer has filed a return which
+contains one or more violations of the provisions of this section, the Board or
+the Department shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-240__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the first return of any taxpayer that
+contains one or more violations, issue a letter of warning to the taxpayer
+which provides an explanation of the violation or violations contained in the
+return.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-240__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For the first or second return, other than a
+return described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-240__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>, in any calendar year which contains one or
+more violations, assess a penalty equal to the amount of the tax which was not
+reported.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-240__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For the third and each subsequent return in
+any calendar year which contains one or more violations, assess a penalty of
+three times the amount of the tax which was not reported.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-240__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>For the purposes of subsection 4, if
+the first violation of this section by any taxpayer was determined by the Board
+or the Department through an audit which covered more than one return of the
+taxpayer, the Board or the Department shall treat all returns which were
+determined through the same audit to contain a violation or violations in the
+manner provided in paragraph</p>
+            </content>
+            <paragraph eId="368A-240__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 4.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 152; A2015,
+3770)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-250">
+          <num>368A.250</num>
+          <heading>Certification of excess amount collected; credit and refund.</heading>
+          <content>
+            <p>If the Department determines that any tax,
+penalty or interest it is required to collect has been paid more than once or
+has been erroneously or illegally collected or computed, the Department shall set
+forth that fact in its records and shall certify to the State Board of
+Examiners the amount collected in excess of the amount legally due and the
+person from whom it was collected or by whom it was paid. If approved by the
+State Board of Examiners, the excess amount collected or paid must, after being
+credited against any amount then due from the person in accordance withNRS 360.236, be refunded to the person or
+his or her successors in interest.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 153; A2009,
+66)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-260">
+          <num>368A.260</num>
+          <heading>Limitations on claims for refund or credit; form and contents of
+claim; failure to file claim constitutes waiver; service of notice of rejection
+of claim.</heading>
+          <subsection eId="368A-260__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 360.235and360.395:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-260__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>No refund may be allowed unless a claim for
+it is filed with:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="368A-260__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The Board, if the taxpayer is a
+licensed gaming establishment; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="368A-260__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The Department, if the taxpayer is not
+a licensed gaming establishment.
+ï¿½A claim must
+be filed within 3 years after the last day of the month following the reporting
+period for which the overpayment was made.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="368A-260__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>No credit may be allowed after the expiration
+of the period specified for filing claims for refund unless a claim for credit
+is filed with the Board or the Department within that period.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-260__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each claim must be in writing and must
+state the specific grounds upon which the claim is founded.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-260__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Failure to file a claim within the time
+prescribed in this chapter constitutes a waiver of any demand against the State
+on account of overpayment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-260__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Within 30 days after rejecting any
+claim in whole or in part, the Board or the Department shall serve notice of
+its action on the claimant in the manner prescribed for service of notice of a
+deficiency determination.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 153)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-270">
+          <num>368A.270</num>
+          <heading>Interest on overpayments; disallowance of interest.</heading>
+          <subsection eId="368A-270__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section,NRS 360.320or any other
+specific statute, interest must be paid upon any overpayment of any amount of
+the tax imposed by this chapter in accordance with the provisions ofNRS 368A.140.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-270__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the overpayment is paid to the
+Department, the interest must be paid at the rate set forth in, and in
+accordance with the provisions of,NRS
+360.2937.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-270__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Board or the Department
+determines that any overpayment has been made intentionally or by reason of
+carelessness, the Board or the Department shall not allow any interest on the
+overpayment.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 153; A2007,
+913;2023,
+508)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-280">
+          <num>368A.280</num>
+          <heading>Injunction or other process to prevent collection of tax
+prohibited; filing of claim is condition precedent to maintaining action for
+refund.</heading>
+          <subsection eId="368A-280__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>No injunction, writ of mandate or other
+legal or equitable process may issue in any suit, action or proceeding in any
+court against this State or against any officer of the State to prevent or
+enjoin the collection under this chapter of the tax imposed by this chapter or
+any amount of tax, penalty or interest required to be collected.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-280__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>No suit or proceeding may be maintained
+in any court for the recovery of any amount alleged to have been erroneously or
+illegally determined or collected unless a claim for refund or credit has been
+filed.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 154)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-290">
+          <num>368A.290</num>
+          <heading>Action for refund: Period for commencement; venue; waiver.</heading>
+          <subsection eId="368A-290__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Within 90 days after a final decision
+upon a claim filed pursuant to this chapter is rendered by:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-290__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Commission, the claimant may bring an
+action against the Board on the grounds set forth in the claim.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-290__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Nevada Tax Commission, the claimant may
+bring an action against the Department on the grounds set forth in the claim.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-290__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An action brought pursuant to
+subsection 1 must be brought in a court of competent jurisdiction in Carson
+City, the county of this State where the claimant resides or maintains his or
+her principal place of business or a county in which any relevant proceedings
+were conducted by the Board or the Department, for the recovery of the whole or
+any part of the amount with respect to which the claim has been disallowed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-290__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Failure to bring an action within the
+time specified constitutes a waiver of any demand against the State on account
+of alleged overpayments.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 154; A2005,
+22nd Special Session, 143)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-300">
+          <num>368A.300</num>
+          <heading>Rights of claimant upon failure of Board or Department to mail
+notice of action on claim; allocation of judgment for claimant.</heading>
+          <subsection eId="368A-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Board fails to mail notice of
+action on a claim within 6 months after the claim is filed, the claimant may
+consider the claim disallowed and file an appeal with the Commission within 30
+days after the last day of the 6-month period.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Department fails to mail notice
+of action on a claim within 6 months after the claim is filed, the claimant may
+consider the claim disallowed and file an appeal with the Nevada Tax Commission
+within 30 days after the last day of the 6-month period.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-300__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the claimant is aggrieved by the
+decision of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-300__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Commission rendered on appeal, the
+claimant may, within 90 days after the decision is rendered, bring an action
+against the Board on the grounds set forth in the claim for the recovery of the
+whole or any part of the amount claimed as an overpayment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-300__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Nevada Tax Commission rendered on appeal,
+the claimant may, within 90 days after the decision is rendered, bring an
+action against the Department on the grounds set forth in the claim for the
+recovery of the whole or any part of the amount claimed as an overpayment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-300__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If judgment is rendered for the
+plaintiff, the amount of the judgment must first be credited towards any tax
+due from the plaintiff.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-300__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The balance of the judgment must be
+refunded to the plaintiff.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 154; A2005,
+22nd Special Session, 143)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-310">
+          <num>368A.310</num>
+          <heading>Allowance of interest in judgment for amount illegally
+collected.</heading>
+          <content>
+            <p>In any judgment,
+interest must be allowed at the rate of 3 percent per annum upon the amount
+found to have been illegally collected from the date of payment of the amount
+to the date of allowance of credit on account of the judgment, or to a date
+preceding the date of the refund warrant by not more than 30 days. The date
+must be determined by the Board or the Department.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 154; A2011,
+3144)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-320">
+          <num>368A.320</num>
+          <heading>Standing to recover.</heading>
+          <content>
+            <p>A
+judgment may not be rendered in favor of the plaintiff in any action brought
+against the Board or the Department to recover any amount paid when the action
+is brought by or in the name of an assignee of the person paying the amount or
+by any person other than the person who paid the amount.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 155)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-330">
+          <num>368A.330</num>
+          <heading>Action for recovery of erroneous refund: Jurisdiction; venue;
+prosecution.</heading>
+          <subsection eId="368A-330__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board or the Department may recover
+a refund or any part thereof which is erroneously made and any credit or part
+thereof which is erroneously allowed in an action brought in a court of
+competent jurisdiction in Carson City or Clark County in the name of the State
+of Nevada.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-330__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The action must be tried in Carson City
+or Clark County unless the court, with the consent of the Attorney General,
+orders a change of place of trial.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-330__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Attorney General shall prosecute
+the action, and the provisions of NRS, the Nevada Rules of Civil Procedure and
+the Nevada Rules of Appellate Procedure relating to service of summons,
+pleadings, proofs, trials and appeals are applicable to the proceedings.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 155)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-340">
+          <num>368A.340</num>
+          <heading>Cancellation of illegal determination.</heading>
+          <subsection eId="368A-340__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If any amount in excess of $25 has been
+illegally determined, either by the person filing the return or by the Board or
+the Department, the Board or the Department shall certify this fact to the
+State Board of Examiners, and the latter shall authorize the cancellation of
+the amount upon the records of the Board or the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-340__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If an amount not exceeding $25 has been
+illegally determined, either by the person filing a return or by the Board or
+the Department, the Board or the Department, without certifying this fact to
+the State Board of Examiners, shall authorize the cancellation of the amount
+upon the records of the Board or the Department.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 155)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-350">
+          <num>368A.350</num>
+          <heading>Prohibited acts; penalty.</heading>
+          <subsection eId="368A-350__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-350__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Make, cause to be made or permit to be made
+any false or fraudulent return or declaration or false statement in any report
+or declaration, with intent to defraud the State or to evade payment of the tax
+or any part of the tax imposed by this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-350__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Make, cause to be made or permit to be made
+any false entry in books, records or accounts with intent to defraud the State
+or to evade the payment of the tax or any part of the tax imposed by this
+chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-350__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Keep, cause to be kept or permit to be kept
+more than one set of books, records or accounts with intent to defraud the
+State or to evade the payment of the tax or any part of the tax imposed by this
+chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="368A-350__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any person who violates the provisions
+of subsection 1 is guilty of a gross misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 155)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-360">
+          <num>368A.360</num>
+          <heading>Revocation of gaming license for failure to report, pay or
+truthfully account for tax; licensed gaming establishment subject to discipline
+for violation of chapter with intent to avoid tax.</heading>
+          <subsection eId="368A-360__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any licensed gaming establishment
+liable for the payment of the tax imposed byNRS 368A.200who willfully fails to
+report, pay or truthfully account for the tax is subject to the investigatory
+or disciplinary proceedings that are set forth inNRS 463.310to463.318, inclusive, and may have its gaming
+license revoked by the Commission.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="368A-360__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A violation of any provision of this
+chapter, or any regulation adopted pursuant thereto, by a licensed gaming
+establishment, with the intent to avoid a payment of the tax imposed byNRS 368A.200which is known to be due,
+is:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="368A-360__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An unsuitable method of operation; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="368A-360__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Subject to the investigatory and disciplinary
+proceedings that are set forth inNRS
+463.310to463.318, inclusive, and
+shall be punished as provided in those sections.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 155; A2005,
+22nd Special Session, 144;2015,
+3771)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_368A-370">
+          <num>368A.370</num>
+          <heading>Remedies of State are cumulative.</heading>
+          <content>
+            <p>The
+remedies of the State provided for in this chapter are cumulative, and no
+action taken by the Commission, the Board, the Department or the Attorney
+General constitutes an election by the State to pursue any remedy to the
+exclusion of any other remedy for which provision is made in this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+20th Special Session, 153; A2005,
+22nd Special Session, 144)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

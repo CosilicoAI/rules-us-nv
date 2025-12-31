@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-695J"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-695J"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="695J"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-695J/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-695J/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-695J/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-695J/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_695J">
+        <num>695J</num>
+        <heading>PERSONS WHO FACILITATE</heading>
+        <section eId="sec_695J-010">
+          <num>695J.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 695J.020to695J.070, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3590)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-020">
+          <num>695J.020</num>
+          <heading>ï¿½Appointmentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Appointmentï¿½
+means a contract, agreement or other arrangement under which a person may act
+on behalf of the Exchange as an assister, navigator or any other designation
+authorized or required by the Federal Act.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3590)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-030">
+          <num>695J.030</num>
+          <heading>ï¿½Assisterï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Assisterï¿½
+has the meaning ascribed to it by regulations adopted by the Board of Directors
+of the Exchange pursuant toNRS 695I.370.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3590)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-040">
+          <num>695J.040</num>
+          <heading>ï¿½Exchangeï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Exchangeï¿½
+means the Silver State Health Insurance Exchange established byNRS 695I.200.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3590)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-050">
+          <num>695J.050</num>
+          <heading>ï¿½Exchange enrollment facilitatorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Exchange enrollment facilitatorï¿½ means a
+person certified pursuant to this chapter who is engaged in the business of
+facilitating enrollment in qualified health plans offered by the Exchange.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3590)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-060">
+          <num>695J.060</num>
+          <heading>ï¿½Navigatorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Navigatorï¿½
+means a person or entity that meets the requirements of 45 C.F.R. ï¿½ 155.210 and
+any other requirements of the Exchange.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3590)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-070">
+          <num>695J.070</num>
+          <heading>ï¿½Qualified health planï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Qualified
+health planï¿½ has the meaning ascribed to it inNRS 695I.080.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3590)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-100">
+          <num>695J.100</num>
+          <heading>Applicability.</heading>
+          <subsection eId="695J-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The provisions ofNRS 683A.341and683A.351apply to exchange enrollment
+facilitators.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For the purposes of subsection 1,
+unless the context requires thatNRS
+683A.341or683A.351apply only to
+producers of insurance or insurers, any reference in those sections to
+ï¿½producer of insuranceï¿½ or ï¿½insurerï¿½ must be replaced by a reference to
+ï¿½exchange enrollment facilitator.ï¿½</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3590)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-110">
+          <num>695J.110</num>
+          <heading>Application for initial certificate as exchange enrollment
+facilitator: Requirements; fee.</heading>
+          <subsection eId="695J-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Be a natural person of not less than 18
+years of age;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Apply on a form prescribed by the
+Commissioner;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-110__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Pass a written examination established
+by the Commissioner by regulation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-110__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Successfully complete a course of
+instruction established by the Commissioner by regulation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-110__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Submit fingerprints as required
+pursuant toNRS 695J.120; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-110__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Pay the nonrefundable:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695J-110__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Application and certificate fee set forth inNRS 680B.010; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-110__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Initial fee set forth inNRS 680C.110.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3590; A2015,
+2843)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-120">
+          <num>695J.120</num>
+          <heading>Application for certificate as exchange enrollment facilitator:
+Form; fingerprints; period of validity of certificate.</heading>
+          <subsection eId="695J-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner shall prescribe the
+form for application for a certificate as an exchange enrollment facilitator.
+The form must require the applicant to declare, under penalty of refusal to
+issue, or suspension or revocation of, the certificate of the applicant, that
+the statements made in the application are true, correct and complete to the
+best of his or her knowledge and belief.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Before approving an application, the
+Commissioner must find that the applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695J-120__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Meets the requirements ofNRS 695J.110.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-120__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has not committed any act that is a ground
+for refusal to issue, or suspension or revocation of a certificate pursuant toNRS 683A.451.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-120__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Paid all applicable fees prescribed pursuant
+toNRS 695J.110.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-120__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Meets the requirements of subsections 3 and
+5.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695J-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An applicant must, as part of his or
+her application and at the applicantï¿½s own expense:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695J-120__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Arrange to have a complete set of his or her
+fingerprints taken by a law enforcement agency or other authorized entity acceptable
+to the Commissioner; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-120__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Submit to the Commissioner:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="695J-120__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A completed fingerprint card and
+written permission authorizing the Commissioner to submit the applicantï¿½s
+fingerprints to the Central Repository for Nevada Records of Criminal History for
+submission to the Federal Bureau of Investigation for a report on the
+applicantï¿½s background and to such other law enforcement agencies as the
+Commissioner deems necessary; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="695J-120__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Written verification, on a form
+prescribed by the Commissioner, stating that the fingerprints of the applicant
+were taken and directly forwarded electronically or by another means to the
+Central Repository and that the applicant has given written permission to the
+law enforcement agency or other authorized entity taking the fingerprints to
+submit the fingerprints to the Central Repository for submission to the Federal
+Bureau of Investigation for a report on the applicantï¿½s background and to such
+other law enforcement agencies as the Commissioner deems necessary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="695J-120__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Commissioner may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695J-120__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unless the applicantï¿½s fingerprints are
+directly forwarded pursuant to subparagraph</p>
+              </content>
+              <subparagraph eId="695J-120__subsec_4__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="695J-120__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection
+3, submit those fingerprints to the Central Repository for submission to the
+Federal Bureau of Investigation and to such other law enforcement agencies as
+the Commissioner deems necessary;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-120__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Request from each such agency any information
+regarding the applicantï¿½s background as the Commissioner deems necessary; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-120__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Adopt regulations concerning the procedures
+for obtaining the information described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-120__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695J-120__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Commissioner may require from the
+applicant any document reasonably necessary to verify information contained in
+an application.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-120__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 695J.250, a certificate issued
+pursuant to this chapter is valid for 3 years after the date of issuance unless
+it is suspended, revoked or otherwise terminated.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3591)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-130">
+          <num>695J.130</num>
+          <heading>Examination: Application; fee; failure to appear or pass.</heading>
+          <subsection eId="695J-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person taking the examination
+required pursuant toNRS 695J.110must
+apply to the Commissioner to take the examination and pay a nonrefundable fee
+in an amount prescribed in the regulations adopted pursuant toNRS 695J.270.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who fails to appear for the
+examination as scheduled or fails to pass the examination must reapply for
+examination and pay the required fees in order to be scheduled for another
+examination.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3592)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-140">
+          <num>695J.140</num>
+          <heading>Renewal of certificate: Application; fees; waiver of time limit
+and fine or sanction; expiration.</heading>
+          <subsection eId="695J-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A certificate may be renewed by
+submitting to the Commissioner an application for renewal and:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695J-140__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the application is made:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="695J-140__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>On or before the renewal date of the
+certificate, all applicable renewal fees; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="695J-140__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Except as otherwise provided in
+subsection 3:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) Not more than 30 days after the
+renewal date of the certificate, a renewal fee of 150 percent of all applicable
+renewal fees otherwise required, except for any fee required pursuant toNRS 680C.110; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) More than 30 days but not more
+than 1 year after the renewal date of the certificate, all applicable renewal
+fees plus a penalty of twice all applicable renewal fees, except for any fee
+required pursuant toNRS 680C.110.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="695J-140__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Proof of the successful completion of
+appropriate courses of study required for renewal, as established by the
+Commissioner by regulation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695J-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The fees specified in this section are
+not refundable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-140__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An exchange enrollment facilitator who
+is unable to renew his or her certificate because of military service, extended
+medical disability or other extenuating circumstance may request a waiver of
+the time limit and of any fine or sanction otherwise required or imposed
+because of the failure to renew.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-140__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A certificate which:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695J-140__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is not renewed pursuant to this section on or
+before the renewal date expires on the renewal date.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-140__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is renewed pursuant to this section continues
+in effect until the next renewal date unless it is suspended, revoked or
+otherwise terminated.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695J-140__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>As used in this section, ï¿½renewal dateï¿½
+means:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695J-140__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the first renewal of the certificate, the
+last day of the month which is 3 years after the month in which the
+Commissioner originally issued the certificate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-140__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For each renewal after the first renewal of
+the certificate, the last day of the month which is 3 years after the month in
+which the certificate was last due to be renewed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3592; A2015,
+2843;2021,
+2998)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-150">
+          <num>695J.150</num>
+          <heading>Payment of child support: Statement by applicant for
+certificate; grounds for denial of certificate; duty of Commissioner.
+[Effective until the date of the repeal of 42 U.S.C. ï¿½ 666, the federal law
+requiring each state to establish procedures for withholding, suspending and
+restricting the professional, occupational and recreational licenses for child
+support arrearages and for noncompliance with certain processes relating to
+paternity or child support proceedings.]</heading>
+          <subsection eId="695J-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An applicant for the issuance or
+renewal of a certificate to act as an exchange enrollment facilitator shall
+submit to the Commissioner the statement prescribed by the Division of Welfare
+and Supportive Services of the Department of Health and Human Services pursuant
+toNRS 425.520. The statement must be
+completed and signed by the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall include the
+statement required pursuant to subsection 1 in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695J-150__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The application or any other forms that must
+be submitted for the issuance or renewal of the certificate; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-150__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A separate form prescribed by the
+Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695J-150__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A certificate to act as an exchange
+enrollment facilitator may not be issued or renewed by the Commissioner if the
+applicant is a natural person who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695J-150__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Fails to submit the statement required
+pursuant to subsection 1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-150__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Indicates on the statement submitted pursuant
+to subsection 1 that the applicant is subject to a court order for the support
+of a child and is not in compliance with the order or a plan approved by the
+district attorney or other public agency enforcing the order for the repayment
+of the amount owed pursuant to the order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695J-150__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If an applicant indicates on the
+statement submitted pursuant to subsection 1 that the applicant is subject to a
+court order for the support of a child and is not in compliance with the order
+or a plan approved by the district attorney or other public agency enforcing
+the order for the repayment of the amount owed pursuant to the order, the
+Commissioner shall advise the applicant to contact the district attorney or
+other public agency enforcing the order to determine the actions that the
+applicant may take to satisfy the arrearage.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3592)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-160">
+          <num>695J.160</num>
+          <heading>Suspension of certificate for failure to pay child support or
+comply with certain subpoenas or warrants; reinstatement of certificate.
+[Effective until the date of the repeal of 42 U.S.C. ï¿½ 666, the federal law
+requiring each state to establish procedures for withholding, suspending and
+restricting the professional, occupational and recreational licenses for child
+support arrearages and for noncompliance with certain processes relating to
+paternity or child support proceedings.]</heading>
+          <subsection eId="695J-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Commissioner receives a copy of
+a court order issued pursuant toNRS 425.540that provides for the suspension of all professional, occupational and
+recreational licenses, certificates and permits issued to a person who is the
+holder of a certificate to act as an exchange enrollment facilitator, the
+Commissioner shall deem the certificate issued to that person to be suspended
+at the end of the 30th day after the date on which the court order was issued
+unless the Commissioner receives a letter issued to the holder of the
+certificate by the district attorney or other public agency pursuant toNRS 425.550stating that the holder of the
+certificate has complied with the subpoena or warrant or has satisfied the
+arrearage pursuant toNRS 425.560.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall reinstate a
+certificate to act as an exchange enrollment facilitator that has been
+suspended by a district court pursuant toNRS
+425.540if the Commissioner receives a letter issued by the district
+attorney or other public agency pursuant toNRS
+425.550to the person whose certificate was suspended stating that the
+person whose certificate was suspended has complied with the subpoena or
+warrant or has satisfied the arrearage pursuant toNRS 425.560.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3593)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-170">
+          <num>695J.170</num>
+          <heading>Application for certificate must include social security number
+of applicant. [Effective until the date of the repeal of 42 U.S.C. ï¿½ 666, the
+federal law requiring each state to establish procedures for withholding,
+suspending and restricting the professional, occupational and recreational
+licenses for child support arrearages and for noncompliance with certain
+processes relating to paternity or child support proceedings.]</heading>
+          <content>
+            <p>The application of a natural person who
+applies for the issuance or renewal of a certificate as an exchange enrollment
+facilitator must include the social security number of the applicant.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3593)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-180">
+          <num>695J.180</num>
+          <heading>Contents of certificate; holder required to make certificate
+available for public inspection and inform Commissioner of locations of
+business.</heading>
+          <subsection eId="695J-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A certificate issued pursuant to this
+chapter must state the certificate holderï¿½s name, address, personal
+identification number, the date of issuance and the date of expiration, and
+must contain any other information the Commissioner considers necessary. The
+certificate must be made available by the certificate holder for public
+inspection upon request.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A certificate holder shall inform the
+Commissioner of all locations from which he or she conducts business and of
+each change of business or residence address, in writing or by other means
+acceptable to the Commissioner, within 30 days after the date on which the
+change takes place. If a certificate holder changes his or her business or
+residence address without giving written notice and the Commissioner is unable
+to locate the certificate holder after diligent effort, the Commissioner may
+revoke the certificate without a hearing. The mailing of a letter by certified
+mail, return receipt requested, addressed to the certificate holder at his or
+her last mailing address appearing on the records of the Division, and the
+return of the letter undelivered, constitutes a diligent effort by the
+Commissioner.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3593)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-190">
+          <num>695J.190</num>
+          <heading>Temporary certificate as exchange enrollment facilitator.</heading>
+          <subsection eId="695J-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Commissioner believes that a
+temporary certificate is necessary to carry on the business of facilitating
+selection of a qualified health plan, the Commissioner may issue a temporary
+certificate as an exchange enrollment facilitator for 180 days or less without
+requiring an examination to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695J-190__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The surviving spouse, personal representative
+or guardian of an exchange enrollment facilitator who dies or becomes incompetent
+or incapacitated, to allow adequate time for the sale of the business, the
+recovery or return of the exchange enrollment facilitator, or the training and
+certification of new personnel to operate the business;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-190__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A member or employee of a business
+organization appointed by the Exchange, upon the death or disability of the
+natural person designated in its application or certificate;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-190__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The designee of an exchange enrollment
+facilitator entering active service in the Armed Forces of the United States;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-190__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person in any other circumstance in which
+the Commissioner believes that the public interest will be best served by
+issuing the certificate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695J-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner may by order limit the
+authority of a person who holds a temporary certificate as the Commissioner
+believes necessary to protect persons insured and the public. The Commissioner
+may require the person who holds a temporary certificate to have a suitable
+sponsor who is an exchange enrollment facilitator and who assumes responsibility
+for all acts of the person who holds the temporary certificate, and may impose
+similar requirements to protect persons insured and the public. The
+Commissioner may order revocation of a temporary certificate if the interests
+of persons insured or the public are endangered. A temporary certificate
+expires when the owner or the personal representative or guardian of the owner
+disposes of the business.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-190__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A temporary certificate issued pursuant
+to this section may be renewed for one additional period of 180 days if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695J-190__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The person who holds the temporary
+certificate, on or before a date specified by the Commissioner as the last day
+in which the temporary certificate is renewable, submits to the Commissioner a
+written request which includes, without limitation, sufficient justification
+for the renewal; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-190__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Commissioner approves the request.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3593; A2023,
+2644)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-200">
+          <num>695J.200</num>
+          <heading>Natural person authorized to act for entity appointed by
+Exchange required to be exchange enrollment facilitator.</heading>
+          <content>
+            <p>An entity other than a natural person that is
+appointed by the Exchange must require that each natural person who is
+authorized to act for the entity be an exchange enrollment facilitator. Each
+exchange enrollment facilitator must be named in the partnershipï¿½s or
+corporationï¿½s appointment.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3594)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-210">
+          <num>695J.210</num>
+          <heading>Prohibited acts.</heading>
+          <subsection eId="695J-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>May not concurrently hold a license as
+a producer of insurance, an insurance consultant or a surplus lines brokerï¿½s
+license in any line.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695J-210__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Sell, solicit or negotiate insurance;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-210__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Receive any consideration, directly or
+indirectly, from any health insurance issuer or issuer of stop-loss insurance
+in connection with the enrollment of any individuals or employees in a
+qualified health plan or health insurance plan; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-210__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Employ, be employed by or be in partnership
+with, or receive any remuneration arising out of his or her activities as an
+exchange enrollment facilitator from, any licensed producer of insurance,
+insurance consultant or surplus lines broker or insurer.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3594)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-220">
+          <num>695J.220</num>
+          <heading>Responsibilities of exchange enrollment facilitator.</heading>
+          <subsection eId="695J-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Serve with objectivity and complete
+loyalty the interests of his or her client; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Render to his or her client
+information, counsel and service which, to the best of the exchange enrollment
+facilitatorï¿½s knowledge, understanding and opinion, best serves the clientï¿½s
+insurance needs and interests.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3594)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-230">
+          <num>695J.230</num>
+          <heading>Nonresident exchange enrollment facilitator: Service of process;
+agreement to appear.</heading>
+          <subsection eId="695J-230__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A nonresident who is an exchange
+enrollment facilitator shall appoint the Commissioner, in writing, as his or
+her registered agent upon whom may be served all legal process issued in
+connection with any action or proceeding brought or pending in this State
+against or involving the nonresident certificate holder and relating to
+transactions under his or her Nevada certificate. The appointment is irrevocable
+and remains in force so long as such an action or proceeding exists or may
+arise. Duplicate copies of process must be served upon the Commissioner, or
+other person in apparent charge of the Division during the Commissionerï¿½s
+absence, accompanied by payment of the fee for service of process. Promptly
+after any such service, the Commissioner shall forward a copy of the process by
+certified mail, return receipt requested, to the nonresident certificate holder
+at his or her business address of most recent record with the Division. Process
+so served and the copy so forwarded constitutes personal service upon the
+certificate holder for all purposes.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-230__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each such nonresident certificate
+holder shall also file with the Commissioner a written agreement to appear
+before the Commissioner pursuant to notice of hearing, order to show cause or
+subpoena issued by the Commissioner and sent by certified mail to the
+certificate holder at his or her business address of most recent record with
+the Division, and that if the nonresident certificate holder fails to appear,
+the nonresident certificate holder thereby consents to any subsequent
+suspension, revocation or refusal to renew his or her certificate.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3594)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-240">
+          <num>695J.240</num>
+          <heading>Disciplinary action.</heading>
+          <subsection eId="695J-240__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner may place an exchange
+enrollment facilitator on probation, suspend his or her certificate for not
+more than 12 months, or revoke or refuse to renew his or her certificate, or
+may impose an administrative fine or take any combination of the foregoing
+actions, for one or more of the causes set forth inNRS 683A.451.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-240__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions ofNRS 683A.461also apply to an exchange
+enrollment facilitator.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3595)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-250">
+          <num>695J.250</num>
+          <heading>Suspension, limitation or revocation of certificate.</heading>
+          <subsection eId="695J-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon the suspension, limitation or
+revocation of the certificate of an exchange enrollment facilitator, the
+Commissioner shall immediately notify the certificate holder in person or by
+mail addressed to the certificate holder at his or her most recent address of
+record with the Division. Notice by mail is effective when mailed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon the suspension, limitation or
+revocation of the certificate of an exchange enrollment facilitator, the
+Commissioner shall immediately notify the Executive Director of the Exchange.
+Upon receipt of such notification, the Executive Director shall immediately terminate
+the certificate holderï¿½s appointment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-250__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner shall not again issue
+a certificate under this chapter to any natural person whose certificate has
+been revoked until at least 1 year after the revocation has become final, and
+thereafter not until the person again qualifies for a certificate under this
+chapter. A person whose certificate has been revoked twice is not eligible for
+any certificate under this title.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3595)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-260">
+          <num>695J.260</num>
+          <heading>Expiration of certificate in absence of appointment by Exchange;
+termination of appointment by Exchange; notice to Commissioner by Executive
+Director of Exchange.</heading>
+          <subsection eId="695J-260__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If an exchange enrollment facilitator
+fails to obtain an appointment by the Exchange within 30 days after the date on
+which the certificate was issued, the exchange enrollment facilitatorï¿½s
+certificate expires.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-260__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Exchange terminates an exchange
+enrollment facilitatorï¿½s appointment, the exchange enrollment facilitator is
+prohibited from engaging in the business of an exchange enrollment facilitator.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-260__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 4, if the Exchange terminates the appointment of an entity other
+than a natural person:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695J-260__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The appointments of exchange enrollment
+facilitators named on the entityï¿½s appointment also terminate; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-260__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The exchange enrollment facilitator is
+prohibited from engaging in the business of an exchange enrollment facilitator
+under his or her certificate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695J-260__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The provisions of subsection 3 do not
+apply to any appointments the exchange enrollment facilitator may have
+individually or through an entity other than the terminated entity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-260__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Upon the termination of an appointment
+for an entity or certificate holder, the Executive Director of the Exchange
+shall notify the Commissioner of the effective date of the termination and the
+grounds for termination.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3595; A2019,
+1723,3039)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-270">
+          <num>695J.270</num>
+          <heading>Regulations; authority of Commissioner to contract for the
+performance of certain functions.</heading>
+          <subsection eId="695J-270__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner shall adopt
+regulations:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695J-270__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For establishing and conducting an
+examination required by this chapter for the initial issuance and renewal of a
+certificate;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-270__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For the establishment of a course of
+instruction as required by this chapter for the initial issuance and renewal of
+a certificate;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-270__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Establishing the fee required byNRS 695J.130for the administration of
+the examination; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-270__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For carrying out the provisions of this
+chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695J-270__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner may contract with a
+person to perform functions required by this chapter, including, without
+limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695J-270__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Administering examinations;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-270__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Providing courses of instruction;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-270__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Processing applications; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695J-270__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Collecting fees.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3596; A2015,
+2844)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695J-280">
+          <num>695J.280</num>
+          <heading>Engaging in business of exchange enrollment facilitator without
+certificate prohibited; penalty.</heading>
+          <subsection eId="695J-280__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>No person may engage in the business of
+an exchange enrollment facilitator unless a certificate has been issued to the
+person by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695J-280__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who violates subsection 1 is
+subject to an administrative fine of not more than $1,000 for each act or
+violation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+3596)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

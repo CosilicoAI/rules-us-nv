@@ -1,0 +1,1448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-472"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-472"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="472"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-472/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-472/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-472/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-472/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_472">
+        <num>472</num>
+        <heading>STATE FORESTER FIREWARDEN</heading>
+        <section eId="sec_472-005">
+          <num>472.005</num>
+          <heading>ï¿½Rangeland fire protection associationï¿½ defined.</heading>
+          <content>
+            <p>As used in this chapter, unless the context
+otherwise requires, the term ï¿½rangeland fire protection associationï¿½ means a
+nonprofit association formed for the purpose of protecting rangeland from
+wildfire pursuant toNRS 472.200,474.323or474.518, as applicable.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1996)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-010">
+          <num>472.010</num>
+          <heading>Creation; appointment.</heading>
+          <content>
+            <p>There
+is hereby created the position of State Forester Firewarden. The State Forester
+Firewarden shall be appointed by and be responsible to the Director of the
+State Department of Conservation and Natural Resources.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:149:1945; 1943 NCL ï¿½ 3169]—(NRS A1957,
+650)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-020">
+          <num>472.020</num>
+          <heading>Qualifications.</heading>
+          <subsection eId="472-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A graduate of a recognized school of
+forestry, or the equivalent.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Trained in fire control work.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:149:1945; 1943 NCL ï¿½ 3169.01] + [39:295:1953;
+A1955,
+517]—(NRS A1957,
+650)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-025">
+          <num>472.025</num>
+          <heading>Classification; restrictions on other employment.</heading>
+          <subsection eId="472-025__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Forester Firewarden is in the
+unclassified service of the State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-025__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 284.143, the State Forester Firewarden
+shall devote his or her entire time and attention to the business of his or her
+office and shall not pursue any other business or occupation or hold any other
+office of profit.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+788; A1960,
+395;1961,
+657;1963,
+1332;1965,
+705;1967,
+1500;1971,
+1439;1981,
+1282;1995,
+2315)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-040">
+          <num>472.040</num>
+          <heading>Powers and duties; administrative supervision.</heading>
+          <subsection eId="472-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Forester Firewarden shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="472-040__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Supervise or coordinate all forestry,
+rangeland and watershed work on state-owned and privately owned lands,
+including fire control, in Nevada, working with federal agencies, private
+associations, counties, towns, cities or private persons.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-040__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Administer all fire control laws and all
+forestry laws in Nevada outside of townsite boundaries, and perform any other
+duties designated by the Director of the State Department of Conservation and
+Natural Resources or by state law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-040__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Assist and encourage county or local fire
+protection districts to create legally constituted fire protection districts
+where they are needed and offer guidance and advice in their operation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-040__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Purchase communication equipment which can
+use the microwave channels of the state communications system and store this
+equipment in regional locations for use in emergencies.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-040__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Administer money appropriated and grants
+awarded for fire prevention, fire control and the education of firefighters and
+award grants of money for those purposes to fire departments and educational
+institutions in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-040__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Determine the amount of wages that must be
+paid to offenders who participate in conservation camps and who perform work
+relating to fire fighting and other work projects of conservation camps.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-040__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Cooperate with the State Fire Marshal in the
+enforcement of all laws and the adoption of regulations relating to the
+prevention of fire through the management of vegetation in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-040__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Ensure that any adopted regulations are
+consistent with those of fire protection districts created pursuant tochapter 318or474of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-040__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Upon the request of the State Engineer,
+review a plan submitted with an application for the issuance of a temporary
+permit pursuant toNRS 533.436.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-040__subsec_1__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>Work collaboratively with and provide
+technical assistance to federal, state and local agencies and property owners
+to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="472-040__subsec_1__subsec_j__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Identify and mitigate the risks of
+wildfire to life, property and ecosystems;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="472-040__subsec_1__subsec_j__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Restore and maintain landscape
+resiliency;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="472-040__subsec_1__subsec_j__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Create and maintain fire-adapted
+communities and ignition-resistant communities; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="472-040__subsec_1__subsec_j__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Improve and support safe and effective
+responses to wildfire.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="472-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Forester Firewarden in
+carrying out the provisions of this chapter may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="472-040__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Appoint paid foresters and firewardens to
+enforce the provisions of the laws of this State respecting forest, rangeland
+and watershed management or the protection of lands from fire, subject to the
+approval of the board of county commissioners of each county concerned.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-040__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Appoint suitable citizen-wardens.
+Citizen-wardens serve voluntarily except that they may receive compensation
+when an emergency is declared by the State Forester Firewarden.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-040__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Appoint, upon the recommendation of the appropriate
+federal officials, resident officers of the United States Forest Service and
+the United States Bureau of Land Management as voluntary firewardens. Voluntary
+firewardens are not entitled to compensation for their services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-040__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Appoint certain paid foresters or firewardens
+to be arson investigators.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-040__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Employ, with the consent of the Director of
+the State Department of Conservation and Natural Resources, clerical
+assistance, county and district coordinators, patrol officers, firefighters,
+and other employees as needed, and expend such sums as may be necessarily
+incurred for this purpose.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-040__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Purchase, or acquire by donation, supplies,
+material, equipment and improvements necessary for fire protection, fire
+prevention and forest, rangeland and watershed management, including, without
+limitation, cameras or other equipment necessary for the early warning or
+detection of wildfires.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-040__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>With the approval of the Director of the
+State Department of Conservation and Natural Resources and the State Board of
+Examiners, purchase or accept the donation of real property to be used for
+lookout sites and for other administrative, experimental or demonstration
+purposes. No real property may be purchased or accepted unless an examination
+of the title shows the property to be free from encumbrances, with title vested
+in the grantor. The title to the real property must be examined and approved by
+the Attorney General.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-040__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Expend any money appropriated by the State to
+the Division of Forestry of the State Department of Conservation and Natural
+Resources for paying expenses incurred in fighting fires or in emergencies
+which threaten human life.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="472-040__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The State Forester Firewarden, in
+carrying out the powers and duties granted in this section, is subject to
+administrative supervision by the Director of the State Department of
+Conservation and Natural Resources.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [4:149:1945; A1949,
+543;1955,
+587]—(NRS A1957,
+70,651;1959,
+141;1971,
+2080;1973,
+300;1977,
+1144;1981,
+481,1586;1985,
+296;1993,
+2534;2003,
+916;2005,
+335;2009,
+2746;2011,
+1570;2015,
+2226;2021,
+485,626,1365)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-043">
+          <num>472.043</num>
+          <heading>Establishment and preservation of vegetative cover in forests,
+on rangelands and on watershed land.</heading>
+          <subsection eId="472-043__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>It is the purpose of this section to
+provide for the maintenance of vegetative cover in forests, on rangelands and
+on watershed land, to conserve water and soil, to mitigate wildfires and to
+prevent destructive floods.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-043__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Forester Firewarden, with the
+approval of the Director of the State Department of Conservation and Natural
+Resources, may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="472-043__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Enter into contracts with any state or
+federal public agency, municipal corporation, or any person, firm or private
+corporation to establish and preserve vegetative cover in forests, on
+rangelands or on watershed lands.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-043__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Conduct surveys and studies, formulate plans
+and perform all acts incidental to the establishment and maintenance of
+vegetative cover in forests, on rangelands and on watershed lands, including
+any work necessary to accomplish such purposes.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="472-043__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In entering into contracts the State
+Forester Firewarden shall give priority to, but not be limited to, situations
+where:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="472-043__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The natural vegetative cover has been
+destroyed or denuded to the extent that precipitation may create floods and
+serious soil depletion and erosion.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-043__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The denuded area is of a size, and the
+topography and soil characteristics are of such a nature, that soil loss and
+floods will have a significant effect upon watershed values and the public
+welfare.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-043__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The vegetative cover will not be restored by
+natural means in time effectively to prevent undue erosion and flood runoff.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-043__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The natural succession of vegetation may be
+detrimental to the public welfare.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="472-043__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The State Forester Firewarden, or any
+agents of the State Forester Firewarden, with the approval of the Director of
+the State Department of Conservation and Natural Resources, may enter into
+cooperative agreements with federal agencies, counties, county fire protection
+districts, cities and private landowners for the purposes set forth in this
+section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+388; A1977,
+1146;2021,
+627)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-050">
+          <num>472.050</num>
+          <heading>Agreements with Federal Government, other entities and
+individuals for protection from fire; related agreements; deposit of federal
+money.</heading>
+          <subsection eId="472-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Forester Firewarden, with the
+approval of the Director of the State Department of Conservation and Natural
+Resources, may represent the State of Nevada in negotiating and entering into
+agreements with the Federal Government for the purpose of securing cooperation
+in forest, rangeland and watershed land management and the protection of such
+areas of Nevada from fire, and enter into such other agreements with boards of
+county commissioners, municipalities, rangeland fire protection associations
+and other organizations and individuals in the State of Nevada owning lands
+therein, as are necessary in carrying out the terms of the federal agreements
+or that will otherwise promote and encourage vegetation management and the
+protection from fire of lands having an inflammable cover.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any federal money allotted to the State
+of Nevada under the terms of the federal agreements and such other money as may
+be received by the State for the management and protection of forests,
+rangelands and watershed areas therein shall be deposited in the Division of
+Forestry Account in the State General Fund.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [5:149:1945; 1943 NCL ï¿½ 3169.04]—(NRS A1957,
+70,652;1973,
+270;1977,
+1146;2015,
+1997;2021,
+628)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-053">
+          <num>472.053</num>
+          <heading>Agreements with federal, state and local agencies for creation
+of fire board of directors to ensure that agencies in this State work
+collaboratively.</heading>
+          <subsection eId="472-053__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Determine and plan for best practices
+for wildfire suppression tactics and needs;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-053__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Facilitate communication among the agencies
+when a wildfire occurs; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-053__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Develop policies that ensure a safe and
+effective response to a wildfire.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+485)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-057">
+          <num>472.057</num>
+          <heading>Wildland Fire Protection Program: Creation; agreements with fire
+protection districts or boards of county commissioners; provision of resources
+to such fire protection districts and boards of county commissioners.</heading>
+          <subsection eId="472-057__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Wildland Fire Protection Program is
+hereby created in the Division of Forestry of the State Department of
+Conservation and Natural Resources to provide wildfire protection and resources
+throughout this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-057__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Forester Firewarden, with the
+approval of the Director of the State Department of Conservation and Natural
+Resources, may enter into cooperative agreements with any fire protection
+district or board of county commissioners to participate in the Wildland Fire
+Protection Program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-057__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Wildland Fire Protection Program
+may provide fire protection districts and boards of county commissioners who
+enter into the agreement to participate in the Wildland Fire Protection Program
+with resources for wildfire protection, firefighting and recovery, including,
+without limitation, technical assistance and labor, when available, to reduce
+the risk of wildfires in high to extreme wildfire risk areas and to reduce the
+cost of suppressing wildfires.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+485)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-060">
+          <num>472.060</num>
+          <heading>Fire protection districts and counties may enter into agreements
+with State Forester Firewarden and other entities; expenditure of money.</heading>
+          <subsection eId="472-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Enter into cooperative agreements with
+the State Forester Firewarden subject to the approval of the Director of the
+State Department of Conservation and Natural Resources, acting for the State,
+and with other counties, rangeland fire protection associations and other
+organizations and individuals, to prevent and suppress outdoor fires.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Appropriate and expend funds for the
+payment of wages and expenses incurred in fire prevention and fire suppression,
+for the purchase, construction and maintenance of forest and rangeland
+protection improvements and equipment and for paying other expenses incidental
+to the protection of lands from fire, including any portion of the office and
+travel expense of the Division of Forestry of the State Department of
+Conservation and Natural Resources incurred in carrying out the provisions of
+any cooperative agreements with the State of Nevada.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [6:149:1945; 1943 NCL ï¿½ 3169.05]—(NRS A1977,
+1147;2015,
+1998;2021,
+628)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-070">
+          <num>472.070</num>
+          <heading>Separate or collective agreements with United States Forest
+Service and United States Bureau of Land Management and other entities;
+disbursement of money.</heading>
+          <content>
+            <p>The State
+Forester Firewarden with the approval of the Director of the State Department
+of Conservation and Natural Resources, fire protection districts, and the
+boards of county commissioners, separately or collectively, may enter into
+agreements with the United States Forest Service, United States Bureau of Land
+Management, other fire protection agencies and rangeland fire protection
+associations to provide for placing any or all portions of the fire protection
+work under the direction of the agency or association concerned, under such
+terms as the contracting parties deem equitable, and may place any or all funds
+appropriated or otherwise secured for forest and rangeland protection in the
+cooperative work fund of the respective agency or rangeland fire protection
+association for disbursement by that agency or association for the purposes stated
+in the agreements and otherwise in conformity with the terms thereof.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [7:149:1945; 1943 NCL ï¿½ 3169.06]—(NRS A1977,
+1147;2015,
+1998;2021,
+629)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-080">
+          <num>472.080</num>
+          <heading>Cancellation, modification and renewal of cooperative
+agreements.</heading>
+          <content>
+            <p>Any authority granted
+by this chapter for entering into cooperative agreements shall be deemed to
+include authority for cancelling, modifying and renewing such agreements.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [8:149:1945; 1943 NCL ï¿½ 3169.07]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-090">
+          <num>472.090</num>
+          <heading>District or county fire coordinator to be appointed by county;
+supervision of State Forester Firewarden.</heading>
+          <content>
+            <p>Any
+county, counties, or portion thereof, electing to form a fire protection
+district shall appoint a district or county fire coordinator who shall be
+approved by and work under the supervision of the State Forester Firewarden.
+The county fire coordinator of the respective district shall assist the State
+Forester Firewarden in determining personnel and equipment needs to perfect a
+fire control organization within the limitations of existing statutes.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [9:149:1945; 1943 NCL ï¿½ 3169.08]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-095">
+          <num>472.095</num>
+          <heading>Public-private partnerships for addressing threat of
+catastrophic wildfires in this State.</heading>
+          <content>
+            <p>The
+State Forester Firewarden, with the approval of the Director of the State
+Department of Conservation and Natural Resources, may represent the State of
+Nevada in negotiating and entering into, cancelling, modifying and renewing one
+or more public-private partnerships for the purpose of addressing the threat of
+catastrophic wildfires in this State. Any such public-private partnership may
+address, without limitation, investment in wildfire prevention, restoration,
+infrastructure and workforce development for enhancing landscape resiliency
+against the threat of wildfires.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1365)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-110">
+          <num>472.110</num>
+          <heading>Meals may be provided to employees involved in certain
+emergencies or projects.</heading>
+          <content>
+            <p>The State
+Forester Firewarden may provide meals to employees of the Division of Forestry
+of the State Department of Conservation and Natural Resources who are involved
+in emergency fire fighting or critical natural resource projects if the State
+Forester Firewarden determines that it is impractical for the employees to eat
+at home because of their duties in that emergency or on that assignment.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1979,
+83; A2021,
+487)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-200">
+          <num>472.200</num>
+          <heading>Formation; approval; evaluation; delegation of evaluation;
+assistance with funding and operations.</heading>
+          <subsection eId="472-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 474.323and474.518, any business entity or cooperative
+or any two or more persons who own, lease, produce agriculture on or occupy
+property within a county in this State may establish a rangeland fire
+protection association by petitioning the board of county commissioners of the
+county in which the petitioners reside or in which their property is located
+for recognition as a rangeland fire protection association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A board of county commissioners may
+approve a petition submitted pursuant to subsection 1 if the petitioners:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="472-200__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Meet the requirements established by the
+board relating to the creation, operation and duties of a rangeland fire
+protection association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-200__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide to the board a copy of written notice
+from the State Forester Firewarden that the proposed rangeland fire protection
+association meets all the applicable requirements set forth in the regulations
+adopted by the State Forester Firewarden pursuant toNRS 472.210concerning the formation,
+operation and training of the members of a rangeland fire protection
+association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="472-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A board of county commissioners, in
+cooperation with the State Forester Firewarden or his or her designee, shall,
+before the board enters into a cooperative agreement with a rangeland fire
+protection association pursuant toNRS
+472.060or472.070and annually
+thereafter during the term of the agreement, evaluate:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="472-200__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The governance and management structure of
+the association;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-200__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The adequacy of any policy of liability
+insurance carried by the association;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-200__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The condition and maintenance of the vehicles
+and equipment used by the association in carrying out its duties; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-200__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The training and qualifications of each
+member of the association in accordance with national standards or other
+substantially equivalent standards determined by the State Forester Firewarden.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="472-200__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A board of county commissioners may
+delegate the performance of the evaluation required pursuant to subsection 3 to
+the State Forester Firewarden. The State Forester Firewarden shall report to
+the board of county commissioners the results of any such delegated evaluation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-200__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The board of county commissioners, the
+State Forester Firewarden and any other agency which is a party to a
+cooperative agreement entered into with a rangeland fire protection association
+shall, to the extent practicable, assist the association in procuring funding
+for the association, carrying out the duties of the association, training the
+members of the association and providing personal protective equipment for the
+members of the association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-200__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The provisions of this section do not
+require a person to be a member of a rangeland fire protection association in
+order to protect his or her property from a rangeland fire.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1996)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-210">
+          <num>472.210</num>
+          <heading>Regulations and recommendations.</heading>
+          <subsection eId="472-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Forester Firewarden shall
+adopt regulations governing a rangeland fire protection association established
+pursuant toNRS 472.200setting forth:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="472-210__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The requirements for the formation of such a
+rangeland fire protection association, including the governance and management
+structure of an association;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-210__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The scope of the operations which may be
+conducted by such an association;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-210__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The training requirements for the members of
+such an association;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-210__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The amount of liability insurance that must
+be carried by such an association; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-210__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any financial requirements for the formation
+and operation of such an association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="472-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Forester Firewarden shall
+develop recommendations concerning the formation, operation and training of the
+members of a rangeland fire protection association established pursuant toNRS 474.323or474.518. Such recommendations must address
+the topics set forth in subsection 1.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+1997)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-500">
+          <num>472.500</num>
+          <heading>Elimination of fire hazards.</heading>
+          <subsection eId="472-500__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any owner of lands within the
+jurisdiction of the State Forester Firewarden shall eliminate and remove a fire
+hazard on the ownerï¿½s property when directed to do so by the State Forester
+Firewarden.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-500__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the owner does not comply within the
+time specified by the State Forester Firewarden, the State Forester Firewarden
+may eliminate and remove the fire hazard and may for this purpose contract with
+any person for the performance of the work.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-500__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The cost incurred by the State Forester
+Firewarden in eliminating and removing the fire hazard may be recovered
+directly from the owner of the property or the State Forester Firewarden may
+make the cost a special assessment against the real property. The special
+assessment may be collected at the same time and in the same manner as ordinary
+county taxes are collected, and is subject to the same penalties and the same
+procedure and sale in case of delinquency as provided for ordinary county
+taxes. All laws applicable to the collection and enforcement of county taxes
+are applicable to the special assessment.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+380)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-510">
+          <num>472.510</num>
+          <heading>Activities which may be prohibited or restricted; public
+announcement and posting of prohibited or restricted activities; cooperation
+and collaboration with relevant federal, state and local agencies;
+applicability; penalty.</heading>
+          <subsection eId="472-510__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Forester Firewarden may
+prohibit or restrict the following activities on any lands within the
+jurisdiction of the State Forester Firewarden when a danger to public safety or
+natural resources exists because of conditions which create a high risk of
+fire:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="472-510__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The operation in an area of timber, brush or
+grass of a motor vehicle or other item of equipment powered by a motor:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="472-510__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>If the motor does not have a spark
+arrestor as required by law; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="472-510__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>If the operator does not have in his
+or her possession an ax, shovel and at least 1 gallon of water;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="472-510__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The operation in an area of timber, brush or
+grass of a motor vehicle off an existing paved, gravel or dirt road;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-510__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The smoking of tobacco or other substances in
+any place other than a motor vehicle or an area cleared of flammable
+vegetation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-510__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Setting an open fire in any place other than
+in a fireplace located in an established picnic area or campground; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-510__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Other activities, if specified in regulations
+adopted by the State Forester Firewarden and the prohibition or restriction is
+related to reducing a high risk of fire,
+ï¿½but these
+prohibitions and restrictions do not apply in established campgrounds or picnic
+areas, beaches or places of habitation or to travel on state or federal
+highways.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="472-510__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Forester Firewarden shall
+make a public announcement and post signs in any area where the State Forester
+Firewarden has prohibited or restricted any activities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-510__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The State Forester Firewarden shall,
+upon finding that a danger to public safety or to natural resources no longer
+exists, make known to the public the end of any prohibition or restriction in
+that area.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-510__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The State Forester Firewarden shall
+cooperate and collaborate with the relevant federal, state and local agencies
+in prohibiting or restricting activities pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-510__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The provisions of this section apply
+only to specified prohibitions or restrictions and do not confer upon the State
+Forester Firewarden the power to prohibit access to land.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-510__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Any person violating any of the
+provisions of subsection 1 is guilty of a misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+2224; A2021,
+487)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-520">
+          <num>472.520</num>
+          <heading>Unlawful burning, blasting or use of fireworks, welding torch,
+tarpot or other device; permits; exceptions; applicability; penalty.</heading>
+          <subsection eId="472-520__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section andNRS 527.126, it is unlawful
+for any person, firm, association, corporation or agency to burn, or cause to
+be burned, any brush, grass, logs or any other inflammable material, or blast
+with dynamite, powder or other explosive, or set off fireworks, or operate a
+welding torch, tarpot or any other device that may cause a fire in forest,
+grass or brush, either on the land of the person, firm, association,
+corporation or agency or on the land of another, or on public land, unless the
+burning or act is done under a written permit from the State Forester
+Firewarden or the State Forester Firewardenï¿½s duly authorized agent and in
+strict accordance with the terms of the permit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-520__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Written permission is not necessary:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="472-520__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>At any time during the year when the State
+Forester Firewarden determines that no fire hazard exists.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-520__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To burn materials in screened, safe
+incinerators, or in incinerators approved by the local governmental
+jurisdiction, the State Forester Firewarden or the State Forester Firewardenï¿½s
+duly authorized agent, or in small heaps or piles, where the fire is set on a
+public road, corrals, gardens or ploughed fields, and at a distance not less
+than 100 feet from any woodland, timber or brush-covered land or field
+containing dry grass or other inflammable material with at least one adult
+person in actual attendance at the fire at all times during its burning.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="472-520__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>This section does not prevent the
+issuance of an annual permit to any:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="472-520__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Public utility covering its usual and
+emergency operation and maintenance work.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-520__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Person who engages in agricultural
+production.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="472-520__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>This section does not prevent the
+building of necessary controlled small camp and branding fires if caution is
+taken to make certain that the fire is extinguished before leaving. In any case
+where the fire escapes and does injury to the property of another, the escape
+and injury are prima facie evidence of a violation of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-520__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The provisions of this section apply
+only to areas of land that are outside of incorporated cities and towns.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-520__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Any person, firm, association,
+corporation or agency violating any of the provisions of this section is guilty
+of a misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-520__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="472-520__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Agricultural productionï¿½ means an activity
+associated with the production of agricultural products for food, fiber, fuel
+or any other lawful use, including every process and step necessary and
+incident to the preparation, production and storage of agricultural products
+for human or animal consumption. The term includes, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="472-520__subsec_7__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Planting, harvesting or raising
+agricultural, horticultural, floricultural or viticultural crops, including,
+without limitation, fruits, vegetables, grains, seeds, nursery stock, plant
+products, plant by-products and plant compost;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="472-520__subsec_7__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Breeding, raising, feeding or managing
+livestock, furbearing animals, fish, bees and any other animal or aquatic
+species, or any product thereof;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="472-520__subsec_7__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The construction, expansion, use,
+maintenance or repair of an agricultural production facility;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="472-520__subsec_7__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Processing and packaging; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="472-520__subsec_7__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Manufacturing feed for animals.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="472-520__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Agricultural production facilityï¿½ means any
+structure or land that is used for the production of agricultural products,
+including, without limitation, a structure or land that is privately or publicly
+owned, leased or operated.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-520__subsec_7__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>ï¿½Livestockï¿½ has the meaning ascribed to it inNRS 569.0085.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+2225)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-530">
+          <num>472.530</num>
+          <heading>Liability of person, firm, association or agency for damage by
+fire.</heading>
+          <subsection eId="472-530__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Sets fire to the property, whether
+privately or publicly owned, of another;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-530__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Allows fire to be set to the property,
+whether privately or publicly owned, of another; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-530__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Allows a fire kindled or attended by
+the person, firm, association or agency to escape to the property, whether
+privately or publicly owned, of another,
+ï¿½is liable to
+the owner of the property for the damages caused by the fire.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+2225)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_472-540">
+          <num>472.540</num>
+          <heading>Liability of person, firm, association or agency causing fire or
+other emergency; immunity; exception.</heading>
+          <subsection eId="472-540__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section or by specific statute, if the State Forester Firewarden determines
+that a person, firm, association or agency is responsible for willfully or
+negligently causing any fire or other emergency, the person, firm, association
+or agency may be charged with the expenses incurred in extinguishing the fire
+or meeting the emergency, together with the cost of necessary patrol. This
+charge constitutes a debt of the person, firm, association or agency charged
+and is collectible by the federal, state, county, city or municipal agency, or
+general improvement district created pursuant toNRS 318.1181for the purpose of furnishing
+fire protection, incurring such expenses in the same manner as in the case of
+an obligation under a contract, express or implied.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-540__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In determining whether a person, firm,
+association or agency is responsible for willfully or negligently causing a
+fire pursuant to subsection 1, the State Forester Firewarden shall consider,
+without limitation, whether the person, firm, association or agency failed to
+exercise reasonable care given:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="472-540__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The forecasted and existing weather
+conditions;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-540__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The conditions of fuel moisture; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-540__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The topography of the area of the fire.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="472-540__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Notwithstanding the provisions of
+subsections 1 and 2, a person, firm, association or agency is immune from
+liability for the payment of expenses and costs described in subsection 1 if
+the person, firm, association or agency immediately notified the nearest
+fire-fighting agency of the fire, was forthright and truthful in responding to
+questions from the State Forester Firewarden, any fire-fighting agency and any
+other state or local agency investigating the fire, and at least one of the
+following circumstances applies:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="472-540__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The person, firm, association or agency had
+permission from a federal, state or local agency to start a fire or conduct a
+controlled burn and was in compliance with the terms of such permission;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-540__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The person, firm, association or agency
+started a warming fire to protect human life due to dangerous weather
+conditions; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-540__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The person, firm, association or agency is in
+the business of raising livestock and started a controlled campfire for the
+purpose of branding livestock.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="472-540__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the State Forester Firewarden
+determines that the fire or other emergency was the result of an unavoidable
+accident, the State Forester Firewarden shall not charge the person, firm,
+association or agency that caused the fire or emergency the expenses incurred
+in extinguishing the fire or meeting the emergency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="472-540__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="472-540__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Fire-fighting agencyï¿½ means a public fire
+department, fire protection district or other agency of this State or a
+political subdivision of this State, the primary functions of which are to
+control, extinguish, prevent and suppress fires.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="472-540__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Livestockï¿½ has the meaning ascribed to it inNRS 569.0085.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+2225; A2021,
+1369)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

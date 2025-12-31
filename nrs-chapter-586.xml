@@ -1,0 +1,2379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-586"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-586"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="586"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-586/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-586/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-586/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-586/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_586">
+        <num>586</num>
+        <heading>NEVADA PESTICIDES ACT</heading>
+        <section eId="sec_586-010">
+          <num>586.010</num>
+          <heading>Short title.</heading>
+          <content>
+            <p>This
+chapter may be cited as the Nevada Pesticides Act.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:269:1955]—(NRS A1971,
+1133;1975,
+187;2015,
+3631)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-020">
+          <num>586.020</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 586.030to586.220, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]—(NRS A1971,
+1133;1975,
+187;1993,
+1775;1999,
+3716;2003,
+613;2015,
+3631;2023,
+389)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-030">
+          <num>586.030</num>
+          <heading>ï¿½Active ingredientï¿½ defined.</heading>
+          <subsection eId="586-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A pesticide, other than a plant
+regulator, defoliant or desiccant, an ingredient which will prevent, destroy,
+repel or mitigate insects, nematodes, fungi, rodents, weeds or other pests.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A plant regulator, an ingredient which,
+through physiological action, will accelerate or retard the rate of growth or
+rate of maturation or otherwise alter the behavior of ornamental or crop plants
+or the produce thereof.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-030__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A defoliant, an ingredient which will
+cause the leaves or foliage to drop from a plant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-030__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A desiccant, an ingredient which will
+artificially accelerate the drying of plant tissue.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]—(NRS A1971,
+1134)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-040">
+          <num>586.040</num>
+          <heading>ï¿½Adulteratedï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Adulteratedï¿½
+shall apply to any pesticide if its strength or purity falls below the
+professed standard or quality as expressed on labeling or under which it is
+sold, or if any substance has been substituted wholly or in part for the
+article, or if any valuable constituent of the article has been wholly or in
+part abstracted.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]—(NRS A1971,
+1134)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-050">
+          <num>586.050</num>
+          <heading>ï¿½Antidoteï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Antidoteï¿½
+means the most practical immediate treatment in case of poisoning and includes
+first aid treatment.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-052">
+          <num>586.052</num>
+          <heading>ï¿½Brandï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Brandï¿½
+means any and all words, terms, designs or trademarks used in connection with a
+pesticide.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+613)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-053">
+          <num>586.053</num>
+          <heading>ï¿½Certified applicatorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Certified
+applicatorï¿½ means any person who is certified by the Director as qualified to
+use or supervise the use of any restricted-use pesticide.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+186; A1977,
+312;1993,
+1775;1999,
+3716)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-055">
+          <num>586.055</num>
+          <heading>ï¿½Defoliantï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Defoliantï¿½
+means any substance or mixture of substances intended for causing the leaves or
+foliage to drop from a plant, with or without causing abscission.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1131)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-057">
+          <num>586.057</num>
+          <heading>ï¿½Desiccantï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Desiccantï¿½
+means any substance or mixture of substances intended for artificially
+accelerating the drying of plant tissues.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1131)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-060">
+          <num>586.060</num>
+          <heading>ï¿½Deviceï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Deviceï¿½
+means any instrument or contrivance intended for trapping, destroying,
+repelling or mitigating insects or rodents, or destroying, repelling or
+mitigating fungi or weeds, or such other pests as designated by the Director.
+The term does not include equipment used for the application of pesticides when
+sold separately therefrom.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]—(NRS A1971,
+1134;1993,
+1775;1999,
+3716)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-071">
+          <num>586.071</num>
+          <heading>ï¿½Directorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Directorï¿½
+means the Director of the State Department of Agriculture.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+3716)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-090">
+          <num>586.090</num>
+          <heading>ï¿½Fungiï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Fungiï¿½
+means all non-chlorophyll-bearing thallophytes (that is, all
+non-chlorophyll-bearing plants of a lower order than mosses and liverworts) as,
+for example, rusts, smuts, mildews, molds, yeasts and bacteria, except those on
+or in living humans or other animals.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-100">
+          <num>586.100</num>
+          <heading>ï¿½Fungicideï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Fungicideï¿½
+means any substance or mixture of substances intended for preventing,
+destroying, repelling or mitigating any fungi.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-110">
+          <num>586.110</num>
+          <heading>ï¿½Herbicideï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Herbicideï¿½
+means any substance or mixture of substances intended for preventing,
+destroying, repelling or mitigating any weed.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-130">
+          <num>586.130</num>
+          <heading>ï¿½Inert ingredientï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Inert
+ingredientï¿½ means an ingredient which is not an active ingredient.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-135">
+          <num>586.135</num>
+          <heading>ï¿½Ingredient statementï¿½ defined.</heading>
+          <subsection eId="586-135__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A statement of the name and amount by
+percentage of weight of each active ingredient, together with the total amount
+by percentage of weight of the inert ingredients, in the pesticide; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-135__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A statement of the name of each active
+ingredient, together with the name of each and total amount by percentage of
+weight of the inert ingredients, if any there be, in the pesticide (except
+subsection 1 shall apply if the preparation is highly toxic to humans,
+determined as provided inNRS 586.241).
+ï¿½In addition
+to subsections 1 and 2, in case the pesticide contains arsenic, lead or mercury
+in any form, a statement of the percentages of weights of total and
+water-soluble arsenic, lead or mercury, each calculated as elemental arsenic,
+lead or mercury.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]—(NRS A1961,
+567;1963,
+30;1971,
+1134)—(Substituted in revision for NRS 586.120)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-140">
+          <num>586.140</num>
+          <heading>ï¿½Insectï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Insectï¿½
+means any of the numerous small invertebrate animals generally having the body
+more or less obviously segmented, for the most part belonging to the class
+Insecta, comprising six-legged, usually winged forms, as, for example, beetles,
+bugs, bees, flies, and to other allied classes of arthropods whose members are
+wingless and usually have more than 6 legs, as, for example, spiders, mites,
+ticks, centipedes and wood lice.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-150">
+          <num>586.150</num>
+          <heading>ï¿½Insecticideï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Insecticideï¿½
+means any substance or mixture of substances intended for preventing,
+destroying, repelling or mitigating any insects which may be present in any
+environment whatever.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-160">
+          <num>586.160</num>
+          <heading>ï¿½Labelï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Labelï¿½
+means the written, printed or graphic matter on or attached to the pesticide or
+device, or the immediate container thereof, and the outside container or
+wrapper of the retail package, if any there be, of the pesticide or device.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]—(NRS A1971,
+1135)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-170">
+          <num>586.170</num>
+          <heading>ï¿½Labelingï¿½ defined.</heading>
+          <subsection eId="586-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon the pesticide or device or any of
+its containers or wrappers;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Accompanying the pesticide or device at
+any time; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>To which reference is made on the label
+or in literature accompanying the pesticide or device, except when accurate,
+nonmisleading reference is made to current official publications of the United
+States Departments of Agriculture or Interior, the United States Public Health
+Service, state experiment stations, state agricultural colleges, or other
+similar federal institutions or official agencies of this state or other states
+authorized by law to conduct research in the field of pesticides.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]—(NRS A1971,
+1135)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-180">
+          <num>586.180</num>
+          <heading>ï¿½Misbrandedï¿½ defined.</heading>
+          <subsection eId="586-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To any pesticide or device if its
+labeling bears any statement, design or graphic representation relative thereto
+or to its ingredients which is false or misleading in any particular.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To any pesticide:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-180__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If it is an imitation of, or is offered for
+sale under the name of, another pesticide;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-180__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If its labeling bears any reference to
+registration under this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-180__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the labeling accompanying it does not
+contain instructions for use which are necessary and, if complied with,
+adequate for the protection of the public;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-180__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the label does not contain a warning or
+caution statement which may be necessary and, if complied with, adequate to
+prevent injury to living human beings and other vertebrate animals;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-180__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the label does not bear an ingredient
+statement on that part of the immediate container and on the outside container
+or wrapper, if there be one through which the ingredient statement on the
+immediate container cannot be clearly read, of the retail package which is
+presented or displayed under customary conditions of purchase;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-180__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If any word, statement or other information
+required by or under the authority of this chapter to appear on the labeling is
+not prominently placed thereon with such conspicuousness (as compared with
+other words, statements, designs, or graphic matter in the labeling) and in
+such terms as to render it likely to be read and understood by the ordinary
+individual under customary conditions of purchase and use;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-180__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If in the case of a pesticide, when used as
+directed, or in accordance with commonly recognized practice, it shall be
+injurious to living human beings or other vertebrate animals or vegetation,
+except weeds, to which it is applied, or to the person applying such pesticide;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-180__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>If in the case of a plant regulator,
+defoliant or desiccant, when used as directed, it shall be injurious to human
+beings or other vertebrate animals, or vegetation to which it is applied; but
+physical or physiological effects on plants or parts thereof shall not be
+deemed to be injury when this is the purpose for which the plant regulator,
+defoliant or desiccant was applied, in accordance with the label claims and
+recommendations.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]—(NRS A1971,
+1135;2015,
+3631)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-185">
+          <num>586.185</num>
+          <heading>ï¿½Nematocideï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Nematocideï¿½
+means any substance or mixture of substances intended for preventing,
+destroying, repelling or mitigating nematodes.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1131)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-186">
+          <num>586.186</num>
+          <heading>ï¿½Nematodeï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Nematodeï¿½
+means invertebrate animals of the phylum nemathelminthes and class Nematoda,
+that is, unsegmented round worms with elongated, fusiform or sac-like bodies
+covered with cuticle, and inhabiting soil, water, plants or plant parts, also
+called nemas or eelworms.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1131)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-188">
+          <num>586.188</num>
+          <heading>ï¿½Neonicotinoid pesticideï¿½ defined.</heading>
+          <subsection eId="586-188__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Acetamiprid;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-188__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Clothianidin;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-188__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Dinotefuran;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-188__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Imidacloprid;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-188__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Nithiazine;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-188__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Thiacloprid; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-188__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Thiamethoxam.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+388)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-195">
+          <num>586.195</num>
+          <heading>ï¿½Pesticideï¿½ defined.</heading>
+          <subsection eId="586-195__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any substance or mixture of substances,
+including any living organisms, any product derived therefrom and any
+fungicide, herbicide, insecticide, nematocide and rodenticide, intended to
+prevent, destroy, control, repel, attract or mitigate any insect, rodent,
+nematode, snail, slug, fungus, weed and any other form of plant or animal life
+or virus, except a virus on or in living humans or other animals, which is
+normally considered to be a pest or which the Director declares to be a pest.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-195__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any substance or mixture of substances
+intended to be used as a plant regulator, defoliant, desiccant, and any other
+substance intended for that use as named by the Director by regulation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]—(NRS A1961,
+567;1971,
+1134;1993,
+1775;1999,
+3716)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-197">
+          <num>586.197</num>
+          <heading>ï¿½Plant regulatorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Plant
+regulatorï¿½ means any substance or mixture of substances, intended through
+physiological action, for accelerating or retarding the rate of growth or rate
+of maturation, or for otherwise altering the behavior of ornamental or crop
+plants or the produce thereof, but shall not include substances to the extent
+that they are intended as plant nutrients, trace elements, nutritional
+chemicals, plant inoculants and soil amendments.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1131)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-200">
+          <num>586.200</num>
+          <heading>ï¿½Registrantï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Registrantï¿½
+means the person registering any brand of pesticide pursuant to the provisions
+of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]—(NRS A1971,
+1136;2003,
+613;2015,
+3632)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-205">
+          <num>586.205</num>
+          <heading>ï¿½Restricted-use pesticideï¿½ defined.</heading>
+          <subsection eId="586-205__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director has determined after a
+hearing, to be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-205__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Injurious to persons, pollinating insects,
+bees, animals, crops or land, other than pests or vegetation it is intended to
+prevent, destroy, control or mitigate; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-205__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Detrimental to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="586-205__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Vegetation, except weeds;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="586-205__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Wildlife; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="586-205__subsec_1__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Public health and safety; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="586-205__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Has been classified for restricted use
+by or under the supervision of a certified applicator in accordance with the
+Federal Insecticide, Fungicide, and Rodenticide Act, 7 U.S.C. ï¿½ï¿½ 136 et seq.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1131; A1975,
+187;1977,
+312;1993,
+1776;1999,
+3717;2023,
+222)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-210">
+          <num>586.210</num>
+          <heading>ï¿½Rodenticideï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Rodenticideï¿½
+means any substance or mixture of substances intended for preventing,
+destroying, repelling or mitigating rodents or any other vertebrate animal
+which the Director declares to be a pest.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]—(NRS A1993,
+1776;1999,
+3717)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-220">
+          <num>586.220</num>
+          <heading>ï¿½Weedï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Weedï¿½
+means any plant which is or is likely to be a public nuisance, detrimental or
+destructive, or difficult to control.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:269:1955]—(NRS A2015,
+3632)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-230">
+          <num>586.230</num>
+          <heading>Jurisdiction.</heading>
+          <content>
+            <p>Jurisdiction
+in all matters pertaining to the distribution, sale and transportation of
+pesticides and devices is, pursuant to this chapter, vested exclusively in the
+Director.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [13:269:1955]—(NRS A1961,
+568;1971,
+1136;1993,
+1776;1999,
+3717;2015,
+3632)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-234">
+          <num>586.234</num>
+          <heading>Adoption of standards prescribed by United States Environmental
+Protection Agency.</heading>
+          <content>
+            <p>To avoid
+confusion endangering the public health resulting from diverse requirements,
+particularly as to the labeling and coloring of pesticides, and to avoid increased
+costs to the residents of this state because of the necessity of complying with
+diverse requirements in the manufacture and sale of pesticides, it is desirable
+that there be uniformity between the requirements of the several states and the
+Federal Government relating to pesticides. To this end the Director may, after
+a public hearing, adopt such regulations applicable to and in conformity with
+the primary standards established by this chapter as have been or may be
+prescribed by the United States Environmental Protection Agency with respect to
+pesticides.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:269:1955]—(NRS A1961,
+569;1971,
+1138;1987,
+94;1993,
+1777;1999,
+3718;2015,
+3633)—(Substituted in revision for NRS 586.330)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-237">
+          <num>586.237</num>
+          <heading>Adoption of rules and regulations; classification of
+restricted-use pesticides.</heading>
+          <subsection eId="586-237__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director shall adopt regulations
+governing the application and distribution of any pesticides which the Director
+finds must necessarily be applied in pest control but which unless carefully
+used are likely to be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-237__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Injurious to persons, pollinating insects,
+bees, animals, crops or land, other than the pest or vegetation it is intended
+to prevent, destroy, control or mitigate; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-237__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Detrimental to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="586-237__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Vegetation, except weeds;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="586-237__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Wildlife; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="586-237__subsec_1__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Public health and safety.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="586-237__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director in classifying pesticides
+as restricted-use pesticides shall determine if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-237__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>They are highly toxic to humans or other
+animals, including wildlife.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-237__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The regulations governing their application
+and distribution are reasonably calculated to avoid injury and are necessary
+for their proper use.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-237__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The benefit received from their use is of
+greater public value than a detriment to the environment, public health and
+safety.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-237__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>They can be used by permit for purposes other
+than their registered purposes.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="586-237__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Director may adopt such other rules
+and regulations as are necessary to carry out the provisions of this chapter,
+including, but not limited to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-237__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The collection and examination of pesticides.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-237__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The use of certain types of containers or
+packages for specific pesticides, applicable to construction, strength or size
+to avoid the danger of spillage, breakage or misuse.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-237__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The safe handling, transportation, storage,
+display, distribution and disposal of pesticides and their containers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-237__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The information to be recorded and maintained
+of the sale, use and distribution of pesticides classified for restricted use.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1132; A1975,
+188;1993,
+1779;1999,
+3720)—(Substituted in revision for NRS 586.401)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-241">
+          <num>586.241</num>
+          <heading>Identification of pests; determination of toxicity of pesticides
+and standards for coloring.</heading>
+          <subsection eId="586-241__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Declare as a pest any form of plant
+life or animal life or virus which is injurious to plants, humans, domestic
+animals, articles or substances.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-241__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Determine whether pesticides are highly
+toxic to humans.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-241__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Determine standards of coloring or
+discoloring for pesticides, and to subject pesticides to the requirements ofNRS 586.915.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:269:1955]—(NRS A1961,
+569;1971,
+1137;1993,
+1777;1999,
+3718)—(Substituted in revision for NRS 586.310)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-245">
+          <num>586.245</num>
+          <heading>Elimination of dangerous, nonbeneficial or misrepresented
+pesticides; program for evaluation of pesticides.</heading>
+          <subsection eId="586-245__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director shall endeavor to
+eliminate from use in this state any pesticide:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-245__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Which endangers the agricultural or
+nonagricultural environment;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-245__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Which is not beneficial for the purposes for
+which it is sold; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-245__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Which is misrepresented.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="586-245__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In carrying out this responsibility,
+the Director shall develop an orderly program for the continuous evaluation of
+all pesticides the brands of which have actually been registered.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1131; A1993,
+1778;1999,
+3719;2003,
+614)—(Substituted in revision for NRS 586.335)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-247">
+          <num>586.247</num>
+          <heading>Examination of pesticides or devices to determine compliance
+with chapter; authority to impose civil penalty.</heading>
+          <content>
+            <p>The
+examination of pesticides or devices must be made under the direction of the
+Director to determine whether they comply with the requirements of this
+chapter. If it appears from the examination that a pesticide or device fails to
+comply with the provisions of this chapter, the Director shall cause
+appropriate notice to be given to the person. Any person so notified must be
+given an opportunity to present the personï¿½s views, orally or in writing, and if
+thereafter in the opinion of the Director it appears that the provisions of
+this chapter have been violated by the person, the Director may impose a civil
+penalty pursuant toNRS 586.965. The
+provisions of this chapter do not require the Director to commence formal
+proceedings for any act or failure to act if the Director believes that the
+public interest will be best served by a suitable notice of warning in writing.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [6:269:1955]—(NRS A1961,
+571;1971,
+1140;1993,
+1782;1999,
+3723;2003,
+616;2015,
+3634)—(Substituted in revision for NRS 586.430)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-250">
+          <num>586.250</num>
+          <heading>Registration required; annual renewal.</heading>
+          <subsection eId="586-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each brand of pesticide which is
+distributed, sold or offered for sale within this state, or delivered for
+transportation or transported in intrastate commerce or between points within
+this state through any point outside this state, must be registered in the
+office of the Director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All registrations expire on December 31
+and are renewable annually.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:269:1955]—(NRS A1961,
+568;1971,
+1136;1993,
+1776;1999,
+3717;2003,
+614;2015,
+3632)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-260">
+          <num>586.260</num>
+          <heading>Registrantï¿½s statement; updated information upon renewal of
+registration.</heading>
+          <subsection eId="586-260__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The registrant shall file with the
+Director a statement including:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-260__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The name and address of the registrant and
+the name and address of the person whose name will appear on the label, if
+other than the registrant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-260__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The brand of the pesticide.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-260__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A complete copy of the labeling accompanying
+the brand of pesticide and a statement of all claims to be made for it,
+including directions for use.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-260__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If requested by the Director, a full
+description of the tests made and the results thereof upon which the claims are
+based.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="586-260__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In the case of the renewal of
+registration, a statement is required only with respect to information which is
+different from the information that was furnished when the brand of pesticide
+was registered or last reregistered.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:269:1955]—(NRS A1961,
+568;1971,
+1136;1993,
+1776;1999,
+3717;2003,
+614)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-270">
+          <num>586.270</num>
+          <heading>Fees established by regulation; deposit and use of money.</heading>
+          <subsection eId="586-270__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A registrant shall pay an annual
+registration fee in an amount established by regulation of the Director for
+each brand of pesticide registered.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-270__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director shall, for each annual
+registration fee collected, deposit in a separate account the amount
+established for that purpose by regulation of the Director. The money deposited
+in the account must be used:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-270__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the disposal of pesticides;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-270__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To monitor pesticides;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-270__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>To protect groundwater and surface water from
+contamination by pesticides; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-270__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For the control of noxious weeds.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="586-270__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A registrant who offers a pesticide for
+sale before registering the brand of pesticide shall pay an amount equal to
+twice the registration fee for registering the brand of pesticide.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-270__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½noxious weedï¿½
+has the meaning ascribed to it inNRS
+555.005.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:269:1955]—(NRS A1960,
+32;1961,
+568;1963,
+30;1971,
+118,1137;1977,
+261;1983,
+405;1993,
+1193,1777;1995,
+579;1999,
+3600,3718;2003,
+614;2005,
+935;2015,
+3632)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-280">
+          <num>586.280</num>
+          <heading>Submission of formula for pesticide to Director; registration of
+article by Director.</heading>
+          <subsection eId="586-280__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Director deems it necessary in
+the administration of this chapter, the Director may require the submission of
+the complete formula of any pesticide.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-280__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If it appears to the Director that the
+composition of the article is such as to warrant the proposed claims for it,
+and if the article and its labeling and other material required to be submitted
+comply with the requirements ofNRS 586.900to586.945, inclusive, the Director
+shall register the article.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:269:1955]—(NRS A1961,
+568;1971,
+1137;1993,
+1777;1999,
+3718;2015,
+3632)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-290">
+          <num>586.290</num>
+          <heading>Notice to registrant of failure of compliance of registered
+article; effect of registration on commission of offense.</heading>
+          <subsection eId="586-290__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If it does not appear to the Director
+that the article is such as to warrant the proposed claims for it, or if the
+article and its labeling and other material required to be submitted do not
+comply with the provisions of this chapter, the Director shall notify the
+registrant of the manner in which the article, labeling or other material
+required to be submitted fails to comply with this chapter to allow the
+registrant an opportunity to make the necessary corrections.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-290__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The registration of an article is not a
+defense for the commission of any offense prohibited underNRS 586.900to586.945, inclusive.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:269:1955]—(NRS A1961,
+569;1965,
+32;1971,
+1137;1993,
+1777;1999,
+3718;2015,
+3632)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-295">
+          <num>586.295</num>
+          <heading>Grounds for cancellation, denial or suspension of registration.</heading>
+          <subsection eId="586-295__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Pursuant toNRS 586.245, the Director may, after a
+hearing, cancel the registration of, or refuse to register, any brand of
+pesticide if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-295__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The pesticide has demonstrated serious
+uncontrollable adverse effects within or outside the agricultural environment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-295__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The use of the pesticide is of less public
+value or greater detriment to the environment than the benefit received by its
+use.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-295__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>There is a reasonably effective and
+practicable alternate material or procedure to the pesticide which is
+demonstrably less destructive to the environment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-295__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The pesticide, when properly used, is
+detrimental to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="586-295__subsec_1__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Vegetation, except weeds;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="586-295__subsec_1__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Domestic animals; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="586-295__subsec_1__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Public health and safety.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="586-295__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The pesticide is of little or no value for
+the purpose for which it is intended.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-295__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Any false or misleading statement concerning
+the pesticide is made or implied by the registrant or an agent of the
+registrant, orally or in writing, or in the form of any advertising literature.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="586-295__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In making any such determination, the
+Director may require such practical demonstrations as are necessary to
+determine the facts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-295__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Director has a reason to believe
+that any of the conditions stated in subsection 1 are applicable to any
+pesticide the brand of which is registered and that the use or continued use of
+the pesticide constitutes an immediate substantial danger to persons or to the
+environment, the Director may, after notice to the registrant, suspend the
+registration of the brand of pesticide pending a hearing and final decision.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1132; A1993,
+1778;1999,
+3719;2003,
+614)—(Substituted in revision for NRS 586.339)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-300">
+          <num>586.300</num>
+          <heading>Registration not required for interplant shipments.</heading>
+          <content>
+            <p>Notwithstanding any other provision of this
+chapter, registration is not required in the case of a pesticide shipped from
+one plant within this state to another plant within this state operated by the
+same person.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:269:1955]—(NRS A1971,
+1137;2015,
+3633)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-403">
+          <num>586.403</num>
+          <heading>Regulations governing use; permit required; grounds for denial,
+revocation or suspension of permit.</heading>
+          <subsection eId="586-403__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The regulations governing the use of
+restricted-use pesticides may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-403__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Provide the time when and the conditions
+under which they may be used in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-403__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prohibit their use in areas of this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-403__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Provide that they shall be used only under a
+permit for each application; and the permit may set forth the time, conditions,
+quantity and concentration of its use.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="586-403__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Every permit which is issued under the
+regulations adopted pursuant to this section is conditioned upon compliance
+with such regulations and upon such other specified conditions as may be deemed
+necessary to avoid injury.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-403__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any permit may be refused, revoked or
+suspended for violation of any of the conditions of such permit, or for
+violation of any provisions of this chapter or the regulations adopted pursuant
+thereto.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1133; A2015,
+3634)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-405">
+          <num>586.405</num>
+          <heading>Special use permit.</heading>
+          <subsection eId="586-405__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director may issue a special use
+permit authorizing the use of a pesticide for a purpose other than that for
+which it is registered. The permit must set forth:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-405__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The name and dosage rate of the pesticide or
+other material to be used.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-405__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The type of pest to be controlled.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-405__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The crop or property to be treated.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="586-405__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The special use permit may limit the
+time, quantity, area and manner of application.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1133; A1993,
+1780;1999,
+3721)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-406">
+          <num>586.406</num>
+          <heading>Registration of seller: Application; annual renewal; fee;
+maintenance of records and filing of monthly reports.</heading>
+          <subsection eId="586-406__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>It is unlawful for any person to sell
+or offer to sell at the retail level or distribute or deliver for transportation
+for delivery to the consumer or user a pesticide classified for restricted use
+pursuant toNRS 586.237or the Federal
+Insecticide, Fungicide, and Rodenticide Act, 7 U.S.C. ï¿½ï¿½ 136 et seq., unless
+the person is registered with the Director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-406__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each person applying for registration
+must provide a statement including:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-406__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The name and address of the person
+registering; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-406__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The name and address of any person who, on
+behalf of the person registering, sells, offers to sell, distributes or
+delivers for transportation a restricted-use pesticide.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="586-406__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>All registrations expire on December 31
+and are renewable annually.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-406__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Each person registering shall pay:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-406__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An annual registration fee established by
+regulation of the State Board of Agriculture; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-406__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A penalty fee of $5 if the personï¿½s previous
+registration has expired by the failure to reregister on or before February 1,
+unless the personï¿½s registration is accompanied by a signed statement that no
+person named on the registration statement has sold or distributed any
+restricted-use pesticides during the year the registration was not in effect.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="586-406__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Each person who is registered shall
+maintain for 2 years, at each place of business at which a person sells or
+distributes restricted-use pesticides, a record of each sale and distribution
+of restricted-use pesticides in accordance with the requirements for State
+certification plans set forth in 40 C.F.R. ï¿½ 171.303</p>
+            </content>
+            <paragraph eId="586-406__subsec_5__subsec_b">
+              <num>(b)</num>
+              <subparagraph eId="586-406__subsec_5__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>(vii).
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="586-406__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Each person registered pursuant to this
+section shall, on or before the 15th day of each month, file a report with the
+Director specifying the restricted-use pesticides sold or distributed during
+the previous month. The Director shall provide the form for the report. The
+form must be filed regardless of whether the person sold or distributed any
+pesticides during the previous month.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+186; A1993,
+1194,1780;1995,
+579;1999,
+3600,3721;2021,
+170;2023,
+222)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-4065">
+          <num>586.4065</num>
+          <heading>Grounds for denial, suspension or revocation of sellerï¿½s
+registration.</heading>
+          <subsection eId="586-4065__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The person registered has, without
+reasonable cause, failed to record information as required byNRS 586.406or a regulation adopted by the
+Director;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-4065__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The person registered has made a
+fictitious or false entry in the required records; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-4065__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The applicant has made sales or
+delivery of restricted-use pesticides without registering with the Director.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+186; A1993,
+1781;1999,
+3722)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-550">
+          <num>586.550</num>
+          <heading>Requirements for use of certain pesticides by cannabis
+establishments; publication of list of approved pesticides for use on cannabis
+and cannabis products.</heading>
+          <subsection eId="586-550__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A cannabis establishment may use a
+pesticide in the cultivation and production of cannabis and cannabis products
+if the pesticide:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-550__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is exempt from registration pursuant to 40
+C.F.R. ï¿½ 152.25 or allowed to be used on Crop Group 19, as defined in 40 C.F.R.
+ï¿½ 180.41</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-550__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>26, hops or unspecified crops or plants;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-550__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has affixed a label which allows the
+pesticide to be used at the intended site of application; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-550__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Has affixed a label which allows the
+pesticide to be used on crops and plants intended for human consumption.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="586-550__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Department of Agriculture
+shall, in accordance with the provisions of this chapter, establish and publish
+a list of pesticides allowed to be used on cannabis or cannabis products
+pursuant to this section and accept requests from pesticide manufacturers and
+cannabis establishments, or a representative thereof, to add pesticides to the
+list.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-550__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-550__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Cannabis establishmentï¿½ has the meaning
+ascribed to it inNRS 678A.095.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-550__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Cannabis productsï¿½ has the meaning ascribed
+to it inNRS 678A.120.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+3103; A2017,
+3724;2019,
+3884)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-600">
+          <num>586.600</num>
+          <heading>Prohibition on purchase and use for certain purposes;
+exceptions; application for commercial agricultural use; regulations.</heading>
+          <subsection eId="586-600__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person shall not purchase or use
+neonicotinoid pesticides on plants in this State, except for commercial
+agricultural purposes.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-600__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Neonicotinoid pesticides may be
+purchased and used in this State for purposes other than for use on plants,
+including, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-600__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Pet care.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-600__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Veterinary treatment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-600__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Personal care products.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-600__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Pest control pesticides that are for indoor
+use.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-600__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Outdoor items and structures, other than
+plants. This paragraph does not authorize the spraying or application of a
+neonicotinoid pesticide on any plant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-600__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Pesticides that are intended to act as a wood
+preservative and pesticide-treated wood products.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-600__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Structural insulation.
+ï¿½Any purchase
+or use of neonicotinoid pesticides pursuant to this section must be in
+accordance with the on-label use of such neonicotinoid pesticide and as
+directed by the instructions.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="586-600__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Director shall make available on
+the Internet website of the State Department of Agriculture an application for
+a certificate of commercial agricultural use. The certificate must, without
+limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-600__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>State that the use of neonicotinoid
+pesticides is limited to commercial agricultural purposes; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-600__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Include a space for the business
+identification number of the person seeking a certificate of commercial agricultural
+use.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="586-600__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Any person seeking to apply
+neonicotinoid pesticides for commercial agricultural purposes must obtain a
+certificate of commercial agricultural use from the Internet website of the
+State Department of Agriculture.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-600__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Director may adopt regulations to
+carry out the provisions of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-600__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>As used in this section, ï¿½commercial
+agricultural purposesï¿½ means the cultivation of plants or the use of farm and
+agricultural land to produce an agricultural product to be sold in commerce.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+389)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-900">
+          <num>586.900</num>
+          <heading>Distribution, sale or transportation of unregistered brand or
+pesticide that differs from registration unlawful.</heading>
+          <content>
+            <p>It
+is unlawful for any person to distribute, sell or offer for sale within this
+state, or deliver for transportation or transport in intrastate commerce or
+between points within this state through any point outside this state, any
+pesticide the brand of which has not been registered pursuant to the provisions
+ofNRS 586.250to586.300, inclusive, or any pesticide if any
+of the claims made for it or any of the directions for its use differ in
+substance from the representations made in connection with its registration, or
+if the composition of a pesticide differs from its composition as represented
+in connection with its registration, except that, in the discretion of the
+Director, a change in the labeling or formula of a pesticide may be made within
+a registration period without requiring reregistration of the brand of
+pesticide.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:269:1955]—(NRS A1961,
+570;1971,
+1138;1993,
+1778;1999,
+3719;2003,
+615)—(Substituted in revision for NRS 586.350)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-905">
+          <num>586.905</num>
+          <heading>Distribution, sale or transportation of pesticide without
+required container and labeling unlawful.</heading>
+          <subsection eId="586-905__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The name and address of the
+manufacturer, registrant or person for whom manufactured.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-905__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The brand under which the article is
+sold.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-905__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The net weight or measure of the
+content, subject to such reasonable variations as the Director may permit.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:269:1955]—(NRS A1971,
+1138;1993,
+1779;1999,
+3720;2003,
+615)—(Substituted in revision for NRS 586.360)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-910">
+          <num>586.910</num>
+          <heading>Distribution, sale or transportation of pesticide containing
+substance highly toxic to humans without additional labeling unlawful.</heading>
+          <subsection eId="586-910__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The skull and crossbones.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-910__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The word ï¿½poisonï¿½ prominently, in red,
+on a background of distinctly contrasting color.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-910__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A statement of an antidote for the
+pesticide.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:269:1955]—(NRS A1971,
+1138;2015,
+3633)—(Substituted in revision for NRS 586.370)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-915">
+          <num>586.915</num>
+          <heading>Distribution, sale or transportation of certain pesticides
+without proper coloration or discoloration unlawful; exemption.</heading>
+          <subsection eId="586-915__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>It is unlawful for any person to
+distribute, sell or offer for sale within this State, or deliver for transportation
+or transport in intrastate commerce or between points within this State through
+any point outside this State, the pesticides commonly known as standard lead
+arsenate, basic lead arsenate, calcium arsenate, magnesium arsenate, zinc
+arsenate, zinc arsenite, sodium fluoride, sodium fluorosilicate, and barium
+fluorosilicate, and those containing mercurial compounds, unless they have been
+distinctly colored or discolored as provided by the regulations adopted in
+accordance with the provisions of this chapter, or any other white powder
+pesticide which the Director, after investigation of and after public hearing
+on the necessity for such action for the protection of the public health and
+the feasibility of the coloration or discoloration, by regulation requires to
+be distinctly colored or discolored, unless it has been so colored or
+discolored.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-915__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director may exempt any pesticide
+to the extent that it is intended for a particular use from the coloring or
+discoloring required or authorized by this section if the Director determines
+that the coloring or discoloring for that use is not necessary to protect the
+public health.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:269:1955]—(NRS A1961,
+570;1971,
+1139;1993,
+1779;1999,
+3720;2015,
+3633)—(Substituted in revision for NRS 586.380)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-920">
+          <num>586.920</num>
+          <heading>Distribution, sale or transportation of adulterated or
+misbranded pesticide unlawful.</heading>
+          <content>
+            <p>It
+shall be unlawful for any person to distribute, sell or offer for sale within
+this state or deliver for transportation or transport in intrastate commerce or
+between points within this state through any point outside this state any
+pesticide which is adulterated or misbranded or any device which is misbranded.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:269:1955]—(NRS A1971,
+1139)—(Substituted in revision for NRS 586.390)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-925">
+          <num>586.925</num>
+          <heading>Penalties for certain violations inapplicable to certain
+persons; exclusion from violations for certain articles.</heading>
+          <subsection eId="586-925__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The penalties provided for violations
+ofNRS 586.900to586.920, inclusive, do not apply to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-925__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any carrier while lawfully engaged in
+transporting a pesticide within this state, if the carrier, upon request,
+permits the Director or the Directorï¿½s designated agent to copy all records
+showing the transactions in and movement of the articles.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-925__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Public officers of this state and the Federal
+Government engaged in the performance of their duties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-925__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The manufacturer or shipper of a pesticide
+for experimental use only:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="586-925__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>By or under the supervision of an
+agency of this state or of the Federal Government authorized by law to conduct
+research in the field of pesticides; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="586-925__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>By other persons if the pesticide is
+not sold and if the container thereof is plainly and conspicuously marked ï¿½For
+experimental use only—Not to be sold,ï¿½ together with the manufacturerï¿½s name
+and address, but if a written permit has been obtained from the Director,
+pesticides may be sold for experimental purposes subject to such restrictions
+and conditions as may be set forth in the permit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="586-925__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An article shall not be deemed in
+violation of the provisions of this chapter if intended solely for export to a
+foreign country and if prepared or packed according to the specifications or
+directions of the purchaser. If not so exported, all the provisions of this
+chapter apply.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [7:269:1955]—(NRS A1961,
+570;1971,
+1139;1993,
+1781;1999,
+3723;2003,
+616;2015,
+3634)—(Substituted in revision for NRS 586.420)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-930">
+          <num>586.930</num>
+          <heading>Detachment of labels or addition or removal of substances from
+pesticide unlawful.</heading>
+          <content>
+            <p>It shall be
+unlawful for any person to detach, alter, deface or destroy, in whole or in
+part, any label or labeling provided for in this chapter or regulations
+promulgated thereunder, or to add any substance to, or take any substance from,
+a pesticide in a manner that may defeat the purpose of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:269:1955]—(NRS A1971,
+1139;2015,
+3634)—(Substituted in revision for NRS 586.400)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-935">
+          <num>586.935</num>
+          <heading>Personal use or disclosure of information relating to formula
+disclosed to Director pursuant toNRS 586.280unlawful; exceptions.</heading>
+          <subsection eId="586-935__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>It is unlawful for any person to use
+for the personï¿½s own advantage, or to reveal, other than to the Director or
+proper officers or employees of the State, or to the courts of this State in
+response to a subpoena, or to physicians, or in emergencies to pharmacists and
+other qualified persons, for use in the preparation of antidotes, any
+information relating to the formulas of products acquired by authority ofNRS 586.280.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-935__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Notwithstanding any other provision of
+this section, if any person, with intent to defraud, uses or reveals
+information relative to formulas of products acquired under authority ofNRS 586.280, the person shall be guilty of
+a gross misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:269:1955] + [Part 8:269:1955]—(NRS A1961,
+570;1993,
+1781;1999,
+3722)—(Substituted in revision for NRS 586.410 and part of NRS 586.450)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-940">
+          <num>586.940</num>
+          <heading>Restricted-use pesticides: Unlawful sale or delivery.</heading>
+          <content>
+            <p>It is unlawful for any person to sell or
+deliver any restricted-use pesticide to any person who is required by the
+regulations adopted by the Director to have a permit to use that material,
+unless the person or the agent of the person to whom delivery is made signs a
+written statement in a form prescribed by the Director stating that the person
+holds a valid permit to use the kind and quantity of the restricted-use
+pesticide which is delivered.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1133; A1993,
+1781;1999,
+3722)—(Substituted in revision for NRS 586.407)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-945">
+          <num>586.945</num>
+          <heading>Unlawful application of restricted-use pesticides and
+neonicotinoid pesticides.</heading>
+          <subsection eId="586-945__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any restricted-use pesticide for which
+regulations have been adopted, except as provided in such regulations; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-945__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any neonicotinoid pesticide in
+violation of the requirements ofNRS 586.600.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1133; A2023,
+389)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-960">
+          <num>586.960</num>
+          <heading>Seizure and confiscation of pesticide or device not registered,
+adulterated, misbranded or otherwise not compliant with chapter; condemnation
+and disposal; exception for owner who pays costs.</heading>
+          <subsection eId="586-960__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any pesticide or device that is
+distributed, sold or offered for sale within the State of Nevada, or delivered
+for transportation or transported in intrastate commerce or between points
+within this state through any point outside this state is liable to be proceeded
+against in any district court in any county of this state where it may be found
+and seized for confiscation by process of libel for condemnation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-960__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In the case of a pesticide:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="586-960__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>If it is adulterated or misbranded.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="586-960__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>If the brand of the pesticide has not
+been registered under the provisions ofNRS
+586.250to586.300, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="586-960__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>If it is a white powder pesticide and
+is not colored as required under this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="586-960__subsec_1__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>If it fails to bear on the label the
+information required by this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="586-960__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In the case of a device, if it is misbranded.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="586-960__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the article is condemned, it must,
+after the entry of the decree, be disposed of by destruction or sale as the
+court may direct, and the proceeds must be paid to the State Treasurer and
+deposited in the State General Fund. The article seized must not be sold or
+destroyed contrary to the provisions of this chapter. The article must not be
+sold or destroyed if the owner thereof pays the costs of condemnation and
+executes a good and sufficient bond conditioned that the article must not be
+disposed of unlawfully. The court shall then order that the article condemned
+must be delivered to the owner thereof for relabeling or reprocessing as the
+case may be.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="586-960__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>When a decree of condemnation is
+entered against the article, court costs, fees and storage charges, and other
+proper expenses, must be awarded against the person, if any, intervening as
+claimant of the article.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [9:269:1955]—(NRS A1971,
+1141;2003,
+617;2015,
+3635)—(Substituted in revision for NRS 586.440)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_586-965">
+          <num>586.965</num>
+          <heading>Civil penalties; deposit and use of money.</heading>
+          <subsection eId="586-965__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person violating any provision of
+this chapter is subject to a civil penalty not to exceed:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-965__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the first violation, $250.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-965__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For a second violation, $500.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-965__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For each subsequent violation, $1,000.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="586-965__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any money collected from the imposition
+of a civil penalty pursuant to subsection 1 must be accounted for separately
+and:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="586-965__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Fifty percent of the money must be used to
+fund a program selected by the Director that provides loans to persons who are
+engaged in agriculture and who are 21 years of age or younger; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="586-965__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The remaining 50 percent of the money must be
+deposited in the Account for the Control of Weeds established byNRS 555.035.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [8:269:1955]—(NRS A2015,
+3636)—(Substituted in revision for part of NRS 586.450)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

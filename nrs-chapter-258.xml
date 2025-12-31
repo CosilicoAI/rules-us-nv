@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-258"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-258"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="258"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-258/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-258/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-258/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-258/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_258">
+        <num>258</num>
+        <heading>CONSTABLES</heading>
+        <section eId="sec_258-001">
+          <num>258.001</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 258.002to258.004, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+2946; A2019,
+1554)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-002">
+          <num>258.002</num>
+          <heading>ï¿½Category I peace officerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Category
+I peace officerï¿½ has the meaning ascribed to it inNRS 289.460.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+2946)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-003">
+          <num>258.003</num>
+          <heading>ï¿½Category II peace officerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Category
+II peace officerï¿½ has the meaning ascribed to it inNRS 289.470.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+2946)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-0035">
+          <num>258.0035</num>
+          <heading>ï¿½Enterprise fundï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Enterprise
+fundï¿½ has the meaning ascribed to it inNRS
+354.517.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+1554)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-004">
+          <num>258.004</num>
+          <heading>ï¿½Peace officerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Peace
+officerï¿½ has the meaning ascribed to it inNRS
+289.010.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+2946)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-005">
+          <num>258.005</num>
+          <heading>General qualifications.</heading>
+          <subsection eId="258-005__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>No person is eligible to the office of
+constable unless the person:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="258-005__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Will have attained the age of 21 years on the
+date he or she would take office if so elected or appointed; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-005__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is a qualified elector.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="258-005__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who has been convicted of a
+felony in this state or any other state is not qualified to be a candidate for
+or elected or appointed to the office of constable regardless of whether the
+person has been restored to his or her civil rights.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2135,2696)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-007">
+          <num>258.007</num>
+          <heading>Certification as category I or category II peace officer
+required in certain townships; forfeiture of office.</heading>
+          <subsection eId="258-007__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, each constable of a township whose population is 15,000 or more
+or a township that has within its boundaries a city whose population is 15,000
+or more shall become certified by the Peace Officersï¿½ Standards and Training
+Commission as a category I or category II peace officer within 1 year after the
+date on which the constable commences his or her term of office or appointment
+unless the Commission, for good cause shown, grants in writing an extension of
+time, which must not exceed 6 months.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-007__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any person who is a candidate for the
+office of constable in a township whose population is 100,000 or more must be
+certified by the Peace Officersï¿½ Standards and Training Commission as a
+category I or category II peace officer before filing a declaration of
+candidacy for the office. A person who does not comply with the provisions of
+this subsection is not eligible to be a candidate for the office of constable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-007__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A constable forfeits his or her office
+and a vacancy is created which must be filled in accordance withNRS 258.030if the constable:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="258-007__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Does not become certified by the Peace
+Officersï¿½ Standards and Training Commission as required pursuant to subsection
+1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-007__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Does not maintain the certification by the
+Peace Officersï¿½ Standards and Training Commission required pursuant to
+subsection 1 or 2 during his or her term of office.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+2946; A2015,
+2516;2019,
+1554)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-010">
+          <num>258.010</num>
+          <heading>Election; appointment of sheriff to serve ex officio; term of
+office; abolition of office.</heading>
+          <subsection eId="258-010__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in subsections
+2 and 3:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="258-010__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Constables must be elected by the qualified
+electors of their respective townships.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-010__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The constables of the several townships of
+the State must be chosen at the general election of 1966, and shall enter upon
+the duties of their offices on the first Monday of January next succeeding
+their election, and hold their offices for the term of 4 years thereafter,
+until their successors are elected and qualified.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-010__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Constables must receive certificates of
+election from the boards of county commissioners of their respective counties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="258-010__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In a county which includes only one
+township, the board of county commissioners may, by resolution, appoint the
+sheriff ex officio constable to serve without additional compensation. The
+resolution must not become effective until the completion of the term of office
+for which a constable may have been elected.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-010__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In a county whose population:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="258-010__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is less than 700,000, which includes more
+than one township, if the board of county commissioners determines that the
+office of constable is not necessary in one or more townships within the
+county, it may, by ordinance, abolish the office of constable in those
+townships.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-010__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is 700,000 or more, if the board of county
+commissioners determines that the office of constable is not necessary in one
+or more townships within the county, it may, by ordinance, abolish the office
+in those townships.
+ï¿½For a
+township in which the office of constable has been abolished, the board of
+county commissioners may, by resolution, appoint the sheriff ex officio
+constable to serve without additional compensation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1:108:1866; B ï¿½ 2599; BH ï¿½ 1636; C ï¿½ 1782; RL ï¿½
+2765; NCL ï¿½ 4765] + [Part 9:108:1866; B ï¿½ 2607; BH ï¿½ 1644; C ï¿½ 1790; RL ï¿½ 2773;
+NCL ï¿½ 4773] + [Part 18:108:1866; B ï¿½ 2616; BH ï¿½ 1653; C ï¿½ 1799; RL ï¿½ 2782; NCL
+ï¿½ 4782] + [Part 30:108:1866; B ï¿½ 2628; BH ï¿½ 1665; C ï¿½ 1811; RL ï¿½ 2794; NCL ï¿½
+4794]—(NRS A1965,
+724;1967,
+455;1975,
+1421;1979,
+524,1729;1989,
+1906;1997,
+218;2011,
+1129;2015,
+2516)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-020">
+          <num>258.020</num>
+          <heading>Oath and bond.</heading>
+          <subsection eId="258-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Take the oath prescribed by law. The
+oath must be filed and recorded in a book provided for that purpose in the
+office of the recorder of the county within which the constable legally holds
+and exercises his or her office.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Execute a bond to the State of Nevada,
+to be approved by the board of county commissioners, in the penal sum of not
+less than $1,000 nor more than $3,000, as may be designated by the board of
+county commissioners. The bond must be conditioned for the faithful performance
+of the duties of his or her office and must be filed in the county clerkï¿½s
+office.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [2:7:1873; B ï¿½ 2979; BH ï¿½ 2255; C ï¿½ 2422; RL ï¿½ 4928; NCL
+ï¿½ 8475]—(NRS A2013,
+2947)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-030">
+          <num>258.030</num>
+          <heading>Vacancy when office not abolished: Applicable law governing
+appointment.</heading>
+          <subsection eId="258-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The clerk of the board of county
+commissioners shall certify the vacancy to the Secretary of State not later
+than 10 days after the vacancy occurs; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The board of county commissioners shall
+appoint a person to fill the vacancy pursuant toNRS 245.170not later than 60 days after
+the vacancy occurs.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 49:108:1866; A1933,
+165;1939,
+146; 1931 NCL ï¿½ 4813]—(NRS A1975,
+1422;1997,
+1292;2019,
+1555)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-040">
+          <num>258.040</num>
+          <heading>Compensation.</heading>
+          <subsection eId="258-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The several boards of county
+commissioners of each county, at the regular meeting in July of any year in
+which an election of constables is held, shall fix the minimum compensation of
+the constables within their respective townships for the ensuing term, either
+by stated salaries, payable monthly, semimonthly or at regular 26-week
+intervals, or by fees, as provided by law, or both, and they may thereafter
+increase or change such compensation during the term but shall not reduce it
+below the minimum so established.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If it becomes necessary to appoint a
+constable at any time, the board of county commissioners in the county in which
+such appointment is made shall fix the compensation, either by salary or by
+fees, as provided by law, or both, for the term for which the constable is
+appointed.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1:12:1929; A1953,
+202] + [Part 2:12:1929; NCL ï¿½ 2202] + [Part 3:12:1929; NCL ï¿½ 2203]—(NRS A1973,
+292)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-050">
+          <num>258.050</num>
+          <heading>Expenses; claims.</heading>
+          <subsection eId="258-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When any constable shall be entitled to
+receive necessary traveling expenses for the transaction of public business,
+such expenses shall include the constableï¿½s actual living expenses, but the
+amount allowed for traveling by private conveyance shall not exceed the amount
+charged by public conveyance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Where it appears to the satisfaction of
+the board of county commissioners that travel by private conveyance is more
+economical, or where it appears that, owing to train, airplane or bus schedule
+or for other reasons, travel by public conveyance is impractical, or in case a
+part of the route traveled is not covered by public conveyance, the board of
+county commissioners is authorized to allow for traveling by private conveyance
+an amount not to exceed the maximum per-mile allowance for travel by private
+conveyance established by the State Board of Examiners for state officers and
+employees generally.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-050__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any constable presenting a claim to the
+county for any expenses allowed by law shall attach itemized vouchers and
+receipts for the same to his or her claim, and the boards of county
+commissioners of the several counties are hereby prohibited from allowing such
+claim unless accompanied by vouchers and receipts as required by this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1:16:1928; A1939,
+31;1953,
+69;1955,
+596]—(NRS A1973,
+1675;2007,
+601)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-060">
+          <num>258.060</num>
+          <heading>Deputies; certification of deputy as category I or category II
+peace officer required in certain townships.</heading>
+          <subsection eId="258-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>All constables may appoint deputies,
+who are authorized to transact all official business pertaining to the office
+to the same extent as their principals. A person must not be appointed as a
+deputy constable unless the person has been a resident of the State of Nevada
+for at least 6 months before the date of the appointment. A person who is
+appointed as a deputy constable in a township whose population is 15,000 or
+more or a township that has within its boundaries a city whose population is
+15,000 or more may not commence employment as a deputy constable until the
+person is certified by the Peace Officersï¿½ Standards and Training Commission as
+a category I or category II peace officer. The appointment of a deputy
+constable must not be construed to confer upon that deputy policymaking
+authority for the office of the county constable or the county by which the
+deputy constable is employed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Constables are responsible for the
+compensation of their deputies and are responsible on their official bonds for
+all official malfeasance or nonfeasance of the same. Bonds for the faithful
+performance of their official duties may be required of the deputies by the
+constables.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-060__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a constable of an office established
+by the board of county commissioners as an enterprise fund appoints a deputy,
+the compensation of the deputy must be approved by the board of county
+commissioners.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-060__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>All appointments of deputies under the
+provisions of this section must be in writing and must, together with the oath
+of office of the deputies, be filed and recorded within 30 days after the
+appointment in a book provided for that purpose in the office of the recorder
+of the county within which the constable legally holds and exercises his or her
+office. Revocations of such appointments must also be filed and recorded as
+provided in this section within 30 days after the revocation of the
+appointment. From the time of the filing of the appointments or revocations
+therein, persons shall be deemed to have notice of the same.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1:101:1864; A1905,
+33;1913,
+108; 1919 RL ï¿½ 2848; NCL ï¿½ 4848] + [Part 2:101:1864; B ï¿½ 3068; BH ï¿½ 2280; C
+ï¿½ 2452; RL ï¿½ 2849; NCL ï¿½ 4849] + [3:101:1864; B ï¿½ 3069; BH ï¿½ 2281; C ï¿½ 2453; RL
+ï¿½ 2850; NCL ï¿½ 4850]—(NRS A2005,
+683;2013,
+2947;2015,
+2516;2019,
+1555)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-065">
+          <num>258.065</num>
+          <heading>Clerical and operational staff: Appointment; powers; oath; bond;
+compensation; duties.</heading>
+          <subsection eId="258-065__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The constable of a township may,
+subject to the approval of the board of county commissioners, appoint such
+clerical and operational staff as the work of the constable requires. The
+compensation of any person so appointed must be fixed by the board of county
+commissioners.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-065__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who is employed as clerical or
+operational staff of a constable:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="258-065__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Does not have the powers of a peace officer;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-065__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May not possess a weapon or carry a firearm,
+regardless of whether the person possesses a permit to carry a concealed
+firearm issued pursuant toNRS 202.3653to202.369, inclusive, while performing
+the duties of the office of the constable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="258-065__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The board of county commissioners may
+appoint for the constable of a township a reasonable number of clerks. The
+compensation of any clerk so appointed must be fixed by the board of county
+commissioners.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-065__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A constableï¿½s clerk shall take the
+constitutional oath of office and give bond in the sum of $2,000 for the
+faithful discharge of the duties of the office, and in the same manner as is or
+may be required of other officers of that township and county.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-065__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A constableï¿½s clerk shall do all
+clerical work in connection with keeping the records and files of the office,
+and shall perform such other duties in connection with the office as the
+constable shall prescribe.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+35; A1963,
+454,1297;1979,
+525;1981,
+171;2013,
+2947;2015,
+2517;2019,
+1555)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-070">
+          <num>258.070</num>
+          <heading>Duties and powers of constable or deputy; circumstances under
+which constable or deputy has powers of peace officer and may carry firearm;
+certain constables and deputies required to wear badges; duties and powers of
+sheriff or deputy.</heading>
+          <subsection eId="258-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Subject to the provisions of
+subsections 2 and 3, each constable shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="258-070__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be a peace officer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-070__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Execute the process, writs or warrants of
+courts of justice, judicial officers and coroners, when delivered to the
+constable for that purpose.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-070__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Discharge such other duties as are or may be
+prescribed by law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="258-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Subject to the provisions of subsection
+3, a constable or deputy constable has the powers of a peace officer:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="258-070__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the discharge of duties as are or may be
+prescribed by law;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-070__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For the purpose of arresting a person for a
+public offense committed or attempted in the presence of the constable or
+deputy constable, if the constable or deputy constable has reasonable cause to
+believe that the arrest is necessary to prevent harm to other persons or the
+escape of the person who committed or attempted the public offense; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-070__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In addition to the circumstances described in
+paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-070__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-070__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="258-070__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>In an area within the limits of an
+incorporated city, for the purposes authorized by and with the consent of the
+chief of police of the city; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="258-070__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>In an area that is not within the
+limits of an incorporated city, for the purposes authorized by and with the
+consent of the sheriff of the county.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="258-070__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The constable and each deputy constable
+of a township shall not carry a firearm in the performance of his or her duties
+unless:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="258-070__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The constable has adopted a written policy on
+the use of deadly force by the constable and each deputy constable; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-070__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The constable and each deputy constable has
+received training regarding the policy.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="258-070__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A constable or deputy constable
+authorized to carry a firearm pursuant to subsection 3 must receive training
+approved by the Peace Officersï¿½ Standards and Training Commission in the use of
+firearms at least once every 6 months.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-070__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A constable or deputy constable who
+wears a uniform in the performance of his or her duties shall display
+prominently as part of that uniform a badge, nameplate or other uniform piece
+which clearly displays the name or an identification number of the constable or
+deputy constable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-070__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Pursuant to the procedures and subject
+to the limitations set forth inchapters 482and484Ato484E,
+inclusive, of NRS, a constable may issue a citation to an owner or driver, as
+appropriate, of a vehicle which is located in his or her township at the time
+the citation is issued and which is required to be registered in this State if
+the constable determines that the vehicle is not properly registered. Upon the
+imposition of punishment pursuant toNRS
+482.385on the person to whom the citation is issued, the constable is
+entitled to charge and collect a fee of $100 from the person to whom the
+citation is issued, which:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="258-070__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Must be collected by a court that imposes
+punishment pursuant toNRS 482.385on
+behalf of the constable who issued the citation and forwarded by the court to
+the constable; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-070__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May be retained by the constable as
+compensation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="258-070__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>If a sheriff or the sheriffï¿½s deputy in
+any county in this State arrests a person charged with a criminal offense or in
+the commission of an offense, the sheriff or the sheriffï¿½s deputy shall serve
+all process, whether mesne or final, and attend the court executing the order
+thereof in the prosecution of the person so arrested, whether in a justice
+court or a district court, to the conclusion, and whether the offense is an
+offense of which a justice of the peace has jurisdiction, or whether the
+proceeding is a preliminary examination or hearing. The sheriff or the
+sheriffï¿½s deputy shall collect the same fees and in the same manner therefor as
+the constable of the township in which the justice court is held would receive
+for the same service.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [6:82:1861; A1887,
+134; C ï¿½ 2321; RL ï¿½ 1692; NCL ï¿½ 2192]—(NRS A1991,
+408;2001,
+1456;2009,
+3012;2013,
+2948;2015,
+2517;2019,
+1556)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-0703">
+          <num>258.0703</num>
+          <heading>Processes, writs and orders: Endorsement and memorandum of
+receipt.</heading>
+          <subsection eId="258-0703__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Forthwith endorse upon it the year,
+month, day and hour of its receipt.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-0703__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Give to the person delivering it, if
+required, on payment of his or her fee, a written memorandum signed by him or
+her, stating the names of the parties in the process or order, the nature
+thereof and the time it was received. He or she shall deliver to the party
+served a copy thereof, if required to do so, without charge to such party.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+2514)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-0705">
+          <num>258.0705</num>
+          <heading>Processes, writs and orders: Service or execution; return;
+liability for damages.</heading>
+          <subsection eId="258-0705__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A constable to whom any process, writ,
+order or paper is delivered shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="258-0705__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Execute the same with diligence, according to
+its command or as required by law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-0705__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Return it without delay to the proper court
+or officer, with his or her certificate endorsed thereon of the manner of its
+service or execution, or, if not served or executed, the reasons for his or her
+failure.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="258-0705__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A constable who fails to comply with
+subsection 1 is liable to the party aggrieved for all damages sustained by the
+party on account of such neglect.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+2515)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-0707">
+          <num>258.0707</num>
+          <heading>Liability for neglect or refusal to attach, levy upon or sell
+property pursuant to writ of execution or attachment.</heading>
+          <content>
+            <p>If
+the constable to whom a writ of execution or writ of attachment is delivered
+neglects or refuses, after being required by the creditor or the creditorï¿½s
+attorney to attach, or to levy upon or sell, any property of the party charged
+in the writ which is liable to be attached or levied upon and sold, the
+constable is liable on his or her official bond to the creditor for the value
+of such property.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+2515)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-075">
+          <num>258.075</num>
+          <heading>Report of deaths to public administrator or certain other person
+in certain counties.</heading>
+          <content>
+            <p>In counties
+having a population of less than 100,000, every constable shall report
+immediately to the public administrator or a person employed or contracted with
+pursuant toNRS 253.125, as applicable,
+all deaths which the constable gains knowledge of in the performance of his or
+her duties.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+508; A1979,
+525;2019,
+1543)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-080">
+          <num>258.080</num>
+          <heading>Duties in new township.</heading>
+          <content>
+            <p>When
+any constable, by the formation of a new township, shall be brought within the
+limits thereof, the constable shall continue to act as constable for such new
+township, and shall continue in office until the expiration of the term for
+which he or she was elected.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [21:108:1866; B ï¿½ 2619; BH ï¿½ 1656; C ï¿½ 1802; RL ï¿½
+2785; NCL ï¿½ 4785]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-090">
+          <num>258.090</num>
+          <heading>Liability on bond: Tender of fees and indemnity bond.</heading>
+          <content>
+            <p>No constable shall be liable for any damages
+for neglecting or refusing to serve any civil process, unless the constableï¿½s
+legal fees (and an indemnifying bond in cases where the constable has doubts as
+to the ownership of the property sought to be levied upon or attached, if the
+same shall be required by the constable) are first tendered him or her.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [17:38:1861; A1935,
+119; 1931 NCL ï¿½ 2160]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-110">
+          <num>258.110</num>
+          <heading>Unlawful failure to arrest offender; penalty.</heading>
+          <content>
+            <p>Any constable who willfully refuses to arrest
+any person charged with a criminal offense is guilty of a gross misdemeanor and
+shall be removed from office.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 67:108:1866; B ï¿½ 2665; BH ï¿½ 1702; C ï¿½ 1848; RL
+ï¿½ 2820; NCL ï¿½ 4820]—(NRS A1967,
+542;2013,
+2948;2015,
+2519)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-120">
+          <num>258.120</num>
+          <heading>Purchasing judgment prohibited; penalty.</heading>
+          <content>
+            <p>If any constable shall, directly or
+indirectly, purchase any judgment, or any part thereof, on the docket of any
+justice of the peace of the same township, the constable is guilty of a
+misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 68:108:1866; B ï¿½ 2666; BH ï¿½ 1703; C ï¿½ 1849; RL
+ï¿½ 2821; NCL ï¿½ 4821]—(NRS A1967,
+542)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-125">
+          <num>258.125</num>
+          <heading>Fees; expenses; accounting.</heading>
+          <subsection eId="258-125__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Constables are entitled to the
+following fees for their services:
+For serving a summons
+or any other process in civil cases............................ $17
+For summoning a jury
+before a justice of the peace............................................. 7
+For taking a bond or
+undertaking............................................................................. 5
+For serving an
+attachment against the property of a defendant........................ 15
+For serving subpoenas,
+for each witness.............................................................. 15
+For a copy of any
+writ, process or order or other paper, when demanded or required by law, per
+folioï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 3
+For drawing and
+executing every constableï¿½s deed, to be paid by the grantee, who must also pay
+for the acknowledgment thereof.................................................................................................................. 20
+For each certificate
+of sale of real property under execution.............................. 5
+For levying any writ
+of execution or writ of garnishment, or executing an order of arrest in civil
+cases, order for delivery of personal property or any other order in a civil
+case, except an order of eviction, with traveling fees as for summons............................................................................................................................... 15
+For serving one
+notice required by law before the commencement of a proceeding for any type of
+evictionï¿½ï¿½ï¿½ï¿½ï¿½ 26
+For serving not fewer
+than 2 nor more than 10 such notices to the same location, each noticeï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 20
+For serving not fewer
+than 11 nor more than 24 such notices to the same location, each noticeï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 17
+For serving 25 or
+more such notices to the same location, each notice.......... 15
+Except as otherwise
+provided in subsection 3, for mileage in serving such a notice, for each mile
+necessarily and actually traveled in going only.......................................................................................... 2
+But if two or more
+notices are served at the same general location during the same period, mileage
+may only be charged for the service of one notice.
+For each service in a
+summary eviction, except service of any notice required by law before
+commencement of the proceeding, and for serving notice of and executing a writ
+of restitution 21
+For making and
+posting notices, and advertising property for sale on execution, not to include
+the cost of publication in a newspaper.................................................................................................... 15
+For each warrant
+lawfully executed, unless a higher amount is established by the board of county
+commissioners............................................................................................................................... 48
+For mailing a notice
+of a writ of execution............................................................. 2
+Except as otherwise
+provided in subsection 3, for mileage in serving summons, attachment,
+execution, order, venire, subpoena, notice, summary eviction, writ of
+restitution or other process in civil suits, for each mile necessarily and
+actually traveled, in going only.......................................................................... 2
+But when two or more
+persons are served in the same suit, mileage may only be charged for the most
+distant, if they live in the same direction.
+Except as otherwise
+provided in subsection 3, for mileage in making a diligent but unsuccessful
+effort to serve a summons, attachment, execution, order, venire, subpoena or
+other process in civil suits, for each mile necessarily and actually traveled,
+in going only.................................................................. 2
+But mileage may not
+exceed $20 for any unsuccessful effort to serve such process.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-125__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A constable is also entitled to
+receive:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="258-125__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For receiving and taking care of property on
+execution, attachment or order, and for executing an order of arrest in civil
+cases, compensation for the constableï¿½s trouble and expense, to be allowed by
+the court which issued the writ or order, upon the affidavit of the constable
+that the charges are correct and the expenses necessarily incurred.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-125__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For collecting all sums on execution or writ,
+to be charged against the defendant, on the first $3,500, 2 percent thereof,
+and on all amounts over that sum, 1 percent.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-125__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For service in criminal cases, the same fees
+as are allowed sheriffs for like services, to be allowed, audited and paid as
+are other claims against the county.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-125__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For removing or causing the removal of,
+pursuant toNRS 487.230, a vehicle that
+has been abandoned on public property, $100.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-125__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>For providing any other service authorized by
+law for which no fee is established by this chapter, the fee provided for by
+ordinance by the board of county commissioners.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="258-125__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>For each service for which a constable
+is otherwise entitled pursuant to subsection 1 to a fee based on the mileage
+necessarily and actually traveled in performing the service, a board of county
+commissioners may provide by ordinance for the constable to be entitled, at the
+option of the person paying the fee, to a flat fee for the travel costs of that
+service.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-125__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Deputy sheriffs acting as constables
+are not entitled to retain for their own use any fees collected by them, but
+the fees must be paid into the county treasury on or before the fifth working
+day of the month next succeeding the month in which the fees were collected.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-125__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 6, constables shall, on or before the fifth working day of each
+month, account for and pay to the county treasurer all fees collected during
+the preceding month, except fees which may be retained as compensation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-125__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Every 5 business days, constables in an
+office established by the board of county commissioners as an enterprise fund
+shall account for and pay to the county treasurer any fee collected during the
+preceding period.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1959,
+610; A1961,
+685;1973,
+1642;1975,
+313;1979,
+1032;1981,
+365;1985,
+1009;1987,
+651;1991,
+408;1993,
+266;2001,
+3212; 2007,104;2009,
+3013;2015,
+2519;2017,
+1055;2019,
+1557)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-135">
+          <num>258.135</num>
+          <heading>Acceptance of credit card, debit card or electronic transfer of
+money for payment of fees owed constable; convenience fee.</heading>
+          <subsection eId="258-135__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A constable may enter into contracts
+with issuers of credit cards or debit cards or operators of systems that
+provide for the electronic transfer of money to provide for the acceptance of
+credit cards, debit cards or electronic transfers of money by the constable for
+the payment of fees to which the constable is entitled.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-135__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the issuer or operator charges the
+constable a fee for each use of a credit card or debit card or for each
+electronic transfer of money, the constable may require the cardholder or the
+person requesting the electronic transfer of money to pay a convenience fee.
+The total convenience fees charged by the constable in a fiscal year must not
+exceed the total amount of fees charged to the constable by the issuer or
+operator in that fiscal year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-135__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="258-135__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Cardholderï¿½ means the person or organization
+named on the face of a credit card or debit card to whom or for whose benefit
+the credit card or debit card is issued by an issuer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-135__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Convenience feeï¿½ means a fee paid by a
+cardholder or person requesting the electronic transfer of money to a constable
+for the convenience of using the credit card or debit card or the electronic
+transfer of money to make such payment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-135__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>ï¿½Credit cardï¿½ means any instrument or device,
+whether known as a credit card or credit plate or by any other name, issued
+with or without a fee by an issuer for the use of the cardholder in obtaining
+money, property, goods, services or anything else of value on credit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-135__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>ï¿½Debit cardï¿½ means any instrument or device,
+whether known as a debit card or by any other name, issued with or without a
+fee by an issuer for the use of the cardholder in depositing, obtaining or
+transferring funds.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-135__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>ï¿½Electronic transfer of moneyï¿½ has the
+meaning ascribed to it inNRS 463.01473.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="258-135__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>ï¿½Issuerï¿½ means a business organization,
+financial institution or authorized agent of a business organization or
+financial institution that issues a credit card or debit card.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+2515)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-170">
+          <num>258.170</num>
+          <heading>No other fees to be charged.</heading>
+          <content>
+            <p>No
+other fees shall be charged by constables than those specifically set forth in
+this chapter, nor shall fees be charged for any other services than those
+mentioned in this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 17:49:1883; BH ï¿½ 2358; C ï¿½ 2482; RL ï¿½ 2019; NCL
+ï¿½ 2950]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-180">
+          <num>258.180</num>
+          <heading>Fee book.</heading>
+          <content>
+            <p>Every
+constable shall keep in his or her office a fee book in which the constable
+shall enter in detail the title of the matter, proceeding or action, and the
+fees charged therein. The fee book shall be open to public inspection.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 18:49:1883; BH ï¿½ 2359; C ï¿½ 2483; RL ï¿½ 2020; NCL
+ï¿½ 2951]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-190">
+          <num>258.190</num>
+          <heading>Quarterly financial statements.</heading>
+          <subsection eId="258-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In each calendar year, on the first
+Monday of January, April, July and October, the constables who receive fees
+under the provisions of this chapter shall make out and file with the boards of
+county commissioners of their several counties a full and correct statement
+under oath of all fees or compensation, of whatever nature or kind, received in
+their several official capacities during the preceding 3 months. In the
+statement they shall set forth the cause in which, and the services for which,
+such fees or compensation were received.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="258-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Nothing in this section shall be so
+construed as to require personal attendance in filing statements, which may be
+transmitted by mail or otherwise directed to the clerk of the board of county
+commissioners.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 19:49:1883; BH ï¿½ 2360; C ï¿½ 2484; RL ï¿½ 2021; NCL
+ï¿½ 2952]—(NRS A2013,
+2949)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-200">
+          <num>258.200</num>
+          <heading>Failure to comply with certain statutory requirements: Penalty.</heading>
+          <content>
+            <p>Any constable who shall violate any of the
+provisions ofNRS 258.170,258.180and258.190shall be fined not more than
+$1,000.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 21:49:1883; BH ï¿½ 2362; C ï¿½ 2486; RL ï¿½ 2023; NCL
+ï¿½ 2954]—(NRS A1967,
+542)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-205">
+          <num>258.205</num>
+          <heading>Penalties for failure of constable to file report, oath or other
+document with county or Peace Officersï¿½ Standards and Training Commission.</heading>
+          <content>
+            <p>In addition to any fine imposed pursuant toNRS 258.200, a board of county
+commissioners may establish, by resolution or ordinance, penalties for the
+failure of the constable of a township in the county to file any report, oath
+or other document required by statute to be filed with the county or the Peace
+Officersï¿½ Standards and Training Commission.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+2947)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-210">
+          <num>258.210</num>
+          <heading>Punishment for taking excessive fees.</heading>
+          <content>
+            <p>If
+any constable shall take more or greater fees than are allowed by law, the
+constable shall be liable to indictment, and on conviction shall be removed
+from office and fined in any sum not exceeding $1,000.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 22:49:1883; BH ï¿½ 2363; C ï¿½ 2487; RL ï¿½ 2024; NCL
+ï¿½ 2955]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-220">
+          <num>258.220</num>
+          <heading>Table of fees to be posted; penalties.</heading>
+          <content>
+            <p>Any
+constable receiving fees as provided by law shall publish and set up in some
+conspicuous place in his or her office a fee table for public inspection. A sum
+not exceeding $20 for each day of the constableï¿½s omission so to do shall be
+forfeited, which sum with costs may be recovered by any person by an action
+before any justice of the peace of the same county.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 23:49:1883; BH ï¿½ 2364; C ï¿½ 2488; RL ï¿½ 2025; NCL
+ï¿½ 2956]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-230">
+          <num>258.230</num>
+          <heading>Fees payable in advance; execution.</heading>
+          <content>
+            <p>Except
+with respect to the fees described in paragraphs (a) and (d) of subsection 2 ofNRS 258.125, all fees prescribed in this
+chapter shall be payable in advance, if demanded. If a constable shall not have
+received any or all of his or her fees, which may be due the constable for
+services rendered by him or her in any suit or proceedings, the constable may
+have execution therefor in his or her own name against the party or parties
+from whom they are due, to be issued from the court where the action is
+pending, upon the order of the justice of the peace or court upon affidavit filed.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 25:49:1883; BH ï¿½ 2366; C ï¿½ 2490; RL ï¿½ 2027; NCL
+ï¿½ 2958]—(NRS A2007,
+105;2011,
+1908)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_258-240">
+          <num>258.240</num>
+          <heading>Limitation on mileage.</heading>
+          <content>
+            <p>When
+any constable serves more than one process in the same cause, not requiring
+more than one journey from his or her office, the constable shall receive
+mileage only for the most distant service.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 35:49:1883; BH ï¿½ 2376; C ï¿½ 2500; RL ï¿½ 2037; NCL
+ï¿½ 2968]</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

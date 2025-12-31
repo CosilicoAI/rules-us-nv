@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-234"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-234"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="234"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-234/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-234/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-234/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-234/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_234">
+        <num>234</num>
+        <heading>STATE AND LOCAL GOVERNMENTAL</heading>
+        <section eId="sec_234-020">
+          <num>234.020</num>
+          <heading>Filing of maps of state boundaries.</heading>
+          <content>
+            <p>All
+maps of state boundaries are filed with the Division of State Lands of the
+State Department of Conservation and Natural Resources.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+646; A1977,
+1123)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_234-130">
+          <num>234.130</num>
+          <heading>Ratification and approval of Compact.</heading>
+          <content>
+            <p>The
+Interstate Compact Defining a Portion of the Common Boundary Between the States
+of Nevada and Arizona on the Colorado River between the point where the
+Nevada-California state line intersects the 35th degree of latitude north and
+Davis Dam, which was executed on February 6, 1960, by the Colorado River
+Boundary Commissions of Nevada and Arizona, is hereby ratified and approved.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1960,
+145)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_234-140">
+          <num>234.140</num>
+          <heading>Terms and provisions of Compact.</heading>
+          <content>
+            <p>The
+terms and provisions of the Compact referred to inNRS 234.130are as follows:
+ARTICLE I. Purpose.
+ï¿½ï¿½ï¿½ï¿½ï¿½ The boundary between the States of Arizona and Nevada
+on the Colorado River between the point where the Nevada-California state line
+intersects the 35th degree of latitude north and Davis Dam has become
+indefinite and uncertain because of meanderings in the main channel of the
+Colorado River with the result that a state of confusion exists as to the true
+and correct location of the boundary and the enforcement and administration of
+the laws of the two states have been rendered difficult.
+ï¿½ï¿½ï¿½ï¿½ï¿½ The purpose of this Compact is to fix the location of
+the boundary line between the States of Arizona and Nevada on the Colorado
+River between the point where the Nevada-California state line intersects the
+35th degree of latitude north and Davis Dam.
+ARTICLE II.
+Description.
+ï¿½ï¿½ï¿½ï¿½ï¿½ The boundary between the States of Arizona and Nevada
+on the Colorado River between the point where the Nevada-California state line
+intersects the 35th degree of latitude north and Davis Dam is herewith defined
+as a line passing through a series of fixed points located in the mid-channel of
+the Colorado River which are tied by bearing and distance to establish
+monuments and described as follows:
+Point No. 1, being the place of
+beginning where the Nevada-California boundary intersects the 35th degree of
+latitude north; thence northerly 18,099.91 feet along a curve to the right
+(with a radius bearing North 63ï¿½34ï¿½35ï¿½East, a distance of 13,901.63 feet) to
+Point No. 2, which point is North 51ï¿½24ï¿½59ï¿½West 2,769.37 feet from the
+U.S.C.&amp;G.S. Fort Mohave Triangulation Station; thence North 48ï¿½10ï¿½31ï¿½East 1,383.38 feet to
+Point No. 3, which point is North 23ï¿½05ï¿½44ï¿½West 2,880.52 feet from the
+U.S.C.&amp;G.S. Fort Mohave Triangulation Station; thence northeasterly
+2,625.09 feet along a curve to the right with a radius of 12,170.00 feet to
+Point No. 4, which point is North 13ï¿½27ï¿½17ï¿½East 4,294.35 feet from the
+U.S.C.&amp;G.S. Fort Mohave Triangulation Station; thence northerly 10,610.88
+feet along a curve to the left with a radius of 5,775.00 feet to
+Point No. 5, which is North 9ï¿½40ï¿½04ï¿½East 13,460.60 feet from the
+U.S.C.&amp;G.S. Fort Mohave Triangulation Station; thence North 44ï¿½44ï¿½23ï¿½West, 1,364.03 feet to
+Point No. 6, which point is North 5ï¿½13ï¿½06ï¿½East 14,297.57 feet from the
+U.S.C.&amp;G.S. Fort Mohave Triangulation Station; thence northwesterly
+7,745.77 feet along a curve to the left with a radius of 15,000.00 feet to
+Point No. 7, which point is South 74ï¿½59ï¿½41ï¿½West 1,077.76 feet from the
+southeast corner of Section 24, Township 20 North, Range 23 West, G.&amp;S.R.
+Base &amp; Meridian in Arizona; thence northwesterly 2,687.16 feet along a
+curve to the right with a radius of 5,250.00 feet to
+Point No. 8, which point is North 72ï¿½18ï¿½49ï¿½West 3,334.98 feet from the
+southeast corner of Section 24, Township 20 North, Range 23 West, G.&amp;S.R.
+Base &amp; Meridian; thence North 45ï¿½00ï¿½00ï¿½West 1,251.30 feet to
+Point No. 9, which point is North 65ï¿½13ï¿½02ï¿½West 4,647.83 feet from the
+southeast corner of Section 24, Township 20 North, Range 23 West, G.&amp;S.R.
+Base &amp; Meridian; thence northerly 2,567.51 feet along a curve to the right
+with a radius of 1,738.94 feet to
+Point No. 10, which point is South
+77ï¿½14ï¿½52ï¿½West 4,476.96 feet from the northeast corner of Section 24, Township 20 North,
+Range 23 West, G.&amp;S.R. Base &amp; Meridian in Arizona; thence North 39ï¿½35ï¿½46ï¿½East 1,896.58 feet to
+Point No. 11, which point is North
+81ï¿½28ï¿½29ï¿½West 3,192.99 feet from the southeast corner of Section 13, Township 20 North,
+Range 23 West, G.&amp;S.R. Base &amp; Meridian in Arizona; thence North 50ï¿½05ï¿½20ï¿½East 1,377.07 feet to
+Point No. 12, which point is North
+57ï¿½09ï¿½02ï¿½West 2,501.42 feet from the southeast corner of Section 13, Township 20 North,
+Range 23 West, G.&amp;S.R. Base &amp; Meridian in Arizona; thence North 38ï¿½39ï¿½33ï¿½East 1,670.68 feet to
+Point No. 13, which point is North
+21ï¿½40ï¿½31ï¿½West 2,863.96 feet from the southeast corner of Section 13, Township 20 North,
+Range 23 West, G.&amp;S.R. Base &amp; Meridian in Arizona; thence easterly
+6,083.30 feet along a curve to the right with a radius of 6,332.12 feet to
+Point No. 14, which point is South 1ï¿½45ï¿½06ï¿½East 944.43 feet from the
+northwest corner of Section 34, Township 32 South, Range 66 East, Mt. Diablo
+Base &amp; Meridian in Nevada; thence South 86ï¿½17ï¿½53ï¿½East 5,190.37 feet to
+Point No. 15, which point is South 3ï¿½31ï¿½00ï¿½West 1,233.10 feet from the
+northeast corner of Section 34, Township 32 South, Range 66 East, Mt. Diablo
+Base &amp; Meridian in Nevada; thence North 74ï¿½12ï¿½01ï¿½East 3,528.76 feet to
+Point No. 16, which point is South
+85ï¿½21ï¿½02ï¿½East 3,330.79 feet from the northeast corner of Section 34, Township 32 South,
+Range 66 East, Mt. Diablo Base &amp; Meridian in Nevada; thence North 66ï¿½35ï¿½02ï¿½East 1,383.98 feet to
+Point No. 17, which point is North
+86ï¿½30ï¿½32ï¿½East 4,598.33 feet from the northeast corner of Section 34, Township 32 South,
+Range 66 East, Mt. Diablo Base &amp; Meridian in Nevada; thence North 54ï¿½25ï¿½00ï¿½East 1,499.93 feet to
+Point No. 18, which point is South 7ï¿½03ï¿½48ï¿½East 4,297.47 feet from the
+northwest corner of Section 25, Township 32 South, Range 66 East, Mt. Diablo
+Base &amp; Meridian in Nevada; thence North 29ï¿½56ï¿½02ï¿½East 1,974.24 feet to
+Point No. 19, which point is South
+30ï¿½39ï¿½10ï¿½East 2,968.79 feet from the northwest corner of Section 25, Township 32 South,
+Range 66 East, Mt. Diablo Base &amp; Meridian in Nevada; thence North 23ï¿½56ï¿½24ï¿½East 2,404.51 feet to
+Point No. 20, which point is South
+64ï¿½33ï¿½16ï¿½West 3,266.89 feet from the northeast corner of Section 12, Township 20 North,
+Range 22 West, G.&amp;S.R. Base &amp; Meridian in Arizona; thence North 6ï¿½07ï¿½27ï¿½West 1,406.23 feet to
+Point No. 21, which point is South
+89ï¿½54ï¿½00ï¿½West
+3,100.00 feet from the northeast corner of Section 12, Township 20 North, Range
+22 West, G.&amp;S.R. Base &amp; Meridian in Arizona; thence North 10ï¿½55ï¿½52ï¿½West 878.83 feet to
+Point No. 22, which point is North
+75ï¿½17ï¿½33ï¿½West 3,377.31 feet from the northeast corner of Section 12, Township 20 North,
+Range 22 West, G.&amp;S.R. Base &amp; Meridian in Arizona; thence North 6ï¿½44ï¿½28ï¿½East 1,289.72 feet to
+Point No. 23, which point is South
+58ï¿½26ï¿½58ï¿½West 3,655.64 feet from the northeast corner of Section 1, Township 20 North,
+Range 22 West, G.&amp;S.R. Base &amp; Meridian in Arizona; thence North 15ï¿½26ï¿½06ï¿½East 2,078.24 feet to
+Point No. 24, which point is North
+87ï¿½58ï¿½32ï¿½West 2,563.75 feet from the northeast corner of Section 1, Township 20 North,
+Range 22 West, G.&amp;S.R. Base &amp; Meridian in Arizona; thence North 10ï¿½47ï¿½16ï¿½East 3,339.47 feet to
+Point No. 25, which point is South
+57ï¿½52ï¿½49ï¿½East 3,931.95 feet from the northwest corner of Section 13, Township 32 South,
+Range 66 East, Mt. Diablo Base &amp; Meridian in Nevada; thence North 0ï¿½37ï¿½06ï¿½East 2,000.00 feet to
+Point No. 26, which point is South
+88ï¿½26ï¿½53ï¿½East 3,352.93 feet from the northwest corner of Section 13, Township 32 South,
+Range 66 East, Mt. Diablo Base &amp; Meridian in Nevada; thence North 0ï¿½37ï¿½06ï¿½East 5,269.57 feet to
+Point No. 27, which point is South
+88ï¿½42ï¿½05ï¿½East 3,542.59 feet from the southwest corner of Section 1, Township 32 South,
+Range 66 East, Mt. Diablo Base &amp; Meridian in Nevada; thence North 5ï¿½11ï¿½28ï¿½West 1,401.89 feet to
+Point No. 28, which point is North
+68ï¿½55ï¿½18ï¿½East 3,659.71 feet from the southwest corner of Section 1, Township 32 South,
+Range 66 East, Mt. Diablo Base &amp; Meridian in Nevada; thence North 20ï¿½04ï¿½51ï¿½West 1,401.38 feet to
+Point No. 29, which point is South
+45ï¿½32ï¿½18ï¿½East 3,758.25 feet from the northwest corner of Section 1, Township 32 South,
+Range 66 East, Mt. Diablo Base &amp; Meridian in Nevada; thence North 5ï¿½07ï¿½03ï¿½West 2,570.29 feet to
+Point No. 30, which point is South
+88ï¿½18ï¿½29ï¿½East 2,454.13 feet from the northwest corner of Section 1, Township 32 South,
+Range 66 East, Mt. Diablo Base &amp; Meridian in Nevada; thence North 1ï¿½49ï¿½01ï¿½East 934.17 feet to
+Point No. 31, which point is North
+70ï¿½51ï¿½57ï¿½East 2,627.86 feet from the northwest corner of Section 1, Township 32 South,
+Range 66 East, Mt. Diablo Base &amp; Meridian in Nevada and monumented by a
+brass cap in the roadway of the highway crossing Davis Dam.
+ARTICLE III.
+Ratification and Effective Date.
+ï¿½ï¿½ï¿½ï¿½ï¿½ This compact shall become operative when it has been
+ratified and approved by the Legislatures of the States of Arizona and Nevada
+and approved by the Congress of the United States.
+Dated this 6th day of February,
+1960, at Phoenix, Arizona.
+FOR THE STATE OF ARIZONA
+Colorado River Boundary Commission
+of Arizona
+/s/ Wayne M. Akin
+Wayne M. Akin, Chairman
+Chairman of the Arizona Interstate
+Stream Commission
+/s/ Wade Church
+Wade Church
+Attorney General
+/s/ Obed M. Lassen
+Obed M. Lassen
+State Land Commissioner
+FOR THE STATE OF NEVADA
+Colorado River Boundary Commission
+of Nevada
+/s/ Ralph L. Denton
+Ralph L. Denton, Chairman
+Appointed Member
+/s/ A.J. Shaver
+A.J. Shaver, Secretary
+Chief Engineer, Colorado River
+Commission of Nevada
+/s/ Hugh A. Shamberger
+Hugh A. Shamberger
+Director, State Department of
+Conservation and Natural Resources</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1960,
+145)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_234-150">
+          <num>234.150</num>
+          <heading>Secretary of State to transmit copy of law to Arizona;
+proclamation by Governor upon approval by Arizona and Congress; publication.</heading>
+          <content>
+            <p>The Secretary of State of the State of Nevada
+shall transmit a duly certified copy ofNRS
+234.130to234.180, inclusive, to
+the Governor of the State of Arizona. The Governor of this State, whenever
+officially advised that the State of Arizona has ratified and approved the
+Compact set forth inNRS 234.140and
+whenever the Congress of the United States has approved the Compact, shall make
+proclamation of that fact. A copy of such proclamation shall be published for
+three consecutive weekly issues in a newspaper or newspapers of general
+circulation in Clark County, Nevada.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1960,
+150)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_234-160">
+          <num>234.160</num>
+          <heading>Consent of Congress petitioned.</heading>
+          <content>
+            <p>The
+Congress of the United States, as soon as the State of Arizona has ratified and
+approved the Compact set forth inNRS
+234.140, is petitioned, pursuant to Article I, section 10, clause 3, of the
+United States Constitution, to give its consent to the settlement and location
+of the above-described portion of the common boundary, as set forth inNRS 234.140, between the States of Nevada
+and Arizona. The Secretary of State of the State of Nevada shall transmit duly
+certified copies ofNRS 234.130to234.180, inclusive, to the presiding
+officers of the Senate and House of Representatives of the United States and to
+the several Senators and Representatives from the States of Nevada and Arizona
+to the Congress of the United States, who are petitioned to take such action as
+they deem proper to procure the consent of the Congress of the United States to
+this Compact between the States of Nevada and Arizona.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1960,
+150)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_234-170">
+          <num>234.170</num>
+          <heading>Titles, rights and claims to lands not affected.</heading>
+          <content>
+            <p>Nothing contained in the provisions ofNRS 234.130to234.180, inclusive, or any operation
+thereof shall prejudice the titles, rights or claims of any person, public or
+private, natural or artificial, to any of the lands herein involved, whether
+such titles, rights or claims arise or exist upon the basis that the lands
+affected by the designation of boundary as set forth in the Compact and inNRS 234.130to234.180, inclusive, were previously a part
+of the State of Nevada and have now become a part of the State of Arizona or
+were previously a part of the State of Arizona and have now become a part of
+the State of Nevada, or otherwise.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1960,
+150)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_234-180">
+          <num>234.180</num>
+          <heading>Recording of evidence of ownership after approval by Congress;
+retroactive effect.</heading>
+          <content>
+            <p>From and after
+the date of approval by the Congress of the United States of the Compact set
+forth inNRS 234.140, the county
+recorder of Clark County, Nevada, shall accept and record, without charge
+therefor, patents, deeds or other evidence of ownership or interest in any
+lands recorded in Mohave County, Arizona, which were previously considered a part
+of the State of Arizona but are now included within the boundary of the State
+of Nevada as described inNRS 234.140.
+Recordings made under the provisions of this section shall have retroactive
+effect to the date of their original recording in the State of Arizona.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1960,
+150)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_234-250">
+          <num>234.250</num>
+          <heading>Recording of plat of boundaries of local governments; changes in
+boundaries; restrictions on taxation for failure to comply.</heading>
+          <subsection eId="234-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to any other requirement of
+law, each local government, as defined inNRS
+354.474, shall record the original official plat with:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="234-250__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The county recorder, the county clerk or the
+registrar of voters, and the county assessor of each county in which its
+territory or any part thereof is situated.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="234-250__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department of Taxation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="234-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All changes in boundaries made after
+the original recording of such plat must be recorded immediately with the
+offices with which copies of the original plat were recorded.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="234-250__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Until a local government complies with the
+requirements of subsections 1 and 2, it shall not levy or receive any ad
+valorem or other tax or any other mandatory assessment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="234-250__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>This section applies to all local
+governments receiving and expending funds on behalf of the public, regardless
+of their designation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+990; A1973,
+1081;1975,
+1680;1977,
+536;2001,
+1756;2003,
+75)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-189"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-189"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="189"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-189/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-189/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-189/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-189/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_189">
+        <num>189</num>
+        <heading>JUSTICE COURTS</heading>
+        <section eId="sec_189-005">
+          <num>189.005</num>
+          <heading>Applicability of other provisions of title.</heading>
+          <content>
+            <p>Except as otherwise expressly provided in this
+chapter, criminal proceedings in justice courts are governed by the provisions
+of this title.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1467)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_189-007">
+          <num>189.007</num>
+          <heading>Grounds for dismissal of complaint.</heading>
+          <subsection eId="189-007__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>That the justice of the peace does not
+have jurisdiction of the offense.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="189-007__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>That more than one offense is charged
+in any one count of the complaint.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="189-007__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>That the facts stated do not constitute
+a public offense.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1979,
+36)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_189-010">
+          <num>189.010</num>
+          <heading>Appeal must be taken within 10 days.</heading>
+          <content>
+            <p>Except
+as otherwise provided inNRS 177.015, a
+defendant in a criminal action tried before a justice of the peace may appeal
+from the final judgment therein to the district court of the county where the
+court of the justice of the peace is held, at any time within 10 days from the
+time of the rendition of the judgment.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 Cr. Prac. ï¿½ 662; RL ï¿½ 7512; NCL ï¿½ 11309]—(NRS A1995,
+1536)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_189-020">
+          <num>189.020</num>
+          <heading>Notice of intention to appeal: Filing and service; stay of
+judgment pending appeal.</heading>
+          <subsection eId="189-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The party intending to appeal must file
+with the justice and serve upon the district attorney a notice entitled in the
+action, setting forth the character of the judgment, and the intention of the
+party to appeal therefrom to the district court.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="189-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Stay of judgment pending appeal is
+governed byNRS 177.105and177.115.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 Cr. Prac. ï¿½ 663; RL ï¿½ 7513; NCL ï¿½ 11310]—(NRS A1967,
+1467)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_189-030">
+          <num>189.030</num>
+          <heading>Transmission of transcript, other papers, sound recording and
+copy of docket to district court.</heading>
+          <subsection eId="189-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The justice shall, within 10 days after
+the notice of appeal is filed, transmit to the clerk of the district court the
+transcript of the case, all other papers relating to the case and a certified
+copy of the docket.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="189-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The justice shall give notice to the
+appellant or the appellantï¿½s attorney that the transcript and all other papers
+relating to the case have been filed with the clerk of the district court.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="189-030__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the district judge so requests,
+before or after receiving the record, the justice of the peace shall transmit
+to the district judge the sound recording of the case.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 Cr. Prac. ï¿½ 664; RL ï¿½ 7514; NCL ï¿½ 11311]—(NRS A1973,
+631;1979,
+1512)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_189-035">
+          <num>189.035</num>
+          <heading>Procedure where transcript defective.</heading>
+          <subsection eId="189-035__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as provided in subsection 2, if
+the district court finds that the transcript of a case which was recorded by
+sound recording equipment is materially or extensively defective, the case must
+be returned for retrial in the justice court from which it came.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="189-035__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If all parties to the appeal stipulate
+to being bound by a particular transcript of the proceedings in the justice
+court, or stipulate to a particular change in the transcript, an appeal based on
+that transcript as accepted or changed may be heard by the district court
+without regard to any defects in the transcript.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1979,
+1512)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_189-050">
+          <num>189.050</num>
+          <heading>Action to be judged on record.</heading>
+          <content>
+            <p>An
+appeal duly perfected transfers the action to the district court to be judged
+on the record.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1911 Cr. Prac. ï¿½ 666; RL ï¿½ 7516; NCL ï¿½
+11313]—(NRS A1979,
+1512)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_189-060">
+          <num>189.060</num>
+          <heading>Grounds for dismissal of appeal; enforcement of judgment.</heading>
+          <subsection eId="189-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The appeal may be dismissed on either
+of the following grounds:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="189-060__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For failure to take the same in time.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="189-060__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For failure to appear in the district court
+when required.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="189-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the appeal is dismissed, a copy of
+the order of dismissal must be remitted to the justice, who may proceed to
+enforce the judgment.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1911 Cr. Prac. ï¿½ 666; RL ï¿½ 7516; NCL ï¿½ 11313]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_189-065">
+          <num>189.065</num>
+          <heading>Dismissal for failure to set or reset appeal for hearing.</heading>
+          <subsection eId="189-065__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An appeal must be dismissed by the
+district court unless perfected by application of the defendant, within 60 days
+after the appeal is filed in the justice court, by having it set for hearing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="189-065__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If an appeal has been set for hearing
+and the hearing is vacated at the request of the appellant, the appeal must be
+dismissed unless application is made by the appellant to reset the hearing
+within 60 days after the date on which the hearing was vacated.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+376; A1985,
+57,972)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_189-070">
+          <num>189.070</num>
+          <heading>Grounds for dismissal of complaint on appeal.</heading>
+          <subsection eId="189-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>That the justice of the peace did not
+have jurisdiction of the offense.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="189-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>That more than one offense is charged
+in any one count of the complaint.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="189-070__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>That the facts stated do not constitute
+a public offense.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 Cr. Prac. ï¿½ 667; RL ï¿½ 7517; NCL ï¿½ 11314]—(NRS A1979,
+36)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_189-120">
+          <num>189.120</num>
+          <heading>Appeal by State from order granting defendantï¿½s motion to
+suppress evidence.</heading>
+          <subsection eId="189-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State may appeal to the district
+court from an order of a justice court granting the motion of a defendant to
+suppress evidence.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="189-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Such an appeal shall be taken:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="189-120__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Within 2 days after the rendition of such an
+order during a trial or preliminary examination.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="189-120__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Within 5 days after the rendition of such an
+order before a trial or preliminary examination.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="189-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon perfecting such an appeal:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="189-120__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>After the commencement of a trial or
+preliminary examination, further proceedings in the trial shall be stayed
+pending the final determination of the appeal.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="189-120__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Before trial or preliminary examination, the
+time limitation within which a defendant shall be brought to trial shall be
+extended for the period necessary for the final determination of the appeal.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+1079)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-0"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-0"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="0"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-0/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-0/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-0/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-0/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_0">
+        <num>0</num>
+        <heading>Chapter 0</heading>
+        <section eId="sec_0-010">
+          <num>0.010</num>
+          <heading>Scope.</heading>
+          <content>
+            <p>This chapter
+provides definitions and declarations of legislative intent which apply to
+Nevada Revised Statutes as a whole.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+181)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-020">
+          <num>0.020</num>
+          <heading>Severability.</heading>
+          <subsection eId="0-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If any provision of the Nevada Revised
+Statutes, or the application thereof to any person, thing or circumstance is
+held invalid, such invalidity shall not affect the provisions or application of
+NRS which can be given effect without the invalid provision or application, and
+to this end the provisions of NRS are declared to be severable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="0-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The inclusion of an express declaration
+of severability in the enactment of any provision of NRS or the inclusion of
+any such provision in NRS, does not enhance the severability of the provision
+so treated or detract from the severability of any other provision of NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+166)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-023">
+          <num>0.023</num>
+          <heading>Construction of reenacted, amended or revised laws as
+continuation of prior law; effect of reference to repealed law that is in
+substance reenacted.</heading>
+          <content>
+            <p>The
+provisions of any law or statute which is reenacted, amended or revised, so far
+as they are the same as those of prior laws, shall be construed as a
+continuation of such laws and not as new enactments. If any provision of a law
+is repealed and in substance reenacted, a reference in any other law to the
+repealed provision shall be deemed to be a reference to the reenacted
+provision.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+2094)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-024">
+          <num>0.024</num>
+          <heading>Words and terms defined in NRS have same meaning in
+corresponding provisions of NAC.</heading>
+          <content>
+            <p>Unless
+otherwise specifically provided by law or unless the context otherwise
+requires, if a word or term is defined for use in a particular title or chapter
+of the Nevada Revised Statutes or in a particular subpart thereof, the word or
+term has the same meaning in the corresponding title or chapter of the Nevada
+Administrative Code or in the corresponding subpart thereof, as applicable.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+160)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-025">
+          <num>0.025</num>
+          <heading>Use of ï¿½may,ï¿½ ï¿½must,ï¿½ ï¿½shallï¿½ and ï¿½is entitledï¿½; explanation of
+flush lines.</heading>
+          <subsection eId="0-025__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise expressly provided
+in a particular statute or required by the context:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="0-025__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Mayï¿½ confers a right, privilege or power.
+The term ï¿½is entitledï¿½ confers a private right.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="0-025__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½May notï¿½ or ï¿½no * * * mayï¿½ abridges or
+removes a right, privilege or power.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="0-025__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>ï¿½Mustï¿½ expresses a requirement when:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="0-025__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The subject is a thing, whether the
+verb is active or passive.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="0-025__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The subject is a natural person and:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) The verb is in the passive
+voice; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) Only a condition precedent and
+not a duty is imposed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="0-025__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>ï¿½Shallï¿½ imposes a duty to act.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="0-025__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>ï¿½Shall be deemedï¿½ or ï¿½shall be consideredï¿½
+creates a legal fiction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="0-025__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>ï¿½Shall notï¿½ imposes a prohibition against
+acting.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="0-025__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise required by the
+context, text of a statute that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="0-025__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Follows subsections, paragraphs,
+subparagraphs or sub-subparagraphs that are introduced by a colon;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="0-025__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is not designated as a separate subsection,
+paragraph, subparagraph or sub-subparagraph; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="0-025__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Begins flush to the left margin rather than
+immediately following the material at the end of the final subsection,
+paragraph, subparagraph or sub-subparagraph,
+ï¿½applies to
+the section as a whole, in the case of subsections, or to the subdivision
+preceding the colon as a whole rather than solely to the subdivision that the
+text follows. The symbol ï¿½ï¿½ï¿½ in
+bills and in Nevada Revised Statutes indicates the beginning of such text.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+809; A2003,
+2094)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-027">
+          <num>0.027</num>
+          <heading>Interpretation of reference to parents or parent of child if
+more than two people have parent and child relationship.</heading>
+          <subsection eId="0-027__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The parents of a child, including,
+without limitation, a reference to two parents of a child or both parents of a
+child, must be interpreted to include any person whom a court has determined to
+be a parent of the child.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="0-027__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A parent of a child, including, without
+limitation, a reference to either parent of a child, a natural parent of a
+child or a father or mother of a child, must be interpreted to include any
+person whom a court has determined to be a parent of the child.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3408)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-030">
+          <num>0.030</num>
+          <heading>Gender, number and tense.</heading>
+          <subsection eId="0-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise expressly provided
+in a particular statute or required by the context:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="0-030__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The singular number includes the plural
+number, and the plural includes the singular.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="0-030__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The present tense includes the future tense.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="0-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The use of a masculine noun or pronoun
+in conferring a benefit or imposing a duty does not exclude a female person
+from that benefit or duty. The use of a feminine noun or pronoun in conferring
+a benefit or imposing a duty does not exclude a male person from that benefit
+or duty.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+181; A2009,
+484)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-0305">
+          <num>0.0305</num>
+          <heading>ï¿½Board of county commissionersï¿½ and ï¿½boardï¿½ includes Board of
+Supervisors of Carson City.</heading>
+          <content>
+            <p>The
+term ï¿½board of county commissioners,ï¿½ or ï¿½board,ï¿½ when referring to the boards
+of county commissioners of the several counties, includes the Board of Supervisors
+of Carson City.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+321; A1985,
+221)—(Substituted in revision for NRS 0.035)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-031">
+          <num>0.031</num>
+          <heading>ï¿½Controlled substanceï¿½ defined.</heading>
+          <content>
+            <p>Except
+as otherwise expressly provided in a particular statute or required by the
+context, ï¿½controlled substanceï¿½ means a drug, immediate precursor or other
+substance which is listed in schedule I, II, III, IV or V for control by the
+State Board of Pharmacy pursuant toNRS
+453.146.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1544)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-033">
+          <num>0.033</num>
+          <heading>ï¿½Countyï¿½ includes Carson City.</heading>
+          <subsection eId="0-033__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Whenever used in the Statutes of Nevada
+and Nevada Revised Statutes, the term ï¿½countyï¿½ includes Carson City.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="0-033__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as limited by the Charter of
+Carson City or by ordinances enacted by authority thereof, those provisions of
+the Statutes of Nevada or Nevada Revised Statutes which refer to the several
+counties apply equally to Carson City.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1969,
+321)—(Substituted in revision for NRS 243.500)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-034">
+          <num>0.034</num>
+          <heading>ï¿½Gender identity or expressionï¿½ defined.</heading>
+          <content>
+            <p>Except as otherwise expressly provided in a
+particular statute or required by the context, ï¿½gender identity or expressionï¿½
+and any variation of that term means a gender-related identity, appearance, expression
+or behavior of a person, regardless of the personï¿½s assigned sex at birth.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1060)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-036">
+          <num>0.036</num>
+          <heading>ï¿½Intellectual disabilityï¿½ defined.</heading>
+          <subsection eId="0-036__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Means a condition previously referred
+to as ï¿½mental retardation,ï¿½ ï¿½mentally retardedï¿½ and any variation of that term;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="0-036__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Has the same meaning as a condition
+previously referred to as ï¿½mental retardation,ï¿½ ï¿½mentally retardedï¿½ and any
+variation of that term with respect to rights and responsibilities of persons
+with such a condition and eligibility or qualification of persons with such a
+condition for any program, benefit or otherwise; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="0-036__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Must be interpreted to have the same
+meaning for any judicial interpretation of any provision which previously
+referred to ï¿½mental retardation,ï¿½ ï¿½mentally retardedï¿½ and any variation of that
+term.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+681)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-0365">
+          <num>0.0365</num>
+          <heading>ï¿½Licensed psychologistï¿½ defined.</heading>
+          <content>
+            <p>Except
+as otherwise expressly provided in a particular statute or required by the
+context, ï¿½licensed psychologistï¿½ means a psychologist licensed pursuant tochapter 641of NRS or authorized to practice
+psychology in this State pursuant to the Psychology Interjurisdictional Compact
+enacted inNRS 641.227.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+934)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-037">
+          <num>0.037</num>
+          <heading>ï¿½Mortgageï¿½ includes deed of trust.</heading>
+          <content>
+            <p>Except
+as used inchapter 106of NRS and unless the
+context otherwise requires, ï¿½mortgageï¿½ includes a deed of trust.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+221)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-038">
+          <num>0.038</num>
+          <heading>ï¿½Obesityï¿½ defined.</heading>
+          <subsection eId="0-038__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided by
+specific statute or required by the context, ï¿½obesityï¿½ means a chronic disease
+characterized by an abnormal and unhealthy accumulation of body fat which is
+statistically correlated with premature mortality, hypertension, heart disease,
+diabetes, cancer and other health conditions, and may be indicated by:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="0-038__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A body mass index of 30 or higher in adults;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="0-038__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A body mass index that is greater than two
+standard deviations above the World Health Organizationï¿½s growth standard for
+children who are at least 5 but less than 19 years of age, or greater than
+three standard deviations above the standard for children who are less than 5
+years of age;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="0-038__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A body fat percentage greater than 25 percent
+for men or 32 percent for women; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="0-038__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A waist size of 40 inches or more for men or
+35 inches or more for women.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="0-038__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½chronic
+diseaseï¿½ means a health condition or disease which presents for a period of 3
+months or more or is persistent, indefinite or incurable.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1331)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-039">
+          <num>0.039</num>
+          <heading>ï¿½Personï¿½ defined.</heading>
+          <content>
+            <p>Except
+as otherwise expressly provided in a particular statute or required by the
+context, ï¿½personï¿½ means a natural person, any form of business or social
+organization and any other nongovernmental legal entity including, but not
+limited to, a corporation, partnership, association, trust or unincorporated organization.
+The term does not include a government, governmental agency or political
+subdivision of a government.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+499)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-040">
+          <num>0.040</num>
+          <heading>ï¿½Physicianï¿½ defined and limited.</heading>
+          <subsection eId="0-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, ï¿½physicianï¿½ means a person who engages in the practice of
+medicine, including osteopathy and homeopathy.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="0-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The terms ï¿½physician,ï¿½ ï¿½osteopathic
+physician,ï¿½ ï¿½homeopathic physician,ï¿½ ï¿½chiropractic physicianï¿½ and ï¿½podiatric
+physicianï¿½ are used inchapters 630,630A,633,634and635of
+NRS in the limited senses prescribed by those chapters respectively.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+954; A1983,
+1492;1985,
+221;1995,
+1071)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-050">
+          <num>0.050</num>
+          <heading>ï¿½Populationï¿½ defined.</heading>
+          <subsection eId="0-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise expressly provided
+in a particular statute or required by the context, ï¿½populationï¿½ means the number
+of people in a specified area as determined by the last preceding national
+decennial census conducted by the Bureau of the Census of the United States
+Department of Commerce pursuant to Section 2 of Article I of the Constitution
+of the United States and reported by the Secretary of Commerce to the Governor
+pursuant to 13 U.S.C. ï¿½ 141</p>
+            </content>
+            <paragraph eId="0-050__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>. The tabulations of population reported by the
+Secretary of Commerce for a particular decennial census date shall be deemed to
+apply for the purposes of this section from July 1 of the calendar year
+immediately following that decennial census date until June 30 of the calendar
+year immediately following the next decennial census date.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="0-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½decennial
+census dateï¿½ means the first day of April of 1980 and every 10 years thereafter
+on which the decennial census is taken pursuant to federal law.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1979,
+498; A1991,
+454;1999,
+1182)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-055">
+          <num>0.055</num>
+          <heading>ï¿½Sexual orientationï¿½ defined.</heading>
+          <content>
+            <p>Except
+as otherwise expressly provided in a particular statute or required by the
+context, ï¿½sexual orientationï¿½ and any variation of that term means having or
+being perceived as having an orientation for heterosexuality, homosexuality or
+bisexuality.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1060)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_0-060">
+          <num>0.060</num>
+          <heading>ï¿½Substantial bodily harmï¿½ defined.</heading>
+          <subsection eId="0-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Bodily injury which creates a
+substantial risk of death or which causes serious, permanent disfigurement or
+protracted loss or impairment of the function of any bodily member or organ; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="0-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Prolonged physical pain.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+221)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

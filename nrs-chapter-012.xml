@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-12"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-12"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="12"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-12/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-12/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-12/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-12/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_12">
+        <num>12</num>
+        <heading>PARTIES</heading>
+        <section eId="sec_12-010">
+          <num>12.010</num>
+          <heading>Assignment of thing in action not to prejudice defense.</heading>
+          <content>
+            <p>Except as provided for secured transactions inchapters 104to104C,
+inclusive, of NRS, in the case of an assignment of a thing in action, the
+action by the assignee shall be without prejudice to any setoff or other
+defense existing at the time of, or before notice of, the assignment; but this
+section shall not apply to a negotiable promissory note, or bill of exchange,
+transferred in good faith and upon good consideration before due.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 46; RL ï¿½ 4988; NCL ï¿½ 8545]—(NRS A1965,
+913)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_12-015">
+          <num>12.015</num>
+          <heading>Actions involving indigent persons.</heading>
+          <subsection eId="12-015__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person who desires to prosecute or
+defend a civil action without paying the costs for prosecuting or defending the
+action may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="12-015__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>File, on a form provided by the court, an
+application to proceed as an indigent litigant, which must include a
+declaration that complies with the provisions ofNRS 53.045; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12-015__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the person is a client of a program for
+legal aid, submit to the court a statement of representation or otherwise
+indicate to the court that the person is a client of a program for legal aid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12-015__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The court shall allow a person to
+commence or defend the action without costs and file or issue any necessary
+writ, process, pleading or paper without charge if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="12-015__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Based on its review of an application filed
+pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12-015__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1, the court determines that the
+application should be granted and the person may proceed as an indigent
+litigant because the person:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="12-015__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Is receiving benefits provided by a
+federal or state program of public assistance;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12-015__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Has a household net income which is
+equal to or less than 150 percent of the federally designated level signifying
+poverty as provided in the most recent federal poverty guidelines published in
+the Federal Register by the United States Department of Health and Human
+Services;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12-015__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Has expenses for the necessities of
+life that exceed his or her income; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="12-015__subsec_2__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Has otherwise shown compelling reasons
+that he or she cannot pay the costs of prosecuting or defending the action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="12-015__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The person has submitted a statement of
+representation or otherwise indicated to the court that the person is a client
+of a program for legal aid pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12-015__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1.
+ï¿½The sheriff
+or another appropriate public officer within this State shall make personal
+service of any necessary writ, process, pleading or paper without charge for an
+applicant whose application has been granted or a person who has submitted a
+statement of legal representation or otherwise indicated to the court that the
+person is a client of a program for legal aid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12-015__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the person is required to have
+proceedings reported or recorded, or if the court determines that the
+reporting, recording or transcription of proceedings would be helpful to the
+adjudication or appellate review of the case, the court shall order that the
+reporting, recording or transcription be performed at the expense of the county
+in which the action is pending but at a reduced rate as set by the county.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="12-015__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the person prevails in the action,
+the court shall enter its order requiring the losing party to pay into court
+within 5 days the costs which would have been incurred by the prevailing party,
+and those costs must then be paid as provided by law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="12-015__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If an applicant files an application to
+proceed as an indigent litigant pursuant to paragraph</p>
+            </content>
+            <paragraph eId="12-015__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1 to
+defend an action, the running of the time within which to appear and answer or
+otherwise defend the action is tolled during the period between the filing of
+the application and the decision of the court to grant or deny the application.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12-015__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The filing of an application to proceed
+as an indigent litigant pursuant to paragraph</p>
+            </content>
+            <paragraph eId="12-015__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1 and any
+application or request filed with the application and the submission of a
+statement of legal representation or other indication to the court that the
+person is a client of a program for legal aid pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12-015__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of
+subsection 1 do not constitute a general appearance before the court by the
+applicant or person or give the court personal jurisdiction over the applicant
+or person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12-015__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The decision of a court granting or
+denying an application to proceed as an indigent litigant filed pursuant to
+paragraph</p>
+            </content>
+            <paragraph eId="12-015__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1 is not appealable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12-015__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>As used in this section, ï¿½client of a
+program for legal aidï¿½ means a person:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="12-015__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Who is represented by an attorney who is
+employed by or volunteering for a program for legal aid organized under the
+auspices of the State Bar of Nevada, a county or local bar association, a
+county or municipal program for legal services or other program funded by this
+State or the United States to provide legal assistance to indigent persons; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12-015__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Whose eligibility for such representation is
+based upon indigency.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1209; A1989,
+201;1991,
+455;2005,
+197;2021,
+489)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_12-020">
+          <num>12.020</num>
+          <heading>Actions by married couple.</heading>
+          <subsection eId="12-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When the action is for personal
+injuries, the spouse having sustained personal injuries is a necessary party;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="12-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>When the action is for compensation for
+services rendered, the spouse having rendered the services is a necessary
+party.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 47; A1937,
+29; 1931 NCL ï¿½ 8546]—(NRS A1975,
+557;2017,
+774)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_12-030">
+          <num>12.030</num>
+          <heading>Defense of actions against married couple.</heading>
+          <content>
+            <p>If a married couple is sued together, either
+or both may defend, and if either neglects to defend, the other may defend for
+both.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 48; RL ï¿½ 4990; NCL ï¿½ 8547]—(NRS A1975,
+558;2017,
+775)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_12-040">
+          <num>12.040</num>
+          <heading>Deserted spouse as a party.</heading>
+          <content>
+            <p>When
+a spouse has deserted his or her family, the other spouse may prosecute or
+defend in his or her name any action which he or she might have prosecuted or
+defended, and shall have the same powers and rights therein as he or she might
+have.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 49; RL ï¿½ 4991; NCL ï¿½ 8548]—(NRS A2017,
+775)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_12-050">
+          <num>12.050</num>
+          <heading>Appointment of guardian ad litem.</heading>
+          <subsection eId="12-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When the infant is plaintiff, upon the
+application of the infant if the infant be of the age of 14 years, or, if under
+that age, upon the application of a relative or friend of the infant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="12-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>When the infant is defendant, upon the
+application of the infant if the infant be of the age of 14 years and apply
+within 10 days after the service of the summons, or, if under that age or if
+the infant neglect to so apply, then upon the application of a relative or
+friend of the infant, or any other party to the action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="12-050__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>When an insane or incompetent person is
+a party to an action or proceeding, upon the application of a relative or
+friend of such insane or incompetent person, or of any other party to the
+action or proceeding.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 51; RL ï¿½ 4993; NCL ï¿½ 8550]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_12-070">
+          <num>12.070</num>
+          <heading>Parent or guardian may maintain action for seduction.</heading>
+          <content>
+            <p>Either of the parents or the guardian of a
+male or female minor child under the age of 16 years may, on behalf of that
+child, bring an action for the seduction of that child, against a person 3 or
+more years older than the child. The parent or guardian, as plaintiff, need not
+show that the child was living with the parent or guardian or was in the
+service of the parent or guardian at the time of the seduction or later, or
+that the parent or guardian suffered a loss of service.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 53; A1913,
+27; NCL ï¿½ 8552]—(NRS A1979,
+1171)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_12-080">
+          <num>12.080</num>
+          <heading>Parent or guardian may maintain action for injury of minor
+child.</heading>
+          <content>
+            <p>The parents jointly, or
+either parent, without preference to either, may maintain an action for the
+injury of a minor child who has not been emancipated, if the injury is caused
+by the wrongful act or neglect of another. A guardian may maintain an action
+for the injury of his or her unemancipated ward, if the injury is caused by the
+wrongful act or neglect of another, the action by the guardian to be prosecuted
+for the benefit of the ward. Any such action may be maintained against the
+person causing the injury, or, if the person is employed by another person who
+is responsible for his or her conduct, also against that other person.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 54; A1913,
+27; NCL ï¿½ 8553]—(NRS A1960,
+321;1969,
+891;1971,
+151;1987,
+1281;2017,
+775)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_12-100">
+          <num>12.100</num>
+          <heading>Action not to abate by death of any party after verdict.</heading>
+          <content>
+            <p>After verdict shall have been rendered in any
+action for a wrong, such action shall not abate by the death of any party, but
+the case shall proceed thereafter in the same manner as in cases where the
+cause of action now survives by law.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1911 CPA ï¿½ 62; RL ï¿½ 5004; NCL ï¿½ 8561]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_12-105">
+          <num>12.105</num>
+          <heading>State and local governmental agencies may be sued without naming
+members of their governing bodies; service.</heading>
+          <content>
+            <p>Any
+political subdivision, public corporation, special district, or other agency of
+state or local government which is capable of being sued in its own name may be
+sued by naming it as the party without naming the individual members of its
+governing body in their representative capacity. In addition to any other
+method which may be provided by statute or rule of court, service may be made
+upon the clerk or secretary of the political subdivision, corporation or
+agency.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1979,
+394)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_12-107">
+          <num>12.107</num>
+          <heading>Limitation on commencement of lawsuit against manufacturer or
+distributor of firearm or ammunition or trade association related to firearms
+or ammunition; exception for breach of contract or warranty.</heading>
+          <subsection eId="12-107__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, the State of Nevada is the only governmental entity in this state
+that may commence a lawsuit against a manufacturer or distributor of a firearm
+or ammunition or a trade association related to firearms or ammunition for
+damages, abatement or injunctive relief resulting from or relating to the
+lawful design or manufacture of a firearm or ammunition or the marketing or
+sale of a firearm or ammunition to the public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="12-107__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of this section do not
+prohibit a county, city, local government or other political subdivision of
+this state or an agency thereof from commencing a lawsuit against a
+manufacturer or distributor of a firearm or ammunition for breach of contract
+or warranty concerning a firearm or ammunition purchased by the county, city,
+local government or other political subdivision of this state or agency
+thereof.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1411)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_12-110">
+          <num>12.110</num>
+          <heading>Associates may be sued by name of association; summons; judgment
+to bind joint property.</heading>
+          <content>
+            <p>When two
+or more persons, associated in any business, transact such business under a
+common name, whether it comprise the names of such persons or not, the
+associates may be sued by such common name, the summons in such cases being
+served on one or more of the associates; and the judgment in the action shall
+bind the joint property of all the associates, in the same manner as if all had
+been made defendants and had been sued upon their joint liability.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 65; RL ï¿½ 5007; NCL ï¿½ 8564]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_12-120">
+          <num>12.120</num>
+          <heading>Unknown heirs to real property may be made parties; allegations
+and proof that names and residences of heirs are unknown.</heading>
+          <subsection eId="12-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In any action in which the title to
+real property situate in this state is involved in which the heir or heirs, or
+any thereof, of a deceased person may be necessary or proper party or parties
+defendant and the name or names and place or places of residence of which heir
+or heirs are unknown to the plaintiff or plaintiffs, such heir or heirs may be
+made a party or parties defendant by being described in the complaint and
+summons as the unknown heir or heirs of such deceased person, giving the name
+and last place of residence of such deceased person, with any further
+description that may be necessary to reasonably identify the deceased person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="12-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In any such action the plaintiff or
+plaintiffs shall allege in the complaint, and prove at the trial, that diligent
+search and inquiry have been made by or in behalf of the plaintiff or
+plaintiffs to ascertain the name or names, and place or places of residence of
+such heir or heirs, without success, and that the same are and remain unknown
+to the plaintiff or plaintiffs.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 67; RL ï¿½ 5009; NCL ï¿½ 8566] + [1911 CPA ï¿½
+68; RL ï¿½ 5010; NCL ï¿½ 8567]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_12-130">
+          <num>12.130</num>
+          <heading>Intervention: Right to intervention; procedure, determination
+and costs; exception.</heading>
+          <subsection eId="12-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="12-130__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Before the trial, any person may intervene in
+an action or proceeding, who has an interest in the matter in litigation, in
+the success of either of the parties, or an interest against both.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12-130__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An intervention takes place when a third
+person is permitted to become a party to an action or proceeding between other
+persons, either by joining the plaintiff in claiming what is sought by the
+complaint, or by uniting with the defendant in resisting the claims of the
+plaintiff, or by demanding anything adversely to both the plaintiff and the
+defendant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12-130__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Intervention is made as provided by the
+Nevada Rules of Civil Procedure.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="12-130__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The court shall determine upon the
+intervention at the same time that the action is decided. If the claim of the
+party intervening is not sustained, the party intervening shall pay all costs
+incurred by the intervention.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="12-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of this section do not
+apply to intervention in an action or proceeding by the Legislature pursuant toNRS 218F.720.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1911 CPA ï¿½ 64; RL ï¿½ 5006; NCL ï¿½ 8563]—(NRS A2009,
+1566)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

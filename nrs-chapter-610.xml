@@ -1,0 +1,1765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-610"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-610"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="610"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-610/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-610/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-610/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-610/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_610">
+        <num>610</num>
+        <heading>APPRENTICESHIPS</heading>
+        <section eId="sec_610-010">
+          <num>610.010</num>
+          <heading>Definitions.</heading>
+          <subsection eId="610-010__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Agreementï¿½ means a written and signed
+agreement of indenture as an apprentice.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-010__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½Apprenticeï¿½ means a person who is
+covered by a written agreement, issued pursuant to a program with an employer,
+or with an association of employers or an organization of employees acting as
+agent for an employer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-010__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>ï¿½Councilï¿½ means the State
+Apprenticeship Council created byNRS
+610.030.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-010__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>ï¿½Disabilityï¿½ means, with respect to a
+person:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="610-010__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A physical or mental impairment that
+substantially limits one or more of the major life activities of the person;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-010__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A record of such an impairment; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-010__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Being regarded as having such an impairment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="610-010__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>ï¿½Gender identity or expressionï¿½ means a
+gender-related identity, appearance, expression or behavior of a person,
+regardless of the personï¿½s assigned sex at birth.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-010__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>ï¿½Programï¿½ means a program of training
+and instruction as an apprentice in an apprenticeable occupation, as defined in
+29 C.F.R. ï¿½ 29.4.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-010__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>ï¿½Protective hairstyleï¿½ includes,
+without limitation, hairstyles such as natural hairstyles, afros, bantu knots,
+curls, braids, locks and twists.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-010__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>ï¿½Raceï¿½ includes traits associated with
+race, including, without limitation, hair texture and protective hairstyles.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-010__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>ï¿½Sexual orientationï¿½ means having or
+being perceived as having an orientation for heterosexuality, homosexuality or
+bisexuality.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-010__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>ï¿½State Apprenticeship Directorï¿½ means
+the person appointed pursuant toNRS 610.110.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [7:192:1939; 1931 NCL ï¿½ 506.06]—(NRS A1977,
+281;1979,
+766;1987,
+442;1991,
+1021;1999,
+1935;2011,
+493;2017,
+4319;2021,
+812,1702,2789)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-020">
+          <num>610.020</num>
+          <heading>Purposes.</heading>
+          <subsection eId="610-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To open to people, without regard to
+race, color, creed, sex, sexual orientation, gender identity or expression,
+religion, disability, genetic information, national origin or age of 40 years
+or older, the opportunity to obtain training that will equip them for
+profitable employment and citizenship.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To establish, as a means to this end,
+an organized program for the voluntary training of persons under approved
+standards for apprenticeship, providing facilities for their training and
+guidance in the arts and crafts of industry and trade, with instruction in
+related and supplementary education.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>To promote opportunities for employment
+for all persons, without regard to race, color, creed, sex, sexual orientation,
+gender identity or expression, religion, disability, genetic information,
+national origin or age of 40 years or older, under conditions providing
+adequate training and reasonable earnings.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-020__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>To regulate the supply of skilled
+workers in relation to the demand for skilled workers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-020__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>To establish standards for the training
+of apprentices in approved programs.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-020__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>To establish a State Apprenticeship
+Council.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-020__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>To provide for a State Apprenticeship
+Director with the authority to carry out the purposes of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-020__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>To provide for reports to the
+Legislature and to the public regarding the status of the training of
+apprentices in the State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-020__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>To accomplish related ends.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:192:1939; 1931 NCL ï¿½ 506]—(NRS A1960,
+79;1975,
+1454;1977,
+282;1987,
+442;1991,
+1022;1999,
+1936;2011,
+494;2017,
+4319;2019,
+2396)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-030">
+          <num>610.030</num>
+          <heading>Creation; members.</heading>
+          <subsection eId="610-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The following voting members, appointed
+by the Governor upon recommendation of the Labor Commissioner:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="610-030__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Two members who represent management and
+have, or have had, a defined role in a jointly administered apprenticeship
+program, one of whom must be from northern Nevada and one of whom must be from
+southern Nevada.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-030__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Two members who represent labor and have, or
+have had, a defined role in a jointly administered apprenticeship program, one
+of whom must be from northern Nevada and one of whom must be from southern
+Nevada.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-030__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Two members, one who represents management
+and one who represents labor, who have, or have had, a defined role or job in a
+statewide, jointly administered apprenticeship program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-030__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>One member who is a representative of the
+general public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="610-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The following nonvoting members:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="610-030__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Executive Director of the Office of
+Economic Development or his or her designee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-030__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Superintendent of Public Instruction or
+his or her designee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-030__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>One representative of a community college located
+in a county whose population is 700,000 or more, appointed by the Chancellor of
+the Nevada System of Higher Education.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-030__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>One representative of a community college
+located in a county whose population is less than 700,000, appointed by the
+Chancellor of the Nevada System of Higher Education.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:192:1939; 1931 NCL ï¿½ 506.01]—(NRS A1985,
+818;1987,
+443;2005,
+1053;2017,
+508,4320;2019,
+2396;2021,
+2790)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-040">
+          <num>610.040</num>
+          <heading>Terms of office of members.</heading>
+          <subsection eId="610-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each voting member of the Council shall
+serve for a term of 3 years, so long as the member has the qualifications
+required byNRS 610.030. A member of the
+Council who no longer has the qualifications specified inNRS 610.030under which the member was
+appointed shall continue to serve on the Council until the memberï¿½s successor
+is appointed. A voting member may not serve more than four terms.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The voting members of the Council serve
+at the pleasure of the Governor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-040__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The nonvoting members of the Council
+appointed pursuant to paragraphs</p>
+            </content>
+            <paragraph eId="610-040__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-040__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of subsection 2 ofNRS 610.030serve at the pleasure of the
+Chancellor of the Nevada System of Higher Education.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:192:1939; 1931 NCL ï¿½ 506.01]—(NRS A1977,
+1245;2017,
+4320)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-050">
+          <num>610.050</num>
+          <heading>Vacancies.</heading>
+          <content>
+            <p>Any
+member appointed to fill a vacancy occurring prior to the expiration of the
+term of the memberï¿½s predecessor shall be appointed for the remainder of the
+term.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:192:1939; 1931 NCL ï¿½ 506.01]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-070">
+          <num>610.070</num>
+          <heading>Officers; bylaws; meetings; quorum.</heading>
+          <subsection eId="610-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Labor Commissioner shall select
+from the membership of the Council a Chair and Vice Chair, who shall hold
+office for 2 years. Notwithstanding the provisions ofNRS 610.030, the Chair, or the Vice Chair
+in the absence of the Chair, is not entitled to a vote except to break a tie.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Apprenticeship Director shall
+serve as the nonvoting Secretary of the Council.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-070__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Council may prescribe such bylaws
+as it deems necessary for its operation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-070__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Council shall meet at least once in
+each calendar quarter at a time and place specified by the call of the Chair,
+the State Apprenticeship Director, the Labor Commissioner or a majority of the
+members of the Council. Special meetings of the Council may be held at the call
+of the Chair, the State Apprenticeship Director, the Labor Commissioner or a
+majority of the members of the Council at such additional times as they deem
+necessary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-070__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Chair, or the Vice Chair in the
+absence of the Chair, and four voting members of the Council constitutes a
+quorum, and a quorum may exercise any power or authority conferred on the
+Council.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:192:1939; 1931 NCL ï¿½ 506.01]—(NRS A1977,
+282;1983,
+1448;1987,
+444;2017,
+4321;2019,
+2397;2021,
+2790)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-080">
+          <num>610.080</num>
+          <heading>Compensation of members and employees.</heading>
+          <subsection eId="610-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each member of the Council is entitled
+to receive a salary of not more than $80 per day, as fixed by the Council,
+while attending meetings of the Council.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>While engaged in the business of the
+Council, each member and employee of the Council is entitled to receive the per
+diem allowance and travel expenses provided for state officers and employees
+generally.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 12 1/2:192:1939; added1947,
+766; 1943 NCL ï¿½ 506.11a]—(NRS A1969,
+772;1975,
+300;1981,
+1989;1987,
+1312;1989,
+1721;2017,
+4321)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-090">
+          <num>610.090</num>
+          <heading>Duties.</heading>
+          <subsection eId="610-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Establish standards for programs and
+agreements that are not lower than those prescribed by this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon review and approval, extend
+written reciprocal recognition to multistate joint programs.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-090__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Adopt such regulations as may be necessary
+to carry out the intent and purposes of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-090__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Administer the provisions of this
+chapter as a regulatory body.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-090__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Consistent with its duties and
+obligations under this chapter, demonstrate linkages and coordination with the
+Stateï¿½s economic development strategies and workforce investment system that is
+paid for wholly or in part out of public money, as set forth in 29 C.F.R. ï¿½
+29.13.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-090__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Adopt regulations pursuant to 29 C.F.R.
+Parts 29 and 30.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-090__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Perform such other functions as may be
+necessary for the fulfillment of the intent and purposes of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:192:1939; 1931 NCL ï¿½ 506.01]—(NRS A1987,
+444;2017,
+4321)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-095">
+          <num>610.095</num>
+          <heading>Additional duties.</heading>
+          <subsection eId="610-095__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Register and approve or reject proposed
+programs and standards for apprenticeship.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-095__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>After providing notice and a hearing
+and for good cause shown, deny an application for approval of a program,
+suspend, terminate, cancel or place conditions upon any approved program, or
+place an approved program on probation for any violation of the provisions of
+this title as specified in regulations adopted by the State Apprenticeship
+Council.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+442; A2001,
+481)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-100">
+          <num>610.100</num>
+          <heading>Report to Legislature and public.</heading>
+          <content>
+            <p>The
+State Apprenticeship Director shall make a report of the activities and
+findings of the Council to the Legislature and to the public.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:192:1939; 1931 NCL ï¿½ 506.01]—(NRS A1965,
+68;2017,
+4322)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-110">
+          <num>610.110</num>
+          <heading>State Apprenticeship Director: Appointment; qualifications.</heading>
+          <subsection eId="610-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Labor Commissioner shall appoint a
+State Apprenticeship Director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Apprenticeship Director:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="610-110__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Shall report to the Labor Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-110__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is in the unclassified service of the State
+and serves at the pleasure of the Labor Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-110__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Must have responsible administrative
+experience in public or business administration or must possess broad
+management skills in areas related to the functions of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-110__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Must have the demonstrated ability to
+administer a major public agency in the field of workforce development, and
+must possess the following skills and attributes:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="610-110__subsec_2__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A comprehensive knowledge of
+administrative principles and a working knowledge of broad principles relating
+to subject matters under his or her administrative direction.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-110__subsec_2__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The administrative ability to assess
+the adequacy of agency operations and the protection of the public interest as
+related to the subject fields.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-110__subsec_2__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>An ability to organize and present
+oral and written communication to the Governor, the Legislature and other
+pertinent officials or persons.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-110__subsec_2__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>A background which demonstrates that
+he or she can impartially serve the interests of both employees and employers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="610-110__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Must not, at the time of appointment or at
+any time during his or her term of office, receive payment or compensation as
+the officer of any labor organization or have a pecuniary interest in any labor
+organization.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 3:192:1939; 1931 NCL ï¿½ 506.02]—(NRS A2017,
+4322;2021,
+2791)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-120">
+          <num>610.120</num>
+          <heading>Duties of State Apprenticeship Director.</heading>
+          <subsection eId="610-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Under the direction of the Labor
+Commissioner, the State Apprenticeship Director shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="610-120__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Administer the provisions of this chapter
+with the advice and guidance of the State Apprenticeship Council.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-120__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Keep a record of agreements and their
+dispositions.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-120__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Issue certificates of completion of
+apprenticeship at the request of the local joint apprenticeship committee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-120__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Promote apprenticeship programs through
+public engagement activities and other initiatives.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-120__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Ensure information and resources related to
+applications for new apprenticeship programs are made available to the public,
+including, without limitation, information related to technical assistance and
+requirements for applicants of new apprenticeship programs.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-120__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Establish and maintain an Internet website
+that provides information regarding apprenticeship programs to the public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-120__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Assist the Council in identifying
+opportunities for linkages and coordination with the Stateï¿½s economic
+development strategies and workforce investment system that is paid for wholly
+or in part with public money, in accordance with 29 C.F.R. ï¿½ 29.13.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-120__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Coordinate community-based outreach
+initiatives designed to promote apprenticeship opportunities among students,
+displaced workers and other persons who face barriers to entering the
+workforce.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-120__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Prepare budgets and compile annual reports to
+the Legislature and the Governor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-120__subsec_1__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>Perform other administrative duties on behalf
+of the Council.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-120__subsec_1__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>Perform such other duties as are necessary to
+carry out the intent and purposes of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="610-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The administration and supervision of
+related and supplemental instruction for apprentices, coordination of
+instruction with job experiences, and the selection and training of teachers
+and coordinators for that instruction are the responsibility of the local joint
+apprenticeship committees.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½technical
+assistanceï¿½ means guidance provided by the State Apprenticeship Director to the
+sponsor of a proposed or existing apprenticeship program for the development,
+revision, amendment or processing of standards of apprenticeship or
+apprenticeship agreements and the provision of advice to or consultation with
+such a sponsor to further compliance with the provisions of this chapter and
+any regulations adopted pursuant thereto.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [4:192:1939; 1931 NCL ï¿½ 506.03]—(NRS A1977,
+282;1987,
+444;2017,
+4322;2021,
+2791)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-140">
+          <num>610.140</num>
+          <heading>Duties of local or state joint apprenticeship committees.</heading>
+          <subsection eId="610-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A local or state apprenticeship
+committee shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="610-140__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In accordance with standards established by
+the Council, work in an advisory capacity with employers and employees in
+matters regarding schedules of operations, application of wage rates, and
+working conditions for apprentices, which conditions must specify the number of
+apprentices which may be employed locally in the trade under programs and
+agreements entered into under this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-140__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Adjust disputes concerning apprenticeships
+not otherwise provided for in bona fide collective bargaining agreements.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-140__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Within 10 days after the termination of any
+agreement, submit to the State Apprenticeship Director a written notice which
+includes the name of the apprentice and the reason for the termination.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-140__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Keep the Council informed of all actions.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="610-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The decisions of local or state joint
+apprenticeship committees are, at all times, subject to appeal to the Council.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [6:192:1939; 1931 NCL ï¿½ 506.05]—(NRS A1977,
+283;1987,
+444;2017,
+4323)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-144">
+          <num>610.144</num>
+          <heading>Requirements for program to be eligible for registration and
+approval by State Apprenticeship Council.</heading>
+          <subsection eId="610-144__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To be eligible for registration and
+approval by the Council, a proposed program must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="610-144__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be an organized, written plan embodying the
+terms and conditions of employment, training and supervision of one or more
+apprentices in an apprenticeable occupation, as defined in 29 C.F.R. ï¿½ 29.4,
+and be subscribed to by a sponsor who has undertaken to carry out the program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-144__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided in this
+paragraph, use a:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="610-144__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Time-based approach, as described in
+29 C.F.R. ï¿½ 29.5</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="610-144__subsec_1__subsec_b">
+              <num>(b)</num>
+              <subparagraph eId="610-144__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="610-144__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="610-144__subsec_1__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Competency-based approach, as
+described in 29 C.F.R. ï¿½ 29.5</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="610-144__subsec_1__subsec_b">
+              <num>(b)</num>
+              <subparagraph eId="610-144__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>(ii); or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Hybrid approach, as described in 29
+C.F.R. ï¿½ 29.5</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="610-144__subsec_1__subsec_b">
+              <num>(b)</num>
+              <subparagraph eId="610-144__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>(iii).
+ï¿½A program
+for a construction trade must use a time-based approach.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="610-144__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Contain the pledge of equal opportunity
+prescribed in 29 C.F.R. ï¿½ 30.3</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-144__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>and, when applicable:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="610-144__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A plan of affirmative action in
+accordance with 29 C.F.R. ï¿½ 30.4;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A method of selection authorized in 29
+C.F.R. ï¿½ 30.10;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>A nondiscriminatory pool for
+application as an apprentice; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Similar requirements expressed in a
+state plan for equal opportunity in employment in apprenticeships adopted
+pursuant to 29 C.F.R. Part 30 and approved by the United States Department of
+Labor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="610-144__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Provide for the development of skills that
+are intended to enable an apprentice to engage in a skilled trade generally,
+rather than for a particular employer or sponsor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-144__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Contain:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Provisions concerning the employment
+and training of the apprentice in a skilled trade;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A term of apprenticeship that:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) If the program uses a time-based
+approach, requires the completion of not less than 2,000 hours of on-the-job
+learning, consistent with training requirements as established by practice in
+the trade;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) If the program uses a
+competency-based approach, specifies the skills that must be demonstrated by an
+apprentice and addresses how on-the-job learning will be integrated into the program;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (III) If the program uses a hybrid
+approach, specifies the skills that must be acquired and the minimum number of
+hours of on-the-job learning that must be completed by an apprentice;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>An outline of the processes in which
+the apprentice will receive supervised experience and training on the job, and
+the allocation of the approximate time to be spent in each major process;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Provisions for organized, related and
+supplemental instruction in technical subjects related to the trade with a
+minimum of 144 hours for each year of apprenticeship, given in a classroom or
+through trade, industrial or correspondence courses of equivalent value or
+other forms of study approved by the Council;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>A progressively increasing, reasonable
+and profitable schedule of wages to be paid to the apprentice consistent with
+the skills acquired, not less than that allowed by federal or state law or
+regulations, by a collective bargaining agreement or by the minimum apprentice
+wage established by the Council;
+ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Provisions for a periodic review and
+evaluation of the apprenticeï¿½s progress in performance on the job and related
+instruction and the maintenance of appropriate records of such progress;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>A numeric ratio of apprentices to
+journeymen consistent with proper supervision, training, safety, continuity of
+employment and applicable provisions in collective bargaining agreements, in
+language that is specific and clear as to its application;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>A probationary period that is
+reasonable in relation to the full term of apprenticeship, with full credit
+given for that period toward the completion of the full term of apprenticeship;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>Provisions for adequate and safe
+equipment and facilities for training and supervision and for the training of
+apprentices in safety on the job and in related instruction;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>The minimum qualifications required
+by a sponsor for persons entering the program, with an eligible starting age of
+not less than 16 years;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>Provisions for the placement of an
+apprentice under a written agreement as required by this chapter, incorporating
+directly or by reference the standards of the program;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>Provisions for the granting of
+advanced standing or credit to all applicants on an equal basis for previously
+acquired experience, training or skills, with commensurate wages for each
+advanced step granted;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>Provisions for the transfer of the
+employerï¿½s training obligation when the employer is unable to fulfill his or
+her obligation under the agreement to another employer under the same or a
+similar program with the consent of the apprentice and the local joint
+apprenticeship committee or sponsor of the program;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>Provisions for the assurance of
+qualified training personnel and adequate supervision on the job;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>Provisions for the issuance of an
+appropriate certificate evidencing the successful completion of an
+apprenticeship;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>An identification of the Office of
+Labor Commissioner as the agency for registration of the program;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>Provisions for the registration of
+agreements and of modifications and amendments thereto;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>Provisions for notice to the State
+Apprenticeship Director of persons who have successfully completed the program
+and of all cancellations, suspensions and terminations of agreements and the
+causes therefor;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_19">
+                <num>(19)</num>
+                <content>
+                  <p>Provisions for the termination of an
+agreement during the probationary period by either party without cause;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_20">
+                <num>(20)</num>
+                <content>
+                  <p>A statement that the program will be
+conducted, operated and administered in conformity with the applicable provisions
+of 29 C.F.R. Part 30 or a state plan for equal opportunity in employment in
+apprenticeships adopted pursuant to 29 C.F.R. Part 30 and approved by the
+United States Department of Labor;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_21">
+                <num>(21)</num>
+                <content>
+                  <p>The name and address of the
+appropriate authority under the program to receive, process and make
+disposition of complaints; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="610-144__subsec_1__subsec_e__subsec_22">
+                <num>(22)</num>
+                <content>
+                  <p>Provisions for the recording and
+maintenance of all records concerning apprenticeships as may be required by the
+Council and applicable laws.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="610-144__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a program of apprenticeship in a
+skilled trade is proposed by an employer or association of employers for
+approval and registration by the Council and the Council has previously
+approved and registered a program for the skilled trade, the Council shall
+provide a copy of the proposed program to the sponsor of the approved and
+registered program and hold a hearing before approving or rejecting the
+application. The Council shall not approve a proposed program pursuant to this
+subsection unless the program requires the completion of at least as many hours
+of on-the-job learning or the demonstration of at least the same number and
+quality of skills, or both, as applicable, as all existing approved and
+registered programs in the relevant skilled trade.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-144__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>To determine whether a proposed program
+should be approved or rejected pursuant to subsection 2, the Council shall
+consider, in addition to the requirements in subsections 1 and 2, without
+limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="610-144__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Relevant information concerning the approved
+and registered program, including, without limitation, the standards for
+apprenticeship of the program;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-144__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Whether the sponsor of the approved and
+registered program is jointly administered by labor and management;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-144__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The provisions of any applicable collective
+bargaining agreements;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-144__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Dictionaries of occupational titles;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-144__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Opinions of experts provided by interested
+parties, including, without limitation, organized labor, licensed contractors
+and associations of contractors;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-144__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Recognized labor and management practices in
+the relevant industry;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-144__subsec_3__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Scope of work descriptions issued by the
+Labor Commissioner and the United States Department of Labor; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-144__subsec_3__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The supply of skilled workers in the trade in
+relation to the demand for skilled workers in the trade and the extent to which
+the sponsor of the approved and registered program is willing and able to
+provide apprentices to the proposed program.
+ï¿½The Council
+may condition approval of the proposed program on the payment of compensation
+to apprentices that is equal to or greater than the compensation provided by
+the approved and registered apprenticeship program.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+440; A2017,
+4324;2021,
+812,2792,2796)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-146">
+          <num>610.146</num>
+          <heading>Representation of employees and apprentices in management of
+program with more than one employer.</heading>
+          <content>
+            <p>All
+programs operated with more than one employer or an association of employers
+must include provisions sufficient to ensure meaningful and trustworthy
+representation of the interests of employees and apprentices in the management
+of the program.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+442)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-150">
+          <num>610.150</num>
+          <heading>Required contents of agreement.</heading>
+          <subsection eId="610-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The names and signatures of the
+contracting parties and the signature of a parent or legal guardian if the
+apprentice is a minor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The date of birth of the apprentice.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-150__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The name and address of the sponsor of
+the program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-150__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A statement of the trade or craft in
+which the apprentice is to be trained, and the beginning date and expected
+duration of the apprenticeship.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-150__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A statement showing the number of hours
+to be spent by the apprentice in work and the number of hours to be spent in
+related and supplemental instruction, which instruction must not be less than
+144 hours per year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-150__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A statement setting forth a schedule of
+the processes in the trade or division of industry in which the apprentice is
+to be trained and the approximate time to be spent at each process.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-150__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>A statement of the graduated scale of
+wages to be paid the apprentice and whether or not compensation is to be paid
+for the required time in school.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-150__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Statements providing:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="610-150__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For a specific period of probation during
+which the agreement may be terminated by either party to the agreement upon written
+notice to the State Apprenticeship Director; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-150__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>That after the probationary period the
+agreement may be cancelled at the request of the apprentice, or suspended,
+cancelled or terminated by the sponsor for good cause, with due notice to the
+apprentice and a reasonable opportunity for corrective action, and with written
+notice to the apprentice and the State Apprenticeship Director of the final
+action taken.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="610-150__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>A reference incorporating as part of
+the agreement the standards of the program as it exists on the date of the
+agreement and as it may be amended during the period of the agreement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-150__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>A statement that the apprentice will
+be accorded equal opportunity in all phases of employment and training as an
+apprentice without discrimination because of race, color, creed, sex, sexual
+orientation, gender identity or expression, religion, disability, genetic
+information, national origin or age of 40 years or older.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-150__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>A statement naming the Council as the
+authority designated pursuant toNRS 610.180to receive, process and dispose of controversies or differences arising out of
+the agreement when the controversies or differences cannot be adjusted locally
+or resolved in accordance with the program or collective bargaining agreements.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-150__subsec_12">
+            <num>12.</num>
+            <content>
+              <p>Such additional terms and conditions
+as are prescribed or approved by the Council not inconsistent with the
+provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [8:192:1939; 1931 NCL ï¿½ 506.07]—(NRS A1960,
+80;1975,
+1455;1977,
+283;1983,
+974;1987,
+445;1991,
+1022;1999,
+1936;2011,
+494;2017,
+4325;2019,
+2397)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-160">
+          <num>610.160</num>
+          <heading>Approval of agreement; signatures; training extending into
+majority.</heading>
+          <subsection eId="610-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>No agreement under this chapter is
+effective until it is approved by the local joint apprenticeship committee and
+the Council. A copy of the agreement must be forwarded within 10 days after
+approval by the local joint apprenticeship committee to the Council.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Every agreement must be signed by the
+employer, by an association of employers or by an organization of employees
+acting as agent for an employer, and by the apprentice. If the apprentice is a
+minor, the agreement must also be signed by:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="610-160__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Both parents, if the minor is living with
+both parents;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-160__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The custodial parent, if the minor is living
+with only one parent; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-160__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The minorï¿½s legal guardian.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="610-160__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a minor enters into an agreement
+under this chapter for a period of training extending into his or her majority,
+the agreement is likewise binding for the period covered during his or her
+majority.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [9:192:1939; 1931 NCL ï¿½ 506.08]—(NRS A1975,
+1487;1979,
+766;1987,
+446;2017,
+4326)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-170">
+          <num>610.170</num>
+          <heading>Agreement signed by association of employers or organization of
+employees.</heading>
+          <content>
+            <p>For the purpose of
+providing greater diversity of training or continuity of employment, any
+agreement made under this chapter may, at the discretion of the local joint
+apprenticeship committee, be signed by an association of employers or an
+organization of employees instead of by an individual employer. In that case
+the agreement must provide expressly that the association of employers or
+organization of employees does not assume the obligation of an employer, but agrees
+to use its best endeavors to procure employment and training for the apprentice
+with one or more employers who will accept full responsibility, as provided in
+this chapter, for all the terms and conditions of employment and training set
+forth in the agreement between the apprentice and the association of employers
+or organization of employees during the period of employment.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [10:192:1939; 1931 NCL ï¿½ 506.09]—(NRS A1987,
+447)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-175">
+          <num>610.175</num>
+          <heading>Determination of hours completed under certain educational
+training programs which may be counted towards hours required under
+apprenticeship program.</heading>
+          <content>
+            <p>The
+Council may determine the number of hours, if any, completed by a person
+pursuant to a training program for occupational, vocational, career, trade or
+technical education pursuant toNRS 622.087which may count towards the number of hours required for a program approved by
+the Council pursuant to this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+2158)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-180">
+          <num>610.180</num>
+          <heading>Violations of programs or agreements: Investigations; hearings;
+exhaustion of administrative remedies.</heading>
+          <subsection eId="610-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon the complaint of any interested
+person or upon its own initiative, the Council may investigate to determine if
+there has been a violation of the terms or conditions of an approved program or
+an agreement made under this chapter. The Council may hold necessary hearings,
+inquiries and other proceedings. The parties to each agreement and the sponsors
+and interested participants in the program shall be given a fair and impartial
+hearing, after reasonable notice. A copy of the determination or decision of
+each hearing must be filed with the State Apprenticeship Director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="610-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person shall not institute any action
+based upon:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="610-180__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An agreement;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-180__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Proposed or approved standards for
+apprenticeship; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="610-180__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A program governed by this chapter,
+ï¿½unless the
+person first exhausts all administrative remedies provided by this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [11:192:1939; 1931 NCL ï¿½ 506.10]—(NRS A1977,
+284;1987,
+447;2017,
+4326)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-185">
+          <num>610.185</num>
+          <heading>Suspension of right to participate in program if discrimination
+practiced.</heading>
+          <content>
+            <p>The State
+Apprenticeship Council shall suspend for 1 year the right of any employer,
+association of employers or organization of employees acting as agent for an
+employer to participate in a program under the provisions of this chapter if
+the Nevada Equal Rights Commission, after notice and hearing, finds that the
+employer, association or organization has discriminated against an apprentice
+because of race, color, creed, sex, sexual orientation, gender identity or
+expression, religion, disability, genetic information, national origin or age
+of 40 years or older, in violation of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1960,
+81; A1975,
+1456;1977,
+83,285;1987,
+447;1991,
+1023;1999,
+1937;2011,
+495;2019,
+2398)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-190">
+          <num>610.190</num>
+          <heading>Effect of chapter on collective bargaining agreement
+establishing higher standards.</heading>
+          <content>
+            <p>Nothing
+in this chapter or in any agreement, standard or program approved under this
+chapter invalidates any provision in any collective bargaining agreement
+between employers and employees setting up higher standards for apprenticeship.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [12:192:1939; 1931 NCL ï¿½ 506.11]—(NRS A1987,
+448)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_610-195">
+          <num>610.195</num>
+          <heading>Employerï¿½s authority to enforce statutory health and safety
+requirements notwithstanding antidiscrimination protections relating to hair
+texture and protective hairstyles.</heading>
+          <content>
+            <p>Notwithstanding
+the protections in this chapter for hair texture and protective hairstyles, an
+employer may enforce health and safety requirements set forth in federal or
+state law.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1702)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

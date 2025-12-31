@@ -1,0 +1,2383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-604D"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-604D"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="604D"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-604D/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-604D/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-604D/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-604D/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_604D">
+        <num>604D</num>
+        <heading>EARNED WAGE ACCESS SERVICES</heading>
+        <section eId="sec_604D-010">
+          <num>604D.010</num>
+          <heading>Definitions. [Effective through December 31, 2029.]</heading>
+          <content>
+            <p>As used in this chapter, unless the context
+otherwise requires, the words and terms defined inNRS 604D.020to604D.170, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2395)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-020">
+          <num>604D.020</num>
+          <heading>ï¿½Commissionerï¿½ defined. [Effective through December 31, 2029.]</heading>
+          <content>
+            <p>ï¿½Commissionerï¿½ means the Commissioner of
+Financial Institutions.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2395)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-030">
+          <num>604D.030</num>
+          <heading>ï¿½Direct-to-consumer earned wage access providerï¿½ defined.
+[Effective through December 31, 2029.]</heading>
+          <content>
+            <p>ï¿½Direct-to-consumer
+earned wage access providerï¿½ means a person who is engaged in the business of
+providing direct-to-consumer earned wage access services.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2395)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-040">
+          <num>604D.040</num>
+          <heading>ï¿½Direct-to-consumer earned wage access servicesï¿½ defined.
+[Effective through December 31, 2029.]</heading>
+          <content>
+            <p>ï¿½Direct-to-consumer
+earned wage access servicesï¿½ means the delivery to a user of an advance of
+earned but unpaid income based on data that is not employment, income or
+attendance data obtained directly from an employer or an employerï¿½s payroll
+service provider.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2395)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-050">
+          <num>604D.050</num>
+          <heading>ï¿½Earned but unpaid incomeï¿½ defined. [Effective through December
+31, 2029.]</heading>
+          <subsection eId="604D-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Earned but unpaid incomeï¿½ means
+salary, wages, compensation or other income that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-050__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A user or employer has represented, and a
+provider has reasonably determined to have been, earned or accrued to the
+benefit of the user in exchange for the userï¿½s provision of services to the
+employer or on behalf of the employer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-050__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has not been paid to the user by the employer
+at the time a provider delivers the payment of the proceeds to a user.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term includes, without limitation,
+salary, wages, compensation or other income earned:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-050__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>On an hourly, project-based, piecework or
+other basis.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-050__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Through services rendered as an independent
+contractor.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2395)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-060">
+          <num>604D.060</num>
+          <heading>ï¿½Earned wage access servicesï¿½ defined. [Effective through
+December 31, 2029.]</heading>
+          <subsection eId="604D-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Earned wage access servicesï¿½ means the
+delivery to a user of money that represents earned but unpaid income.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term includes both
+employer-integrated earned wage access services and direct-to-consumer earned
+wage access services.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2395)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-070">
+          <num>604D.070</num>
+          <heading>ï¿½Employerï¿½ defined. [Effective through December 31, 2029.]</heading>
+          <subsection eId="604D-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Employerï¿½ means:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-070__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who employs a user; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-070__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any other person who is contractually
+obligated to pay a user any earned but unpaid income.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term does not include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-070__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A customer of an employer; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-070__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any other person whose obligation to make a
+payment of salary, wages, compensation or other income to a user is not based
+on the provision of services by that user for or on behalf of such person.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2395)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-080">
+          <num>604D.080</num>
+          <heading>ï¿½Employer-integrated earned wage access providerï¿½ defined.
+[Effective through December 31, 2029.]</heading>
+          <subsection eId="604D-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Employer-integrated earned wage access
+providerï¿½ means a person who is engaged in the business of offering to provide
+or providing employer-integrated earned wage access services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term does not include payroll
+service providers, including, without limitation, payroll service providers
+whose role may include verifying the available earnings but who are not
+contractually obligated to fund earned wage access service proceeds to a user.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2395)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-090">
+          <num>604D.090</num>
+          <heading>ï¿½Employer-integrated earned wage access servicesï¿½ defined.
+[Effective through December 31, 2029.]</heading>
+          <content>
+            <p>ï¿½Employer-integrated
+earned wage access servicesï¿½ means the delivery to a user of access to earned
+but unpaid income determined based on employment, income or attendance data obtained
+directly or indirectly from an employer, including, without limitation, an
+employerï¿½s payroll service provider.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2396)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-100">
+          <num>604D.100</num>
+          <heading>ï¿½Feeï¿½ defined. [Effective through December 31, 2029.]</heading>
+          <subsection eId="604D-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Feeï¿½ includes:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-100__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A fee imposed by a provider for delivery or
+expedited delivery of proceeds to a user; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-100__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A subscription or membership fee imposed by a
+provider for a bona fide group of services that include earned wage access
+services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term does not include a voluntary
+tip, gratuity or donation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2396)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-110">
+          <num>604D.110</num>
+          <heading>ï¿½Licenseeï¿½ defined. [Effective through December 31, 2029.]</heading>
+          <subsection eId="604D-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An employer-integrated earned wage
+access provider; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A direct-to-consumer earned wage access
+service provider.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2396)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-120">
+          <num>604D.120</num>
+          <heading>ï¿½Nationwide Multistate Licensing System and Registryï¿½ and
+ï¿½Registryï¿½ defined. [Effective through December 31, 2029.]</heading>
+          <content>
+            <p>ï¿½Nationwide Multistate Licensing System and
+Registryï¿½ or ï¿½Registryï¿½ means a multistate licensing system developed by the
+Conference of State Bank Supervisors and the American Association of
+Residential Mortgage Regulators and operated by the State Regulatory Registry,
+LLC, for the licensing and registration of non-depository financial service
+entities by participating state agencies, or any successor to the Nationwide
+Multistate Licensing System and Registry.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2396)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-130">
+          <num>604D.130</num>
+          <heading>ï¿½Outstanding proceedsï¿½ defined. [Effective through December 31,
+2029.]</heading>
+          <content>
+            <p>ï¿½Outstanding proceedsï¿½
+means proceeds remitted to a user by a provider that have not yet been repaid
+to that provider.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2396)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-140">
+          <num>604D.140</num>
+          <heading>ï¿½Preauthorized electronic fund transferï¿½ defined. [Effective
+through December 31, 2029.]</heading>
+          <content>
+            <p>ï¿½Preauthorized
+electronic fund transferï¿½ has the meaning ascribed to it in 12 C.F.R. ï¿½
+1005.2(k).</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2396)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-150">
+          <num>604D.150</num>
+          <heading>ï¿½Proceedsï¿½ defined. [Effective through December 31, 2029.]</heading>
+          <content>
+            <p>ï¿½Proceedsï¿½ means a payment delivered to a user
+by a provider that is based on earned but unpaid income.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2396)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-160">
+          <num>604D.160</num>
+          <heading>ï¿½Providerï¿½ defined. [Effective through December 31, 2029.]</heading>
+          <subsection eId="604D-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Providerï¿½ means a person who is
+engaged in the business of providing earned wage access services, including a direct-to-consumer
+earned wage access provider and an employer-integrated earned wage access
+provider.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term does not include payroll
+service providers, including, without limitation, payroll service providers
+whose role may include verifying available earners but who are not
+contractually obligated to fund proceeds to a user.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2396)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-170">
+          <num>604D.170</num>
+          <heading>ï¿½Userï¿½ defined. [Effective through December 31, 2029.]</heading>
+          <content>
+            <p>ï¿½Userï¿½ means a natural person residing in this
+State who receives earned wage access services.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2396)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-180">
+          <num>604D.180</num>
+          <heading>Commissioner authorized to adopt regulations. [Effective through
+December 31, 2029.]</heading>
+          <content>
+            <p>The
+Commissioner may adopt regulations for the administration and enforcement of
+this chapter, in addition to and not inconsistent with this chapter. Such
+regulations may include, without limitation, requirements relating to the
+retention of records by a provider.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2407)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-190">
+          <num>604D.190</num>
+          <heading>Construction of chapter; resolution of conflicts. [Effective
+through December 31, 2029.]</heading>
+          <subsection eId="604D-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Nothing in this chapter shall be
+construed to cause:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-190__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any earned wage access services provided by a
+licensee in compliance with this chapter to be deemed:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="604D-190__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A loan or other form of credit;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-190__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>As violating or noncompliant with the
+laws of this State governing the sale or assignment of, or an order of, earned
+but unpaid income; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-190__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>A money transmission, or to be subject
+to any of the provisions of law governing loans or money transmitters;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="604D-190__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any licensee in compliance with this chapter
+to be deemed a creditor, lender or money transmitter; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-190__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any fee provided to a consumer by a provider
+in compliance of this chapter to be deemed an interest or finance charge.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If there is a conflict between the
+provisions of this chapter and any other statute, the provisions of this
+chapter control.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2407)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-200">
+          <num>604D.200</num>
+          <heading>License required; application; issuance; expiration; renewal;
+Commissioner to adopt regulations establishing amount of fees; license not
+transferrable or assignable; applicability. [Effective through December 31,
+2029.]</heading>
+          <subsection eId="604D-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person shall not engage in the
+business of a provider unless the person has been issued a license by the
+Commissioner pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who wishes to be licensed as a
+provider must submit to the Commissioner the application fee established
+pursuant to subsection 7, and an application, on a form prescribed by the
+Commissioner, which must contain:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-200__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The name and address of the applicant;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-200__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A copy of the proposed terms and conditions
+of use which will govern the provision of earned wage access services by the
+applicant, which must include, without limitation, a statement by the applicant
+that he or she will provide services in accordance with the applicable
+provisions of the federal Electronic Fund Transfer Act, 15 U.S.C. ï¿½ï¿½ 1693 et
+seq., and the regulations thereunder;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-200__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A copy of the policy of the applicant
+relating to the privacy of information concerning users;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-200__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A schedule of fees proposed to be charged to
+a user or employer for the provision of earned wage access services, which must
+include, without limitation, a statement identifying at least one option for a
+user to obtain earned wage access services from the applicant at no cost to the
+user;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-200__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A statement that the applicant is applying to
+be licensed as an employer-integrated earned wage access provider or a
+direct-to-consumer earned wage access provider, or both;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-200__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Financial statements of the applicant for the
+immediately preceding year that have been audited by an independent certified
+public accountant; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-200__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Any other information required by any regulations
+adopted by the Commissioner pursuant toNRS
+604D.180.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon receipt of the application for
+licensure and when satisfied that the applicant is entitled thereto, the
+Commissioner shall notify the applicant of the Commissionerï¿½s approval of the
+application and issue to the applicant a license as a provider that contains a
+unique license number. A licensee shall prominently display the license on the
+Internet website of the licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-200__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Except as otherwise provided by
+regulation of the Commissioner, a license issued pursuant to this section
+expires on December 31 of each year unless it is earlier surrendered, suspended
+or revoked.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-200__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The license may be renewed annually
+upon approval of the Commissioner if the licensee, on or after November 1 and
+on or before December 31 of each year, files an application conforming to the
+requirements for an initial application.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-200__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>An application for the annual renewal
+of the license must be accompanied by a fee of not more than $1,000. No
+investigation fee may be charged for the renewal of the license. If the
+application or fee for renewal is not filed within the required time, the
+Commissioner may reinstate the expired license if the licensee files the
+application, submits the fee for renewal and submits a fee of not more than
+$1,000 for late renewal, if applicable, on or before February 28 of the year
+following the expiration date of the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-200__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The Commissioner shall adopt
+regulations establishing the amount of fees required pursuant to this section.
+The fees for the application, initial license, and license renewal shall not
+exceed $1,000. All fees collected pursuant to this section must be deposited in
+the State Treasury pursuant to the provisions ofNRS 658.091.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-200__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>A license issued pursuant to this
+section is not transferrable or assignable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-200__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>This section does not apply to a
+depository institution in which the deposits are federally insured up to
+applicable limits.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2396)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-210">
+          <num>604D.210</num>
+          <heading>Additional requirements for licensure; grounds for refusal to
+issue license. [Effective through December 31, 2029.]</heading>
+          <subsection eId="604D-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to any other requirements
+set forth in this chapter, each applicant for licensure as a provider must
+submit:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-210__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Proof satisfactory to the Commissioner that
+the applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="604D-210__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Is competent to transact the business
+of a provider.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-210__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Has not made a false statement on the
+application for the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-210__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Has not committed any of the acts
+specified in subsection 2.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-210__subsec_1__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Has not had a license as a provider
+suspended or revoked within the 10 years immediately preceding the date of the
+application.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-210__subsec_1__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Has not been convicted of, or entered
+a plea of nolo contendere to, a felony or any crime involving fraud, misrepresentation
+or moral turpitude.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="604D-210__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the applicant is a corporation or
+association:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="604D-210__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The name and address of each of the
+directors, trustees and principals of the corporation and of any stockholder
+who owns 25 percent or more of the applicantï¿½s stock;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-210__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>If required by the Commissioner, a
+complete set of fingerprints for submission to the Federal Bureau of
+Investigation and any other governmental agency or entity authorized to receive
+such information for a state, national or international background check on the
+criminal history of the principal officers of the corporation or association,
+which must include a written statement authorizing the Division of Financial
+Institutions of the Department of Business and Industry to forward the fingerprints
+to the Central Repository for Nevada Records of Criminal History for submission
+to the Federal Bureau of Investigation for its report;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-210__subsec_1__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>If required by the Commissioner,
+information concerning the personal history and experience of the principal
+officers of the corporation or association; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-210__subsec_1__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>If required by the Commissioner,
+information related to any administrative, civil or criminal findings made by
+any governmental jurisdiction concerning the principal officers of the
+corporation or association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="604D-210__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the applicant is a natural person:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="604D-210__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Proof satisfactory to the Commissioner
+that the applicant is at least 21 years of age;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-210__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Proof satisfactory to the Commissioner
+that the applicant is a citizen of the United States or lawfully entitled to
+work in the United States; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-210__subsec_1__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>A complete set of his or her
+fingerprints and written permission authorizing the Division of Financial
+Institutions of the Department of Business and Industry to forward the
+fingerprints to the Central Repository for Nevada Records of Criminal History
+for submission to the Federal Bureau of Investigation for its report.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In addition to any other lawful
+reasons, the Commissioner may refuse to issue a license to an applicant for
+licensure as a provider if the applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-210__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Has committed or participated in any act for
+which, if committed or done by a licensee, would be grounds for the suspension
+or revocation of the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-210__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has previously been refused a license
+pursuant to this chapter or has had such a license suspended or revoked.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-210__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Has participated in any act which was a basis
+for the refusal or revocation of a license pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-210__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Has falsified any of the information
+submitted to the Commissioner in support of the application for the license.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2397)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-220">
+          <num>604D.220</num>
+          <heading>Statement concerning obligation for child support required for
+issuance or renewal of license. [Effective through the earlier of December 31,
+2029, or until the date of the repeal of 42 U.S.C. ï¿½ 666, the federal law
+requiring each state to establish procedures for withholding, suspending and
+restricting the professional, occupational and recreational licenses for child
+support arrearages and for noncompliance with certain processes relating to
+paternity or child support proceedings.]</heading>
+          <subsection eId="604D-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to the requirements set
+forth inNRS 604D.200and604D.210, a natural person who applies
+for the issuance or renewal of a license as a provider shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-220__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Include the social security number of the
+applicant in the application submitted to the Commissioner; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-220__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Submit to the Commissioner the statement
+prescribed by the Division of Welfare and Supportive Services of the Department
+of Health and Human Services pursuant toNRS
+425.520. The statement must be completed and signed by the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall include the
+statement required pursuant to paragraph</p>
+            </content>
+            <paragraph eId="604D-220__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-220__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The application or any other forms that must
+be submitted for the issuance or renewal of the license; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-220__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A separate form prescribed by the
+Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-220__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A license as a provider may not be
+issued or renewed by the Commissioner if the applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-220__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Fails to submit the statement required
+pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-220__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-220__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Indicates on the statement submitted pursuant
+to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-220__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 that the applicant is subject to a court order
+for the support of a child and is not in compliance with the order or a plan
+approved by the district attorney or other public agency enforcing the order
+for the repayment of the amount owed pursuant to the order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-220__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If an applicant indicates on the
+statement submitted pursuant to paragraph</p>
+            </content>
+            <paragraph eId="604D-220__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 that the
+applicant is subject to a court order for the support of a child and is not in
+compliance with the order or a plan approved by the district attorney or other
+public agency enforcing the order for the repayment of the amount owed pursuant
+to the order, the Commissioner shall advise the applicant to contact the
+district attorney or other public agency enforcing the order to determine the
+actions that the applicant may take to satisfy the arrearage.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2400)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-230">
+          <num>604D.230</num>
+          <heading>Suspension of license; reinstatement of license. [Effective
+through the earlier of December 31, 2029, or until the date of the repeal of 42
+U.S.C. ï¿½ 666, the federal law requiring each state to establish procedures for
+withholding, suspending and restricting the professional, occupational and recreational
+licenses for child support arrearages and for noncompliance with certain
+processes relating to paternity or child support proceedings.]</heading>
+          <subsection eId="604D-230__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Commissioner receives a copy of
+a court order issued pursuant toNRS 425.540that provides for the suspension of all professional, occupational and
+recreational licenses, certificates and permits issued to a person who is the
+holder of a license as a provider, the Commissioner shall deem the license
+issued to that person to be suspended at the end of the 30th day after the date
+on which the court order was issued unless the Commissioner receives a letter
+issued to the holder of the license by the district attorney or other public
+agency pursuant toNRS 425.550stating
+that the holder of the license has complied with the subpoena or warrant or has
+satisfied the arrearage pursuant toNRS
+425.560.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-230__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall reinstate a
+license as a provider that has been suspended by a district court pursuant toNRS 425.540if the Commissioner receives a
+letter issued by the district attorney or other public agency pursuant toNRS 425.550to the person whose license was
+suspended stating that the person whose license was suspended has complied with
+the subpoena or warrant or has satisfied the arrearage pursuant toNRS 425.560.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2401)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-240">
+          <num>604D.240</num>
+          <heading>License remains effective until expiration, surrender, revocation
+or suspension. [Effective through December 31, 2029.]</heading>
+          <content>
+            <p>Each
+license as a provider shall remain in full force and effect until it expires or
+is surrendered, revoked or suspended as provided in this chapter and the
+regulations adopted pursuant thereto.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2402)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-250">
+          <num>604D.250</num>
+          <heading>Bond: Amount; form; notice to Commissioner; replenishment;
+liability of surety. [Effective through December 31, 2029.]</heading>
+          <subsection eId="604D-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each licensee shall have in force a
+surety bond payable to the State of Nevada in the amount of $35,000.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The bond must be in a form satisfactory
+to the Commissioner, issued by a bonding company authorized to do business in
+this State and must secure the faithful performance of the obligations of the
+licensee respecting the provision of earned wage access services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-250__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A licensee shall, within 10 days after
+the commencement of any action or notice of entry of any judgment against the
+licensee by any creditor or claimant arising out of the business of a provider
+of earned wage access services in this State, give notice thereof to the
+Commissioner by registered or certified mail with details sufficient to identify
+the action or judgment. The surety shall, within 10 days after it pays any
+claim or judgment to a creditor or claimant, give notice thereof to the
+Commissioner by certified mail with details sufficient to identify the creditor
+or claimant and the claim or judgment so paid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-250__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Whenever the principal sum of the bond
+is reduced by recoveries or payments thereon, the licensee shall furnish:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-250__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A new or additional bond so that the total or
+aggregate principal sum of the bonds equals the sum required pursuant to
+subsection 1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-250__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An endorsement, duly executed by the surety,
+reinstating the bond to the required principal sum.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-250__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The liability of the surety on a bond
+to a creditor or claimant is not affected by any misrepresentation, breach of
+warranty, failure to pay a premium or other act or omission of the licensee, or
+by any insolvency or bankruptcy of the licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-250__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The liability of the surety continues
+as to all transactions entered into in good faith by the creditors and
+claimants with the agents of the licensee within 30 days after:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-250__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The death of the licensee or the dissolution
+or liquidation of the business of the licensee; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-250__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The termination of the bond,
+ï¿½whichever
+occurs first.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2401)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-260">
+          <num>604D.260</num>
+          <heading>Certain changes of licensee prohibited without prior approval of
+Commissioner; notice of proposed change to Commissioner; approval of
+Commissioner. [Effective through December 31, 2029.]</heading>
+          <subsection eId="604D-260__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A licensee shall not make any of the
+following changes unless the licensee has obtained the prior approval of the
+Commissioner in accordance with the provisions of this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-260__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A change in the ownership of 25 percent or
+more of the capital stock or other equivalent ownership interest of the
+licensee;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-260__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A change in control of the licensee;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-260__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A change in the name of the licensee,
+including the name under which the licensee is doing business; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-260__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A change in the principal business address of
+the licensee or in the address of any office of the licensee in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-260__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A licensee who wishes to make any
+change described in subsection 1 must, not less than 10 business days before
+the date on which the change is to occur, submit a notice to the Commissioner.
+Such notice must include any information that the Commissioner may require.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-260__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon receipt of a notice submitted
+pursuant to subsection 2, the Commissioner shall approve or disapprove the
+proposed change. The Commissioner may disapprove a proposed change if, in the
+reasonable judgment of the Commissioner, the proposed change is inconsistent
+with the requirements of this chapter. If the Commissioner does not respond to
+a licensee who submits a notice pursuant to subsection 2, including, without
+limitation, any request by the Commissioner for additional information from the
+licensee, within 10 business days of the date on which the notice was
+submitted, the proposed change shall be deemed approved.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-260__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½controlï¿½
+means the possession, directly or indirectly, of the power to direct or cause
+the direction of the management and policy of the licensee.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2404)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-270">
+          <num>604D.270</num>
+          <heading>Change in principal officers or directors of licensee.
+[Effective through December 31, 2029.]</heading>
+          <content>
+            <p>In
+addition to the notice requirements set forth inNRS 604D.260, a licensee must, before
+making a change in the principal officers or directors of a licensee, submit a
+notice to the Commissioner within a time period prescribed by the Commissioner.
+If the submission of such a notice is not possible before the change due to the
+unilateral resignation of a principal officer or director or other similar
+circumstance, the licensee must submit to the Commissioner a notice as promptly
+as possible after such a change. If, in the reasonable judgment of the
+Commissioner, the change in the principal officers or directors of the licensee
+is inconsistent with the requirements of this chapter, the Commissioner may
+require the licensee to take such action as the Commissioner deems necessary to
+ensure compliance with the provisions of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2405)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-300">
+          <num>604D.300</num>
+          <heading>Commissioner authorized to take action to participate in
+Registry; fingerprints; charges for use; regulations; provisions do not replace
+or affect authority of Commissioner regarding licensure.</heading>
+          <subsection eId="604D-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner may, in furtherance of
+his or her duties with respect to the issuance and renewal of licenses pursuant
+to this chapter, participate in the Nationwide Multistate Licensing System and
+Registry. The Commissioner may take any action with respect to participation in
+the Registry that the Commissioner deems necessary to carry out his or her
+duties, including, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-300__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Facilitating and participating in the
+establishment and implementation of the Registry;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-300__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Establishing relationships or contracts with
+the Registry or other entities designated by the Registry;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-300__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Authorizing the Registry to collect and
+maintain records of applicants for licenses and licensees;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-300__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Authorizing the Registry to, on behalf of the
+Commissioner, collect and process any fees associated with licensure,
+examinations, fines, assessments and any other similar fees;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-300__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Requiring an applicant for a license or a
+licensee to use the Registry to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="604D-300__subsec_1__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Apply for the issuance or renewal of a
+license;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-300__subsec_1__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Amend or surrender a license;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-300__subsec_1__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Submit any reports or the results of
+any examination that the Commissioner may require;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-300__subsec_1__subsec_e__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Pay any applicable fees; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-300__subsec_1__subsec_e__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Engage in any other activity that the
+Commissioner may require; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="604D-300__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Authorizing the Registry to, on behalf of the
+Commissioner, collect fingerprints in order to receive or conduct a background
+check on the criminal history of an applicant for a license or a licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner may require an applicant
+for a license or a licensee to submit a complete set of fingerprints when the
+Commissioner determines necessary. The Commissioner may use the services of the
+Registry to process and to submit the fingerprints to the Federal Bureau of
+Investigation, to the Central Repository for Nevada Records of Criminal
+History, to any federal or state law enforcement agency or to any other entity
+authorized to receive such information for the purpose of conducting a
+background check of the criminal history of an applicant for a license or a
+licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-300__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An applicant for a license or a
+licensee shall, in addition to any other fees associated with the license, pay
+all applicable charges to use the Registry, including, without limitation, any
+processing charges established by the administrator of the Registry.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-300__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Commissioner may adopt any
+regulations the Commissioner determines to be necessary or appropriate to carry
+out the provisions of this section. Such regulations may, without limitation,
+establish additional procedures and requirements for participation in the
+Registry.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-300__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The provisions of this section shall
+not be construed to replace or affect the authority of the Commissioner to
+grant, deny, suspend, terminate, revoke or refuse to renew a license.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2398)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-310">
+          <num>604D.310</num>
+          <heading>Additional materials required to be submitted to Registry.</heading>
+          <subsection eId="604D-310__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to any other requirements
+set forth in this chapter, each applicant for the issuance of a license
+pursuant to this chapter and each owner, officer, director and responsible
+person of the applicant, each person in control of the applicant and any other
+person the Commissioner may require in accordance with guidelines of the
+Registry or other multistate agreements shall submit to the Registry:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-310__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A complete set of fingerprints for submission
+to the Federal Bureau of Investigation and any other governmental agency or
+entity authorized to receive such information for a state, national and
+international background check on the criminal history of the person;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-310__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Information concerning the personal history,
+financial history and experience of the person in a form prescribed by the
+Registry, including, without limitation, an authorization of the person for the
+Registry and the Commissioner to obtain:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="604D-310__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>An independent credit report and
+credit score from a consumer reporting agency described in section 603</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="604D-310__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>of the
+Fair Credit Reporting Act, 15 U.S.C. ï¿½ 1681a</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-310__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>, for the purpose of evaluating
+the financial responsibility of the person at the time of the submission of the
+application; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="604D-310__subsec_1__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Additional independent credit reports
+and credit scores to confirm that the person continues to comply with any
+applicable requirements concerning financial responsibility;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="604D-310__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Information related to any administrative,
+civil or criminal findings made by any governmental jurisdiction concerning the
+person; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-310__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Any other information concerning the person
+that the Registry or the Commissioner may require.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-310__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-310__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Controlï¿½ has the meaning ascribed to it inNRS 682A.047.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-310__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Responsible personï¿½ means a person who is
+employed by an applicant and who has principal, active managerial authority
+over the provision of services in this State.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2399)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-320">
+          <num>604D.320</num>
+          <heading>Licensee to register and maintain unique identifier;
+Commissioner authorized to issue license through Registry; references to
+Commissioner deemed references to Registry.</heading>
+          <subsection eId="604D-320__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each licensee shall register with and
+maintain a valid unique identifier with the Registry.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-320__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner may issue a license
+through the Registry.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-320__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>To the extent that the Commissioner has
+delegated to the Registry any of his or her duties with respect to the issuance
+and renewal of licenses as authorized by the provisions of this chapter, any
+reference to the Commissioner in this chapter shall be deemed to be a reference
+to the Registry.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-320__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½unique
+identifierï¿½ means a number or other identifier assigned by the protocols
+established by the Registry.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2400)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-330">
+          <num>604D.330</num>
+          <heading>Commissioner to report information to Registry; confidentiality
+of information provided; Commissioner authorized to enter into certain
+agreements and arrangements. [Effective through December 31, 2029.]</heading>
+          <subsection eId="604D-330__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Subject to any limitations or restrictions
+contained in federal or state law governing the privacy or confidentiality of
+records, the Commissioner shall report regularly any violations of applicable
+laws committed by applicants for licenses or licensees, enforcement actions and
+other relevant information to the Registry.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-330__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The requirements under any federal or
+state law, including, without limitation, rules of a federal or state court,
+regarding the privacy and confidentiality of any information or material
+provided to the Registry and any privilege arising under federal or state law
+with respect to such information or material, continue to apply to such
+information or material after it has been disclosed to the Registry. Such
+information and material may be shared with federal and state regulatory
+officials with oversight authority over licensees without the loss of privilege
+or the loss of confidentiality protections provided by federal or state law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-330__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner may enter into
+agreements or sharing arrangements with other governmental agencies, the
+Conference of State Bank Supervisors, the State Regulatory Registry, LLC, or
+other associations representing governmental agencies.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2403)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-400">
+          <num>604D.400</num>
+          <heading>Duties of provider; applicability to certain payments.
+[Effective through December 31, 2029.]</heading>
+          <subsection eId="604D-400__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A provider shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-400__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Develop and implement policies and procedures
+to respond to questions raised by users and address complaints from users in an
+expedient manner;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-400__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Before entering into an agreement with a user
+for the provision of earned wage access services:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="604D-400__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Inform the user of his or her rights
+under the agreement; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-400__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Fully and clearly disclose all fees
+associated with the earned wage access services;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="604D-400__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Allow the user to cancel, at any time and
+without incurring a fee, his or her participation in an agreement for the
+provision of earned wage access services;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-400__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Comply with all local, state and federal
+privacy and information security laws;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-400__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the provider solicits, charges or receives
+a tip, gratuity or donation from a user:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="604D-400__subsec_1__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Conspicuously disclose or cause to be
+disclosed to the user that any tip, gratuity or donation paid by the user does
+not inure to the direct benefit of any specific employee of the provider or any
+other person; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-400__subsec_1__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Conspicuously provide an option for
+the user to select zero as an amount for such tip, gratuity or donation; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="604D-400__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If a provider seeks payment of outstanding
+proceeds, fees or other payments including, without limitation, voluntary tips,
+gratuities or other donations from a userï¿½s account at a depository
+institution, including through a preauthorized electronic fund transfer:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="604D-400__subsec_1__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Comply with the applicable provisions
+of the Federal Electronic Fund Transfer Act and regulations thereunder; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-400__subsec_1__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Reimburse the user for the full amount
+of any overdraft or non-sufficient funds fee imposed on a user by the userï¿½s
+depository institution that were caused by the provider attempting to seek
+payment of any outstanding proceeds, fees or other payments, including, without
+limitation, voluntary tips, gratuities or other donations on a date before, or
+in an incorrect amount from, the date or amount disclosed to the user.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-400__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The requirements set forth in
+subparagraphs (1) and (2) of paragraph</p>
+            </content>
+            <paragraph eId="604D-400__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>of subsection 1 do not apply to any
+payments of outstanding amounts or fees incurred by a user through fraudulent
+or other unlawful means.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2406)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-410">
+          <num>604D.410</num>
+          <heading>Prohibited acts by provider; certain acts not precluded.
+[Effective through December 31, 2029.]</heading>
+          <subsection eId="604D-410__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A provider shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-410__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Share with an employer any fees, voluntary
+tips, gratuities or other donations that were received from or charged to a
+user for earned wage access services;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-410__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Use a userï¿½s consumer credit report, as
+defined inNRS 686A.630, or a userï¿½s
+credit score to determine the userï¿½s eligibility for earned wage access
+services;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-410__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Charge a late fee, deferral fee, interest or
+any other penalty or charge for failure to pay outstanding proceeds, fees,
+voluntary tips, gratuities or other donations;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-410__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Report any information about the user
+regarding the inability of the provider to be repaid outstanding proceeds,
+fees, voluntary tips, gratuities or any other donations to a consumer agency or
+debt collector; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-410__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Compel or attempt to compel payment by a user
+of outstanding proceeds, fees, voluntary tips, gratuities or other donations to
+the provider through any of the following means:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="604D-410__subsec_1__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A civil action against the user in any
+court of competent jurisdiction;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-410__subsec_1__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Use of a third party to pursue
+collection from the user on the providerï¿½s behalf; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="604D-410__subsec_1__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Sale or assignment of outstanding
+amounts to a third-party collector or debt buyer for collection from the user.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-410__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The limitations set forth in paragraph</p>
+            </content>
+            <paragraph eId="604D-410__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>of subsection 1 shall not preclude the use by a provider of any of the
+foregoing methods specified in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-410__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>of subsection 1 to compel or
+attempt to compel payment of outstanding amounts or fees incurred by a user
+through fraudulent or other unlawful means, nor shall they preclude a provider
+from pursuing an employer for breach of its contractual obligations to the
+provider.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2407)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-500">
+          <num>604D.500</num>
+          <heading>Licensee to submit annual report to Commissioner; unavailability
+of audited financial statements; confidentiality of documents and information;
+annual publication by Commissioner. [Effective through December 31, 2029.]</heading>
+          <subsection eId="604D-500__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>On or before April 15 of each year, a
+licensee shall submit to the Commissioner a report containing, as applicable to
+the licensee:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-500__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided in subsection 2,
+financial statements for the immediately preceding year that have been audited
+by an independent certified public accountant;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-500__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A copy of each complaint that has been filed
+by a user who received earned wage access services in this State in the
+immediately preceding year against the licensee with the Better Business Bureau
+or the Consumer Financial Protection Bureau and a description of the resolution,
+if any, of each such complaint;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-500__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The total amount of charges paid by users for
+earned wage access services in the preceding year in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-500__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The total number of users in this State who
+did not receive earned wage access services in the immediately preceding year
+but who paid a subscription fee or membership fee imposed by a provider for a
+bona fide group of services that include earned wage access services, including
+the total amount of subscription fees and membership fees paid by those users
+in the immediately preceding year;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-500__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The total number of users in this State who
+participated in 12 or more earned wage access transfers provided by the
+licensee in the immediately preceding year; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-500__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Any other information required by the Commissioner
+pursuant to regulations adopted pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-500__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If audited financial statements are not
+available to a licensee on or before April 15 in any year, the licensee may
+satisfy the requirements of paragraph</p>
+            </content>
+            <paragraph eId="604D-500__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 1 by submitting to the
+Commissioner:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-500__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unaudited financial statements on or before
+April 15; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-500__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Audited financial statements when such
+statements become available to the licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-500__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, all documents and other information filed with the Commissioner are
+confidential and may be disclosed only as the Commissioner and the licensee
+mutually deem necessary to administer the provisions of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-500__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Commissioner shall annually publish
+and make available to the public an aggregated and anonymized analysis of the
+information submitted as required pursuant to this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2405)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-510">
+          <num>604D.510</num>
+          <heading>Annual examinations by Commissioner. [Effective through December
+31, 2029.]</heading>
+          <content>
+            <p>The Commissioner or his
+or her authorized representative may at least annually make an examination of
+the place of business of each licensee and of the transactions, books,
+accounts, papers and records of the person as they pertain to the business of a
+provider and its activities conducted pursuant to a license issued pursuant to
+this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2403)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-520">
+          <num>604D.520</num>
+          <heading>Examination of books and records by Commissioner; reasonable
+access required; presumption of engagement in business of provider requiring
+license; exception. [Effective through December 31, 2029.]</heading>
+          <subsection eId="604D-520__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>For the purpose of discovering
+violations of this chapter or securing information lawfully required under this
+chapter, the Commissioner or his or her duly authorized representative may, at
+any time, examine the books, accounts, papers and records that are used or
+created in connection with the activities covered by the license of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-520__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any licensee;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-520__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any other person engaged in the business of a
+provider or participating in such business as a principal, agent, broker or
+otherwise; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-520__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any person who the Commissioner has
+reasonable cause to believe is violating or is about to violate any provision
+of this chapter, whether or not the person claims to be within the authority or
+beyond the scope of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-520__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For the purposes of examination, the
+Commissioner or his or her authorized representative shall have and be given
+reasonable access to the offices and places of business, and the files, safes
+and vaults of such persons.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-520__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>For the purposes of this section, any
+person who advertises for, solicits or holds himself or herself out as willing
+to provide earned wage access services is presumed to be engaged in the
+business of a provider and must obtain a license from the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-520__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>This section does not entitle the
+Commissioner or his or her authorized representative to investigate the
+business or examine the books, accounts, papers or records of any attorney who
+is not a person described in subsection 1, other than examination of those
+books, accounts, papers and records maintained by such attorney in his or her
+capacity as a registered agent, and then only to the extent such books,
+accounts, papers and records are not subject to any privilege inNRS 49.035to49.115, inclusive.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2402)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-530">
+          <num>604D.530</num>
+          <heading>Investigations and hearings; required attendance and testimony
+of persons and production of documents. [Effective through December 31, 2029.]</heading>
+          <subsection eId="604D-530__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner may conduct any
+necessary investigations and hearings to determine whether any licensee or
+other person has violated any of the provisions of this chapter or whether any
+licensee has conducted himself or herself in a manner which requires the
+suspension, revocation or denial of renewal of his or her license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-530__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In conducting any investigation or
+hearing pursuant to this chapter, the Commissioner, or any person designated by
+the Commissioner, may require the attendance and testimony of any person and
+compel the production of all relevant books, records, accounts and other
+documents.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2402)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-540">
+          <num>604D.540</num>
+          <heading>Authority of Commissioner to require attendance of witnesses and
+production of books and records. [Effective through December 31, 2029.]</heading>
+          <subsection eId="604D-540__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner may require the
+attendance of any person and examine him or her under oath regarding:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-540__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any licensee; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-540__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The subject matter of any audit, examination,
+investigation or hearing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-540__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner may require the
+production of books, accounts, papers and records for any audit, examination,
+investigation or hearing.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2403)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-550">
+          <num>604D.550</num>
+          <heading>Fee for supervision, audit, examination, investigation or
+hearing; employment of certified public accountant; deposit in State Treasury.
+[Effective through December 31, 2029.]</heading>
+          <subsection eId="604D-550__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner shall charge and
+collect from each licensee a fee at the rate established and, if applicable,
+adjusted pursuant toNRS 658.101for the
+cost of any supervision, audit, examination, investigation or hearing conducted
+pursuant to this chapter or any regulations adopted pursuant thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-550__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall employ a
+certified public accountant to review and conduct independent audits and
+examinations of licensed providers. The Commissioner shall levy an assessment
+upon each licensed provider to cover all the costs related to the employment of
+the certified public accountant and the performance of the audits and
+examinations.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-550__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>All money collected by the Commissioner
+pursuant to subsections 1 and 2 must be deposited in the State Treasury
+pursuant to the provisions ofNRS 658.091.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2403)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-600">
+          <num>604D.600</num>
+          <heading>Person may file complaint alleging violation; duties of Commissioner
+when complaint is filed; verified answer by licensee; certain records relating
+to complaint or investigation deemed confidential. [Effective through December
+31, 2029.]</heading>
+          <subsection eId="604D-600__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A user, an attorney for a user or any
+other person who believes that any provision of this chapter has been violated
+may file a complaint with the Commissioner. Such a complaint must include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="604D-600__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The full name and address of the person
+filing the complaint;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-600__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A clear and concise statement of facts
+sufficient to establish that the alleged violation occurred, including, without
+limitation, the date, time and place of the alleged violation and the name of
+each person involved in the alleged violation; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="604D-600__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A certification by the person filing the
+complaint that the facts alleged in the complaint are true to the best
+knowledge and belief of the person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="604D-600__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon receipt of a complaint filed
+pursuant to subsection 1, the Commissioner shall send a copy of the complaint
+to the accused licensee. The licensee, or an authorized representative of the
+licensee, shall file a verified answer to the complaint within 10 business days
+after receipt of the complaint, unless for good cause shown, the Commissioner
+extends the time for a period of not more than 30 days. If the licensee, or an authorized
+representative of the licensee, fails to file a verified answer within the time
+required by this subsection, the licensee shall be deemed to have admitted to
+the allegations contained in the complaint.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-600__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner may make investigations
+and conduct hearings concerning complaints filed with the Commissioner pursuant
+to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-600__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, a complaint filed with the Commissioner pursuant to subsection 1, all
+documents and other information filed with the complaint and all documents,
+reports and other information resulting from the investigation of the complaint
+are confidential and may be disclosed only as the Commissioner deems necessary
+to administer the provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2404)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-610">
+          <num>604D.610</num>
+          <heading>Temporary suspension of license; notice of hearing to revoke or
+suspend license. [Effective through December 31, 2029.]</heading>
+          <subsection eId="604D-610__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Commissioner finds that probable
+cause for revocation of a license of a licensee exists and that enforcement of
+this chapter requires immediate suspension of such a license pending
+investigation, he or she may, upon 5 daysï¿½ written notice and a hearing, enter
+an order suspending the license for a period of not more than 20 days, pending
+a hearing about the revocation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-610__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Commissioner has reason to
+believe that grounds for revocation or suspension of a license exists, he or
+she shall notify the licensee not later than 20 days before the date of the
+hearing. Such notice must state the contemplated action and, in general, the
+grounds thereof and set a date for a hearing.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2403)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-620">
+          <num>604D.620</num>
+          <heading>Order to desist and refrain; action to enjoin violation;
+administrative fine. [Effective through December 31, 2029.]</heading>
+          <subsection eId="604D-620__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Whenever the Commissioner has
+reasonable cause to believe that any person is violating or is threatening to
+or intends to violate any provision of this chapter, the Commissioner may, in
+addition to all actions provided for in this chapter and without prejudice
+thereto, enter an order requiring the person to desist or to refrain from such
+violation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-620__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Attorney General or the
+Commissioner may bring an action to enjoin a person from engaging in or
+continuing a violation or from doing any act or acts in furtherance thereof. In
+any such action, an order or judgment may be entered awarding a preliminary or
+final injunction as may be deemed proper.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="604D-620__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In addition to any other remedy or
+penalty, the Commissioner may impose an administrative fine of not more than
+$50,000 upon a person who conducts any business or activity without a license
+and for which a license is required pursuant to the provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2404)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_604D-900">
+          <num>604D.900</num>
+          <heading>Applicability ofchapters 604Aand675of
+NRS. [Effective through December 31, 2029.]</heading>
+          <content>
+            <p>The
+proceeds provided to a consumer by a provider in accordance with this chapter
+shall not be subject to the provisions ofchapter
+604Aor675of NRS. A provider of the
+proceeds shall not be required to be licensed pursuant tochapters 604Aand675of NRS unless the provider is conducting business pursuant tochapter 604Aor675of NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2023,
+2408)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

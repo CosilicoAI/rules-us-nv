@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-682B"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-682B"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="682B"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-682B/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-682B/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-682B/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-682B/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_682B">
+        <num>682B</num>
+        <heading>DEPOSITS</heading>
+        <section eId="sec_682B-010">
+          <num>682B.010</num>
+          <heading>Authorized deposits.</heading>
+          <subsection eId="682B-010__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Deposits required under this Code for
+authority to transact insurance in this state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-010__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Deposits of domestic insurers when made
+pursuant to the laws of other states, provinces and countries as a requirement
+for authority to transact insurance in such state, province or country.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-010__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Deposits in such additional amounts as
+are permitted to be made underNRS
+682B.080.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1629; A1985,
+609)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-015">
+          <num>682B.015</num>
+          <heading>Additional deposit.</heading>
+          <subsection eId="682B-015__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to the deposits authorized
+byNRS 682B.010, the Commissioner may
+by regulation require as a condition of transacting the business of insurance
+in this state that a special deposit be maintained in this state by an
+authorized insurer who is subject to the provisions ofchapter 680Aof NRS or by an eligible insurer
+who is subject to the provisions ofchapter 685Aof NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-015__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A deposit pursuant to this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="682B-015__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Must be held for the sole benefit and
+protection of policyholders residing in this state and any risk that is
+resident, located or to be performed in this state that is the subject of
+insurance; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="682B-015__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is subject to the provisions ofNRS 682B.030to682B.120, inclusive.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1993,
+2386)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-020">
+          <num>682B.020</num>
+          <heading>Purpose of deposit.</heading>
+          <subsection eId="682B-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Deposits made in this state underNRS 680A.140and680A.330(retaliatory provision) shall be
+held in trust for the respective purposes stated in those sections.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A deposit made in this state by a
+domestic insurer transacting insurance in another state, province or country,
+and as required by the laws of such other state, province or country, shall be
+held for the protection of all the insurerï¿½s policyholders or all its
+policyholders and creditors or for such other purpose or purposes as may be
+specified pursuant to such laws.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Deposits required underNRS 680A.330(retaliatory provision)
+shall be held for such purposes as are required by such section, and as
+specified by the Commissionerï¿½s order requiring such deposit to be made.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1629)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-030">
+          <num>682B.030</num>
+          <heading>Securities eligible for deposit.</heading>
+          <subsection eId="682B-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>All such deposits required underNRS 680A.140for authority to transact
+insurance in this state shall consist of good interest-bearing or dividend-paying
+securities of kinds eligible for investment of the funds of domestic insurers
+underNRS chapter 682A(investments).
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All other deposits of a domestic
+insurer held in this state pursuant to the laws of another state, province or
+country shall be comprised of securities of the kinds described in subsection
+1, and of such additional kind or kinds of securities required or permitted by
+the laws of such state, province or country.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-030__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Deposits of foreign insurers made in
+this state underNRS 680A.330(retaliatory provision) shall consist of such assets as are required by the
+Commissioner pursuant to such law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-030__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Evidences of indebtedness secured by
+real property shall be eligible for deposit only if the real property securing
+such indebtedness is situated within the State of Nevada. The evidence of
+indebtedness so deposited shall be accompanied by a certificate from a duly
+authorized title insurer doing business in the county in which the real
+property is situated, showing that the indebtedness is a first lien against
+such real property, other than for real property taxes.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1629)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-040">
+          <num>682B.040</num>
+          <heading>Deposits through Commissioner required; exceptions; Account for
+the Division of Insurance; responsibilities of State.</heading>
+          <subsection eId="682B-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 682B.050and682B.055, deposits made in this state
+pursuant to this Code must be made through the Commissioner. The Account for
+the Division of Insurance is hereby created in the State Agency Fund for Bonds.
+All money received by the Commissioner must be deposited with the State
+Treasurer to the credit of the Account. All claims against the Account must be
+paid as other claims against the State are paid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State of Nevada is responsible for
+the safekeeping of all securities or other assets deposited with the State
+Treasurer through the Commissioner pursuant to this Code, and shall bear the
+costs of the depository.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1630; A1985,
+609,935;1991,
+1625,1820;1993,
+572,573,1914)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-050">
+          <num>682B.050</num>
+          <heading>Custodial arrangements.</heading>
+          <subsection eId="682B-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In lieu of a deposit made as provided
+inNRS 682B.040, the Commissioner in
+his or her discretion may, upon written request of the insurer and where of
+greater convenience to the insurer, permit such deposit to be made with and
+held by the trust department of an established bank or credit union located in
+Nevada if both the bank or credit union and the custodial arrangements are
+approved by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All such custodial arrangements shall
+comply in substance with the requirements of this Code as to like deposits
+through the Commissioner, as to amount, purposes, maintenance, replenishment,
+release and withdrawal, and as to the rights of the insurer therein.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-050__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The cost of any such custodianship
+shall be borne by the insurer. The State of Nevada shall have no responsibility
+for the safekeeping of any such deposit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-050__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Commissioner may at any time, in
+his or her discretion, terminate any such custodial arrangement and require the
+deposit represented thereby to be made as otherwise provided for underNRS 682B.010to682B.120, inclusive.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1630; A1999,
+1548)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-055">
+          <num>682B.055</num>
+          <heading>Use of securities as deposit without delivery to Commissioner.</heading>
+          <subsection eId="682B-055__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>May allow an insurer to use securities
+as a deposit or as a part of a deposit without delivering the securities to the
+Commissioner under the conditions specified in regulations adopted pursuant to
+subsection 1 ofNRS 680A.140.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-055__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Shall allow any successor organization
+to the State Industrial Insurance System that was established by section 79 of
+chapter 642,Statutes
+of Nevada 1981, at page 1449, to use the money held in trust by the
+organization pursuant toNRS 616B.042as a deposit or as a part of a deposit for authority to transact industrial
+insurance without delivering that money to the Commissioner.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+609; A1999,
+1832)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-060">
+          <num>682B.060</num>
+          <heading>Assignment, transfer and conveyance of assets; release.</heading>
+          <subsection eId="682B-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as provided inNRS 682B.055, an insurer shall assign to
+the Commissioner and the successors in office of the Commissioner in trust all
+securities being deposited with or through the Commissioner underNRS 682B.010to682B.120, inclusive, which are not
+negotiable by delivery. In lieu of such an assignment, the insurer may give the
+Commissioner an irrevocable power of attorney authorizing the Commissioner to
+transfer the securities or any part thereof for any purpose within the scope ofNRS 682B.010to682B.120, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In the case of securities or assets
+held under custodial arrangements pursuant toNRS 682B.050, the custodianï¿½s receipt
+therefor must be delivered to the Commissioner in trust, if negotiable, or
+assigned to the Commissioner so that legal title to such securities or assets
+is vested in the Commissioner and the successors in office of the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-060__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The insurer shall convey to the
+Commissioner and the successors in office of the Commissioner in trust any real
+property being deposited under this Code.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-060__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Upon release to the insurer, or other
+person entitled thereto, of any security or asset, the Commissioner shall
+reassign or transfer or reconvey it to the insurer or person. In the case of
+power of attorney given pursuant to subsection 1, the Commissioner shall
+deliver the power of attorney, together with the securities covered thereby, to
+the insurer or person entitled thereto.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1631; A1985,
+609)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-070">
+          <num>682B.070</num>
+          <heading>Appraisal.</heading>
+          <content>
+            <p>The
+Commissioner may, in his or her discretion, prior to acceptance for deposit of
+any particular asset or security, or at any time thereafter while so deposited,
+have the same appraised or valued by competent appraisers. The reasonable costs
+of any such appraisal or valuation shall be borne by the insurer.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1631)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-080">
+          <num>682B.080</num>
+          <heading>Excess deposits.</heading>
+          <subsection eId="682B-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If assets deposited by an insurer underNRS 682B.010to682B.120, inclusive, are subject to
+material fluctuations in market value, the Commissioner may, in his or her
+discretion, require the insurer to deposit and maintain on deposit additional
+assets in an amount reasonably necessary to assure that the deposit at all
+times has a market value of not less than the amount specified under the law by
+which the deposit is required.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An insurer may otherwise at its option
+deposit assets in an amount exceeding its deposit required or otherwise
+permitted under this Code by not more than 20 percent of such required or
+permitted deposit, or $20,000, whichever is the larger amount, for the purpose
+of absorbing fluctuations in the value of assets deposited and to facilitate
+exchange and substitution of such assets. During the solvency of the insurer,
+any such excess shall be released to the insurer upon its request. During the
+insolvency of the insurer, such excess deposit shall be released only as
+provided in subsection 3 ofNRS 682B.120.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1631)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-090">
+          <num>682B.090</num>
+          <heading>Rights of insurer during solvency.</heading>
+          <subsection eId="682B-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Demand, receive, sue for and recover the
+income from the assets deposited;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Exchange and substitute assets of
+equivalent or greater fair market value for the deposited assets; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-090__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>At any reasonable time inspect any such
+deposit.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1632)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-100">
+          <num>682B.100</num>
+          <heading>Levy upon deposit.</heading>
+          <content>
+            <p>No
+judgment creditor or other claimant of an insurer shall have the right to levy
+upon any of the assets or securities held in this state as a deposit for the
+protection of the insurerï¿½s policyholders or policyholders and creditors. Levy
+upon deposits made pursuant toNRS
+680A.330(retaliatory provision) shall be permitted if so provided in the
+Commissionerï¿½s order under which the deposit is required.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1632)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-110">
+          <num>682B.110</num>
+          <heading>Deficiency of deposit.</heading>
+          <content>
+            <p>If
+for any reason the market value of assets of an insurer held on deposit in this
+state falls below the amount required under this Code, the insurer shall
+promptly deposit other or additional assets eligible for deposit sufficient to
+cure the deficiency. If the insurer has failed to cure the deficiency within 20
+days after receipt of notice thereof by registered or certified mail from the
+Commissioner, the Commissioner shall forthwith revoke the insurerï¿½s certificate
+of authority.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1632)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-120">
+          <num>682B.120</num>
+          <heading>Duration and release of deposit.</heading>
+          <subsection eId="682B-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every deposit made in this state by an
+insurer pursuant to this Code shall be held as long as there is outstanding any
+liability of the insurer as to which the deposit was so required; or, if the
+deposit is required underNRS 680A.330(retaliatory provision), the deposit shall be held for so long as the basis of
+such retaliation exists.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the insurer has reinsured all its
+outstanding risks in another insurer or insurers, the Commissioner may deliver
+to such assuming insurer or its assigns, after the expiration of 1 year from
+the effective date of such reinsurance, any assets or securities deposited with
+the Commissioner under this Code by the ceding insurer upon proof satisfactory
+to the Commissioner that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="682B-120__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The assuming insurer has assumed and agreed
+to discharge all liabilities of every kind due and to become due which the
+deposit was to secure; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="682B-120__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The assuming insurer has on deposit in this
+state, or with public authority in another state, securities of quality, amount
+and value not less than the deposit required of the ceding insurer under this
+Code and which will reasonably subsist for the security of the obligations of
+the ceding insurer so assumed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="682B-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the insurer is subject to
+delinquency proceedings as defined inNRS
+696B.060, upon the order of a court of competent jurisdiction the
+Commissioner shall yield the insurerï¿½s assets held on deposit to the receiver,
+conservator, rehabilitator or liquidator of the insurer, or to any other
+properly designated officer or officers who succeed to the management and
+control of the insurerï¿½s assets.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1632)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-130">
+          <num>682B.130</num>
+          <heading>Deposit of assets in trust.</heading>
+          <subsection eId="682B-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An alien insurer may use Nevada as a
+state of entry to transact insurance in the United States of America by making
+and maintaining in this state a deposit of assets in trust with a bank, credit
+union or trust company approved by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The deposit, together with other trust
+deposits of the insurer held in the United States of America for the same
+purpose, must be in an amount not less than as required of an alien insurer
+underNRS 680A.140, deposit
+requirement in general, and must consist of United States money, public
+obligations of the government or states or political subdivisions of the United
+States of America, and obligations of corporations and institutions in the
+United States of America, all as eligible for the investment of money of
+domestic insurers underNRS 682A.400to682A.468, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-130__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Such a deposit may be referred to as
+ï¿½trusteed assets.ï¿½</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1633; A1999,
+1549;2015,
+3464)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-140">
+          <num>682B.140</num>
+          <heading>Purpose and duration.</heading>
+          <content>
+            <p>The
+deposit provided for inNRS 682B.130shall be for the benefit, security and protection of the policyholders, or
+policyholders and creditors, of the insurer in the United States of America,
+and shall be maintained as long as there is outstanding in the United States of
+America any liability of the insurer arising out of its insurance transactions
+therein.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1633)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-150">
+          <num>682B.150</num>
+          <heading>Trust agreement: Approval.</heading>
+          <subsection eId="682B-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The deposit referred to inNRS 682B.130shall be made and maintained
+under a written trust agreement between the insurer and the trustee, consistent
+with the requirements ofNRS 682B.130to682B.250, inclusive, and shall be
+authenticated in such form and manner as the Commissioner may designate or
+approve.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The agreement shall not be effective
+until filed with and approved by the Commissioner in writing. The Commissioner
+shall not approve any trust agreement found by the Commissioner not to be in
+compliance with law, or the terms of which do not in fact provide reasonably
+adequate protection for the insurerï¿½s policyholders or policyholders and
+creditors in the United States of America.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1633)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-160">
+          <num>682B.160</num>
+          <heading>Trust agreement: Amendment.</heading>
+          <content>
+            <p>A
+trust agreement may be amended, but the amendment shall not be effective until
+filed with and approved in writing by the Commissioner as being in compliance
+withNRS 682B.130to682B.250, inclusive.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1633)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-170">
+          <num>682B.170</num>
+          <heading>Withdrawal of approval.</heading>
+          <content>
+            <p>The
+Commissioner may withdraw approval of any trust agreement or of any amendment
+thereof if the Commissioner finds upon hearing, after notice thereof to the
+insurer and the trustee, that the requisites for such approval, as provided inNRS 682B.130to682B.250, inclusive, have been found by
+the Commissioner not to exist or no longer to exist.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1634)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-180">
+          <num>682B.180</num>
+          <heading>Title to assets.</heading>
+          <content>
+            <p>Title
+to the trusteed assets is vested in the trustee and its successors for the purposes
+of the trust deposit, and the trust agreement shall so provide.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1634)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-190">
+          <num>682B.190</num>
+          <heading>Assets kept separate.</heading>
+          <content>
+            <p>The
+trustee shall keep the trusteed assets separate from other assets and shall
+maintain a record thereof sufficient to identify trusteed assets at all times.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1634)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-200">
+          <num>682B.200</num>
+          <heading>Statement of trustee: Filing; disciplinary action for failure to
+file timely.</heading>
+          <subsection eId="682B-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The trustee of trusteed assets shall
+from time to time file with the Commissioner statements, in such forms as the
+Commissioner may designate and request in writing, certifying the character of
+such assets and the amounts and market value thereof.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the trustee fails to file the
+statement within a reasonable time after request therefor by the Commissioner,
+the Commissioner may suspend or revoke the certificate of authority of the
+insurer.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1634)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-210">
+          <num>682B.210</num>
+          <heading>Examination of assets.</heading>
+          <content>
+            <p>The
+Commissioner may examine trusteed assets at any time in accordance with the
+same conditions and procedures as govern examination of insurers in general
+under this Code.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1634)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-220">
+          <num>682B.220</num>
+          <heading>Withdrawal of assets.</heading>
+          <subsection eId="682B-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The trust agreement shall provide, in
+substance, that no withdrawal of trusteed assets shall be made by the insurer
+or permitted by the trustee without the written authorization or approval of
+the Commissioner in advance thereof, except as follows:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="682B-220__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any or all income, earnings, dividends or
+interest accumulations of the trusteed assets may be paid over to the United
+States manager of the insurer upon request of the insurer or the manager.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="682B-220__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For substitution, coincidentally with such
+withdrawal, of other securities or assets of value at least equal in amount to
+those being withdrawn, if:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="682B-220__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Such substituted securities or assets
+are likewise such as are eligible for deposit underNRS 682B.130;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="682B-220__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Such withdrawal is requested in
+writing by the insurerï¿½s United States manager pursuant to general or specific
+written authority previously given or delegated by the insurerï¿½s board of
+directors or other similar governing body; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="682B-220__subsec_1__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>A certified copy of such authority has
+been filed with the trustee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="682B-220__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For the purpose of making deposits required
+by law in any state in which the insurer is or thereafter becomes an authorized
+insurer, for the protection of the insurerï¿½s policyholders or policyholders and
+creditors in such state or in the United States of America, if such withdrawal
+does not reduce the insurerï¿½s deposit in this state to an amount less than the
+minimum deposit required underNRS
+680A.140. The trustee shall transfer any assets so withdrawn and in the
+amount so required to be deposited in the other state directly to the
+depositary required to receive the deposit in the other state, as certified in
+writing by the public officer having supervision of insurance in the other
+state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="682B-220__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For the purpose of transferring the trusteed
+assets to an official conservator, rehabilitator or liquidator pursuant to the
+order of a court of competent jurisdiction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="682B-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall so authorize or
+approve withdrawal of only such assets as are in excess of the amount of assets
+required to be so held in trust underNRS
+680A.140, or as may otherwise be consistent with the provisions ofNRS 682B.130to682B.250, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="682B-220__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If at any time the insurer becomes
+insolvent, or if its assets held in the United States of America are less in
+amount than the sum of its liabilities in the United States of America arising
+from its insurance transactions therein and the amount of the required deposit,
+upon determination thereof the Commissioner shall in writing order the trustee
+to suspend the right of the insurer or any other person to withdraw assets as
+authorized under paragraphs</p>
+            </content>
+            <paragraph eId="682B-220__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="682B-220__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="682B-220__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 1, and the trustee
+shall comply with such order until further order of the Commissioner.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1634)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-230">
+          <num>682B.230</num>
+          <heading>Substitution of trustee.</heading>
+          <content>
+            <p>A
+new trustee or new trustees may be substituted for the original trustee of
+trusteed assets for any proper cause. Any such substitution shall be subject to
+the Commissionerï¿½s approval.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1635)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-240">
+          <num>682B.240</num>
+          <heading>Mexican and Canadian insurers.</heading>
+          <content>
+            <p>The
+provisions ofNRS 682B.130to682B.250, inclusive, applicable to a
+United States manager shall, in the case of insurers domiciled in Mexico or
+Canada, be deemed to refer to the president, vice president, secretary,
+treasurer or other comparable officer of the insurer.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1635)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_682B-250">
+          <num>682B.250</num>
+          <heading>Applicability of other provisions.</heading>
+          <content>
+            <p>NRS 682B.070(appraisal) and682B.100(levy upon deposit) shall also
+apply to trusteed assets of an alien insurer.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1635)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

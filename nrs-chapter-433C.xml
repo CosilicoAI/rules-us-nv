@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-433C"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-433C"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="433C"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-433C/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-433C/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-433C/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-433C/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_433C">
+        <num>433C</num>
+        <heading>COMMUNITY MENTAL HEALTH</heading>
+        <section eId="sec_433C-110">
+          <num>433C.110</num>
+          <heading>Purposes of chapter.</heading>
+          <subsection eId="433C-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To encourage and provide financial
+assistance to counties in the establishment and development of mental health
+services, including services to persons with intellectual disabilities and
+persons with developmental disabilities, through locally controlled community
+mental health programs.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To promote the improvement and, if
+necessary, the expansion of already existing services which help to conserve
+the mental health of the people of Nevada. It is the intent of this chapter
+that services to individuals be rendered only upon voluntary application.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+764; A1971,
+1019;1975,
+1625;1999,
+2603;2013,
+679;2017,
+2807)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-120">
+          <num>433C.120</num>
+          <heading>Definitions.</heading>
+          <subsection eId="433C-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½County boardï¿½ means a county mental health
+advisory board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½County directorï¿½ means the director of
+a county program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>ï¿½County programï¿½ means a county
+community mental health program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-120__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>ï¿½Governing bodyï¿½ means the board of
+county commissioners.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-120__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>ï¿½Serviceï¿½ means a mental health service.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+764; A1971,
+1019;1975,
+1625)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-130">
+          <num>433C.130</num>
+          <heading>Responsibility of Department for developing and administering
+preventive and other services for mental health.</heading>
+          <subsection eId="433C-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Assisting and consulting with local
+health authorities, local governments and all law enforcement agencies in this
+State in providing community mental health services, which services may include
+prevention, rehabilitation, case finding, diagnosis and treatment of persons
+with mental illness, and consultation and education for groups and individuals
+regarding mental health.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Coordinating mental health functions
+with other state agencies.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-130__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Participating in and promoting the
+development of facilities for training personnel necessary for implementing
+such services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-130__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Collecting and disseminating
+information pertaining to mental health.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-130__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Performing such other acts as are
+necessary to promote mental health in the State.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1961,
+615; A1963,
+936;1965,
+373;1969,
+925;2013,
+3036;2015,
+1817)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-140">
+          <num>433C.140</num>
+          <heading>Administration by Division; standards and regulations governing
+county programs.</heading>
+          <content>
+            <p>The Division
+shall, subject to the supervision of the Commission, administer this chapter.
+The Commission shall adopt guidelines for county programs and regulations
+necessary thereto, but these standards and regulations must be adopted only
+after consultation with and approval of the county director of each program
+being so administered. These standards and regulations must support and
+maximize local responsibility for and control of county programs within the
+framework of general guidelines.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1018; A1973,
+1406;1975,
+1626;1985,
+2274)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-150">
+          <num>433C.150</num>
+          <heading>Power of county to establish program.</heading>
+          <content>
+            <p>The
+governing body of any county may by ordinance or resolution establish a county
+community mental health program which may cover the entire area of the county.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+764; A1971,
+1019;1975,
+1626)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-160">
+          <num>433C.160</num>
+          <heading>County mental health advisory board: Composition; terms of
+members.</heading>
+          <subsection eId="433C-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The county program shall have a county
+mental health advisory board of 7 to 15 members appointed by the governing
+body. The composition of the county board shall be representative of providers
+of mental health services, recipients or consumers of mental health services,
+agencies and occupations having a working involvement with mental health
+services and the general public, but such representation need not be in any
+fixed proportion.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term of each member of the advisory
+board shall be for 3 years, but of the members first appointed approximately
+one-third shall be appointed for a term of 1 year, one-third for a term of 2
+years and one-third for a term of 3 years.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+764; A1971,
+1019;1975,
+1626)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-170">
+          <num>433C.170</num>
+          <heading>County board: Duties.</heading>
+          <subsection eId="433C-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Review and evaluate communitiesï¿½ needs,
+services, facilities and special problems in the fields of mental health,
+intellectual disabilities and developmental disabilities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Advise the governing body as to
+programs of community mental health services and facilities and services to
+persons with intellectual disabilities and persons with developmental
+disabilities and, when requested by the governing body, make recommendation
+regarding the appointment of a county director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>After adoption of a program, continue
+to act in an advisory capacity to the county director.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+765; A1975,
+1626;1999,
+2604;2013,
+679;2017,
+2807)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-180">
+          <num>433C.180</num>
+          <heading>County director: Appointment.</heading>
+          <content>
+            <p>The
+county board, with the approval of a majority of the governing body, shall
+appoint a county director, who must be a person professionally qualified in the
+field of psychiatric mental health. The choice of appointing a physician or one
+who is not a physician rests with the county board, and in making such choice
+the county board shall consider the duties that the county director is expected
+to perform.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+765; A1971,
+1019;1975,
+1627)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-190">
+          <num>433C.190</num>
+          <heading>County director: Duties.</heading>
+          <subsection eId="433C-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Serve as chief executive officer of the
+county program and be accountable to the county board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Exercise administrative responsibility
+and authority over the county program and facilities furnished, operated or
+supported in connection therewith, and over services to persons with
+intellectual disabilities or persons with developmental disabilities, except as
+administrative responsibility is otherwise provided for in this title.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-190__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Recommend to the governing body, after
+consultation with the county board, the providing of services, establishment of
+facilities, contracting for services or facilities and other matters necessary
+or desirable to accomplish the purposes of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-190__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Submit an annual report to the
+governing body reporting all activities of the program, including a financial
+accounting of expenditures and a forecast of anticipated needs for the ensuing
+year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-190__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Carry on such studies as may be
+appropriate for the discharge of his or her duties, including the control and
+prevention of psychiatric disorders and the treatment of intellectual
+disabilities and developmental disabilities.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+765; A1971,
+1020;1975,
+1627;1999,
+2604;2013,
+679;2017,
+2807)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-200">
+          <num>433C.200</num>
+          <heading>Establishment of joint community programs by counties.</heading>
+          <content>
+            <p>The governing body of any county may by
+agreement with the governing body or bodies of any other county or counties
+establish joint community mental health programs.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+765; A1971,
+1020;1975,
+1627)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-210">
+          <num>433C.210</num>
+          <heading>Agreement for joint program: Provisions.</heading>
+          <subsection eId="433C-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any agreement between two or more
+counties for the establishment of joint county programs shall provide:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="433C-210__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>That each county shall bear its share of the
+cost of the joint county program in proportion to the population of each county
+served.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-210__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>That the county treasurer of one
+participating county shall be the custodian of moneys made available for the
+purposes of such joint program and that the county treasurer may make payments
+from such moneys upon warrant of the appropriate officer or body of the county
+for which he or she is county treasurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="433C-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any such agreement may also provide:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="433C-210__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the joint provision and operation of
+services and facilities or for the provision and operation of services and
+facilities by one participating county under contract for the other
+participating counties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-210__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For appointments of members of the board for
+the joint program by the several participating counties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-210__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>That for specified purposes officers and employees
+of such joint county programs shall be considered to be officers and employees
+of one participating county only.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-210__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For such other matters as are necessary or
+proper to effectuate the purposes of this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+765; A1971,
+1020;1975,
+1627)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-220">
+          <num>433C.220</num>
+          <heading>Provisions of chapter applicable to joint programs.</heading>
+          <content>
+            <p>Unless otherwise expressly provided or
+required by the context, the provisions of this chapter relating to county
+community mental health programs and the appointment of county boards or county
+directors shall apply to joint county programs.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+766; A1971,
+1021;1975,
+1628)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-230">
+          <num>433C.230</num>
+          <heading>Contract with hospital, clinic, laboratory or other institution.</heading>
+          <content>
+            <p>The county director may, with the approval of
+a majority of the governing body, contract for services and facilities with any
+hospital, clinic, laboratory or other similar institution.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+766; A1971,
+1021;1975,
+1628)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-240">
+          <num>433C.240</num>
+          <heading>Expenses: Charge against county.</heading>
+          <content>
+            <p>The
+expenses incurred under the provisions of this chapter shall be a charge
+against the county and shall be audited, levied, collected and paid in the same
+manner as other charges.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+766; A1971,
+1021;1975,
+1628)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-250">
+          <num>433C.250</num>
+          <heading>Legislative appropriations; payment of claims.</heading>
+          <subsection eId="433C-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Funds to carry out the provisions of
+this chapter shall be provided by direct legislative appropriation from the
+General Fund. Such funds shall be expended in accordance with the allotment,
+transfer, work program and budget provisions ofNRS 353.150to353.246, inclusive, and transfers to and
+from salary allotments, travel allotments, operating expense allotments,
+equipment allotments, and other allotments shall be allowed and made in
+accordance with the provisions ofNRS
+353.215to353.225, inclusive, and
+after separate consideration of the merits of each request.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All moneys in any fund available to the
+Division for carrying out the provisions of this chapter shall be paid out on
+claims approved by the Administrator as other claims against the State are
+paid.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1961,
+616; A1963,
+937;1965,
+374,769;1969,
+925;1971,
+1018;1975,
+1625)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-260">
+          <num>433C.260</num>
+          <heading>Reimbursement by State for expenditures by county.</heading>
+          <content>
+            <p>Expenditures made by counties for county
+programs, including services to persons with intellectual disabilities or
+persons with developmental disabilities, pursuant to this chapter must be
+reimbursed by the State pursuant toNRS
+433C.270to433C.350, inclusive.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+766; A1971,
+1021;1975,
+1628;1999,
+2604;2013,
+680;2017,
+2807)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-270">
+          <num>433C.270</num>
+          <heading>Services included in county program.</heading>
+          <subsection eId="433C-270__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A service operated within a county
+program must be directed to at least one of the following mental health areas:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="433C-270__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Mental illness;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-270__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Intellectual disabilities;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-270__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Developmental disabilities;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-270__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Organic brain and other neurological
+impairment; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-270__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Alcohol or other substance use disorders.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="433C-270__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A service is any of the following:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="433C-270__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Diagnostic service;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-270__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Emergency service;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-270__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Inpatient service;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-270__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Outpatient or partial hospitalization
+service;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-270__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Residential, sheltered or protective care
+service;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-270__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Habilitation or rehabilitation service;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-270__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Prevention, consultation, collaboration,
+education or information service; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-270__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Any other service approved by the Division.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+766; A1971,
+1021;1975,
+1628;1999,
+2604;2013,
+680;2017,
+2808)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-280">
+          <num>433C.280</num>
+          <heading>Eligibility for reimbursement: Requirements.</heading>
+          <subsection eId="433C-280__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Establish one or more of the services
+provided for inNRS 433C.270.
+In-service training necessary to providing such services shall be proper items
+of expenditures subject to state reimbursement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-280__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Annually submit to the Administrator a
+plan for proposed expenditures. The Administrator shall review such plan to
+determine compliance with standards established in this chapter and fix the
+amount subject to state reimbursement. Existing services may qualify pursuant
+to the provisions of this chapter for reimbursement upon determination by the
+county board that such services shall be subject to and administered under the
+provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+766; A1971,
+1022;1975,
+1629)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-290">
+          <num>433C.290</num>
+          <heading>Reimbursement for expenditures for certain items; investigation
+and audit of expenditures.</heading>
+          <content>
+            <p>Expenditures
+incurred for the items specified inNRS
+433C.270shall be subject to reimbursement in accordance with the
+regulations of the Division whether incurred by direct or joint operation of
+such services, by contracting for such services or by other arrangement
+pursuant to the provisions of this chapter. The Administrator may make such
+investigations and audits of such expenditures as the Administrator may deem
+necessary.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+767; A1971,
+1022;1975,
+1629)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-300">
+          <num>433C.300</num>
+          <heading>Amount of reimbursement; disbursements through Division.</heading>
+          <subsection eId="433C-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Money provided by direct legislative
+appropriation for purposes of reimbursement as provided byNRS 433C.260to433C.290, inclusive, must be allotted to
+the governing body as follows:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="433C-300__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The State shall pay to each county a sum
+equal to 90 percent of the total proposed expenditures as reflected by the plan
+of proposed expenditures submitted pursuant toNRS 433C.280if the county has complied
+with the provisions of paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-300__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-300__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Before payment under this subsection, the
+governing body of a county must submit evidence to the Administrator that 10
+percent of the total proposed expenditures have been raised and budgeted by the
+county for the establishment or maintenance of a county program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="433C-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All state and federal moneys
+appropriated or authorized for the promotion of mental health or for services
+to persons with intellectual disabilities or persons with developmental
+disabilities in the State of Nevada must be disbursed through the Division in
+accordance with the provisions of this chapter and rules and regulations
+adopted in accordance therewith.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+767; A1969,
+926;1971,
+1022;1975,
+1629;1999,
+2605;2013,
+680;2017,
+2808)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-310">
+          <num>433C.310</num>
+          <heading>Reimbursement for joint programs.</heading>
+          <content>
+            <p>Where
+counties have established joint county programs, expenditures subject to
+reimbursement are the prorated expenditures of such counties as provided by the
+agreement establishing the joint program.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+767; A1971,
+1023;1975,
+1630)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-320">
+          <num>433C.320</num>
+          <heading>Expenditures subject to reimbursement; reimbursement prohibited
+for certain expenditures.</heading>
+          <subsection eId="433C-320__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Expenditures subject to reimbursement
+include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="433C-320__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Expenditures for the items specified inNRS 433C.270;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-320__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Salaries of personnel;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-320__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Approved facilities and services provided
+through contract;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-320__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Operation, maintenance and service costs; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-320__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Such other expenditures as may be approved by
+the Administrator.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="433C-320__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Reimbursement may not be made for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="433C-320__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Expenditures for capital improvements;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-320__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The purchase or construction of buildings;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-320__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Compensation to members of a county board,
+except for actual and necessary expenses incurred in the performance of official
+duties;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-320__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Expenditures for a purpose for which state
+reimbursement is claimed under any other provision of law;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-320__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Expenditures incurred for court procedures
+under this or any other provision of law; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-320__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The cost of confinement of any person in
+excess of 90 days in any 1 calendar year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="433C-320__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Reimbursement may not be made to any
+county or counties which employ a physician in the county program who is not a
+lawful permanent resident of the United States.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+767; A1971,
+1023;1973,
+10;1975,
+1630)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-330">
+          <num>433C.330</num>
+          <heading>Claims for reimbursement.</heading>
+          <subsection eId="433C-330__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Claims for state reimbursement shall be
+made in such form, at such times, and for such periods as the Administrator
+shall determine.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-330__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>When certified by the Administrator,
+claims for state reimbursement shall be presented to the State Board of
+Examiners.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+768)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-340">
+          <num>433C.340</num>
+          <heading>Fees charged according to ability to pay; limitation.</heading>
+          <content>
+            <p>Fees for mental health services, including
+services to persons with intellectual disabilities or persons with
+developmental disabilities, rendered pursuant to an approved county plan must
+be charged in accordance with ability to pay, but not in excess of actual cost.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+768; A1975,
+1630;1999,
+2605;2013,
+681;2017,
+2808)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_433C-350">
+          <num>433C.350</num>
+          <heading>Nevada Conference of County Community Mental Health Programs:
+Establishment; organization; meetings; purposes.</heading>
+          <subsection eId="433C-350__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>There is hereby established the Nevada
+Conference of County Community Mental Health Programs. The Division shall take
+appropriate steps to effectuate the establishment of the Conference as provided
+in this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-350__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The voting membership of the Conference
+shall consist of the county director of each county program and one member of
+the county board of each county program to be chosen by such board. The
+nonvoting membership of the Conference shall consist of the Administrator and
+such other employees of the Division as the Administrator shall designate, but
+such employees shall be not less than two nor more than 15 in number.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-350__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A scheduled meeting of the Conference
+shall be convened at least once every 6 months. A nonscheduled meeting shall be
+convened upon the request of two-thirds of the voting membership. Meetings
+shall be called and chaired by the Administrator or the Administratorï¿½s
+official designee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-350__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Conference may organize itself in
+such manner and adopt such procedures as it deems appropriate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="433C-350__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The purpose of the Conference is to serve
+as an organized forum for the discussion of the following matters:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="433C-350__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Recommendations for rules of the Division to
+implement this chapter as provided inNRS
+433C.140;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-350__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Coordination and integration of county
+program services and state services; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="433C-350__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Such other matters as members may bring
+before the Conference in connection with county programs or the relationship
+between county programs and the Division.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="433C-350__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A resolution, proclamation,
+recommendation or similar pronouncement of the Conference does not have any
+legal effect.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+768; A1975,
+1631)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

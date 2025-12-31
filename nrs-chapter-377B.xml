@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-377B"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-377B"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="377B"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-377B/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-377B/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-377B/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-377B/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_377B">
+        <num>377B</num>
+        <heading>TAX FOR INFRASTRUCTURE</heading>
+        <section eId="sec_377B-010">
+          <num>377B.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 377B.020to377B.050, inclusive, have the meanings ascribed
+to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2394)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_377B-020">
+          <num>377B.020</num>
+          <heading>ï¿½Solid wasteï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Solid
+wasteï¿½ has the meaning ascribed to it inNRS
+444.490.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2394)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_377B-030">
+          <num>377B.030</num>
+          <heading>ï¿½Wastewater facilitiesï¿½ defined.</heading>
+          <subsection eId="377B-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any devices and systems used in the
+storage, treatment, control of odor, recycling and reclamation of municipal
+sewage or industrial wastes of a liquid nature, including, without limitation,
+outfall sewers, pumping, power and other equipment, and their appurtenances;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Extensions, improvements, remodeling,
+additions and alterations of any device or system described in subsection 1;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-030__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Units essential to provide a reliable
+recycled supply of water, such as standby treatment units and clear well
+facilities; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-030__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Land that is or will be an integral
+part of the treatment process or is used for the ultimate disposal of residues
+resulting from such treatment, including, without limitation, the acquisition
+and improvement of wetlands that are designed and used for the discharge of
+effluent.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2395)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_377B-040">
+          <num>377B.040</num>
+          <heading>ï¿½Water authorityï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Water
+authorityï¿½ means a water authority organized as a public agency or an entity
+created by cooperative agreement pursuant tochapter
+277of NRS whose members at the time of formation included the three
+largest retail water purveyors in the county and which is responsible for the
+acquisition, treatment and delivery of water and water resources on a wholesale
+basis to utilities, governmental agencies and entities and other large
+customers.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2395)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_377B-050">
+          <num>377B.050</num>
+          <heading>ï¿½Water facilitiesï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Water
+facilitiesï¿½ means facilities pertaining to a water system for the collection,
+transportation, treatment, purification and distribution of water, including,
+without limitation, springs, wells, ponds, lakes, water rights, other raw water
+sources, basin cribs, dams, spillways, retarding basins, detention basins,
+reservoirs, towers and other storage facilities, pumping plants, infiltration
+galleries, filtration plants, purification systems, other water treatment facilities,
+waterworks plants, pumping stations, gauging stations, ventilating facilities,
+stream gauges, rain gauges, valves, standpipes, connections, hydrants,
+conduits, flumes, sluices, canals, channels, ditches, pipes, lines, laterals,
+service pipes, force mains, submains, siphons, other water transmission and
+distribution mains, engines, boilers, pumps, meters, apparatus, tools,
+equipment, fixtures, structures, buildings and other facilities for the
+acquisition, transportation, treatment, purification and distribution of
+untreated water or potable water for domestic, commercial and industrial use
+and irrigation, or any combination thereof.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2395)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_377B-100">
+          <num>377B.100</num>
+          <heading>County ordinance imposing tax: Enactment; contents; cessation;
+periodic review of necessity for continued imposition; public hearing; plan for
+expenditure of proceeds; periodic review of plan in certain counties;
+impairment of outstanding obligations prohibited.</heading>
+          <subsection eId="377B-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board of county commissioners of
+any county may by ordinance, but not as in a case of emergency, impose a tax
+for infrastructure pursuant to this section andNRS 377B.110.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An ordinance enacted pursuant to this
+chapter may not become effective before a question concerning the imposition of
+the tax is approved by a two-thirds majority of the members of the board of
+county commissioners. Any proposal to increase the rate of the tax or change
+the previously approved uses for the proceeds of the tax must be approved by a
+two-thirds majority of the members of the board of county commissioners. The
+board of county commissioners shall not change a previously approved use for
+the proceeds of the tax to a use that is not authorized for that county
+pursuant toNRS 377B.160.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An ordinance enacted pursuant to this
+section must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="377B-100__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Specify the date on which the tax must first
+be imposed or on which an increase in the rate of the tax becomes effective,
+which must occur on the first day of the first month of the next calendar quarter
+that is at least 120 days after the date on which a two-thirds majority of the
+board of county commissioners approved the question.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-100__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In a county whose population is 700,000 or
+more, provide for the cessation of the tax not later than:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="377B-100__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The last day of the month in which the
+Department determines that the total sum collected since the tax was first
+imposed, exclusive of any penalties and interest, exceeds $2.3 billion; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="377B-100__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>June 30, 2025,
+ï¿½whichever
+occurs earlier.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="377B-100__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Notwithstanding the provisions of an
+ordinance described in subsection 3, in a county whose population is 700,000 or
+more, the tax may continue to be imposed after the date set forth in the
+ordinance for the cessation of the tax if the board of county commissioners
+determines by an affirmative vote of at least two-thirds of its members that
+the cessation of the tax is not advisable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-100__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The board of county commissioners in a
+county whose population is 700,000 or more and in which a water authority
+exists shall review the necessity for the continued imposition of the tax
+authorized pursuant to this chapter at least once every 10 years.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-100__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Before enacting an ordinance pursuant
+to this chapter, the board of county commissioners shall hold a public hearing
+regarding the imposition of a tax for infrastructure. In a county whose
+population is 700,000 or more and in which a water authority exists, the water
+authority shall also hold a public hearing regarding the tax for
+infrastructure. Notice of the time and place of each hearing must be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="377B-100__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Published in a newspaper of general
+circulation in the county at least once a week for the 2 consecutive weeks
+immediately preceding the date of the hearing. Such notice must be a display
+advertisement of not less than 3 inches by 5 inches.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-100__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Posted at the building in which the meeting
+is to be held and at not less than three other separate, prominent places
+within the county at least 2 weeks before the date of the hearing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="377B-100__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Before enacting an ordinance pursuant
+to this chapter, the board of county commissioners of a county whose population
+is less than 700,000 or a county whose population is 700,000 or more and in
+which no water authority exists, shall develop a plan for the expenditure of
+the proceeds of a tax imposed pursuant to this chapter for the purposes set
+forth inNRS 377B.160. The plan may
+include a regional project for which two or more such counties have entered
+into an interlocal agreement to expend jointly all or a portion of the proceeds
+of a tax imposed in each county pursuant to this chapter. Such a plan must include,
+without limitation, the date on which the plan expires, a description of each
+proposed project, the method of financing each project and the costs related to
+each project. Before adopting a plan pursuant to this subsection, the board of
+county commissioners of a county in which a regional planning commission has
+been established pursuant toNRS 278.0262shall transmit to the regional planning commission a list of the proposed
+projects for which a tax for infrastructure may be imposed. The regional
+planning commission shall hold a public hearing at which it shall rank each
+project in relative priority. The regional planning commission shall transmit
+its rankings to the board of county commissioners. The recommendations of the
+regional planning commission regarding the priority of the proposed projects
+are not binding on the board of county commissioners. The board of county
+commissioners shall hold at least one public hearing on the plan. Notice of the
+time and place of the hearing must be provided in the manner set forth in
+subsection 6. The plan must be approved by the board of county commissioners at
+a public hearing. Subject to the provisions of subsection 9, on or before the
+date on which a plan expires, the board of county commissioners shall determine
+whether a necessity exists for the continued imposition of the tax. If the
+board determines that such a necessity does not exist, the board shall repeal
+the ordinance that enacted the tax. If the board of county commissioners
+determines that the tax must be continued for a purpose set forth inNRS 377B.160, the board shall adopt, in
+the manner prescribed in this subsection, a new plan for the expenditure of the
+proceeds of the tax for such a purpose.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-100__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>If the plan approved pursuant to
+subsection 7 by the board of county commissioners of a county whose population
+is 100,000 or less includes the expenditure of the proceeds of a tax imposed
+pursuant to this chapter for a purpose set forth in paragraph</p>
+            </content>
+            <paragraph eId="377B-100__subsec_8__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-100__subsec_8__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>of
+subsection 3 ofNRS 377B.160, the
+board must review the plan at least once every 4 years.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="377B-100__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>No ordinance imposing a tax which is
+enacted pursuant to this chapter may be repealed or amended or otherwise
+directly or indirectly modified in such a manner as to impair any outstanding
+bonds or other obligations which are payable from or secured by a pledge of a
+tax enacted pursuant to this chapter until those bonds or other obligations
+have been discharged in full.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2395; A2003,
+2384;2005,
+1778;2011,
+1239,3323;2017,
+1043)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_377B-110">
+          <num>377B.110</num>
+          <heading>Mandatory provisions of ordinance imposing tax.</heading>
+          <subsection eId="377B-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A provision imposing a tax upon
+retailers at the rate of not more than:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="377B-110__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In a county whose population is 100,000 or
+more but less than 700,000, one-eighth of 1 percent; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-110__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In all other counties, one-quarter of 1
+percent,
+ï¿½of the gross
+receipts of any retailer from the sale of all tangible personal property sold
+at retail, or stored, used or otherwise consumed, in the county.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="377B-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Provisions substantially identical to
+those contained inchapter 374of NRS, insofar
+as applicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-110__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A provision that all amendments tochapter 374of NRS after the date of enactment of
+the ordinance, not inconsistent with this chapter, automatically become a part
+of an ordinance enacted pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-110__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A provision stating the specific
+purpose for which the proceeds of the tax must be expended.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-110__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A provision that the county shall
+contract before the effective date of the ordinance with the Department to
+perform all functions incident to the administration or operation of the tax in
+the county.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-110__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A provision that a purchaser is
+entitled to a refund, in accordance with the provisions ofNRS 374.635to374.720, inclusive, of the amount of the
+tax required to be paid that is attributable to the tax imposed upon the sale
+of, and the storage, use or other consumption in a county of, tangible personal
+property used for the performance of a written contract:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="377B-110__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Entered into on or before the effective date
+of the tax or the increase in the tax; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-110__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For the construction of an improvement to
+real property for which a binding bid was submitted before the effective date
+of the tax or the increase in the tax if the bid was afterward accepted,
+ï¿½if, under
+the terms of the contract or bid, the contract price or bid amount cannot be
+adjusted to reflect the imposition of the tax or the increase in the tax.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2397; A2003,
+2385;2005,
+1778;2011,
+1240)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_377B-120">
+          <num>377B.120</num>
+          <heading>Mandatory provision of ordinance amending ordinance imposing
+tax.</heading>
+          <content>
+            <p>An ordinance amending the
+ordinance enacted pursuant toNRS 377B.100must include a provision in substance that the county shall amend the contract
+made pursuant to subsection 5 ofNRS
+377B.110by a contract made between the county and the State acting by and
+through the Department before the effective date of the amendatory taxing
+ordinance, unless the county determines with the written concurrence of the
+Department that no such amendment of the contract is necessary or desirable.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2398)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_377B-130">
+          <num>377B.130</num>
+          <heading>Remittances to Department; deposit in Sales and Use Tax Account;
+distribution.</heading>
+          <subsection eId="377B-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>All fees, taxes, interest and penalties
+imposed and all amounts of tax required to be paid to the counties pursuant to
+this chapter must be paid to the Department in the form of remittances payable
+to the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department shall deposit the
+payments with the State Treasurer for credit to the Sales and Use Tax Account
+in the State General Fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-130__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The State Controller, acting upon the
+collection data furnished by the Department, shall monthly:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="377B-130__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Transfer from the Sales and Use Tax Account
+to the appropriate account in the State General Fund 1.75 percent of all fees,
+taxes, interest and penalties collected pursuant to this chapter during the
+preceding month as compensation to the State for the cost of collecting the
+taxes.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-130__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Determine for each county an amount of money
+equal to any fees, taxes, interest and penalties collected in or for that
+county pursuant to this chapter during the preceding month, less the amount
+transferred to the State General Fund pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-130__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-130__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Transfer the amount determined for each
+county to the Intergovernmental Fund and remit the money:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="377B-130__subsec_3__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>In each county whose population is
+700,000 or more and in which a water authority exists, to the treasurer for the
+water authority.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="377B-130__subsec_3__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>In each county whose population is
+less than 700,000 or each county whose population is 700,000 or more and in
+which no water authority exists, to the county treasurer.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2398; A2009,
+2091;2011,
+1241)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_377B-140">
+          <num>377B.140</num>
+          <heading>Redistribution by Department.</heading>
+          <subsection eId="377B-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A county whose population is less than
+700,000 or a county whose population is 700,000 or more and in which no water
+authority exists; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The water authority in a county whose
+population is 700,000 or more and in which a water authority exists,
+ï¿½that is
+entitled thereto, but no such redistribution may be made as to amounts
+originally distributed more than 6 months before the date on which the
+Department obtains knowledge of the improper distribution.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2398; A2011,
+1242)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_377B-150">
+          <num>377B.150</num>
+          <heading>Infrastructure fund: Deposit of net tax proceeds.</heading>
+          <subsection eId="377B-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In a county whose population is less
+than 700,000 or a county whose population is 700,000 or more and in which no
+water authority exists, the county treasurer shall deposit the money received
+from the State Controller pursuant toNRS
+377B.130in the county treasury for credit to a fund to be known as the
+infrastructure fund. The infrastructure fund must be accounted for as a separate
+fund and not as a part of any other fund. The money for each project included
+in the plan adopted pursuant to subsection 7 ofNRS 377B.100must be accounted for
+separately in the fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In a county whose population is 700,000
+or more and in which a water authority exists, the water authority shall
+deposit the money received from the State Controller pursuant toNRS 377B.130in a separate account of the
+water authority to be known as the infrastructure fund. This fund must be
+accounted for as a separate fund and not as part of any other fund of the water
+authority.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2398; A2011,
+1242,3325)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_377B-160">
+          <num>377B.160</num>
+          <heading>Infrastructure fund: Expenditure of principal, interest and
+income.</heading>
+          <subsection eId="377B-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In a county whose population is 700,000
+or more, must only be expended by the water authority, distributed by the water
+authority to its members, distributed by the water authority pursuant toNRS 377B.170to a city or town located in
+the county whose territory is not within the boundaries of the area served by
+the water authority or to a public entity in the county which provides water or
+wastewater services and which is not a member of the water authority or, if no
+water authority exists in the county, expended by the board of county
+commissioners for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="377B-160__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The acquisition, establishment, construction,
+improvement or equipping of water and wastewater facilities;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The payment of principal and interest on
+notes, bonds or other securities issued to provide money for the cost of
+projects described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any combination of those purposes.
+ï¿½The board of
+county commissioners may only expend money from the infrastructure fund
+pursuant to this subsection in the manner set forth in the plan adopted
+pursuant to subsection 7 ofNRS 377B.100.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="377B-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In a county whose population is 100,000
+or more but less than 700,000, must only be expended by the board of county
+commissioners in the manner set forth in the plan adopted pursuant to subsection
+7 ofNRS 377B.100for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="377B-160__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The acquisition, establishment, construction
+or expansion of:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="377B-160__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Projects for the management of
+floodplains or the prevention of floods; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="377B-160__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Facilities relating to public safety;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The payment of principal and interest on
+notes, bonds or other securities issued to provide money for the cost of
+projects described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The ongoing expenses of operation and
+maintenance of projects described in subparagraph</p>
+              </content>
+              <subparagraph eId="377B-160__subsec_2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>, if such
+projects were included in a plan adopted by the board of county commissioners
+pursuant to subsection 7 ofNRS 377B.100before January 1, 2003;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Any program to provide financial assistance
+to owners of public and private property in areas likely to be flooded in order
+to make such property resistant to flood damage that is established pursuant toNRS 244.3653; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any combination of those purposes.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="377B-160__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In a county whose population is less
+than 100,000, must only be expended by the board of county commissioners in the
+manner set forth in the plan adopted pursuant to subsection 7 ofNRS 377B.100for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="377B-160__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The acquisition, establishment, construction,
+improvement or equipping of:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="377B-160__subsec_3__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Water facilities; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="377B-160__subsec_3__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Wastewater facilities;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The acquisition, establishment, construction,
+operation, maintenance or expansion of:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="377B-160__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Projects for the management of
+floodplains or the prevention of floods; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="377B-160__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Facilities for the disposal of solid
+waste;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The construction or renovation of facilities
+for schools;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The construction or renovation of facilities
+having cultural or historical value;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Projects described in subsection 2 ofNRS 373.028;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The acquisition, establishment, construction,
+expansion, improvement or equipping of facilities relating to public safety or
+to cultural and recreational, judicial or health and welfare functions;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_3__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The ongoing expenses of operation and
+maintenance for services and supplies of facilities described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>,
+excluding salaries and benefits;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_3__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The payment of principal and interest on
+notes, bonds or other securities issued to provide money for the cost of
+projects, facilities and activities described in paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_3__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>,
+inclusive; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-160__subsec_3__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Any combination of those purposes.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2399; A2003,
+1414;2005,
+567;2007,
+611;2009,
+1432;2011,
+1242,3325;2017,
+1044)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_377B-170">
+          <num>377B.170</num>
+          <heading>Water authority in larger counties required to enter into
+interlocal agreement to provide distribution from infrastructure fund to
+certain cities, towns and other public entities.</heading>
+          <subsection eId="377B-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In a county whose population is 700,000
+or more and in which a water authority exists, the water authority shall enter
+into an interlocal agreement with a city or town located in the county whose
+territory is not within the boundaries of the area served by the water
+authority or with a public entity in the county which provides water or
+wastewater services and which is not a member of the water authority to provide
+a distribution from the infrastructure fund of the water authority to the city,
+town or public entity after the city, town or public entity has filed with the
+water authority a detailed plan for acquiring, establishing, constructing,
+improving or equipping, or any combination thereof, a water or wastewater
+facility.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Such a city, town or public entity may
+request annually from the infrastructure fund of the water authority an amount
+of the proceeds of the tax for infrastructure received annually by the water
+authority that is equal to the proportion that the assessed valuation of
+taxable property within the boundaries of the city or town or the area served
+by the public entity, except any assessed valuation attributable to the net
+proceeds of minerals, bears to the total assessed valuation of taxable property
+within the county, except any assessed valuation attributable to the net
+proceeds of minerals. If the boundaries of such a city or town overlap with the
+boundaries of a public entity in such a county which provides water or
+wastewater services and which is not a member of the water authority, the water
+authority shall apportion equally between the city or town and the public
+entity the distribution from the infrastructure fund attributable to the
+assessed valuation in the area where the boundaries overlap.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The water authority shall not
+unreasonably refuse a request from such a city, town or public entity for a
+distribution from the infrastructure fund pursuant to the provisions of this
+section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2399; A2011,
+1243;2013,
+3134)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_377B-180">
+          <num>377B.180</num>
+          <heading>Annual report of city, town or other public entity in interlocal
+agreement with water authority for distribution from infrastructure fund.</heading>
+          <subsection eId="377B-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The total distribution received by the
+city, town or public entity during the preceding fiscal year from the
+infrastructure fund pursuant toNRS
+377B.170;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each project for which the money was
+distributed; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-180__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The status of each project for which
+the money was distributed.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2401; A2011,
+1244)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_377B-190">
+          <num>377B.190</num>
+          <heading>Money for payment of cost of project for which tax was imposed:
+Issuance of bonds or other obligations; direct distribution from infrastructure
+fund; authority of board of county commissioners or water authority.</heading>
+          <subsection eId="377B-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Money for the payment of the cost of
+one or more projects for which the board of county commissioners has imposed
+all or a portion of the tax authorized pursuant to this chapter may be obtained
+by the issuance of bonds and other securities as provided in this section, or,
+subject to any pledges, liens and other contractual limitations made pursuant
+to this chapter, may be obtained by direct distribution from the infrastructure
+fund, or may be obtained both by the issuance of such securities and by such
+direct distribution as determined by the board of county commissioners or, in a
+county whose population is 700,000 or more and in which a water authority
+exists, by the water authority.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The board of county commissioners of a
+county whose population is less than 700,000 or of a county whose population is
+700,000 or more and in which no water authority exists may, after the enactment
+of an ordinance imposing a tax for infrastructure as authorized byNRS 377B.100, from time to time issue
+bonds and other securities, which are general or special obligations of the
+county and which may be secured as to principal and interest by a pledge
+authorized by this chapter of the receipts from the taxes imposed by this
+chapter. The ordinance authorizing the issuance of any bond or other security
+must describe the purpose for which it was issued.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-190__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>After the enactment of an ordinance
+imposing a tax for infrastructure by the board of county commissioners of a
+county whose population is 700,000 or more and in which a water authority
+exists, the water authority or, if so provided in an interlocal agreement to
+which the water authority is a party, one or more of the members of the water
+authority, may from time to time issue bonds and other securities, which are general
+or special obligations and which may be secured as to principal and interest by
+a pledge authorized by this chapter of the receipts from the taxes imposed by
+this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-190__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In a county whose population is 700,000
+or more, no bonds or other securities may be issued pursuant to this section
+which are payable from or secured by, in whole or in part, any revenue from a
+tax enacted pursuant to this chapter to be collected after:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="377B-190__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The last day of the month in which the
+Department determines that the total sum collected since the tax was first
+imposed, exclusive of any penalties and interest, exceeds $2.3 billion; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="377B-190__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>June 30, 2025,
+ï¿½whichever
+occurs earlier, unless the board of county commissioners pursuant to subsection
+4 ofNRS 377B.100has determined by an
+affirmative vote of at least two-thirds of its members that the cessation of
+the tax is not advisable.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2400; A2011,
+1244,3326)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_377B-200">
+          <num>377B.200</num>
+          <heading>Covenant or other provision to pledge and create lien upon tax
+proceeds, revenue generated by project or proceeds of certain securities.</heading>
+          <subsection eId="377B-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each document providing for the
+issuance of any bond or security issued pursuant to this chapter which is
+payable from the receipts of the taxes imposed by this chapter or revenue
+generated by one or more projects for which the board of county commissioners
+has imposed all or a portion of the tax authorized pursuant to this chapter,
+may, in addition to covenants and other provisions authorized in the Local
+Government Securities Law, contain a covenant or other provision to pledge and
+create a lien upon the receipts of the tax or the revenue generated by one or
+more projects for which the board of county commissioners has imposed all or a
+portion of the tax authorized pursuant to this chapter, or upon the proceeds of
+any bond or security pending their application to defray the cost of one or
+more projects for which the board of county commissioners has imposed all or a
+portion of the tax authorized pursuant to this chapter, or any combination of
+the tax proceeds, generated revenue or security proceeds, to secure the payment
+of any bond or security issued pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="377B-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any money pledged to the payment of
+bonds or other securities pursuant to subsection 1 may be treated as pledged
+revenues of the project for the purposes of subsection 3 ofNRS 350.020.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2401)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_377B-210">
+          <num>377B.210</num>
+          <heading>Department required to disregard tax in determining amount of
+security required for payment of other sales and use taxes under certain
+circumstances.</heading>
+          <content>
+            <p>If a person has not
+been habitually delinquent in the payment of any sales or use tax at any time
+within the immediately preceding 3 years, the Department shall disregard the
+amount of any tax due pursuant to this chapter when determining the amount of
+any security it may require from that person for the payment of any sales or use
+tax.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2402)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

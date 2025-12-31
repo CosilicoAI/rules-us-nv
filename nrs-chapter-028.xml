@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-28"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-28"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="28"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-28/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-28/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-28/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-28/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_28">
+        <num>28</num>
+        <heading>GENERAL PROVISIONS</heading>
+        <section eId="sec_28-010">
+          <num>28.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this title, unless the context otherwise requires, the words and terms
+defined inNRS 28.020to28.130, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 533; RL ï¿½ 5475; NCL ï¿½ 9022]—(NRS A1977,
+182;1985,
+500;1989,
+699)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_28-020">
+          <num>28.020</num>
+          <heading>ï¿½Affinityï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Affinityï¿½
+when applied to the marriage relation signifies the connection existing in
+consequence of marriage between each of the married persons and the blood
+relatives of the other.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 533; RL ï¿½ 5475; NCL ï¿½ 9022]—(NRS A1977,
+182;1985,
+500)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_28-025">
+          <num>28.025</num>
+          <heading>ï¿½Defendantï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Defendantï¿½
+includes a party against whom a counterclaim, cross-claim or third-party
+complaint is filed.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+699)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_28-030">
+          <num>28.030</num>
+          <heading>ï¿½Monthï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Monthï¿½
+means a calendar month, unless otherwise expressed.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 533; RL ï¿½ 5475; NCL ï¿½ 9022]—(NRS A1977,
+182;1985,
+500)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_28-040">
+          <num>28.040</num>
+          <heading>ï¿½Oathï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Oathï¿½
+includes affirmation or declaration.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 533; RL ï¿½ 5475; NCL ï¿½ 9022]—(NRS A1977,
+182;1985,
+500)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_28-050">
+          <num>28.050</num>
+          <heading>ï¿½Personal propertyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Personal
+propertyï¿½ includes money, goods, chattels, things in action and evidences of
+debt.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 533; RL ï¿½ 5475; NCL ï¿½ 9022]—(NRS A1977,
+182;1985,
+500)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_28-055">
+          <num>28.055</num>
+          <heading>ï¿½Plaintiffï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Plaintiffï¿½
+includes a party who files a counterclaim, cross-claim or third-party
+complaint.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+699)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_28-060">
+          <num>28.060</num>
+          <heading>ï¿½Processï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Processï¿½
+signifies a writ or summons in the course of judicial proceedings.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 533; RL ï¿½ 5475; NCL ï¿½ 9022]—(NRS A1977,
+182;1985,
+500)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_28-070">
+          <num>28.070</num>
+          <heading>ï¿½Propertyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Propertyï¿½
+includes both real and personal property.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 533; RL ï¿½ 5475; NCL ï¿½ 9022]—(NRS A1977,
+182;1985,
+500)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_28-080">
+          <num>28.080</num>
+          <heading>ï¿½Real propertyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Real
+propertyï¿½ is coextensive with lands, tenements and hereditaments.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 533; RL ï¿½ 5475; NCL ï¿½ 9022]—(NRS A1977,
+182;1985,
+500)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_28-090">
+          <num>28.090</num>
+          <heading>ï¿½Stateï¿½ defined.</heading>
+          <content>
+            <p>ï¿½State,ï¿½
+when applied to the different parts of the United States, includes the District
+of Columbia and the territories.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 533; RL ï¿½ 5475; NCL ï¿½ 9022]—(NRS A1977,
+182;1985,
+500)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_28-100">
+          <num>28.100</num>
+          <heading>ï¿½United Statesï¿½ defined.</heading>
+          <content>
+            <p>ï¿½United
+Statesï¿½ may include the District of Columbia and territories or insular
+possessions.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 533; RL ï¿½ 5475; NCL ï¿½ 9022]—(NRS A1977,
+182;1985,
+500)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_28-110">
+          <num>28.110</num>
+          <heading>ï¿½Willï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Willï¿½
+includes codicil.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 533; RL ï¿½ 5475; NCL ï¿½ 9022]—(NRS A1977,
+182;1985,
+500)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_28-120">
+          <num>28.120</num>
+          <heading>ï¿½Writï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Writï¿½
+signifies an order or precept in writing issued in the name of the State or of
+a court or judicial officer.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 533; RL ï¿½ 5475; NCL ï¿½ 9022]—(NRS A1977,
+182;1985,
+500)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_28-130">
+          <num>28.130</num>
+          <heading>ï¿½Writingï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Writingï¿½
+includes printing and typewriting.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 533; RL ï¿½ 5475; NCL ï¿½ 9022]—(NRS A1977,
+182;1985,
+500)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_28-140">
+          <num>28.140</num>
+          <heading>Interpretation.</heading>
+          <content>
+            <p>As
+used in this title, every mode of oral statement, under oath or affirmation, is
+embraced by the term ï¿½testify,ï¿½ and every written one by the term ï¿½depose.ï¿½</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 533; RL ï¿½ 5475; NCL ï¿½ 9022]—(NRS A1977,
+182;1985,
+500)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_28-150">
+          <num>28.150</num>
+          <heading>Signature by mark.</heading>
+          <content>
+            <p>As
+used in this title, signature or subscription includes mark, when the person
+cannot write, his or her name being written near it by a person who writes his
+or her own name as a witness; but when a signature is by mark it must, in order
+that it may be acknowledged or may serve as the signature to any sworn
+statement, be witnessed by two persons who must subscribe their own names as
+witnesses thereto.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 CPA ï¿½ 533; RL ï¿½ 5475; NCL ï¿½ 9022]—(NRS A1977,
+182;1985,
+500)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

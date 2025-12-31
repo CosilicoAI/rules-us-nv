@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-239A"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-239A"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="239A"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-239A/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-239A/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-239A/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-239A/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_239A">
+        <num>239A</num>
+        <heading>DISCLOSURE OF FINANCIAL</heading>
+        <section eId="sec_239A-010">
+          <num>239A.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the terms defined
+inNRS 239A.020to239A.050, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+986; A1985,
+513)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-020">
+          <num>239A.020</num>
+          <heading>ï¿½Customerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Customerï¿½
+means any person who has transacted business with or has used the services of a
+financial institution or for whom a financial institution has acted as a
+fiduciary.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+986)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-030">
+          <num>239A.030</num>
+          <heading>ï¿½Financial institutionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Financial
+institutionï¿½ means any banking corporation, trust company, savings and loan
+association, savings bank, thrift company or credit union subject to regulation
+under the laws of this state.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+986; A1983,
+122)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-040">
+          <num>239A.040</num>
+          <heading>ï¿½Financial recordsï¿½ defined.</heading>
+          <subsection eId="239A-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any original or any copy of any record
+or document held by a financial institution pertaining to a customer of the
+financial institution.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The information contained in such
+record or document.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+986)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-050">
+          <num>239A.050</num>
+          <heading>ï¿½Governmental agencyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Governmental
+agencyï¿½ means an officer, board, commission, department, division, bureau,
+district or any other unit of government, including political subdivisions, of
+this State.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+986)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-070">
+          <num>239A.070</num>
+          <heading>Inapplicability of chapter; disclosures not prohibited by
+chapter.</heading>
+          <subsection eId="239A-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Dissemination of any financial
+information which is not identified with or identifiable as being derived from
+the financial records of a particular customer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Attorney General, State Controller,
+district attorney, Department of Taxation, Director of the Department of Health
+and Human Services, Administrator of the Securities Division of the Office of
+the Secretary of State, public administrator or person employed or contracted
+with pursuant toNRS 253.125, as
+applicable, sheriff or a police department from requesting of a financial
+institution, and the institution from responding to the request, as to whether
+a person has an account or accounts with that financial institution and, if so,
+any identifying numbers of the account or accounts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-070__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A financial institution, in its
+discretion, from initiating contact with and thereafter communicating with and
+disclosing the financial records of a customer to appropriate governmental
+agencies concerning a suspected violation of any law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-070__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Disclosure of the financial records of
+a customer incidental to a transaction in the normal course of business of the
+financial institution if the director, officer, employee or agent of the
+financial institution who makes or authorizes the disclosure has no reasonable
+cause to believe that such records will be used by a governmental agency in
+connection with an investigation of the customer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-070__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A financial institution from notifying
+a customer of the receipt of a subpoena or a search warrant to obtain the
+customerï¿½s financial records, except when ordered by a court to withhold such
+notification.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-070__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The examination by or disclosure to any
+governmental regulatory agency of financial records which relate solely to the
+exercise of its regulatory function if the agency is specifically authorized by
+law to examine, audit or require reports of financial records of financial
+institutions.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-070__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The disclosure to any governmental
+agency of any financial information or records whose disclosure to that
+particular agency is required by the tax laws of this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-070__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>The disclosure of any information
+pursuant toNRS 353C.240,425.393,425.400or425.460.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-070__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>A governmental agency from obtaining a
+credit report or consumer credit report from anyone other than a financial
+institution.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+988; A1983,
+1597;1995,
+171;1997,
+2334;1999,
+231;2007,
+2397;2009,
+2564;2011,
+2598;2019,
+1548)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-075">
+          <num>239A.075</num>
+          <heading>Disclosure of balance of account to certain persons upon
+presentation of proof of death; fee.</heading>
+          <content>
+            <p>Upon
+presentation of a death certificate, affidavit of death or other proof of
+death, a financial institution shall provide the Director of the Department of
+Health and Human Services or a public administrator or a person employed or
+contracted with pursuant toNRS 253.125,
+as applicable, with a statement which sets forth the identifying number and
+account balance of any accounts on which only the name of the deceased person
+appears. A financial institution may charge a reasonable fee, not to exceed $2,
+to provide a public administrator or a person employed or contracted with
+pursuant toNRS 253.125, as applicable,
+with a statement pursuant to the provisions of this section.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1597; A2005,
+396;2007,
+2398;2019,
+1549)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-076">
+          <num>239A.076</num>
+          <heading>Disclosure of balance of encumbrance against real property to
+certain persons upon presentation of proof of death; fee.</heading>
+          <content>
+            <p>Upon presentation of a death certificate,
+affidavit of death or other proof of death, a lender, trustee or assignee of an
+encumbrance against real property shall provide the Director of the Department
+of Health and Human Services or a public administrator or a person employed or
+contracted with pursuant toNRS 253.125,
+as applicable, with a statement which sets forth the identifying number and
+account balance of any encumbrance against real property on which the name of
+the deceased person appears. A lender, trustee or assignee may charge a
+reasonable fee, not to exceed $2, to provide a public administrator or a person
+employed or contracted with pursuant toNRS
+253.125, as applicable, with a statement pursuant to the provisions of this
+section.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+992)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-077">
+          <num>239A.077</num>
+          <heading>Provision of access to safe-deposit box to certain persons upon
+presentation of proof of death; costs and expenses.</heading>
+          <content>
+            <p>Upon
+presentation of a death certificate, affidavit of death or other proof of
+death, a financial institution shall provide a public administrator or a person
+employed or contracted with pursuant toNRS
+253.125, as applicable, with access to a safe-deposit box rented in the
+sole name of the decedent, or jointly owned with a predeceased person for whom
+proof of death has been provided, for the purpose of the inspection and removal
+of any will or instructions for disposition of the remains of the decedent. The
+estate of the decedent is responsible for any costs and expenses incurred by
+drilling or forcing open a safe-deposit box.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+992)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-080">
+          <num>239A.080</num>
+          <heading>Examination and disclosure of financial records: Restrictions;
+exception.</heading>
+          <subsection eId="239A-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An officer, employee or agent of a
+governmental agency shall not request or receive the financial records of any
+customer from a financial institution unless:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="239A-080__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The request relates to a lawful investigation
+of the customer;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="239A-080__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The financial records are described in the
+request with particularity and are consistent with the scope and requirements
+of the investigation; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="239A-080__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The officer, employee or agent furnishes the
+financial institution with a customer authorization, subpoena or search warrant
+authorizing examination or disclosure of such records as provided in this
+chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="239A-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A director, officer, employee or agent
+of a financial institution shall not provide or authorize another person to
+provide to an officer, employee or agent of a governmental agency any financial
+records of a customer if the director, officer, employee or agent of the
+financial institution knows or has reason to believe that the financial records
+are being requested in connection with an investigation of the customer, unless
+the request is accompanied by a customer authorization, subpoena or search
+warrant authorizing examination or disclosure of such records as provided in
+this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-080__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>This section does not apply to any
+officer, employee or agent of the Nevada Gaming Control Board who is acting
+with the written permission of the customer whose records are being requested.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+986)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-090">
+          <num>239A.090</num>
+          <heading>Customerï¿½s authorization of disclosure of financial records;
+notice of examination; invalidity of waiver of rights or procedures.</heading>
+          <subsection eId="239A-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A customer may authorize disclosure of
+financial records pertaining to him or her by signing and dating a statement in
+which the customer:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="239A-090__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Authorizes the disclosure for a period
+specified in the statement;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="239A-090__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Specifies the name of the governmental agency
+to which disclosure is authorized and, if applicable, the statutory purpose for
+which the information is to be obtained;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="239A-090__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Identifies the financial records which are
+authorized to be disclosed; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="239A-090__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Indicates an understanding that he or she has
+the right at any time to revoke the authorization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="239A-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>No such authorization shall be required
+by a financial institution as a condition of doing business with the financial
+institution.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-090__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A governmental agency authorized by a
+customer to examine his or her financial records shall notify the customer in
+writing within 30 days after the examination that the examination took place
+and that the customer has the right to request in writing the reasons for the
+examination. The notice shall also specify the financial records which were
+examined. The agency shall give the customer the reason for the examination in
+writing within 10 days after the customer requests it.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-090__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Except as provided in this section, a
+waiver by a customer of any right or procedure under this chapter, whether oral
+or written or with or without consideration, is invalid.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+987)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-100">
+          <num>239A.100</num>
+          <heading>Subpoena to obtain financial records: Service; notice to
+customer; priority of proceeding to quash subpoena.</heading>
+          <subsection eId="239A-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as provided in subsection 2, a
+subpoena authorizing a governmental agency to obtain financial records may be
+served upon a financial institution only if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="239A-100__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A copy of the subpoena is served upon the
+customer in the manner provided by law for the service of subpoenas, except
+that the copy may be served by an employee of the governmental agency;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="239A-100__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The subpoena includes the name of the agency
+in whose name it is issued and the statutory purpose for which the information
+is to be obtained; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="239A-100__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The customer has not moved to quash the
+subpoena within 10 days after service of the copy of the subpoena upon the
+customer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="239A-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A governmental agency issuing or
+seeking a subpoena to obtain financial records may petition a court of
+competent jurisdiction to order that service upon the customer or the 10-day
+period provided in subsection 1 be waived or shortened. The court may issue the
+order upon a showing that the agency can reasonably infer from facts relevant
+to its investigation of the customer that a law subject to the agencyï¿½s
+jurisdiction has been or is about to be violated. In granting a petition to
+waive service upon the customer, the court shall also order the agency to
+notify the customer in writing within a period determined by the court, but not
+to exceed 90 days. The notice shall specify the name of the agency in whose
+name the subpoena was issued, the financial records which were examined under
+the subpoena and the statutory purpose for which the information was obtained.
+The time of notification may be extended for additional 45-day periods upon
+petition and good cause shown.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A court may order a financial
+institution to withhold notification to a customer of the receipt of the
+subpoena when the court issues an order under subsection 2 and if it finds that
+the notification would impede the investigation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-100__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a customer files a motion to quash
+the subpoena, the proceedings on the motion shall be afforded priority on the
+court calendar and the matter shall be heard within 10 days after the filing of
+the motion.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+987; A2009,
+2564)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-110">
+          <num>239A.110</num>
+          <heading>Search warrant affecting financial records: Withholding of
+notification to customer.</heading>
+          <content>
+            <p>When a
+search warrant affecting the financial records of a customer is issued, the
+magistrate may order the financial institution to withhold notification to the
+customer of receipt of the warrant upon a finding that the notification would
+impede the investigation.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+988)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-120">
+          <num>239A.120</num>
+          <heading>Release of financial records by one agency to another.</heading>
+          <content>
+            <p>A governmental agency shall not provide
+financial records obtained under this chapter to any other governmental agency
+unless that other agency has independently obtained authorization to receive
+such financial records in accordance with the provisions of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+988)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-130">
+          <num>239A.130</num>
+          <heading>Determination by financial institution of compliance with
+chapter; limitation on liability of financial institution.</heading>
+          <subsection eId="239A-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A financial institution is not required
+to inquire or determine that a governmental agency seeking disclosure of
+financial records has complied with the requirements of this chapter if the
+customer authorization, subpoena or search warrant served upon the financial
+institution shows compliance on its face.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A financial institution which refuses
+to disclose the financial records of a customer in reliance in good faith upon
+the provisions of this chapter is not liable to its customer, to a governmental
+agency or to any other person for any loss or damage caused by the refusal.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+988)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-140">
+          <num>239A.140</num>
+          <heading>Record of examination or disclosure of financial records:
+Maintenance; availability to customer.</heading>
+          <subsection eId="239A-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A financial institution shall maintain
+for a period of 5 years a record of all examinations or disclosures of the
+financial records of a customer, including:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="239A-140__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The identity of the person examining the
+financial records;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="239A-140__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The name of the governmental agency he or she
+represented; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="239A-140__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A copy of the customer authorization,
+subpoena or search warrant providing for the examination or disclosure or a
+copy of the certification received pursuant toNRS 239A.150.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="239A-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any record maintained under this section
+shall be available within 5 days after the request for examination or
+disclosure for review by the customer during normal business hours at the
+office or branch where the customerï¿½s account was located when examined or
+disclosed. A copy of the record shall be furnished to the customer upon request
+and payment of the reasonable cost of the copy.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+988)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-150">
+          <num>239A.150</num>
+          <heading>Limited disclosure by banks under certification of district
+attorney, sheriff or police department.</heading>
+          <subsection eId="239A-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The number of items dishonored;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The number of items paid which created
+overdrafts;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-150__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The dollar volume of the dishonored
+items and items paid which created overdrafts and a statement explaining any
+credit arrangement between the bank and the customer to pay overdrafts;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-150__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The dates and amounts of deposits and
+debits and the account balance on those dates;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-150__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A copy of the signature and any
+addresses appearing on the customerï¿½s signature card; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-150__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The date the account opened and, if
+applicable, the date the account closed.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+989)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-160">
+          <num>239A.160</num>
+          <heading>Limitation of actions.</heading>
+          <content>
+            <p>An
+action based upon the violation of any of the provisions of this chapter shall
+not be commenced more than 3 years after the date on which the violation
+occurred.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+990)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-170">
+          <num>239A.170</num>
+          <heading>Injunctive relief; costs and attorneyï¿½s fees.</heading>
+          <subsection eId="239A-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to any other remedy
+provided by law, a customer aggrieved by a violation or threatened violation of
+the provisions of this chapter may seek injunctive relief as provided by law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="239A-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a customer prevails in any
+proceeding to enforce any of the provisions of this chapter, the customer may
+recover costs and reasonable attorneyï¿½s fees.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+989)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-180">
+          <num>239A.180</num>
+          <heading>Inadmissibility of evidence obtained in violation of chapter.</heading>
+          <content>
+            <p>Evidence obtained in violation of any of the
+provisions of this chapter is inadmissible in any proceeding except a
+proceeding to enforce the provisions of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+989)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_239A-190">
+          <num>239A.190</num>
+          <heading>Penalty.</heading>
+          <content>
+            <p>Any person
+who knowingly participates in or knowingly induces or attempts to induce a
+violation of any prohibition in this chapter is guilty of a misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+990)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

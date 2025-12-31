@@ -1,0 +1,3846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-440"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-440"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="440"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-440/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-440/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-440/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-440/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_440">
+        <num>440</num>
+        <heading>VITAL STATISTICS</heading>
+        <section eId="sec_440-005">
+          <num>440.005</num>
+          <heading>ï¿½Advanced practice registered nurseï¿½ defined.</heading>
+          <content>
+            <p>As used in this chapter, ï¿½advanced practice
+registered nurseï¿½ means a registered nurse who holds a valid license as an
+advanced practice registered nurse issued by the State Board of Nursing
+pursuant toNRS 632.237.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1754)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-010">
+          <num>440.010</num>
+          <heading>ï¿½Boardï¿½ defined.</heading>
+          <content>
+            <p>As
+used in this chapter, ï¿½Boardï¿½ means the State Board of Health.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 25a:199:1911; added1941,
+381; 1931 NCL ï¿½ 5259.01]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-020">
+          <num>440.020</num>
+          <heading>ï¿½Dead bodyï¿½ defined.</heading>
+          <content>
+            <p>As
+used in this chapter, ï¿½dead bodyï¿½ means a lifeless human body, or such severed
+parts of the human body or the bones thereof, from the state of which it
+reasonably may be concluded that death had recently occurred, and where the
+circumstances under which such dead body was found indicate that the death has
+not been recorded.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 25a:199:1911; added1941,
+381; 1931 NCL ï¿½ 5259.01]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-025">
+          <num>440.025</num>
+          <heading>ï¿½Human remainsï¿½ and ï¿½remainsï¿½ defined.</heading>
+          <content>
+            <p>As
+used in this chapter ï¿½human remainsï¿½ or ï¿½remainsï¿½ means the body of a deceased
+person, and includes the body in any state of decomposition and the cremated
+remains of a body.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1961,
+255)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-030">
+          <num>440.030</num>
+          <heading>ï¿½Live birthï¿½ defined.</heading>
+          <content>
+            <p>As
+used in this chapter, ï¿½live birthï¿½ means a birth in which the child shows
+evidence of life after complete birth. A birth is complete when the child is
+entirely outside the person giving birth, even if the cord is uncut and the
+placenta still attached. The words ï¿½evidence of lifeï¿½ include heart action,
+breathing or coordinated movement of voluntary muscle.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 25a:199:1911; added1941,
+381; 1931 NCL ï¿½ 5259.01]—(NRS A2021,
+3428)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-035">
+          <num>440.035</num>
+          <heading>ï¿½Midwifeï¿½ defined.</heading>
+          <subsection eId="440-035__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person certified as:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-035__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A Certified Professional Midwife by the North
+American Registry of Midwives, or its successor organization; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-035__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A Certified Nurse-Midwife by the American
+Midwifery Certification Board, or its successor organization; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-035__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any other type of midwife.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3428)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-040">
+          <num>440.040</num>
+          <heading>ï¿½Person in charge of intermentï¿½ defined.</heading>
+          <content>
+            <p>As used in this chapter, ï¿½person in charge of
+intermentï¿½ means any person who places, or causes to be placed, a deceased
+stillborn child, or dead body, or, after cremation, the ashes thereof, in the
+earth, a grave, tomb, vault, urn or other receptacle, either in a cemetery or
+at any other place, or otherwise disposes thereof.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 25a:199:1911; added1941,
+381; 1931 NCL ï¿½ 5259.01]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-050">
+          <num>440.050</num>
+          <heading>ï¿½Physicianï¿½ defined.</heading>
+          <content>
+            <p>As
+used in this chapter, ï¿½physicianï¿½ is limited to a person authorized under the
+laws of this State to practice as such.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 25a:199:1911; added1941,
+381; 1931 NCL ï¿½ 5259.01]—(NRS A1977,
+960)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-060">
+          <num>440.060</num>
+          <heading>ï¿½State Registrarï¿½ defined.</heading>
+          <content>
+            <p>As
+used in this chapter, ï¿½State Registrarï¿½ means the State Registrar of Vital
+Statistics.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 25a:199:1911; added1941,
+381; 1931 NCL ï¿½ 5259.01]—(NRS A1985,
+290)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-070">
+          <num>440.070</num>
+          <heading>ï¿½Stillbirthï¿½ defined.</heading>
+          <content>
+            <p>As
+used in this chapter, ï¿½stillbirthï¿½ means a birth after at least 20 weeks of
+gestation, in which the child shows no evidence of life after complete birth.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 25a:199:1911; added1941,
+381; 1931 NCL ï¿½ 5259.01]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-080">
+          <num>440.080</num>
+          <heading>ï¿½Vital statisticsï¿½ defined.</heading>
+          <content>
+            <p>As
+used in this chapter, ï¿½vital statisticsï¿½ means records of birth, legitimation
+of birth, death, fetal death, marriage, annulment of marriage, divorce and data
+incidental thereto.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 25a:199:1911; added1941,
+381; 1931 NCL ï¿½ 5259.01]—(NRS A1967,
+1107)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-085">
+          <num>440.085</num>
+          <heading>Chapter inapplicable to remains of native Indian.</heading>
+          <content>
+            <p>The provisions of this chapter do not apply to
+the interment, removal or other disposition of the human remains of a native
+Indian pursuant toNRS 383.150to383.190, inclusive.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+576)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-090">
+          <num>440.090</num>
+          <heading>Requisites of certificates.</heading>
+          <content>
+            <p>All
+certificates, either of birth, death or stillbirth, shall be written legibly,
+in unfading black ink, or typewritten, and no certificate shall be held to be
+complete and correct that does not supply all of the items of information
+called for, or satisfactorily account for their omission.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 14:199:1911; A1941,
+381; 1931 NCL ï¿½ 5248]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-100">
+          <num>440.100</num>
+          <heading>Persons required to furnish information.</heading>
+          <content>
+            <p>All physicians, registered nurses, midwives,
+informants or funeral directors, and all other persons having knowledge of the
+facts, shall furnish such information as they may possess regarding any birth
+or death upon demand of the State Registrar, in person, by mail, or through the
+local health officer.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 18:199:1911; RL ï¿½ 2969; NCL ï¿½ 5252]—(NRS A1983,
+134;1993,
+1159)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-110">
+          <num>440.110</num>
+          <heading>State Registrar of Vital Statistics.</heading>
+          <content>
+            <p>The
+Administrator of the Division of Public and Behavioral Health of the Department
+of Health and Human Services is the State Registrar of Vital Statistics.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:199:1911; A1939,
+297;1945,
+130; 1943 NCL ï¿½ 5239]—(NRS A1983,
+834;2013,
+3047)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-120">
+          <num>440.120</num>
+          <heading>Regulations of State Board of Health concerning registration;
+enforcement by State Registrar.</heading>
+          <subsection eId="440-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall provide an adequate
+system for the registration of births and deaths by adopting and enforcing
+regulations prescribing the method and form of making such registration.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Registrar shall carry into
+effect the regulations and orders of the Board.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:119:1929; NCL ï¿½ 5277] + [2:119:1929; NCL ï¿½
+5278]—(NRS A1985,
+369)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-125">
+          <num>440.125</num>
+          <heading>State Registrar required to ensure security and confidentiality
+of vital statistics; release of certain vital statistics.</heading>
+          <subsection eId="440-125__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In accordance with the regulations
+adopted by the Board, the State Registrar shall ensure the security and
+confidentiality of vital statistics maintained by his or her office.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-125__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section andNRS 440.170,440.175and440.650, information relating to vital
+statistics may be released:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-125__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the vital statistic is a certificate of
+birth, 125 years after the date of the birth.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-125__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the vital statistic is a certificate of
+death, 50 years after the date of the death.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+147)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-130">
+          <num>440.130</num>
+          <heading>Preparation and distribution of forms and blanks; charge for
+blank certificate.</heading>
+          <subsection eId="440-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall prepare, print and
+supply to all local health officers all blanks and forms used in registering,
+recording and preserving the returns, or in otherwise carrying out the purposes
+of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Registrar shall charge for
+each blank certificate of birth, death or stillbirth a fee of $1.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 18:199:1911; RL ï¿½ 2969; NCL ï¿½ 5252]—(NRS A1983,
+894)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-135">
+          <num>440.135</num>
+          <heading>Form for reporting divorce or annulment of marriage:
+Preparation; contents; distribution.</heading>
+          <subsection eId="440-135__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall prescribe, and the
+State Registrar shall furnish in sufficient numbers to each county clerk for
+distribution, a form for the reporting of divorces and annulments of marriage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-135__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The information required by such form
+must be limited to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-135__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The names of the parties;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-135__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The court and county in which the decree is
+granted; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-135__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The date of the decree.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1108; A1997,
+2338;2007,
+1314)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-140">
+          <num>440.140</num>
+          <heading>Preparation and issuance of instructions; use of other forms and
+blanks prohibited.</heading>
+          <content>
+            <p>The Board shall
+prepare and issue such detailed instructions as may be required to procure the
+uniform observance of this chapter and the maintenance of a perfect system of
+registration, and no forms or blanks other than those so prepared shall be
+used.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 18:199:1911; RL ï¿½ 2969; NCL ï¿½ 5252]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-150">
+          <num>440.150</num>
+          <heading>Examination and supplementation of certificates.</heading>
+          <content>
+            <p>The State Registrar shall carefully examine
+the certificates received from the local health officers, and if they are
+incomplete or unsatisfactory the State Registrar shall require such further
+information to be furnished as may be necessary to make the record complete and
+satisfactory.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 18:199:1911; RL ï¿½ 2969; NCL ï¿½ 5252]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-155">
+          <num>440.155</num>
+          <heading>Registration of altered or amended certificates.</heading>
+          <subsection eId="440-155__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Registrar may approve an
+application for the registration of an altered or amended certificate if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-155__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The applicant has submitted an application
+prescribed by the Board;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-155__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The State Registrar has received all
+documentation which is required in support of the altered certificate; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-155__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The State Registrar has verified the validity
+and adequacy of the documentation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-155__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The evidence affecting the alteration
+of a certificate, after it has been filed with the State Registrar, must be
+kept in a special permanent file.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-155__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The State Registrar shall dismiss an
+application for the registration of an altered certificate if the documentation
+submitted by the applicant does not comply with the requirements prescribed by
+the Board or if the State Registrar has cause to question the validity or
+adequacy of the documentation submitted by the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-155__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the State Registrar dismisses an
+application for the registration of an altered certificate, the State Registrar
+shall inform the applicant of his or her right to seek a court order for the
+registration.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+147)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-160">
+          <num>440.160</num>
+          <heading>Preservation, indexing and copying of certificates.</heading>
+          <subsection eId="440-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Arrange and permanently preserve the
+certificates in a systematic manner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Prepare and maintain a comprehensive
+and continuous index of all births and deaths registered. The index must show
+the name of the child or the deceased, the place and date of birth or death and
+the number of the certificate. When a certificate of birth indicates that a
+person has changed his or her name, the index must contain an entry for each
+name.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-160__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Make a complete and accurate copy of
+each vital statistic, including, without limitation, using typewritten,
+photographic, electronic or other means of reproduction approved by the Board.
+Such a copy, when verified and approved by the State Registrar, shall be deemed
+to be the original record, and the original record may be disposed of in
+accordance with the regulations adopted by the Board.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 18:199:1911; RL ï¿½ 2969; NCL ï¿½ 5252]—(NRS A1960,
+157;1981,
+464;2013,
+148)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-165">
+          <num>440.165</num>
+          <heading>Reproduction of original records and files.</heading>
+          <content>
+            <p>To preserve vital statistics, the State
+Registrar is authorized to prepare typewritten, photographic, electronic or
+other reproductions of original records and files in his or her office. Such
+reproductions, when verified and approved by the State Registrar, shall be
+deemed to be the original record, and the original record may be disposed of in
+accordance with the regulations adopted by the Board.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1108; A1971,
+808;2013,
+148)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-170">
+          <num>440.170</num>
+          <heading>Records open to inspection; use of data restricted.</heading>
+          <subsection eId="440-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>All certificates in the custody of the
+State Registrar are open to inspection subject to the provisions of this
+chapter. It is unlawful for any employee of the State to disclose data contained
+in vital statistics, except as authorized by this chapter or by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Information in vital statistics
+indicating that a birth occurred out of wedlock must not be disclosed except
+upon order of a court of competent jurisdiction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Board:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-170__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Shall allow the use of data contained in
+vital statistics to carry out the provisions ofNRS 442.300to442.330, inclusive;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-170__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Shall allow the use of certificates of death
+by a multidisciplinary team:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="440-170__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>To review the death of the victim of a
+crime that constitutes domestic violence organized or sponsored pursuant toNRS 217.475; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="440-170__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>To review the death of a child
+established pursuant toNRS 432B.405and432B.406;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="440-170__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Shall allow the use of certificates of death
+by the:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="440-170__subsec_3__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Committee on Domestic Violence
+appointed pursuant toNRS 228.470; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="440-170__subsec_3__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Committee to Review Suicide Fatalities
+created byNRS 439.5104; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="440-170__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>May allow the use of data contained in vital
+statistics for other research purposes, but without identifying the persons to
+whom the records relate.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 45:199:1911; added1941,
+381; 1931 NCL ï¿½ 5268.14]—(NRS A1967,
+1107;1999,
+3508;2003,
+865;2011,
+740;2013,
+368;2017,
+2468)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-175">
+          <num>440.175</num>
+          <heading>Furnishing statistical data; limitation on preparation or
+issuance of certain documents; charging fees to homeless persons, imprisoned
+persons and certain persons released from prison prohibited; remittance of fees
+required for issuing copies; notification concerning missing documents.</heading>
+          <subsection eId="440-175__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon request, the State Registrar may
+furnish statistical data to any federal, state, local or other public or
+private agency, upon such terms or conditions as may be prescribed by the
+Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-175__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>No person may prepare or issue any
+document which purports to be an original, certified copy, certified abstract
+or official copy of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-175__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A certificate of birth, death or fetal death,
+except as authorized in this chapter or by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-175__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A certificate of marriage, except a county
+clerk, county recorder or a person so required pursuant toNRS 122.120.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-175__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A decree of divorce or annulment of marriage,
+except a county clerk or the judge of a court of record.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-175__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person or governmental organization
+which issues certified or official copies pursuant to paragraph</p>
+            </content>
+            <paragraph eId="440-175__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of
+subsection 2 shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-175__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Not charge a fee for issuing a certified or
+official copy of a certificate of birth to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="440-175__subsec_3__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A homeless person who submits on a
+form prescribed by the State Registrar a statement signed under penalty of
+perjury that the person is homeless. The issuing person or governmental
+organization shall not require such a statement to be notarized.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="440-175__subsec_3__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A person who submits documentation
+from the Department of Corrections verifying that the person is imprisoned or
+was released from prison within the immediately preceding 90 days.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="440-175__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Remit to the State Registrar fees collected
+which are charged in an amount established by the State Registrar by
+regulation:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="440-175__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>For each registration of a birth or
+death in its district.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="440-175__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>For each copy issued of a certificate
+of birth in its district, other than a copy issued pursuant to paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="440-175__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="440-175__subsec_3__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>For each copy issued of a certificate
+of death in its district.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-175__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A person or governmental organization
+which issues certified or official copies pursuant to paragraph</p>
+            </content>
+            <paragraph eId="440-175__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of
+subsection 2 shall, upon determining that required documents are missing from
+an application for a certified or official copy of a certificate of birth,
+notify the applicant of the deficiency. Such notice must include, without
+limitation, notice of the additional documents that the applicant must submit.
+If the applicant is a homeless person who submits on a form prescribed by the
+State Registrar a statement signed under penalty of perjury that the person is
+homeless, the person or governmental organization shall allow the applicant at
+least 30 days after the date of the notice to submit the missing documents. The
+issuing person or governmental organization shall not require the signed
+statement to be notarized.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1108; A1981,
+464;1983,
+894;1991,
+69,848,849;2003,
+2570;2005,
+1213;2007,
+890;2010,
+26th Special Session, 89;2011,
+2602;2021,
+33;2023,
+1863)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-190">
+          <num>440.190</num>
+          <heading>County health officer as registrar.</heading>
+          <content>
+            <p>The
+county health officer shall act as a collector of vital statistics for his or
+her county.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 6:199:1911; A1913,
+126;1919,
+221; 1919 RL ï¿½ 2957; NCL ï¿½ 5240]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-200">
+          <num>440.200</num>
+          <heading>Furnishing blank certificates.</heading>
+          <content>
+            <p>The
+local health officer shall furnish blank forms of certificates to such persons
+as require them.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 19:199:1911; RL ï¿½ 2970; NCL ï¿½ 5253]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-210">
+          <num>440.210</num>
+          <heading>Certificates of birth and death: Examination by local health
+officer.</heading>
+          <content>
+            <p>Each local health officer
+shall carefully examine each certificate of birth or death when presented for
+record to see that it has been made out in accordance with the provisions of
+this chapter and the instructions of the Board.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 19:199:1911; RL ï¿½ 2970; NCL ï¿½ 5253]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-220">
+          <num>440.220</num>
+          <heading>Certificates of birth and death: Enforcement of requirements by
+local health officer.</heading>
+          <subsection eId="440-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If any certificate of death is
+incomplete or unsatisfactory, the local health officer shall call attention to
+the defects in the return and withhold issuing the burial or removal permit
+until the defects are corrected.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If any certificate of birth is
+incomplete, the local health officer shall immediately notify the person who
+produced the certificate and require him or her to supply the missing items if
+they can be obtained.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 19:199:1911; RL ï¿½ 2970; NCL ï¿½ 5253]—(NRS A2013,
+148)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-230">
+          <num>440.230</num>
+          <heading>Certificates of birth and death: Numbering; attestation of date
+of filing by local health officer.</heading>
+          <content>
+            <p>The
+local health officer shall number consecutively the certificates of birth and
+death, in two separate series, beginning with the number 1 for the first birth
+and the first death occurring in each calendar year, and sign his or her name
+as health officer in attest of the date of filing in his or her office.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 19:199:1911; RL ï¿½ 2970; NCL ï¿½ 5253]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-240">
+          <num>440.240</num>
+          <heading>Certificates of birth and death: Preservation of copies by local
+health officer.</heading>
+          <content>
+            <p>The local health
+officer shall make a complete and accurate copy of each birth and death
+certificate registered by him or her in the format prescribed by the State
+Registrar. The copies shall be preserved permanently in his or her office as
+the local record in such manner as directed by the Board.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 19:199:1911; RL ï¿½ 2970; NCL ï¿½ 5253]—(NRS A1963,
+942;2013,
+148)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-250">
+          <num>440.250</num>
+          <heading>Certificates of birth and death: Filing by deputy county health
+officer; filing of list of deceased persons with public administrator or
+certain other persons.</heading>
+          <subsection eId="440-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Not later than the fifth day of each
+month, deputy county health officers shall file with the county health officer
+all original birth and death certificates executed by them.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Within 5 days after receipt of the
+original death certificates, the county health officer shall file with the
+public administrator or a person employed or contracted with pursuant toNRS 253.125, as applicable, a written list
+of the names, social security numbers and residential addresses of all deceased
+persons and the names of their next of kin as those names appear on the
+certificates.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 6:199:1911; A1913,
+126;1919,
+221; 1919 RL ï¿½ 2957; NCL ï¿½ 5240]—(NRS A1971,
+508;1997,
+2338;2019,
+1551;2021,
+992)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-260">
+          <num>440.260</num>
+          <heading>Certificates of birth and death: Time for delivery to State
+Registrar.</heading>
+          <content>
+            <p>On the 10th day of each
+month the local health officer shall transmit to the State Registrar all
+original certificates registered by him or her during the preceding month. If
+no births or deaths occurred in any month, the local health officer shall
+report that fact to the State Registrar, on the 10th day of the following
+month, on a card provided for that purpose.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 19:199:1911; RL ï¿½ 2970; NCL ï¿½ 5253]—(NRS A1963,
+943)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-270">
+          <num>440.270</num>
+          <heading>Immediate registration required.</heading>
+          <content>
+            <p>All
+births that occur in this state shall be registered immediately in the
+registration districts in which they occur, pursuant to this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [12:199:1911; RL ï¿½ 2963; NCL ï¿½ 5246]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-280">
+          <num>440.280</num>
+          <heading>Duty of registering birth: Persons required to file; time for
+filing; required information.</heading>
+          <subsection eId="440-280__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a birth occurs in a hospital or the
+person giving birth and child are immediately transported to a hospital, the
+person in charge of the hospital or his or her designated representative shall
+obtain the necessary information, prepare a birth certificate, secure the
+signatures required by the certificate and file it within 10 days with the
+health officer of the registration district where the birth occurred. The
+physician in attendance shall provide the medical information required by the
+certificate and certify to the fact of birth within 72 hours after the birth.
+If the physician does not certify to the fact of birth within the required 72
+hours, the person in charge of the hospital or the designated representative
+shall complete and sign the certification.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-280__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a birth occurs outside a hospital
+and the person giving birth and child are not immediately transported to a
+hospital, the birth certificate must be prepared and filed by one of the
+following persons in the following order of priority:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-280__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The physician in attendance at or immediately
+after the birth.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-280__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any other person in attendance at or
+immediately after the birth.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-280__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The person giving birth or other parent or,
+if the other parent is absent and the person giving birth is incapacitated, the
+person in charge of the premises where the birth occurred.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-280__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If a birth occurs in a moving
+conveyance, the place of birth is the place where the child is removed from the
+conveyance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-280__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In cities, the certificate of birth
+must be filed sooner than 10 days after the birth if so required by municipal
+ordinance or regulation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-280__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If the person giving birth was:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-280__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Married at the time of birth, the name of the
+spouse of that person must be entered on the certificate as the other parent of
+the child unless:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="440-280__subsec_5__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A court has issued an order
+establishing that a person other than the spouse of the person giving birth is
+the other parent of the child; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="440-280__subsec_5__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The person giving birth and a person
+other than the spouse of the person giving birth have signed a declaration for
+the voluntary acknowledgment of paternity developed by the Board pursuant toNRS 440.283or a declaration for the
+voluntary acknowledgment of parentage developed by the Board pursuant toNRS 440.285.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="440-280__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Widowed at the time of birth but married at
+the time of conception, the name of the spouse of the person giving birth at
+the time of conception must be entered on the certificate as the other parent
+of the child unless:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="440-280__subsec_5__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A court has issued an order establishing
+that a person other than the spouse of the person giving birth at the time of
+conception is the other parent of the child; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="440-280__subsec_5__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The person giving birth and a person
+other than the spouse of the person giving birth at the time of conception have
+signed a declaration for the voluntary acknowledgment of paternity developed by
+the Board pursuant toNRS 440.283or a
+declaration for the voluntary acknowledgment of parentage developed by the
+Board pursuant toNRS 440.285.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-280__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>If the person giving birth was
+unmarried at the time of birth, the name of the other parent may be entered on
+the original certificate of birth only if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-280__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The provisions of paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-280__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection
+5 are applicable;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-280__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A court has issued an order establishing that
+the person is the other parent of the child; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-280__subsec_6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The parents of the child have signed a
+declaration for the voluntary acknowledgment of paternity developed by the
+Board pursuant toNRS 440.283or a
+declaration for the voluntary acknowledgment of parentage developed by the
+Board pursuant toNRS 440.285. If both
+parents execute a declaration consenting to the use of the surname of one
+parent as the surname of the child, the name of that parent must be entered on
+the original certificate of birth and the surname of that parent must be
+entered thereon as the surname of the child.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-280__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>An order entered or a declaration
+executed pursuant to subsection 6 must be submitted to the local health
+officer, the local health officerï¿½s authorized representative, or the attending
+physician or midwife before a proper certificate of birth is forwarded to the
+State Registrar. The order or declaration must then be delivered to the State
+Registrar for filing. The State Registrarï¿½s file of orders and declarations
+must be sealed and the contents of the file may be examined only upon order of
+a court of competent jurisdiction or at the request of either parent or the
+Division of Welfare and Supportive Services of the Department of Health and
+Human Services as necessary to carry out the provisions of 42 U.S.C. ï¿½ 654a.
+The local health officer shall complete the original certificate of birth in
+accordance with subsection 6 and other provisions of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-280__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>As used in this section, ï¿½courtï¿½ has
+the meaning ascribed to it inNRS 125B.004.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 13:199:1911; A1941,
+353; 1931 NCL ï¿½ 5247]—(NRS A1967,
+1108;1973,
+207;1977,
+350;1981,
+465;1983,
+1879;1997,
+2338;2007,
+1527;2017,
+250,791;2021,
+3428)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-283">
+          <num>440.283</num>
+          <heading>Voluntary acknowledgment of paternity: Board to develop and
+distribute declarations to be signed; certain entities to provide services and
+notice concerning effect of declaration.</heading>
+          <subsection eId="440-283__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-283__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Develop a declaration to be signed under
+penalty of perjury for the voluntary acknowledgment of paternity in this State
+that complies with the requirements prescribed by the Secretary of Health and
+Human Services pursuant to 42 U.S.C. ï¿½ 652</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-283__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-283__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Distribute the declarations to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="440-283__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Each hospital or freestanding birthing
+center in this State; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="440-283__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Any other entity authorized to provide
+services relating to the voluntary acknowledgment of paternity pursuant to the
+regulations adopted by the Secretary of Health and Human Services pursuant to
+42 U.S.C. ï¿½ 666</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="440-283__subsec_1__subsec_a">
+              <num>(a)</num>
+              <subparagraph eId="440-283__subsec_1__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>(C).
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-283__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Subject to the provisions of subsection
+3, the State Registrar of Vital Statistics and the entities described in
+paragraph</p>
+            </content>
+            <paragraph eId="440-283__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 shall offer to provide services relating to the
+voluntary acknowledgment of paternity in the manner prescribed in the
+regulations adopted by the Secretary of Health and Human Services pursuant to
+42 U.S.C. ï¿½ 666</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-283__subsec_2__subsec_a">
+              <num>(a)</num>
+              <subparagraph eId="440-283__subsec_2__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>(C).
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-283__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Before providing a declaration for the
+acknowledgment of paternity to the person who gave birth to a child or a person
+who wishes to acknowledge the paternity of the child, the agencies described in
+paragraph</p>
+            </content>
+            <paragraph eId="440-283__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 shall ensure that the person who gave birth and
+the person who wishes to acknowledge paternity are given notice, orally and in
+writing, of the rights, responsibilities and legal consequences of, and the
+alternatives to, signing the declaration for the acknowledgment of paternity.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2337; A2007,
+1528;2021,
+3430)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-285">
+          <num>440.285</num>
+          <heading>Voluntary acknowledgment of parentage: Board to develop and
+distribute declarations to be signed; certain entities to provide notice
+concerning effect of declaration.</heading>
+          <subsection eId="440-285__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-285__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Develop a declaration to be signed under
+penalty of perjury for the voluntary acknowledgment of parentage in this State;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-285__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Distribute the declarations to each hospital
+or freestanding birthing center in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-285__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Before providing a declaration for the
+acknowledgment of parentage to the person who gave birth to a child or a person
+who wishes to acknowledge the parentage of a child, the agencies described in
+paragraph</p>
+            </content>
+            <paragraph eId="440-285__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 shall ensure that the person who gave birth and
+the person who wishes to acknowledge parentage are given notice, orally and in
+writing, of the rights, responsibilities and legal consequences of, and the
+alternatives to, signing the declaration for the acknowledgment of parentage.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+250; A2021,
+3430)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-287">
+          <num>440.287</num>
+          <heading>Rescission of declaration for voluntary acknowledgment of
+paternity or parentage.</heading>
+          <subsection eId="440-287__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a person who has given birth or a
+person who has signed a declaration for the voluntary acknowledgment of
+paternity developed by the Board pursuant toNRS
+440.283or a declaration for the voluntary acknowledgment of parentage
+developed by the Board pursuant toNRS
+440.285with the person who has given birth rescinds the acknowledgment
+pursuant to subsection 2 ofNRS 126.053,
+the State Registrar shall not issue a new certificate of birth to remove the
+name of the person who originally acknowledged paternity or parentage, as
+applicable, unless a court issues an order establishing that the person who
+acknowledged paternity or parentage, as applicable, is not the father or
+parent, as applicable, of the child.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-287__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½courtï¿½ has
+the meaning ascribed to it inNRS 125B.004.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2338; A2007,
+1529;2017,
+252;2021,
+3431)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-290">
+          <num>440.290</num>
+          <heading>Certificate of birth: Form and contents.</heading>
+          <content>
+            <p>The form of the birth certificate to be used
+under this chapter shall include as a minimum the items required by the
+standard certificate of live birth as recommended by the United States Public
+Health Service, but no certificate to be used under this chapter shall include
+any notation of legitimacy or illegitimacy. The entry of the name of the father
+of a child or of the surname of the father as the surname of the child on the
+certificate of birth pursuant toNRS 440.280shall not be considered a notation of legitimacy or illegitimacy within the
+meaning of this section.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 14:199:1911; A1941,
+381; 1931 NCL ï¿½ 5248]—(NRS A1971,
+134;1973,
+208;1977,
+351)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-300">
+          <num>440.300</num>
+          <heading>Certificate of birth: Supplemental report of name required for
+unnamed child.</heading>
+          <subsection eId="440-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When any certificate of birth of a
+living child is presented without the statement of the given name, the local
+health officer, the local registrar or the State Registrar shall make out and
+deliver to the parents of the child a special blank for the supplemental report
+of the given name of the child, which shall be filled out as directed and
+returned to the State Registrar as soon as the child shall have been named.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall prescribe by regulation
+the time within which a supplementary report furnishing information omitted on
+the original certificate may be returned for the purpose of completing the
+original certificate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-300__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Certificates of birth completed by a
+supplementary report shall not be considered as ï¿½delayedï¿½ or ï¿½altered.ï¿½</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [15:199:1911; A1941,
+381; 1931 NCL ï¿½ 5249]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-303">
+          <num>440.303</num>
+          <heading>Certificate of birth: Replacement of certificate written in
+foreign language; application for and preparation of new certificate written in
+English.</heading>
+          <subsection eId="440-303__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person whose birth certificate or
+other evidence of birth is written in a language other than English, or the
+parent or guardian of the person, may apply to the State Registrar for a birth
+certificate in the English language.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-303__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Application for a birth certificate
+pursuant to this section must be made in writing on a form supplied by the
+State Registrar and be accompanied by:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-303__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The document for which a replacement is
+sought.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-303__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A translation of the document.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-303__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An affidavit executed by the translator
+before a person who is authorized to administer oaths, attesting to the
+accuracy of the translation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-303__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A certificate from the United States
+Citizenship and Immigration Services of the Department of Homeland Security
+which establishes that the person who is the subject of the document has
+entered the United States legally.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-303__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The fee required by this chapter for the
+making and certification of the record of any birth by the State Registrar.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-303__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>When the State Registrar receives an
+application and the documents required by this section, the State Registrar
+shall prepare a birth certificate and clearly mark it on its face: ï¿½ISSUED TO
+REPLACE A BIRTH RECORD FROM ............... IN THE ................ LANGUAGE.ï¿½</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1979,
+471)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-305">
+          <num>440.305</num>
+          <heading>Certificate of birth: State Registrar to change name on
+certificate upon request of certain persons.</heading>
+          <content>
+            <p>Upon
+request of a person or his or her parent, guardian or legal representative, and
+after receipt of a certified copy of an order of the court changing the name of
+such person, whether such order was entered prior or subsequent to July 1,
+1960, the State Registrar shall indicate the change of name on the certificate
+of birth of such person.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1960,
+157)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-310">
+          <num>440.310</num>
+          <heading>Certified reports and other documents pertaining to adoption:
+Duties of State Registrar; opening of sealed documents upon order of court.</heading>
+          <subsection eId="440-310__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Whenever the State Registrar receives a
+certified report of adoption or amendment of adoption filed in accordance with
+the provisions ofNRS 127.157or the
+laws of another state or foreign country, or a certified copy of the adoption
+decree, concerning a person born in Nevada, the State Registrar shall prepare
+and file a supplementary certificate of birth in the new name of the adopted
+person which shows the adoptive parents as the parents and seal and file the
+report or decree and the original certificate of birth.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-310__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Whenever the State Registrar receives a
+certified report of adoption, amendment or annulment of an order or decree of
+adoption from a court concerning a person born in another state, the District
+of Columbia, the Commonwealth of Puerto Rico, a territory or possession of the
+United States, or Canada, the report must be forwarded to the office
+responsible for vital statistics in the personï¿½s place of birth.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-310__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Whenever the State Registrar receives a
+certified report of adoption or amendment of adoption filed in accordance with
+the provisions ofNRS 127.157concerning
+a person born in a foreign country other than Canada, the State Registrar
+shall, if the State Registrar receives evidence that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-310__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The person being adopted is a citizen of the
+United States; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-310__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The adoptive parents are residents of Nevada,
+ï¿½prepare and
+file a supplementary certificate of birth as described in subsection 1 and seal
+and file the report.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-310__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Sealed documents may be opened only
+upon an order of the court issuing the adoption decree, expressly so
+permitting, pursuant to a petition setting forth the reasons therefor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-310__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, upon the receipt of a certified copy of a court order of
+annulment of adoption, the State Registrar shall seal and file the order and
+supplementary certificate of birth and, if the person was born in Nevada,
+restore the original certificate to its original place in the files.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [46:199:1911; added1941,
+381; 1931 NCL ï¿½ 5268.15]—(NRS A1973,
+391;1977,
+1349;1979,
+472;1981,
+466;2001,
+360)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-315">
+          <num>440.315</num>
+          <heading>Certificate of birth: Removal of notation of illegitimacy;
+application for and issuance of new certificate.</heading>
+          <content>
+            <p>Any
+person, or any parent or guardian, of a child with respect to whom a
+certificate of birth has been issued by this state indicating the illegitimacy
+of the person or child may apply to the State Registrar for a new certificate
+which does not contain any notation of illegitimacy, and upon such application
+the State Registrar shall issue such a certificate.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+135)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-319">
+          <num>440.319</num>
+          <heading>Certificate of birth: Effect of gestational agreement.</heading>
+          <subsection eId="440-319__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Whenever the State Registrar receives
+an order issued by a district court in this State pursuant to subsection 4 ofNRS 126.720validating a gestational
+agreement and declaring the intended parent or parents to be the parent or
+parents of the resulting child, the State Registrar shall prepare and file a
+certificate of birth in the name of the child which shows the intended parent
+or parents as the parent or parents of the child and seal and file the order
+and the original certificate of birth, if any. Unless the court order is issued
+by a district court in this State for an action which was originally commenced in
+this State, a court order concerning a gestational agreement is not valid for
+any purpose in this State as it relates to a child born in this State,
+including, without limitation, the preparation and filing of a certificate of
+birth by the State Registrar.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-319__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-319__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Gestational agreementï¿½ has the meaning
+ascribed to it inNRS 126.570.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-319__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Intended parentï¿½ has the meaning ascribed to
+it inNRS 126.590.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+780)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-325">
+          <num>440.325</num>
+          <heading>Certificate of birth: Issuance of new certificate upon
+establishment of paternity or parentage; availability of record on court order;
+availability of records to Division of Welfare and Supportive Services of
+Department of Health and Human Services.</heading>
+          <subsection eId="440-325__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In the case of the paternity or
+parentage of a child being established by the:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-325__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Person who gave birth and other parent
+acknowledging paternity of a child by signing a declaration for the voluntary
+acknowledgment of paternity developed by the Board pursuant toNRS 440.283;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-325__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Person who gave birth and another person
+acknowledging parentage of the child by signing a declaration for the voluntary
+acknowledgment of parentage developed by the Board pursuant toNRS 440.285; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-325__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Order of a district court,
+ï¿½the State
+Registrar, upon the receipt of the declaration or court order, shall prepare a
+new certificate of birth in the name of the child as shown in the declaration
+or order with no reference to the fact of legitimation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-325__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The new certificate must be identical
+with the certificate registered for the birth of a child born in wedlock.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-325__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 4, the evidence upon which the new certificate was made and the
+original certificate must be sealed and filed and may be opened only upon the
+order of a court of competent jurisdiction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-325__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The State Registrar shall, upon the
+request of the Division of Welfare and Supportive Services of the Department of
+Health and Human Services, open a file that has been sealed pursuant to
+subsection 3 to allow the Division to compare the information contained in the
+declaration or order upon which the new certificate was made with the information
+maintained pursuant to 42 U.S.C. ï¿½ 654a.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1045; A1989,
+1644;1997,
+2340;2007,
+1529;2017,
+252;2021,
+3431)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-327">
+          <num>440.327</num>
+          <heading>Certificate of birth: Requests for certificates of certain
+missing children.</heading>
+          <content>
+            <p>The State
+Registrar shall not, without a court order to do so, issue to any person or
+governmental entity an original or copy of the certificate of birth of a child
+who is listed as missing in the bulletin prepared by the Director of the
+Clearinghouse for information concerning missing or exploited children pursuant
+toNRS 432.160. The State Registrar
+shall inform the Director of the Clearinghouse of the name and identifying
+information, dates and circumstances of any person or governmental entity
+requesting the certificate of birth of such a child without a court order and
+any other information which might be helpful in furthering the purposes ofNRS 432.150to432.220, inclusive.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1495; A1993,
+1376)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-330">
+          <num>440.330</num>
+          <heading>Registration of foundling; contents of report.</heading>
+          <subsection eId="440-330__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Whoever assumes the custody of a living
+child of unknown parentage shall immediately report, on a form to be approved
+by the Board, to the local registrar of the registration district in which such
+custody is assumed, the following:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-330__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Date of finding or assumption of custody.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-330__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Place of finding or assumption of custody.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-330__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Sex.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-330__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Color or race.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-330__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Approximate age.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-330__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Name and address of the person or institution
+with whom the child has been placed for care, if any.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-330__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Name given to the child by the finder or
+custodian.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-330__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The place where the child was found or
+where custody has been assumed shall be known as the place of birth, and the
+date of birth shall be determined by approximation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-330__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The foundling report shall constitute
+the certificate of birth for such foundling child, and the provisions of this
+chapter relating to certificates of birth shall apply in the same manner and
+with the same effect to such report.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-330__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a foundling child shall later be
+identified and a regular certificate of birth be found or obtained, the report
+constituting the certificate of birth shall be sealed and filed and may be
+opened only upon the order of a court of competent jurisdiction.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [48:199:1911; added1941,
+381; 1931 NCL ï¿½ 5268.17]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-340">
+          <num>440.340</num>
+          <heading>Registration of stillborn children.</heading>
+          <subsection eId="440-340__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Stillborn children or those dead at
+birth shall be registered as a stillbirth and a certificate of stillbirth shall
+be filed with the local health officer in the usual form and manner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-340__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The medical certificate of the cause of
+death shall be signed by the attending physician or attending advanced practice
+registered nurse, if any.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-340__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Midwives shall not sign certificates of
+stillbirth for stillborn children; but such cases, and stillbirths occurring
+without attendance of either physician, advanced practice registered nurse or
+midwife, shall be treated as deaths without medical attention as provided for
+in this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [24:199:1911; A1941,
+381; 1931 NCL ï¿½ 5258]—(NRS A2017,
+1754)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-350">
+          <num>440.350</num>
+          <heading>Form and contents of certificate of death or stillbirth.</heading>
+          <content>
+            <p>The certificate of death or of stillbirth that
+shall be used is the standard form approved by the United States Public Health
+Service.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:199:1911; A1941,
+381; 1931 NCL ï¿½ 5241]—(NRS A1977,
+351)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-360">
+          <num>440.360</num>
+          <heading>Authentication of personal and statistical information
+concerning certificate.</heading>
+          <content>
+            <p>The
+personal and statistical particulars of the death or stillbirth certificate
+shall be authenticated by the name of the informant, who may be any competent
+person acquainted with the facts.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:199:1911; A1941,
+381; 1931 NCL ï¿½ 5241]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-370">
+          <num>440.370</num>
+          <heading>Signature required on statement of facts concerning disposition
+of body.</heading>
+          <content>
+            <p>The statement of facts
+relating to the disposition of the body must be signed by the funeral director
+or person acting as undertaker or by an authorized representative of the
+crematory if the body is cremated.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:199:1911; A1941,
+381; 1931 NCL ï¿½ 5241]—(NRS A1983,
+135;1985,
+290,946)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-380">
+          <num>440.380</num>
+          <heading>Medical certificate of death: Signature; contents.</heading>
+          <subsection eId="440-380__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The medical certificate of death must
+be signed by the physician or advanced practice registered nurse, if any, last
+in attendance on the deceased, or pursuant to regulations adopted by the Board,
+it may be signed by the attending physicianï¿½s associate physician, the chief
+medical officer of the hospital or institution in which the death occurred, or
+the pathologist who performed an autopsy upon the deceased. The person who
+signs the medical certificate of death shall specify:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-380__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The social security number of the deceased.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-380__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The hour and day on which the death occurred.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-380__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The cause of death, so as to show the cause
+of disease or sequence of causes resulting in death, giving first the primary
+cause of death or the name of the disease causing death, and the contributory
+or secondary cause, if any, and the duration of each.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-380__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In deaths in hospitals or institutions,
+or of nonresidents, the physician or advanced practice registered nurse shall
+furnish the information required under this section, and may state where, in
+his or her opinion, the disease was contracted.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:199:1911; A1941,
+381; 1931 NCL ï¿½ 5241]—(NRS A1977,
+352;1981,
+466;1997,
+2340;2017,
+1754)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-390">
+          <num>440.390</num>
+          <heading>Presentation of certificate of stillbirth.</heading>
+          <content>
+            <p>The certificate of stillbirth must be
+presented by the funeral director or person acting as undertaker to the
+physician or advanced practice registered nurse in attendance at the
+stillbirth, for the certificate of the fact of stillbirth and the medical data
+pertaining to stillbirth as the physician or advanced practice registered nurse
+can furnish them in his or her professional capacity.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:199:1911; A1941,
+381; 1931 NCL ï¿½ 5241]—(NRS A1983,
+135;1985,
+290;2017,
+1754)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-400">
+          <num>440.400</num>
+          <heading>Effect of using indefinite or unsatisfactory terms on
+certificate.</heading>
+          <content>
+            <p>Indefinite and
+unsatisfactory terms, indicating only symptoms of disease or conditions
+resulting from disease, will not be held sufficient for issuing a burial or
+removal permit. Any certificate containing only such terms as defined by the
+State Board of Health shall be returned to the physician or advanced practice
+registered nurse for correction and more definite statement.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:199:1911; A1941,
+381; 1931 NCL ï¿½ 5241]—(NRS A2017,
+1754)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-410">
+          <num>440.410</num>
+          <heading>Manner of defining cause of death.</heading>
+          <content>
+            <p>Causes
+of death, which may be the result of either disease or violence, shall be
+carefully defined; and if from violence, the means of injury shall be stated,
+and whether (probably) accidental, suicidal or homicidal.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:199:1911; A1941,
+381; 1931 NCL ï¿½ 5241]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-415">
+          <num>440.415</num>
+          <heading>Pronouncement of death by registered nurse or physician
+assistant: Conditions; release of body; regulations.</heading>
+          <subsection eId="440-415__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A physician who anticipates the death
+of a patient because of an illness, infirmity or disease may authorize a
+specific registered nurse or physician assistant or the registered nurses or
+physician assistants employed by a medical facility or program for hospice care
+to make a pronouncement of death if they attend the death of the patient. An
+advanced practice registered nurse who anticipates the death of a patient because
+of an illness, infirmity or disease may authorize a specific registered nurse
+or the registered nurses employed by a medical facility or program for hospice
+care to make a pronouncement of death if they attend the death of the patient.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-415__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Such an authorization is valid for 120
+days. Except as otherwise provided in subsection 3, the authorization must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-415__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be a written order entered on the chart of
+the patient;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-415__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>State the name of the registered nurse or
+nurses or physician assistant or assistants authorized to make the
+pronouncement of death; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-415__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Be signed and dated by the physician or
+advanced practice registered nurse.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-415__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the patient is in a medical facility
+or under the care of a program for hospice care, the physician may authorize
+the registered nurses or physician assistants employed by the facility or
+program, or an advanced practice registered nurse may authorize such a
+registered nurse, to make pronouncements of death without specifying the name
+of each nurse or physician assistant, as applicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-415__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a pronouncement of death is made by
+a registered nurse or physician assistant, the physician or advanced practice
+registered nurse who authorized that action shall sign the medical certificate
+of death within 24 hours after being presented with the certificate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-415__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If a patient in a medical facility is
+pronounced dead by a registered nurse or physician assistant employed by the
+facility, the registered nurse or physician assistant may release the body of
+the patient to a licensed funeral director pending the completion of the
+medical certificate of death by the attending physician or attending advanced
+practice registered nurse if the physician, advanced practice registered nurse or
+the medical director or chief of the medical staff of the facility has
+authorized the release in writing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-415__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Board may adopt regulations
+concerning the authorization of a registered nurse or physician assistant to
+make pronouncements of death.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-415__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-415__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Advanced practice registered nurseï¿½ means a
+registered nurse who holds a valid license as an advanced practice registered
+nurse issued by the State Board of Nursing pursuant toNRS 632.237.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-415__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Medical facilityï¿½ means:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="440-415__subsec_7__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A facility for skilled nursing as
+defined inNRS 449.0039;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="440-415__subsec_7__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A facility for hospice care as defined
+inNRS 449.0033;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="440-415__subsec_7__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>A hospital as defined inNRS 449.012;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="440-415__subsec_7__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>An agency to provide nursing in the
+home as defined inNRS 449.0015; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="440-415__subsec_7__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>A facility for intermediate care as
+defined inNRS 449.0038.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="440-415__subsec_7__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>ï¿½Physician assistantï¿½ means a person who
+holds a license as a physician assistant pursuant tochapter 630or633of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-415__subsec_7__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>ï¿½Program for hospice careï¿½ means a program
+for hospice care licensed pursuant tochapter 449of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-415__subsec_7__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>ï¿½Pronouncement of deathï¿½ means a declaration
+of the time and date when the cessation of the cardiovascular and respiratory
+functions of a patient occurs as recorded in the patientï¿½s medical record by
+the attending provider of health care in accordance with the provisions of this
+chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1993,
+1158; A1999,
+247;2005,
+2519;2007,
+1855;2017,
+1755)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-420">
+          <num>440.420</num>
+          <heading>Duties of funeral director, health officer, coroner and
+coronerï¿½s deputy when death occurs without medical attendance.</heading>
+          <subsection eId="440-420__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In case of any death occurring without
+medical attendance, the funeral director shall notify the local health officer,
+coroner or coronerï¿½s deputy of such death and refer the case to the local
+health officer, coroner or coronerï¿½s deputy for immediate investigation and
+certification.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-420__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Where there is no qualified physician
+or advanced practice registered nurse in attendance, and in such cases only,
+the local health officer is authorized to make the certificate and return from
+the statements of relatives or other persons having adequate knowledge of the
+facts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-420__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the death was caused by unlawful or
+suspicious means, the local health officer shall then refer the case to the
+coroner for investigation and certification.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-420__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In counties which have adopted an
+ordinance authorizing a coronerï¿½s examination in cases of sudden infant death
+syndrome, the funeral director shall notify the local health officer whenever
+the cause or suspected cause of death is sudden infant death syndrome. The
+local health officer shall then refer the case to the coroner for investigation
+and certification.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-420__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The coroner or the coronerï¿½s deputy may
+certify the cause of death in any case which is referred to the coroner by the
+local health officer or pursuant to a local ordinance.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 8:199:1911; A1937,
+162; 1931 NCL ï¿½ 5242]—(NRS A1975,
+1416;1977,
+352;1983,
+135;2013,
+148;2017,
+1756)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-430">
+          <num>440.430</num>
+          <heading>Duties of coroner.</heading>
+          <subsection eId="440-430__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any coroner whose duty it is to hold an
+inquest on the body of any deceased person, and to make the certificate of
+death required for a burial permit, shall state in the coronerï¿½s certificate
+the name of the disease causing death, or, if from external causes:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-430__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The means of death; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-430__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Whether (probably) accidental, suicidal or
+homicidal.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-430__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In either case, the coroner shall
+furnish such information as may be required by the Board in order to classify
+the death properly.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 8:199:1911; A1937,
+162; 1931 NCL ï¿½ 5242]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-433">
+          <num>440.433</num>
+          <heading>Notice to parents or guardian of autopsy upon body of minor;
+placement of internal organs.</heading>
+          <subsection eId="440-433__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When an autopsy is performed upon the
+body of a minor, the person who orders the autopsy shall make a diligent effort
+to give the parents or guardian of the minor notice of the autopsy in person,
+by telephone or by mail.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-433__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The internal organs must, if feasible,
+be kept with the body after such an autopsy is completed.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1793)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-435">
+          <num>440.435</num>
+          <heading>Death caused by sudden infant death syndrome: Ordinance may
+authorize postmortem examination; duties of coroner.</heading>
+          <subsection eId="440-435__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board of county commissioners of
+any county may provide by ordinance that in all cases where the cause or
+suspected cause of a death is sudden infant death syndrome, the coroner may
+take possession of the body, exhuming the body if necessary, and authorize the
+performance of a postmortem examination thereon. Such examination may include
+an analysis of the stomach, stomach contents, blood, organs, fluids or tissues
+of the body.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-435__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The findings resulting from the
+examination performed under subsection 1, including the opinions and
+conclusions of the examining physician, shall be reduced to writing and
+included in the coronerï¿½s record of death. The coroner shall file a copy of
+such report with the State Registrar.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+1415)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-437">
+          <num>440.437</num>
+          <heading>Death caused by sudden infant death syndrome: Report by State
+Registrar.</heading>
+          <content>
+            <p>The State Registrar
+shall annually publish a report specifying the number of postmortem
+examinations performed, pursuant toNRS
+440.435, where the cause or suspected cause of death was sudden infant
+death syndrome. Such report shall also specify the number of such cases in
+which the cause of death was determined by the coroner to be sudden infant
+death syndrome.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+1415)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-440">
+          <num>440.440</num>
+          <heading>Duties of funeral director and sheriff upon death of unknown
+person.</heading>
+          <subsection eId="440-440__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In any case of a death occurring to
+anyone whose identity is unknown, before burying the body the funeral director
+shall annex to the certificate of death a certificate from the sheriff that the
+sheriff has on file in his or her office the fingerprints of the body.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-440__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Sheriffs of the respective counties
+shall maintain in their respective offices a file known as the unidentified
+deceased persons file. Sheriffs shall, without further compensation, see that
+such fingerprints are obtained as provided in this section and placed in the
+file as a public record.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 8:199:1911; A1937,
+162; 1931 NCL ï¿½ 5242]—(NRS A1983,
+135)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-450">
+          <num>440.450</num>
+          <heading>Prerequisites to disposal of body.</heading>
+          <content>
+            <p>The
+funeral director or person acting as undertaker is responsible for obtaining
+and filing the certificate of death with the local health officer, or his or
+her deputy, in the registration district in which the death occurred, and for
+securing a burial or removal permit prior to any disposition of the body.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 9:199:1911; RL ï¿½ 2960; NCL ï¿½ 5243]—(NRS A1983,
+135)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-460">
+          <num>440.460</num>
+          <heading>Personal and statistical information.</heading>
+          <content>
+            <p>The
+funeral director or person acting as undertaker shall obtain the personal and
+statistical particulars required from the person best qualified to supply them,
+over the signature and address of his or her informant.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 9:199:1911; RL ï¿½ 2960; NCL ï¿½ 5243]—(NRS A1983,
+136)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-470">
+          <num>440.470</num>
+          <heading>Presentation of certificate of death.</heading>
+          <content>
+            <p>The
+funeral director or person acting as undertaker shall present the certificate
+to the attending physician or attending advanced practice registered nurse, if
+any, or to the health officer or coroner, for the medical certificate of the
+cause of death and other particulars necessary to complete the record unless
+the attending physician or attending advanced practice registered nurse
+initiated the record of death and provided the required information at the time
+of death.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 9:199:1911; RL ï¿½ 2960; NCL ï¿½ 5243]—(NRS A1983,
+136;2017,
+1756,2765)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-480">
+          <num>440.480</num>
+          <heading>Statement as to disposition of body.</heading>
+          <content>
+            <p>The
+funeral director or person acting as undertaker shall state the facts required
+relative to the date and place of burial over his or her signature and with his
+or her address.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 9:199:1911; RL ï¿½ 2960; NCL ï¿½ 5243]—(NRS A1983,
+136)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-490">
+          <num>440.490</num>
+          <heading>Presentation of completed certificate of death to local registrar.</heading>
+          <content>
+            <p>The funeral director or person acting as
+undertaker shall present the completed certificate of death to the local
+registrar within 72 hours after the occurrence or discovery of the death. If a
+case is referred to the coroner, he or she shall present a completed
+certificate to the local registrar upon disposition of the investigation.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 9:199:1911; RL ï¿½ 2960; NCL ï¿½ 5243]—(NRS A1977,
+352;1981,
+467;1983,
+136)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-495">
+          <num>440.495</num>
+          <heading>Notification of county clerk or registrar of voters.</heading>
+          <content>
+            <p>Upon presentation of a completed certificate
+of death, the county health officer shall send a certified copy of the
+certificate of death or a certified list of any person who, at the time of
+death was 17 years of age or older, to the county clerk or registrar of voters
+of the county where the deceased person resided. Each certified list must
+contain the social security numbers of the persons whose names are included on
+the list.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+2174; A1997,
+2341)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-500">
+          <num>440.500</num>
+          <heading>Burial and removal permits: Issuance; contents; death from
+infectious, contagious or communicable disease.</heading>
+          <subsection eId="440-500__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as provided in subsections 2 and
+3, if a certificate of death is properly executed and complete, the local
+health officer shall then issue a burial or removal permit to the funeral
+director. The permit must indicate the name of the cemetery, mausoleum,
+columbarium or other place of burial where the human remains will be interred,
+inurned or buried.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-500__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In case the death occurred from some
+disease that is held by the Board to be infectious, contagious, or communicable
+and dangerous to the public health, no permit for the removal or other
+disposition of the body may be granted by the local health officer except under
+such conditions as may be prescribed by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-500__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Board may by regulation provide for
+the issuance of the burial transit permit prior to the filing of the completed
+death certificate if that requirement would result in undue hardship.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 19:199:1911; RL ï¿½ 2970; NCL ï¿½ 5253]—(NRS A1961,
+255;1977,
+352;1983,
+136)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-510">
+          <num>440.510</num>
+          <heading>Contents of burial permit.</heading>
+          <content>
+            <p>If
+the interment or other disposition of the body is to be made within the State,
+the wording of the burial permit may be limited to a statement by the local
+health officer and over his or her signature that a satisfactory certificate of
+death having been filed with him or her as required by law, permission is
+granted to inter, remove or otherwise dispose of the body of the deceased. The
+permit must include the name, age, sex, social security number and cause of
+death of the decedent, the name of the place where the human remains will be
+interred, inurned or buried, and any other details required on the form
+prescribed by the Board.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [10:199:1911; RL ï¿½ 2961; NCL ï¿½ 5244]—(NRS A1961,
+255;1997,
+2341)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-520">
+          <num>440.520</num>
+          <heading>Disposition of burial or removal permit.</heading>
+          <subsection eId="440-520__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Deliver the burial permit to the sexton
+or person in charge of the place of burial, before interring or otherwise
+disposing of the body.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-520__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Attach the removal permit to the box
+containing the body, when shipped by any transportation company.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 9:199:1911; RL ï¿½ 2960; NCL ï¿½ 5243]—(NRS A1983,
+136)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-530">
+          <num>440.530</num>
+          <heading>Burial permit to accompany body.</heading>
+          <content>
+            <p>The
+permit shall accompany the body to its destination, where, if within the State
+of Nevada, it shall be delivered to the sexton or to any other person in charge
+of the place of burial.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 9:199:1911; RL ï¿½ 2960; NCL ï¿½ 5243]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-540">
+          <num>440.540</num>
+          <heading>Necessity for permit to inter more than 72 hours after death;
+removal of body to another registration district.</heading>
+          <subsection eId="440-540__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as provided in subsection 2, the
+body of any person whose death occurs in this state shall not be interred,
+deposited in a vault or tomb, cremated or otherwise disposed of, removed from
+or into any registration district, or be held temporarily pending a further
+disposition more than 72 hours after death, until a permit for burial or
+removal or other disposition thereof has been properly issued by the local
+health officer of the registration district in which the death occurred.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-540__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the person who is to certify the
+cause of death consents, a body may be moved from the place of death into
+another registration district to be prepared for final disposition.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 23:199:1911; RL ï¿½ 2974; NCL ï¿½ 5257]—(NRS A1977,
+353)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-550">
+          <num>440.550</num>
+          <heading>Body transported from another state.</heading>
+          <content>
+            <p>When
+a dead body is transported by a common carrier into a local health district in
+Nevada for burial, the transit and removal permit, issued in accordance with
+the law and health regulations of the place where the death occurred, shall be
+accepted by the local health officer of the district into which the body has
+been transported for burial or other disposition as a basis upon which he or she
+shall issue a local burial permit in the same way as if the death occurred in
+his or her district. The local health officer shall plainly enter upon the face
+of the burial permit the fact that it was a body shipped in for interment, and
+give the actual place of death.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 23:199:1911; RL ï¿½ 2974; NCL ï¿½ 5257]—(NRS A1977,
+353)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-560">
+          <num>440.560</num>
+          <heading>Interment without burial permit prohibited.</heading>
+          <content>
+            <p>No sexton or other person in charge of any
+premises in which interments are made shall inter or permit the interment or
+other disposition of any body unless it is accompanied by a burial, removal or
+transit permit as provided in this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 11:199:1911; RL ï¿½ 2962; NCL ï¿½ 5245]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-570">
+          <num>440.570</num>
+          <heading>Validity of burial permit in another district.</heading>
+          <content>
+            <p>A burial permit shall not be required from the
+local health officer of the district in which interment is made when a body is
+removed from one district in Nevada to another in this state for the purpose of
+burial or other disposition, either by common carrier, hearse or other
+conveyance.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 23:199:1911; RL ï¿½ 2974; NCL ï¿½ 5257]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-580">
+          <num>440.580</num>
+          <heading>Signature, endorsement and return of permit.</heading>
+          <content>
+            <p>Each sexton or person in charge of any burial
+ground shall endorse upon the permit the date of interment, over his or her
+signature, and shall return all permits so endorsed to the local health officer
+of his or her district within 10 days from the date of interment or within the
+time fixed by the local health officer or by the Board.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 11:199:1911; RL ï¿½ 2962; NCL ï¿½ 5245]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-590">
+          <num>440.590</num>
+          <heading>Records of interments.</heading>
+          <subsection eId="440-590__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each sexton or person in charge of any
+burial ground shall keep a record of all interments made in the premises under
+his or her charge, stating:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-590__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The name of the deceased person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-590__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The place of death.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-590__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The date of burial.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-590__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The name and address of the funeral director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-590__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The record must be open to public
+inspection at all times.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 11:199:1911; RL ï¿½ 2962; NCL ï¿½ 5245]—(NRS A1983,
+136)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-595">
+          <num>440.595</num>
+          <heading>Filing with State Registrar; duties of county recorder, certain
+county clerks and State Registrar.</heading>
+          <subsection eId="440-595__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A record of each marriage performed in
+this State must be filed with the State Registrar as provided in this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-595__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each county recorder and each county
+clerk that is required to file certificates of marriage shall, on or before the
+10th day of the following month, forward to the State Registrar the information
+contained on each certificate of marriage delivered to him or her during the
+preceding month. The information must be forwarded in a form approved by the
+Division of Public and Behavioral Health of the Department of Health and Human
+Services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-595__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The State Registrar shall enter in the
+records of the State Registrar the names of the parties, the date of the
+marriage and the county in which it was performed and recorded.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1108; A1975,
+1426;1987,
+779;2007,
+891)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-600">
+          <num>440.600</num>
+          <heading>County clerk required to report number of marriage licenses
+issued.</heading>
+          <content>
+            <p>On or before January 10
+and July 10 of each year the county clerks of the several counties shall
+transmit to the State Registrar the number of marriage licenses issued by them
+during the preceding 6 months.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [34:199:1911; added1919,
+221; 1919 RL p. 2894; NCL ï¿½ 5268]—(NRS A1963,
+943)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-605">
+          <num>440.605</num>
+          <heading>Reports to be filed by clerk of district court with State
+Registrar; fees.</heading>
+          <subsection eId="440-605__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>For each divorce and annulment of
+marriage granted by any court in this state a report must be prepared and filed
+by the clerk of the district court with the State Registrar. The information
+necessary to prepare the report must be furnished, with the complaint in the
+action, to the clerk of the district court by the complainant or the
+complainantï¿½s legal representative on the form furnished by the State
+Registrar.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-605__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>On the first business day of each month
+the clerk of the district court shall forward to the State Registrar the report
+of each divorce and annulment granted during the preceding calendar month.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-605__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Every clerk of the district court shall
+collect, at the time the complaint is filed in any action for divorce or
+annulment of marriage, a fee of $10, which the clerk shall forward to the State
+Controller to be deposited in the State General Fund. This fee is in addition
+to the other costs in the case.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1108; A1969,
+389;1983,
+335;2001,
+2927)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-610">
+          <num>440.610</num>
+          <heading>Certificate as prima facie evidence.</heading>
+          <content>
+            <p>Each
+certificate, as provided for in this chapter, filed within 6 months after the
+time prescribed for their filing, shall be prima facie evidence of the facts
+therein stated. Data pertaining to the parent who did not give birth to a child
+is such evidence if the alleged parent is, or becomes, the spouse of the person
+who gave birth to the child in a legal marriage; if not, the data pertaining to
+the parent who did not give birth to a child is not such evidence in any civil
+or criminal proceeding adverse to the interests of the alleged father, or of
+his heirs, devisees or other successors in interest, if the paternity is
+controverted.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [20a:199:1911; added1941,
+381; 1931 NCL ï¿½ 5254.01]—(NRS A2021,
+3431)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-620">
+          <num>440.620</num>
+          <heading>Proof required for filing of delayed certificate.</heading>
+          <content>
+            <p>The acceptance for filing of any certificate
+by the State Registrar more than 1 year after the time prescribed for its
+filing shall be subject to regulations in which the Board shall prescribe in
+detail the proofs to be submitted by any applicant for delayed filing of a
+certificate.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [42:199:1911; added1941,
+381; A1943,
+204; 1943 NCL ï¿½ 5268.11]—(NRS A2013,
+149)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-630">
+          <num>440.630</num>
+          <heading>Procedure for delayed or altered certificates.</heading>
+          <subsection eId="440-630__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Certificates accepted subsequent to 1
+year after the time prescribed for filing and certificates which have been
+altered after being filed with the State Registrar shall contain the date of
+the delayed filing and the date of the alteration and be marked distinctly
+ï¿½Delayedï¿½ or ï¿½Altered.ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-630__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>After a certificate has been accepted
+for delayed filing or after the Board has permitted an alteration of a
+certificate on file, the alteration shall be noted by the State Registrar on
+the reverse side of the certificate, together with a summary statement of the
+evidence submitted in support of the alteration.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-630__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>All the evidence affecting the
+alteration of a certificate, after it has been filed with the State Registrar,
+shall be kept in a special permanent file.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [43:199:1911; added1941,
+381; 1931 NCL ï¿½ 5268.12]—(NRS A2013,
+149)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-640">
+          <num>440.640</num>
+          <heading>Delayed or altered certificates as evidence.</heading>
+          <content>
+            <p>The admissibility in evidence of a ï¿½delayedï¿½
+or ï¿½alteredï¿½ certificate shall be subject to the discretion of the court,
+judicial or administrative body or official to whom any such certificate is
+offered as evidence.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [44:199:1911; added1941,
+381; 1931 NCL ï¿½ 5268.13]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-650">
+          <num>440.650</num>
+          <heading>Issuance of certified copy of certificate; limitation; notification
+concerning documents missing from application.</heading>
+          <subsection eId="440-650__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon request, the State Registrar shall
+furnish any applicant a certified copy of the record of any birth or death
+registered under the provisions of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-650__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Registrar shall not issue a
+certified copy of a certificate or parts thereof unless the State Registrar is
+satisfied that the applicant therefor has a direct and tangible interest in the
+matter recorded, subject, however, to review by the Board or a court of
+competent jurisdiction under the limitations ofNRS 440.170.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-650__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The State Registrar shall, upon
+determining that required documents are missing from an application for a
+certified copy of a certificate of birth, notify the applicant of the
+deficiency. Such notice must include, without limitation, notice of the
+additional documents that the applicant must submit. If the applicant is a
+homeless person who submits on a form prescribed by the State Registrar a
+statement signed under penalty of perjury that the person is homeless, the
+State Registrar shall allow the applicant at least 30 days after the date of
+the notice to submit the missing documents. The State Registrar shall not
+require the signed statement to be notarized.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 20:199:1911; A1955,
+419] + [Part 5:119:1929; A1945,
+39; 1943 NCL ï¿½ 5281] + [Part 45:199:1911; added1941,
+381; 1931 NCL ï¿½ 5268.14]—(NRS A2023,
+1864)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-660">
+          <num>440.660</num>
+          <heading>Certified copy of record of birth or death is prima facie
+evidence.</heading>
+          <content>
+            <p>Any copy of the record
+of a birth or death when properly certified by the State Registrar to be a true
+copy thereof shall be prima facie evidence in all courts and places of the
+facts therein stated.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 20:199:1911; A1955,
+419] + [Part 5:119:1929; A1945,
+39; 1943 NCL ï¿½ 5281]—(NRS A1963,
+943)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-670">
+          <num>440.670</num>
+          <heading>Abstracted birth certificate: Issuance; contents; form; use as
+evidence.</heading>
+          <subsection eId="440-670__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon request, the State Registrar shall
+supply to any applicant a certificate reciting the birth date, sex, race and
+birthplace of any person whose birth is registered under the provisions of this
+chapter. The certificate must show that the data therein contained is as
+disclosed by the record of the birth.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-670__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board may, by regulation, authorize
+county health officers to issue such certificates. The Board shall determine
+the standard form for the abstracted certificates.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-670__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Every such certificate is prima facie
+evidence in all courts and places of the facts therein stated.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:119:1929; A1945,
+39; 1943 NCL ï¿½ 5281]—(NRS A1981,
+467;1993,
+107)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-690">
+          <num>440.690</num>
+          <heading>Receipt of fees: Accounting; deposit; refunding overpayments;
+use of certain proceeds.</heading>
+          <subsection eId="440-690__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Registrar shall keep a true
+and correct account of all fees received under this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-690__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The money collected pursuant to
+subsection 2 ofNRS 440.700must be
+remitted by the State Registrar to the State Treasurer for credit to the
+Childrenï¿½s Trust Account created byNRS
+432.131. The money collected pursuant to subsection 3 ofNRS 440.700must be remitted by the State
+Registrar to the State Treasurer for credit to the Review of Death of Children
+Account created byNRS 432B.409. The
+money collected pursuant to subsection 4 ofNRS
+440.700must be remitted by the State Registrar to the State Treasurer for
+credit to the Grief Support Trust Account created byNRS 439.5132. Any money collected pursuant
+to subsection 6 ofNRS 440.700must be
+remitted by the State Registrar to the county treasurers of the various
+participating counties for credit to their accounts for the support of the
+offices of the county coroners created pursuant toNRS 259.025. Any other proceeds accruing to
+the State of Nevada under the provisions of this chapter may be used by the
+Division of Public and Behavioral Health of the Department of Health and Human
+Services to administer and carry out the provisions of this chapter and any
+regulations adopted pursuant thereto.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 20:199:1911; A1955,
+419] + [2:199:1911; added1945,
+177; 1943 NCL ï¿½ 5267.A] + [Part 5:119:1929; A1945,
+39; 1943 NCL ï¿½ 5281] + [7:119:1929; A1943,
+201; 1943 NCL ï¿½ 5283]—(NRS A1975,
+258;1985,
+615;1999,
+1498;2003,
+865;2005,
+474,1061;2013,
+1472;2017,
+3171)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-700">
+          <num>440.700</num>
+          <heading>Fees for services and copies of certificates; certificates
+available without fee to certain persons.</heading>
+          <subsection eId="440-700__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, the State Registrar shall charge and collect a fee in an amount
+established by the State Registrar by regulation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-700__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For searching the files for one name, if no
+copy is made.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-700__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For verifying a vital record.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-700__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For establishing and filing a record of
+paternity, other than a hospital-based paternity, and providing a certified
+copy of the new record.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-700__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For a certified copy of a record of birth.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-700__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>For a certified copy of a record of death
+originating in a county in which the board of county commissioners has not
+created an account for the support of the office of the county coroner pursuant
+toNRS 259.025.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-700__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>For a certified copy of a record of death
+originating in a county in which the board of county commissioners has created
+an account for the support of the office of the county coroner pursuant toNRS 259.025.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-700__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>For correcting a record on file with the
+State Registrar and providing a certified copy of the corrected record.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-700__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>For replacing a record on file with the State
+Registrar and providing a certified copy of the new record.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-700__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>For filing a delayed certificate of birth and
+providing a certified copy of the certificate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-700__subsec_1__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>For the services of a notary public, provided
+by the State Registrar.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-700__subsec_1__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>For an index of records of marriage provided
+on microfiche to a person other than a county clerk or a county recorder of a
+county of this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-700__subsec_1__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>For an index of records of divorce provided on
+microfiche to a person other than a county clerk or a county recorder of a
+county in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-700__subsec_1__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>For compiling data files which require
+specific changes in computer programming.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-700__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The fee collected for furnishing a copy
+of a certificate of birth or death must include the sum of $3 for credit to the
+Childrenï¿½s Trust Account created byNRS
+432.131.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-700__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The fee collected for furnishing a copy
+of a certificate of death must include the sum of $1 for credit to the Review
+of Death of Children Account created byNRS
+432B.409.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-700__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The fee collected for furnishing a copy
+of a certificate of death must include the sum of 50 cents for credit to the
+Grief Support Trust Account created byNRS
+439.5132.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-700__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The State Registrar shall not charge a
+fee for furnishing a certified copy of a record of birth to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-700__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A homeless person, including, without
+limitation, a homeless child or youth, who submits on a form prescribed by the
+State Registrar a statement signed under penalty of perjury that the person is
+homeless. The State Registrar shall not require such a statement to be
+notarized.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-700__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who submits documentation from the
+Department of Corrections verifying that the person is imprisoned or was
+released from prison within the immediately preceding 90 days.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-700__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A staff person of a local educational agency who
+has been designated pursuant to 42 U.S.C. ï¿½ 11432</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-700__subsec_5__subsec_g">
+              <num>(g)</num>
+              <subparagraph eId="440-700__subsec_5__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>(J)(ii) for a certified
+copy of a record of birth of a homeless child or youth who is enrolled in the
+local educational agency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="440-700__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A social worker licensed to practice in this
+State, for a certified copy of a record of birth of a homeless child or youth
+who is a client of the social worker.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="440-700__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The fee collected for furnishing a copy
+of a certificate of death originating in a county in which the board of county
+commissioners has created an account for the support of the office of the
+county coroner pursuant toNRS 259.025must include the sum of $4 for credit to the account for the support of the
+office of the county coroner of the county in which the certificate originates.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-700__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Upon the request of any parent or
+guardian or an unaccompanied youth, the State Registrar shall supply, without
+the payment of a fee, a certificate limited to a statement as to the date of
+birth of any child or of the unaccompanied youth as disclosed by the record of
+such birth when the certificate is necessary for admission to school or for
+securing employment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-700__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>The United States Bureau of the Census
+may obtain, without expense to the State, transcripts or certified copies of
+births and deaths without payment of a fee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-700__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-700__subsec_9__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Homeless child or youthï¿½ has the meaning
+ascribed to it in 42 U.S.C. ï¿½ 11434a.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-700__subsec_9__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Local educational agencyï¿½ has the meaning
+ascribed to it in 42 U.S.C. ï¿½ 11434a.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-700__subsec_9__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>ï¿½Unaccompanied youthï¿½ has the meaning
+ascribed to it in 42 U.S.C. ï¿½ 11434a.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:119:1929; A1945,
+39; 1943 NCL ï¿½ 5281]—(NRS A1981,
+467;1985,
+616;1991,
+848;1997,
+908;2003,
+866,2570;2005,
+474,1061,1214;2007,
+891;2010,
+26th Special Session, 89;2011,
+2603;2017,
+3172;2019,
+4165,4506;2021,
+34,522)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-710">
+          <num>440.710</num>
+          <heading>Salary or fee of deputy registrar; local health officer
+prohibited from charging fee for issuance of burial or removal permit.</heading>
+          <subsection eId="440-710__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In counties where deputy registrars are
+appointed, the board of county commissioners shall allow them a monthly salary
+or the sum of $1 for each birth and death certificate executed by them.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-710__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>No local health officer may require
+from funeral directors or persons acting as undertakers any fee for the
+issuance of burial or removal permits under this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 6:199:1911; A1913,
+126;1919,
+221; 1919 RL ï¿½ 2957; NCL ï¿½ 5240] + [Part 23:199:1911; RL ï¿½ 2974; NCL ï¿½
+5257] + [4:119:1929; NCL ï¿½ 5280]—(NRS A1969,
+727;1983,
+137)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-715">
+          <num>440.715</num>
+          <heading>Fee for support of office of county coroner.</heading>
+          <subsection eId="440-715__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a board of county commissioners creates
+an account for the support of the county coroner pursuant toNRS 259.025, a district health officer who
+provides a certified copy of a record of death originating in that county shall
+charge and collect, in addition to any other fee therefor, the sum of $4 for
+the support of the office of the county coroner created pursuant toNRS 244.163.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-715__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The district health officer shall remit
+any money collected pursuant to this section to the county treasurer of the
+county in which the certificate originates for credit to the account for the
+support of the office of the county coroner created pursuant toNRS 259.025.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+1060; A2019,
+4166)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-720">
+          <num>440.720</num>
+          <heading>Neglect or refusal of physician or advanced practice registered
+nurse to execute medical certificate of death.</heading>
+          <content>
+            <p>Any
+physician or advanced practice registered nurse who was in medical attendance
+upon any deceased person at the time of death who neglects or refuses to make
+out and deliver to the funeral director, sexton or other person in charge of
+the interment, removal or other disposition of the body, upon request, the
+medical certificate of the cause of death shall be punished by a fine of not
+more than $250.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 21:199:1911; RL ï¿½ 2972; NCL ï¿½ 5255]—(NRS A1967,
+577;1979,
+1469;1983,
+137;2017,
+1756)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-730">
+          <num>440.730</num>
+          <heading>False certification of cause of death by physician or advanced
+practice registered nurse.</heading>
+          <content>
+            <p>If any
+physician or advanced practice registered nurse knowingly makes a false
+certification of the cause of death in any case, the physician or advanced
+practice registered nurse shall be punished by a fine of not more than $250.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 21:199:1911; RL ï¿½ 2972; NCL ï¿½ 5255]—(NRS A1967,
+578;1979,
+1469;2017,
+1756)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-735">
+          <num>440.735</num>
+          <heading>Affixing of signature to uncompleted certificate of death.</heading>
+          <subsection eId="440-735__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, it is unlawful for any person to affix his or her signature to an
+uncompleted death certificate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-735__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A physician, advanced practice
+registered nurse, health officer or coroner may affix his or her signature to
+an uncompleted death certificate after completing the portions of the death
+certificate applicable to the physician, advanced practice registered nurse,
+health officer or coroner.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+661; A2017,
+2765)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-740">
+          <num>440.740</num>
+          <heading>Failure or refusal to file certificate of birth with local
+health officer.</heading>
+          <content>
+            <p>Any physician or
+midwife in attendance upon a case of confinement or any person charged with
+responsibility for reporting births who neglects or refuses to file a proper
+certificate of birth with the local health officer within the time required by
+law shall be punished by a fine of not more than $250.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 21:199:1911; RL ï¿½ 2972; NCL ï¿½ 5255]—(NRS A1967,
+578;1979,
+1469)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-750">
+          <num>440.750</num>
+          <heading>Interment, removal or other disposition of dead body without
+permit.</heading>
+          <content>
+            <p>Any funeral director,
+sexton or other person in charge of the disposal who inters, removes or
+otherwise disposes of the body of any deceased person without having received a
+burial or removal permit shall be punished by a fine of not more than $250.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 21:199:1911; RL ï¿½ 2972; NCL ï¿½ 5255]—(NRS A1967,
+578;1979,
+1470;1983,
+137)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-760">
+          <num>440.760</num>
+          <heading>Alteration of certificate of birth or death.</heading>
+          <content>
+            <p>Any person who shall willfully alter any
+certificate of birth or death, or the copy of any certificate of birth or
+death, on file in the office of the local or State Board of Health, shall be
+guilty of a misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 21:199:1911; RL ï¿½ 2972; NCL ï¿½ 5255]—(NRS A1967,
+578)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-765">
+          <num>440.765</num>
+          <heading>Use or possession of certificate of birth of another person.</heading>
+          <subsection eId="440-765__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>It is unlawful for any person to obtain
+or possess the birth certificate of another for the purpose of establishing a
+false identity for himself or herself or any other person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-765__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who has in his or her
+possession the birth certificate of another person without lawful reason for
+being in possession of the birth certificate or who uses the birth certificate
+of another in the commission of a misdemeanor, is guilty of a misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-765__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person who has in his or her
+possession two or more birth certificates of other persons without lawful
+reason for being in possession of the birth certificates or who uses the birth
+certificate of another person in the commission of a gross misdemeanor is
+guilty of a gross misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-765__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A person who uses the birth certificate
+of another person to aid in the commission of a felony is guilty of a category
+D felony and shall be punished as provided inNRS
+193.130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-765__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The offenses described in this section
+are separate from the primary offense if any, and the unlawful possession of a
+birth certificate is a separate offense from its unlawful use.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+1483; A1995,
+1278)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-770">
+          <num>440.770</num>
+          <heading>Furnishing false information for certificate of birth or death.</heading>
+          <content>
+            <p>Any person who furnishes false information to
+a physician, advanced practice registered nurse, funeral director, midwife or
+informant for the purpose of making incorrect certification of births or deaths
+shall be punished by a fine of not more than $250.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 21:199:1911; RL ï¿½ 2972; NCL ï¿½ 5255]—(NRS A1967,
+578;1979,
+1470;1983,
+137;2017,
+1756)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-773">
+          <num>440.773</num>
+          <heading>Sale for profit of copy or abstract of certificate of marriage.</heading>
+          <content>
+            <p>Any person who sells or offers to sell for a
+profit a copy of a certificate of marriage or an abstract of a recorded
+certificate of marriage issued by a county clerk or county recorder is guilty
+of a misdemeanor. Each sale or offer to sell such a certificate constitutes a
+separate violation of this section. This section does not apply to fees charged
+by a county clerk or county recorder.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+97; A1991,
+70;2007,
+892)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-775">
+          <num>440.775</num>
+          <heading>Injunction against sale for profit of copy of certificate of
+marriage.</heading>
+          <subsection eId="440-775__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person who violates or proposes to
+violate the provisions ofNRS 440.773may be enjoined by any court of competent jurisdiction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="440-775__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Actions for injunction under this
+section may be prosecuted:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="440-775__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>By the Attorney General or any district
+attorney in this State; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="440-775__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon the complaint of the State Registrar or
+any county recorder or any county clerk that is authorized to file certificates
+of marriage.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+97; A2007,
+892)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_440-780">
+          <num>440.780</num>
+          <heading>Violation of chapter or regulations of Board.</heading>
+          <content>
+            <p>Every person violating any of the provisions
+of this chapter or refusing or neglecting to obey any lawful order, rule or
+regulation of the Board shall be guilty of a misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [39:199:1911; added1939,
+297; 1931 NCL ï¿½ 5268.05]—(NRS A1967,
+578)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

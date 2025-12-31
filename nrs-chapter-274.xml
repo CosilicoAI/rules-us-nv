@@ -1,0 +1,2782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-274"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-274"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="274"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-274/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-274/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-274/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-274/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_274">
+        <num>274</num>
+        <heading>ZONES FOR ECONOMIC</heading>
+        <section eId="sec_274-010">
+          <num>274.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 274.020to274.080, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1971; A2013,
+27th Special Session, 21)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-020">
+          <num>274.020</num>
+          <heading>ï¿½Administratorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Administratorï¿½
+means the Executive Director of the Office of Economic Development.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1971; A2011,
+3452)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-030">
+          <num>274.030</num>
+          <heading>ï¿½Depressed areaï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Depressed
+areaï¿½ means an area in which pervasive poverty, unemployment and economic
+distress exist.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1971)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-040">
+          <num>274.040</num>
+          <heading>ï¿½Designating municipalityï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Designating
+municipalityï¿½ means a city, or, with respect to the unincorporated areas of the
+county, a county which designates a specially benefited zone pursuant to this
+chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1971)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-050">
+          <num>274.050</num>
+          <heading>ï¿½Governing bodyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Governing
+bodyï¿½ means the board of county commissioners, the board of supervisors, the
+city council or the board of commissioners, as the case may be.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1971)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-060">
+          <num>274.060</num>
+          <heading>ï¿½Municipalityï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Municipalityï¿½
+means any county, with respect to the unincorporated areas of the county, or
+any city in this State, including Carson City.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1971)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-070">
+          <num>274.070</num>
+          <heading>ï¿½Qualified businessï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Qualified
+businessï¿½ means any business organization qualified to receive benefits under
+this chapter and which has made an agreement concerning those benefits as
+provided byNRS 274.270.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1971)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-080">
+          <num>274.080</num>
+          <heading>ï¿½Zoneï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Zoneï¿½
+means a specially benefited zone designated and approved pursuant to this
+chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1971)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-090">
+          <num>274.090</num>
+          <heading>Administrator: Administration of chapter; regulations.</heading>
+          <subsection eId="274-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Executive Director of the Office of
+Economic Development shall serve as Administrator.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Administrator shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-090__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Administer this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-090__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Adopt all necessary regulations to carry out
+the provisions of this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1976; A2011,
+3452;2015,
+2768)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-100">
+          <num>274.100</num>
+          <heading>Administrator: Duties.</heading>
+          <subsection eId="274-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When any federal legislation concerning
+specially benefited zones is enacted and becomes effective, assist
+municipalities in preparing and submitting all information and forms necessary
+to permit the zone to be considered as an eligible area under the federal
+program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Provide information and appropriate
+assistance to persons desiring to locate and engage in business in a specially
+benefited zone, to persons already engaged in business in a zone and to
+designated neighborhood organizations operating there.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In cooperation with appropriate state
+and local governmental agencies, coordinate existing state and local programs
+to assist businesses and assist in simplifying procedures by which businesses
+within a specially benefited zone must apply for licenses and permits.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-100__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Publicize existing financial incentives
+and programs for economic development within a zone and upon request, offer
+technical assistance in the development of financial incentives and alternative
+sources of revenue to local governments which have specially benefited zones
+within their jurisdiction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-100__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Work together with the responsible
+state and federal agencies to promote the coordination of other relevant
+programs, including but not limited to programs concerning housing, community
+and economic development, small business, banking, financial assistance, and
+training for employment which are carried on in a specially benefited zone.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1976)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-110">
+          <num>274.110</num>
+          <heading>Administrator: Procedure for review of state regulations.</heading>
+          <subsection eId="274-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Administrator shall conduct a
+review of state administrative regulations and shall identify those regulations
+which preliminarily appear to the Administrator to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-110__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Affect the conduct of business, industry and
+commerce;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-110__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Impose excessive cost on either the creation
+or conduct of businesses; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-110__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Inhibit the development and expansion of
+business within specially benefited zones.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Administrator shall conduct hearings
+to solicit public comment on the regulations as part of the review.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-110__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>No later than August 1, 1984, the
+Administrator shall publish a list of regulations identified pursuant to
+subsection 1. The Administrator shall transmit a copy of the list to each agency
+which has adopted regulations on the list.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-110__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Within 90 days after the publication of
+the list by the Administrator, each agency which adopted any regulation
+identified therein shall file a written report with the Administrator detailing
+for each identified regulation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-110__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Its need or justification;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-110__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Whether the regulation is required by state
+or federal law, or is discretionary, and to what extent;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-110__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A synopsis of the history of the regulation,
+including any internal review of it by the agency after its original adoption;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-110__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Any appropriate explanation of its
+relationship to other regulatory requirements; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-110__subsec_4__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any available data, analysis and studies
+concerning the estimated economic effect of the regulations on the business
+which it is to regulate and on the public. The informational statement prepared
+as required byNRS 233B.066may be
+submitted to satisfy the requirements of this paragraph if it contains a
+current estimate of that economic effect.
+ï¿½The agencyï¿½s
+report is a public record and must be open to public inspection during regular
+business hours.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1979)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-120">
+          <num>274.120</num>
+          <heading>Administrator: Adoption of regulations exempting certain
+businesses from state regulations.</heading>
+          <subsection eId="274-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>No later than January 1, 1985, and from
+time to time as necessary, the Administrator shall, except as provided inNRS 274.140, adopt regulations exempting
+businesses within specially benefited zones from those state regulations
+contained in the list published pursuant toNRS
+274.110, for which the Administrator finds that incentives for the creation
+of jobs or for business development within specially benefited zones engendered
+by the exemption outweigh the need and justification for the regulation. In
+making such findings, the Administrator shall consider all information, data
+and opinions submitted by the public and the state agencies, and any other
+information otherwise available. These regulations must be in the form of
+amendments to the existing state regulations to be affected, and are subject to
+the provisions ofchapter 233Bof NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon its effective date, any regulation
+of the Administrator adopted under subsection 1 supersedes the exempted state
+regulation in accordance with the terms of the exemption. An exemption applies
+only to businesses within specially benefited zones during the effective term
+of the respective zones. State agencies may not adopt emergency regulations to
+circumvent an exemption granted by the Administrator. Any such emergency
+regulation is not effective within the specially benefited zones to the extent
+it is inconsistent with the terms of the exemption.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1979)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-130">
+          <num>274.130</num>
+          <heading>Exemption of businesses by agency from its regulations;
+regulations of Administrator supersede; modification of local ordinances and
+regulations of municipality.</heading>
+          <subsection eId="274-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as provided inNRS 274.140, a state agency may provide in
+its regulations for the exemption of businesses within specially benefited
+zones or for modifications or alternatives specifically applicable to
+businesses within those zones, which impose less stringent standards or
+alternative standards for compliance, including standards based on performance
+as a substitute for specific requirements concerning methods, procedures or
+equipment. The agency adopting those exemptions, modifications or alternatives
+shall file with its proposed regulation its findings that the proposed
+regulation provides economic incentives within specially benefited zones which
+promote the purposes of this chapter and which, to the extent they include any
+exemptions or reductions in regulatory standards or requirements, outweigh the
+need or justification for the existing regulation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If any agency adopts a regulation
+pursuant to subsection 1 affecting a regulation contained on the list published
+by the Administrator pursuant toNRS 274.110before the Administrator adopts a regulation affecting the regulation on the
+list, the agency shall immediately transmit a copy of its proposed regulation
+to the Administrator, together with a statement of the reasons why the
+Administrator should defer to the agencyï¿½s proposed regulation. Regulations
+adopted under subsection 1 are subject to any superseding regulations of the
+Administrator adopted underNRS 274.120.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-130__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as provided inNRS 274.140, a designating municipality may
+modify, with respect to specially benefited zones, all local ordinances and
+regulations regarding zoning, licensing or building codes.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1980)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-140">
+          <num>274.140</num>
+          <heading>Exceptions to exemptions from regulations or ordinances.</heading>
+          <subsection eId="274-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The provisions ofNRS 274.110,274.120and subsection 1 ofNRS 274.130do not apply to regulations
+adopted pursuant to any statute whose purpose is the protection of the
+environment, the preservation of historic places and landmarks, or the
+protection of persons against discrimination on the basis of race, color, religion,
+sex, sexual orientation, gender identity or expression, marital status,
+national origin or handicap.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>No exemption, modification or
+alternative to any regulation adopted underNRS
+274.110,274.120or274.130is effective which:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-140__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Presents a significant risk to the health or
+safety of persons resident in or employed within a specially benefited zone;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-140__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Conflicts with federal law or regulations
+such that the State, or any local government or any area of the State other
+than specially benefited zones, or any business located outside of a specially benefited
+zone would be disqualified from a federal program or from federal tax benefits
+or other benefits;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-140__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Suspends or modifies a regulation
+specifically required by law; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-140__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Eliminates or reduces benefits to persons who
+are residents of or employed within a zone.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1981; A2017,
+1067)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-150">
+          <num>274.150</num>
+          <heading>Qualifications for zone.</heading>
+          <subsection eId="274-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Is a contiguous area, but the area of a
+zone may exclude wholly surrounded territory within its boundaries;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Is a depressed area;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-150__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Satisfies any additional criteria
+established by regulation of the Administrator consistent with the purposes of
+this chapter; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-150__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Is entirely within a city or entirely
+within the unincorporated areas of a county, except where reasonable need is
+established for the zone to cover portions of more than one city or county.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1971)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-160">
+          <num>274.160</num>
+          <heading>Designation of area as zone; contents of ordinance.</heading>
+          <subsection eId="274-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A city, within its jurisdiction, or a
+county within the unincorporated areas of the county, or municipalities
+jointly, may by ordinance designate an area as a specially benefited zone,
+subject to the approval of the Governor, if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-160__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The area is qualified underNRS 274.150; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-160__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The municipality has conducted at least one
+public hearing within the proposed zone on:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="274-160__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The question of whether to create the
+zone;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-160__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>What local plans, financial incentives
+and other programs should be established in connection with the zone; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-160__subsec_1__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>What the boundaries of the zone should
+be.
+ï¿½Public
+notice of the hearing must be published in at least one newspaper of general
+circulation within the proposed zone, not more than 20 days nor less than 5
+days before the hearing.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An ordinance designating an area as a
+specially benefited zone must set forth:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-160__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A precise description of the area comprising
+the zone, either in the form of a legal description or by reference to
+roadways, lakes and waterways, and township, county or city boundaries;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-160__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A finding that the zone meets the
+qualifications ofNRS 274.150;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-160__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Provisions for any financial incentives which
+pursuant to state or federal law apply to qualified businesses within the zone
+at the election of the designating municipality, and which are not applicable
+throughout the municipality;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-160__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A designation of the area as a specially
+benefited zone, subject to the approval of the Governor; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-160__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The duration or term of the specially
+benefited zone.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-160__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>This section does not prohibit a
+municipality from extending additional financial incentives in specially
+benefited zones or throughout its territory by separate ordinance, if the
+provision of those incentives is otherwise authorized by law.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1971)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-170">
+          <num>274.170</num>
+          <heading>Contents of application to Governor for designation of area as
+zone.</heading>
+          <subsection eId="274-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A certified copy of the ordinance
+designating the proposed zone;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A map of the proposed zone, showing
+existing streets and highways;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An analysis, and any appropriate
+supporting documents and statistics, demonstrating that the proposed zone is
+qualified underNRS 274.150;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-170__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A statement detailing any reduction,
+deferral or elimination of any license or franchise tax, fee, service charge or
+other financial incentives or benefits, and any programs, to be provided by the
+municipality to qualified businesses within the zone, other than those provided
+in the designating ordinance, which are not to be provided throughout the
+municipality;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-170__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A statement setting forth the
+objectives concerning economic development and planning for the zone;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-170__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A statement describing the functions,
+programs and services to be performed by designated neighborhood organizations
+within the zone;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-170__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>An estimate of the economic effect of
+the zone, considering all of the financial incentives or benefits and the
+programs contemplated, upon the revenues of the municipality;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-170__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>A recording or the minutes of all
+public hearings on the zone;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-170__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>In the case of a joint application, a
+statement detailing the need for a zone covering portions of more than one city
+or county and a description of the agreement between the joint applicants; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-170__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>Such additional information as the
+Administrator by regulation may require.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1972)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-180">
+          <num>274.180</num>
+          <heading>Review of application by Administrator and Governor.</heading>
+          <subsection eId="274-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>All applications which are to be
+considered and acted upon by the Administrator and the Governor during a
+calendar year must be received by the Administrator no later than December 31
+of the preceding calendar year. Any application received on or after January 1
+of any calendar year must be held by the Administrator for consideration and
+action during the following calendar year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon receipt of an application from a
+municipality, the Administrator shall review the application to determine
+whether the designated area qualifies as a specially benefited zone underNRS 274.150and whether to recommend
+approval or denial of the application by the Governor. No later than May 1, the
+Administrator shall notify all applicant municipalities of the Administratorï¿½s
+determination of the qualification of their respective designated specially
+benefited zones. If any such designated area is found to be qualified to be a
+specially benefited zone, the Administrator shall, no later than May 15,
+publish a notice in at least one newspaper of general circulation within the
+proposed zone to notify the general public of the application and their
+opportunity to comment. The notice must include a description of the area and a
+brief summary of the application and must indicate locations where the
+applicant has provided copies of the application for public inspection. The
+notice must also indicate appropriate procedures for the filing of written
+comments from residents, businesses, civic and other organizations and property
+owners within the zone to the Administrator.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-180__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>By July 1 the Governor shall either
+approve or deny all applications filed by December 31 of the preceding year. If
+approval of an application filed by December 31 of any year is not received by
+July 1 of the following year, the application shall be considered denied. If an
+application is denied, the Administrator shall inform the municipality of the
+specific reasons for the denial.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1973)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-190">
+          <num>274.190</num>
+          <heading>Criteria for designation of zone by Governor.</heading>
+          <subsection eId="274-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In determining which designated areas
+will be approved as specially benefited zones, the Governor shall give
+preference to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-190__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Areas with high levels of poverty,
+unemployment, loss of jobs and population, and general distress;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-190__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Areas which have evidenced the widest support
+from the designating municipality, local residents and business, labor and
+neighborhood organizations;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-190__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Areas for which a specific plan has been
+submitted to effect economic growth and expansion and neighborhood
+revitalization for the benefit of residents and existing businesses within the
+zone through efforts which may include but need not be limited to a reduction
+or elimination of license or franchise taxes, fees or service charges, an
+increase in the level and efficiency of local services, and a simplification of
+governmental requirements applicable to employers or employees, taking into
+account the resources available to the municipality to make those efforts;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-190__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Areas for which there is evidence of prior
+consultation between the municipality and business, labor and neighborhood
+organizations within the proposed zone;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-190__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Areas for which a specific plan has been
+submitted which will or may be expected to benefit residents and employees
+within the zone by increasing their opportunities for ownership of and
+participation in developments within the specially benefited zone; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-190__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Areas in which specific governmental
+functions are to be performed by designated neighborhood organizations in
+partnership with the municipality seeking certification of an area as a
+specially benefited zone.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Governorï¿½s determination of whether
+to approve a specially benefited zone must be based on the purposes of this
+chapter, the criteria set forth inNRS
+274.150and subsection 1 of this section and any additional criteria
+adopted by regulation of the Administrator.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1974)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-200">
+          <num>274.200</num>
+          <heading>Certification of zone by Governor; terms and number of zones.</heading>
+          <subsection eId="274-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Approval of designated specially
+benefited zones must be made by the Governor by certification of the
+designating ordinance. The Governor shall promptly issue a certificate for each
+specially benefited zone upon his or her approval. The certificate must be
+signed by the Governor, must make specific reference to the designating
+ordinance, which must be attached thereto, and must be filed in the Office of
+the Secretary of State. A certified copy of the certificate must be recorded
+with the county recorder of the county in which the specially benefited zone
+lies.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A specially benefited zone is effective
+upon its certification. The Administrator shall transmit a copy of the
+certification to the Department of Taxation, the Employment Security Division
+of the Department of Employment, Training and Rehabilitation and to the
+designating municipality. The terms and provisions of the designating ordinance
+become effective upon certification of the specially benefited zone, and may
+not be amended or repealed except as otherwise provided inNRS 274.280.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 274.280, the designating ordinance and
+the certification remain in effect for 20 years, or for a lesser number of
+years specified in the ordinance, and terminate at midnight of December 31 of
+the final year of the certified term.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-200__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>No more than eight specially benefited
+zones may be approved by the Governor in any year. In any year, the Governor
+may not approve more than three zones located within the same county, whether
+within its cities or within the unincorporated areas, nor more than three zones
+in the same city. The Governor may approve specially benefited zones in each of
+the 6 years commencing with 1984. Thereafter, the Governor may not approve any
+additional specially benefited zones, but may amend or rescind certifications
+of existing zones as provided inNRS 274.280.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1974; A1993,
+1547;2001,
+1758)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-210">
+          <num>274.210</num>
+          <heading>Program for training and employment of residents in zone; report
+to municipality and Legislative Commission.</heading>
+          <subsection eId="274-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In order to stimulate opportunities for
+employment for residents of a specially benefited zone, the Administrator shall
+initiate a test of a program for the reimbursement of vouchers for the cost of
+training residents of the zone eligible under the provisions of the Internal
+Revenue Code concerning tax credits for the employment of members of targeted
+groups in private industry. This program must not be designed to subsidize
+businesses, but is intended to make available opportunities for jobs and
+training not otherwise available. Nothing in this subsection requires
+businesses within a zone to utilize this program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The program described in subsection 1
+must be designed:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-210__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For those persons whose opportunities for
+obtaining employment are minimal without participation in the program;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-210__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To minimize the period during which those
+persons collect benefits under programs for public assistance; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-210__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>To accelerate the transition of those persons
+to unsubsidized employment.
+ï¿½The
+Administrator shall seek agreement with business, organized labor and the
+appropriate state and local agencies on the design, operation and evaluation of
+the test program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A report with recommendations,
+including representative comments of governmental agencies and business and
+labor organizations, must be submitted by the Administrator to the designating
+municipality and the Legislative Commission not later than 12 months after the
+test program commences, or not later than 3 months following the termination of
+the test program, whichever first occurs.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1977)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-220">
+          <num>274.220</num>
+          <heading>Manager of zone: Appointment; qualifications; duties.</heading>
+          <subsection eId="274-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The management of a specially benefited
+zone must be under the jurisdiction of the designating municipality.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each designating municipality shall, by
+ordinance, appoint a zone manager for the certified zones within its
+jurisdiction. A zone manager must be an officer or employee of the
+municipality.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-220__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The zone manager shall coordinate
+activities between the designating municipality, the Administrator and any
+designated neighborhood organizations within zones under his or her
+jurisdiction.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1977)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-230">
+          <num>274.230</num>
+          <heading>Powers of designating municipality: Cooperation with federal,
+state and local governments; improving police protection; federal assistance
+for urban development or training for employment; qualifications for benefits.</heading>
+          <subsection eId="274-230__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Apply with the United States Department
+of Commerce to have the specially benefited zone declared to be a free trade
+zone.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-230__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>When any federal legislation concerning
+specially benefited zones is enacted or becomes effective, prepare and submit,
+with the assistance of the Administrator and in a timely fashion, all
+information and forms necessary to permit the specially benefited zone
+designated and approved under this chapter to be considered as an eligible area
+under the federal program.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-230__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Apply for all available assistance from
+the federal, state, and in the case of a city, the county government, including
+the suspension or modification of their regulations within the specially
+benefited zone that have the characteristics described in subsection 1 ofNRS 274.110.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-230__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Develop and carry out a program to
+improve police protection within the zone.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-230__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Give priority to the use in the zone of
+any federal assistance for urban development or job training.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-230__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>By ordinance adopt regulations for
+qualifying employers for the benefits authorized specifically for qualified
+businesses under this chapter andNRS
+374.643.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1979)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-240">
+          <num>274.240</num>
+          <heading>Powers of designating municipality: Issuing securities; reducing
+certain taxes, fees or service charges; improving governmental services;
+providing financing; cooperating with other governmental agencies.</heading>
+          <subsection eId="274-240__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Issue bonds or other securities
+authorized by other law for the purposes of economic development and use the
+proceeds for loans to any new or expanding qualified businesses in the
+specially benefited zone.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-240__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Reduce or eliminate any license or
+franchise tax, fee or service charge which would otherwise be imposed against
+qualified businesses within the specially benefited zone.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-240__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Develop and carry out, alone or where
+feasible with the participation of one or more designated neighborhood
+organizations as provided inNRS 274.250,
+programs to improve needed governmental services within the specially benefited
+zone.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-240__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Develop and carry out a plan to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-240__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Ensure the availability of resources to assist
+residents of the specially benefited zone in their own efforts to improve the
+condition of property and the availability and quality of public services
+within the zone.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-240__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide or seek assistance for persons or
+businesses displaced as a result of undertakings or other activities conducted
+pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-240__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Provide financing by tax increment
+pursuant tochapter 278Cof NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-240__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Cooperate with any other governmental
+agency to provide any other incentive likely to encourage private investment
+within the specially benefited zone.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1981; A1997,
+2561;2005,
+1767)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-250">
+          <num>274.250</num>
+          <heading>Powers of designating municipality: Delegation of services to
+private organizations.</heading>
+          <subsection eId="274-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A designating municipality may, by
+ordinance, delegate one or more of the services or functions described in
+subsection 2 to one or more qualified private organizations. For the purposes
+of this section, an organization is qualified if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-250__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Its constituency is composed substantially of
+residents of the specially benefited zone;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-250__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>It has a governing body elected by its
+constituents;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-250__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>It meets the requirements of paragraph</p>
+              </content>
+              <subparagraph eId="274-250__subsec_1__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>of
+subsection</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="274-250__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of section 501 of the Internal Revenue Code; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-250__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>It exists primarily to perform services
+within the zone for the benefit of its residents and businesses.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A designated neighborhood organization
+may be authorized to provide the following services or perform the following
+functions in coordination with the municipality:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-250__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Provide or contract for the provision of
+public services including, but not limited to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="274-250__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The establishment of patrols to watch
+for crime in neighborhoods within the specially benefited zone.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-250__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The establishment of volunteer day
+care centers.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-250__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The organization of recreational
+activities for children living within the zone.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-250__subsec_2__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Garbage collection.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-250__subsec_2__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Street maintenance and improvement.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-250__subsec_2__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>The maintenance and improvement of
+parks, bridges and water and sewer lines.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-250__subsec_2__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>Projects for the conservation of
+energy.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-250__subsec_2__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>Health and clinical services.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-250__subsec_2__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>Programs to combat substance use
+disorders.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-250__subsec_2__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>Programs to assist older residents of
+the zone.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-250__subsec_2__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>The rehabilitation, renovation,
+operation and maintenance of housing for persons of low and moderate income.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-250__subsec_2__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>Other types of public services as
+provided by ordinance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="274-250__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Exercise authority for the enforcement of any
+code, permit or procedure for licensing within a specially benefited zone.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-250__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Provide a forum for action by business, labor
+and government on innovations for the zone.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-250__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Apply for regulatory relief underNRS 274.110,274.120and274.130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-250__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Perform such other functions as the
+responsible governmental entity may deem appropriate, including offerings and
+contracts for insurance with businesses within the zone.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-250__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Agree with local governments to provide these
+public services within the zone by contracting with private firms and
+organizations, where feasible and prudent.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-250__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Solicit and receive contributions to improve
+the quality of life in the specially benefited zone.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1977)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-260">
+          <num>274.260</num>
+          <heading>Proposal by business to participate in benefits of zone;
+contents of proposal.</heading>
+          <subsection eId="274-260__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An estimate of the number of new
+employees whom the business intends to hire for its place of business within
+the specially benefited zone and an estimate of the amount of payroll these
+hirings will add to the business.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-260__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An estimate of the amount to be
+invested by the business to establish, expand, renovate or occupy a place of
+business within the specially benefited zone, including investment in new
+buildings, additions, or improvements to existing buildings, machinery,
+equipment, furniture, fixtures and inventory.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-260__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A listing of the businessï¿½ current
+investment, if any, in a place of business within the specially benefited zone
+as of the date of the submission of the proposal. The business shall review and
+keep current the estimates and listings required under this subsection to
+reflect material changes, and any agreement entered into pursuant toNRS 274.270must set forth final estimates
+and listings as of the time the agreement is entered.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1982)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-270">
+          <num>274.270</num>
+          <heading>Investigation by governing body of proposal by business to
+participate in benefits of zone; requirements for hiring certain employees;
+review of compliance with agreement; filing of information.</heading>
+          <subsection eId="274-270__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The governing body shall investigate
+the proposal made by a business pursuant toNRS
+274.260, and if it finds that the business is qualified by financial
+responsibility and business experience to create and preserve employment
+opportunities in the specially benefited zone and improve the economic climate
+of the municipality and finds further that the business did not relocate from a
+depressed area in this State or reduce employment elsewhere in Nevada in order
+to expand in the specially benefited zone, the governing body may, on behalf of
+the municipality, enter into an agreement with the business, for a period of
+not more than 20 years, under which the business agrees in return for one or
+more of the benefits authorized in this chapter andNRS 374.643for qualified businesses, as
+specified in the agreement, to establish, expand, renovate or occupy a place of
+business within the specially benefited zone and hire new employees at least 35
+percent of whom at the time they are employed are at least one of the
+following:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-270__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unemployed persons who have resided at least
+6 months in the municipality.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-270__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Persons eligible for employment or job
+training under any federal program for employment and training who have resided
+at least 6 months in the municipality.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-270__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Recipients of benefits under any state or
+county program of public assistance, including, without limitation, temporary
+assistance for needy families, Medicaid and unemployment compensation who have
+resided at least 6 months in the municipality.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-270__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Persons with a physical or intellectual
+disability who have resided at least 6 months in the State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-270__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Residents for at least 1 year of the area
+comprising the specially benefited zone.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-270__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To determine whether a business is in
+compliance with an agreement, the governing body:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-270__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Shall each year require the business to file
+proof satisfactory to the governing body of its compliance with the agreement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-270__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May conduct any necessary investigation into
+the affairs of the business and may inspect at any reasonable hour its place of
+business within the specially benefited zone.
+ï¿½If the
+governing body determines that the business is in compliance with the
+agreement, it shall issue a certificate to that effect to the business. The
+certificate expires 1 year after the date of its issuance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-270__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The governing body shall file with the
+Administrator, the Department of Taxation and the Employment Security Division
+of the Department of Employment, Training and Rehabilitation a copy of each
+agreement, the information submitted under paragraph</p>
+            </content>
+            <paragraph eId="274-270__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 2 and
+the current certificate issued to the business under that subsection. The
+governing body shall immediately notify the Administrator, the Department of
+Taxation and the Employment Security Division of the Department of Employment,
+Training and Rehabilitation whenever the business is no longer certified.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1982; A1993,
+1548;1997,
+2336;1999,
+2237;2013,
+693)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-280">
+          <num>274.280</num>
+          <heading>Procedure to amend ordinance designating zone.</heading>
+          <subsection eId="274-280__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The terms of a certified ordinance
+designating a specially benefited zone may be amended to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-280__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Alter the boundaries of the zone;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-280__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Limit or repeal financial incentives or
+benefits provided in the ordinance; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-280__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Alter the date for terminating the zone.
+ï¿½The
+amendment does not become effective unless the Governor issues an amended
+certificate for the zone. Upon the adoption of the amendment, the municipality
+shall promptly file with the Administrator an application for approval thereof,
+containing substantially the same information as required for an application
+underNRS 274.170insofar as material to
+the proposed changes. The municipality must hold a public hearing on the
+proposed changes as specified inNRS 274.160.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-280__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Governor shall approve or
+disapprove a proposed amendment to a certified specially benefited zone within
+90 days after receiving the application from the municipality. The Governor may
+not approve changes in a zone which are not in conformity with this chapter or
+with other applicable laws. If the Governor issues an amended certificate for a
+specially benefited zone, the amended certificate, together with the amended
+designating ordinance, must be filed, recorded and transmitted as provided inNRS 274.200.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1975)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-290">
+          <num>274.290</num>
+          <heading>Termination of zone.</heading>
+          <content>
+            <p>A
+specially benefited zone may be terminated by joint action of the Governor and
+the designating municipality. The designating municipality shall conduct at
+least one public hearing within the zone before adopting its ordinance of
+termination. The mayor of the designating city or the chair of the governing
+body of the designating county shall execute with the Administrator a joint
+agreement for termination of the zone. The termination of a specially benefited
+zone does not become effective until at least 6 months after the execution of
+the terminating agreement, which must be filed in the Office of the Secretary
+of State.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1975)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-300">
+          <num>274.300</num>
+          <heading>Effect upon benefits if zone terminated or modified or benefits
+reduced or eliminated.</heading>
+          <subsection eId="274-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>All benefits previously extended within
+the zone pursuant to this chapter, or pursuant to any other law of this State
+providing benefits specifically to qualified businesses within specially
+benefited zones, remain in effect for the original stated term of the zone with
+respect to those qualified businesses operating within the zone on the effective
+date of the termination or amendment, except as provided in subsection 2.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A qualified business which is proposed
+or which has proposed an expansion is entitled to the benefits previously
+applicable within the zone for the original stated term of the zone, if the
+business establishes that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-300__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The proposed business or expansion has been
+committed to be located within the zone;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-300__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Substantial and binding financial obligations
+have been made towards the development of the business or the expansion; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-300__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Those commitments have been made in
+reasonable reliance on the benefits and programs which were to have been
+applicable to the business by reason of the zone, including in the case of a
+reduction in the term of a zone, the original length of the term.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1976)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-310">
+          <num>274.310</num>
+          <heading>Abatement for locating business in certain areas of economic
+development: Endorsement required; application; requirements for approval;
+certificate of eligibility; duration and amount of abatement; repayment
+required under certain circumstances; regulations; judicial review. [Effective
+through June 30, 2032.]</heading>
+          <subsection eId="274-310__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who intends to locate a
+business in this State within:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-310__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A historically underutilized business zone,
+as defined in 15 U.S.C. ï¿½ 632;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-310__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A redevelopment area created pursuant tochapter 279of NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-310__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An area eligible for a community development
+block grant pursuant to 24 C.F.R. Part 570; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-310__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An enterprise community established pursuant
+to 24 C.F.R. Part 597,
+ï¿½may submit a
+request to the governing body of the county, city or town in which the business
+would operate for an endorsement of an application by the person to the Office
+of Economic Development for a partial abatement of one or more of the taxes
+imposed pursuant tochapter 361of NRS or the
+local sales and use taxes. The governing body of the county, city or town shall
+provide notice of the request to the board of trustees of the school district
+in which the business would operate. The notice must set forth the date, time
+and location of the hearing at which the governing body will consider whether
+to endorse the application. As used in this subsection, ï¿½local sales and use
+taxesï¿½ means the taxes imposed on the gross receipts of any retailer from the
+sale of tangible personal property sold at retail, or stored, used or otherwise
+consumed, in the political subdivision in which the business is located, except
+the taxes imposed by the Sales and Use Tax Act and the Local School Support Tax
+Law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-310__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The governing body of a county, city or
+town shall develop procedures for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-310__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Evaluating whether such an abatement would be
+beneficial for the economic development of the county, city or town.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-310__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Issuing a certificate of endorsement for an
+application for such an abatement that is found to be beneficial for the
+economic development of the county, city or town.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-310__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person whose application has been
+endorsed by the governing body of the county, city or town, as applicable,
+pursuant to this section may submit the application to the Office of Economic
+Development. The Office shall approve the application if the Office makes the
+following determinations:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-310__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The business is consistent with:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="274-310__subsec_3__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The State Plan for Economic
+Development developed by the Administrator pursuant to subsection 2 ofNRS 231.053; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-310__subsec_3__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Any guidelines adopted by the
+Administrator to implement the State Plan for Economic Development.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="274-310__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Not later than 1 year after the date on which
+the application was received by the Office, the applicant has executed an
+agreement with the Office which states:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="274-310__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The date on which the abatement
+becomes effective, as agreed to by the applicant and the Office, which must not
+be earlier than the date on which the Office received the application and not
+later than 1 year after the date on which the Office approves the application;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-310__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>That the business will, after the date
+on which the abatement becomes effective:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) Commence operation and continue
+in operation in the historically underutilized business zone, as defined in 15
+U.S.C. ï¿½ 632, redevelopment area created pursuant tochapter 279of NRS, area eligible for a community
+development block grant pursuant to 24 C.F.R. Part 570 or enterprise community
+established pursuant to 24 C.F.R. Part 597 for a period specified by the
+Office, which must be at least 5 years; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) Continue to meet the
+eligibility requirements set forth in this subsection.
+ï¿½The
+agreement must bind successors in interest of the business for the specified
+period.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="274-310__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The business is registered pursuant to the
+laws of this State or the applicant commits to obtain a valid business license
+and all other permits required by the county, city or town in which the
+business will operate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-310__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The applicant invested or commits to invest a
+minimum of $500,000 in capital assets that will be retained at the location of
+the business in the historically underutilized business zone, as defined in 15
+U.S.C. ï¿½ 632, redevelopment area created pursuant tochapter 279of NRS, area eligible for a community
+development block grant pursuant to 24 C.F.R. Part 570 or enterprise community
+established pursuant to 24 C.F.R. Part 597 until at least the date which is 5
+years after the date on which the abatement becomes effective.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-310__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the Office of Economic Development
+approves an application for a partial abatement, the Office shall immediately
+forward a certificate of eligibility for the abatement to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-310__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Taxation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-310__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Nevada Tax Commission; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-310__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the partial abatement is from the property
+tax imposed pursuant tochapter 361of NRS,
+the county treasurer of the county in which the business will be located.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-310__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If the Office of Economic Development
+approves an application for a partial abatement pursuant to this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-310__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The partial abatement must be for a duration
+of not less than 1 year but not more than 5 years.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-310__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the abatement is from the property tax
+imposed pursuant tochapter 361of NRS, the
+partial abatement must not exceed 75 percent of the taxes on personal property
+payable by a business each year pursuant to that chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-310__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>If an applicant for a partial abatement
+pursuant to this section fails to execute the agreement described in paragraph</p>
+            </content>
+            <paragraph eId="274-310__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 3 within 1 year after the date on which the application was
+received by the Office, the applicant shall not be approved for a partial
+abatement pursuant to this section unless the applicant submits a new request
+pursuant to subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-310__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>If a business whose partial abatement
+has been approved pursuant to this section and is in effect ceases:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-310__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To meet the eligibility requirements for the
+partial abatement; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-310__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Operation before the time specified in the
+agreement described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-310__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 3,
+ï¿½the business
+shall repay to the Department of Taxation or, if the partial abatement was from
+the property tax imposed pursuant tochapter 361of NRS, to the county treasurer, the amount of the partial abatement that was
+allowed pursuant to this section before the failure of the business to comply
+unless the Nevada Tax Commission determines that the business has substantially
+complied with the requirements of this section. Except as otherwise provided inNRS 360.232and360.320, the business shall, in addition to
+the amount of the partial abatement required to be paid pursuant to this
+subsection, pay interest on the amount due at the rate most recently
+established pursuant toNRS 99.040for
+each month, or portion thereof, from the last day of the month following the
+period for which the payment would have been made had the partial abatement not
+been approved until the date of payment of the tax.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-310__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>The Office of Economic Development may
+adopt such regulations as the Office determines to be necessary or advisable to
+carry out the provisions of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-310__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>An applicant for an abatement who is
+aggrieved by a final decision of the Office of Economic Development may
+petition for judicial review in the manner provided inchapter 233Bof NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+639; A2011,
+3452;2013,
+27th Special Session, 21;2015,
+1074,3052;2019,
+2225;2021,
+2310)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-320">
+          <num>274.320</num>
+          <heading>Abatement for expanding business in certain areas of economic
+development: Endorsement required; application; requirements for approval;
+certificate of eligibility; duration and amount of abatement; repayment
+required under certain circumstances; regulations; judicial review. [Effective
+through June 30, 2032.]</heading>
+          <subsection eId="274-320__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who intends to expand a
+business in this State within:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-320__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A historically underutilized business zone,
+as defined in 15 U.S.C. ï¿½ 632;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-320__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A redevelopment area created pursuant tochapter 279of NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-320__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An area eligible for a community development
+block grant pursuant to 24 C.F.R. Part 570; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-320__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An enterprise community established pursuant
+to 24 C.F.R. Part 597,
+ï¿½may submit a
+request to the governing body of the county, city or town in which the business
+operates for an endorsement of an application by the person to the Office of
+Economic Development for a partial abatement of the local sales and use taxes
+imposed on capital equipment. The governing body of the county, city or town
+shall provide notice of the request to the board of trustees of the school
+district in which the business operates. The notice must set forth the date,
+time and location of the hearing at which the governing body will consider
+whether to endorse the application. As used in this subsection, ï¿½local sales
+and use taxesï¿½ means the taxes imposed on the gross receipts of any retailer
+from the sale of tangible personal property sold at retail, or stored, used or
+otherwise consumed, in the political subdivision in which the business is
+located, except the taxes imposed by the Sales and Use Tax Act and the Local
+School Support Tax Law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-320__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The governing body of a county, city or
+town shall develop procedures for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-320__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Evaluating whether such an abatement would be
+beneficial for the economic development of the county, city or town.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-320__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Issuing a certificate of endorsement for an
+application for such an abatement that is found to be beneficial for the
+economic development of the county, city or town.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-320__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person whose application has been
+endorsed by the governing body of the county, city or town, as applicable,
+pursuant to this section may submit the application to the Office of Economic
+Development. The Office shall approve the application if the Office makes the
+following determinations:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-320__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The business is consistent with:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="274-320__subsec_3__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The State Plan for Economic
+Development developed by the Administrator pursuant to subsection 2 ofNRS 231.053; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-320__subsec_3__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Any guidelines adopted by the
+Administrator to implement the State Plan for Economic Development.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="274-320__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Not later than 1 year after the date on which
+the application was received by the Office, the applicant has executed an
+agreement with the Office which states:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="274-320__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The date on which the abatement
+becomes effective, as agreed to by the applicant and the Office, which must not
+be earlier than the date on which the Office received the application and not
+later than 1 year after the date on which the Office approves the application;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-320__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>That the business will, after the date
+on which the abatement becomes effective:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) Continue in operation in the
+historically underutilized business zone, as defined in 15 U.S.C. ï¿½ 632,
+redevelopment area created pursuant tochapter 279of NRS, area eligible for a community development block grant pursuant to 24
+C.F.R. Part 570 or enterprise community established pursuant to 24 C.F.R. Part
+597 for a period specified by the Office, which must be at least 5 years; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) Continue to meet the
+eligibility requirements set forth in this subsection.
+ï¿½The
+agreement must bind successors in interest of the business for the specified
+period.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="274-320__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The business is registered pursuant to the
+laws of this State or the applicant commits to obtain a valid business license
+and all other permits required by the county, city or town in which the
+business operates.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-320__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The applicant invested or commits to invest a
+minimum of $250,000 in capital equipment that will be retained at the location
+of the business in the historically underutilized business zone, as defined in
+15 U.S.C. ï¿½ 632, redevelopment area created pursuant tochapter 279of NRS, area eligible for a community
+development block grant pursuant to 24 C.F.R. Part 570 or enterprise community
+established pursuant to 24 C.F.R. Part 597 until at least the date which is 5
+years after the date on which the abatement becomes effective.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-320__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the Office of Economic Development
+approves an application for a partial abatement, the Office shall immediately
+forward a certificate of eligibility for the abatement to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-320__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Taxation; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-320__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Nevada Tax Commission.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-320__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If the Office of Economic Development
+approves an application for a partial abatement pursuant to this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-320__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The partial abatement must be for a duration
+of not less than 1 year but not more than 5 years.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-320__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the abatement is from the property tax
+imposed pursuant tochapter 361of NRS, the
+partial abatement must not exceed 75 percent of the taxes on personal property
+payable by a business each year pursuant to that chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-320__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>If an applicant for a partial abatement
+pursuant to this section fails to execute the agreement described in paragraph</p>
+            </content>
+            <paragraph eId="274-320__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 3 within 1 year after the date on which the application was
+received by the Office, the applicant shall not be approved for a partial
+abatement pursuant to this section unless the applicant submits a new request
+pursuant to subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-320__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>If a business whose partial abatement
+has been approved pursuant to this section and is in effect ceases:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-320__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To meet the eligibility requirements for the
+partial abatement; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-320__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Operation before the time specified in the
+agreement described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-320__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 3,
+ï¿½the business
+shall repay to the Department of Taxation the amount of the partial abatement
+that was allowed pursuant to this section before the failure of the business to
+comply unless the Nevada Tax Commission determines that the business has
+substantially complied with the requirements of this section. Except as
+otherwise provided inNRS 360.232and360.320, the business shall, in addition to
+the amount of the partial abatement required to be paid pursuant to this
+subsection, pay interest on the amount due at the rate most recently
+established pursuant toNRS 99.040for each
+month, or portion thereof, from the last day of the month following the period
+for which the payment would have been made had the partial abatement not been
+approved until the date of payment of the tax.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-320__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>The Office of Economic Development may
+adopt such regulations as the Office determines to be necessary or advisable to
+carry out the provisions of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-320__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>An applicant for an abatement who is
+aggrieved by a final decision of the Office of Economic Development may
+petition for judicial review in the manner provided inchapter 233Bof NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+640; A2011,
+3454;2013,
+27th Special Session, 23;2015,
+1076,3054;2019,
+2228;2021,
+2313)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_274-330">
+          <num>274.330</num>
+          <heading>Abatement for businesses in certain areas of economic
+development that hire dislocated workers: Endorsement required; application;
+requirements for approval; certificate of eligibility; duration and amount of
+abatement; repayment required under certain circumstances; regulations;
+judicial review. [Effective through June 30, 2032.]</heading>
+          <subsection eId="274-330__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who owns a business which is
+located within an enterprise community established pursuant to 24 C.F.R. Part
+597 in this State may submit a request to the governing body of the county,
+city or town in which the business is located for an endorsement of an
+application by the person to the Office of Economic Development for a partial
+abatement of one or more of the taxes imposed pursuant tochapter 361of NRS or the local sales and use
+taxes. The governing body of the county, city or town shall provide notice of
+the request to the board of trustees of the school district in which the
+business operates. The notice must set forth the date, time and location of the
+hearing at which the governing body will consider whether to endorse the
+application. As used in this subsection, ï¿½local sales and use taxesï¿½ means the
+taxes imposed on the gross receipts of any retailer from the sale of tangible
+personal property sold at retail, or stored, used or otherwise consumed, in the
+political subdivision in which the business is located, except the taxes
+imposed by the Sales and Use Tax Act and the Local School Support Tax Law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-330__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The governing body of a county, city or
+town shall develop procedures for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-330__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Evaluating whether such an abatement would be
+beneficial for the economic development of the county, city or town.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-330__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Issuing a certificate of endorsement for an
+application for such an abatement that is found to be beneficial for the
+economic development of the county, city or town.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-330__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person whose application has been
+endorsed by the governing body of the county, city or town, as applicable,
+pursuant to this section may submit the application to the Office of Economic
+Development. The Office shall approve the application if the Office makes the
+following determinations:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-330__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The business is consistent with:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="274-330__subsec_3__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The State Plan for Economic
+Development developed by the Administrator pursuant to subsection 2 ofNRS 231.053; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-330__subsec_3__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Any guidelines adopted by the
+Administrator to implement the State Plan for Economic Development.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="274-330__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Not later than 1 year after the date on which
+the application was received by the Office, the applicant has executed an
+agreement with the Office which states:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="274-330__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The date on which the abatement
+becomes effective, as agreed to by the applicant and the Office, which must not
+be earlier than the date on which the Office received the application and not
+later than 1 year after the date on which the Office approves the application;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-330__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>That the business will, after the date
+on which the abatement becomes effective:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) Continue in operation in the
+enterprise community for a period specified by the Office, which must be at
+least 5 years; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) Continue to meet the
+eligibility requirements set forth in this subsection.
+ï¿½The
+agreement must bind successors in interest of the business for the specified
+period.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="274-330__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The business is registered pursuant to the
+laws of this State or the applicant commits to obtain a valid business license
+and all other permits required by the county, city or town in which the
+business operates.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-330__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The business:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="274-330__subsec_3__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Employs one or more dislocated workers
+who reside in the enterprise community; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-330__subsec_3__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Pays such employees a wage of not less
+than 100 percent of the federally designated level signifying poverty for a
+family of four persons and provides medical benefits to the employees and their
+dependents which meet the minimum requirements for medical benefits established
+by the Office.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-330__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the Office of Economic Development
+approves an application for a partial abatement, the Office shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-330__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Determine the percentage of employees of the
+business which meet the requirements of paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-330__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of subsection 3 and grant
+a partial abatement equal to that percentage; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-330__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Immediately forward a certificate of
+eligibility for the abatement to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="274-330__subsec_4__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The Department of Taxation;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-330__subsec_4__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The Nevada Tax Commission; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="274-330__subsec_4__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>If the partial abatement is from the
+property tax imposed pursuant tochapter 361of NRS, the county treasurer of the county in which the business is located.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-330__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If the Office of Economic Development
+approves an application for a partial abatement pursuant to this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-330__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The partial abatement must be for a duration
+of not less than 1 year but not more than 5 years.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-330__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the abatement is from the property tax
+imposed pursuant tochapter 361of NRS, the
+partial abatement must not exceed 75 percent of the taxes on personal property
+payable by a business each year pursuant to that chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-330__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>If an applicant for a partial abatement
+pursuant to this section fails to execute the agreement described in paragraph</p>
+            </content>
+            <paragraph eId="274-330__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 3 within 1 year after the date on which the application was
+received by the Office, the applicant shall not be approved for a partial
+abatement pursuant to this section unless the applicant submits a new request
+pursuant to subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-330__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>If a business whose partial abatement
+has been approved pursuant to this section and is in effect ceases:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-330__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To meet the eligibility requirements for the
+partial abatement; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-330__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Operation before the time specified in the
+agreement described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-330__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 3,
+ï¿½the business
+shall repay to the Department of Taxation or, if the partial abatement was from
+the property tax imposed pursuant tochapter 361of NRS, to the county treasurer, the amount of the partial abatement that was
+allowed pursuant to this section before the failure of the business to comply
+unless the Nevada Tax Commission determines that the business has substantially
+complied with the requirements of this section. Except as otherwise provided inNRS 360.232and360.320, the business shall, in addition to
+the amount of the partial abatement required to be paid pursuant to this
+subsection, pay interest on the amount due at the rate most recently
+established pursuant toNRS 99.040for
+each month, or portion thereof, from the last day of the month following the
+period for which the payment would have been made had the partial abatement not
+been approved until the date of payment of the tax.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-330__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>The Office of Economic Development:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-330__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Shall adopt regulations relating to the
+minimum level of benefits that a business must provide to its employees to
+qualify for an abatement pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-330__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May adopt such other regulations as the
+Office determines to be necessary or advisable to carry out the provisions of
+this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="274-330__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>An applicant for an abatement who is
+aggrieved by a final decision of the Office of Economic Development may
+petition for judicial review in the manner provided inchapter 233Bof NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="274-330__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>As used in this section, ï¿½dislocated
+workerï¿½ means a person who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="274-330__subsec_10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Has been terminated, laid off or received
+notice of termination or layoff from employment;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-330__subsec_10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is eligible for or receiving or has exhausted
+his or her entitlement to unemployment compensation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-330__subsec_10__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Has been dependent on the income of another
+family member but is no longer supported by that income;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-330__subsec_10__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Has been self-employed but is no longer
+receiving an income from self-employment because of general economic conditions
+in the community or natural disaster; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="274-330__subsec_10__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Is currently unemployed and unable to return
+to a previous industry or occupation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+641; A2011,
+3456;2013,
+27th Special Session, 25;2015,
+1078,3056;2019,
+2232;2021,
+2315)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

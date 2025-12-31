@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-166"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-166"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="166"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-166/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-166/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-166/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-166/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_166">
+        <num>166</num>
+        <heading>SPENDTHRIFT TRUSTS</heading>
+        <section eId="sec_166-010">
+          <num>166.010</num>
+          <heading>Short title.</heading>
+          <content>
+            <p>This
+chapter may be referred to by the short title of Spendthrift Trust Act of
+Nevada, and such reference will be sufficient for all purposes.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [7:86:1939; 1931 NCL ï¿½ 6880.06]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-015">
+          <num>166.015</num>
+          <heading>Applicability of chapter; requirement of trustee if settlor is
+beneficiary of trust.</heading>
+          <subsection eId="166-015__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Unless the writing declares to the
+contrary, expressly, this chapter governs the construction, operation and
+enforcement, in this State, of all spendthrift trusts created in or outside
+this State if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="166-015__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>All or part of the land, rents, issues or
+profits affected are in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-015__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>All or part of the personal property,
+interest of money, dividends upon stock and other produce thereof, affected,
+are in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-015__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The declared domicile of the creator of a
+spendthrift trust affecting personal property is in this State; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-015__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>At least one trustee qualified under
+subsection 2 has powers that include maintaining records and preparing income
+tax returns for the trust, and all or part of the administration of the trust
+is performed in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="166-015__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the settlor is a beneficiary of the
+trust, at least one trustee of a spendthrift trust must be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="166-015__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A natural person who resides and has his or
+her domicile in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-015__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A trust company that:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="166-015__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Is organized under federal law or
+under the laws of this State or another state; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="166-015__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Maintains an office in this State for
+the transaction of business; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="166-015__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A bank that:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="166-015__subsec_2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Is organized under federal law or
+under the laws of this State or another state;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="166-015__subsec_2__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Maintains an office in this State for
+the transaction of business; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="166-015__subsec_2__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Possesses and exercises trust powers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="166-015__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½trust
+companyï¿½ does not include a foreign independent trust company authorized to
+engage only in the solicitation of trust company business in this State
+pursuant toNRS 669.205.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [4:86:1939; 1931 NCL ï¿½ 6880.03]—(NRS A1999,
+1236;2011,
+1480;2017,
+561)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-016">
+          <num>166.016</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 166.018and166.020have the meanings ascribed to them
+in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+1874)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-018">
+          <num>166.018</num>
+          <heading>ï¿½Settlorï¿½ defined.</heading>
+          <subsection eId="166-018__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The person who creates a spendthrift
+trust however described in the trust instrument; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="166-018__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any person who contributes assets to
+the spendthrift trust as to the assets he or she contributed to the spendthrift
+trust except to the extent of consideration received therefor by that person.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+1874)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-020">
+          <num>166.020</num>
+          <heading>ï¿½Spendthrift trustï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Spendthrift
+trustï¿½ means a trust in which by the terms thereof a valid restraint on the
+voluntary and involuntary transfer of the interest of the beneficiary is
+imposed. It is an active trust not governed or executed by any use or rule of
+law of uses.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:86:1939; 1931 NCL ï¿½ 6880]—(NRS A2019,
+1874)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-025">
+          <num>166.025</num>
+          <heading>Terms: ï¿½Writingï¿½ or ï¿½written.ï¿½</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, when the term
+ï¿½writingï¿½ or ï¿½writtenï¿½ is used in reference to a will, trust or instrument, the
+term includes an electronic will as defined inNRS 132.119and an electronic trust as
+defined inNRS 163.0015.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+2353)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-040">
+          <num>166.040</num>
+          <heading>Competency of settlor; writing required; circumstances when
+writing meets requirements for trust to be created for benefit of settlor;
+settlorï¿½s ability to hold other powers.</heading>
+          <subsection eId="166-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person competent by law to execute
+a will or deed may, by writing only, duly executed, by will, conveyance or
+other writing, create a spendthrift trust in real, personal or mixed property
+for the benefit of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="166-040__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person other than the settlor;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-040__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The settlor if the writing is irrevocable,
+does not require that any part of the income or principal of the trust be
+distributed to the settlor, and was not intended to hinder, delay or defraud
+known creditors; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-040__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Both the settlor and another person if the
+writing meets the requirements of paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-040__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="166-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For the purposes of this section, a
+writing meets the requirements of paragraph</p>
+            </content>
+            <paragraph eId="166-040__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 even if under
+the terms of the writing:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-040__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The settlor may prevent a distribution from
+the trust;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-040__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The settlor holds a special lifetime or
+testamentary power of appointment that cannot be exercised in favor of the
+settlor, the settlorï¿½s estate, a creditor of the settlor or a creditor of the
+settlorï¿½s estate;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-040__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The settlor is a beneficiary of a trust that
+qualifies as a charitable remainder trust pursuant to 26 U.S.C. ï¿½ 664, or any
+successor provision, even if the settlor has the right to release the settlorï¿½s
+retained interest in such a trust, in whole or in part, in favor of one or more
+of the remainder beneficiaries of the trust;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-040__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The settlor is authorized or entitled to
+receive a percentage of the value of the trust each year as specified in the
+trust instrument of the initial value of the trust assets or their value
+determined from time to time pursuant to the trust instrument, but not
+exceeding:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="166-040__subsec_2__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The amount that may be defined as
+income pursuant to 26 U.S.C. ï¿½ 643</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="166-040__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="166-040__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>With respect to benefits from any
+qualified retirement plan or any eligible deferred compensation plan, the
+minimum required distribution as defined in 26 U.S.C. ï¿½ 4974</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="166-040__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-040__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The settlor is authorized or entitled to
+receive income or principal from a grantor retained annuity trust paying out a
+qualified annuity interest within the meaning of 26 C.F.R. ï¿½ 25.2702-3</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-040__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or a
+grantor retained unitrust paying out a qualified unitrust interest within the
+meaning of 26 C.F.R. ï¿½ 25.2702-3</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-040__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-040__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The settlor is authorized or entitled to use
+real property held under a qualified personal residence trust as described in
+26 C.F.R. ï¿½ 25.2702-5</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-040__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>, and any successor provision, or the settlor may
+possess or actually possesses a qualified annuity interest within the meaning
+of that term as described in 26 C.F.R. ï¿½ 25.2702-3</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-040__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>, and any successor
+provision;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-040__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The settlor is authorized to receive income
+or principal from the trust, but only subject to the discretion of another
+person; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-040__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The settlor is authorized to use real or
+personal property owned by the trust.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="166-040__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except for the power of the settlor to
+make distributions to himself or herself without the consent of another person,
+the provisions of this section shall not be construed to prohibit the settlor
+of a spendthrift trust from holding other powers under the trust, whether or
+not the settlor is a cotrustee, including, without limitation, the power to
+remove and replace a trustee, direct trust investments and execute other
+management powers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="166-040__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½remainder
+beneficiaryï¿½ has the meaning ascribed to it inNRS 164.785.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [2:86:1939; 1931 NCL ï¿½ 6880.01]—(NRS A1999,
+1236;2007,
+894;2009,
+801;2011,
+1480)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-045">
+          <num>166.045</num>
+          <heading>Powers of settlor.</heading>
+          <content>
+            <p>The
+settlor of a spendthrift trust has only those powers and rights that are
+conferred to the settlor by the trust instrument. An agreement or
+understanding, express or implied, between the settlor and the trustee that
+attempts to grant or permit the retention of greater rights or authority than
+is stated in the trust instrument is void.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2011,
+1480)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-050">
+          <num>166.050</num>
+          <heading>No specific language necessary for creation of trust.</heading>
+          <content>
+            <p>No specific language is necessary for the
+creation of a spendthrift trust. It is sufficient if by the terms of the
+writing (construed in the light of this chapter if necessary) the creator manifests
+an intention to create such a trust.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [3:86:1939; 1931 NCL ï¿½ 6880.02]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-070">
+          <num>166.070</num>
+          <heading>Principles enumerated inNRS 166.080to166.150,
+inclusive.</heading>
+          <content>
+            <p>Unless the writing
+shall declare to the contrary, expressly, the construction, operation and
+enforcement of all spendthrift trusts, heretofore or hereafter created in this
+state, shall be governed by the principles stated inNRS 166.080to166.150, inclusive, to the same effect as
+if they were written therein.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:86:1939; 1931 NCL ï¿½ 6880.04]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-080">
+          <num>166.080</num>
+          <heading>Beneficiaries to be named.</heading>
+          <content>
+            <p>The
+beneficiary or beneficiaries of such trust shall be named or clearly referred
+to in the writing. No spouse, former spouse, child or dependent shall be a
+beneficiary unless named or clearly referred to as a beneficiary in the
+writing.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:86:1939; 1931 NCL ï¿½ 6880.04]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-090">
+          <num>166.090</num>
+          <heading>Provision for support.</heading>
+          <subsection eId="166-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Provision for the beneficiary will be
+for the support, education, maintenance and benefit of the beneficiary alone,
+and without reference to or limitation by the beneficiaryï¿½s needs, station in
+life, or mode of life, or the needs of any other person, whether dependent upon
+the beneficiary or not.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="166-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The existence of a spendthrift trust
+does not depend on the character, capacity, incapacity, competency or incompetency
+of the beneficiary.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:86:1939; 1931 NCL ï¿½ 6880.04]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-100">
+          <num>166.100</num>
+          <heading>Income.</heading>
+          <subsection eId="166-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Costs or fees regularly earned, paid or
+incurred by the trustee for administration of or protection of the trust
+estate;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="166-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Taxes on the same; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="166-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Taxes on the interest of the
+beneficiary thereof.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:86:1939; 1931 NCL ï¿½ 6880.04]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-110">
+          <num>166.110</num>
+          <heading>Discretion of trustee.</heading>
+          <subsection eId="166-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In all cases where the creator of a
+spendthrift trust shall indicate the sum to be applied for or paid to the
+beneficiary or shall make the application or payment of sums or further sums
+for or to the beneficiary discretionary with the trustee, or shall make the
+amount thereof discretionary with the trustee, or shall give the trustee
+discretion to pay all or any part of the income to any one or more of the
+beneficiaries, such discretionary power shall be absolute, whether any valid
+provision for the accumulation of income is made or not and whether it relates
+to the income from real or personal property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="166-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Such discretion shall never be
+interfered with for any consideration of the needs, station in life or mode of
+life of the beneficiary, or for uncertainty, or on any pretext whatever.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="166-110__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The giving of any such discretion does
+not invalidate any spendthrift trust.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:86:1939; 1931 NCL ï¿½ 6880.04]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-120">
+          <num>166.120</num>
+          <heading>Restraints on alienation; exclusive jurisdiction of court.</heading>
+          <subsection eId="166-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A spendthrift trust as defined in this
+chapter restrains and prohibits generally the assignment, alienation,
+acceleration and anticipation of any interest of the beneficiary under the
+trust by the voluntary or involuntary act of the beneficiary, or by operation
+of law or any process or at all. The trust estate, or corpus or capital
+thereof, shall never be assigned, aliened, diminished or impaired by any
+alienation, transfer or seizure so as to cut off or diminish the payments, or
+the rents, profits, earnings or income of the trust estate that would otherwise
+be currently available for the benefit of the beneficiary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="166-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Payments by the trustee to the
+beneficiary, whether such payments are mandatory or discretionary, must be made
+only to or for the benefit of the beneficiary and not by way of acceleration or
+anticipation, nor to any assignee of the beneficiary, nor to or upon any order,
+written or oral, given by the beneficiary, whether such assignment or order be
+the voluntary contractual act of the beneficiary or be made pursuant to or by
+virtue of any legal process in judgment, execution, attachment, garnishment,
+bankruptcy or otherwise, or whether it be in connection with any contract, tort
+or duty. Any action to enforce the beneficiaryï¿½s rights, to determine if the
+beneficiaryï¿½s rights are subject to execution, to levy an attachment or for any
+other remedy must be made only in a proceeding commenced pursuant tochapter 153of NRS, if against a testamentary
+trust, orNRS 164.010, if against a
+nontestamentary trust. A court has exclusive jurisdiction over any proceeding
+pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="166-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The beneficiary shall have no power or
+capacity to make any disposition whatever of any of the income by his or her
+order, voluntary or involuntary, and whether made upon the order or direction
+of any court or courts, whether of bankruptcy or otherwise; nor shall the
+interest of the beneficiary be subject to any process of attachment issued
+against the beneficiary, or to be taken in execution under any form of legal process
+directed against the beneficiary or against the trustee, or the trust estate,
+or any part of the income thereof, but the whole of the trust estate and the
+income of the trust estate shall go to and be applied by the trustee solely for
+the benefit of the beneficiary, free, clear, and discharged of and from any and
+all obligations of the beneficiary whatsoever and of all responsibility
+therefor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="166-120__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The trustee of a spendthrift trust is
+required to disregard and defeat every assignment or other act, voluntary or
+involuntary, that is attempted contrary to the provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:86:1939; 1931 NCL ï¿½ 6880.04]—(NRS A2009,
+802)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-130">
+          <num>166.130</num>
+          <heading>Legal estate of beneficiary in corpus.</heading>
+          <content>
+            <p>A
+beneficiary of a spendthrift trust has no legal estate in the capital,
+principal or corpus of the trust estate unless under the terms of the trust the
+beneficiary or one deriving title from him or her is entitled to have it
+conveyed or transferred to him or her immediately or after a term of years or
+after a life, and in the meantime the income from the corpus is not to be paid
+to him or her or any other beneficiary.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:86:1939; 1931 NCL ï¿½ 6880.04]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-140">
+          <num>166.140</num>
+          <heading>Perpetuities.</heading>
+          <content>
+            <p>A
+spendthrift trust may not continue for a period longer than that allowed underNRS 111.103to111.1039, inclusive. The free alienation
+of the legal estate by the trustee may not be suspended for a period exceeding
+the limit prescribed in any constitutional or statutory prohibition against
+perpetuities existing in this State or in the state where the lands affected by
+the trust are situate, but a contingent remainder in fee may be created on a
+prior remainder in fee, to take effect if the persons to whom the first
+remainder is limited die under the age of 21 years, or upon any other
+contingency by which the estate of those persons may be determined before they
+attain that age.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:86:1939; 1931 NCL ï¿½ 6880.04]—(NRS A1999,
+1237)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-150">
+          <num>166.150</num>
+          <heading>Accumulation of income.</heading>
+          <content>
+            <p>An
+accumulation of the income of trust property may be directed in the will or
+other writing creating a spendthrift trust, for the benefit of one or more
+beneficiaries, to commence within the time permitted for the vesting of future
+interests and not to extend beyond the period limiting the time within which
+the absolute power of alienation of property may be suspended. If the direction
+is for a longer term than is permitted by law, it is void only as to the excess
+time, whether the direction be separable from the other clauses in the trust or
+not, and in such cases of invalidity the income may be paid and distributed to
+the next succeeding beneficiary in interest.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:86:1939; 1931 NCL ï¿½ 6880.04]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-160">
+          <num>166.160</num>
+          <heading>Settlor may make different provisions.</heading>
+          <content>
+            <p>The
+principles stated inNRS 166.080to166.150, inclusive, shall not prevent the
+creator of any spendthrift trust, by will or other writing, from making other
+or different provisions provided he or she uses express, specific language to
+that end.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:86:1939; 1931 NCL ï¿½ 6880.04]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-170">
+          <num>166.170</num>
+          <heading>Limitation of actions with respect to transfer of property to
+trust; certain transfers of property disregarded; limitation of actions against
+advisers to settlors or trustees and against trustees; transfers to trust.</heading>
+          <subsection eId="166-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person may not bring an action with
+respect to a transfer of property to a spendthrift trust:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="166-170__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the person is a creditor when the transfer
+is made, unless the action is commenced within:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="166-170__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Two years after the transfer is made;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="166-170__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Six months after the person discovers
+or reasonably should have discovered the transfer,
+ï¿½whichever is
+later.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="166-170__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the person becomes a creditor after the
+transfer is made, unless the action is commenced within 2 years after the
+transfer is made.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="166-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person shall be deemed to have
+discovered a transfer at the time a public record is made of the transfer,
+including, without limitation, the conveyance of real property that is recorded
+in the office of the county recorder of the county in which the property is
+located or the filing of a financing statement pursuant tochapters 104to104C,
+inclusive, of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="166-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A creditor may not bring an action with
+respect to transfer of property to a spendthrift trust unless a creditor can
+prove by clear and convincing evidence that the transfer of property was a
+fraudulent transfer pursuant tochapter 112of
+NRS or that the transfer violates a legal obligation owed to the creditor under
+a contract or a valid court order that is legally enforceable by that creditor.
+In the absence of such clear and convincing proof, the property transferred is
+not subject to the claims of the creditor. Proof by one creditor that a
+transfer of property was fraudulent or wrongful does not constitute proof as to
+any other creditor and proof of a fraudulent or wrongful transfer of property
+as to one creditor shall not invalidate any other transfer of property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="166-170__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If property transferred to a
+spendthrift trust is conveyed to the settlor or to a beneficiary for the
+purpose of obtaining a loan secured by a mortgage or deed of trust on the
+property and then reconveyed to the trust, for the purpose of subsection 1, the
+transfer is disregarded and the reconveyance relates back to the date the
+property was originally transferred to the trust. The mortgage or deed of trust
+on the property shall be enforceable against the trust.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="166-170__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A person may not bring a claim against
+an adviser to the settlor or trustee of a spendthrift trust unless the person
+can show by clear and convincing evidence that the adviser acted in violation
+of the laws of this State, knowingly and in bad faith, and the adviserï¿½s
+actions directly caused the damages suffered by the person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="166-170__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A person other than a beneficiary or
+settlor may not bring a claim against a trustee of a spendthrift trust unless
+the person can show by clear and convincing evidence that the trustee acted in
+violation of the laws of this State, knowingly and in bad faith, and the
+trusteeï¿½s actions directly caused the damages suffered by the person. As used
+in this subsection, ï¿½trusteeï¿½ includes a cotrustee, if any, and a predecessor
+trustee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="166-170__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>If more than one transfer is made to a
+spendthrift trust:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="166-170__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The subsequent transfer to the spendthrift
+trust must be disregarded for the purpose of determining whether a person may
+bring an action pursuant to subsection 1 with respect to a prior transfer to
+the spendthrift trust; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-170__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any distribution to a beneficiary from the
+spendthrift trust shall be deemed to have been made from the most recent
+transfer made to the spendthrift trust.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="166-170__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Notwithstanding any other provision of
+law, no action of any kind, including, without limitation, an action to enforce
+a judgment entered by a court or other body having adjudicative authority, may
+be brought at law or in equity against the trustee of a spendthrift trust if,
+as of the date the action is brought, an action by a creditor with respect to a
+transfer to the spendthrift trust would be barred pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="166-170__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>For purposes of this section, if a
+trustee exercises his or her discretion or authority to distribute trust income
+or principal to or for a beneficiary of the spendthrift trust, by appointing
+the property of the original spendthrift trust in favor of a second spendthrift
+trust for the benefit of one or more of the beneficiaries as authorized byNRS 163.556, the time of the transfer for
+purposes of this section shall be deemed to have occurred on the date the
+settlor of the original spendthrift trust transferred assets into the original
+spendthrift trust, regardless of the fact that the property of the original
+spendthrift trust may have been transferred to a second spendthrift trust.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="166-170__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="166-170__subsec_10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Adviserï¿½ means any person, including,
+without limitation, an accountant, attorney or investment adviser, who gives
+advice concerning or was involved in the creation of, transfer of property to,
+or administration of the spendthrift trust or who participated in the
+preparation of accountings, tax returns or other reports related to the trust.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-170__subsec_10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Creditorï¿½ has the meaning ascribed to it in
+subsection 4 ofNRS 112.150.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+1236; A2007,
+894;2009,
+803;2011,
+1481)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_166-180">
+          <num>166.180</num>
+          <heading>Trust administered under laws of another state or foreign
+jurisdiction.</heading>
+          <subsection eId="166-180__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A trust administered under the laws of
+another state, or under the laws of a foreign jurisdiction, is a spendthrift
+trust pursuant to this chapter if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="166-180__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The trustee of the trust complies with any requirements
+set forth in the trust instrument and any requirements of the laws of the state
+or jurisdiction from which the trust is being transferred;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-180__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The trustee or other person having the power
+to transfer the domicile of the trust declares such intent to transfer in
+writing;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-180__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The writing declaring the intent to transfer
+the domicile of the trust is delivered to the trustee, if it is executed by a
+person other than the trustee; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-180__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>All requirements of this chapter are
+satisfied simultaneously with, or immediately after, the change of domicile.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="166-180__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For purposes ofNRS 166.170, if the domicile of an existing
+trust is transferred from another state or from a foreign jurisdiction to this
+State and the laws of the other state or jurisdiction are similar to the
+provisions of this chapter, the transfer shall be deemed to have occurred:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="166-180__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>On the date on which the settlor of the trust
+transferred assets into the trust if the applicable law of the trust has at all
+times been substantially similar to the provisions of this chapter; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="166-180__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>On the earliest date on which the applicable
+laws of the trust were substantially similar to the provisions of this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2011,
+1479)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

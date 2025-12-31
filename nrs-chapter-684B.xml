@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-684B"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-684B"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="684B"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-684B/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-684B/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-684B/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-684B/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_684B">
+        <num>684B</num>
+        <heading>APPRAISERS OF PHYSICAL</heading>
+        <section eId="sec_684B-010">
+          <num>684B.010</num>
+          <heading>ï¿½Motor vehicle physical damage appraiserï¿½ defined.</heading>
+          <content>
+            <p>As used in this Code ï¿½motor vehicle physical
+damage appraiserï¿½ means any person, partnership, association or corporation
+who, for a separate fee, practices as a business the appraising of damages to
+motor vehicles insured under automobile physical damage policies or on behalf
+of third-party claimants.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1669)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_684B-020">
+          <num>684B.020</num>
+          <heading>License required; automatic qualification of certain appraisers;
+exemptions; administrative fine.</heading>
+          <subsection eId="684B-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>No person may act as a motor vehicle
+physical damage appraiser for motor vehicle physical damage claims on behalf of
+any insurance company or business organization engaged in the adjustment or
+appraisal of motor vehicle claims unless the person has:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="684B-020__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Secured a license from the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="684B-020__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Paid all applicable license fees.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="684B-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any person who has been engaged in the
+business as a motor vehicle physical damage appraiser for a period of 2
+consecutive years immediately before January 1, 1972, is entitled to a license
+upon application to the Commissioner without further qualification.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The provisions of this section do not
+apply to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="684B-020__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A licensed insurance adjuster.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="684B-020__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An employee of any authorized insurer, motor
+club, motor vehicle dealer or automobile body repair shop.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="684B-020__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A person who acts as a motor vehicle
+physical damage appraiser in this state without a license, unless exempt under
+subsection 3, is subject to an administrative fine of not more than $1,000 for
+each violation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1669; A2001,
+2212;2009,
+1779)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_684B-030">
+          <num>684B.030</num>
+          <heading>Bond: Requirement; amount; replacement.</heading>
+          <subsection eId="684B-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Before the issuance of a motor vehicle
+physical damage appraiserï¿½s license the applicant shall file with the
+Commissioner, and thereafter maintain in force while so licensed, a surety bond
+which complies withNRS 679B.175and
+is in an amount determined by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A replacement bond must meet all
+requirements for the initial bond.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1669; A2017,
+2339;2021,
+2967)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_684B-040">
+          <num>684B.040</num>
+          <heading>Application for license; penalty. [Effective until the date of
+the repeal of 42 U.S.C. ï¿½ 666, the federal law requiring each state to
+establish procedures for withholding, suspending and restricting the
+professional, occupational and recreational licenses for child support
+arrearages and for noncompliance with certain processes relating to paternity
+or child support proceedings.]</heading>
+          <subsection eId="684B-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An applicant for a license as a motor
+vehicle physical damage appraiser must file a written application therefor with
+the Commissioner on forms prescribed and furnished by the Commissioner. The
+applicant must furnish information as to his or her identity, personal history,
+experience, financial responsibility, business record and other pertinent
+matters as reasonably required by the Commissioner to determine the applicantï¿½s
+eligibility and qualifications for the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the applicant is a natural person,
+the application must include the social security number of the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-040__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the applicant is a business
+organization:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="684B-040__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The business organization must designate a
+natural person who is a licensed motor vehicle physical damage appraiser or a
+licensed insurance adjuster and who is authorized to transact business on
+behalf of the business organization to be responsible for the compliance of the
+business organization with the insurance laws, rules and regulations of this
+State; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="684B-040__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The application must include the names of all
+members, officers and directors, and must identify the natural person
+designated pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="684B-040__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="684B-040__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The application must be accompanied by
+all applicable license fees.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-040__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>An applicant for a license who desires
+to use a name other than his or her true name must comply with the provisions
+ofNRS 683A.301. The Commissioner
+shall not issue a license in a trade name unless the name has been registered
+pursuant toNRS 600.240to600.450, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-040__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>An applicant for a license shall not
+willfully misrepresent or withhold any fact or information called for in the
+application form or in connection with the application. A violation of this
+subsection is a gross misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1669; A1985,
+1066;1987,
+152;1997,
+2193;2001,
+2213;2009,
+1780;2023,
+2634)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_684B-050">
+          <num>684B.050</num>
+          <heading>Examination not required.</heading>
+          <content>
+            <p>No
+examination of an applicant for a license as a motor vehicle physical damage
+appraiser shall be required by the Commissioner.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1670)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_684B-060">
+          <num>684B.060</num>
+          <heading>Issuance of license; notice of refusal to issue license; license
+fees nonrefundable.</heading>
+          <subsection eId="684B-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Commissioner finds that the
+application is complete and the applicant is otherwise eligible and qualified
+for the license as a motor vehicle physical damage appraiser, the Commissioner
+shall promptly issue the license. If the Commissioner refuses to issue the
+license the Commissioner shall promptly notify the applicant in writing of the
+refusal, stating the grounds for the refusal.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All fees paid by the applicant with the
+application for a license are nonrefundable.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1670; A1987,
+152;2009,
+1780;2021,
+2967)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_684B-070">
+          <num>684B.070</num>
+          <heading>Form and contents of license.</heading>
+          <subsection eId="684B-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The licenseeï¿½s name and business
+address;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The date of issuance and the general
+conditions as to expiration and termination of the license;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-070__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>That the bond required byNRS 684B.030has been filed; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-070__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Such other conditions as the
+Commissioner deems proper.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1670; A1987,
+153)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_684B-080">
+          <num>684B.080</num>
+          <heading>Period of validity, expiration and renewal of license; fees.
+[Effective until the date of the repeal of 42 U.S.C. ï¿½ 666, the federal law
+requiring each state to establish procedures for withholding, suspending and
+restricting the professional, occupational and recreational licenses for child
+support arrearages and for noncompliance with certain processes relating to
+paternity or child support proceedings.]</heading>
+          <subsection eId="684B-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each license issued or renewed under
+this chapter continues in force for 3 years unless it is suspended, revoked or
+otherwise terminated. A license may be renewed upon payment of all applicable
+fees for renewal to the Commissioner and submission of the statement required
+pursuant toNRS 684B.083if the
+licensee is a natural person. The statement, if required, must be submitted and
+all applicable fees must be paid on or before the renewal date for the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any license not so renewed expires on
+the renewal date. The Commissioner may accept a request for renewal received by
+the Commissioner within 30 days after the expiration of the license if the
+request is accompanied by a fee for renewal of 150 percent of all applicable
+fees otherwise required, except for any fee required pursuant toNRS 680C.110, and the statement required
+pursuant toNRS 684B.083if the person
+requesting renewal is a natural person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-080__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½renewal dateï¿½
+means:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="684B-080__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the first renewal of the license, the
+last day of the month which is 3 years after the month in which the
+Commissioner originally issued the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="684B-080__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For each renewal after the first renewal of
+the license, the last day of the month which is 3 years after the month in
+which the license was last due to be renewed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1670; A1981,
+1807;1987,
+153,462;1997,
+2194;2009,
+1781;2021,
+2967)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_684B-083">
+          <num>684B.083</num>
+          <heading>Payment of child support: Statement of applicant for license;
+grounds for denial of license; duty of Commissioner. [Effective until the date
+of the repeal of 42 U.S.C. ï¿½ 666, the federal law requiring each state to
+establish procedures for withholding, suspending and restricting the
+professional, occupational and recreational licenses for child support
+arrearages and for noncompliance with certain processes relating to paternity
+or child support proceedings.]</heading>
+          <subsection eId="684B-083__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A natural person who applies for the
+issuance or renewal of a license as a motor vehicle physical damage appraiser
+shall submit to the Commissioner the statement prescribed by the Division of
+Welfare and Supportive Services of the Department of Health and Human Services
+pursuant toNRS 425.520. The statement
+must be completed and signed by the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-083__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall include the
+statement required pursuant to subsection 1 in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="684B-083__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The application or any other forms that must
+be submitted for the issuance or renewal of the license; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="684B-083__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A separate form prescribed by the
+Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="684B-083__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A license as a motor vehicle physical
+damage appraiser may not be issued or renewed by the Commissioner if the
+applicant is a natural person who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="684B-083__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Fails to submit the statement required
+pursuant to subsection 1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="684B-083__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Indicates on the statement submitted pursuant
+to subsection 1 that the applicant is subject to a court order for the support
+of a child and is not in compliance with the order or a plan approved by the
+district attorney or other public agency enforcing the order for the repayment
+of the amount owed pursuant to the order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="684B-083__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If an applicant indicates on the
+statement submitted pursuant to subsection 1 that the applicant is subject to a
+court order for the support of a child and is not in compliance with the order
+or a plan approved by the district attorney or other public agency enforcing
+the order for the repayment of the amount owed pursuant to the order, the
+Commissioner shall advise the applicant to contact the district attorney or
+other public agency enforcing the order to determine the actions that the
+applicant may take to satisfy the arrearage.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2192)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_684B-087">
+          <num>684B.087</num>
+          <heading>Suspension of license for failure to pay child support or comply
+with certain subpoenas or warrants; reinstatement of license. [Effective until
+the date of the repeal of 42 U.S.C. ï¿½ 666, the federal law requiring each state
+to establish procedures for withholding, suspending and restricting the
+professional, occupational and recreational licenses for child support
+arrearages and for noncompliance with certain processes relating to paternity
+or child support proceedings.]</heading>
+          <subsection eId="684B-087__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Commissioner receives a copy of
+a court order issued pursuant toNRS 425.540that provides for the suspension of all professional, occupational and
+recreational licenses, certificates and permits issued to a person who is the
+holder of a license as a motor vehicle physical damage appraiser, the
+Commissioner shall deem the license issued to that person to be suspended at
+the end of the 30th day after the date on which the court order was issued
+unless the Commissioner receives a letter issued to the holder of the license
+by the district attorney or other public agency pursuant toNRS 425.550stating that the holder of the
+license has complied with the subpoena or warrant or has satisfied the
+arrearage pursuant toNRS 425.560.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-087__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall reinstate a license
+as a motor vehicle physical damage appraiser that has been suspended by a
+district court pursuant toNRS 425.540if the Commissioner receives a letter issued by the district attorney or other
+public agency pursuant toNRS 425.550to
+the person whose license was suspended stating that the person whose license
+was suspended has complied with the subpoena or warrant or has satisfied the
+arrearage pursuant toNRS 425.560.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2193)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_684B-090">
+          <num>684B.090</num>
+          <heading>Place of business; display of license.</heading>
+          <subsection eId="684B-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every motor vehicle physical damage
+appraiser shall have and maintain in this state a place of business accessible
+to the public and from which the licensee principally conducts transactions
+under his or her license. The address of such place shall appear upon the
+application for a license and upon the license, when issued, and the licensee
+shall promptly notify the Commissioner in writing of any change thereof.
+Nothing in this section shall prohibit the maintenance of such place in the
+licenseeï¿½s residence in this state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The license of the licensee shall be
+conspicuously displayed in such place of business in a part thereof customarily
+open to the public.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1671)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_684B-100">
+          <num>684B.100</num>
+          <heading>Records.</heading>
+          <subsection eId="684B-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each motor vehicle physical damage
+appraiser shall keep at the business address shown on his or her license a
+record of all transactions under the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The record shall include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="684B-100__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A copy of all appraisals undertaken.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="684B-100__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A statement of any fee, commission or other
+compensation received or to be received by the appraiser on account of such
+appraisal.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="684B-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The appraiser shall make such records
+available for examination by the Commissioner at all times, and shall retain
+the records for at least 3 years.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1671)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_684B-110">
+          <num>684B.110</num>
+          <heading>Suspension, revocation or limitation of or refusal to continue
+license: Grounds.</heading>
+          <subsection eId="684B-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner may suspend, revoke,
+limit or refuse to continue any motor vehicle physical damage appraiserï¿½s
+license:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="684B-110__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For any cause specified in any other
+provision of this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="684B-110__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For any such applicable cause as for
+revocation of the license of a producer of insurance underNRS 683A.451; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="684B-110__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the licensee has for compensation
+represented or attempted to represent both the insurer and the insured in the
+same transaction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="684B-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The license of a business organization
+may be suspended, revoked, limited or continuation refused for any cause which
+relates to any individual designated in or with respect to the license to
+exercise its powers.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1671; A2001,
+2213;2019,
+1700)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_684B-120">
+          <num>684B.120</num>
+          <heading>Suspension, revocation or limitation of or refusal to continue
+license: Applicable provisions.</heading>
+          <content>
+            <p>NRS 683A.451and683A.461also apply to suspension,
+revocation, limitation or refusal to continue motor vehicle physical damage
+appraiserï¿½s licenses, except where in conflict with the express provisions of
+this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1672; A2001,
+2214;2019,
+1700)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_684B-130">
+          <num>684B.130</num>
+          <heading>Duration of suspension.</heading>
+          <content>
+            <p>Every
+order suspending any license shall specify the period during which the
+suspension shall be effective, which period shall in no event exceed 12 months.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1672)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_684B-140">
+          <num>684B.140</num>
+          <heading>Administrative fine: Levy in addition to or in lieu of
+suspension, revocation or refusal to renew license; revocation of license for
+nonpayment; recovery; deposit.</heading>
+          <subsection eId="684B-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to or in lieu of the
+suspension, revocation or refusal to renew any motor vehicle physical damage
+appraiserï¿½s license for any of the causes referred to inNRS 684B.110(suspension, limitation,
+revocation of license: Grounds), after hearing thereon or upon waiver of
+hearing by the licensee, the Commissioner may levy upon the licensee an
+administrative fine in any amount not less than $25 nor more than $250.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In his or her order levying the fine
+the Commissioner shall specify a period of not less than 15 days nor more than
+30 days from the date of the order within which the fine shall be paid in full.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-140__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the fine is not paid when due, the
+Commissioner shall revoke the license involved, if not already revoked, and the
+fine shall be recovered in a civil action brought by the Attorney General in
+the Commissionerï¿½s behalf.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-140__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Commissioner shall deposit any fine
+collected by the Commissioner hereunder with the State Treasurer for credit to
+the General Fund.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1672)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_684B-150">
+          <num>684B.150</num>
+          <heading>Court authorized to impose fine in lieu of Commissionerï¿½s order
+suspending, revoking or refusing to renew license; exception.</heading>
+          <subsection eId="684B-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Upon the hearing of an appeal from the
+Commissionerï¿½s order suspending, revoking or refusing to continue any license issued
+under the provisions of this chapter, the court, if it finds that the licensee
+is guilty of a violation of the law, and if it deems the suspension, revocation
+or refusal too severe a penalty under the facts as found, may impose a fine of
+not more than $500 in lieu thereof. Payment of the fine within 10 days
+thereafter shall reinstate, restore or continue the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="684B-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If it appears that a license of the
+licensee has theretofore been suspended, revoked or refused for a similar
+offense, the court shall not have jurisdiction to impose a fine in lieu of the
+action required by the order appealed from.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1971,
+1672)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

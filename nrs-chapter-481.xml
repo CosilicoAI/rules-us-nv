@@ -1,0 +1,2627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-481"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-481"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="481"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-481/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-481/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-481/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-481/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_481">
+        <num>481</num>
+        <heading>ADMINISTRATION OF LAWS</heading>
+        <section eId="sec_481-015">
+          <num>481.015</num>
+          <heading>Definitions; exceptions.</heading>
+          <subsection eId="481-015__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection, as used in this title, unless the context otherwise requires,
+ï¿½certificate of titleï¿½ means the document issued by the Department that
+identifies the legal owner of a vehicle and contains the information required
+pursuant to subsection 2 ofNRS 482.245.
+The definition set forth in this subsection does not apply tochapters 488and489of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-015__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided inchapter 480of NRS,NRS 484C.600to484C.640, inclusive,486.363to486.375, inclusive, andchapter 488of NRS, as used in this title, unless
+the context otherwise requires:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-015__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Departmentï¿½ means the Department of Motor
+Vehicles.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-015__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Directorï¿½ means the Director of the
+Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-015__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this title:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-015__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Civil infractionï¿½ means a violation of any
+provision ofchapters 483to484E, inclusive,486or490of NRS that is not punishable as a
+misdemeanor, gross misdemeanor or felony.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-015__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Full legal nameï¿½ means a natural personï¿½s
+first name, middle name and family name or last name, without the use of
+initials or a nickname. The term includes a full legal name that has been
+changed pursuant to the provisions ofNRS
+483.375or483.8605.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+608; A1985,
+1930;2001,
+2541;2003,
+416,453;2005,
+58;2009,
+3077;2011,
+292;2017,
+114,1276;2019,
+1061;2021,
+3299)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-019">
+          <num>481.019</num>
+          <heading>Creation; powers and duties.</heading>
+          <subsection eId="481-019__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department of Motor Vehicles is
+hereby created.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-019__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department is vested with the
+powers and authority provided in this chapter and shall carry out the purposes
+of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+609; A1985,
+1930;2001,
+2542)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-023">
+          <num>481.023</num>
+          <heading>Administration of laws by Department; exceptions.</heading>
+          <subsection eId="481-023__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section and in the provisions of law described in this section, the Department
+shall execute, administer and enforce, and perform the functions and duties
+provided in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-023__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Chapter 108of NRS, and perform such duties and exercise such powers relating to liens on
+vehicles as may be conferred upon it pursuant tochapter
+108of NRS or the provisions of any other law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-023__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Chapters 360A,365,366,371and373of
+NRS, relating to the imposition and collection of taxes on motor fuels.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-023__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Chapters 481,482to486,
+inclusive, and487of NRS, relating to motor
+vehicles. The Department shall not execute, administer or enforce, or perform
+the functions or duties provided inNRS
+486.363to486.375, inclusive,
+relating to the education and safety of motorcycle riders.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-023__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Chapter 706of NRS relating to licensing of motor vehicle carriers and the use of public
+highways by those carriers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-023__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The provisions ofNRS 426.401to426.461, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-023__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department shall perform such other
+duties and exercise such other powers as may be conferred upon the Department.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+609; A1959,
+628;1965,
+1059;1979,
+576;1981,
+2004;1985,
+1930;1987,
+1756;1989,
+1685;1993,
+1637;1999,
+1159;2001,
+2542;2003,
+416;2017,
+114)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-027">
+          <num>481.027</num>
+          <heading>General functions of Department of Motor Vehicles and Department
+of Transportation respecting state highways.</heading>
+          <content>
+            <p>The
+Department of Motor Vehicles shall control the manner and type of use of the
+state highways by the public, and the Department of Transportation shall
+control the physical aspects of the state highways.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+609; A1979,
+1801;1985,
+1921,1930;2001,
+2542)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-029">
+          <num>481.029</num>
+          <heading>Hearing conducted by Department: Manner of taking testimony;
+where conducted.</heading>
+          <subsection eId="481-029__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The testimony of any party or witness
+may be taken by telephone, videoconference or other electronic means; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-029__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The hearing may be conducted at any
+location so long as the hearing officer allows each party and witness to
+testify by telephone, videoconference or other electronic means.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+68)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-031">
+          <num>481.031</num>
+          <heading>Office of Director of Department created.</heading>
+          <content>
+            <p>The Office of Director of the Department of
+Motor Vehicles is hereby created.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+609; A1985,
+1931;2001,
+2543)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-035">
+          <num>481.035</num>
+          <heading>Director of Department: Appointment; classification; other
+employment prohibited; employment of deputies and staff.</heading>
+          <subsection eId="481-035__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-035__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is appointed by and serves at the pleasure of
+the Governor;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-035__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Must be appointed with special reference to
+his or her training, experience, capacity and interest in the field of
+administration or the administering of laws relating to motor vehicles;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-035__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Is in the unclassified service of the State;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-035__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Shall devote his or her entire time and
+attention to the business of the office and shall not pursue any other business
+or occupation or hold any other office of profit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-035__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director may, within the limits of
+legislative appropriations, employ such deputy directors as may be needed for
+the administration of the Department. A deputy director:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-035__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Must be appointed with special reference to
+his or her training, experience, capacity and interest in the field of
+administration or the administering of laws relating to motor vehicles;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-035__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is in the unclassified service of the State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-035__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as otherwise provided inNRS 284.143, shall devote his or her entire
+time and attention to the business of the office and shall not pursue any other
+business or occupation or hold any other office of profit;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-035__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Shall administer the laws relating to motor
+vehicles and the licensing of drivers, as provided inNRS 481.0475,481.048and481.0481; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-035__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Shall maintain records and other information
+relating to motor vehicles and the licensing of drivers, as provided inNRS 481.0475,481.048and481.0481.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-035__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Director may employ, within the
+limits of legislative appropriations, such administrators, managers,
+specialists, investigators and staff, who are employed in the classified
+service of the State, as the Director determines to be necessary to carry out
+the duties of the Department.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+609; A1967,
+1500;1971,
+1439;1981,
+1282;1985,
+430,1931;1991,
+914;1993,
+2536;1995,
+2315;2001,
+2543)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-047">
+          <num>481.047</num>
+          <heading>Appointment of personnel.</heading>
+          <content>
+            <p>The
+Director shall appoint such technical, clerical and operational staff as the
+execution of his or her duties and the operation of the Department may require.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+610; A1985,
+431)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-0473">
+          <num>481.0473</num>
+          <heading>Divisions of Department.</heading>
+          <subsection eId="481-0473__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A Division of the Office of the
+Director;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-0473__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A Division of Compliance Enforcement;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-0473__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A Division of Field Services;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-0473__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A Division of Central Services and
+Records;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-0473__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A Division of Research and Project
+Management;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-0473__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A Division of Information Technology;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-0473__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>An Administrative Services Division;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-0473__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>A Motor Carrier Division.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+611; A1959,
+628;1961,
+71;1965,
+90;1973,
+90;1979,
+576;1981,
+845,2005;1991,
+915;1993,
+1639;1995,
+579,2304;1999,
+3574;2001,
+2543;2005,
+91;2021,
+585)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-0475">
+          <num>481.0475</num>
+          <heading>Duties of Administrative Services Division.</heading>
+          <content>
+            <p>The Administrative Services Division shall
+furnish fiscal, accounting and other administrative services to the Director
+and the various divisions, and advise and assist the Director and the various
+divisions in carrying out their functions and responsibilities.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+611; A1959,
+628;1965,
+90;1973,
+90;1981,
+845,2005;1985,
+1933;1991,
+915;1993,
+1639,2671;1995,
+720,2304;1999,
+3574;2001,
+2544)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-048">
+          <num>481.048</num>
+          <heading>Division of Compliance Enforcement: Appointment and duties of
+investigators.</heading>
+          <subsection eId="481-048__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director shall appoint, within the
+limits of legislative appropriations, investigators for the Division of
+Compliance Enforcement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-048__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The duties of the investigators are to
+travel the State and:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-048__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Act as investigators in the enforcement of
+the provisions ofchapters 482,487and490of
+NRS,NRS 108.265to108.367, inclusive, and108.440to108.500, inclusive, as those sections
+pertain to motor vehicles, trailers, motorcycles, recreational vehicles and
+semitrailers, as defined inchapter 482of
+NRS, and off-highway vehicles, as defined inNRS
+490.060.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-048__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Act as advisers to any business licensed by
+the Department in connection with any problems arising under the provisions ofchapters 108,482,483,487and490of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-048__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Advise and assist personnel of the Nevada
+Highway Patrol in the enforcement of traffic laws and motor vehicle
+registration laws as they pertain to any business licensed by the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-048__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Act as investigators in the enforcement of
+the provisions ofNRS 483.700to483.780, inclusive, relating to the
+licensing of schools and instructors for training drivers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-048__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Exercise their police powers in the
+enforcement of the laws of this State to prevent acts of fraud or other abuses
+in connection with the provision of services offered to the public by the
+Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-048__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Perform such other duties as may be imposed
+by the Director.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1277; A1971,
+2081;1973,
+90,1072,1584;1975,
+1198;1977,
+1348;1979,
+1222;1983,
+1241;1985,
+431,1931;1993,
+2536;1999,
+3571;2001,
+2545;2007,
+3198;2009,
+3077;2011,
+292)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-0481">
+          <num>481.0481</num>
+          <heading>Section for Control of Emissions From Vehicles and Enforcement
+of Matters Related to Use of Special Fuel: Creation; appointment and duties of
+investigators, officers and technicians.</heading>
+          <subsection eId="481-0481__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>There is hereby created within the
+Department a Section for the Control of Emissions From Vehicles and the
+Enforcement of Matters Related to the Use of Special Fuel.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-0481__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director shall, within the limits
+of legislative appropriations, appoint to the Section investigators, officers
+and technicians for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-0481__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The control of emissions from vehicles; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-0481__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The enforcement of matters related to the use
+of special fuel.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-0481__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The duties of the investigators,
+officers and technicians are to travel the State and:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-0481__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Act as agents and inspectors in the
+enforcement of the provisions ofchapter 366of NRS,NRS 445B.700to445B.845, inclusive,chapter 482of NRS, andNRS 484D.535and484D.540.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-0481__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Cooperate with the Division of Environmental
+Protection of the State Department of Conservation and Natural Resources in all
+matters pertaining to the control of emissions from vehicles.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-0481__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Cooperate and coordinate with the personnel
+of the Nevada Highway Patrol in all matters pertaining to the enforcement of
+the provisions ofchapter 366of NRS as those
+provisions relate to the use of special fuel by motor vehicles.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-0481__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Perform such other duties as may be imposed
+by the Director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-0481__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½special fuelï¿½
+has the meaning ascribed to it inNRS
+366.060.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+1343; A1977,
+1148;1985,
+1932;1993,
+2537;1999,
+3572;2001,
+2546;2003,
+2525)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-051">
+          <num>481.051</num>
+          <heading>Powers and duties of Director: Generally; delegation.</heading>
+          <subsection eId="481-051__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director shall direct and supervise
+all administrative and technical activities of the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-051__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Director may organize the
+Department into various divisions, alter the organization and reassign
+responsibilities and duties as the Director deems appropriate.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-051__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Director shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-051__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Formulate the policy of the Department and
+the various divisions thereof.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-051__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Coordinate the activities of the various
+divisions of the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-051__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Adopt such regulations consistent with law as
+the Director deems necessary for the operation of the Department and the
+enforcement of all laws administered by the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-051__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Director may appoint vendors to
+serve as agents of the Department to sell temporary permits. The vendor shall
+collect the fees for the permits issued pursuant tochapter
+706of NRS and pay them to the Department. The vendor shall guarantee
+payment by giving a bond in an amount not less than $25,000, executed by the
+vendor as principal, and by a corporation qualified pursuant to the laws of
+this State as surety, payable to the State of Nevada. In lieu of a bond, the
+vendor may deposit with the State Treasurer a like amount of lawful money of
+the United States or any other form of security authorized byNRS 100.065. If security is provided in the
+form of a savings certificate, certificate of deposit or investment
+certificate, the certificate must state that the amount is not available for
+withdrawal except upon approval of the Director. Upon approval of the Governor,
+the Director may appoint inspectors of the Nevada Transportation Authority and personnel
+of the Nevada Highway Patrol Division of the Department of Public Safety to
+serve without remuneration as vendors for the purposes of this subsection.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-051__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Director may enter into a contract
+with a supplier of self-service terminals or kiosks which authorizes the
+supplier to process through those self-service terminals or kiosks certain
+transactions pursuant to this chapter andchapters
+482,483and485of NRS that have been designated by the Director and to charge and collect from
+customers a nonrefundable processing fee for each such transaction. The
+Director shall adopt regulations to carry out the provisions of this
+subsection.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-051__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Director may enter into a contract
+with a vendor to provide for the issuance and tracking of temporary placards
+issued pursuant toNRS 482.423to482.4245, inclusive. Such a contract may
+authorize the vendor to charge and collect a fee for each temporary placard
+issued pursuant toNRS 482.423to482.4245, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-051__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The Director may delegate to the
+officers and employees of the Department such authorities and responsibilities
+not otherwise delegated by law as the Director deems necessary for the
+efficient conduct of the business of the Department.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+610; A1960,
+65;1963,
+884;1965,
+566;1981,
+1057;1983,
+1000;1985,
+300,1932;1987,
+493;1989,
+1075;1993,
+2537;1995,
+317;1997,
+2005;2001,
+2546;2011,
+927;2019,
+3297)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-0513">
+          <num>481.0513</num>
+          <heading>Powers and duties of Director: Agreements for placement of
+advertisements in certain buildings.</heading>
+          <subsection eId="481-0513__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director may enter into an
+agreement with a person for the placement of advertisements in areas of
+buildings owned or occupied by the Department that are frequented by the
+public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-0513__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who enters into an agreement
+with the Director pursuant to subsection 1 shall ensure that each advertisement
+placed pursuant to the agreement does not inhibit or disrupt the functioning of
+the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-0513__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any money collected by the Department
+from an agreement entered into pursuant to subsection 1 must be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-0513__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Deposited with the State Treasurer for credit
+to the Motor Vehicle Fund; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-0513__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Used to offset the costs of communicating
+with the public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-0513__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Director may adopt regulations to
+carry out the provisions of this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2011,
+2679)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-0515">
+          <num>481.0515</num>
+          <heading>Powers and duties of Director: References to names of persons in
+documents and records.</heading>
+          <subsection eId="481-0515__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, the Director shall ensure that whenever a document is required by
+law to include the name of a person, the document sets forth the full legal
+name of that person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-0515__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of this section do not
+require the Director to alter, amend or otherwise change any documents that
+were created before October 1, 2003.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-0515__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Director may take any action he or
+she deems reasonable to facilitate achieving uniformity in the manner in which
+the documents and records of the Department refer to a particular person by
+name.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-0515__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-0515__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Certificate of registrationï¿½ means the
+certificate described in subsection 1 ofNRS
+482.245.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-0515__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Documentï¿½ means any:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="481-0515__subsec_4__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Application or record that a person is
+required to file with or submit to the Department;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-0515__subsec_4__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Card, certificate or license that the
+Department issues to a person; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-0515__subsec_4__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Record that the Department is required
+to keep or maintain.
+ï¿½The term
+includes, without limitation, a certificate of registration, certificate of
+title, driverï¿½s license and identification card, and an application or record
+pertaining to any such certificate, license or card.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2003,
+453)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-052">
+          <num>481.052</num>
+          <heading>Powers and duties of Director: Adoption of definitions of
+certain terms by regulation.</heading>
+          <subsection eId="481-052__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Address of principal residenceï¿½ as the
+term is used inchapters 483and486of NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-052__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½Convictionï¿½ as the term is used inNRS 483.010to483.630, inclusive; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-052__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>ï¿½Seasonal residentï¿½ as the term is used
+inchapters 482and483of NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2987; A2007,
+2782;2017,
+1276)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-0535">
+          <num>481.0535</num>
+          <heading>Powers and duties of Director: Expenditure of appropriations to
+assist certain entities to purchase and obtain evidence; receipt and
+safekeeping of money.</heading>
+          <subsection eId="481-0535__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director may expend money that the
+Legislature appropriates to assist local law enforcement agencies or the
+Division of Compliance Enforcement of the Department in the purchase of
+evidence and in employing persons other than peace officers to obtain that
+evidence.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-0535__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon receiving a written request from
+the Director, or a designee of the Director, for money appropriated for a
+purpose specified in subsection 1, the State Controller shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-0535__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Draw a warrant, payable to the Department; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-0535__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Electronically transfer money to the
+appropriate account of the Department,
+ï¿½as appropriate,
+in an amount which does not exceed any limit set by the Legislature in the
+appropriation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-0535__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Director may keep money drawn
+pursuant to this section in accounts in one or more banks or credit unions or
+in cash.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+1239)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-055">
+          <num>481.055</num>
+          <heading>Department to keep main office in Carson City; maintenance of
+branch offices; electronic branch office.</heading>
+          <subsection eId="481-055__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department shall keep its main
+office at Carson City, Nevada, in rooms provided by the Buildings and Grounds
+Section of the State Public Works Division of the Department of Administration.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-055__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department may maintain such branch
+offices throughout the State as the Director may deem necessary to the
+efficient operation of the Department and the various divisions thereof in
+space provided by the Buildings and Grounds Section. Any leases or agreements
+entered into pursuant to this subsection must be executed in accordance with
+the provisions ofNRS 331.110.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-055__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Department may establish an
+electronic branch office consisting of an Internet website or software
+application through which, notwithstanding any specific statute to the
+contrary, a person may submit forms, applications and other documentation and
+the Department may conduct transactions that have been designated by the
+Director as suitable to be conducted through electronic means, including,
+without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-055__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The electronic transmission, recording and
+issuance of certificates of title, certificates of registration and information
+relating to those certificates.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-055__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The electronic transmission and recording of
+applications for driverï¿½s licenses.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-055__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The recording and electronic transmission
+between the Department, other states and law enforcement of information
+relating to citations and crashes, collisions, accidents and other casualties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-055__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The acceptance of electronic signatures.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-055__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The collection and exchange of applications
+for licenses and other information from persons who are licensed as or seeking
+to be licensed as:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="481-055__subsec_3__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Brokers;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-055__subsec_3__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Dealers;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-055__subsec_3__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Distributors;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-055__subsec_3__subsec_e__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Lessors;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-055__subsec_3__subsec_e__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Manufacturers;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-055__subsec_3__subsec_e__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Rebuilders;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-055__subsec_3__subsec_e__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>Salespersons; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-055__subsec_3__subsec_e__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>Vehicle transporters.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="481-055__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The issuance of registration credentials
+pursuant toNRS 482.217.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-055__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Department shall not conduct a
+transaction through the electronic branch office which state or federal law
+specifically requires to be conducted in person or accept documentation through
+the electronic branch office which state or federal law specifically requires
+to be presented in original form.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+610; A1963,
+1070;1973,
+1475;1993,
+1639;2011,
+2554,2985;2021,
+1037;2023,
+1469)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-056">
+          <num>481.056</num>
+          <heading>Electronic versions of cards, certificates and licenses issued
+by Department; duty of holder.</heading>
+          <subsection eId="481-056__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department may issue to a person
+who holds or is issued a valid card, certificate or license issued by the
+Department an electronic version of the same card, certificate or license if
+the Director determines that the class of card, certificate or license is
+suitable for issuance in electronic form. The Department may not issue an
+electronic card, certificate or license except to a person who already holds or
+who is simultaneously issued a physical version of the same card, certificate
+or license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-056__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 482.255and any other specific statute,
+a person who has been issued a card, certificate or license in electronic form
+shall have the physical version of the card, certificate or license in his or
+her possession at all times when operating a motor vehicle under a circumstance
+in which the card, certificate or license is required.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+1037)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-057">
+          <num>481.057</num>
+          <heading>Offices of Department: Extended hours of operation.</heading>
+          <content>
+            <p>In a county whose population is 100,000 or
+more, the Director may arrange for offices of the Department to remain open on
+Saturdays and Sundays and at hours other than 8 a.m. to 5 p.m.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+216; A1969,
+1544;1979,
+552;1999,
+3574;2001,
+2547)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-058">
+          <num>481.058</num>
+          <heading>Offices of Department: Duty of Department to ensure employee who
+is fluent in certain languages is available in certain offices.</heading>
+          <content>
+            <p>At each office of the Department in which
+voting materials are required pursuant toNRS
+293.2699to be provided in the language or languages of a minority group,
+the Department shall make every effort to ensure that not less than one
+employee who is fluent in each such language is available to provide services
+in the office in the language or languages of the minority group. Such efforts
+must include, without limitation, including fluency in any such language as a
+consideration when hiring employees for or transferring employees to an office
+that lacks such an employee.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+1876)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-062">
+          <num>481.062</num>
+          <heading>Offices of Department: Maintenance of service windows or
+locations within certain offices dedicated to document preparation services;
+procedure for client of document preparation service to file complaint with
+Department; duties of Department; removal or suspension of privilege of
+document preparation service to conduct transactions with Department.</heading>
+          <subsection eId="481-062__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>At each office of the Department where
+the Department determines that document preparation services conduct a
+sufficient number of transactions on behalf of clients to warrant it, the
+Department may maintain public service windows or locations dedicated to
+serving document preparation services conducting transactions on behalf of
+clients, except that the Department must maintain:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-062__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In a county where motor vehicle owners are
+required to participate in a program for the control of emissions pursuant toNRS 445B.795and where four or more
+offices of the Department are located, not less than two such public service
+windows or locations at each office in the county;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-062__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-062__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>, in a county where motor vehicle owners are required to participate in a
+program for the control of emissions pursuant toNRS 445B.795, not less than one such public
+service window or location in each office in the county; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-062__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>At the main office of the Department, not
+less than one such public service window or location.
+ï¿½Such public
+service windows or locations may be used to provide services to the general
+public during times when no document preparation service is in the office
+seeking to conduct transactions on behalf of clients.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-062__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who is a client of a document
+preparation service may file with the Department a complaint alleging a
+violation ofchapter 240Aof NRS by the
+document preparation service in lieu of notifying the Secretary of State
+pursuant tochapter 240Aof NRS if at least
+one allegation in the complaint involves a transaction with the Department by
+the document preparation service on behalf of the client.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-062__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon receipt of a complaint filed
+pursuant to subsection 2 and evidence satisfactory to the Department that a
+violation ofchapter 240Aof NRS is more
+likely than not to have occurred, the Department shall forward the complaint to
+the Secretary of State or his or her designee for investigation pursuant toNRS 240A.260. Such evidence may include,
+without limitation, a written receipt for payment to the document preparation
+service by the client, as required pursuant toNRS 240A.230, for the transaction or
+transactions that are the subject of the complaint.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-062__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Upon receipt by the Department of a
+notice from the Secretary of State pursuant toNRS 240A.270or from the Attorney General
+or a district attorney pursuant toNRS
+240A.280that a violation of the provisions ofchapter 240Aof NRS has been committed by a
+document preparation service concerning a transaction with the Department that
+resulted in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-062__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A suspension or revocation of or the refusal
+to renew the registration of the document preparation service, the Department
+shall not allow the document preparation service to conduct transactions with
+the Department on behalf of a client.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-062__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The imposition of any civil remedy authorized
+bychapter 240Aof NRS other than the
+suspension or revocation of the registration of the document preparation
+service, the Department may suspend, for an amount of time determined to be
+reasonable by the Department, the privilege of the document preparation service
+to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="481-062__subsec_4__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Conduct transactions with the
+Department on behalf of clients; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-062__subsec_4__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Use a service window or location
+dedicated to document preparation services at any office of the Department
+where such a window or location is provided.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+1876)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-063">
+          <num>481.063</num>
+          <heading>Collection and deposit of fees for publications of Department
+and private use of files and records of Department; limitations on release and
+use of files and records; regulations. [Effective until the earlier of December
+31, 2026, or the date on which the Director of the Department of Motor Vehicles
+notifies the Governor and the Director of the Legislative Counsel Bureau that
+sufficient resources are available to enable the Department to carry out the
+amendatory provisions of chapter 119,Statutes of Nevada 2015, at page 429.]</heading>
+          <subsection eId="481-063__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Director may charge and collect
+reasonable fees for official publications of the Department and from persons
+making use of files and records of the Department or its various divisions for
+a private purpose. All money so collected must be deposited in the State
+Treasury for credit to the Motor Vehicle Fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-063__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 6, the Director may release personal information, except a
+photograph, from a file or record relating to the driverï¿½s license,
+identification card, or title or registration of a vehicle of a person if the
+requester submits a written release from the person who holds a lien on the
+vehicle, or an agent of that person, or the person about whom the information
+is requested which is dated not more than 90 days before the date of the
+request. The written release must be in a form required by the Director.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-063__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsections 2 and 4, the Director shall not release to any person who is not a
+representative of the Division of Welfare and Supportive Services of the
+Department of Health and Human Services or an officer, employee or agent of a
+law enforcement agency, an agent of the public defenderï¿½s office or an agency
+of a local government which collects fines imposed for parking violations, who
+is not conducting an investigation pursuant toNRS 253.0415or253.220, who is not authorized to transact
+insurance pursuant tochapter 680Aof NRS or
+who is not licensed as a private investigator pursuant tochapter 648of NRS and conducting an
+investigation of an insurance claim:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-063__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A list which includes license plate numbers
+combined with any other information in the records or files of the Department;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The social security number of any person, if
+it is requested to facilitate the solicitation of that person to purchase a
+product or service; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The name, address, telephone number or any
+other personally identifiable information if the information is requested by
+the presentation of a license plate number.
+ï¿½When such
+personally identifiable information is requested of a law enforcement agency by
+the presentation of a license plate number, the law enforcement agency shall
+conduct an investigation regarding the person about whom information is being
+requested or, as soon as practicable, provide the requester with the requested
+information if the requester officially reports that the motor vehicle bearing
+that license plate was used in a violation ofNRS
+205.240,205.345,205.380or205.445.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-063__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a person is authorized to obtain
+such information pursuant to a contract entered into with the Department and if
+such information is requested for the purpose of an advisory notice relating to
+a motor vehicle or the recall of a motor vehicle or for the purpose of
+providing information concerning the history of a vehicle, the Director may
+release:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-063__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A list which includes license plate numbers
+combined with any other information in the records or files of the Department;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The name, address, telephone number or any
+other personally identifiable information if the information is requested by
+the presentation of a license plate number.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-063__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsections 2, 4, 6, 7 and 11 andNRS
+483.294,483.855and483.937, the Director shall not release any
+personal information from a file or record relating to a driverï¿½s license,
+identification card, or title or registration of a vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-063__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Except as otherwise provided in
+paragraph</p>
+            </content>
+            <paragraph eId="481-063__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and subsections 8 and 11, if a person or governmental entity
+provides a description of the information requested and its proposed use and
+signs an affidavit to that effect, the Director may release any personal
+information, except a photograph, from a file or record relating to a driverï¿½s
+license, identification card, or title or registration of a vehicle for use:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>By any governmental entity, including, but
+not limited to, any court or law enforcement agency, in carrying out its
+functions, or any person acting on behalf of a federal, state or local
+governmental agency in carrying out its functions. The personal information may
+include a photograph from a file or record relating to a driverï¿½s license, identification
+card, or title or registration of a vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In connection with any civil, criminal,
+administrative or arbitration proceeding before any federal or state court,
+regulatory body, board, commission or agency, including, but not limited to,
+use for service of process, investigation in anticipation of litigation, and
+execution or enforcement of judgments and orders, or pursuant to an order of a
+federal or state court.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In connection with matters relating to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="481-063__subsec_6__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The safety of drivers of motor
+vehicles;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-063__subsec_6__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Safety and thefts of motor vehicles;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-063__subsec_6__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Emissions from motor vehicles;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-063__subsec_6__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Alterations of products related to
+motor vehicles;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-063__subsec_6__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>An advisory notice relating to a motor
+vehicle or the recall of a motor vehicle;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-063__subsec_6__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Monitoring the performance of motor
+vehicles;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-063__subsec_6__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>Parts or accessories of motor
+vehicles;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-063__subsec_6__subsec_c__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>Dealers of motor vehicles; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-063__subsec_6__subsec_c__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>Removal of nonowner records from the
+original records of motor vehicle manufacturers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="481-063__subsec_6__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as otherwise provided in subsection 6
+ofNRS 482.2175, by any insurer,
+self-insurer or organization that provides assistance or support to an insurer
+or self-insurer or its agents, employees or contractors, in connection with
+activities relating to the rating, underwriting or investigation of claims or
+the prevention of fraud.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_6__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In providing notice to the owners of vehicles
+that have been towed, repossessed or impounded.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_6__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>By an employer or its agent or insurer to
+obtain or verify information relating to a holder of a commercial driverï¿½s
+license who is employed by or has applied for employment with the employer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_6__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>By a private investigator, private patrol
+officer or security consultant who is licensed pursuant tochapter 648of NRS, for any use permitted
+pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_6__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>By a reporter or editorial employee who is
+employed by or affiliated with any newspaper, press association or commercially
+operated, federally licensed radio or television station for a journalistic
+purpose. The Department may not make any inquiries regarding the use of or
+reason for the information requested other than whether the information will be
+used for a journalistic purpose.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_6__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>In connection with an investigation conducted
+pursuant toNRS 253.0415or253.220.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_6__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>In activities relating to research and the
+production of statistical reports, if the personal information will not be
+published or otherwise redisclosed, or used to contact any person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-063__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Upon the request of a court or its
+traffic violations bureau, the Director shall release the mailing address and
+contact information of a person who has been issued a traffic citation that is
+filed with the court or traffic violations bureau from a file or record
+relating to the driverï¿½s license of the person or the title or registration of
+the personï¿½s vehicle for the purpose of enabling the court or traffic
+violations bureau to provide notifications concerning the traffic citation to
+the person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-063__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Except as otherwise provided in
+paragraph</p>
+            </content>
+            <paragraph eId="481-063__subsec_8__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>of subsection 6, the Director shall not provide personal
+information to individuals or companies for the purpose of marketing extended
+vehicle warranties, and a person who requests and receives personal information
+may sell or disclose that information only for a use permitted pursuant to
+subsection 6. Such a person shall keep and maintain for 5 years a record of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each person to whom the information is
+provided; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The purpose for which that person will use
+the information.
+ï¿½The record
+must be made available for examination by the Department at all reasonable
+times upon request.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-063__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, the Director may deny any use of the files and records if the
+Director reasonably believes that the information taken may be used for an
+unwarranted invasion of a particular personï¿½s privacy.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-063__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 485.316, the Director shall not allow
+any person to make use of information retrieved from the system created
+pursuant toNRS 485.313for a private
+purpose and shall not in any other way release any information retrieved from
+that system.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-063__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>The Director shall not release any
+personal information from a file or record relating to a license,
+identification card or title or registration of a vehicle to any person or to
+any federal, state or local governmental entity for any purpose relating to the
+enforcement of immigration laws unless the requester submits a written release
+from the person about whom the information is requested or the Director
+releases the personal information pursuant to a lawful order, subpoena or
+warrant issued by a court of competent jurisdiction. If the Director releases
+personal information pursuant to this subsection in response to an order,
+subpoena or warrant, the Director shall not release personal information beyond
+what is specifically required to comply with the order, subpoena or warrant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-063__subsec_12">
+            <num>12.</num>
+            <content>
+              <p>The Director shall adopt such
+regulations as the Director deems necessary to carry out the purposes of this
+section. In addition, the Director shall, by regulation, establish a procedure
+whereby a person who is requesting personal information may establish an
+account with the Department to facilitate the personï¿½s ability to request
+information electronically or by written request if the person has submitted to
+the Department proof of employment or licensure, as applicable, and a signed
+and notarized affidavit acknowledging that the person:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-063__subsec_12__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Has read and fully understands the current
+laws and regulations regarding the manner in which information from the
+Departmentï¿½s files and records may be obtained and the limited uses which are
+permitted;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_12__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Understands that any sale or disclosure of
+information so obtained must be in accordance with the provisions of this
+section;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_12__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Understands that a record will be maintained
+by the Department of any information he or she requests; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_12__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Understands that a violation of the
+provisions of this section is a criminal offense.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-063__subsec_13">
+            <num>13.</num>
+            <content>
+              <p>It is unlawful for any person to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-063__subsec_13__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Make a false representation to obtain any
+information from the files or records of the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_13__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Knowingly obtain or disclose any information
+from the files or records of the Department for any use not permitted by the
+provisions of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-063__subsec_14">
+            <num>14.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-063__subsec_14__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Personal informationï¿½ means information that
+reveals the identity of a person, including, without limitation, his or her
+photograph, social security number, individual taxpayer identification number,
+driverï¿½s license number, identification card number, name, address, telephone
+number or information regarding a medical condition or disability. The term
+does not include the zip code of a person when separate from his or her full
+address, information regarding vehicular crashes or driving violations in which
+he or she has been involved or other information otherwise affecting his or her
+status as a driver.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-063__subsec_14__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Vehicleï¿½ includes, without limitation, an
+off-highway vehicle as defined inNRS
+490.060.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+611; A1975,
+210;1979,
+1118;1981,
+1590;1985,
+686;1989,
+473;1993,
+2479;1995,
+1926;1997,
+65,312,2342;1999,
+1932;2001,
+909;2003,
+454;2009,
+709,2201,2273;2011,
+289,2679;2013,
+560,1291;2015,
+1622;2019,
+377;2021,
+1072;2023,
+853)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-065">
+          <num>481.065</num>
+          <heading>Acceptance of donations for programs for traffic safety.</heading>
+          <content>
+            <p>The Department is authorized to accept
+donations of money, labor and materials to be used in traffic safety programs.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+376)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-079">
+          <num>481.079</num>
+          <heading>Money collected to be deposited in Motor Vehicle Fund;
+exception; dishonored payments; adjustment of deposits.</heading>
+          <subsection eId="481-079__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided by
+specific statute, all taxes, license fees and money collected by the Department
+must be deposited with the State Treasurer to the credit of the Motor Vehicle
+Fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-079__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a check or any other method of
+payment accepted by the Department in payment of such fees is returned to the
+Department or otherwise dishonored upon presentation for payment:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-079__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The drawer or any other person responsible
+for payment of the fee is subject to a fee in the amount established by the
+State Controller pursuant toNRS 353C.115in addition to any other penalties provided by law; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-079__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department may require that future
+payments from the person be made by cashierï¿½s check, money order, travelerï¿½s
+check or cash.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-079__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Department may adjust the amount of
+a deposit made with the State Treasurer to the credit of the Motor Vehicle Fund
+for any cash shortage or overage resulting from the collection of fees.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+612; A1975,
+210;1983,
+1241;1985,
+1934;1997,
+318;2001,
+708;2003,
+20th Special Session, 213;2005,
+590;2015,
+2211;2019,
+2502)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-081">
+          <num>481.081</num>
+          <heading>Arrearage in tax, fee or assessment administered by Department:
+Department authorized to file certificate; certificate as lien; extension of
+lien.</heading>
+          <subsection eId="481-081__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If any tax, fee or assessment
+administered by the Department is not paid when due, the Department may, within
+3 years after the date that the tax, fee or assessment was due, file for record
+a certificate in the office of any county recorder which states:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-081__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The amount of the tax, fee or assessment and
+any interest or penalties due;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-081__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The name and address of the person who is
+liable for the amount due as they appear on the records of the Department; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-081__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>That the Department has complied with all
+procedures required by law for determining the amount due.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-081__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>From the time of the filing of the
+certificate, the amount due, including interest and penalties, constitutes a
+lien upon all real and personal property in the county owned by the person or
+acquired by the person afterwards and before the lien expires. The lien has the
+effect and priority of a judgment lien and continues for 5 years after the time
+of the filing of the certificate unless sooner released or otherwise
+discharged.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-081__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Within 5 years after the date of the
+filing of the certificate or within 5 years after the date of the last
+extension of the lien pursuant to this subsection, as appropriate, the lien may
+be extended by filing for record a new certificate in the office of the county
+recorder of any county. From the time of filing, the lien is extended to all
+real and personal property in the county owned by the person or acquired by the
+person afterwards for 5 years, unless sooner released or otherwise discharged.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+154)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-082">
+          <num>481.082</num>
+          <heading>Arrearage in tax, fee or assessment administered by Department:
+Release or subordination of lien; certificate issued by Department as
+conclusive evidence.</heading>
+          <subsection eId="481-082__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department may release all or any
+portion of the property subject to a lien imposed by the Department pursuant toNRS 481.081or subordinate the lien to
+other liens and encumbrances if the Department determines that the amount,
+interest and penalties are secured sufficiently by a lien on other property or
+that the release or subordination of the lien will not jeopardize the
+collection of the amount, interest and penalties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-082__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A certificate issued by the Department
+stating that property has been released from a lien, or that a lien has been
+subordinated to other liens and encumbrances, is conclusive evidence that the
+property has been released, or that the lien has been subordinated.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1999,
+154)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-083">
+          <num>481.083</num>
+          <heading>Money for administration of chapter; claims.</heading>
+          <subsection eId="481-083__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Money for the administration of the
+provisions of this chapter must be provided by direct legislative appropriation
+from the State Highway Fund or other legislative authorization upon the
+presentation of budgets in the manner required by law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-083__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All money provided for the support of
+the Department and its various divisions must be paid out on claims approved by
+the Director in the same manner as other claims against the State are paid.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+612; A1979,
+1119;1981,
+2006;1983,
+1011;1993,
+1641;1995,
+2305;1999,
+2431;2001,
+1832,2547;2001
+Special Session, 144;2003,
+274,277)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-087">
+          <num>481.087</num>
+          <heading>Administrative expenses deemed cost of administration of
+operation of motor vehicles on public highways.</heading>
+          <content>
+            <p>The
+expenses incurred in the administration of this chapter and in the
+administration of the powers and duties provided in this chapter shall be
+deemed to be a cost of administration with respect to the operation of motor
+vehicles upon the public highways of this State.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1957,
+612; A1993,
+1641;1995,
+2306;2001,
+2547)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-089">
+          <num>481.089</num>
+          <heading>ï¿½Personal informationï¿½ defined.</heading>
+          <subsection eId="481-089__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The home address of a person; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-089__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The home address of the spouse,
+domestic partner or minor child of a person.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1558)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-091">
+          <num>481.091</num>
+          <heading>Request for alternate address on driverï¿½s license or
+identification card: Persons eligible; requirements; regulations.</heading>
+          <subsection eId="481-091__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The following persons may request that
+the Department display an alternate address on the personï¿½s driverï¿½s license,
+commercial driverï¿½s license or identification card:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-091__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any justice or judge in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-091__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any senior justice or senior judge in this
+State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-091__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any court-appointed master in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-091__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Any clerk of the court, court administrator
+or court executive officer in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-091__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any prosecutor who as part of his or her
+normal job responsibilities prosecutes persons for:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="481-091__subsec_1__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Crimes that are punishable as category
+A felonies; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-091__subsec_1__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Domestic violence.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="481-091__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Any state or county public defender who as
+part of his or her normal job responsibilities defends persons for:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="481-091__subsec_1__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Crimes that are punishable as category
+A felonies; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-091__subsec_1__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Domestic violence.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="481-091__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Any person employed by the Office of the
+Attorney General who prosecutes or defends actions on behalf of the State of
+Nevada or any agency in the Executive Department of the State Government.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-091__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Any person, including, without limitation, a
+social worker, employed by this State or a political subdivision of this State
+who as part of his or her normal job responsibilities:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="481-091__subsec_1__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Interacts with the public; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-091__subsec_1__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Performs tasks related to child
+welfare services or child protective services or tasks that expose the person
+to comparable dangers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="481-091__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Any county manager in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-091__subsec_1__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>Any inspector, officer or investigator
+employed by this State or a political subdivision of this State designated by
+his or her employer:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="481-091__subsec_1__subsec_j__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Who possesses specialized training in
+code enforcement;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-091__subsec_1__subsec_j__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Who, as part of his or her normal job
+responsibilities, interacts with the public; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="481-091__subsec_1__subsec_j__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Whose primary duties are the
+performance of tasks related to code enforcement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="481-091__subsec_1__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>Any county or city clerk or registrar of
+voters charged with the powers and duties relating to elections and any deputy
+appointed by the county or city clerk or registrar of voters in the elections
+division of the county or city.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-091__subsec_1__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>The spouse, domestic partner or minor child
+of a person described in paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-091__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-091__subsec_1__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-091__subsec_1__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>The surviving spouse, domestic partner or
+minor child of a person described in paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-091__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-091__subsec_1__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>, inclusive, who was
+killed in the performance of his or her duties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-091__subsec_1__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>Any person for whom a fictitious address has
+been issued pursuant toNRS 217.462to217.471, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-091__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who wishes to have an
+alternate address displayed on his or her driverï¿½s license, commercial driverï¿½s
+license or identification card pursuant to this section must submit to the
+Department satisfactory proof:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-091__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>That he or she is a person described in
+subsection 1; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-091__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Of the personï¿½s address of principal
+residence and mailing address, if different from the address of principal
+residence.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-091__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person who obtains a driverï¿½s
+license, commercial driverï¿½s license or identification card that displays an
+alternate address pursuant to this section may subsequently submit a request to
+the Department to have his or her address of principal residence displayed on
+his or her driverï¿½s license, commercial driverï¿½s license or identification card
+instead of the alternate address.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-091__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Department may adopt regulations to
+carry out the provisions of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="481-091__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-091__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Child protective servicesï¿½ has the meaning
+ascribed to it inNRS 432B.042.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-091__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Child welfare servicesï¿½ has the meaning
+ascribed to it inNRS 432B.044.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-091__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>ï¿½Code enforcementï¿½ means the enforcement of
+laws, ordinances or codes regulating public nuisances or the public health,
+safety and welfare.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-091__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>ï¿½Social workerï¿½ means any person licensed
+underchapter 641Bof NRS.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1558; A2019,
+729,868,1827;2021,
+290,668,1265)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-093">
+          <num>481.093</num>
+          <heading>Limits on disclosure of personal information.</heading>
+          <content>
+            <p>If a person requests pursuant toNRS 481.091to have an alternate address
+displayed on the personï¿½s driverï¿½s license, commercial driverï¿½s license or
+identification card, the personal information of that person may only be
+disclosed as provided inNRS 239.0115or481.063or as otherwise specifically
+authorized by law.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1559)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-095">
+          <num>481.095</num>
+          <heading>Prohibited acts.</heading>
+          <subsection eId="481-095__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="481-095__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Make a false representation to obtain any
+information pursuant toNRS 481.089,481.091or481.093; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="481-095__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Knowingly obtain or disclose information
+pursuant toNRS 481.089,481.091or481.093for any use not authorized pursuant
+toNRS 481.089,481.091or481.093.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="481-095__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who violates the provisions of
+this section is guilty of a misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1559)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-097">
+          <num>481.097</num>
+          <heading>Penalty for disclosing personal information.</heading>
+          <content>
+            <p>If a person discloses personal information
+about a person listed inNRS 481.091in
+violation ofNRS 481.089,481.091or481.093and the person who makes the
+disclosure knows or reasonably should know that such disclosure will create a
+substantial risk of bodily harm to the person about whom the information
+pertains, the person who makes the disclosure is guilty of a misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1559)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_481-099">
+          <num>481.099</num>
+          <heading>Civil penalty.</heading>
+          <content>
+            <p>In
+addition to any penalty imposed pursuant toNRS
+481.095or481.097, the court may
+order a person who commits an act described in those sections to pay a civil
+penalty in an amount not to exceed $2,500 for each act.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+1559)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,2544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-695D"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-695D"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="695D"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-695D/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-695D/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-695D/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-695D/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_695D">
+        <num>695D</num>
+        <heading>PLANS FOR DENTAL CARE</heading>
+        <section eId="sec_695D-010">
+          <num>695D.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 695D.012to695D.080, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2021; A2021,
+3529)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-012">
+          <num>695D.012</num>
+          <heading>ï¿½Administratorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Administratorï¿½
+has the meaning ascribed to it inNRS
+683A.025.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3527)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-020">
+          <num>695D.020</num>
+          <heading>ï¿½Commissionerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Commissionerï¿½
+means the Commissioner of Insurance.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2021)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-030">
+          <num>695D.030</num>
+          <heading>ï¿½Dental careï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Dental
+careï¿½ means the services ordinarily provided by dentists and includes
+appliances, drugs, medicines, supplies, prosthetic appliances, orthodontic
+appliances, and metal, ceramic or other restorations customarily used or
+provided by a dentist.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2021)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-040">
+          <num>695D.040</num>
+          <heading>ï¿½Dentistï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Dentistï¿½
+includes a dental hygienist and an expanded function dental assistant.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2021; A2023,
+3438)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-050">
+          <num>695D.050</num>
+          <heading>ï¿½Memberï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Memberï¿½
+includes the person enrolled in a plan for dental care and the personï¿½s
+dependents who may also be enrolled in the plan.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2021)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-060">
+          <num>695D.060</num>
+          <heading>ï¿½Organization for dental careï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Organization
+for dental careï¿½ means any person who agrees to provide coverage for dental
+care through one or more plans for dental care.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2021)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-070">
+          <num>695D.070</num>
+          <heading>ï¿½Plan for dental careï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Plan
+for dental careï¿½ means any agreement in which a person agrees to provide or
+arrange for dental care or pay for or reimburse any part of the cost of that
+care and the member agrees to prepay, make periodic payments or pay through
+insurance for that care.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2021; A1985,
+2098)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-080">
+          <num>695D.080</num>
+          <heading>ï¿½Policyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Policyï¿½
+means the document given to a member which describes the dental care to which
+the member is entitled under a plan for dental care and the obligations of the
+member to the organization for dental care.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2021)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-090">
+          <num>695D.090</num>
+          <heading>Applicability of title to organizations for dental care;
+applicability of chapter.</heading>
+          <subsection eId="695D-090__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise specifically
+provided in this chapter or elsewhere in this title, the provisions of this
+title other than this chapter do not apply to organizations for dental care.
+This exemption does not apply to any insurer authorized pursuant to any other
+provision of this title except with respect to those activities authorized and
+regulated by this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-090__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of this chapter do not
+apply to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-090__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any person, corporation or organization which
+must be authorized by the Commissioner to transact the business of insurance
+pursuant tochapter 680A,695Bor695Cof NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-090__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any plan established to provide health and
+welfare benefits to employees pursuant to a collective bargaining agreement.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2021)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-095">
+          <num>695D.095</num>
+          <heading>Applicability of chapter and certain other provisions to
+organizations for dental care.</heading>
+          <subsection eId="695D-095__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An organization for dental care is
+subject to the provisions of this chapter and to the provisions set forth in
+this section, to the extent reasonably applicable. Organizations for dental
+care are subject to the provisions ofNRS
+449.465,679B.700, subsections 7
+and 8 ofNRS 680A.270, subsections 2,
+4, 17, 18 and 30 ofNRS 680B.010,NRS 680B.020to680B.060, inclusive,chapters 681Band686Aof NRS,NRS 686B.010to686B.175, inclusive, andchapters 687B,692Cand695Gof NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-095__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For the purposes of this section and
+the provisions set forth in subsection 1, an organization for dental care is
+included in the meaning of the term ï¿½insurer.ï¿½</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+470; A2017,
+2397;2021,
+2995;2023,
+2643)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-100">
+          <num>695D.100</num>
+          <heading>Regulations.</heading>
+          <content>
+            <p>The
+Commissioner may adopt any regulations necessary to carry out the provisions of
+this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2022)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-102">
+          <num>695D.102</num>
+          <heading>Summary of coverage: Contents of disclosure; approval by
+Commissioner; regulations.</heading>
+          <subsection eId="695D-102__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner shall adopt
+regulations which require an organization for dental care to file with the
+Commissioner, for approval by the Commissioner, a disclosure summarizing the
+coverage provided by each plan for dental care offered by the organization for
+dental care. The disclosure must include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-102__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any significant exception, reduction or
+limitation that applies to the plan; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-102__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any other information,
+ï¿½that the
+Commissioner finds necessary to provide for full and fair disclosure of the
+provisions of the plan.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-102__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The disclosure must be written in
+language which is easily understood and must include a statement that the
+disclosure is a summary of the policy only, and that the policy itself should
+be read to determine the governing contractual provisions.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-102__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner shall not approve any
+proposed disclosure submitted to the Commissioner pursuant to this section
+which does not comply with the requirements of this section and the applicable
+regulations.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+1254)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-104">
+          <num>695D.104</num>
+          <heading>Summary of coverage: Copy required to be provided to group
+policyholder before issuance of policy; organization prohibited from offering
+plan unless disclosure approved by Commissioner.</heading>
+          <content>
+            <p>An
+organization for dental care shall provide to the group policyholder to whom it
+offers a plan for dental care a copy of the disclosure approved for that plan
+pursuant toNRS 695D.102before the
+policy is issued. An organization for dental care shall not offer a plan for
+dental care unless the disclosure for that plan has been approved by the
+Commissioner.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+1254)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-110">
+          <num>695D.110</num>
+          <heading>Certificate of authority: Required for establishing, operating,
+acting as administrator of, selling or offering to sell plan for dental care.</heading>
+          <content>
+            <p>No person may establish or operate a plan for
+dental care, act as an administrator of such a plan or sell or offer to sell
+such a plan without first obtaining a certificate of authority from the
+Commissioner.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2022)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-120">
+          <num>695D.120</num>
+          <heading>Certificate of authority: Application.</heading>
+          <subsection eId="695D-120__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A copy of any organizational document
+for the organization and all amendments to that document.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-120__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A copy of any bylaws, rules or
+regulations governing the internal affairs of the organization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-120__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A list of the names, addresses and
+official positions of the persons responsible for operating the organization,
+including the members of the board of directors, board of trustees, executive
+committee, principal officers or partners.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-120__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A copy of the contracts made or proposed
+to be made between the applicant and those persons listed in subsection 3 and
+the dentists.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-120__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A statement describing the applicantï¿½s
+plan for dental care, its facilities and personnel.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-120__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A copy of the policy to be issued to
+its members.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-120__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>A copy of any contract for groups to be
+issued to employers, unions, trustees or other organizations.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-120__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Certified financial statements showing
+the applicantï¿½s assets, liabilities and sources of support. A copy of the
+applicantï¿½s most recent certified financial statement satisfies this
+requirement unless the Commissioner requests additional information from the
+applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-120__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>A description of the method to be used
+to market the plan for dental care, including a financial statement, a
+projection for the initial 5 years of operation of the plan and a statement of
+the sources of capital for the organization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-120__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>A power of attorney executed by the
+applicant or its officers, which appoints the Commissioner as the attorney for
+the applicant upon whom service of process may be made in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-120__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>A statement describing the geographic
+area or areas to be served by the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-120__subsec_12">
+            <num>12.</num>
+            <content>
+              <p>A statement indicating that all the
+dentists for the plan are licensed pursuant tochapter
+631of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-120__subsec_13">
+            <num>13.</num>
+            <content>
+              <p>Any other information requested by the
+Commissioner.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2022)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-130">
+          <num>695D.130</num>
+          <heading>Certificate of authority: Issuance; fees.</heading>
+          <subsection eId="695D-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The persons responsible for operating
+the organization are competent, trustworthy, have not been convicted of a
+felony and have good reputations.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The plan for dental care includes care
+which is appropriate for the plan and the plan is appropriate for providing
+that care.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-130__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The organization is financially
+responsible and may reasonably be expected to meet its obligations to its
+members. To determine financial responsibility the Commissioner may consider:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-130__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The organizationï¿½s arrangements for dental
+care and the schedule of charges to be used;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-130__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The agreements with an insurer, government or
+any other organizations for ensuring payment for the dental care;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-130__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any provisions for alternative coverage if
+the plan for dental care is discontinued; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-130__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The agreements with the dentists providing
+dental care to the organizationï¿½s members.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-130__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The appropriate deposits or bonds have
+been filed with the Commissioner by the organization and its officers.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2023; A1991,
+1634;2009,
+1819)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-140">
+          <num>695D.140</num>
+          <heading>Certificate of authority: Notice of change of information;
+application for amendment; fee; approval.</heading>
+          <subsection eId="695D-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, every organization issued a certificate of authority by the
+Commissioner shall notify the Commissioner of any change in the information
+provided to obtain its certificate of authority within 10 days after the
+change.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Every such organization that wishes to
+make a change in the geographic areas which it serves, or to make any other
+material modification of the operations described in the information required
+byNRS 695D.120, shall file with the
+Commissioner an application for the amendment of the certificate of authority
+and pay to the Commissioner an application fee of $100. If the Commissioner
+does not disapprove the application within 30 days after filing, it shall be
+deemed approved.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2023; A1991,
+2205)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-150">
+          <num>695D.150</num>
+          <heading>Certificate of authority: Expiration; renewal; fees.</heading>
+          <subsection eId="695D-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Continues to comply with the provisions
+of this chapter; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Pays the fee for renewal of $2,450 and,
+in addition to any other fee or charge, all applicable fees required pursuant
+toNRS 680C.110.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2023; A1987,
+470;1991,
+1635;1993,
+614;2009,
+1819)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-153">
+          <num>695D.153</num>
+          <heading>Capital account: Minimum amount; requirements.</heading>
+          <subsection eId="695D-153__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each organization for dental care which
+receives a certificate of authority shall maintain a capital account with a net
+worth of not less than $500,000 unless a lesser amount is permitted in writing
+by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-153__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An organization for dental care which
+has been issued a certificate of authority pursuant to this chapter shall
+maintain a capital account with a net worth in an amount which is not less than
+the greater of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-153__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The amount of risk-based capital required by
+regulations adopted by the Commissioner pursuant toNRS 681B.550; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-153__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The following applicable amount, according to
+the number of members in the organization:
+Number of membersï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Net
+worth
+Less than 2,500............................................................................................... $50,000
+At least 2,500 but not more than
+5,000......................................................... 75,000
+More than 5,000.............................................................................................. 125,000
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-153__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The account must not be obligated for
+any accrued liabilities and must consist of cash, securities or a combination
+thereof which is acceptable to the Commissioner.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+2397; A2019,
+1720)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-157">
+          <num>695D.157</num>
+          <heading>Hazardous financial condition: Regulations; determination;
+powers of Commissioner.</heading>
+          <subsection eId="695D-157__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner may adopt regulations
+to define when an organization for dental care is considered to be in a
+hazardous financial condition and to set forth the standards to be considered
+by the Commissioner in determining whether the continued operation of an
+organization for dental care transacting business in this State may be
+considered to be hazardous to its members or creditors or to the general public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-157__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Commissioner determines after a
+hearing that any organization for dental care is in a hazardous financial
+condition, the Commissioner may, instead of suspending or revoking the
+certificate of authority of the organization, limit the certificate of
+authority as the Commissioner deems reasonably necessary to correct, eliminate
+or remedy any conduct, condition or ground that is deemed to be a cause of the
+hazardous financial condition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-157__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An order or decision of the
+Commissioner under this section is subject to review in accordance withNRS 679B.310to679B.370, inclusive, at the request of
+any party to the proceedings whose interests are substantially affected.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2017,
+2397)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-160">
+          <num>695D.160</num>
+          <heading>Composition of board of directors for organization for dental
+care that is corporation.</heading>
+          <subsection eId="695D-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Dentists who have contracted with the
+organization to provide dental care to its members; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Members of the plan for dental care,
+who must comprise at least one-third of the membership of the board by the end
+of its first year of operation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2023)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-170">
+          <num>695D.170</num>
+          <heading>Bond or deposit: Required; amount; creation of Fund for Bonds of
+Organizations for Dental Care; judgment as lien; disposition upon dissolution,
+liquidation or other termination of organization.</heading>
+          <subsection eId="695D-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, before a certificate of authority may be issued to an organization for
+dental care:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-170__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The officers responsible for operating the
+organization must file with the Commissioner a collective fidelity bond for
+$1,000,000; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-170__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The organization must file with the
+Commissioner a surety bond in the sum of $500,000 or deposit with the
+Commissioner cash or securities acceptable to the Commissioner in the sum of $500,000,
+ï¿½to guarantee
+the organizationï¿½s performance pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the bond is furnished in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-170__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Cash, the Commissioner shall deposit the
+money in the State Treasury for credit to the Fund for Bonds of Organizations
+for Dental Care which is hereby created as a trust fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-170__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Negotiable securities, the principal must be
+placed without restriction at the disposal of the Commissioner, but any income
+must inure to the benefit of the organization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner may reduce the required
+amount of the organizationï¿½s surety bond or deposit:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-170__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To $125,000, if the obligations assumed by
+the organization under the plan can be satisfied for less than $125,000.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-170__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To any amount if the organization
+demonstrates that it has commitments of money from federal, state or municipal
+governments or their political subdivisions or other comparable resources which
+are sufficient to ensure the ability of the organization to satisfy its
+obligations.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-170__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Commissioner may increase the
+required amount of the organizationï¿½s surety bond or deposit to any amount the
+Commissioner determines to be appropriate pursuant to subsection 5 if the
+Commissioner determines that the current level of the surety bond or deposit is
+insufficient to provide protection to the members in the event of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-170__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Insolvency; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-170__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A determination by the Commissioner that the
+organization is in a hazardous financial condition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-170__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>When determining the appropriate amount
+of an increase pursuant to subsection 4, the Commissioner must base his or her
+determination on the type, volume and nature of premiums written and premiums
+assumed by the organization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-170__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The amount of the organizationï¿½s surety
+bond or deposit required pursuant to this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-170__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is in addition to any reserve required by
+this chapter and any reserve established by the organization according to good
+business and accounting practices for incurred but unreported claims and other
+similar claims;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-170__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May increase the amount of net worth required
+pursuant to this chapter; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-170__subsec_6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>May increase the amount of risk-based capital
+required pursuant toNRS 681B.550.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-170__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Any final judgment against the
+organization which is unpaid is a lien on the surety bond or deposit and is
+subject to execution 30 days after entry of the judgment. Any surety bond or
+deposit which is reduced by this lien must be increased by the organization to
+the amount required by this section within 90 days after the judgment is paid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-170__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>If an organization is dissolved,
+liquidated or otherwise terminated:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-170__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>That amount of the surety bond or deposit
+which is necessary to satisfy the outstanding obligations of the organization
+may not be withdrawn for at least 3 years after the certificate of authority
+has been terminated.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-170__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any balance remaining after money has been
+withheld to pay the organizationï¿½s debts and liens must be paid to the
+organization by the Commissioner no later than 90 days after the certificate of
+authority has been terminated.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2023; A2017,
+2398)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-180">
+          <num>695D.180</num>
+          <heading>Requirements concerning bond.</heading>
+          <content>
+            <p>An
+organization for dental care or its officers under this chapter shall file a
+bond with the Commissioner. The bond must comply withNRS 679B.175.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2024; A2021,
+2995)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-190">
+          <num>695D.190</num>
+          <heading>Certain persons in organization for dental care in fiduciary
+relationship to members; dentist subject to disciplinary action for breaches of
+fiduciary or contractual obligations.</heading>
+          <content>
+            <p>Any
+director, officer, partner or employee of an organization for dental care who
+receives, collects, disburses or invests money in connection with the
+activities of that organization is responsible for that money and has a
+fiduciary duty and relationship to the members of the organization. Any dentist
+who breaches this fiduciary duty or fails to satisfy his or her contractual
+obligation to the organization or the members thereof is subject to
+disciplinary action pursuant toNRS 631.350.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2024)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-200">
+          <num>695D.200</num>
+          <heading>Policy: Review by prospective members at meeting; provision of
+copy to members; approval by Commissioner; form and contents; notice of change.</heading>
+          <subsection eId="695D-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An organization for dental care shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-200__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Hold a meeting for all prospective members to
+review fully the policy being offered and describe the coverage under the plan
+for dental care before any contract is executed between the parties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-200__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide to each member a copy of the policy
+describing his or her coverage under the plan for dental care.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner must approve every
+policy and amendment to it before they are distributed to the members or any
+other person. If the Commissioner does not disapprove the policy within 30 days
+after it is filed with the Commissioner, it shall be deemed to be approved. If
+the Commissioner disapproves a policy, the Commissioner shall notify the
+organization of the reasons for disapproval. The Commissioner shall grant a
+hearing on any disapproval of a policy or amendment within 15 days after the
+organization requests, in writing, a hearing on the matter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A policy must contain a clear and
+complete statement of the contract between the parties or a summary of the
+contract which describes:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-200__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The dental care and other benefits to which
+the member is entitled;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-200__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any limitations on the care to be provided,
+including any deductibles or copayments to be paid by a member;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-200__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Where information is available and how dental
+care may be obtained; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-200__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The memberï¿½s obligations for payment under
+the plan for dental care.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-200__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The organization must give notice to
+the Commissioner and every member 30 days before any change is made in the
+memberï¿½s policy.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2025)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-203">
+          <num>695D.203</num>
+          <heading>Group plan issued to replace discontinued policy or coverage:
+Requirements; notice of reduction of benefits; statement of benefits;
+applicability to self-insured employer.</heading>
+          <subsection eId="695D-203__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A group plan for dental care issued by
+an organization for dental care to replace any discontinued policy or coverage
+for dental care must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-203__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Provide coverage for all persons who were
+covered under the previous policy or coverage on the date it was discontinued;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-203__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided in subsection 2,
+provide benefits which are at least as extensive as the benefits provided by
+the previous policy or coverage, except that benefits may be reduced or
+excluded to the extent that such a reduction or exclusion was permissible under
+the terms of the previous policy or coverage,
+ï¿½if that plan
+is issued within 60 days after the date on which the previous policy or
+coverage was discontinued.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-203__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If an employer obtains a replacement
+plan pursuant to subsection 1 to cover the employees of the employer, any
+benefits provided by the previous policy or coverage may be reduced if notice
+of the reduction is given to the employees pursuant toNRS 608.1577.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-203__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any organization for dental care which
+issues a replacement plan pursuant to subsection 1 may submit a written request
+to the insurer which provided the previous policy or coverage for a statement
+of benefits which were provided under that policy or coverage. Upon receiving
+such a request, the insurer shall give a written statement to the organization
+indicating what benefits were provided and what exclusions or reductions were
+in effect under the previous policy or coverage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-203__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The provisions of this section apply to
+a self-insured employer who provides benefits to the employees of the
+self-insured employer for dental care and replaces those benefits with a group
+plan for dental care.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+851)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-205">
+          <num>695D.205</num>
+          <heading>Copayments and deductibles: Reasonableness; approval of
+Commissioner; regulations.</heading>
+          <subsection eId="695D-205__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each copayment and deductible required
+to be paid by a member must be reasonable and reasonably related to the cost of
+the particular service.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-205__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Every organization for dental care
+shall submit to the Commissioner for approval any proposal for copayment or
+deductible before it is imposed on the members. The Commissioner shall approve
+or disapprove the proposal within 30 days after it is submitted to the
+Commissioner. If the Commissioner disapproves a copayment or deductible, the
+Commissioner shall notify the organization of the reasons for disapproval. The
+Commissioner shall grant a hearing on any such disapproval within 15 days after
+the organization requests, in writing, a hearing on the matter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-205__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner may adopt regulations
+to define:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-205__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Reasonableï¿½ as it relates to copayments and
+deductibles; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-205__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A ï¿½reasonable relationshipï¿½ between the cost
+of particular services and the amount of related copayments and deductibles.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+1783)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-210">
+          <num>695D.210</num>
+          <heading>Policy covering dependent of member required to include coverage
+for memberï¿½s newly born and adopted children and children placed with member
+for adoption to same extent as other dependents.</heading>
+          <subsection eId="695D-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any policy which provides coverage for
+a dependent of a member must provide that benefits for children are payable for
+a memberï¿½s newly born child, adopted child or child placed with the member for
+the purpose of adoption to the same extent that the coverage applies to other
+dependents.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The policy may require that to have
+coverage for the newly born child, adopted child or child placed for adoption
+continued beyond 31 days after the childï¿½s birth, adoption or placement, the
+member must notify the organization for dental care within 31 days after the
+birth, adoption or placement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>For covered services provided to the
+child, the organization for dental care shall reimburse noncontracted providers
+of health care to an amount equal to the average amount of payment for which
+the organization has agreements, contracts or arrangements for those covered
+services.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2025; A1989,
+742)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-215">
+          <num>695D.215</num>
+          <heading>Claims: Approval or denial; request for additional information;
+payment; interest on unpaid claim.</heading>
+          <subsection eId="695D-215__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, an organization for dental care shall approve or deny a claim
+relating to a plan for dental care within 30 days after the organization for
+dental care receives the claim. If the claim is approved, the organization for
+dental care shall pay the claim within 30 days after it is approved. If the
+approved claim is not paid within that period, the organization for dental care
+shall pay interest on the claim at the rate of interest established pursuant toNRS 99.040. The interest must be
+calculated from the date the payment is due until the claim is paid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-215__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the organization for dental care
+requires additional information to determine whether to approve or deny the
+claim, it shall notify the claimant of its request for the additional
+information within 20 days after it receives the claim. The organization for
+dental care shall notify the provider of dental care of the reason for the
+delay in approving or denying the claim. The organization for dental care shall
+approve or deny the claim within 30 days after receiving the additional
+information. If the claim is approved, the organization for dental care shall
+pay the claim within 30 days after it receives the additional information. If
+the approved claim is not paid within that period, the organization for dental care
+shall pay interest on the claim in the manner prescribed in subsection 1.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+1332)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-2153">
+          <num>695D.2153</num>
+          <heading>Claims: Organization for dental care or administrator prohibited
+from denying claim for which prior authorization has been granted; exceptions.</heading>
+          <subsection eId="695D-2153__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An organization for dental care or an
+administrator of a dental plan shall not refuse to pay a claim for dental care
+for which the organization for dental care or administrator, as applicable, has
+granted prior authorization unless:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-2153__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A limitation on coverage provided under the
+applicable plan for dental care, including, without limitation, a limitation on
+total costs or frequency of services:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="695D-2153__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Did not apply at the time the prior
+authorization was granted; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="695D-2153__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Applied at the time of the provision
+of the dental care for which the prior authorization was granted because
+additional covered dental care was provided to the member after the prior
+authorization was granted and before the provision of the dental care for which
+prior authorization was granted;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="695D-2153__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The documentation provided by the person
+submitting the claim clearly fails to support the claim for which prior
+authorization was originally granted;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-2153__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>After the prior authorization was granted,
+additional dental care was provided to the member or the condition of the
+member otherwise changed such that:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="695D-2153__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The dental care for which prior authorization
+was granted is no longer medically necessary; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="695D-2153__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The organization for dental care or
+administrator, as applicable, would be required to deny prior authorization
+under the terms and conditions of the applicable plan for dental care that were
+in effect at the time of the provision of the dental care for which prior
+authorization was granted;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="695D-2153__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Another person or entity is responsible for
+the payment;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-2153__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The dentist has previously been paid for the
+procedures covered by the claim;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-2153__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The claim was fraudulent or the prior
+authorization was based, in whole or in part, on materially false information
+provided by the dentist or member or another person who is not affiliated with
+the organization for dental care or administrator, as applicable; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-2153__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The member was not eligible to receive the
+dental care for which the claim was made on the date that the dental care was
+provided.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-2153__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any provision of a contract that
+conflicts with this section is against public policy, void and unenforceable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-2153__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-2153__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Medically necessaryï¿½ means dental care that
+a prudent dentist would provide to a patient to prevent, diagnose or treat an
+illness, injury or disease, or any symptoms thereof, that is necessary and:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="695D-2153__subsec_3__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Provided in accordance with generally
+accepted standards of dental practice;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="695D-2153__subsec_3__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Clinically appropriate with regard to
+type, frequency, extent, location and duration;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="695D-2153__subsec_3__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Not primarily provided for the
+convenience of the patient or dentist;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="695D-2153__subsec_3__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Required to improve a specific dental
+condition of a patient or to preserve the existing state of oral health of the
+patient; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="695D-2153__subsec_3__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>The most clinically appropriate level
+of dental care that may be safely provided to the patient.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="695D-2153__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Prior authorizationï¿½ means any communication
+issued by an organization for dental care or the administrator of a dental plan
+in response to a request by a dentist in the form prescribed by the
+organization for dental care or administrator, as applicable, which indicates
+that specific dental care provided to a patient is:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="695D-2153__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Covered under the plan for dental care
+issued to the member; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="695D-2153__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Reimbursable in a specific amount,
+subject to applicable deductibles, copayments and coinsurance.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3528)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-2157">
+          <num>695D.2157</num>
+          <heading>Recovery of overpayments: Notice; procedures for challenging
+attempted recovery; limitation of period for recovery; exception.</heading>
+          <subsection eId="695D-2157__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An organization for dental care or an
+administrator who recovers overpayments under a plan for dental care shall
+provide written notice to a dentist of any attempt to recover an overpayment,
+other than a duplicate payment. The notice must include, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-2157__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A description of the error that justifies the
+recovery; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-2157__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The date on which the dental care for which
+the overpayment was made was provided and the name of the member to whom the
+dental care was provided.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-2157__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An organization for dental care or an
+administrator who recovers overpayments under a plan for dental care shall
+establish written procedures by which a dentist may challenge an attempt to
+recover an overpayment. Those procedures must include, without limitation, procedures
+for sharing information concerning a disputed claim with the dentist.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-2157__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection, an organization for dental care or an administrator who recovers
+overpayments under a plan for dental care shall not attempt to recover an
+overpayment more than 12 months after the date of the overpayment. This
+subsection does not apply to an attempt to recover an overpayment that is:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-2157__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Based on a reasonable belief that the
+overpayment involved fraud, abuse or other intentional misconduct; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-2157__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Initiated by or at the request of a
+self-insured employer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-2157__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Any provision of a contract that
+conflicts with this section is against public policy, void and unenforceable.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+3528)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-216">
+          <num>695D.216</num>
+          <heading>Required provision concerning coverage for services provided
+through telehealth to same extent as though provided in person or by other
+means; required provision concerning reimbursement for certain services
+provided through telehealth in same amount as though provided in person or by
+other means; prohibited acts.</heading>
+          <subsection eId="695D-216__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A plan for dental care must include
+coverage for services provided to a member through telehealth to the same
+extent as though provided in person or by other means.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-216__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A plan for dental care must provide
+reimbursement for services described in subsection 1 in the same amount as
+though provided in person or by other means if the services:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-216__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Are received at an originating site described
+in 42 U.S.C. ï¿½ 1395m</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-216__subsec_2__subsec_m">
+              <num>(m)</num>
+              <subparagraph eId="695D-216__subsec_2__subsec_m__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>(C) or furnished by a federally-qualified health
+center or a rural health clinic; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="695D-216__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Are not provided through audio-only
+interaction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-216__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An organization for dental care shall
+not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-216__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Require a member to establish a relationship
+in person with a provider of health care or provide any additional consent to
+or reason for obtaining services through telehealth as a condition to providing
+the coverage described in subsection 1 or the reimbursement described in
+subsection 2;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-216__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Require a provider of health care to
+demonstrate that it is necessary to provide services to a member through
+telehealth or receive any additional type of certification or license to
+provide services through telehealth as a condition to providing the coverage
+described in subsection 1 or the reimbursement described in subsection 2;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-216__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Refuse to provide the coverage described in
+subsection 1 or the reimbursement described in subsection 2 because of:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="695D-216__subsec_3__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The distant site from which a provider
+of health care provides services through telehealth or the originating site at
+which a member receives services through telehealth; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="695D-216__subsec_3__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The technology used to provide the
+services:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="695D-216__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Require covered services to be provided
+through telehealth as a condition to providing coverage for such services; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-216__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Categorize a service provided through
+telehealth differently for purposes relating to coverage or reimbursement than
+if the service had been provided in person or through other means.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-216__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A plan for dental care must not require
+a member to obtain prior authorization for any service provided through
+telehealth that is not required for the service when provided in person. A plan
+for dental care may require prior authorization for a service provided through
+telehealth if such prior authorization would be required if the service were
+provided in person or by other means.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-216__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The provisions of this section do not
+require an organization for dental care to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-216__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Ensure that covered services are available to
+a member through telehealth at a particular originating site;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-216__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide coverage for a service that is not a
+covered service or that is not provided by a covered provider of health care;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-216__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Enter into a contract with any provider of
+health care or cover any service if the organization for dental care is not
+otherwise required by law to do so.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-216__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A plan for dental care subject to the
+provisions of this chapter that is delivered, issued for delivery or renewed on
+or after July 1, 2023, has the legal effect of including the coverage required
+by this section, and any provision of the plan or the renewal which is in
+conflict with this section is void.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-216__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-216__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Distant siteï¿½ has the meaning ascribed to it
+inNRS 629.515.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-216__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Federally-qualified health centerï¿½ has the
+meaning ascribed to it in 42 U.S.C. ï¿½ 1396d</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-216__subsec_7__subsec_l">
+              <num>(l)</num>
+              <subparagraph eId="695D-216__subsec_7__subsec_l__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>(B).
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="695D-216__subsec_7__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>ï¿½Originating siteï¿½ has the meaning ascribed
+to it inNRS 629.515.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-216__subsec_7__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>ï¿½Provider of health careï¿½ has the meaning
+ascribed to it inNRS 439.820.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-216__subsec_7__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>ï¿½Rural health clinicï¿½ has the meaning
+ascribed to it in 42 U.S.C. ï¿½ 1395x(aa)</p>
+              </content>
+              <subparagraph eId="695D-216__subsec_7__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="695D-216__subsec_7__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>ï¿½Telehealthï¿½ has the meaning ascribed to it
+inNRS 629.515.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+645; A2021,
+3040,3041;2023,
+233,237)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-217">
+          <num>695D.217</num>
+          <heading>Organization for dental care prohibited from denying coverage
+solely because claim involves act that constitutes domestic violence or
+applicant or insured was victim of domestic violence.</heading>
+          <content>
+            <p>An
+organization for dental care shall not deny a claim, refuse to issue a policy
+or cancel a policy solely because the claim involves an act that constitutes
+domestic violence pursuant toNRS 33.018,
+or because the person applying for or covered by the policy was the victim of
+such an act of domestic violence, regardless of whether the insured or
+applicant contributed to any loss or injury.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+1097)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-219">
+          <num>695D.219</num>
+          <heading>Organization for dental care prohibited from denying coverage
+solely because applicant or member was intoxicated or under the influence of
+controlled substance; exceptions.</heading>
+          <subsection eId="695D-219__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, an organization for dental care shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-219__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Deny a claim under a plan for dental care
+solely because the claim involves an injury sustained by a member as a
+consequence of being intoxicated or under the influence of a controlled
+substance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-219__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Cancel participation under a plan for dental
+care solely because a member has made a claim involving an injury sustained by
+the member as a consequence of being intoxicated or under the influence of a
+controlled substance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-219__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Refuse participation under a plan for dental
+care to an eligible applicant solely because the applicant has made a claim
+involving an injury sustained by the applicant as a consequence of being
+intoxicated or under the influence of a controlled substance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-219__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The provisions of this section do not
+prohibit an organization for dental care from enforcing a provision included in
+a plan for dental care to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-219__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Deny a claim which involves an injury to
+which a contributing cause was the insuredï¿½s commission of or attempt to commit
+a felony;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-219__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Cancel participation under a plan for dental
+care solely because of such a claim; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-219__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Refuse participation under a plan for dental
+care to an eligible applicant solely because of such a claim.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+2346)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-220">
+          <num>695D.220</num>
+          <heading>Licensing of agents.</heading>
+          <subsection eId="695D-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The provisions ofchapter 683Aof NRS apply to the licensing of
+agents for an organization for dental care.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½agentï¿½ means
+any person who is associated, directly or indirectly, with the organization and
+engages in soliciting or enrolling members.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2027)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-225">
+          <num>695D.225</num>
+          <heading>Contracts between organization for dental care and dentist:
+Modification; submission of schedule of payments upon request; exceptions.</heading>
+          <subsection eId="695D-225__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 695D.227, a contract between an
+organization for dental care and a dentist may be modified:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-225__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>At any time pursuant to a written agreement
+executed by both parties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-225__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided in this
+paragraph, by the organization for dental care upon giving to the dentist 45
+daysï¿½ written notice of the modification of the organization for dental careï¿½s
+schedule of payments, including any changes to the fee schedule applicable to
+the dentistï¿½s practice. If the dentist fails to object in writing to the
+modification within the 45-day period, the modification becomes effective at
+the end of that period. If the dentist objects in writing to the modification
+within the 45-day period, the modification must not become effective unless
+agreed to by both parties as described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-225__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-225__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If an organization for dental care
+contracts with a dentist, the organization for dental care shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-225__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If requested by the dentist at the time the
+contract is made, submit to the dentist the schedule of payments applicable to
+the dentist; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-225__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If requested by the dentist at any other
+time, submit to the dentist the schedule of payments, including any changes to
+the fee schedule applicable to the dentistï¿½s practice, specified in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-225__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>within 7 days after receiving the request.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-225__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The provisions of this section do not
+apply to an organization for dental care that provides services to recipients
+of Medicaid under the State Plan for Medicaid or insurance pursuant to the
+Childrenï¿½s Health Insurance Program pursuant to a contract with the Division of
+Health Care Financing and Policy of the Department of Health and Human
+Services. This subsection does not exempt an organization for dental care from
+any provision of this chapter for services provided pursuant to any other
+contract.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2011,
+2536; A2013,
+1240)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-227">
+          <num>695D.227</num>
+          <heading>Prohibitions related to setting of fees by plan or organization
+for dental care other than covered services to members.</heading>
+          <subsection eId="695D-227__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>No plan for dental care and no contract
+between an organization for dental care and a dentist may require, directly or
+indirectly, that the dentist provide dental care to a member at a fee set by or
+subject to the approval of the organization for dental care unless the dental
+care is a covered service.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-227__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An organization for dental care or any
+other person providing services as a third-party administrator shall not make
+available any dentists in its network of dentists to a plan for dental care
+that sets fees for any dental care except covered services.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-227__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½covered
+serviceï¿½ means dental care for which reimbursement is available under a memberï¿½s
+policy, or for which reimbursement would be available but for the application
+of a contractual limitation, including, without limitation, any deductible,
+copayment, coinsurance, waiting period, annual or lifetime maximum, frequency
+limitation, alternative benefit payment or any other limitation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2013,
+1239)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-230">
+          <num>695D.230</num>
+          <heading>Advertising or materials used to enroll or solicit members:
+Approval of Commissioner; penalties.</heading>
+          <subsection eId="695D-230__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every organization for dental care must
+submit any advertising, or other materials to be used to enroll or solicit
+members, to the Commissioner for approval by the Commissioner before they are
+used by the organization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-230__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Commissioner does not disapprove
+the advertising or other materials within 30 days after they are filed with the
+Commissioner, they shall be deemed to be approved. If the Commissioner
+disapproves any of the advertising or other materials because they are false,
+deceptive, or misleading, the Commissioner shall notify the organization of the
+reasons for disapproving them. The Commissioner shall grant a hearing on the
+matter within 15 days after the organization requests, in writing, a hearing on
+the matter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-230__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If any advertising or other materials
+are circulated, issued, displayed or used in any manner to enroll or solicit
+members before they are approved by the Commissioner or after the Commissioner
+has disapproved them, the Commissioner may withdraw approval, if any, of the
+policy and plan for dental care proposed by the organization or take any other
+disciplinary action permitted by this chapter against the organization.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2025)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-240">
+          <num>695D.240</num>
+          <heading>Limitation on use of charges or premiums for marketing and
+administrative expenses; regulations.</heading>
+          <subsection eId="695D-240__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The organization for dental care shall
+use not more than 25 percent of its prepaid charges or premiums for marketing
+and administrative expenses, including all costs to solicit members or
+dentists.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-240__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner may adopt regulations
+which define ï¿½marketing and administrative expensesï¿½ for the purposes of
+subsection 1.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2026; A1993,
+2401)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-250">
+          <num>695D.250</num>
+          <heading>Reserves: Maintenance; exception; held in fiduciary capacity;
+deposit; penalty for diversion or appropriation; regulations.</heading>
+          <subsection eId="695D-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An organization for dental care shall
+set aside a reserve equal to 3 percent of the premiums collected from its
+members up to a total of $500,000. This reserve is in addition to the bond or
+deposit filed with the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>This section does not apply to
+organizations receiving money from federal, state or municipal governments or
+their political subdivisions or another comparable resource which have had
+their deposit or bond reduced by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-250__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Every organization shall maintain the
+reserves required byNRS 681B.080,
+unless a larger amount is required by subsection 1 of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-250__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The reserve required by subsection 1 is
+held by the organization in a fiduciary capacity. The organization must deposit
+the reserve in an interest-bearing trust account established in a bank, credit
+union, savings and loan association or savings bank in this state that is
+federally insured or insured by a private insurer approved pursuant toNRS 672.755. The account must be separate
+from all other accounts maintained by the organization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-250__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Any person who diverts or appropriates
+reserves held in a fiduciary capacity pursuant to this section for the personï¿½s
+own use is guilty of embezzlement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-250__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Commissioner may adopt reasonable
+regulations related to the adequacy of a reserve required by this section and
+the establishment and maintenance of a trust account pursuant to this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2026; A1993,
+2401;1999,
+1554)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-260">
+          <num>695D.260</num>
+          <heading>Annual report; financial statement; quarterly statement;
+administrative penalty for failure to file timely report or statement;
+extension of time; payment of premium tax and filing fee.</heading>
+          <subsection eId="695D-260__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every organization for dental care
+shall file with the Commissioner on or before March 1 of each year a report
+covering its activities for the preceding calendar year. The report must be
+verified by at least two officers of the organization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-260__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The report must be on a form prescribed
+by the Commissioner and must include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-260__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A financial statement of the organization,
+including its balance sheet and receipts and disbursements for the preceding
+calendar year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-260__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any material changes in the information given
+in the previous report.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-260__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The number of members enrolled in that year,
+the number of members whose coverage has been terminated in that year and the
+total number of members at the end of the year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-260__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The costs of all goods, services and dental
+care provided that year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-260__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any other information relating to the plan
+for dental care requested by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-260__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Every organization for dental care
+shall file with the Commissioner annually an audited financial statement in
+accordance with the provisions of subsection 1 ofNRS 680A.265.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-260__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Every organization for dental care
+shall file with the Commissioner and the National Association of Insurance
+Commissioners a quarterly statement in the form most recently adopted by the
+National Association of Insurance Commissioners for that type of insurer. The
+quarterly statement must be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-260__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Prepared in accordance with the instructions
+which are applicable to that form, including, without limitation, the required
+date of submission for the form; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-260__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Filed by electronic means.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-260__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If an organization fails to file timely
+a report or financial statement required by this section, it shall pay an
+administrative penalty of $100 per day until the report or statement is filed,
+except that the total penalty must not exceed $3,000. The Attorney General
+shall recover the penalty in the name of the State of Nevada.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-260__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Commissioner may grant a reasonable
+extension of time for filing any report or statement required by this section,
+if the request for an extension is submitted in writing and shows good cause.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-260__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The organization shall pay the
+Department of Taxation the annual tax, any penalty for nonpayment or delinquent
+payment of the tax imposed inchapter 680Bof NRS, and a filing fee of $25 to the Commissioner, at the time the annual
+report is filed.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2026; A1987,
+471;1991,
+2206;1993,
+1923;1995,
+1633,2682;2019,
+1720)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-270">
+          <num>695D.270</num>
+          <heading>Examination by Commissioner.</heading>
+          <subsection eId="695D-270__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner shall, not less
+frequently than once every 3 years, conduct an examination of an organization
+for dental care pursuant toNRS 679B.250to679B.300, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-270__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner may examine any
+organization which holds a certificate of authority from this State or another
+state at any other time the Commissioner deems necessary. For those
+organizations transacting business in this State which are not organized in
+this State, the Commissioner may accept a full report of the last examination
+of the organization certified by the state officer who supervises those
+organizations in the other state, if that examination is equivalent to an
+examination conducted by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-270__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner shall, in like manner,
+examine all organizations applying for a certificate of authority.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2027; A2007,
+3330)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-280">
+          <num>695D.280</num>
+          <heading>Rehabilitation, liquidation or conservation: Conduct.</heading>
+          <content>
+            <p>Any rehabilitation, liquidation or
+conservation of an organization for dental care shall be deemed to be the
+rehabilitation, liquidation or conservation of an insurer and must be conducted
+pursuant tochapter 696Bof NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2027)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-290">
+          <num>695D.290</num>
+          <heading>Trade practices and frauds: Applicability of provisions to
+organizations for dental care.</heading>
+          <content>
+            <p>The
+provisions ofNRS 686A.010to686A.310, inclusive, relating to trade
+practices and frauds apply to organizations for dental care.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2027; A2023,
+22)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-300">
+          <num>695D.300</num>
+          <heading>Disciplinary action: Grounds; penalties.</heading>
+          <subsection eId="695D-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner may suspend or revoke
+any certificate of authority issued to an organization for dental care or
+impose a fine of not more than $500 for each violation if the Commissioner
+finds that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="695D-300__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The organization is operating contrary to the
+information it submitted to the Commissioner for its certificate of authority;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-300__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The organization issued a policy to a member
+which was not approved by the Commissioner;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-300__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The plan for dental care does not provide
+basic services appropriate for such a plan;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-300__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The organization can no longer meet its
+obligations to members or prospective members;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-300__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The organization or any person on its behalf
+has advertised its plan in an untrue, misleading, deceptive or unfair manner;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="695D-300__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The organization has failed to comply
+substantially with this chapter or the regulations of the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="695D-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the certificate of authority of an
+organization is suspended, the organization shall not, during the period of the
+suspension, accept any new members and shall not advertise for or solicit any
+new members.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-300__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the certificate of authority of an
+organization is revoked, the organization shall proceed, immediately following
+the order, to terminate its affairs and shall conduct no other business. The
+Commissioner, by written order, may approve the continued operation of the
+organization for a specified time if the Commissioner finds that the members
+need that time to obtain coverage for dental care from another organization or
+insurer.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2027)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_695D-310">
+          <num>695D.310</num>
+          <heading>Disciplinary or other action: Notice; hearing; order.</heading>
+          <subsection eId="695D-310__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Commissioner believes that
+grounds for denying a certificate of authority or for suspending or revoking a
+certificate exist, the Commissioner shall notify the organization for dental
+care in writing, specifying the grounds for the denial, suspension or
+revocation and fix a time for a hearing on the matter within 30 days after the
+notice.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="695D-310__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>After the hearing or upon the failure
+of the organization to appear at the hearing, the Commissioner shall enter a
+written order of the decision of the Commissioner which must be mailed by
+certified mail to the organization.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2028)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-475"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-475"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="475"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-475/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-475/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-475/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-475/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_475">
+        <num>475</num>
+        <heading>CRIMES AND RESPONSIBILITIES</heading>
+        <section eId="sec_475-010">
+          <num>475.010</num>
+          <heading>Willful or negligent failure to guard or extinguish fire;
+penalty.</heading>
+          <content>
+            <p>Every person who
+willfully or negligently sets or fails to guard carefully or extinguish any
+fire, whether on the personï¿½s own land or the land of another, whereby the
+timber or property of another is endangered is guilty of a misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 314; RL ï¿½ 6579; NCL ï¿½ 10262]—(NRS A1971,
+1458;1979,
+1480)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_475-020">
+          <num>475.020</num>
+          <heading>Willful or negligent leaving of fire burning or unexhausted in
+campsite or in open; penalty.</heading>
+          <content>
+            <p>Every
+person who, upon departing from camp or from any fire started by the person in
+the open, willfully or negligently leaves the fire or fires burning or
+unexhausted, or fails to extinguish them thoroughly, is guilty of a
+misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 367; RL ï¿½ 6632; NCL ï¿½ 10317]—(NRS A1971,
+1458;1979,
+1480)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_475-030">
+          <num>475.030</num>
+          <heading>Willful or negligent throwing or placing of burning cigarette or
+other material; throwing burning cigarette or other material from moving
+vehicle; penalty.</heading>
+          <subsection eId="475-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>It is unlawful for any person willfully
+or negligently:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="475-030__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To throw or place any lighted cigarette,
+cigar, ashes, match or other material which may cause a fire in any place where
+such lighted cigarette, cigar, match, ashes or other material may start a fire.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="475-030__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To throw or otherwise discard from a moving
+vehicle any lighted cigarette, cigar, ash or other material which may cause a
+fire.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="475-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any person violating any of the
+provisions of this section is guilty of a misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:134:1929; A1947,
+458; 1943 NCL ï¿½ 10558]—(NRS A1967,
+589;1971,
+1458;1979,
+1480)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_475-040">
+          <num>475.040</num>
+          <heading>Destruction of timber, crops or vegetation by fire caused by
+gross negligence; criminal penalty; civil action.</heading>
+          <content>
+            <p>Every
+person who, with gross negligence, lights a fire for any purpose along the road
+through any woodland, or upon the same, or at any other place in the open, and
+thereby, or by any other means, sets fire to any growing timber or forest,
+shrubbery, crops, grass or vegetation, and thereby causes the destruction of
+any timber, forest, crops, grass, vegetation or property not his or her own, is
+guilty of a public offense, as prescribed inNRS
+193.155, proportionate to the value of the loss resulting therefrom, in
+addition to being liable to the owner of such property for the full value
+thereof in a civil action.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 368; RL ï¿½ 6633; NCL ï¿½ 10318]—(NRS A1967,
+589;1979,
+329)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_475-050">
+          <num>475.050</num>
+          <heading>Smoking in building on which notice posted prohibiting smoking;
+penalty.</heading>
+          <content>
+            <p>Every person who lights a
+pipe, cigar or cigarette in, or who enters with a lighted pipe, cigar or
+cigarette, any mill or other building on which is posted in a conspicuous place
+over and near each principal entrance a notice in plain, legible characters
+stating that no smoking is allowed in such building is guilty of a misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 313; RL ï¿½ 6578; NCL ï¿½ 10261]—(NRS A1971,
+1459;1979,
+1480)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_475-060">
+          <num>475.060</num>
+          <heading>Operation of internal combustion engine without spark arrestor;
+penalty; exceptions.</heading>
+          <subsection eId="475-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every person, firm, corporation or
+association which uses or permits to be used any internal combustion engine
+which is operated on hydrocarbon fuels on any grass, brush or forest-covered
+land without providing, and maintaining in effective order, a spark arrestor
+attached to the exhaust system is guilty of a misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="475-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For the purposes of this section, a
+spark arrestor is a device constructed of nonflammable material specifically
+for the purpose of removing or retaining carbon and other flammable materials
+over 0.023 inch in size from the exhaust flow of an internal combustion engine
+that is operated on hydrocarbon fuels.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="475-060__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Motortrucks, truck tractors, buses and
+passenger vehicles, except motorcycles, are not subject to the provisions of
+this section if the exhaust system is equipped with an adequate and properly
+maintained muffler in constant operation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 315; RL ï¿½ 6580; NCL ï¿½ 10263]—(NRS A1967,
+750;1971,
+1459;1979,
+1480)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_475-070">
+          <num>475.070</num>
+          <heading>Interference with peace officer, firefighter or member of search
+and rescue organization; disobedience of orders; penalty.</heading>
+          <subsection eId="475-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every person who, at any fire:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="475-070__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Disobeys the lawful order of any peace
+officer or firefighter, or a member of a search and rescue organization who is
+under the direction of the sheriff;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="475-070__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Resists or interferes with any lawful effort
+to extinguish the fire; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="475-070__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Engages in any conduct likely to interfere
+with the extinguishment of the fire,
+ï¿½is guilty of
+a misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="475-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Every person who, at the scene of an
+emergency, other than a fire, disobeys any of the lawful orders of a peace
+officer or firefighter, or a member of a search and rescue organization who is
+under the direction of the sheriff, or resists or interferes with the lawful
+efforts of any firefighters or company of firefighters, or members of a search
+and rescue organization who are under the direction of the sheriff, to control
+or handle the emergency, or acts in a disorderly manner likely to interfere
+with the control or handling thereof, or who forbids, prevents or dissuades
+others from assisting to control or handle the emergency, is guilty of a
+misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 312; RL ï¿½ 6577; NCL ï¿½ 10260]—(NRS A1971,
+1459;1979,
+1481;1987,
+990;2005,
+337)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_475-075">
+          <num>475.075</num>
+          <heading>Intentional prevention or obstruction of search and rescue
+organization; penalty.</heading>
+          <subsection eId="475-075__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who, with intent to prevent or
+obstruct the response to an emergency, damages, removes or hinders the
+operation of any vehicle, apparatus, equipment or animal being used or which may
+be used in an emergency by a member of a search and rescue organization, is
+guilty of a public offense, as prescribed inNRS
+193.155, proportionate to the value of the loss resulting therefrom, but in
+no event less than a misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="475-075__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½vehicleï¿½
+means any device in, upon, or by which any person or property is or may be
+transported.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+989)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_475-080">
+          <num>475.080</num>
+          <heading>Intentional prevention or obstruction of extinguishment of fire;
+penalties.</heading>
+          <content>
+            <p>Every person who, with
+intent to prevent or obstruct the extinguishment of any fire, cuts, damages or
+removes any bell rope, wire or other apparatus for communicating an alarm of
+fire, or cuts, injures or destroys any engine, hose or other fire apparatus, or
+otherwise prevents or obstructs the extinguishment of any fire, is guilty of a
+public offense, as prescribed inNRS 193.155,
+proportionate to the value of the loss resulting therefrom and in no event less
+than a misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 311; RL ï¿½ 6576; NCL ï¿½ 10259]—(NRS A1967,
+589;1971,
+1459;1979,
+1481)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_475-090">
+          <num>475.090</num>
+          <heading>Willful and malicious removal, damage or destruction of fire
+equipment or apparatus; penalty.</heading>
+          <content>
+            <p>Every
+person who willfully and maliciously removes, damages or destroys any engine,
+hose, hose cart, truck, ladder, extinguisher or other apparatus used by any
+fire company or fire department is guilty of a misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1911 C&amp;P ï¿½ 487; RL ï¿½ 6752; NCL ï¿½
+10434]—(NRS A1971,
+1460;1979,
+1481)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_475-100">
+          <num>475.100</num>
+          <heading>False fire alarms; penalties; exception.</heading>
+          <subsection eId="475-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>It is unlawful for a person
+intentionally to give or cause to be given, or turn in or cause to be turned
+in, any false alarm of fire.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="475-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who violates any of the
+provisions of this section shall be punished:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="475-100__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the act is malicious and another person
+suffers death or substantial bodily harm as a result, for a category D felony
+as provided inNRS 193.130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="475-100__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Otherwise, for a gross misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="475-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>This section does not apply to alarms
+given for practice by any chief of a fire department or by any other person
+properly authorized to give such alarms, nor to alarms given by a person to
+attract attention of police, firefighters or other people to acts of violence,
+disorder or menace.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 336; RL ï¿½ 6601; NCL ï¿½ 10284] + [1911
+C&amp;P ï¿½ 337; RL ï¿½ 6602; NCL ï¿½ 10285]—(NRS A1967,
+590;1971,
+1460;1979,
+1482;1987,
+1476;1995,
+1296;2005,
+337)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_475-105">
+          <num>475.105</num>
+          <heading>Theft of device to prevent, control, extinguish or give warning
+of fire; penalties.</heading>
+          <subsection eId="475-105__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the device has a value of less than
+$1,200, is guilty of a misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="475-105__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the device has a value of $1,200 or
+more, is guilty of a category D felony and shall be punished as provided inNRS 193.130.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+751; A1989,
+1441;1995,
+1296;1997,
+347;2011,
+176;2019,
+4478)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_475-110">
+          <num>475.110</num>
+          <heading>Able-bodied males subject to fire-fighting duty for certain period
+during any 1 year; penalty for refusal; compensation and benefits.</heading>
+          <subsection eId="475-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>All sheriffs, their deputies,
+firewardens or other peace officers or any national forest officer may call
+upon able-bodied male persons within the State of Nevada who are between the
+ages of 16 years and 50 years for assistance in extinguishing fires in timber
+or in brush.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="475-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Persons who refuse to obey the summons
+or who refuse to assist in fighting fire for the period stated in subsection 3,
+unless they present sufficient reasons, are guilty of a misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="475-110__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>No male person may be required to fight
+fires a total of more than 5 days during any 1 year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="475-110__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The board of county commissioners may
+fix the amount of compensation to be paid to male persons drafted to fight
+fires as provided in this section, and the sums so fixed must be allowed and
+paid as other claims against the county are paid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="475-110__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>For the purpose of obtaining the
+benefits of the Nevada Industrial Insurance Act, male persons drafted to fight
+fires must be considered employees of the county demanding their services, and
+they are entitled to receive for disability incurred by reason thereof the
+benefits under the Nevada Industrial Insurance Act. The county shall report and
+pay premiums to a private carrier authorized to provide industrial insurance in
+this State for persons so engaged.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:45:1927; NCL ï¿½ 1982] + [Part 2:45:1927; NCL ï¿½
+1983]—(NRS A1967,
+590;1981,
+1528;1995,
+2046;1999,
+1826)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_475-115">
+          <num>475.115</num>
+          <heading>Volunteer firefighters: Discharge from employment prohibited;
+civil action; attorneyï¿½s fees; disclosure to employer.</heading>
+          <subsection eId="475-115__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person, corporation, partnership,
+association or other entity who is an employer or is vested with the power to
+discharge or recommend the discharge of a person who serves as a volunteer
+firefighter shall not deprive the person performing such service of his or her
+employment as a consequence of his or her action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="475-115__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person discharged in violation of
+subsection 1 may commence a civil action against his or her employer and
+obtain:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="475-115__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Wages and benefits lost as a result of the
+violation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="475-115__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An order of reinstatement without loss of
+position, seniority or benefits;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="475-115__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Damages equal to the amount of lost wages and
+benefits; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="475-115__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Reasonable attorneyï¿½s fees fixed by the
+court.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="475-115__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any applicant for employment who is,
+and any employee who becomes, a volunteer firefighter must disclose that fact
+to his or her prospective or present employer, as the case may be.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+919; A2005,
+337)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_475-125">
+          <num>475.125</num>
+          <heading>Investigation of fires resulting in property damage, death or
+injury.</heading>
+          <subsection eId="475-125__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The cause, origin and circumstances of
+each fire which occurs within its jurisdiction and which results in the
+destruction of or damage to property, loss of life, or injury to any person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="475-125__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any report received pursuant toNRS 629.045to determine the origin of the
+fire which caused the injury.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1979,
+171; A1991,
+1897;2021,
+1080)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_475-210">
+          <num>475.210</num>
+          <heading>Governor may close land or prohibit burning in areas which are
+fire hazards.</heading>
+          <subsection eId="475-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Whenever the Governor finds that
+conditions of extreme fire hazard exist, either in or out of the fire hazard
+season, the Governor may by proclamation close or partially close such land or
+areas as the Governor may find to be in such condition of extreme hazard to the
+general public and prohibit or limit burning and other acts thereon to such
+degree and in such ways as he or she deems necessary to reduce the danger of
+forest and other wild land fires.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="475-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Governor shall declare the end of
+any such emergency only upon a finding that the conditions of extreme fire
+hazard no longer exist.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+306)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_475-220">
+          <num>475.220</num>
+          <heading>Dumps: Safe operation; regulations of State Forester Firewarden.</heading>
+          <subsection eId="475-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any county, municipality, public
+institution, agency, corporation, person or persons, or other entity
+maintaining or operating a dump shall provide such devices and conditions
+therefor as will reasonably promote the safe operation thereof and guard
+against the escape of fire therefrom.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="475-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The State Forester Firewarden shall
+have power to make rules and regulations for the implementation of this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+306)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_475-230">
+          <num>475.230</num>
+          <heading>Claim by fire department to recover direct expenses and losses
+incurred while fighting fire on property of State.</heading>
+          <subsection eId="475-230__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any fire department which engages in
+fighting a fire on property owned by the State within the jurisdictional limits
+of the fire department may submit a claim to the State Board of Examiners to
+recover any direct expenses and losses incurred as a result of fighting that
+fire.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="475-230__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The claim must include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="475-230__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The name, address and jurisdictional limits
+of the fire department;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="475-230__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The name, address and telephone number of the
+person making the claim on behalf of the fire department;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="475-230__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The name and address, if known, of the state
+agency having jurisdiction over the property on which the fire occurred;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="475-230__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The exact location of the fire;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="475-230__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A description of the property burned;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="475-230__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The number and classification of the
+personnel and the number and type of equipment used to fight the fire;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="475-230__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A copy of the fire report; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="475-230__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>An itemized list of direct expenses and
+losses incurred while fighting the fire, including the purchase cost, estimated
+cost of repairs and a statement of depreciated value immediately preceding and
+after the damage to or destruction of any equipment and the extent of any
+insurance coverage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="475-230__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½direct
+expenses and lossesï¿½ means certain expenses and losses which were incurred
+while fighting a fire on property owned by the State. The term is limited to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="475-230__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The depreciated value, if any, of any
+equipment or vehicle which was damaged or destroyed; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="475-230__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the employer maintains a plan which
+supplements coverage for workersï¿½ compensation provided pursuant tochapters 616Ato616D,
+inclusive, or chapter617of NRS by a private
+carrier and, if the benefits are provided from public money and not by an
+insurer, any injury or death benefits which would have been paid by the
+employer from public money.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1979,
+1165; A1981,
+1528;1995,
+2047;1999,
+236,1826;2001,
+1082)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_475-235">
+          <num>475.235</num>
+          <heading>Disposition of claims by State Board of Examiners.</heading>
+          <subsection eId="475-235__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State Board of Examiners may submit
+a copy of the claim to the State Fire Marshal for review. The State Fire
+Marshal shall make his or her recommendations to the State Board of Examiners
+who shall make a final determination of the disposition of the claim.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="475-235__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All claims approved by the State Board
+of Examiners must be paid as other claims against the State are paid.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1979,
+1166)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

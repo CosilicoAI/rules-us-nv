@@ -1,0 +1,2024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-172"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-172"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="172"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-172/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-172/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-172/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-172/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_172">
+        <num>172</num>
+        <heading>PROCEEDINGS AFTER COMMITMENT</heading>
+        <section eId="sec_172-005">
+          <num>172.005</num>
+          <heading>Definitions.</heading>
+          <subsection eId="172-005__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An indictment is an accusation in
+writing, presented by a grand jury to a competent court, charging a person with
+a public offense.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-005__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A presentment is an informal statement
+in writing, by the grand jury, representing to the court that a public offense
+has been committed, which is triable within the district, and that there is
+reasonable ground for believing that a particular person, named or described,
+has committed it.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1409)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-015">
+          <num>172.015</num>
+          <heading>Prosecution of public offenses.</heading>
+          <subsection eId="172-015__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Where proceedings are had for the
+removal of a civil officer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-015__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Offenses arising in the militia when in
+actual service in time of war, or which this State may keep, with the consent
+of Congress, in time of peace.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-015__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Offenses tried in municipal or Justice
+Courts, which shall be prosecuted by complaint.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1407; A1969,
+20)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-025">
+          <num>172.025</num>
+          <heading>Prosecution by accusation.</heading>
+          <content>
+            <p>When
+proceedings are had for the removal of district, county, municipal or township
+officers, they may be commenced by accusation, in writing, as provided inchapter 283of NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1407)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-035">
+          <num>172.035</num>
+          <heading>Accusations, indictments and informations to be found or filed
+in district court.</heading>
+          <content>
+            <p>All
+accusations, informations and indictments against district, county, municipal
+and township officers must be found or filed in the district court.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1408)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-045">
+          <num>172.045</num>
+          <heading>Impaneling grand juries.</heading>
+          <content>
+            <p>Grand
+juries shall be impaneled as provided inchapter 6of NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1408)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-047">
+          <num>172.047</num>
+          <heading>Grand jury impaneled for specific limited purpose.</heading>
+          <content>
+            <p>A district judge may impanel a grand jury to
+inquire into a specific limited matter among those set forth inNRS 172.175. In that case, the judge shall
+charge the grand jury as to its limited duties and give it such information as
+the judge deems necessary. A grand jury that is impaneled for a specific
+limited purpose shall not inquire into matters not related to that purpose. A
+grand jury impaneled for a specific limited purpose may be discharged after the
+grand jury completes its investigation and submits its report. If the grand
+jury has not completed its investigation and submitted its report within 1 year
+after it was impaneled, it shall, in a closed hearing, show cause to the judge
+why it should not be discharged. If the judge determines that it is in the
+public interest for the grand jury to continue its investigation, the grand
+jury may continue for a period which does not exceed 1 year.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+556)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-055">
+          <num>172.055</num>
+          <heading>Challenges to grand jury and to grand jurors: How made and
+tried.</heading>
+          <content>
+            <p>The district attorney or a
+defendant who has been held to answer in the district court may challenge the
+array of jurors on the ground that the grand jury was not selected, drawn or
+summoned in accordance with law, and may challenge an individual juror on the
+ground that the juror is not legally qualified. Challenges may be oral or in
+writing and shall be tried by the court.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1408)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-065">
+          <num>172.065</num>
+          <heading>Motion to dismiss presentment or indictment based on objections
+to grand jurors.</heading>
+          <content>
+            <p>A motion to
+dismiss the presentment or indictment may be based on objections to the array
+or on the lack of legal qualification of an individual juror, if not previously
+determined upon challenge. A presentment or indictment shall not be dismissed
+on the ground that one or more members of the grand jury were not legally
+qualified if it appears from the record kept pursuant toNRS 172.075that 12 or more jurors, after
+deducting the number not legally qualified, concurred in finding the
+presentment or indictment.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1408)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-075">
+          <num>172.075</num>
+          <heading>Officers of grand jury.</heading>
+          <content>
+            <p>The
+jury shall elect one of its members to be foreman, another to be deputy foreman
+and a third to be secretary. The foreman shall have power to administer oaths
+and affirmations and shall sign all presentments and indictments. The secretary
+shall keep a record of the number of jurors concurring in the finding of every
+presentment or indictment and shall file the record with the clerk of the court,
+but the record shall not be made public except on order of the court. During
+the absence of the foreman, the deputy foreman shall act as foreman, and if
+both are absent, the jury shall elect a temporary foreman.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1408)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-085">
+          <num>172.085</num>
+          <heading>Oath of grand jurors.</heading>
+          <content>
+            <p>The
+following oath must be administered to the grand jury:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ You, as grand jurors, will
+diligently inquire into, and true presentment make, of all offenses against the
+State of Nevada committed or triable within this county, (or city, in the case
+of Carson City) of which you shall have or can obtain legal evidence. You will
+keep your own counsel, and that of your fellows and the Government, and will
+not, except when required in the due course of judicial proceedings, disclose
+the testimony of any witness examined before you, nor anything which you or any
+other grand juror may have said, nor the manner in which you or any other grand
+juror may have voted on any matter before you. You will present no person
+through malice, hatred, or ill will, nor leave any unpresented through fear,
+favor, or affection, or for any reward, or the promise or hope thereof; but in
+all your presentments you will present the truth, the whole truth, and nothing
+but the truth, according to the best of your skill and understanding, so help
+you God.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1408; A1969,
+316)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-095">
+          <num>172.095</num>
+          <heading>Charges to be given to grand jury by court; district attorney to
+inform grand jury of specific elements of public offense considered as basis of
+indictment.</heading>
+          <subsection eId="172-095__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The grand jury being impaneled and
+sworn, must be charged by the court. In doing so, the court shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-095__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Give the grand jurors such information as is
+required by law and any other information it deems proper regarding their
+duties and any charges for public offenses returned to the court or likely to
+come before the grand jury.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-095__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Inform the grand jurors of the provisions ofNRS 172.245and the penalties for its
+violation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-095__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Give each regular and alternate grand juror a
+copy of the charges.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-095__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Inform the grand jurors that the failure of a
+person to exercise the right to testify as provided inNRS 172.241must not be considered in their
+decision of whether or not to return an indictment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-095__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Before seeking an indictment, or a
+series of similar indictments, the district attorney shall inform the grand
+jurors of the specific elements of any public offense which they may consider
+as the basis of the indictment or indictments.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1408; A1985,
+554,1028)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-097">
+          <num>172.097</num>
+          <heading>Supervision of grand jury by impaneling judge; limitations on
+and review of expenditures; monthly statement by county treasurer.</heading>
+          <subsection eId="172-097__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The district judge impaneling a grand
+jury shall supervise its proceedings.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-097__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The grand jury shall submit an itemized
+list of its expenditures no less often than every 3 months or a fraction
+thereof to the judge who impaneled it.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-097__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The grand jury shall not spend money or
+incur a debt exceeding the amount of money budgeted for its use unless it first
+obtains the approval of the judge who impaneled it. The judge shall inform the
+board of county commissioners of any expenditure or indebtedness the judge so
+approves.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-097__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The county treasurer shall provide to
+the grand jury a monthly statement of its expenditures for the preceding month
+and the balance remaining of the money appropriated for its use.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+556)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-105">
+          <num>172.105</num>
+          <heading>Powers.</heading>
+          <content>
+            <p>The grand
+jury may inquire into all public offenses triable in the district court or in a
+Justice Court, committed within the territorial jurisdiction of the district
+court for which it is impaneled.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1408)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-107">
+          <num>172.107</num>
+          <heading>Limitations on use of grand jury.</heading>
+          <content>
+            <p>A
+district attorney shall not use a grand jury to discover tangible, documentary
+or testimonial evidence to assist in the prosecution of a defendant who has
+already been charged with the public offense by indictment or information.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1028)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-135">
+          <num>172.135</num>
+          <heading>Evidence receivable before grand jury.</heading>
+          <subsection eId="172-135__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In the investigation of a charge, for
+the purpose of either presentment or indictment, the grand jury can receive no
+other evidence than such as is given by witnesses produced and sworn before
+them or furnished by legal documentary evidence or by the deposition of witnesses
+taken as provided in this title, except that the grand jury may receive any of
+the following:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-135__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An affidavit or declaration from an expert
+witness or other person described inNRS
+50.315in lieu of personal testimony or a deposition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-135__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An affidavit of an owner, possessor or
+occupant of real or personal property or other person described inNRS 172.137in lieu of personal testimony
+or a deposition.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-135__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in this
+subsection, the grand jury can receive none but legal evidence, and the best
+evidence in degree, to the exclusion of hearsay or secondary evidence. The
+grand jury can receive hearsay evidence consisting of a statement made by the
+alleged victim of an offense if the defendant is alleged to have committed one
+or more of the following offenses:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-135__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A sexual offense committed against a child
+who is under the age of 16 years if the offense is punishable as a felony. As
+used in this paragraph, ï¿½sexual offenseï¿½ has the meaning ascribed to it inNRS 179D.097.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-135__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Abuse of a child pursuant toNRS 200.508if the offense is committed
+against a child who is under the age of 16 years and the offense is punishable
+as a felony.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-135__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An act which constitutes domestic violence
+pursuant toNRS 33.018, which is
+punishable as a felony and which resulted in substantial bodily harm to the
+alleged victim.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-135__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A statement made by a witness at any
+time that is inconsistent with the testimony of the witness before the grand
+jury may be presented to the grand jury as evidence.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1409; A1975,
+649;1983,
+1917;1993,
+86,549;1999,
+164;2015,
+578)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-137">
+          <num>172.137</num>
+          <heading>Use of affidavit before grand jury: When permitted; notice by
+district attorney; circumstances under which district attorney must produce
+person who signed affidavit; continuances.</heading>
+          <subsection eId="172-137__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a witness resides outside this State
+or more than 100 miles from the place of a grand jury proceeding, the witnessï¿½s
+affidavit may be used at the proceeding if it is necessary for the district
+attorney to establish as an element of any offense that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-137__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The witness was the owner, possessor or
+occupant of real or personal property; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-137__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The defendant did not have the permission of
+the witness to enter, occupy, possess or control the real or personal property
+of the witness.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-137__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a financial institution does not
+maintain any principal or branch office within this State or if a financial
+institution that maintains a principal or branch office within this State does
+not maintain any such office within 100 miles of the place of a grand jury
+proceeding, the affidavit of a custodian of the records of the financial
+institution or the affidavit of any other qualified person of the financial
+institution may be used at the proceeding if it is necessary for the district
+attorney to establish as an element of any offense that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-137__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When a check or draft naming the financial
+institution as drawee was drawn or passed, the account or purported account
+upon which the check or draft was drawn did not exist, was closed or held
+insufficient money, property or credit to pay the check or draft in full upon
+its presentation; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-137__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When a check or draft naming the financial
+institution as drawee was presented for payment to the financial institution,
+the account or purported account upon which the check or draft was drawn did
+not exist, was closed or held insufficient money, property or credit to pay the
+check or draft in full.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-137__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the defendant has been subpoenaed to
+appear before the grand jury or if the defendant has requested to testify
+pursuant toNRS 172.241, the district
+attorney shall provide either written or oral notice to the defendant, within a
+reasonable time before the scheduled proceeding of the grand jury, that an
+affidavit described in this section will be used at the proceeding.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-137__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If, at or before the time of the
+proceeding, the defendant establishes that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-137__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is a substantial and bona fide dispute
+as to the facts in an affidavit described in this section; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-137__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>It is in the best interests of justice that
+the person who signed the affidavit be examined or cross-examined,
+ï¿½the grand
+jury may request that the district attorney produce the person who signed the
+affidavit and may continue the proceeding for any time it deems reasonably
+necessary in order to receive such testimony.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1993,
+548; A1999,
+164)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-138">
+          <num>172.138</num>
+          <heading>Use of audiovisual technology to present live testimony before
+grand jury: Requirements.</heading>
+          <subsection eId="172-138__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a witness resides more than 100
+miles from the place of a grand jury proceeding or is unable to attend the
+grand jury proceeding because of a medical condition, or if good cause
+otherwise exists, the district judge supervising the proceedings of the grand
+jury must allow a witness to testify before the grand jury through the use of
+audiovisual technology.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-138__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a witness testifies at the grand
+jury proceeding through the use of audiovisual technology:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-138__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The testimony of the witness must be
+transcribed by a certified court reporter appointed pursuant toNRS 172.215in accordance with the
+provisions ofNRS 172.225; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-138__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Before giving testimony, the witness must be
+sworn and must sign a written declaration, on a form provided by the district
+judge, which acknowledges that the witness understands that he or she is
+subject to the jurisdiction of the courts of this state and may be subject to
+criminal prosecution for the commission of any crime in connection with his or
+her testimony, including, without limitation, perjury, and that the witness
+consents to such jurisdiction.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-138__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Audiovisual technology used pursuant to
+this section must ensure that the witness may be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-138__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Clearly heard and seen; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-138__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Examined.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-138__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As used in this section, ï¿½audiovisual
+technologyï¿½ includes, without limitation, closed-circuit video and videoconferencing.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+545; A2015,
+579)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-139">
+          <num>172.139</num>
+          <heading>District attorney and grand jury prohibited from questioning
+attorney regarding matters learned for client or issuing subpoena for work done
+by attorney for client.</heading>
+          <subsection eId="172-139__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Question an attorney or an attorneyï¿½s
+employee regarding matters which were learned during a legitimate investigation
+for a client.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-139__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Issue a subpoena for the production of
+the private notes or other matters representing work done by the attorney or
+the attorneyï¿½s employee regarding the legal services which the attorney
+provided for a client.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1028)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-145">
+          <num>172.145</num>
+          <heading>Defendant entitled to submit statement regarding preliminary
+hearing which grand jury must receive; grand jury required to hear and district
+attorney required to submit known evidence which will explain away charge;
+invitations and issuance of process for witnesses.</heading>
+          <subsection eId="172-145__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The grand jury is not bound to hear
+evidence for the defendant, except that the defendant is entitled to submit a
+statement which the grand jury must receive providing whether a preliminary
+hearing was held concerning the matter and, if so, that the evidence presented
+at the preliminary hearing was considered insufficient to warrant holding the
+defendant for trial. It is their duty, however, to weigh all evidence submitted
+to them, and when they have reason to believe that other evidence within their
+reach will explain away the charge, they shall order that evidence to be
+produced, and for that purpose may require the district attorney to issue
+process for the witnesses.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-145__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the district attorney is aware of
+any evidence which will explain away the charge, the district attorney shall
+submit it to the grand jury.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-145__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The grand jury may invite any person,
+without process, to appear before the grand jury to testify.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1409; A1985,
+555;2011,
+287)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-155">
+          <num>172.155</num>
+          <heading>Degree of evidence to warrant indictment; objection.</heading>
+          <subsection eId="172-155__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The grand jury ought to find an
+indictment when all the evidence before them, taken together, establishes
+probable cause to believe that an offense has been committed and that the
+defendant has committed it.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-155__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The defendant may object to the
+sufficiency of the evidence to sustain the indictment only by application for a
+writ of habeas corpus.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1409; A1979,
+331)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-165">
+          <num>172.165</num>
+          <heading>Grand juror must declare knowledge as to commission of public
+offense; investigation.</heading>
+          <content>
+            <p>If a
+member of the grand jury knows or has reason to believe that a public offense
+has been committed, which is triable within the jurisdiction of the district
+court which has impaneled such grand jury, the member must declare such
+knowledge or belief to the memberï¿½s fellow jurors, who shall thereupon
+investigate the alleged offense.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1409; A1969,
+6)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-175">
+          <num>172.175</num>
+          <heading>Matters into which grand jury shall and may inquire.</heading>
+          <subsection eId="172-175__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each grand jury that is not impaneled
+for a specific limited purpose shall inquire into:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-175__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The case of every person imprisoned in the
+jail of the county, on a criminal charge, against whom an indictment has not
+been found or an information or complaint filed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-175__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The condition and management of any public
+prison located within the county.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-175__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The misconduct in office of public officers
+of every description within the county which may constitute a violation of a
+provision ofchapter 197of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-175__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A grand jury that is not impaneled for
+another specific limited purpose may inquire into any and all matters affecting
+the morals, health and general welfare of the inhabitants of the county, or of
+any administrative division thereof, or of any township, incorporated city,
+irrigation district or town therein.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1409; A1973,
+1274;1985,
+556,701)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-185">
+          <num>172.185</num>
+          <heading>Grand jury entitled to enter jails and examine records.</heading>
+          <content>
+            <p>The grand jury shall be entitled to free
+access, at all reasonable times, to all public prisons and to the examination
+without charge of all public records within its district.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1409)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-195">
+          <num>172.195</num>
+          <heading>Issuance of subpoenas by grand jury; subpoenaed witnesses must
+be informed of general nature of inquiry.</heading>
+          <subsection eId="172-195__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 172.139, the grand jury may issue
+subpoenas, subscribed by the foreman or by the deputy or temporary foreman when
+acting for the foreman, for witnesses within the State and for the production
+of books, papers or documents.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-195__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The grand jury shall orally inform any
+witness so subpoenaed of the general nature of the grand juryï¿½s inquiry before
+the witness testifies. Such a statement must be included in the transcript of
+the proceedings.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1409; A1985,
+573,1029)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-197">
+          <num>172.197</num>
+          <heading>Procedure when person subpoenaed to appear before grand jury
+intends to assert constitutional privilege against self-incrimination.</heading>
+          <subsection eId="172-197__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If a person who has been subpoenaed to
+appear before a grand jury informs the district attorney that the person
+intends to refuse to testify and to assert the personï¿½s constitutional
+privilege against self-incrimination, the district attorney shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-197__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Move for an order of immunity pursuant toNRS 178.572;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-197__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Challenge the existence of a valid privilege
+by filing in any court of record a motion to compel the testimony of the
+person; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-197__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Withdraw the subpoena.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-197__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All proceedings which are held on a
+motion filed pursuant to subsection 1 must be closed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-197__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the existence of the privilege is
+challenged, the court shall hear the evidence of both parties and determine
+whether or not a valid privilege exists and to which matters, if any, it
+extends.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-197__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The district attorney shall not call a person
+to testify before a grand jury regarding matters which have been so determined
+to be within the personï¿½s constitutional privilege against self-incrimination.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+554)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-205">
+          <num>172.205</num>
+          <heading>Power to engage services of skilled persons.</heading>
+          <content>
+            <p>The grand jury shall have the power, with the
+consent of the board of county commissioners, to engage the services of an attorney
+other than and in addition to the district attorney, certified public
+accountants, and such other skilled persons as may be necessary in the
+performance of its inquisitorial powers.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1410; A2017,
+3485)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-215">
+          <num>172.215</num>
+          <heading>Certified court reporter: Appointment; compensation; material
+required for and prohibited from inclusion in notes.</heading>
+          <subsection eId="172-215__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Whenever criminal causes are being
+investigated by the grand jury, it shall appoint a certified court reporter. If
+the certified court reporter is not an official reporter of the district court,
+the certified court reporter shall, before entering upon his or her duties,
+take and subscribe the constitutional oath of office. The certified court
+reporter is entitled to receive the same compensation for services as an
+official reporter of the district court.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-215__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3, the certified court reporter shall include in the notes taken of
+a grand jury proceeding all criminal matters which come before the grand jury
+including:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-215__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The charge by the impaneling judge;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-215__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any subsequent instructions or statements
+made by the judge;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-215__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Each statement made by the district attorney;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-215__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Each question asked of and response given by
+the witnesses who appear before the grand jury; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-215__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any statements made by the grand jurors
+during the proceeding.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-215__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The certified court reporter shall not
+include in his or her notes:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-215__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any confidential communication between a
+witness and the witnessï¿½s legal counsel, if the legal counsel is allowed to
+accompany the witness before the grand jury; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-215__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The deliberations and voting of the grand
+jury.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1410; A1973,
+1323;1985,
+1029;1993,
+1411)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-225">
+          <num>172.225</num>
+          <heading>Transcripts: Preparation; public record.</heading>
+          <subsection eId="172-225__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If an indictment has been found or
+accusation presented against a defendant, the stenographic reporter shall
+certify and file with the county clerk an original transcription of his or her
+notes and a copy thereof and as many additional copies as there are defendants.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-225__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The reporter shall complete the
+certification and filing within 10 days after the indictment has been found or
+the accusation presented unless the court for good cause makes an order
+extending the time.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-225__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The county clerk shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-225__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Deliver a copy of the transcript so filed
+with the county clerk to the district attorney immediately upon receipt
+thereof;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-225__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Retain one copy for use only by judges in
+proceedings relating to the indictment or accusation; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-225__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Deliver a copy of the transcript to each
+defendant who is in custody or has given bail or to the defendantï¿½s attorney.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-225__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Any defendant to whom a copy has not
+been delivered is entitled upon motion to a continuance of the defendantï¿½s
+arraignment until a date 10 days after the defendant actually receives a copy.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-225__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If several criminal charges against a
+defendant are investigated on one investigation and thereafter separate
+indictments are returned or accusations presented upon the several charges, the
+delivery to the defendant or his or her attorney of one copy of the transcript
+of the investigation is a compliance with this section as to all of the
+indictments or accusations.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-225__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Upon the filing of such a transcript
+with the county clerk, the transcript and any related physical evidence
+exhibited to the grand jury become a matter of public record unless the court:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-225__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Orders that the presentment or indictment
+remain secret until the defendant is in custody or has been given bail; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-225__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon motion, orders the transcript and
+evidence to remain secret until further order of the court.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1410; A1975,
+910;1983,
+359)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-235">
+          <num>172.235</num>
+          <heading>Who may be present when grand jury is in session.</heading>
+          <subsection eId="172-235__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, the following persons may be present while the grand jury is in
+session:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-235__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The district attorney;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-235__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A witness who is testifying;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-235__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An attorney who is accompanying a witness
+pursuant toNRS 172.239;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-235__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Any interpreter who is needed;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-235__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The certified court reporter who is taking
+stenographic notes of the proceeding;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-235__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Any person who is engaged by the grand jury
+pursuant toNRS 172.205; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-235__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Any other person requested by the grand jury
+to be present.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-235__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>No person other than the jurors may be
+present while the grand jury is deliberating or voting.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1410; A1985,
+555;1993,
+1412)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-239">
+          <num>172.239</num>
+          <heading>Legal counsel for certain persons who appear before grand jury.</heading>
+          <subsection eId="172-239__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person whose indictment the district
+attorney intends to seek or the grand jury on its own motion intends to return
+may be accompanied by legal counsel during any appearance before the grand
+jury.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-239__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The legal counsel who accompanies a
+person pursuant to subsection 1 may advise his or her client but shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-239__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Address directly the members of the grand
+jury;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-239__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Speak in such a manner as to be heard by the
+members of the grand jury; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-239__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In any other way participate in the
+proceedings of the grand jury.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-239__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The court or the foreman of the grand
+jury may have the legal counsel removed if the legal counsel violates any of
+the provisions of subsection 2 or in any other way disrupts the proceedings of
+the grand jury.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-239__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The district attorney or the foreman of
+the grand jury shall give a person entitled to legal counsel notice of the
+provisions of this section at the time the person is served with a subpoena to
+appear before the grand jury. If such a person is invited without process to
+appear, the grand jury shall include with the invitation notice of the
+provisions of this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+554)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-241">
+          <num>172.241</num>
+          <heading>Right of certain persons to appear before grand jury; notice of
+consideration of indictment; withholding of notice; effect of inadequate
+notice.</heading>
+          <subsection eId="172-241__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person whose indictment the district
+attorney intends to seek or the grand jury on its own motion intends to return,
+but who has not been subpoenaed to appear before the grand jury, may testify
+before the grand jury if the person requests to do so and executes a valid
+waiver in writing of the personï¿½s constitutional privilege against
+self-incrimination.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-241__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A district attorney or a peace officer
+shall serve reasonable notice upon a person whose indictment is being
+considered by a grand jury unless the court determines that adequate cause
+exists to withhold notice. The notice is adequate if it:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-241__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is given to the person, the personï¿½s attorney
+of record or an attorney who claims to represent the person and gives the
+person not less than 5 judicial days to submit a request to testify to the
+district attorney; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-241__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Advises the person that the person may
+testify before the grand jury only if the person submits a written request to
+the district attorney and includes an address where the district attorney may
+send a notice of the date, time and place of the scheduled proceeding of the
+grand jury.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-241__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The district attorney may apply to the
+court for a determination that adequate cause exists to withhold notice if the
+district attorney:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-241__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Determines that the notice may result in the
+flight of the person whose indictment is being considered, on the basis of:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="172-241__subsec_3__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A previous failure of the person to
+appear in matters arising out of the subject matter of the proposed indictment;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="172-241__subsec_3__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The fact that the person is a fugitive
+from justice arising from charges in another jurisdiction;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="172-241__subsec_3__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Outstanding local warrants pending
+against the person; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="172-241__subsec_3__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Any other objective factor;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="172-241__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Determines that the notice may endanger the
+life or property of other persons; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-241__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Is unable, after reasonable diligence, to
+notify the person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-241__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a district attorney applies to the
+court for a determination that adequate cause exists to withhold notice, the
+court shall hold a closed hearing on the matter. Upon a finding of adequate
+cause, the court may order that no notice be given.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-241__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If notice required to be served upon a
+person pursuant to subsection 2 is not adequate, the person must be given the
+opportunity to testify before the grand jury. If the person testifies pursuant
+to this subsection, the grand jury must be instructed to deliberate again on
+all the charges contained in the indictment following such testimony.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+554; A1991,
+1063;1997,
+188;2015,
+580)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-245">
+          <num>172.245</num>
+          <heading>Secrecy of proceedings of grand jury; permitted disclosures;
+penalty.</heading>
+          <subsection eId="172-245__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The disclosure of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-245__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Evidence presented to the grand jury;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-245__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Information obtained by the grand jury;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-245__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The results of an investigation made by the
+grand jury; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-245__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An event occurring or a statement made in the
+presence of the grand jury other than its deliberations and the vote of a
+juror,
+ï¿½may be made
+to the district attorney for use in the performance of the district attorneyï¿½s
+duties.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-245__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3, the Attorney General or a member of the Attorney Generalï¿½s staff,
+a grand juror, district attorney or member of the district attorneyï¿½s staff,
+peace officer, clerk, stenographer, interpreter, witness or other person
+invited or allowed to attend the proceedings of a grand jury shall not
+disclose:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-245__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Evidence presented to the grand jury;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-245__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An event occurring or a statement made in the
+presence of the grand jury;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-245__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Information obtained by the grand jury; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-245__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The results of an investigation made by the
+grand jury.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-245__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person may disclose his or her
+knowledge concerning the proceedings of a grand jury:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-245__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When so directed by the court preliminary to
+or in connection with a judicial proceeding;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-245__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When permitted by the court at the request of
+the defendant upon a showing that grounds may exist for a motion to dismiss the
+presentment or indictment because of matters occurring before the grand jury;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-245__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the person was a witness before the grand
+jury and is disclosing his or her knowledge of the proceedings to the personï¿½s
+own attorney; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-245__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>As provided inNRS 172.225.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-245__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>No obligation of secrecy may be imposed
+upon any person except in accordance with this section. The court may direct
+that a presentment or indictment be kept secret until the defendant is in
+custody or has been given bail, and the clerk shall seal the presentment or
+indictment. It is unlawful for any person to disclose the finding of the secret
+presentment or indictment except when necessary for the issuance and execution
+of a warrant or summons.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-245__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A person who violates any of the
+provisions of this section is guilty of a gross misdemeanor and contempt of
+court.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-245__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Attorney General or district
+attorney shall investigate and prosecute a violation of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-245__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>The grand jury shall inform each person
+who appears before the grand jury of the provisions of this section and the
+penalties for its violation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1410; A1985,
+552)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-255">
+          <num>172.255</num>
+          <heading>Finding and return of presentment or indictment; effect of
+failure to indict.</heading>
+          <subsection eId="172-255__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A presentment or indictment may be
+found only upon the concurrence of 12 or more jurors.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-255__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The jurors shall vote separately on
+each person and each count included in a presentment or indictment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-255__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The presentment or indictment must be
+returned by the grand jury to a judge in open court or, in the absence of the
+judge, to the clerk of the court in open court, who shall determine that 12 or
+more jurors concurred in finding a presentment or indictment. If the defendant
+has been held to answer and 12 jurors do not concur in finding a presentment or
+indictment, the foreman shall so report to the court in writing forthwith.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-255__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The failure to indict does not prevent
+the same charge from being again submitted to a grand jury if resubmission is
+approved by the court.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1411; A1971,
+208;1985,
+1030)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-259">
+          <num>172.259</num>
+          <heading>Publication of fact that no indictment was issued by grand jury.</heading>
+          <subsection eId="172-259__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person who was the subject of the
+investigation but against whom an indictment was not returned; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-259__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A district attorney, with the
+permission of that person,
+ï¿½may make
+public the fact that no indictment was issued as a result of the grand juryï¿½s
+investigation.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1028)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-265">
+          <num>172.265</num>
+          <heading>Names of witnesses inserted or endorsed at foot of indictment.</heading>
+          <content>
+            <p>When an indictment is found, the names of the
+witnesses examined before the grand jury shall be inserted at the foot of the
+indictment, or endorsed thereon before it is presented to the court.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1411)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-267">
+          <num>172.267</num>
+          <heading>Report of grand jury: Scope; purpose; limitations.</heading>
+          <subsection eId="172-267__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A grand jury may issue a report
+concerning a matter into which it may lawfully inquire.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-267__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The report must be issued for the sole
+purpose of reporting on the matter. The report must not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-267__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Contain material the sole effect of which is
+to ridicule or abuse a person or otherwise subject the person to public
+disgrace or embarrassment;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-267__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Contain material which is personal in nature
+and does not relate to any lawful inquiry; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-267__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Accuse a named or unnamed person directly or
+by innuendo, imputation or otherwise of an act that, if true, constitutes an
+indictable offense unless the report is accompanied by a presentment or an
+indictment of the person for the offense mentioned in the report.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-267__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The judge impaneling a grand jury shall
+include the provisions of this section in the judgeï¿½s charge to the grand jury.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+700)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-269">
+          <num>172.269</num>
+          <heading>Report of grand jury: Inclusion of recommendations to public
+officers or agencies; criticism must be constructive; positive statement of no
+indictable activity required, if applicable.</heading>
+          <content>
+            <p>A
+grand jury may include in its report recommendations to a public officer or
+agency for actions which will reduce costs, increase efficiency or result in
+better service to the public. Any criticism made therein must be constructive
+and made in support of the recommendations. If such recommendations and
+criticism are included in a report and the report is not accompanied by a
+related indictment or presentment, the report must include a positive statement
+that no indictable criminal activity was found.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+701)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-271">
+          <num>172.271</num>
+          <heading>Report of grand jury: Preliminary review by court; notification
+of identified persons; procedure to expunge improper material; filing and
+distribution.</heading>
+          <subsection eId="172-271__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The grand jury shall submit a draft of
+the report that it wishes to make to the court which impaneled it.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-271__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The court shall review its contents
+and, if it contains any material which violates paragraph</p>
+            </content>
+            <paragraph eId="172-271__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of subsection 2
+ofNRS 172.267, require the grand jury
+to expunge that material from the draft.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-271__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The court shall send to any person
+identified in the draft in violation of paragraph</p>
+            </content>
+            <paragraph eId="172-271__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 2 ofNRS 172.267the pertinent part of the draft
+and notify the person that the person has been identified in the draft of the
+report of the grand jury in connection with possible criminal conduct. The
+person may, within 5 days after receiving the notice and the portion of the
+draft, submit a written request to the court for a hearing in chambers to
+consider a motion to expunge that portion of the draft from the final report.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-271__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The court shall rule on any such motion
+to expunge material within 20 days after the completion of the hearing on the
+motion.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-271__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If the court determines that the draft:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-271__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Violates in its entirety a provision ofNRS 172.267; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-271__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>After the removal of a portion pursuant toNRS 172.267, is so incomplete that it is
+meaningless,
+ï¿½it shall not
+file the report with the clerk of the district court but shall file instead a
+written statement describing, generally, its action and the basis for it.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-271__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The court shall file either the draft,
+the draft as corrected or the statement with the clerk of the district court
+within 60 days after receiving the draft from the grand jury. Upon filing, the
+draft becomes the final report of the grand jury.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-271__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Within 5 days after the report is
+filed, the clerk shall mail a copy of the pertinent portion of the report to
+each person or governmental entity mentioned in the report.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+701)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-275">
+          <num>172.275</num>
+          <heading>Discharge of grand jury; discharge or excuse of juror.</heading>
+          <subsection eId="172-275__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A grand jury shall serve until
+discharged by the court and may be so discharged at any time after the
+expiration of 1 year. At any time for cause shown the court may excuse a juror
+either temporarily or permanently, and in the latter event the court may
+impanel an alternate grand juror in place of the juror excused.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-275__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Where the court is composed of more
+than one judge, any judge may discharge or excuse a juror; but if any other
+judge notifies the judge so acting, in writing within 24 hours after the action
+is taken, that the judge objects, the action stands rescinded and is not
+effective unless the concurrence of a majority of the judges composing the
+court is obtained.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1411; A1985,
+557)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-285">
+          <num>172.285</num>
+          <heading>Warrant on presentment.</heading>
+          <subsection eId="172-285__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the court deems that the facts
+stated in a presentment constitute a public offense triable:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="172-285__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In the district court of the county, it shall
+direct the clerk to issue a warrant for the arrest of the defendant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="172-285__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In another court of the county, it shall
+forward the presentment to such court.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="172-285__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The clerk, or justice of the peace in a
+case forwarded to the justice of the peace, may accordingly at any time
+thereafter issue a warrant under the signature and seal of the court, if it has
+a seal.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-285__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The magistrate before whom the
+defendant is brought shall proceed to examine the charge contained in the
+presentment and hold the defendant to answer such charge, or discharge the
+defendant, in the same manner as upon a warrant of arrest on complaint.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1967,
+1411)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-295">
+          <num>172.295</num>
+          <heading>Review by person of personï¿½s prior testimony before testifying
+before grand jury again.</heading>
+          <subsection eId="172-295__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Is called to testify before a grand
+jury; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="172-295__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Has testified regarding the same matter
+at another time before the same or another grand jury,
+ï¿½may, upon
+request, review the transcript or recording of the personï¿½s prior testimony
+before testifying again.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1028)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_172-305">
+          <num>172.305</num>
+          <heading>Failure to disclose subject of grand juryï¿½s inquiry to defendant
+not cause for dismissal of subsequent presentment or indictment.</heading>
+          <content>
+            <p>A presentment or indictment may not be
+dismissed on the ground that the specific subject of the inquiry was not
+disclosed to the defendant pursuant toNRS
+172.195or subsection 5 ofNRS 174.315.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+572; A1993,
+118;2013,
+1202)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

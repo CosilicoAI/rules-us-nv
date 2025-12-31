@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-208"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-208"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="208"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-208/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-208/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-208/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-208/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_208">
+        <num>208</num>
+        <heading>GENERAL PROVISIONS</heading>
+        <section eId="sec_208-015">
+          <num>208.015</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this title, unless the context otherwise requires, the words and terms
+defined inNRS 208.025to208.095, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1911 C&amp;P ï¿½ 29; RL ï¿½ 6294; NCL ï¿½ 9978]—(NRS
+A1973,
+355;1983,
+815;1985,
+510)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_208-025">
+          <num>208.025</num>
+          <heading>ï¿½Boatï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Boatï¿½
+includes ships, steamers and other structures adapted to navigation or movement
+from place to place by water.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1911 C&amp;P ï¿½ 29; RL ï¿½ 6294; NCL ï¿½ 9978]—(NRS
+A1973,
+355;1983,
+815;1985,
+510)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_208-035">
+          <num>208.035</num>
+          <heading>ï¿½Bondï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Bondï¿½
+includes an undertaking.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1911 C&amp;P ï¿½ 29; RL ï¿½ 6294; NCL ï¿½ 9978]—(NRS
+A1973,
+355;1983,
+815;1985,
+510)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_208-045">
+          <num>208.045</num>
+          <heading>ï¿½Judgeï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Judgeï¿½
+includes every judicial officer authorized, alone or with others, to hold or
+preside over a court of record.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1911 C&amp;P ï¿½ 29; RL ï¿½ 6294; NCL ï¿½ 9978]—(NRS
+A1973,
+355;1983,
+815;1985,
+510)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_208-055">
+          <num>208.055</num>
+          <heading>ï¿½Knowinglyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Knowinglyï¿½
+imports a knowledge that facts exist which constitute the act or omission of a
+crime, and does not require knowledge of its unlawfulness. Knowledge of any
+particular fact may be inferred from the knowledge of such other facts as
+should put an ordinarily prudent person upon inquiry.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1911 C&amp;P ï¿½ 29; RL ï¿½ 6294; NCL ï¿½ 9978]—(NRS
+A1973,
+355;1983,
+815;1985,
+510;1997,
+1602)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_208-065">
+          <num>208.065</num>
+          <heading>ï¿½Officerï¿½ and ï¿½public officerï¿½ defined.</heading>
+          <subsection eId="208-065__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The State of Nevada;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="208-065__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any political subdivision of this
+state;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="208-065__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any other special district, public
+corporation or quasi-public corporation of this state; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="208-065__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Any agency, board or commission
+established by this state or any of its political subdivisions,
+ï¿½and all
+persons exercising or assuming to exercise any of the powers or functions of a
+public officer.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1911 C&amp;P ï¿½ 29; RL ï¿½ 6294; NCL ï¿½ 9978]—(NRS
+A1973,
+355;1983,
+815;1985,
+510)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_208-075">
+          <num>208.075</num>
+          <heading>ï¿½Prisonï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Prisonï¿½
+means any place designated by law for the keeping of persons held in custody
+under process of law, or under lawful arrest.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1911 C&amp;P ï¿½ 29; RL ï¿½ 6294; NCL ï¿½ 9978]—(NRS
+A1973,
+355;1983,
+815;1985,
+510)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_208-085">
+          <num>208.085</num>
+          <heading>ï¿½Prisonerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Prisonerï¿½
+includes any person held in custody under process of law, or under lawful
+arrest.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1911 C&amp;P ï¿½ 29; RL ï¿½ 6294; NCL ï¿½ 9978]—(NRS
+A1973,
+355;1983,
+815;1985,
+510)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_208-095">
+          <num>208.095</num>
+          <heading>ï¿½Writingï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Writingï¿½
+includes printing.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 1911 C&amp;P ï¿½ 29; RL ï¿½ 6294; NCL ï¿½ 9978]—(NRS
+A1973,
+355;1983,
+815;1985,
+510)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_208-105">
+          <num>208.105</num>
+          <heading>Construction of provisions of title.</heading>
+          <content>
+            <p>Every
+provision of this title shall be construed according to the fair import of its
+terms.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 30; RL ï¿½ 6295; NCL ï¿½ 9979]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_208-115">
+          <num>208.115</num>
+          <heading>Construction of provisions similar to existing laws.</heading>
+          <content>
+            <p>The provisions of this title, insofar as they
+are substantially the same as existing statutes, shall be construed as
+continuations thereof and not as new enactments.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 36; RL ï¿½ 6301; NCL ï¿½ 9985]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_208-125">
+          <num>208.125</num>
+          <heading>Effect of provisions upon past offenses.</heading>
+          <content>
+            <p>Nothing contained in any provision of this
+title shall apply to an offense committed or act done at any time before the
+day when this title shall take effect. Such an offense shall be punished
+according to, and such act shall be governed by, the provisions of law existing
+when it is done or committed, in the same manner as if this title had not been
+passed.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 31; RL ï¿½ 6296; NCL ï¿½ 9980]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_208-135">
+          <num>208.135</num>
+          <heading>Application to existing civil rights.</heading>
+          <content>
+            <p>Nothing
+in this title shall be deemed to affect any civil right or remedy existing at
+the time when it shall take effect by virtue of the common law or of the
+provision of any statute.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 32; RL ï¿½ 6297; NCL ï¿½ 9981]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_208-145">
+          <num>208.145</num>
+          <heading>Civil remedies preserved.</heading>
+          <content>
+            <p>The
+omission to specify or affirm in this title any liability to any damages,
+penalty, forfeiture or other remedy imposed by law, and allowed to be recovered
+or enforced in any civil action or proceeding, for any act or omission declared
+punishable in this title shall not affect any right to recover or enforce the
+same.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 37; RL ï¿½ 6302; NCL ï¿½ 9986]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_208-155">
+          <num>208.155</num>
+          <heading>Authority of courts-martial unaffected; punishment for contempt
+unaffected.</heading>
+          <content>
+            <p>This title does not
+affect any power conferred by law upon any court-martial, or other military
+authority, or officer, to impose or inflict punishment upon offenders; nor any
+power conferred by law upon any public body, tribunal or officer, to impose or
+inflict punishment for a contempt.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1911 C&amp;P ï¿½ 34; RL ï¿½ 6299; NCL ï¿½ 9983]</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_208-165">
+          <num>208.165</num>
+          <heading>Execution of instrument by prisoner.</heading>
+          <content>
+            <p>A
+prisoner may execute any instrument by signing his or her name immediately
+following a declaration ï¿½under penalty of perjuryï¿½ with the same legal effect
+as if he or she had acknowledged it or sworn to its truth before a person
+authorized to administer oaths. As used in this section, ï¿½prisonerï¿½ means a
+person confined in any jail or prison, or any facility for the detention of
+juvenile offenders, in this state.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1643)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_208-175">
+          <num>208.175</num>
+          <heading>Contracts with private entities to perform certain core
+correctional services; annual report concerning prisoners housed outside this
+State; inspection of facility of private entity that houses prisoners.</heading>
+          <content>
+            <p>Expired
+by limitation. (See chapter 178,Statutes
+of Nevada 2019, at page 955.)</p>
+          </content>
+        </section>
+        <section eId="sec_208-280">
+          <num>208.280</num>
+          <heading>Prisons to be under control of State or local government.</heading>
+          <subsection eId="208-280__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each prison that houses prisoners who
+are in the custody of the State or a local government must be under the
+administrative and direct operational control of the State or the local
+government, as applicable. The core correctional services at each such prison
+must be performed only by employees of the State or a local government, as
+applicable, and not by a private entity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="208-280__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A condition, stipulation or provision
+in a contract that conflicts with this section is against the public policy of
+this State and is void and unenforceable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="208-280__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½core
+correctional servicesï¿½ means the housing, safeguarding, protecting and
+disciplining of prisoners.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+952; A2019,
+955)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

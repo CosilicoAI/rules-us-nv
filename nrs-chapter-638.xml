@@ -1,0 +1,4232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-638"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-638"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="638"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-638/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-638/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-638/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-638/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_638">
+        <num>638</num>
+        <heading>VETERINARY MEDICINE;</heading>
+        <section eId="sec_638-001">
+          <num>638.001</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 638.0015to638.014, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 2:17:1919; 1919 RL p. 3204; NCL ï¿½ 7791] + [Part
+8:17:1919; 1919 RL p. 3205; NCL ï¿½ 7797]—(NRS A1960,
+410;1965,
+364;1975,
+1148;1985,
+534;1989,
+537;1995,
+1676;2021,
+873)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-0015">
+          <num>638.0015</num>
+          <heading>ï¿½Agencyï¿½ defined.</heading>
+          <subsection eId="638-0015__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A law enforcement agency;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-0015__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An animal control agency; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-0015__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A society for the prevention of cruelty
+to animals which is in compliance with the provisions ofchapter 574of NRS.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1675)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-002">
+          <num>638.002</num>
+          <heading>ï¿½Animalï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Animalï¿½
+excludes a human being and includes any mammal, amphibian, fowl, bird, fish or
+reptile, wild or domestic, living or dead.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+536; A1995,
+1676)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-004">
+          <num>638.004</num>
+          <heading>ï¿½Boardï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Boardï¿½
+means the Nevada State Board of Veterinary Medical Examiners.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+536)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-005">
+          <num>638.005</num>
+          <heading>ï¿½Euthanasia technicianï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Euthanasia
+technicianï¿½ means an employee of a law enforcement agency, an animal control
+agency, or of a society for the prevention of cruelty to animals that is in
+compliance with the provisions ofchapter 574of NRS, who is licensed by the Board and trained to administer sodium
+pentobarbital to euthanize injured, sick, homeless or unwanted domestic pets
+and other animals.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+536)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-007">
+          <num>638.007</num>
+          <heading>ï¿½Licensed veterinarianï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Licensed
+veterinarianï¿½ means a person who is licensed by the Board and is on active
+status to practice veterinary medicine in this State.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+536; A1995,
+1676)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-008">
+          <num>638.008</num>
+          <heading>ï¿½Practice of veterinary medicineï¿½ defined.</heading>
+          <subsection eId="638-008__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Practice of veterinary medicineï¿½
+means:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-008__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To diagnose, treat, correct, change, relieve
+or prevent animal disease, deformity, defect, injury or other physical or
+mental conditions, including, but not limited to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="638-008__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The prescription or the administration
+of any drug, medicine, biologic, apparatus, application, anesthetic or other
+therapeutic or diagnostic substance or technique;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="638-008__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The collection of embryos;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="638-008__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Testing for pregnancy or for
+correcting sterility or infertility;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="638-008__subsec_1__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Acupuncture;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="638-008__subsec_1__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Dentistry;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="638-008__subsec_1__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Chiropractic procedures;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="638-008__subsec_1__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>Surgery, including cosmetic surgery;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="638-008__subsec_1__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>Rendering advice or recommendation
+with regard to any of these by any means, including, without limitation, veterinary
+telemedicine.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="638-008__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To represent, directly or indirectly,
+publicly or privately, an ability and willingness to do any act described in
+paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-008__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-008__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>To use any title, words, abbreviation or
+letters in a manner or under circumstances which induce the belief that the
+person using them is qualified to do any act described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-008__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>, except
+if the person is a veterinarian.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-008__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term does not include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-008__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The practice of a veterinarian or veterinary
+technician while he or she lectures, teaches, administers a practical
+examination or conducts a laboratory demonstration in a facility in connection
+with:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="638-008__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A seminar; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="638-008__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A course of continuing education for
+veterinarians or veterinary technicians that has been approved by the Board;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="638-008__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The practice of a person who is a graduate
+from a school of veterinary medicine that is not accredited by the Council on
+Education of the American Veterinary Medical Association while he or she is
+preparing to take a clinical proficiency examination administered by the
+American Veterinary Medical Association for the purpose of acquiring an
+educational certificate issued by the Educational Commission for Foreign
+Veterinary Graduates of the American Veterinary Medical Association or its
+successor organization as described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-008__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 2 ofNRS 638.100; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-008__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Emergency advice or recommendations given by
+a poison control center until the animal can be examined in person by a
+licensed veterinarian.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+536; A1995,
+1676;2021,
+873)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-009">
+          <num>638.009</num>
+          <heading>ï¿½School of veterinary medicineï¿½ defined.</heading>
+          <content>
+            <p>ï¿½School of veterinary medicineï¿½ means any
+veterinary college or division of a university or college that offers the
+degree of doctor of veterinary medicine or its equivalent and that conforms to
+the standards required for accreditation by the American Veterinary Medical
+Association.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+537)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-011">
+          <num>638.011</num>
+          <heading>ï¿½Veterinarianï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Veterinarianï¿½
+means a person who has received a doctorï¿½s degree in veterinary medicine from a
+school of veterinary medicine.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+537)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-012">
+          <num>638.012</num>
+          <heading>ï¿½Veterinary medicineï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Veterinary
+medicineï¿½ includes veterinary surgery, obstetrics, dentistry and all other
+branches or specialties of veterinary medicine.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+537)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-013">
+          <num>638.013</num>
+          <heading>ï¿½Veterinary technicianï¿½ defined.</heading>
+          <subsection eId="638-013__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Licensed by the Board pursuant toNRS 638.122; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-013__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Formally trained for the specific
+purpose of assisting a licensed veterinarian in the performance of professional
+or technical services in the field of veterinary medicine.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+536; A1995,
+1676;2003,
+1223)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-014">
+          <num>638.014</num>
+          <heading>ï¿½Veterinary telemedicineï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Veterinary
+telemedicineï¿½ means the use of medical information exchanged from one site to
+another via electronic communications regarding the health status of an animal
+or a group of animals and includes, without limitation, communication via
+telephone, video, a mobile application or an online platform on an Internet
+website.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+872)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-015">
+          <num>638.015</num>
+          <heading>Applicability of chapter.</heading>
+          <subsection eId="638-015__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To the gratuitous castrating, dehorning
+or vaccinating of domesticated animals nor to the gratuitous treatment of
+diseased animals by friends or neighbors of the owner thereof, except that all
+vaccinations for zoonotic diseases must be administered by a licensed
+veterinarian or a veterinary technician under the direct supervision of a
+licensed veterinarian.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-015__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To debar any veterinarian in the employ
+of the United States Government or the State of Nevada from performing official
+duties necessary for the conduct of the business of the United States
+Government or the State of Nevada, or a political subdivision thereof, upon
+which the veterinarian is assigned.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-015__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>To any person who is a diplomate from
+an approved specialty board of the American Veterinary Medical Association who
+is called into the State for consultation by a person licensed to practice
+under this chapter for a period not to exceed 30 days in any 12-month period if
+the person practices under the auspices of a licensed veterinarian.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-015__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>To the giving of advice with respect to
+or the performance of acts which the Board by rule has prescribed as accepted
+livestock management practices.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-015__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>To the owner of an animal or full-time
+regular employee of the owner who is caring for and treating an animal which
+belongs to the owner unless the ownership of the animal is transferred for the
+purposes of circumventing this chapter, except that all vaccinations for
+zoonotic diseases must be administered by a licensed veterinarian or a person
+under the direct supervision of a licensed veterinarian.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-015__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>To any person or agency that performs
+humane services for wildlife animals without charge.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-015__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>To any person, other than a
+veterinarian, who renders aid, assistance or relief to an animal in an
+emergency without charge if the person does not represent himself or herself as
+holding a license to practice veterinary medicine or as holding a degree in
+veterinary medicine or other related field.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-015__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>To any person, other than a
+veterinarian, who renders emergency paramedical services to an animal without
+charge during the transportation of the animal to a veterinary facility.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 8:17:1919; 1919 RL p. 3205; NCL ï¿½ 7797]—(NRS A1960,
+413;1965,
+366;1983,
+1675;1995,
+1676;2021,
+874)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-017">
+          <num>638.017</num>
+          <heading>Service of process: Methods; filing and recording of proof.</heading>
+          <subsection eId="638-017__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Service of process made pursuant to and
+all notices of hearings required by this chapter must be personally served upon
+the veterinarian, veterinary technician or applicant for a license, at his or
+her last known address, as indicated on the records of the Board. If personal
+service cannot be made, the Board may use any other method of service set forth
+in the Nevada Rules of Civil Procedure for the service of process in a civil
+action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-017__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Proof of service of process made
+pursuant to this chapter must be filed with the Executive Director and recorded
+in the minutes of the Board.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1248; A1995,
+1677;2005,
+776;2021,
+875)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-019">
+          <num>638.019</num>
+          <heading>Action to collect compensation for regulated services requires
+proof of licensure at time of service.</heading>
+          <subsection eId="638-019__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person engaged in any business or
+profession for which a license is required pursuant to this chapter may not
+bring or maintain an action in any court of this State, or be awarded judgment,
+for the collection of compensation for the performance of any act or contract
+for which such a license is required without alleging and proving that the
+person was licensed at all times during the performance of the act or contract.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-019__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Proof of licensure pursuant to this
+section must be made by production of a verified certificate of licensure from
+the Board which establishes that the person bringing the action was licensed as
+required by subsection 1.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+2067)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-020">
+          <num>638.020</num>
+          <heading>Creation; number, appointment, qualifications and removal of
+members.</heading>
+          <subsection eId="638-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Nevada State Board of Veterinary
+Medical Examiners is hereby created.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board consists of eight members
+appointed by the Governor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-020__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Six of the members must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-020__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be residents of the State of Nevada.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-020__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Be graduates of a veterinary college
+accredited by the American Veterinary Medical Association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-020__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Have been lawfully engaged in the practice of
+veterinary medicine in the State of Nevada for at least 5 years next preceding
+the date of their appointment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-020__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>One member must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-020__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be a resident of the State of Nevada.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-020__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Be a veterinary technician.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-020__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Have been lawfully engaged in practice as a
+veterinary technician in the State of Nevada for at least 5 years next
+preceding the date of his or her appointment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-020__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>One member appointed by the Governor
+must be a representative of the general public. This member must not be:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-020__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A veterinarian, a veterinary technician or a
+euthanasia technician; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-020__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The spouse or the parent or child, by blood,
+marriage or adoption, of a veterinarian, a veterinary technician or a
+euthanasia technician.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-020__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Any member may be removed from the
+Board by the Governor for good cause.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [2:17:1919; 1919 RL p. 3204; NCL ï¿½ 7791]—(NRS A1960,
+411;1975,
+1149;1977,
+1256;1979,
+987;1981,
+55;1985,
+1251;2003,
+1196,1223;2013,
+405)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-030">
+          <num>638.030</num>
+          <heading>Oaths of members.</heading>
+          <subsection eId="638-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Before entering upon the duties of
+office, each appointed member of the Board shall take the constitutional oath
+of office.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Each appointed member who is a licensed
+veterinarian shall make an oath that he or she is a graduate in veterinary
+medicine and legally qualified under the provisions of this chapter to practice
+veterinary medicine, surgery, obstetrics and dentistry in the State of Nevada.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [3:17:1919; 1919 RL p. 3204; NCL ï¿½ 7792]—(NRS A1960,
+411;1979,
+987)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-040">
+          <num>638.040</num>
+          <heading>Salary of members; per diem allowance and travel expenses of
+members and employees; payment of salaries and expenses.</heading>
+          <subsection eId="638-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Members of the Board are entitled to
+receive:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-040__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A salary of not more than $150 per day, as
+fixed by the Board, while engaged in the business of the Board; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-040__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A per diem allowance and travel expenses at a
+rate fixed by the Board, while engaged in the business of the Board. The rate
+must not exceed the rate provided for state officers and employees generally.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>While engaged in the business of the
+Board, each employee of the Board is entitled to receive a per diem allowance
+and travel expenses at a rate fixed by the Board. The rate must not exceed the
+rate provided for state officers and employees generally.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-040__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Salaries and expenses may be paid only
+to the extent that sufficient money is received from licensees.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 7:17:1919; 1919 RL p. 3205; NCL ï¿½ 7796]—(NRS A1963,
+155;1975,
+305,1150;1981,
+1993;1989,
+1701;2007,
+2951)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-050">
+          <num>638.050</num>
+          <heading>Officers; representative member at meetings; employment and
+performance review of Executive Director; regulations.</heading>
+          <subsection eId="638-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall elect from its
+appointed members a President and Vice President, who serve at the pleasure of
+the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board may elect from its appointed
+members at least one member to act as a representative of the Board at any
+meeting held within the State or outside the State when the Board considers
+such representation beneficial.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-050__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Board shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-050__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Employ an Executive Director, who shall
+maintain a copy of all correspondence;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-050__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Adopt regulations concerning the duties and
+qualifications of the Executive Director; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-050__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>At least annually, review the performance of
+the Executive Director.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:17:1919; A1951,
+63]—(NRS A1960,
+411;1963,
+156;1975,
+1150;1981,
+55;1985,
+1251;1995,
+1677)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-060">
+          <num>638.060</num>
+          <heading>Meetings; quorum.</heading>
+          <subsection eId="638-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall meet at least annually
+and on the call of the President or any five of its members.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Five members of the Board constitute a
+quorum, and a quorum is necessary to conduct the business of the Board. Any
+action taken by the Board must be approved by at least a majority of the
+members present at a hearing or meeting of the Board.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:17:1919; A1951,
+63]—(NRS A1960,
+412;1979,
+987;1985,
+1252;2003,
+1223;2013,
+405)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-070">
+          <num>638.070</num>
+          <heading>Regulations; powers regarding employees, investigations and
+evidence and offices.</heading>
+          <subsection eId="638-070__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall adopt regulations
+providing an administrative fine in an amount not to exceed $500 if an
+applicant for a license or the renewal of a license:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-070__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Intentionally or knowingly makes a false or
+misleading statement on an application; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-070__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Fails to inform the Board of any change of
+information which was contained in an application.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-070__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board may adopt regulations:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-070__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Necessary to carry out the provisions of this
+chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-070__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Concerning the rights and responsibilities of
+veterinary interns and externs and graduates of schools of veterinary medicine
+located outside the United States or Canada;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-070__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Concerning the rights and responsibilities of
+a veterinarianï¿½s employees who are not licensed nor working towards obtaining a
+license pursuant to this chapter and whose duties require them to spend a
+substantial portion of their time in direct contact with animals;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-070__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Concerning requirements for continuing
+education;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-070__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Establishing procedures to approve schools
+which confer the degree of veterinary technician or its equivalent;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-070__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Concerning the disposition of animals which
+are abandoned or left unclaimed at the office of a veterinarian;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-070__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Establishing sanitary requirements for
+facilities in which veterinary medicine is practiced, including, but not
+limited to, precautions to be taken to prevent the creation or spread of any
+infectious or contagious disease; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-070__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Concerning alternative veterinary medicine,
+including, but not limited to, acupuncture, chiropractic procedures, dentistry,
+cosmetic surgery, holistic medicine, and the provision of such services by a
+licensed provider of health care under the direction of a licensed
+veterinarian.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-070__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Board may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-070__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Employ attorneys, investigators, hearing
+officers for disciplinary hearings, and other professional consultants and
+clerical personnel necessary to the discharge of its duties;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-070__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Conduct investigations and take and record
+evidence as to any matter cognizable by it;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-070__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Maintain offices in as many localities in the
+State as it considers necessary to carry out the provisions of this chapter;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-070__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Purchase or rent any office space, equipment
+and supplies that it considers necessary to carry out the provisions of this
+chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:17:1919; A1951,
+63]—(NRS A1963,
+156;1975,
+1150;1981,
+101;1985,
+1252;1995,
+1678;2021,
+875)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-073">
+          <num>638.073</num>
+          <heading>Administration of oaths.</heading>
+          <content>
+            <p>The
+President of the Board, or in the Presidentï¿½s absence, the Vice President, may
+administer oaths in the performance of his or her duties.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1251)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-077">
+          <num>638.077</num>
+          <heading>Inspection of facilities.</heading>
+          <content>
+            <p>The
+Board, a member thereof or its authorized representative may inspect a facility
+in which veterinary medicine is practiced at any time during which the facility
+is open for business, to ensure compliance with the requirements of this
+chapter and the regulations of the Board.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1251)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-080">
+          <num>638.080</num>
+          <heading>Duties of Executive Director; deposit, use and payment of
+Boardï¿½s money.</heading>
+          <subsection eId="638-080__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Executive Director is the custodian
+of all the records and money of the Board, and shall deposit all money received
+by the Board pursuant to the provisions of this chapter, except fines imposed
+by the Board, in banks, savings and loan associations or savings banks in the
+State of Nevada. The money must be used to meet the expenses of the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-080__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Payment of money must be made upon the
+written order of the President of the Board countersigned by the Executive
+Director.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 4:17:1919; A1951,
+63] + [Part 7:17:1919; 1919 RL p. 3205; NCL ï¿½ 7796]—(NRS A1960,
+412;1963,
+156;1985,
+1252;1995,
+1679)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-083">
+          <num>638.083</num>
+          <heading>Payment of expenses of Board; deposit of money collected or
+received by Board or its delegate; delegation of Boardï¿½s authority to take
+disciplinary action; claim for payment of attorneyï¿½s fees and costs of
+investigation.</heading>
+          <subsection eId="638-083__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 4, all reasonable expenses incurred by the Board in carrying out the
+provisions of this chapter must be paid from the money which it receives. No
+part of the salaries or expenses of the Board may be paid out of the State
+General Fund.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-083__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, all money collected by the Board from the imposition of fines must be
+deposited with the State Treasurer for credit to the State General Fund. All
+other money received by the Board must be deposited in qualified banks, credit
+unions, savings and loan associations or savings banks in this State and paid
+out on its order for its expenses.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-083__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In a manner consistent with the
+provisions ofchapter 622Aof NRS, the Board
+may delegate to a hearing officer or panel its authority to take any
+disciplinary action pursuant to this chapter, impose and collect fines therefor
+and deposit the money therefrom in banks, credit unions, savings and loan
+associations or savings banks in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-083__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a hearing officer or panel is not
+authorized to take disciplinary action pursuant to subsection 3 and the Board
+deposits the money collected from the imposition of fines with the State
+Treasurer for credit to the State General Fund, it may present a claim to the
+State Board of Examiners for recommendation to the Interim Finance Committee if
+money is needed to pay attorneyï¿½s fees or the costs of an investigation, or
+both.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1246; A1995,
+1688;1999,
+1535;2005,
+780)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-085">
+          <num>638.085</num>
+          <heading>Fiscal year.</heading>
+          <content>
+            <p>The
+Board shall operate on the basis of a fiscal year commencing on July 1 and
+terminating on June 30.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+155)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-087">
+          <num>638.087</num>
+          <heading>Records: General requirements; confidentiality of certain
+records of Board; exceptions.</heading>
+          <subsection eId="638-087__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall keep a record of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-087__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>All charges filed against a licensee;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-087__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The proceedings of any formal hearing
+conducted by the Board or a hearing officer;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-087__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any order filed by the Board; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-087__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>All licenses issued by the Board including
+the name of the holder of the license, his or her business address, the date
+the license was issued and the number of the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-087__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, the records of the Board listed in subsection 1 must be open to the
+public at reasonable times and places.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-087__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in this
+section andNRS 239.0115, a complaint
+filed with the Board, all documents and other information filed with the
+complaint and all documents and other information compiled as a result of an
+investigation conducted to determine whether to initiate disciplinary action
+against a person are confidential, unless the person submits a written
+statement to the Board requesting that such documents and information be made
+public records.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-087__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The charging documents filed with the
+Board to initiate disciplinary action pursuant tochapter
+622Aof NRS and all other documents and information considered by the Board
+when determining whether to impose discipline are public records.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-087__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The provisions of this section do not
+prohibit the Board from communicating or cooperating with or providing any
+documents or other information to any other licensing board or any other agency
+that is investigating a person, including, without limitation, a law
+enforcement agency.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1250; A2003,
+1224,3453;2005,
+777;2007,
+2140)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-089">
+          <num>638.089</num>
+          <heading>Records: Additional provisions governing confidentiality and
+disclosure.</heading>
+          <subsection eId="638-089__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as provided in this section andNRS 239.0115, all information received by
+the Board concerning an applicant for a license or a licensee, including the
+results of an investigation, is confidential.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-089__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Board takes disciplinary action
+against an applicant or licensee, the complaint and the action taken are no
+longer required to be confidential.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-089__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Board conducts any proceeding
+other than a disciplinary action regarding an applicant or licensee, its
+statement of findings and any order issued relating thereto are no longer
+required to be confidential.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-089__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Information concerning an applicant or
+a licensee may be disclosed, pursuant to procedures established by regulation
+of the Board, to a court or an agency of the Federal Government, any state or
+any political subdivision of this State. Notice of the disclosure and the
+contents of the information must be given to the applicant or licensee within 3
+business days before the disclosure.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1246; A2007,
+2141)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-090">
+          <num>638.090</num>
+          <heading>Unlawful to practice without license.</heading>
+          <content>
+            <p>It
+is unlawful for any person to practice veterinary medicine, surgery, obstetrics
+or dentistry within the State of Nevada without a license issued pursuant to
+the provisions of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [1:17:1919; 1919 RL p. 3204; NCL ï¿½ 7790]—(NRS A1960,
+412;1995,
+1679)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-100">
+          <num>638.100</num>
+          <heading>Application for license to practice veterinary medicine;
+qualifications; fee; grounds for refusal to issue license.</heading>
+          <subsection eId="638-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person who desires to secure a
+license to practice veterinary medicine, surgery, obstetrics or dentistry in
+the State of Nevada must make written application to the Executive Director of
+the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The application must include all
+information required to complete the application and any other information
+required by the Board and must be accompanied by satisfactory proof that the
+applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-100__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is of good moral character;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-100__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided in subsection 3,
+has received a diploma conferring the degree of doctor of veterinary medicine
+or its equivalent from a school of veterinary medicine that is accredited by
+the Council on Education of the American Veterinary Medical Association or, if
+the applicant is a graduate of a school of veterinary medicine that is not
+accredited by the Council on Education of the American Veterinary Medical
+Association, that the applicant has received an educational certificate issued
+by the Educational Commission for Foreign Veterinary Graduates of the American
+Veterinary Medical Association or, if the Educational Commission for Foreign
+Veterinary Graduates of the American Veterinary Medical Association ceases to
+exist, by an organization approved by the Board that certifies that the holder
+of the certificate has demonstrated knowledge and skill of veterinary medicine
+that is equivalent to the knowledge and skill of veterinary medicine of a
+graduate of a college of veterinary medicine that is accredited by the Council
+on Education of the American Veterinary Medical Association; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-100__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Has passed each examination required by the
+Board pursuant toNRS 638.110.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A veterinary student in his or her
+final year at a school accredited by the American Veterinary Medical Association
+may submit an application to the Board and take the state examination
+administered by the Board, but the Board may not issue a license until the
+student has complied with the requirements of subsection 2.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-100__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The application must be signed by the applicant
+and accompanied by a fee set by the Board, not to exceed $500.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-100__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Board may refuse to issue a license
+if the Board determines that an applicant has committed an act which would be a
+ground for disciplinary action if the applicant were a licensee.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:17:1919; A1951,
+63]—(NRS A1960,
+412;1971,
+221;1975,
+1150;1977,
+1566;1985,
+1253;1995,
+1679;1997,
+2145;2003,
+1224,3453;2005,
+2743,2807,2817;2019,
+4292;2021,
+876)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-103">
+          <num>638.103</num>
+          <heading>Payment of child support: Submission of certain information by
+applicant; grounds for denial of license; duty of Board. [Effective until the
+date of the repeal of 42 U.S.C. ï¿½ 666, the federal law requiring each state to
+establish procedures for withholding, suspending and restricting the
+professional, occupational and recreational licenses for child support
+arrearages and for noncompliance with certain processes relating to paternity
+or child support proceedings.]</heading>
+          <subsection eId="638-103__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to any other requirements
+set forth in this chapter:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-103__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An applicant for the issuance of a license to
+practice as a veterinarian, euthanasia technician or veterinary technician
+shall include the social security number of the applicant in the application
+submitted to the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-103__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An applicant for the issuance or renewal of a
+license to practice as a veterinarian, euthanasia technician or veterinary
+technician shall submit to the Board the statement prescribed by the Division
+of Welfare and Supportive Services of the Department of Health and Human
+Services pursuant toNRS 425.520. The
+statement must be completed and signed by the applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-103__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall include the statement
+required pursuant to subsection 1 in:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-103__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The application or any other forms that must
+be submitted for the issuance or renewal of the license; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-103__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A separate form prescribed by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-103__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A license to practice as a
+veterinarian, euthanasia technician or veterinary technician may not be issued
+or renewed by the Board if the applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-103__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Fails to submit the statement required
+pursuant to subsection 1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-103__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Indicates on the statement submitted pursuant
+to subsection 1 that the applicant is subject to a court order for the support
+of a child and is not in compliance with the order or a plan approved by the
+district attorney or other public agency enforcing the order for the repayment
+of the amount owed pursuant to the order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-103__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If an applicant indicates on the
+statement submitted pursuant to subsection 1 that the applicant is subject to a
+court order for the support of a child and is not in compliance with the order
+or a plan approved by the district attorney or other public agency enforcing
+the order for the repayment of the amount owed pursuant to the order, the Board
+shall advise the applicant to contact the district attorney or other public
+agency enforcing the order to determine the actions that the applicant may take
+to satisfy the arrearage.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2144; A2005,
+2744,2807)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-105">
+          <num>638.105</num>
+          <heading>Issuance of license to practice veterinary medicine without
+examination or as diplomate.</heading>
+          <subsection eId="638-105__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board may in its discretion license
+an applicant solely on the basis of oral interviews and practical
+demonstrations upon sufficient proof that the applicant has, within the
+previous 5 years, successfully passed any examination approved by:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-105__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Board; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-105__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A national testing service for veterinary
+medicine that has been approved by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-105__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board may, upon payment of the fee
+prescribed underNRS 638.100, license
+without examination any person who is a diplomate from an approved specialty
+board of the American Veterinary Medical Association. The veterinary practice
+of any person who is licensed pursuant to this subsection is limited to the
+specialty in which the person is certified. If an applicant for a license under
+this section is denied a license, any fee tendered by the applicant may be
+returned to the applicant at the discretion of the Board.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:17:1919; A1951,
+63]—(NRS A1960,
+413;1975,
+1151;1995,
+1680;1999,
+184)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-110">
+          <num>638.110</num>
+          <heading>Examination for license to practice veterinary medicine;
+regulations.</heading>
+          <subsection eId="638-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided byNRS 638.105, each applicant for an initial
+license must pass:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-110__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The state examination administered by the
+Board; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-110__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any other examination approved by the Board
+and a national testing service for veterinary medicine that has been approved
+by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall adopt regulations
+prescribing the requirements for the examination of an applicant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-110__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The written examination required of an
+applicant may be supplemented by such oral interviews and practical
+demonstrations as the Board considers necessary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-110__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the Board denies an applicant a
+license because the applicant did not comply with the requirements of this
+section, the Board is not required to return the fee submitted with the
+application.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:17:1919; A1951,
+63]—(NRS A1960,
+413;1975,
+1151;1995,
+1680;1999,
+185)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-116">
+          <num>638.116</num>
+          <heading>Euthanasia technician: Application for license; qualifications;
+fee.</heading>
+          <subsection eId="638-116__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person who desires to secure a
+license as a euthanasia technician must make written application to the
+Executive Director of the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-116__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The application must be accompanied by
+satisfactory proof that the applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-116__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is of good moral character.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-116__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is employed by a law enforcement agency, an
+animal control agency, or by a society for the prevention of cruelty to animals
+that is in compliance with the provisions ofchapter
+574of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-116__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Has not been convicted of a felony.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-116__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Has furnished any other information required
+by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-116__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The application must be accompanied by:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-116__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A fee to be set by the Board in an amount not
+to exceed $500; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-116__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>All information required to complete the
+application.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+537; A1995,
+1680;1997,
+2146;2005,
+2745,2807;2019,
+4293)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-117">
+          <num>638.117</num>
+          <heading>Euthanasia technician: Examination.</heading>
+          <subsection eId="638-117__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall examine every applicant
+for a license as a euthanasia technician in order to determine his or her
+qualifications, and may issue or deny a license on the basis of the
+examination. All examinees must be tested by a written examination which may be
+supplemented by oral interviews and practical demonstrations as the Board
+considers necessary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-117__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board may waive the practical
+examination requirements of subsection 1 if an applicant submits to the Board
+proof that he or she is licensed by an agency which the Board determines has
+substantially equivalent examination requirements as the practical examination
+requirements of the Board.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+537; A1995,
+1681)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-118">
+          <num>638.118</num>
+          <heading>Euthanasia technician: Duties upon cessation of qualified
+employment.</heading>
+          <content>
+            <p>A euthanasia
+technician shall surrender his or her license to the Board, and notify the
+State Board of Pharmacy, when the euthanasia technician ceases to be employed
+by a law enforcement agency, an animal control agency, or by a society for the
+prevention of cruelty to animals that is in compliance with the provisions ofchapter 574of NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+537)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-119">
+          <num>638.119</num>
+          <heading>Euthanasia technician: Regulations.</heading>
+          <content>
+            <p>The
+Board may adopt regulations governing the tasks and procedures that may be
+performed by a euthanasia technician.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1989,
+537)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-122">
+          <num>638.122</num>
+          <heading>Veterinary technician: Application for license; qualifications;
+fee.</heading>
+          <subsection eId="638-122__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person who desires to secure a
+license as a veterinary technician must make written application to the
+Executive Director of the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-122__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The application must be accompanied by
+satisfactory proof that the applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-122__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is of good moral character.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-122__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has received a diploma conferring the degree
+of veterinary technician or its equivalent after having completed a college
+level course at a school approved by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-122__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Has furnished any other information required
+by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-122__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The application must be accompanied by:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-122__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A fee to be set by the Board in an amount not
+to exceed $500; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-122__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>All information required to complete the
+application.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+1146; A1985,
+1253;1995,
+1681;1997,
+2146;2005,
+2745,2807;2019,
+4293)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-123">
+          <num>638.123</num>
+          <heading>Veterinary technician: Examination; regulations.</heading>
+          <subsection eId="638-123__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each applicant for a license as a
+veterinary technician must pass:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-123__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The state examination administered by the
+Board; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-123__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Veterinary Technician National
+Examination or any other examination approved by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-123__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board may supplement the written
+examination required by this section with oral interviews and practical
+demonstrations as the Board considers necessary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-123__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Board shall adopt regulations
+prescribing the requirements for examination.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+1147; A1995,
+1681;2003,
+1225)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-124">
+          <num>638.124</num>
+          <heading>Veterinary technician: Regulations; responsibility of
+supervising veterinarian.</heading>
+          <subsection eId="638-124__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall adopt regulations
+pertaining to and limiting the activities of veterinary technicians.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-124__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Regulations adopted by the Board
+pursuant to this section do not reduce the responsibility of the licensed
+veterinarian for acts performed by the veterinary technician on behalf of the
+licensed veterinarian and under his or her supervision and control.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+1147; A1995,
+1682)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-1245">
+          <num>638.1245</num>
+          <heading>Veterinary technician: Conditions under which supervision via
+veterinary telemedicine is authorized.</heading>
+          <subsection eId="638-1245__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The supervising veterinarian and the
+veterinary technician are both employees of the same veterinary facility; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1245__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The veterinary facility is located in
+Nevada.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+873)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-125">
+          <num>638.125</num>
+          <heading>Practice by veterinarians licensed by adjoining states in areas
+within State not adequately served; conditions.</heading>
+          <subsection eId="638-125__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The greater portion of the
+veterinarianï¿½s practice is in the state of his or her residence.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-125__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The veterinarian does not open or
+maintain an office or branch office within this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-125__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The veterinarian is licensed to
+practice veterinary medicine, surgery, obstetrics and dentistry in the state
+wherein he or she resides.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1960,
+414)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-127">
+          <num>638.127</num>
+          <heading>Renewal of license; forfeiture of license for failure to renew;
+reinstatement; examination before renewal in certain circumstances.</heading>
+          <subsection eId="638-127__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>On or before May 15 of each
+odd-numbered year, each person licensed under the provisions of this chapter
+must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-127__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Submit to the Board an application for
+renewal of the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-127__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Pay the renewal fee and full payment of all
+fines and any other money which the applicant owes to the Board. The renewal
+fee for licensees and persons on inactive status must be in an amount determined
+by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-127__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Submit evidence satisfactory to the Board of
+the applicantï¿½s compliance with any requirements for continuing education.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-127__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Submit all other information required by the
+Board to complete the application for renewal of the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-127__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Upon receipt of the application and all
+required information and payment of the renewal fee and all fines and any other
+money owed, the Board shall issue to that person a certificate of renewal.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-127__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any person who fails to renew a license
+on or before August 31 of each odd-numbered year forfeits the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-127__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>When a person has forfeited his or her
+license in the manner provided in subsection 3, the Board may reinstate the
+license and issue a certificate of renewal upon receipt of all information required
+to complete the renewal and payment of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-127__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The renewal fee;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-127__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>All fines and any other money owed to the
+Board; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-127__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A delinquency penalty of $50 for each month
+or fraction thereof the license was not renewed after June 30.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-127__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If a licensee does not practice for
+more than 12 consecutive months, the Board may require the licensee to take an
+examination to determine his or her competency before renewing the license.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1960,
+414; A1975,
+1151;1981,
+55;1985,
+1254;1989,
+538;1991,
+2069;1995,
+1682;1997,
+2147;2003,
+1225;2005,
+2746,2807;2021,
+877)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-128">
+          <num>638.128</num>
+          <heading>Placement of license to practice veterinary medicine on inactive
+status: Application; qualifications; effect; regulations.</heading>
+          <subsection eId="638-128__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A licensed veterinarian may apply to
+the Board to be placed on inactive status. The Board may grant the application
+if the applicant has:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-128__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A medical disability as determined by the
+Board;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-128__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Changed the location of his or her practice
+of veterinary medicine from this State to another state or country;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-128__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Never engaged in the practice of veterinary
+medicine in this State after licensure; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-128__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Ceased to engage in the practice of
+veterinary medicine in this State for 12 consecutive months,
+ï¿½and, as of
+the date of the application, has met all requirements for the issuance or
+renewal of a license to practice veterinary medicine.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-128__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the application is granted, the
+applicant shall not engage in the practice of veterinary medicine in this State
+unless the applicant is returned to active status.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-128__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person whose license has been placed
+on inactive status pursuant to this section is exempt from any requirements for
+continuing education.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-128__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Board shall adopt regulations
+prescribing the:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-128__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Procedures for making an application pursuant
+to this section;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-128__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Procedures and terms upon which a person
+whose license has been placed on inactive status may resume the practice of
+veterinary medicine; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-128__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Fees for renewal of inactive status.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+2067; A1995,
+1682)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-129">
+          <num>638.129</num>
+          <heading>Removal of limitation or suspension of license; reinstatement of
+revoked license.</heading>
+          <subsection eId="638-129__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-129__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Whose practice of veterinary medicine has
+been limited; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-129__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Whose license to practice veterinary medicine
+has been suspended until further order or revoked,
+ï¿½may apply to
+the Board after a reasonable period for removal of the limitation or suspension
+or may apply to the Board pursuant to the provisions ofchapter 622Aof NRS for reinstatement of the
+revoked license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-129__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In hearing the application, the Board:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-129__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>May require the person to submit to a mental
+or physical examination by physicians whom it designates or to an examination
+testing the personï¿½s competence by other persons whom it designates, and submit
+such other evidence of changed conditions and of fitness as it considers
+proper;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-129__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Shall determine whether under all the
+circumstances the time of the application is reasonable; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-129__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>May deny the application or modify or rescind
+its order as the evidence warrants.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1249; A2005,
+777)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-131">
+          <num>638.131</num>
+          <heading>Provision of regulations to certain licensees governing sanitary
+conditions of facilities in which veterinary medicine is practiced.</heading>
+          <content>
+            <p>A copy of the regulations of the Board
+governing the sanitary conditions of facilities in which veterinary medicine is
+practiced must be furnished to each person to whom a license is issued for the
+practice of veterinary medicine pursuant to this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1251)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-132">
+          <num>638.132</num>
+          <heading>Regulations for licensure of facility in which veterinary
+medicine is practiced.</heading>
+          <content>
+            <p>The Board
+shall adopt regulations which prescribe the requirements for the licensure of a
+facility in which veterinary medicine is practiced, including, without
+limitation, the fee for the issuance and renewal of a license.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1675)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-133">
+          <num>638.133</num>
+          <heading>Duty of veterinarian and veterinary technician to report claim
+for malpractice or negligence and disposition.</heading>
+          <content>
+            <p>Every
+veterinarian or veterinary technician licensed pursuant to this chapter shall
+report to the Board any claim for malpractice or negligence filed against him
+or her and its disposition within 90 days after the claim is filed and after
+its disposition.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1250; A1995,
+1683)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-134">
+          <num>638.134</num>
+          <heading>Duty of licensed veterinarian to recommend vaccinations for
+zoonotic diseases; administration of such vaccinations; regulations; duty to
+provide veterinary services at level of quality required by chapter.</heading>
+          <subsection eId="638-134__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each licensed veterinarian to whom an
+animal is brought for treatment shall recommend to the owner of the animal or
+to the person delivering the animal for treatment that the animal receive the
+vaccinations for zoonotic diseases that are recommended by the Centers for
+Disease Control and Prevention of the United States Department of Health and
+Human Services. The vaccinations must be administered by a licensed
+veterinarian or a veterinary technician under the direct supervision of a
+licensed veterinarian. The Board may adopt regulations to ensure compliance
+with the provisions of this subsection.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-134__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A licensed veterinarian who agrees to
+perform veterinary services on an animal shall provide the services at the
+level of quality required by this chapter regardless of the fee, if any, which
+the veterinarian charges for his or her services. A violation of this
+subsection is a ground for disciplinary action.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1675; A2021,
+877)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-135">
+          <num>638.135</num>
+          <heading>Authority of licensed veterinarian to administer or recommend
+certain products containing hemp or CBD; disciplinary action prohibited.</heading>
+          <subsection eId="638-135__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A licensed veterinarian may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-135__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Administer to an animal a product containing
+hemp or CBD if the product:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="638-135__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Has a THC concentration of not more
+than 0.3 percent on a dry weight basis; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="638-135__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Is intended for use or consumption
+through means other than inhalation to treat a condition of the animal; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="638-135__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Recommend to the owner of an animal the use
+of such a product to treat a condition of the animal.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-135__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall not take any
+disciplinary action against a licensed veterinarian or the facility in which
+the licensed veterinarian engages in the practice of veterinary medicine solely
+for administering or recommending the use of products pursuant to subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-135__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-135__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Administerï¿½ has the meaning ascribed to it
+inNRS 453.021.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-135__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½CBDï¿½ has the meaning ascribed to it inNRS 453.033.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-135__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>ï¿½Hempï¿½ has the meaning ascribed to it inNRS 557.160.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-135__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>ï¿½THCï¿½ has the meaning ascribed to it inNRS 453.139.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+917)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-140">
+          <num>638.140</num>
+          <heading>Statutory or regulatory violations; criminal offenses; improper
+or unlawful acts involving certain substances; incompetence, negligence or
+malpractice; willful noncompliance; failed supervision.</heading>
+          <subsection eId="638-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Violation of a regulation adopted by
+the State Board of Pharmacy or the Nevada State Board of Veterinary Medical
+Examiners;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An alcohol or other substance use
+disorder;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-140__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Conviction of or a plea of nolo
+contendere to a felony related to the practice of veterinary medicine, or any
+offense involving moral turpitude;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-140__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Incompetence;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-140__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Negligence;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-140__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Malpractice pertaining to veterinary
+medicine as evidenced by an action for malpractice in which the holder of a
+license is found liable for damages;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-140__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Conviction of a violation of any law
+concerning the possession, distribution or use of a controlled substance or a
+dangerous drug as defined inchapter 454of
+NRS;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-140__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Willful failure to comply with any
+provision of this chapter, a regulation, subpoena or order of the Board, the
+standard of care established by the American Veterinary Medical Association or
+an order of a court;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-140__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>Prescribing, administering or
+dispensing a controlled substance to an animal to influence the outcome of a
+competitive event in which the animal is a competitor;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-140__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>Willful failure to comply with a
+request by the Board for medical records within 14 days after receipt of a
+demand letter issued by the Board;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-140__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>Willful failure to accept service by
+mail or in person from the Board;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-140__subsec_12">
+            <num>12.</num>
+            <content>
+              <p>Failure of a supervising veterinarian
+to provide immediate or direct supervision to licensed or unlicensed personnel
+if the failure results in malpractice or the death of an animal; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-140__subsec_13">
+            <num>13.</num>
+            <content>
+              <p>Failure of a supervising veterinarian
+to ensure that a licensed veterinarian is on the premises of a facility or
+agency when medical treatment is administered to an animal if the treatment
+requires direct or immediate supervision by a licensed veterinarian.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 5:17:1919; A1951,
+63]—(NRS A1965,
+366;1971,
+2039;1975,
+1147,1152;1985,
+1254;1987,
+803,1565;1995,
+1683;1999,
+185;2003,
+2713)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-1402">
+          <num>638.1402</num>
+          <heading>Fraudulent acts.</heading>
+          <subsection eId="638-1402__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Fraud or misrepresentation to secure a
+license;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1402__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Conspiring to commit fraud, forgery or
+deception in connection with an examination for a license;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1402__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Swearing falsely in any testimony or
+affidavit relating to or in the course of the practice of veterinary medicine;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1402__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Engaging in any conduct likely to
+deceive, defraud or harm the public, including the dissemination of information
+by a veterinarian, licensee of a facility or agency or an employee of either,
+concerning the services of the licensee which is false or misleading and which
+the person knew or should have known was false or misleading.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1249; A1995,
+1684)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-1404">
+          <num>638.1404</num>
+          <heading>Claiming professional superiority; accepting money to cure
+manifestly incurable disease; participating in agreement to split fees or
+provide rebates in connection with referral of client without informing client
+of agreement.</heading>
+          <subsection eId="638-1404__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Claiming or implying professional
+superiority over other licensees;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1404__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Accepting money to cure permanently a
+manifestly incurable disease; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1404__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Participating in an agreement with
+other veterinarians or licensees of a facility or agency if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-1404__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The agreement is to split fees or provide
+rebates in connection with the referral of a client; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-1404__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The client has not been informed of the
+agreement.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1249; A1995,
+1684)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-1406">
+          <num>638.1406</num>
+          <heading>Allowing improper use of name; unlawful professional
+association; failure to report revocation of license to practice in another
+state, territory or district of United States.</heading>
+          <subsection eId="638-1406__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Allowing oneï¿½s name to be used as a
+veterinarian or as a veterinary technician by another person who is not
+licensed or permitted to practice in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1406__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Having professional association with or
+employing any person claiming to be a veterinarian or veterinary technician
+unlawfully; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1406__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Failure to report, within 30 days, the
+revocation of a license to practice veterinary medicine or as a veterinary
+technician in another state, territory or district of the United States on
+grounds other than nonpayment of a fee.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1249; A1995,
+1684)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-1408">
+          <num>638.1408</num>
+          <heading>Failure to maintain facilities in sanitary condition; failure to
+maintain or alteration of records; filing false report or failing to make
+required report; inhumane or cruel treatment of animals.</heading>
+          <subsection eId="638-1408__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Failure of a licensee to maintain his
+or her facilities and premises in a clean and sanitary condition;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1408__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Failure to maintain records relating to
+the diagnosis, treatment and care of an animal;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1408__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Altering the records of an animal;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1408__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Making or filing a report which the
+licensee knows to be false;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1408__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Willful failure to report any
+dangerous, infectious or contagious disease or the results of any medical test
+as required by law; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1408__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Willfully committing any inhumane or
+cruel act on any animal.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1250)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-1409">
+          <num>638.1409</num>
+          <heading>Suspension of license for failure to pay child support or comply
+with certain subpoenas or warrants; reinstatement of license. [Effective until
+2 years after the date of the repeal of 42 U.S.C. ï¿½ 666, the federal law
+requiring each state to establish procedures for withholding, suspending and
+restricting the professional, occupational and recreational licenses for child
+support arrearages and for noncompliance with certain processes relating to
+paternity or child support proceedings.]</heading>
+          <subsection eId="638-1409__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Board receives a copy of a court
+order issued pursuant toNRS 425.540that provides for the suspension of all professional, occupational and
+recreational licenses, certificates and permits issued to a person who is the
+holder of a license to practice as a veterinarian, euthanasia technician or
+veterinary technician, the Board shall deem the license issued to that person
+to be suspended at the end of the 30th day after the date on which the court
+order was issued unless the Board receives a letter issued to the holder of the
+license by the district attorney or other public agency pursuant toNRS 425.550stating that the holder of the
+license has complied with the subpoena or warrant or has satisfied the
+arrearage pursuant toNRS 425.560.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1409__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall reinstate a license to
+practice as a veterinarian, euthanasia technician or veterinary technician that
+has been suspended by a district court pursuant toNRS 425.540if the Board receives a letter
+issued by the district attorney or other public agency pursuant toNRS 425.550to the person whose license was
+suspended stating that the person whose license was suspended has complied with
+the subpoena or warrant or has satisfied the arrearage pursuant toNRS 425.560.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1997,
+2145; A2005,
+2807)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-1413">
+          <num>638.1413</num>
+          <heading>Filing of complaint; investigation by Board; provision of notice
+to person being investigated.</heading>
+          <subsection eId="638-1413__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board or any of its members who
+becomes aware of any fact which may be any one or a combination of the grounds
+for initiating disciplinary action shall, and any other person who is so aware
+may, file with the Board a written complaint specifying the relevant facts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1413__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board may, upon its own motion, and
+shall, upon receipt of such a complaint, investigate the actions of any
+applicant for a license or any holder of a license issued pursuant to the
+provisions of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1413__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Executive Director shall send
+written notice by certified mail with return receipt requested to the person
+being investigated. The notice must contain the name of the person who filed
+the complaint against the licensee, the nature of the complaint and a request
+for any medical records the licensee may have relating to the complaint.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1245; A1995,
+1684;2003,
+1225)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-1416">
+          <num>638.1416</num>
+          <heading>Physical examination of animal after filing of complaint
+concerning care of animal.</heading>
+          <subsection eId="638-1416__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Schedule the examination at a
+reasonable time and place;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1416__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Notify the complainant at least 5 days
+before the examination; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1416__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Pay the cost of the examination.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1250)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-1419">
+          <num>638.1419</num>
+          <heading>Conduct of investigation.</heading>
+          <content>
+            <p>The
+Board shall appoint one of its members to conduct the investigation of a
+complaint. The member conducting the investigation may request assistance from
+the Attorney General or the Executive Director of the Board, and may employ
+investigators, professional consultants and any other personnel necessary to
+conduct the investigation.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1245; A1995,
+1685;2003,
+1226)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-142">
+          <num>638.142</num>
+          <heading>Examination to determine competence to practice veterinary
+medicine or act as veterinary technician; effect of failure to submit to examination.</heading>
+          <subsection eId="638-142__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Board has reason to believe that
+the conduct of any veterinarian or veterinary technician has raised a
+reasonable question as to his or her competence to practice veterinary medicine
+or to act as a veterinary technician with reasonable skill and safety to
+animals, it may order that person to undergo a mental or physical examination
+or an examination testing his or her competence to practice veterinary medicine
+or to act as a veterinary technician. The examination must be conducted by physicians
+or other persons designated by the Board to assist it in determining the
+fitness of that person to practice veterinary medicine or to act as a
+veterinary technician.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-142__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Every veterinarian or veterinary
+technician who accepts a license issued pursuant to this chapter shall be
+deemed to have given consent to submit to a mental or physical examination or
+an examination testing his or her competence when directed to do so in writing
+by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-142__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Board directs a licensee to
+submit to a mental or physical examination or an examination testing his or her
+competence, the examination must be held and the results returned to the Board
+not later than 60 days after the Board issues the order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-142__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The testimony or reports of the
+examining physicians or other persons designated by the Board are privileged
+communication, except as to proceedings conducted pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-142__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Except in extraordinary circumstances,
+as determined by the Board, the failure of a person licensed under this chapter
+to submit to an examination when directed as provided in this section
+constitutes a ground for the immediate suspension of the license.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1247; A1995,
+1685)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-1423">
+          <num>638.1423</num>
+          <heading>Summary order of suspension of license of veterinarian or
+veterinary technician or prohibition of procedures or activities: Grounds;
+notice; hearing; investigation; order; formal hearing.</heading>
+          <subsection eId="638-1423__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Board receives information that
+a veterinarian or veterinary technician is causing, allowing or maintaining any
+condition or activity which is an immediate threat to the welfare of an animal,
+it may, without a hearing, suspend his or her license or prohibit the use of
+certain procedures or any dangerous activity. The Board shall notify the
+veterinarian or veterinary technician within 2 days after taking the action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1423__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall, within 14 days after
+notifying the veterinarian or veterinary technician, hold an informal hearing
+to determine if cause exists to extend the order. The veterinarian or
+veterinary technician may present evidence at that hearing. After the hearing
+the Board may extend the order for no more than 60 days.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1423__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The issuance or extension of the order
+is not an adjudication on the merits. During the period of suspension, the
+Board shall investigate further and if it decides it is necessary, hold a
+formal hearing which must take priority over any other proceeding before the
+Board. If the Board finds, after the formal hearing, that the licensee is
+causing, allowing or maintaining any condition or activity which is an
+immediate threat to the welfare of an animal, it shall issue an order stating
+its findings and the action taken.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1247; A1995,
+1685;2005,
+778)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-1429">
+          <num>638.1429</num>
+          <heading>Procedure after investigation of complaint completed.</heading>
+          <subsection eId="638-1429__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>After the investigation of the
+complaint is completed, the member of the Board who conducted the investigation
+shall submit to the Board or appropriate committee a written report of his or
+her findings and recommendations concerning the disposition of the complaint.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1429__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Board or appropriate committee
+determines that there is not sufficient evidence to believe that a licensee has
+committed an act which constitutes a cause for disciplinary action, the Board
+or committee, as applicable, shall dismiss the complaint and send a written
+notice to the person who filed the complaint and the licensee who was the
+subject of the investigation that the complaint was dismissed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1429__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Board or appropriate committee
+determines that there is sufficient evidence to believe that a licensee has
+committed an act which constitutes a ground for disciplinary action, the Board
+or committee, as applicable, may commence a disciplinary action or enter into a
+settlement agreement with the licensee.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1429__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the Board or appropriate committee
+enters into a settlement agreement with a licensee, the agreement must be
+signed by the licensee and the President of the Board. The Board shall send a
+written notice of the settlement to the person who filed the complaint against
+the licensee. The notice must include a copy of the settlement agreement.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1429__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A document used to commence a
+disciplinary action or a settlement agreement are public records.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1429__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>As used in this section, ï¿½committeeï¿½
+means a committee designated by the Board and consisting of members of the
+Board.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1245; A1995,
+1686;2003,
+1226;2005,
+778;2021,
+878)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-144">
+          <num>638.144</num>
+          <heading>Subpoenas.</heading>
+          <subsection eId="638-144__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board, or a member assigned to
+investigate a complaint, may issue subpoenas to compel the attendance of
+witnesses and the production of books, records, papers and any other article
+related to the practice of veterinary medicine.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-144__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If any witness refuses to attend or
+testify or produce any article as required by the subpoena, the Board may
+report to the district court in the county in which the hearing is pending, by
+petition setting forth that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-144__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Due notice has been given of the time and
+place of attendance of the witness or the production of the required articles;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-144__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The witness has been subpoenaed pursuant to
+this section; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-144__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The witness has failed or refused to attend
+or produce the articles required by the subpoena, or has refused to answer
+questions propounded to him or her,
+ï¿½and asking
+for an order of the court compelling the witness to attend and testify before
+the Board or produce the articles as required by the subpoena.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-144__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon receiving the petition, the court
+may enter an order directing the witness to appear before the court at a time
+and place to be fixed by the court in its order, the time to be not more than
+10 days from the date of the order, and then and there show cause why the
+witness has not attended or testified before the Board or produced the articles
+as required by the subpoena. A certified copy of the order must be served upon
+the witness.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-144__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If it appears to the court that the
+subpoena was regularly issued by the Board, the court shall enter an order that
+the witness appear before the Board at the time and place fixed in the order
+and testify or produce the required articles, and upon failure to obey the
+order the witness may be dealt with as for contempt of court.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+54; A1985,
+1255)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-1445">
+          <num>638.1445</num>
+          <heading>Search warrant.</heading>
+          <content>
+            <p>In
+a manner consistent with the provisions ofchapter
+622Aof NRS, the Board may request and obtain a search warrant from a
+magistrate upon a showing that the warrant is needed to carry out an order of
+the Board or for an investigation or hearing being conducted by the Board and
+that reasonable cause exists to issue the warrant.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1250; A2005,
+779)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-145">
+          <num>638.145</num>
+          <heading>Evidentiary standard for refusing to issue license or taking
+disciplinary action.</heading>
+          <subsection eId="638-145__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board shall not refuse to issue a
+license to an applicant or take any disciplinary action against a licensee
+unless the Board finds, by a preponderance of the evidence, that the applicant
+or licensee has engaged in one or more of the practices prohibited by the
+provisions of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-145__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½preponderance
+of the evidenceï¿½ has the meaning ascribed to it inNRS 233B.0375.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+1147; A1985,
+1256;2003,
+1227;2005,
+779;2015,
+721)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-147">
+          <num>638.147</num>
+          <heading>Authority of Board to take disciplinary or other action; private
+reprimands prohibited; orders imposing discipline deemed public records;
+nondisciplinary letters of correction for certain violations; regulations.</heading>
+          <subsection eId="638-147__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Board determines that any
+applicant for a license or any person licensed pursuant to this chapter has
+committed any of the acts which are grounds for disciplinary action, the Board
+may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-147__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Refuse to issue a license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-147__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Refuse to renew a license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-147__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Revoke a license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-147__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Suspend a license for a definite period or
+until further order of the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-147__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Impose a fine in an amount not to exceed
+$10,000 for each act which constitutes a ground for disciplinary action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-147__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Place a licensee on probation subject to any
+reasonable conditions imposed by the Board, including requiring courses in
+continuing education or a periodic or continuous review of the licenseeï¿½s
+practice.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-147__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Administer a public reprimand.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-147__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Limit the practice of the licensee to
+specified branches of veterinary medicine.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-147__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Require the licensee to take a competency
+examination or a mental or physical examination.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-147__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall not administer a
+private reprimand.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-147__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An order that imposes discipline and
+the findings of fact and conclusions of law supporting that order are public
+records.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-147__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the Board determines that a person
+licensed pursuant to this chapter has violated a provision of this chapter, or
+a regulation adopted by the Board, concerning recordkeeping, inspection of a
+veterinary facility or continuing education, the Board may, in lieu of any
+remedy set forth in subsection 1 orNRS
+638.1471, issue a nondisciplinary letter of correction. The Board shall
+adopt regulations to carry out this subsection.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+1147; A1981,
+56;1985,
+1256;1995,
+1686;2003,
+3454;2021,
+878)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-1471">
+          <num>638.1471</num>
+          <heading>Issuance of citation by Board containing order of abatement or
+order to pay administrative fine; contents; penalty for failure to comply;
+regulations.</heading>
+          <subsection eId="638-1471__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board may issue to a licensee a
+citation which may contain an order of abatement or an order to pay an
+administrative fine assessed by the Board when the licensee is in violation of
+any provision of this chapter or any regulation adopted by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1471__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A citation must be in writing and
+describe with particularity the nature of the violation, including specific
+reference to the provision of law or the regulation determined to have been
+violated, and the amount of the fine, if any. A citation must be issued for
+each violation of this chapter or any regulation adopted by the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1471__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Where appropriate, the citation must
+contain an order of abatement fixing a reasonable time for abatement of the
+violation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1471__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The administrative fine assessed by the
+Board must not exceed $5,000 for each violation. In assessing a fine the Board
+shall give consideration to the appropriateness of the amount of the fine with
+respect to such factors as the gravity of the violation, the good faith of the
+licensee and the history of previous violations.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1471__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A citation must inform the licensee
+that if he or she desires a hearing to contest the finding of a violation or
+the amount of the fine assessed, the hearing must be requested by written
+notice to the Board within 30 days after the date of issuance of the citation.
+If a hearing is not requested pursuant to this section, a settlement does not
+constitute an admission of the violation charged unless the settlement
+agreement stipulates to such an admission.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1471__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Failure of a licensee to pay a fine
+within 30 days after the date of assessment, unless the citation is being
+appealed, may result in disciplinary action being taken by the Board. Where a
+citation is not contested and a fine is not paid, the full amount of the fine
+that is assessed must be added to the fee for renewal of the license. A license
+must not be renewed without payment of the renewal fee and fine.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1471__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Notwithstanding any other provision of
+law, where a fine is paid to satisfy an assessment based on the finding of a
+violation, payment of the fine constitutes a satisfactory resolution of the
+matter for purposes of public disclosure of the disposition of the violation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1471__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>The Board may adopt regulations to
+carry out this section. It may also adopt regulations to establish similar
+provisions for the issuance of a citation to a person who is practicing
+veterinary medicine without a license.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+2068; A1995,
+1687;2005,
+779)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-148">
+          <num>638.148</num>
+          <heading>Judicial review.</heading>
+          <subsection eId="638-148__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person against whom disciplinary
+action has been taken by the Board is entitled to judicial review of the
+Boardï¿½s order.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-148__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Every order of the Board imposing a
+sanction pursuant toNRS 638.147is
+effective from the date the President and Executive Director certify the order
+until the date the order is modified or reversed by a final judgment of the
+court.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1248; A1989,
+1658;1995,
+1688;2003,
+1227)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-151">
+          <num>638.151</num>
+          <heading>Legal representation of Board at hearing.</heading>
+          <content>
+            <p>In a manner consistent with the provisions ofchapter 622Aof NRS, at all hearings the
+Attorney General, or an attorney employed by the Board, shall represent the
+Board.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1246; A2005,
+780)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-1515">
+          <num>638.1515</num>
+          <heading>Requirements for proof.</heading>
+          <subsection eId="638-1515__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Notwithstanding the provisions ofchapter 622Aof NRS, in any disciplinary
+proceeding:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-1515__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Proof of actual injury need not be
+established where the charge is deceptive or unethical professional conduct.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-1515__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If proof of actual injury is an issue, proof
+of actual injury may be established by the testimony and opinion of a witness
+who is not an expert witness.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-1515__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A certified copy of the record of a court or
+a licensing agency showing a conviction or the suspension, limitation,
+modification, denial or revocation of a license of a veterinarian or veterinary
+technician is conclusive evidence of its occurrence. A plea of nolo contendere
+is a conviction for the purpose of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-1515__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½actual
+injuryï¿½ means any type of injury, abuse or mistreatment, whether or not the
+injury, abuse or mistreatment results in substantial or permanent physical harm
+or death.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1248; A1995,
+1688;2003,
+1227;2005,
+780)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-152">
+          <num>638.152</num>
+          <heading>Immunity from civil action.</heading>
+          <content>
+            <p>In
+addition to any other immunity provided by the provisions ofchapter 622Aof NRS, the Board, a veterinary
+society, or any person who or other organization which initiates or assists in
+any lawful investigation or proceeding concerning a veterinarian or veterinary
+technician, is immune from any civil action for that initiation or assistance
+or any consequential damages, if the person or organization acted without
+malicious intent.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1249; A1995,
+1689;2005,
+781)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-1521">
+          <num>638.1521</num>
+          <heading>Practice of veterinary medicine without establishment of
+veterinarian-client-patient relationship prohibited; exceptions.</heading>
+          <subsection eId="638-1521__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, a person may not practice veterinary medicine in this State
+except within the context of a veterinarian-client-patient relationship.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1521__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A licensed veterinarian may, in good
+faith and without the establishment of a veterinarian-client-patient
+relationship, provide emergency or urgent care to an animal when a client
+cannot be identified.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1521__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A veterinarian has a
+veterinarian-client-patient relationship concerning an animal if the
+veterinarian:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-1521__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Assumes responsibility for making medical
+judgments concerning the health of the animal and the need for medical
+treatment of the animal;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-1521__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has knowledge of the present care and health
+of the animal sufficient to provide at least a general or preliminary diagnosis
+of the medical condition of the animal, which knowledge must have been acquired
+by:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="638-1521__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Conducting a physical examination of
+the animal; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="638-1521__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Visiting, within a period of time that
+is appropriate for the medical issue in question, the premises where the animal
+is kept;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="638-1521__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Obtains an agreement with the client to
+follow the instructions provided by the veterinarian for the care and medical
+treatment of the animal;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-1521__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Is readily available for follow-up evaluation
+or has arranged for:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="638-1521__subsec_3__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Emergency or urgent care coverage; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="638-1521__subsec_3__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Continuing medical care and treatment which
+has been designated by the veterinarian to be provided by another licensed
+veterinarian who:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) Has access to the medical
+records of the animal; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) Can provide reasonable and
+appropriate medical care; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="638-1521__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Provides oversight of treatment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-1521__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A veterinarian-client-patient
+relationship is not established solely through veterinary telemedicine.
+However, once established, a veterinarian-client-patient relationship may be
+maintained via veterinary telemedicine between:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-1521__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Medically necessary examinations; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-1521__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Visits, within periods of time that are
+appropriate for the medical issue in question, to the premises where the animal
+is kept.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-1521__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>In the absence of a
+veterinarian-client-patient relationship:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-1521__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-1521__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>, any advice which is provided through electronic means must be general and
+not specific to a particular animal or its diagnosis or treatment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-1521__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Advice and recommendations may be provided
+via veterinary telemedicine in an emergency, but only until the animal can be
+examined in person by a licensed veterinarian.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2021,
+872)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-1525">
+          <num>638.1525</num>
+          <heading>Unlawful for licensee to provide medical assistance, treatment
+or counsel to human being; exception; ground for disciplinary action;
+suspension of license; penalty; reporting of violation.</heading>
+          <subsection eId="638-1525__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 41.500, a person licensed pursuant to
+the provisions of this chapter shall not provide medical assistance, treatment
+or counsel to a human being. Such conduct is a ground for disciplinary action.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1525__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board shall immediately suspend the
+license of a person who violates the provisions of this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1525__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any person who violates the provisions
+of this section is guilty of a category D felony and shall be punished as
+provided inNRS 193.130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1525__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Board may report an alleged
+violation of this section to the Attorney General or any district attorney.
+Upon receiving a report from the Board, the Attorney General or district
+attorney shall institute necessary proceedings in a court of competent
+jurisdiction against the person responsible for the alleged violation of this
+section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+1675; A1997,
+540,1192)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-153">
+          <num>638.153</num>
+          <heading>Criminal prosecution not precluded by disciplinary or other
+action.</heading>
+          <content>
+            <p>Notwithstanding the
+provisions ofchapter 622Aof NRS, the
+filing and review of a complaint, its dismissal without further action or its
+transmittal to the Attorney General, and any subsequent disposition by the
+Board, the Attorney General or any reviewing court do not preclude any
+appropriate criminal prosecution by the Attorney General or a district attorney
+based upon the same or other facts.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1249; A2005,
+781)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-155">
+          <num>638.155</num>
+          <heading>Injunctive relief for violations of chapter.</heading>
+          <content>
+            <p>Whenever any person has violated or is about
+to violate any of the provisions of this chapter, the district court of any
+county, on application of the Board, may issue an injunction or other
+appropriate order restraining the act or practice.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1981,
+55)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-1551">
+          <num>638.1551</num>
+          <heading>Injunctive relief for unprofessional conduct.</heading>
+          <subsection eId="638-1551__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to any other remedy
+provided by law, the Board, through its President or the Attorney General, may
+apply to a court to enjoin any unprofessional conduct of a veterinarian or
+veterinary technician, or to limit his or her practice or suspend his or her
+license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-1551__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The court may issue a temporary
+restraining order or a preliminary injunction for such purposes:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-1551__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Without proof of actual damage sustained by
+any person, this provision being a preventive as well as punitive measure; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-1551__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Pending proceedings for disciplinary action
+by the Board. Such proceedings must be instituted and determined as promptly as
+practicable.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1246; A1995,
+1689)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-1555">
+          <num>638.1555</num>
+          <heading>Allegation necessary for injunction.</heading>
+          <content>
+            <p>Any
+person seeking to enjoin another person from acting as a veterinarian or
+veterinary technician without a license need allege only that the other person
+did, on a specified date in this State, so act without having a license.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+1251; A1995,
+1689)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-160">
+          <num>638.160</num>
+          <heading>Prosecution of violators by Attorney General or district
+attorneys.</heading>
+          <content>
+            <p>Notwithstanding the
+provisions ofchapter 622Aof NRS, when
+requested by the Board, the Attorney General or the district attorneys of the
+respective counties of this State shall prosecute violators of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 9:17:1919; 1919 RL p. 3206; NCL ï¿½ 7798]—(NRS A1975,
+1152;2005,
+781)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-170">
+          <num>638.170</num>
+          <heading>Criminal penalties.</heading>
+          <subsection eId="638-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsections 2 and 3 of this section andNRS
+638.1525, a person who violates any of the provisions of this chapter is
+guilty of a misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A person who practices veterinary
+medicine without a license issued pursuant to the provisions of this chapter is
+guilty of a category D felony and shall be punished as provided inNRS 193.130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A person who practices as a veterinary
+technician without a license issued pursuant to the provisions of this chapter
+is guilty of a gross misdemeanor and shall be punished by imprisonment in the
+county jail for not more than 364 days, or by a fine of not more than $2,000,
+or by both fine and imprisonment.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ [Part 9:17:1919; 1919 RL p. 3206; NCL ï¿½ 7798]—(NRS A1985,
+1257;1995,
+1311,1689;1997,
+540;2013,
+992)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_638-200">
+          <num>638.200</num>
+          <heading>Donated drugs: Restrictions on reissuance; donation; immunity
+from liability; maintenance of records; regulations.</heading>
+          <subsection eId="638-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An owner of an animal may donate a drug
+that is dispensed for the animal, but will not be used by that animal, to a
+licensed veterinarian or a facility in which veterinary medicine is practiced
+if the licensed veterinarian or facility chooses to accept the drug.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 9, a licensed veterinarian may reissue a drug accepted pursuant to
+this section to fill other prescriptions dispensed by the licensed veterinarian
+free of charge for an animal if:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-200__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The licensed veterinarian determines that the
+owner of the animal is eligible for the reissuance of the drug based on
+economic need;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-200__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The licensed veterinarian determines that the
+drug is suitable for that purpose;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-200__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The drug was originally dispensed by a
+licensed veterinarian, a facility in which veterinary medicine is practiced
+which is licensed pursuant toNRS 638.132,
+a pharmacy licensed pursuant tochapter 639of
+NRS or an Internet pharmacy that is accredited through the National Association
+of Boards of Pharmacyï¿½s Veterinary-Verified Internet Pharmacy Practice Sites
+program or its successor;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-200__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The drug is not a controlled substance;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-200__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The drug is not a compounded drug;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-200__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Except as otherwise provided in subsection 3,
+the drug does not require refrigeration;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-200__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Except as otherwise provided in subsection 4,
+the drug is not in a liquid form;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-200__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The usefulness of the drug has not expired;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-200__subsec_2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>The packaging or bottle contains the
+expiration date of the usefulness of the drug; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-200__subsec_2__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>The name of the animal and the name of the
+owner of the animal for which the drug was originally dispensed, the
+prescription number and any other identifying marks are obliterated from the
+packaging or bottle before the reissuance of the drug.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>For the purposes of paragraph</p>
+            </content>
+            <paragraph eId="638-200__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>of
+subsection 2, the drug may be donated if refrigeration of the drug is required
+only after opening and the drug is unopened when donated.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-200__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>For the purposes of paragraph</p>
+            </content>
+            <paragraph eId="638-200__subsec_4__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>of
+subsection 2, the drug may be donated if it is in a liquid form and is packaged
+in a single dose in an ampule or vial.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-200__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A licensed veterinarian or other person
+who, or a facility or agency in which veterinary medicine is practiced that,
+exercises reasonable care in the donation, acceptance, distribution or
+dispensation of a drug in accordance with the provisions of this section and
+any regulations adopted pursuant thereto is not subject to any civil or
+criminal liability or disciplinary action by a professional licensing board for
+any loss, injury or death that results from the donation, acceptance,
+distribution or dispensation of the drug.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-200__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A manufacturer of a drug is not subject
+to civil or criminal liability for any claim or injury arising from the
+donation, acceptance, distribution or dispensation of the drug pursuant to this
+section and any regulations adopted pursuant thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-200__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>A licensed veterinarian shall not sell
+or resell any drug accepted pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-200__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>A licensed veterinarian shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-200__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Identify and maintain separately from other
+stock any drug accepted pursuant to this section; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-200__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Make a record of each drug accepted pursuant
+to this section that includes, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="638-200__subsec_8__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The date on which the drug was
+donated;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="638-200__subsec_8__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The name of the person who donated the
+drug;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="638-200__subsec_8__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The expiration date of the drug; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="638-200__subsec_8__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>If the drug expires while in the
+custody of the licensed veterinarian and the drug is destroyed, the date on
+which the drug was destroyed.
+ï¿½The record
+must be maintained for not less than 4 years.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-200__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>A licensed veterinarian may not reissue
+a drug accepted pursuant to this section to fill other prescriptions dispensed
+by the licensed veterinarian for an animal if the animal is raised to produce
+food for human consumption or the animal is ordinarily consumed by animals that
+are raised to produce food for human consumption.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="638-200__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>The Board may adopt such regulations
+as are necessary to carry out the provisions of this section, including,
+without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="638-200__subsec_10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Requirements for reissuing drugs pursuant to
+this section, including, without limitation, requirements that provide
+appropriate safeguards for ensuring that the drugs are not compromised or
+illegally diverted before being reissued.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-200__subsec_10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Requirements for accepting drugs donated to a
+licensed veterinarian or facility in which veterinary medicine is practiced
+pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="638-200__subsec_10__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Requirements for maintaining records relating
+to the acceptance and use of drugs to fill other prescriptions pursuant to this
+section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="638-200__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>As used in this section, ï¿½Internet
+pharmacyï¿½ has the meaning ascribed to it inNRS
+639.00865.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2011,
+833)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

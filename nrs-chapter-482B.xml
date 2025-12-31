@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-482B"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-482B"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="482B"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-482B/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-482B/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-482B/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-482B/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_482B">
+        <num>482B</num>
+        <heading>ALTERNATIVE ELECTRONIC</heading>
+        <section eId="sec_482B-010">
+          <num>482B.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 482B.015to482B.040, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+572)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482B-015">
+          <num>482B.015</num>
+          <heading>ï¿½Alternative electronic transportation systemï¿½ defined.</heading>
+          <subsection eId="482B-015__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Alternative electronic transportation
+systemï¿½ means any hardware or software which is installed within a vehicle or a
+mobile transportation device that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482B-015__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Allows a person in a vehicle on a highway to
+control, in real time, the mechanical operations of the vehicle, including,
+without limitation, braking, steering and adjusting the throttle, without the
+person physically touching the braking, steering, throttle or other controls of
+the vehicle;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482B-015__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Allows a person to program a mobile
+transportation device to operate along various routes, without the active
+control or monitoring by the person on premises to which the public has access;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482B-015__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Allows for a vehicle on a highway to be
+operated without the active control or monitoring of a person in a way that is
+outside the scope of an automated driving system; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482B-015__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Allows for a mobile transportation device on
+premises to which the public has access to be controlled remotely or operated
+without the active control or monitoring of a person in a way that is outside
+the scope of an automated driving system.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="482B-015__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The term does not include an automated
+driving system.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482B-015__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As used in this section, ï¿½automated
+driving systemï¿½ has the meaning ascribed to it inNRS 482A.025.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+572)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482B-020">
+          <num>482B.020</num>
+          <heading>ï¿½Alternative electronic transportation system vehicleï¿½ defined.</heading>
+          <subsection eId="482B-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An autonomous vehicle, as defined inNRS 482A.030.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482B-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A vehicle or device that is used
+exclusively upon fixed mechanical or electromagnetic guideways.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+573)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482B-025">
+          <num>482B.025</num>
+          <heading>ï¿½Highwayï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Highwayï¿½
+has the meaning ascribed to it inNRS
+482A.040.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+573)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482B-030">
+          <num>482B.030</num>
+          <heading>ï¿½Mobile transportation deviceï¿½ defined.</heading>
+          <subsection eId="482B-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>An autonomous vehicle, as defined inNRS 482A.030.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482B-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A vehicle or device that is used
+exclusively upon fixed mechanical or electromagnetic guideways.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+573)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482B-035">
+          <num>482B.035</num>
+          <heading>ï¿½Premises to which the public has accessï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Premises to which the public has accessï¿½ has
+the meaning ascribed to it inNRS 484A.185,
+except the term does not include property located upon a public or privately
+owned airport or any property owned, leased, controlled or managed by a public
+or privately owned airport.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+573)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482B-040">
+          <num>482B.040</num>
+          <heading>ï¿½Vehicleï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Vehicleï¿½
+has the meaning ascribed to it inNRS
+484A.320.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+573)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482B-150">
+          <num>482B.150</num>
+          <heading>Alternative electronic transportation system vehicles:
+Department may adopt regulations authorizing operation and testing; insurance
+requirements.</heading>
+          <subsection eId="482B-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Department may adopt regulations
+authorizing the operation and testing of alternative electronic transportation
+system vehicles on highways and premises to which the public has access within
+the State of Nevada.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="482B-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The regulations adopted pursuant to
+subsection 1 must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="482B-150__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Require a person who wishes to operate or
+test an alternative electronic transportation system vehicle on a highway or
+premises to which the public has access within this State to submit an
+application to the Department;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482B-150__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prescribe the form and contents of an
+application submitted pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482B-150__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482B-150__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Set forth requirements relating to the
+registration of and issuance of license plates to an alternative electronic
+transportation system vehicle in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482B-150__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Set forth requirements concerning the control
+of emissions from an alternative electronic transportation system vehicle in
+this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482B-150__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Require that an alternative electronic
+transportation system vehicle be capable of operating in compliance with the
+applicable motor vehicle laws and traffic laws of this State, unless an
+exemption has been granted by the Department;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482B-150__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Require a person who wishes to operate or
+test an alternative electronic transportation system vehicle on a highway or on
+premises to which the public has access within this State to obtain and
+maintain a policy of insurance on the alternative electronic transportation
+system vehicle that meets the requirements ofNRS
+485.185or485.186and:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="482B-150__subsec_2__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Submit to the Department proof of
+insurance or self-insurance acceptable to the Department in the amount of
+$5,000,000; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="482B-150__subsec_2__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Make a cash deposit or post and
+maintain a surety bond or other form of security with the Department in the
+amount of $5,000,000;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="482B-150__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Set forth requirements for the reporting of
+all crashes involving alternative electronic transportation system vehicles;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="482B-150__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Set forth requirements for the granting of an
+exemption from the applicable motor vehicle laws and traffic laws of this State
+for the operation or testing of an alternative electronic transportation system
+vehicle.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+573)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_482B-300">
+          <num>482B.300</num>
+          <heading>Administrative fine for violations of chapter.</heading>
+          <content>
+            <p>The Department may impose an administrative
+fine, not to exceed $2,500, for a violation of any provision of this chapter or
+any regulation adopted pursuant thereto.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+574)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

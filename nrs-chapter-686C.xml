@@ -1,0 +1,3905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-686C"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-686C"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="686C"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-686C/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-686C/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-686C/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-686C/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_686C">
+        <num>686C</num>
+        <heading>NEVADA LIFE AND HEALTH</heading>
+        <section eId="sec_686C-010">
+          <num>686C.010</num>
+          <heading>Short title.</heading>
+          <content>
+            <p>This
+chapter may be cited as the Nevada Life and Health Insurance Guaranty
+Association Act.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+302)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-020">
+          <num>686C.020</num>
+          <heading>Purpose of chapter.</heading>
+          <content>
+            <p>The
+purpose of this chapter is to protect, within certain limits, the persons
+specified in subsections 1 and 2 ofNRS
+686C.030against failure in the performance of contractual obligations
+under life insurance, health insurance and annuity policies or contracts
+specified in subsection 4 ofNRS 686C.030because of the impairment or insolvency of a member insurer issuing such
+policies or contracts.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+302; A1991,
+869;2001,
+1030;2019,
+1084)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-030">
+          <num>686C.030</num>
+          <heading>Scope of chapter: Coverage provided.</heading>
+          <subsection eId="686C-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>This chapter provides coverage for the
+life insurance, health insurance and annuity policies or contracts described in
+subsection 4 to persons who are:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-030__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Owners of, enrollees in or certificate
+holders under such policies or contracts, other than structured settlement
+annuities, and who:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="686C-030__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Are residents of this state; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-030__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Are not residents, but only if:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) The member insurer that issued
+the policies or contracts is domiciled in this state;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) The states in which the persons
+reside have associations similar to the Association created by this chapter;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (III) The persons are not eligible
+for coverage by an association in another state because the member insurer was
+not authorized in the other state at the time specified in that stateï¿½s law
+governing guaranty associations; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="686C-030__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Regardless of where they reside,
+beneficiaries, assignees or payees of the persons covered under paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-030__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>,
+including, without limitation, providers of health care rendering services
+covered under policies or certificates of health insurance, except for
+nonresident certificate holders under group policies or contracts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For structured settlement annuities,
+except as otherwise provided in subsection 3, this chapter provides coverage to
+a payee under the annuity, or beneficiary of a payee if the payee is deceased,
+if the payee or beneficiary:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-030__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is a resident of this state, regardless of
+the residence of the owner of the annuity; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-030__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Is not a resident of this state, but:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="686C-030__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The owner of the annuity is a resident
+of this state, or the issuer of the annuity is domiciled in this state and the
+state in which the owner resides has an association similar to the Association
+created by this chapter; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-030__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Neither the payee or beneficiary nor
+the owner of the annuity is eligible for coverage by the association of the
+state in which the payee, beneficiary or owner resides.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-030__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>This chapter does not provide coverage
+for a payee or beneficiary of a structured settlement annuity if the owner of
+the annuity is a resident of this state and the payee or beneficiary is
+afforded any coverage by the association of another state. In determining the
+application of the provisions of this chapter to a situation where a person
+could be covered by the association of more than one state, this chapter must
+be construed in conjunction with the laws of other states to result in coverage
+by only one association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-030__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>This chapter provides coverage to the
+persons described in subsections 1 and 2 for policies or contracts of direct,
+nongroup life insurance, health insurance and annuities, for certificates under
+direct group policies and contracts, and for supplemental contracts to any of
+these, in each case issued by member insurers, except as limited by this
+chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+302; A1991,
+869;2001,
+1030;2015,
+3474;2019,
+1084)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-035">
+          <num>686C.035</num>
+          <heading>Scope of chapter: Coverage not provided.</heading>
+          <subsection eId="686C-035__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>This chapter does not provide coverage
+for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-035__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A portion of a policy or contract not
+guaranteed by the member insurer, or under which the risk is borne by the owner
+of the policy or contract.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-035__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A policy or contract of reinsurance unless
+assumption certificates have been issued pursuant to that policy or contract.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-035__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A portion of a policy or contract, other than
+a portion of a policy or contract of health insurance or that provides benefits
+for long-term care, including, without limitation, a rider that provides such
+benefits, to the extent that the rate of interest on which it is based, or the
+interest rate, crediting rate or similar factor determined by the use of an
+index or other external reference stated in the policy or contract employed in
+calculating returns or changes in value:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="686C-035__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Averaged over the period of 4 years
+before the date on which the association becomes obligated with respect to the
+policy or contract, exceeds the rate of interest determined by subtracting 2
+percentage points from Moodyï¿½s Corporate Bond Yield Average averaged for the
+same period, or for the period between the date of issuance of the policy or
+contract and the date the association became obligated, whichever period is
+less; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-035__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>On or after the date on which the
+association becomes obligated with respect to the policy or contract, exceeds
+the rate of interest determined by subtracting 3 percentage points from Moodyï¿½s
+Corporate Bond Yield Average as most recently available.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="686C-035__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A portion of a policy or contract issued to a
+plan or program of an employer, association or other person to provide life,
+health or annuity benefits to its employees, members or other persons to the
+extent that the plan or program is self-funded or uninsured, including, but not
+limited to, benefits payable by an employer, association or other person under:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="686C-035__subsec_1__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A multiple employer welfare
+arrangement described in 29 U.S.C. ï¿½ 1002</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-035__subsec_1__subsec_d__subsec_40">
+                <num>(40)</num>
+                <content>
+                  <p>;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-035__subsec_1__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A minimum-premium group insurance
+plan;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-035__subsec_1__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>A stop-loss group insurance plan; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-035__subsec_1__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>A contract for administrative services
+only.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="686C-035__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A portion of a policy or contract to the
+extent that it provides for dividends, credits for experience, voting rights or
+the payment of any fee or allowance to any person, including the owner of a
+policy or contract, for services or administration connected with the policy or
+contract.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-035__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A policy or contract issued in this state by
+a member insurer at a time when the member insurer was not authorized to issue
+the policy or contract in this state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-035__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A portion of a policy or contract to the
+extent that the assessments required byNRS
+686C.230with respect to the policy or contract are preempted by federal
+law.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-035__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>An obligation that does not arise under the
+express written terms of the policy or contract issued by the member insurer,
+including:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="686C-035__subsec_1__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Claims based on marketing materials;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-035__subsec_1__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Claims based on side letters or other
+documents that were issued by the member insurer without satisfying applicable
+requirements for filing or approval of policy or contract forms;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-035__subsec_1__subsec_h__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Misrepresentations of or regarding
+policy or contract benefits;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-035__subsec_1__subsec_h__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Extra-contractual claims; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-035__subsec_1__subsec_h__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>A claim for penalties or consequential
+or incidental damages.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="686C-035__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A contractual agreement that establishes the
+member insurerï¿½s obligation to provide a guarantee based on accounting at book
+value for participants in a defined-contribution benefit plan by reference to a
+portfolio of assets owned by the benefit plan or its trustee, which in each
+case is not an affiliate of the member insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-035__subsec_1__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>A portion of a policy or contract to the
+extent that it provides for interest or other changes in value which are
+determined by the use of an index or other external reference stated in the
+policy or contract, but which have not been credited to the policy or contract,
+or as to which the rights of the owner of the policy or contract are subject to
+forfeiture, determined on the date the member insurer becomes an impaired or
+insolvent insurer, whichever occurs first. If the interest or changes in value
+of a policy or contract are credited less frequently than annually, for the
+purpose of determining the values that have been credited and are not subject
+to forfeiture, the interest or change in value determined by using procedures
+stated in the policy or contract must be credited as if the contractual date
+for crediting interest or changing values was the date of the impairment or
+insolvency of the insured member, whichever occurs first and is not subject to
+forfeiture.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-035__subsec_1__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>An unallocated annuity contract other than an
+annuity owned by a governmental retirement plan established under section 401,
+403</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-035__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or 457 of the Internal Revenue Code, 26 U.S.C. ï¿½ï¿½ 401, 403</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-035__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and 457,
+respectively, or the trustees of such a plan.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-035__subsec_1__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>A policy or contract providing any hospital,
+medical, prescription drug or other health care benefits pursuant to 42 U.S.C.
+ï¿½ï¿½ 1395w-21 et seq. and 1395w-101 et seq. or 42 U.S.C. ï¿½ï¿½ 1396 et seq., and any
+regulations adopted pursuant thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-035__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>As used in this section, ï¿½Moodyï¿½s
+Corporate Bond Yield Averageï¿½ means the monthly average for corporate bonds
+published by Moodyï¿½s Investors Service, Inc., or any successor average.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+864; A1995,
+1623;1999,
+2800;2001,
+1031;2011,
+3369;2013,
+3354;2019,
+1085)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-038">
+          <num>686C.038</num>
+          <heading>Applicability of chapter to riders for long-term care.</heading>
+          <content>
+            <p>For the purposes of this chapter, benefits
+provided pursuant to a rider for long-term care to a life insurance policy or
+annuity contract shall be deemed the same type of benefits provided in the life
+insurance policy or annuity contract to which the rider applies.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+1084)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-040">
+          <num>686C.040</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 686C.045to686C.127, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+302; A1991,
+870;2001,
+1033;2011,
+3370;2019,
+1087)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-045">
+          <num>686C.045</num>
+          <heading>ï¿½Accountï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Accountï¿½
+means one of the accounts maintained pursuant toNRS 686C.130.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+863)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-048">
+          <num>686C.048</num>
+          <heading>ï¿½Annuityï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Annuityï¿½
+includes an agreement for allocated funding, a structured settlement annuity
+and an immediate or deferred annuity.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1026)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-050">
+          <num>686C.050</num>
+          <heading>ï¿½Associationï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Associationï¿½
+means the Nevada Life and Health Insurance Guaranty Association.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+303)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-055">
+          <num>686C.055</num>
+          <heading>ï¿½Authorized assessmentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Authorized
+assessmentï¿½ or ï¿½authorizedï¿½ as used in the context of assessments means or
+describes an assessment authorized by a resolution of the Board of Directors of
+the Association to be imposed immediately or later on member insurers in a
+specified amount.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1026)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-061">
+          <num>686C.061</num>
+          <heading>ï¿½Benefit planï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Benefit
+planï¿½ means a benefit plan for a specific employee, union or association of
+natural persons.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1026)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-065">
+          <num>686C.065</num>
+          <heading>ï¿½Called assessmentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Called
+assessmentï¿½ or ï¿½calledï¿½ as used in the context of assessments means or
+describes an authorized assessment required by a notice mailed by the Association
+to member insurers to be paid within the time set forth in the notice.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1026)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-070">
+          <num>686C.070</num>
+          <heading>ï¿½Contractual obligationï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Contractual
+obligationï¿½ means any obligation under a policy or contract or a certificate
+under a group policy or contract, or portion thereof, for which coverage is
+provided underNRS 686C.030.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+303; A1989,
+565;1991,
+870;2001,
+1033)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-080">
+          <num>686C.080</num>
+          <heading>ï¿½Covered policy or contractï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Covered
+policy or contractï¿½ means any policy or contract included within the scope of
+this chapter, as expressed inNRS 686C.030and686C.035.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+303; A1991,
+870;2019,
+1087)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-084">
+          <num>686C.084</num>
+          <heading>ï¿½Extra-contractual claimï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Extra-contractual
+claimï¿½ includes a claim relating to bad faith in the payment of claims and a
+claim for punitive or exemplary damages or for costs and attorneyï¿½s fees.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1026)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-087">
+          <num>686C.087</num>
+          <heading>ï¿½Health maintenance organizationï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Health maintenance organizationï¿½ has the
+meaning ascribed to it inNRS 695C.030.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+1084)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-090">
+          <num>686C.090</num>
+          <heading>ï¿½Impaired insurerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Impaired
+insurerï¿½ means a member insurer which is not an insolvent insurer and is placed
+under an order of rehabilitation or conservation by a court of competent
+jurisdiction.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+303; A1991,
+870;2001,
+1033;2015,
+3475)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-095">
+          <num>686C.095</num>
+          <heading>ï¿½Insolvent insurerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Insolvent
+insurerï¿½ means a member insurer which is ordered to liquidate by a court of
+competent jurisdiction after a finding of insolvency.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+863; A2015,
+3475)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-100">
+          <num>686C.100</num>
+          <heading>ï¿½Member insurerï¿½ defined.</heading>
+          <subsection eId="686C-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A fraternal benefit society;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A mandatory state pooling plan;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A mutual assessment company or other
+person that operates on the basis of assessments;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-100__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>An insurance exchange;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-100__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>An organization that is authorized only
+to issue charitable gift annuities underNRS
+688A.281to688A.285, inclusive;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-100__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A reinsurance program operated by the
+State Government; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-100__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>An organization similar to any of those
+listed in subsections 1 to 6, inclusive.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+303; A1991,
+870;2001,
+1033;2019,
+1087)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-104">
+          <num>686C.104</num>
+          <heading>ï¿½Ownerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Ownerï¿½
+of a policy or contract means the person who is identified as the legal owner
+under the terms of the policy or contract or who is otherwise vested with legal
+title to the policy or contract through a valid assignment completed in
+accordance with the terms of the policy or contract and properly recorded as
+the owner on the books of the issuer.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1026)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-108">
+          <num>686C.108</num>
+          <heading>ï¿½Personï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Personï¿½
+includes a government, governmental agency or political subdivision of a
+government.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1026)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-110">
+          <num>686C.110</num>
+          <heading>ï¿½Premiumsï¿½ defined.</heading>
+          <subsection eId="686C-110__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any amounts received for policies or
+contracts or for the portions of policies or contracts for which coverage is
+not provided underNRS 686C.030except
+that the assessable premium is not reduced on account of paragraph</p>
+            </content>
+            <paragraph eId="686C-110__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of
+subsection 1 ofNRS 686C.035relating
+to limitations on interest and subsection 2 or paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-110__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 1 ofNRS 686C.210relating to limitations
+with respect to any one life.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-110__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Premiums for an unallocated annuity
+contract, except those issued in accordance with the provisions of a
+governmental retirement plan, established under section 401, 403</p>
+            </content>
+            <paragraph eId="686C-110__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or 457 of
+the Internal Revenue Code, 26 U.S.C. ï¿½ï¿½ 401, 403</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-110__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and 457, respectively, or
+the trustees of such a plan.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-110__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Premiums that exceed $5,000,000 for
+several nongroup policies of life insurance owned by one owner, regardless of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-110__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Whether the owner is a natural person, firm,
+corporation or other person;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-110__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Whether any person insured under the policies
+is an officer, manager, employee or other person; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-110__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The number of policies or contracts held by
+the owner.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+303; A1991,
+870;2001,
+1033;2015,
+3475)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-115">
+          <num>686C.115</num>
+          <heading>ï¿½Principal place of businessï¿½ defined.</heading>
+          <subsection eId="686C-115__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Principal place of businessï¿½ of an
+organization means the single state in which the natural persons who establish
+policy for the direction, control and coordination of the operations of the
+organization as a whole primarily perform that function, determined by the
+Association in its reasonable judgment by considering:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-115__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The state in which the primary executive and
+administrative headquarters of the organization is located;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-115__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The state in which the principal office of
+the chief executive officer of the organization is located;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-115__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The state in which the board of directors, or
+similar governing authority, of the organization conducts the majority of its
+meetings;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-115__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The state in which the executive or
+managerial committee of the board of directors, or similar governing authority,
+of the organization conducts the majority of its meetings; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-115__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The state from which the management of the
+overall operations of the organization is directed.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-115__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½Principal place of businessï¿½ of the
+sponsor of a benefit plan means the principal place of business of the
+association, committee, joint board of trustees or similar group of
+representatives of the parties who establish or maintain the plan or, if that cannot
+be ascertained, of the employer or the employee organization that has the
+largest investment in the plan, except that in either case if more than half of
+the participants of the plan are employed in one state, it means that state. In
+the case of a benefit plan sponsored by affiliated companies comprising a
+consolidated corporation, it means the state in which the holding company or
+controlling affiliate has its principal place of business as determined by
+using the factors set forth in subsection 1.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1026)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-120">
+          <num>686C.120</num>
+          <heading>ï¿½Residentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Residentï¿½
+means any person to whom a contractual obligation is owed and who resides in
+this state on the date of entry of a court order that determines a member
+insurer to be impaired or insolvent. A person may be a resident of but one
+state, which in the case of a person other than a natural person is its principal
+place of business. A citizen of the United States who is a resident of a
+foreign country or of a territory or insular possession subject to the
+jurisdiction of the United States which does not have an association similar to
+the Association created by this chapter shall be deemed to be a resident of the
+state of domicile of the member insurer that issued the policy or contract.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+303; A1991,
+871;2001,
+1034;2015,
+3475;2019,
+1087)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-123">
+          <num>686C.123</num>
+          <heading>ï¿½Stateï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Stateï¿½
+means a state of the United States, the District of Columbia, Puerto Rico, the
+United States Virgin Islands or any territory or insular possession subject to
+the jurisdiction of the United States.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1027)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-124">
+          <num>686C.124</num>
+          <heading>ï¿½Structured settlement annuityï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Structured settlement annuityï¿½ means an
+annuity purchased to fund periodic payments to a plaintiff or other claimant in
+payment for or with respect to personal injury suffered by the plaintiff or
+other claimant.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1027)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-125">
+          <num>686C.125</num>
+          <heading>ï¿½Supplemental contractï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Supplemental
+contractï¿½ means a written agreement for the distribution of proceeds from a
+life or health insurance policy or contract or an annuity.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+864; A2001,
+1034;2019,
+1087)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-127">
+          <num>686C.127</num>
+          <heading>ï¿½Unallocated annuity contractï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Unallocated
+annuity contractï¿½ means an annuity contract or group annuity certificate which
+is not issued to and owned by a natural person except to the extent such an
+annuity contract or group annuity certificate is guaranteed to a natural person
+by an insurer under such contract or certificate.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2011,
+3368)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-128">
+          <num>686C.128</num>
+          <heading>Document describing general purposes and current limitations of
+chapter: Preparation; distribution and revision; disclaimer; related duties by
+member insurer.</heading>
+          <subsection eId="686C-128__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Association shall prepare, and
+submit to the Commissioner for approval, a summary document describing the
+general purposes and current limitations of this chapter. After the expiration
+of 60 days after the approval of the summary document by the Commissioner, a
+member insurer may not deliver a policy or contract to the policy or contract
+owner, certificate holder or enrollee unless the summary document is delivered
+to the policy or contract owner, certificate holder or enrollee at the time of
+delivery of the policy or contract. The document must also be available upon
+request by the policy or contract owner, certificate holder or enrollee. The
+distribution, delivery, contents or interpretation of this document does not
+guarantee that the policy or contract or the policy or contract owner,
+certificate holder or enrollee is covered in the event of the impairment or
+insolvency of a member insurer. The descriptive document must be revised by the
+Association as amendments to this chapter may require. Failure to receive this
+document does not give the policy or contract owner, certificate holder or
+enrollee any greater rights than those stated in this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-128__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The document prepared pursuant to
+subsection 1 must contain a clear and conspicuous disclaimer on its face. The
+Commissioner shall establish the form and content of the disclaimer. The
+disclaimer must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-128__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>State the name and address of the Association
+and of the Division;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-128__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prominently warn the policy or contract
+owner, certificate holder or enrollee that the Association may not cover the
+policy or contract or, if coverage is available, it will be subject to
+substantial limitations and exclusions and conditioned on continued residence
+in this State;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-128__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>State the types of policies and contracts for
+which guaranty funds will provide coverage;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-128__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>State that the member insurer and its agents
+are prohibited by law from using the existence of the Association for the
+purpose of sales, solicitation or inducement to purchase any form of insurance
+or coverage offered by a health maintenance organization;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-128__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>State that the policy or contract owner,
+certificate holder or enrollee should not rely on coverage under the
+Association when selecting an insurer;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-128__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Explain the rights and procedures for filing
+a complaint to allege a violation of any provision of this chapter; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-128__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Provide other information as directed by the
+Commissioner, including sources of information about the financial condition of
+insurers, if the information is not proprietary and is subject to disclosure
+under the law of the state in which the member insurer is domiciled.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-128__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A member insurer shall retain evidence
+of compliance with subsection 1 while the policy or contract for which the
+notice is given remains in effect.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+868; A2001,
+1034;2019,
+1087)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-130">
+          <num>686C.130</num>
+          <heading>Creation of Association; membership; operation; accounts;
+supervision by Commissioner.</heading>
+          <subsection eId="686C-130__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>There is hereby created a nonprofit
+legal entity to be known as the Nevada Life and Health Insurance Guaranty
+Association. All member insurers shall be and remain members of the Association
+as a condition of their authority to transact insurance or operate a health
+maintenance organization, as applicable, in this state. The Association shall
+perform its functions under the plan of operation established and approved
+pursuant toNRS 686C.290and shall
+exercise its powers through a Board of Directors established pursuant toNRS 686C.140.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-130__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For purposes of administration and
+assessment, the Association shall maintain two accounts:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-130__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Health Account; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-130__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Life and Annuity Account, which consists
+of:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="686C-130__subsec_2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The Subaccount for Life Insurance; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-130__subsec_2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The Subaccount for Annuities,
+including annuities owned by a governmental retirement plan, or its trustees,
+established under section 401, 403</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="686C-130__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or 457 of the Internal Revenue Code, 26
+U.S.C. ï¿½ï¿½ 401, 403</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-130__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and 457.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-130__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Association is under the immediate
+supervision of the Commissioner and is subject to the applicable provisions of
+the Nevada Insurance Code. Meetings or records of the Association may be opened
+to the public by majority vote of the Board of Directors.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+303; A1991,
+871;2001,
+1035;2019,
+1088)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-140">
+          <num>686C.140</num>
+          <heading>Board of Directors: Members; vacancies; initial selection;
+reimbursement of expenses.</heading>
+          <subsection eId="686C-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board of Directors of the
+Association consists of not less than 7 nor more than 11 members, serving terms
+as established in the plan of operation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The members of the Board who represent
+member insurers must be selected by member insurers subject to the approval of
+the Commissioner. If practicable, one of the members of the Board must be an
+officer of a domestic member insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-140__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Two public representatives must be
+appointed to the Board by the Commissioner. A public representative may not be
+an officer, director or employee of a member insurer, engaged in the business
+of insurance or a health maintenance organization.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-140__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Vacancies on the Board must be filled
+for the remaining period of the term by majority vote of the members of the
+Board, subject to the approval of the Commissioner, for members who represent
+member insurers, and by the Commissioner for public representatives.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-140__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>To select the initial Board of
+Directors, and initially organize the Association, the Commissioner shall give
+notice to all member insurers of the time and place of the organizational
+meeting. In determining voting rights at the organizational meeting, each
+member insurer is entitled to one vote in person or by proxy. If the Board of
+Directors is not selected within 60 days after notice of the organizational
+meeting, the Commissioner may appoint the initial members to represent member
+insurers in addition to the public representatives.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-140__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>In approving selections or in
+appointing members to the Board, the Commissioner shall consider, among other
+things, whether all member insurers are fairly represented.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-140__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Members of the Board may be reimbursed
+from the assets of the Association for expenses incurred by them as members of
+the Board of Directors, but members of the Board may not otherwise be
+compensated by the Association for their services.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+303; A2001,
+1035;2003,
+2805;2019,
+1089)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-150">
+          <num>686C.150</num>
+          <heading>Powers regarding impaired insurers.</heading>
+          <subsection eId="686C-150__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Guarantee, assume, reissue or reinsure,
+or cause to be guaranteed, assumed, reissued or reinsured, any or all of the
+covered policies or contracts of the impaired insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-150__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Provide such money, pledges, loans,
+notes, guarantees or other means as are proper to effectuate subsection 1, and
+assure payment of the contractual obligations of the impaired insurer pending
+action under subsection 1.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+304; A1991,
+871;2001,
+1036;2019,
+1089)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-152">
+          <num>686C.152</num>
+          <heading>Duties regarding insolvent insurers.</heading>
+          <subsection eId="686C-152__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Guarantee, assume, reissue or reinsure,
+or cause to be guaranteed, assumed, reissued or reinsured, the policies or
+contracts of the insolvent insurer; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-152__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Ensure payment of the contractual
+obligations of the insolvent insurer and:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-152__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Provide such money, pledges, loans, notes,
+guarantees or other means as are reasonably necessary to discharge its duties;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-152__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide benefits and coverages in accordance
+withNRS 686C.153and686C.154.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+865; A2001,
+1036;2019,
+1090)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-153">
+          <num>686C.153</num>
+          <heading>Provision of substitute benefits and coverage with respect to
+covered policies or contracts.</heading>
+          <subsection eId="686C-153__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>When proceeding pursuant to paragraph</p>
+            </content>
+            <paragraph eId="686C-153__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 2 ofNRS 686C.152,
+the Association shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-153__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>With respect to covered policies or
+contracts, ensure payment of benefits that would have been payable under the
+policies or contracts of the insolvent insurer, for claims incurred with
+respect to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="686C-153__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A group policy or contract, not later
+than the earlier of the next renewal date under the policy or contract or 45
+days, but in no event less than 30 days, after the date when the Association
+becomes obligated with respect to that policy or contract.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-153__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A nongroup policy, contract or
+annuity, not later than the earlier of the next renewal date, if any, under the
+policy, contract or annuity or 1 year, but in no event less than 30 days, after
+the date when the Association becomes obligated with respect to that policy,
+contract or annuity.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="686C-153__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Make diligent efforts to provide all known
+insureds, policy or contract owners or enrollees with respect to group policies
+or contracts, or annuitants with respect to annuities, 30 daysï¿½ notice of
+termination of the benefits provided pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-153__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-153__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>With respect to nongroup life insurance,
+health insurance or annuity policies or contracts, make available substitute
+coverage on an individual basis, in accordance with the provisions of
+subsection 2, to each known insured or annuitant, or owner if other than the
+insured, enrollee or annuitant, and to each natural person formerly insured, formerly
+an enrollee or formerly an annuitant, under a group policy or contract who is
+not eligible for replacement group coverage, if the insured, enrollee or
+annuitant had a right under law or the terminated policy, contract or annuity
+to convert coverage to individual coverage or to continue an individual policy,
+contract or annuity in force until a specified age or for a specified period,
+during which the member insurer had no right unilaterally to make changes in
+any provision of the policy, contract or annuity or had a right only to make
+changes in premium by class.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-153__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In providing the substitute coverage
+required under paragraph</p>
+            </content>
+            <paragraph eId="686C-153__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of subsection 1, the Association may offer to
+reissue the terminated coverage or to issue an alternative policy or contract
+at actuarially justified rates without requiring evidence of insurability or a
+waiting period or exclusion that would not have applied under the terminated
+policy or contract and may reinsure any alternative or reinsured policy or
+contract.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+865; A2001,
+1036;2019,
+1090)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-154">
+          <num>686C.154</num>
+          <heading>Alternative policies or contracts: Adoption; approval; contents;
+premium; coverage.</heading>
+          <subsection eId="686C-154__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Alternative policies or contracts
+adopted by the Association are subject to the approval of the Commissioner. The
+Association may adopt alternative policies or contracts of various types for
+future issuance without regard to any particular impairment or insolvency.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-154__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An alternative policy or contract must
+contain at least the minimum statutory provisions required in this state and
+provide benefits that are not unreasonable in relation to the premium charged.
+The Association shall set the premium in accordance with a table of rates which
+it shall adopt. The premium must reflect the amount of insurance to be provided
+and the age and class of risk of each insured or enrollee, but must not reflect
+any changes in the health of the insured or enrollee after the original policy
+or contract was last underwritten.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-154__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>An alternative policy or contract
+issued by the Association must provide coverage of a type similar to that of
+the policy or contract issued by the impaired or insolvent insurer, as
+determined by the Association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-154__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the Association elects to reissue
+terminated coverage at a rate of premium different from that charged under the
+terminated policy or contract, the premium must be set by the Association at an
+actuarially justified amount in accordance with the amount of insurance
+provided and the age and class of risk, subject to approval by the Commissioner
+pursuant to subsection 1.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+866; A2001,
+1037;2019,
+1091)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-155">
+          <num>686C.155</num>
+          <heading>Ensuring of payment or credit of guaranteed minimum interest
+rate.</heading>
+          <content>
+            <p>When proceeding pursuant to
+paragraph (b) of subsection 2 ofNRS
+686C.152with respect to any policy or contract carrying guaranteed minimum
+interest rates, the Association shall ensure the payment or crediting of a rate
+of interest consistent with paragraph (c) of subsection 1 ofNRS 686C.035.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+866; A2001,
+1038)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-156">
+          <num>686C.156</num>
+          <heading>Issuance of substitute coverage for policy or contract that uses
+external reference for calculating returns or changes in value.</heading>
+          <subsection eId="686C-156__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In lieu of the index or other external
+reference stated in the original policy or contract, the alternative policy or
+contract provides for a fixed interest rate, payment of dividends guaranteed as
+to minimum amount, or a different method of calculating interest or changes in
+value;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-156__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>There is no requirement for evidence of
+insurability, waiting period or other exclusion that would not have applied
+under the replaced policy or contract; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-156__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The alternative policy or contract is
+substantially similar to the replaced policy or contract in all other material
+terms.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1029; A2019,
+1091)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-158">
+          <num>686C.158</num>
+          <heading>Payment of premiums; liability for unearned premiums.</heading>
+          <content>
+            <p>Premiums due for coverage after entry of an
+order of liquidation of an insolvent insurer belong to and are payable at the
+direction of the Association, and the Association is liable for unearned
+premiums due to owners of policies or contracts arising after the entry of such
+an order.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1027)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-160">
+          <num>686C.160</num>
+          <heading>Imposition of restraints on insurers.</heading>
+          <subsection eId="686C-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Impose permanent liens on policies and
+contracts in connection with any guarantee, assumption or reinsurance if the
+Association finds that the amounts which can be assessed under this chapter are
+less than the amounts needed to ensure full and prompt performance of the
+Associationï¿½s duties or that the economic or financial conditions as they
+affect member insurers are sufficiently adverse that the imposition of such
+permanent liens is in the public interest.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Impose temporary moratoriums or liens
+on payments of cash values and policy loans or any right to withdraw money held
+in conjunction with policies or contracts, in addition to any contractual
+provisions for deferral of paying cash value or lending against the policy or
+contract. In addition, in the event of a temporary moratorium or charge imposed
+by the court in the insolvent or impaired insurerï¿½s state which has
+jurisdiction over the conservation, rehabilitation or liquidation of the
+insurer on such payment or lending, or on any other right to withdraw money
+held in conjunction with policies or contracts, the Association may defer such
+payment, lending or withdrawal for the period of the moratorium or charge,
+except for claims covered by the Association to be paid in accordance with a
+procedure for cases of hardship established by the liquidator or rehabilitator
+and approved by the court.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+305; A1991,
+872;2001,
+1038;2019,
+1092)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-170">
+          <num>686C.170</num>
+          <heading>Liability for guaranty provided by laws of another state or
+jurisdiction.</heading>
+          <content>
+            <p>The Association is
+not liable underNRS 686C.152where a
+guaranty is provided to residents of this state by the laws of the domiciliary
+state or jurisdiction of the impaired or insolvent insurer other than this
+state.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+305; A1991,
+873;2001,
+1038)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-175">
+          <num>686C.175</num>
+          <heading>Receipt and disposition of deposit held pursuant to law or
+required by Commissioner for benefit of creditors.</heading>
+          <content>
+            <p>A
+deposit in this state, held pursuant to law or required by the Commissioner for
+the benefit of creditors, including, without limitation, policy or contract
+owners, certificate holders and enrollees, not turned over to the domiciliary
+receiver upon the entry of a final order of liquidation or order approving a
+plan of rehabilitation of a member insurer domiciled in this state or a
+reciprocal state pursuant toNRS 696B.290or696B.300must be promptly paid to
+the Association. The Association is entitled to retain a portion of an amount
+so paid to it that is equal to the percentage determined by dividing the
+aggregate amount of claims by policy or contract owners, certificate holders
+and enrollees that are related to that insolvency for which the Association has
+provided statutory benefits by the aggregate amount of all claims by policy or
+contract owners, certificate holders and enrollees in this state related to
+that insolvency, and shall remit the remainder to the domiciliary receiver. The
+amount so remitted is a distribution of the assets of the member insurer for
+the purposes ofchapter 696Bof NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1027; A2019,
+1092)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-180">
+          <num>686C.180</num>
+          <heading>Provision of assistance to Commissioner.</heading>
+          <content>
+            <p>The Association may render assistance and
+advice to the Commissioner upon request by the Commissioner, concerning
+rehabilitation, payment of claims, continuation of coverage or the performance
+of other contractual obligations of an impaired or insolvent insurer.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+305; A2001,
+1038)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-190">
+          <num>686C.190</num>
+          <heading>Legal standing.</heading>
+          <subsection eId="686C-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To appear or intervene before a court
+or agency in this state which has jurisdiction over an impaired or insolvent
+insurer concerning which the Association is or may become obligated under this
+chapter or over any person or property against whom or which the Association
+may have rights through subrogation or otherwise. Its standing extends to all
+matters germane to the powers and duties of the Association, including
+proposals for reinsuring, reissuing, modifying or guaranteeing the policies or
+contracts of the impaired or insolvent insurer and the determination of the
+policies or contracts and contractual obligations.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To appear or intervene before a court
+or agency in another state which has jurisdiction over an impaired or insolvent
+insurer for which the Association is or may become obligated, or over any
+person or property against whom or which the Association may have rights
+through subrogation or otherwise.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+305; A1991,
+873;2001,
+1038;2019,
+1092)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-200">
+          <num>686C.200</num>
+          <heading>Subrogation.</heading>
+          <subsection eId="686C-200__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A person receiving benefits under this
+chapter shall be deemed to have assigned his or her rights under, and any
+causes of action against any person for losses arising under, resulting from or
+otherwise relating to, the covered policy or contract to the Association to the
+extent of the benefits received because of this chapter, whether the benefits
+are payments of or on account of contractual obligations, continuation of
+coverage or provision of substitute or alternative coverages. The Association
+may require an assignment to it of those rights and causes of action by any
+payee, policy or contract owner, certificate holder, enrollee, beneficiary,
+insured or annuitant as a condition precedent to the receipt of any rights or
+benefits conferred by this chapter upon that person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-200__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The rights of the Association to
+subrogation under this subsection have the same priority against the assets of
+the impaired or insolvent insurer as that possessed by the person entitled to
+receive benefits under this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-200__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In addition to the rights provided
+under subsections 1 and 2, the Association has all rights of subrogation at
+common law and any other equitable or legal remedy which would have been
+available to the impaired or insolvent insurer or the owner, beneficiary or
+payee of a policy or contract, a certificate holder or an enrollee with respect
+to the policy or contract, including, in the case of a structured settlement
+annuity, any rights of the owner, beneficiary or payee of the annuity, to the
+extent of benefits received under this chapter, against a person originally or
+by succession responsible for the losses arising from the personal injury
+relating to the annuity or payment for it, except any such person responsible
+solely by reason of serving as an assignee under section 130 of the Internal
+Revenue Code, 26 U.S.C. ï¿½ 130.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-200__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the provisions of subsections 1, 2
+and 3 are invalid or ineffective with respect to any person or any claim for
+any reason, the amount payable to the Association with respect to the related
+covered obligations is reduced by the amount realized by any other person with
+respect to the person or claim which is attributable to the policies or
+contracts or portions thereof covered by the Association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-200__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If the Association has provided
+benefits with respect to a covered obligation and a person recovers amounts as
+to which the Association has rights under subsections 1 to 4, inclusive, the
+person shall pay to the Association the portion of the recovery attributable to
+the policies or contracts or portions thereof covered by the Association.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+305; A1991,
+873;2001,
+1039;2019,
+1093)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-210">
+          <num>686C.210</num>
+          <heading>Limitations on obligations.</heading>
+          <subsection eId="686C-210__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The benefits that the Association may
+become obligated to cover may not exceed the lesser of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-210__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The contractual obligations for which the
+member insurer is liable or would have been liable if it were not an impaired
+or insolvent insurer;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-210__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>With respect to one life, regardless of the
+number of policies or contracts:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="686C-210__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Three hundred thousand dollars in
+death benefits from life insurance, but not more than $100,000 in net cash for
+surrender and withdrawal for life insurance; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-210__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Two hundred fifty thousand dollars in
+the present value of benefits from annuities, including net cash for surrender
+and withdrawal;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="686C-210__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>With respect to health insurance for any one
+life:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="686C-210__subsec_1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>One hundred thousand dollars for
+coverages other than disability income insurance, health benefit plans or
+long-term care insurance, including any net cash for surrender or withdrawal;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-210__subsec_1__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Three hundred thousand dollars for
+disability income insurance or long-term care insurance; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-210__subsec_1__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Five hundred thousand dollars for
+health benefit plans;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="686C-210__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>With respect to each payee of a structured
+settlement annuity, or beneficiary or beneficiaries of the payee if deceased,
+$250,000 in present value of benefits from the annuity in the aggregate,
+including any net cash for surrender or withdrawal; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-210__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>With respect to each participant in a
+governmental retirement plan covered by an unallocated annuity contract which
+is owned by a governmental retirement plan established under section 401,
+403</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-210__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or 457 of the Internal Revenue Code, 26 U.S.C. ï¿½ï¿½ 401, 403</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-210__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and 457,
+respectively, or the trustees of such a plan, and which is approved by the
+Commissioner, an aggregate of $250,000 in present-value annuity benefits,
+including the value of net cash for surrender and net cash for withdrawal,
+regardless of the number of contracts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-210__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In no event is the Association
+obligated to cover more than:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-210__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>With respect to any one life or person under
+paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-210__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-210__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>, inclusive, of subsection 1:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="686C-210__subsec_2__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>An aggregate of $300,000 in benefits,
+excluding benefits for health benefit plans; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-210__subsec_2__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>An aggregate of $500,000 in benefits,
+including benefits for health benefit plans.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="686C-210__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>With respect to one owner of several nongroup
+policies of life insurance, whether the owner is a natural person or an
+organization and whether the persons insured are officers, managers, employees
+or other persons, more than $5,000,000 in benefits, regardless of the number of
+policies and contracts held by the owner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-210__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The limitations set forth in this
+section are limitations on the benefits for which the Association is obligated
+before taking into account its rights to subrogation or assignment or the
+extent to which those benefits could be provided out of the assets of the
+impaired or insolvent insurer attributable to covered policies or contracts.
+The cost of the Associationï¿½s obligations under this chapter may be met by the
+use of assets attributable to covered policies or contracts, or reimbursed to
+the Association pursuant to its rights to subrogation or assignment.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-210__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In performing its obligation to provide
+coverage underNRS 686C.150and686C.152, the Association need not
+guarantee, assume, reinsure, reissue or perform, or cause to be guaranteed,
+assumed, reinsured, reissued or performed, the contractual obligations of the
+impaired or insolvent insurer under a covered policy or contract which do not
+materially affect the economic value or economic benefits of the covered policy
+or contract.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-210__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>As used in this section, ï¿½health
+benefit planï¿½ has the meaning ascribed to it inNRS 687B.470.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+306; A1979,
+767;1991,
+874;2001,
+1039;2011,
+3370;2013,
+3356;2019,
+1094)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-220">
+          <num>686C.220</num>
+          <heading>General powers.</heading>
+          <subsection eId="686C-220__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Enter into such contracts as are
+necessary or proper to carry out the provisions and purposes of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-220__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Sue or be sued, including the taking of
+any legal action necessary or proper for recovery of any unpaid assessments
+underNRS 686C.230or to settle claims
+or potential claims against it.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-220__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Borrow money to effect the purposes of
+this chapter. Any notes or other evidence of indebtedness of the Association
+not in default are legal investments for domestic insurers and may be carried
+as admitted assets.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-220__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Employ or retain such persons as are
+necessary or appropriate to handle the financial transactions of the
+Association, and to perform such other functions as become necessary or proper
+under this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-220__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Take such legal action as may be
+necessary or appropriate to avoid or recover payment of improper claims.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-220__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Exercise, for the purposes of this
+chapter and to the extent approved by the Commissioner, the powers of a
+domestic life or health insurer or health maintenance organization, but in no
+case may the Association issue insurance policies or annuities other than those
+issued to perform its contractual obligations under this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-220__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Join an organization of one or more
+other state associations having similar purposes, to further the purposes and
+administer the powers and duties of the Association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-220__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Organize itself as a corporation or in
+other legal form permitted by the laws of this state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-220__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>Request information from a person
+seeking coverage from the Association to aid the Association in determining its
+obligations under this chapter with respect to the person, and the person shall
+promptly comply with the request.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-220__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>Except where otherwise provided by
+law, in accordance with the terms and conditions of the applicable policy or
+contract, file for actuarially justified rate or premium increases for any
+policy for which the Association provides coverage under the provisions of this
+chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-220__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>Take other necessary or appropriate
+action to perform its duties and discharge its obligations under this chapter
+or to exercise its power under this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+306; A1991,
+874;2001,
+1040;2019,
+1095)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-221">
+          <num>686C.221</num>
+          <heading>Determination of means to provide benefits; limitation on
+entitlement to benefits.</heading>
+          <subsection eId="686C-221__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board of Directors of the
+Association may exercise reasonable business judgment to determine the means by
+which the Association is to provide the benefits of this chapter in an
+economical and efficient manner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-221__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Where the Association has arranged or
+offered to provide the benefits of this chapter to a covered person under a
+plan or arrangement that satisfies the obligations of the Association under
+this chapter, the covered person is not entitled to benefits from the
+Association in addition to or other than those provided under the plan or
+arrangement.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1029)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-222">
+          <num>686C.222</num>
+          <heading>Requests for information from member insurers.</heading>
+          <content>
+            <p>The Association may request information from
+member insurers to aid in the exercise of its powers under this chapter, and
+each member shall promptly comply with such a request.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1030)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-223">
+          <num>686C.223</num>
+          <heading>Election to succeed to rights and obligations of member insurer;
+transfer of obligations to another insurer.</heading>
+          <subsection eId="686C-223__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>As used in this section, ï¿½coverage
+dateï¿½ means the date on which the Association becomes liable for the
+obligations of a member insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-223__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>At any time after the coverage date,
+the Association may elect to succeed to the rights and obligations of the
+member insurer which accrue on or after the coverage date and relate to
+policies or contracts covered, in whole or in part, by the Association under
+any one or more agreements for indemnity reinsurance entered into by the member
+insurer as ceding insurer and selected by the Association. However, the
+Association may not exercise its right of election with respect to an agreement
+for reinsurance if the receiver, rehabilitator or liquidator of the member
+insurer has previously expressly disaffirmed the agreement. The election must
+be effected by a notice to the receiver, rehabilitator or liquidator and the
+affected reinsurers. If the Association makes such an election:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-223__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Association is responsible for all unpaid
+premiums due under each agreement for periods both before and after the
+coverage date, and for the performance of all other obligations to be performed
+after the coverage date, in each case which relates to a policy or contract
+covered in whole or in part by the Association. The Association may charge a
+policy or contract covered in part by it, through reasonable methods of
+allocation, for the costs of reinsurance in excess of the obligations of the
+Association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-223__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Association is entitled to any amount
+payable by the reinsurer under each agreement with respect to losses or events
+that occur in periods after the coverage date and relate to policies or
+contracts covered in whole or in part by the Association, but upon receipt of
+any such amount, the Association is obligated to pay, to the beneficiary under
+the policy or contract on account of which the amount was paid, that portion of
+the amount received by the Association that exceeds the benefits paid by the Association
+on account of the policy or contract less the retention by the impaired or
+insolvent insurer applicable to the loss or event.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-223__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Association and each reinsurer shall,
+within 30 days after the election, calculate the net balance due to or from the
+Association under each agreement as of the date of the election, giving full
+credit for all items paid by the member insurer or its receiver, rehabilitator
+or liquidator, or the reinsurer, between the coverage date and the date of the
+election. The Association or the reinsurer shall pay the net balance within 5
+days after the completion of the calculation. If a receiver, rehabilitator or
+liquidator has received any amount due the Association pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-223__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>, the recipient shall remit the amount to the Association as promptly as
+practicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-223__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The reinsurer may not terminate an agreement
+for reinsurance insofar as it relates to policies or contracts covered by the
+Association in whole or in part, or set off any unpaid premium due for a period
+before the coverage date against the amount due the Association, if the
+Association, within 60 days after the election, pays the premiums due for
+periods both before and after the coverage date which relate to such policies
+or contracts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-223__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the Association transfers its
+obligation to another insurer, and the Association and the other insurer so
+agree, the other insurer succeeds to the rights and obligations of the
+Association under subsection 2 effective as of the agreed date, whether or not
+the Association has made the election described in subsection 2, except that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-223__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An agreement for indemnity reinsurance
+automatically terminates as to new reinsurance unless the reinsurer and the
+other insurer agree to the contrary;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-223__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The obligation of the Association to the
+beneficiary under paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-223__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of subsection 2 ceases on the date of the
+transfer to the other insurer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-223__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>This subsection does not apply if the
+Association has previously expressly determined in writing that it will not
+exercise its right of election under subsection 2.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-223__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The provisions of this section
+supersede an affected agreement for reinsurance which provides for or requires
+payment of proceeds of reinsurance, on account of a loss or event that occurs
+after the coverage date, to the receiver, rehabilitator or liquidator of the
+insolvent insurer. The receiver, rehabilitator or liquidator remains entitled
+to any amounts payable by the reinsurer under the agreement with respect to
+losses or events that occur before the coverage date, subject to any applicable
+setoff.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-223__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Except as otherwise expressly provided,
+this section does not alter or modify the terms or conditions of any agreement
+of the insolvent insurer for reinsurance, abrogate or limit any right of a
+reinsurer to rescind an agreement for reinsurance, or give an owner or
+beneficiary of a policy or contract an independent cause of action against a
+reinsurer under an agreement for indemnity reinsurance that is not otherwise
+set forth in the agreement.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1027; A2019,
+1095)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-224">
+          <num>686C.224</num>
+          <heading>Assumption of reinsurance contracts: Authority; duties and
+responsibilities of ceding member insurers and Association.</heading>
+          <subsection eId="686C-224__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>At any time within 180 days after the
+date of an order of liquidation, the Association may elect to succeed to the
+rights and obligations of the ceding member insurer that relate to policies or
+contracts covered, in whole or in part, by the Association, in each case under
+any one or more reinsurance contracts entered into by the insolvent insurer and
+its reinsurers and selected by the Association. Any such assumption must be
+effective on the date of the order of liquidation. The election must be carried
+out by the Association sending written notice, return receipt requested, to the
+affected reinsurers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-224__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>To facilitate the earliest practicable
+decision about whether to assume any of the contracts of reinsurance, and to
+protect the financial position of the estate, the receiver and each reinsurer
+of the ceding member insurer shall make available upon request to the
+Association as soon as possible after commencement of formal delinquency
+proceedings:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-224__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Copies of in-force contracts of reinsurance
+and all related files and records relevant to the determination of whether such
+contracts should be assumed; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-224__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notices of any defaults under the reinsurance
+contracts or any known event or condition which with the passage of time could
+become a default under the reinsurance contracts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-224__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The following apply to reinsurance
+contracts assumed by the Association:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-224__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Association is responsible for all unpaid
+premiums due pursuant to the reinsurance contracts for periods both before and
+after the date of the order of liquidation, and is responsible for the
+performance of all other obligations to be performed after the date of the
+order of liquidation, in each case which relates to policies or contracts
+covered, in whole or in part, by the Association. The Association may charge
+policies or contracts covered in part by the Association, through reasonable allocation
+methods, the costs for reinsurance in excess of the obligations of the
+Association and shall provide notice and an accounting of these changes to the
+liquidator.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-224__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Association may be entitled to any
+amounts payable by the reinsurer pursuant to the reinsurance contracts with
+respect to losses or events that occur in periods after the date of the order
+of liquidation and which relate to policies or contracts covered, in whole or
+in part, by the Association, provided that, upon receipt of any such amounts,
+the Association is obligated to pay to the beneficiary, under the policy or
+contract on account of which the amounts were paid, a portion of the amount
+equal to the lesser of:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="686C-224__subsec_3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The amount received by the
+Association; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-224__subsec_3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The excess of the amount received by
+the Association over the amount equal to the benefits paid by the Association
+on account of the policy or contract, less the retention of the member insurer
+applicable to the loss or event.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="686C-224__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Within 30 days after the Associationï¿½s
+election, the Association and each reinsurer under the contracts assumed by the
+Association shall calculate the net balance due to or from the Association
+pursuant to each reinsurance contract on the election date with respect to
+policies or contracts covered, in whole or in part, by the Association, which
+calculation must give full credit to all items paid by either the member
+insurer or its receiver or the reinsurer before the election date. The
+reinsurer shall pay the receiver any amounts due for losses or events before
+the date of the order of liquidation, subject to any set-off for premiums
+unpaid for periods before the date, and the Association or reinsurer shall pay
+any remaining balance due to the other, in each case within 5 days after the
+completion of the aforementioned calculation. Any disputes over the amounts due
+to either the Association or the reinsurer must be resolved by arbitration
+pursuant to the terms of the affected reinsurance contracts or, if the
+contracts contain no arbitration clause, as otherwise prescribed by law. If the
+receiver has received any amounts due to the Association under paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-224__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>,
+the receiver shall remit the same to the Association as promptly as
+practicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-224__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the Association or receiver, on the
+Associationï¿½s behalf, within 60 days after the election date, pays the unpaid
+premiums due for periods both before and after the election date that relate to
+policies or contracts covered, in whole or in part, by the Association, the
+reinsurer is not entitled to terminate the reinsurance contracts for failure to
+pay premiums insofar as the reinsurance contracts relate to policies or
+contracts covered, in whole or in part, by the Association, and is not entitled
+to set off any unpaid amounts due pursuant to the other contracts, or unpaid
+amounts due from parties other than the Association, against amounts due to the
+Association.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+3471; A2019,
+1097)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-2241">
+          <num>686C.2241</num>
+          <heading>Assumption of reinsurance contracts: Suspension of rights and obligations
+for period after order of liquidation.</heading>
+          <subsection eId="686C-2241__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>During the period after the date of an
+order of liquidation until the election date, or, if the election date does not
+occur, until 180 days after the date of the order of liquidation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-2241__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Neither the Association nor the reinsurer
+shall have any rights or obligations under reinsurance contracts that the
+Association has the right to assume underNRS
+686C.224, whether for periods before or after the date of the order of
+liquidation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-2241__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The reinsurer, the receiver and the
+Association shall, to the extent practicable, provide each other data and
+records as reasonably requested.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-2241__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Once the Association has elected to
+assume a reinsurance contract, the partiesï¿½ rights and obligations are governed
+by the provisions ofNRS 686C.224.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+3473)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-2243">
+          <num>686C.2243</num>
+          <heading>Assumption of reinsurance contracts: Contracts not assumed by
+Association.</heading>
+          <content>
+            <p>If the Association
+does not elect to assume a reinsurance contract by the election date underNRS 686C.224, the Association has no
+rights or obligations, in each case for periods both before and after the date
+of the order of liquidation, with respect to the reinsurance contract.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+3473)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-2245">
+          <num>686C.2245</num>
+          <heading>Assumption of reinsurance contracts: Transfer of contracts by
+Association.</heading>
+          <subsection eId="686C-2245__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Unless the reinsurer and the assuming
+insurer agree otherwise, the reinsurance contract transferred must not cover
+any new policies or contracts in addition to those transferred.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-2245__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The obligations described inNRS 686C.224no longer apply with respect
+to matters arising after the effective date of the transfer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-2245__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Notice must be given in writing, return
+receipt requested, by the transferring party to the affected reinsurer not less
+than 30 days before the effective date of the transfer.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+3473; A2019,
+1098)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-2247">
+          <num>686C.2247</num>
+          <heading>Assumption of reinsurance contracts: Applicability of other
+provisions.</heading>
+          <content>
+            <p>The provisions ofNRS 686C.224to686C.2249, inclusive, supersede the
+provisions of any state law or of any affected reinsurance contract that
+provides for or requires any payment of reinsurance proceeds, on account of
+losses or events that occur in periods after the date of an order of
+liquidation, to the receiver of the insolvent insurer or any other person. The
+receiver shall remain entitled to any amounts payable by the reinsurer pursuant
+to the reinsurance contracts with respect to losses or events that occur in
+periods before the date of the order of liquidation, subject to applicable
+set-off provisions.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+3473)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-2249">
+          <num>686C.2249</num>
+          <heading>Assumption of reinsurance contracts: Terms and conditions of
+contract not affected; exceptions.</heading>
+          <subsection eId="686C-2249__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 686C.130to686C.226, inclusive, nothing inNRS 686C.224to686C.2249, inclusive, shall alter or
+modify the terms and conditions of any reinsurance contract.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-2249__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Nothing in this section shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-2249__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Abrogate or limit any rights of any reinsurer
+to claim that it is entitled to rescind a reinsurance contract;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-2249__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Give a policy or contract owner, certificate
+holder, enrollee or beneficiary an independent cause of action against a
+reinsurer that is not otherwise set forth in the reinsurance contract;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-2249__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Limit or affect the Associationï¿½s rights as a
+creditor of the estate against the assets of the estate; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-2249__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Apply to reinsurance agreements covering
+property or casualty risks.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2015,
+3474; A2019,
+1099)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-225">
+          <num>686C.225</num>
+          <heading>Termination of obligations: Replacement of coverage under policy
+or contract.</heading>
+          <content>
+            <p>The Associationï¿½s
+obligations with respect to coverage under any policy or contract of the
+impaired or insolvent insurer or under any reissued or alternative policy or
+contract ceases on the date the policy or contract is replaced by another
+similar policy or contract by the policy or contract owner, certificate holder
+or enrollee or the Association.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+866; A2019,
+1099)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-226">
+          <num>686C.226</num>
+          <heading>Termination of obligations: Failure to pay premiums.</heading>
+          <content>
+            <p>Failure to pay premiums within 31 days after
+the date required pursuant to the terms of any guaranteed, assumed, alternative
+or reissued policy or contract or substitute coverage terminates the
+Associationï¿½s obligations under the policy, contract or coverage, except with
+respect to any claims incurred or any net cash surrender value which may be due
+in accordance with the provisions of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+866)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-230">
+          <num>686C.230</num>
+          <heading>Imposition; classes.</heading>
+          <subsection eId="686C-230__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>To provide the money necessary to carry
+out the powers and duties of the Association, the Board of Directors shall
+assess the member insurers, separately for each account, at such times and for
+such amounts as the Board finds necessary. An assessment is due upon at least
+30 daysï¿½ written notice to the member insurer and accrues interest after it is
+due at the rate provided inNRS 99.040.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-230__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>There are two classes of assessments,
+as follows:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-230__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Assessments in Class A must be authorized and
+called for the purpose of meeting administrative and legal costs and other
+expenses. An assessment in Class A need not be related to a particular impaired
+or insolvent insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-230__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Assessments in Class B must be authorized and
+called to the extent necessary to carry out the powers and duties of the
+Association underNRS 686C.150to686C.220, inclusive, with regard to an
+impaired or insolvent insurer.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+306; A1991,
+875;2001,
+1041)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-240">
+          <num>686C.240</num>
+          <heading>Computation; necessity; notification.</heading>
+          <subsection eId="686C-240__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board of Directors of the
+Association shall determine the amount of each assessment in Class A and may,
+but need not, prorate it. If an assessment is prorated, the Board may provide
+that any surplus be credited against future assessments in Class B. An
+assessment which is not prorated must not exceed $500 for each member insurer
+for any 1 calendar year.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-240__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board may determine the amount of
+each assessment in Class B for long-term care insurance written by an impaired
+or insolvent insurer according to a methodology included in the plan of
+operation established and approved pursuant toNRS 686C.290. The methodology must
+provide for the imposition of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-240__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>One-half of the assessment on member insurers
+that primarily provide accident and health insurance; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-240__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>One-half of the assessment on member insurers
+that primarily provide life insurance and annuities.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-240__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 5, the Board may allocate any assessment in Class B among the
+accounts and among the subaccounts of the Life and Annuity Account according to
+a formula based on the premiums or reserves of the impaired or insolvent
+insurer or any other standard which the Board, in its sole discretion,
+considers fair and reasonable under the circumstances.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-240__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 5, assessments in Class B against member insurers for each account
+and subaccount must be in the proportion that the premiums received on business
+in this State by each assessed member insurer on policies or contracts covered
+by each account or subaccount for the 3 most recent calendar years for which information
+is available preceding the year in which the insurer became impaired or
+insolvent bears to premiums received on business in this State for those
+calendar years by all assessed member insurers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-240__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Board shall allocate to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-240__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Life and Annuity Account the percentage
+of an assessment in Class B for long-term care insurance written by an impaired
+or insolvent insurer that is equal to the quotient of:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="686C-240__subsec_5__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The difference between 0.5 and the
+percentage of the Health Account that was contributed by member insurers that
+primarily provide life insurance and annuities; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-240__subsec_5__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The difference between the percentage
+of the Life and Annuity Account that was contributed by member insurers that
+primarily provide life insurance and annuities and the percentage of the Health
+Account that was contributed by such member insurers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="686C-240__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Health Account the remainder of an
+assessment in Class B for long-term care insurance written by an impaired or
+insolvent insurer that is not allocated to the Life and Annuity Account
+pursuant to paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-240__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-240__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Assessments for money to meet the
+requirements of the Association with respect to an impaired or insolvent
+insurer must not be authorized or called until necessary to carry out the
+purposes of this chapter. Classification of assessments under subsection 2 ofNRS 686C.230and computation of
+assessments under this section must be made with a reasonable degree of
+accuracy, recognizing that exact determinations may not always be possible. The
+Association shall notify each member insurer of its anticipated prorated share
+of an assessment authorized but not yet called within 180 days after it is
+authorized.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-240__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>For the purposes of this section, a member
+insurer shall be deemed to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-240__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Primarily provide life insurance and
+annuities if the sum of the accessible in-state life insurance premiums and
+annuity premiums of the member insurer is equal to or greater than the
+accessible in-state health insurance premiums of the member insurer. For the
+purposes of this paragraph, health insurance premiums:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="686C-240__subsec_7__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Include, without limitation, premiums
+for health maintenance organization coverage; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="686C-240__subsec_7__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Do not include premiums for disability
+income and long-term care insurance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="686C-240__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Primarily provide health insurance if the
+member insurer is not a member insurer described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-240__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+307; A1979,
+767;1981,
+579;1991,
+875;1995,
+1070;2001,
+1041;2007,
+3322;2015,
+3475;2019,
+1099)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-250">
+          <num>686C.250</num>
+          <heading>Abatement or deferment; maximum amount; effect of insufficiency;
+allocation of funds among claims.</heading>
+          <subsection eId="686C-250__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Association may abate or defer, in
+whole or in part, the assessment of a member insurer if, in the opinion of the
+Board of Directors, payment of the assessment would endanger the ability of the
+member insurer to fulfill its contractual obligations. If an assessment against
+a member insurer is abated or deferred in whole or in part, the amount by which
+that assessment is abated or deferred may be assessed against the other member
+insurers in a manner consistent with the basis for assessments set forth in
+this section. As soon as the conditions that caused a deferral have been
+removed or rectified, the member insurer shall pay all assessments that were
+deferred pursuant to a plan of repayment approved by the Association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-250__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3, the total of all assessments authorized by the Association with
+respect to a member insurer for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-250__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Life and Annuity Account and each of its
+subaccounts; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-250__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Health Account,
+ï¿½respectively
+must not in any 1 calendar year exceed 2 percent of the member insurerï¿½s
+average annual premiums received in this state on the policies and contracts
+covered by the subaccount or account during the 3 calendar years preceding the
+year in which the member insurer became impaired or insolvent.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-250__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If two or more assessments are
+authorized in 1 calendar year with respect to member insurers that became
+impaired or insolvent in different calendar years, the average annual premiums
+received for the purposes of the limitation provided in subsection 2 are equal
+and limited to the higher of the 3-year annual premiums for the applicable
+account or subaccount as calculated pursuant to this section.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-250__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the maximum assessment, together
+with the other assets of the Association in an account, does not provide in any
+1 year in either account an amount sufficient to carry out the responsibilities
+of the Association, the necessary additional money must be assessed as soon
+thereafter as permitted by this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-250__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If the maximum assessment for a
+subaccount of the Life and Annuity Account in any 1 year does not provide an
+amount sufficient to carry out the responsibilities of the Association, then
+pursuant to subsection 4 ofNRS 686C.240,
+the Board shall assess the other subaccount for the necessary additional
+amount, subject to the maximum stated in subsection 2.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-250__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Board may provide in the plan of
+operation a method of allocating funds among claims, whether relating to one or
+more impaired or insolvent insurers, when the maximum assessment is
+insufficient to cover anticipated claims.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+307; A1991,
+876;2001,
+1042;2019,
+1100)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-260">
+          <num>686C.260</num>
+          <heading>Refund to member insurers.</heading>
+          <content>
+            <p>The
+Board of Directors may, by an equitable method as established in the plan of
+operation, refund to member insurers, in proportion to the contribution of each
+member insurer to that account, the amount by which the assets of the account
+exceed the amount the Board finds is necessary to carry out during the coming
+year the obligations of the Association with regard to that account, including
+assets accruing from assignment, subrogation, net realized gains and income
+from investments. A reasonable amount may be retained in any account to provide
+funds for the continuing expenses of the Association and for future claims.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+307; A1991,
+877;2001,
+1043;2019,
+1101)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-270">
+          <num>686C.270</num>
+          <heading>Rates and dividends may reflect assessments.</heading>
+          <content>
+            <p>It is proper for any member insurer, in
+determining its rates of premium and dividends to owners of policies or
+contracts as to any kind of insurance or coverage offered by a health
+maintenance organization within the scope of this chapter, to consider the
+amount reasonably necessary to meet its obligations for assessment under this
+chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+308; A1991,
+877;2019,
+1101)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-280">
+          <num>686C.280</num>
+          <heading>Issuance, effect and use of certificate of contribution; offset
+against liability for premium tax; recoupment of assessments; payment and
+deposit of refund.</heading>
+          <subsection eId="686C-280__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Association shall issue to each
+member insurer paying an assessment under this chapter, other than an
+assessment in Class A, a certificate of contribution, in a form prescribed by
+the Commissioner, for the amount of the assessment so paid. All outstanding
+certificates are of equal dignity and priority without reference to amounts or
+dates of issue. A member insurer may show a certificate of contribution as an
+asset in its financial statement in such form, for such amount, if any, and for
+such period as the Commissioner may approve.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-280__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A member insurer may offset against its
+liability for premium tax to this state, accrued with respect to business
+transacted in a calendar year, an amount equal to 20 percent of the amount
+certified pursuant to subsection 1 in each of the 5 calendar years following
+the year in which the assessment was paid. If a member insurer ceases to
+transact business, it may offset all uncredited assessments against its
+liability for premium tax for the year in which it so ceases.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-280__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A member insurer that is exempt from
+its liability for premium tax described in subsection 2 may recoup its
+assessments under this chapter by imposing a surcharge on its premiums in an
+amount approved by the Commissioner. The Commissioner shall approve such a
+surcharge upon determining that the amount of the surcharge is reasonably
+calculated to recoup the assessments over a reasonable period of time. Any
+amount recouped under this subsection shall not be deemed to constitute a
+premium for any purpose relating to this Code.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-280__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a member insurer recoups a larger
+amount through a surcharge imposed pursuant to subsection 3 than it paid in
+assessments over a period of time prescribed in the plan of operation
+established and approved pursuant toNRS
+686C.290, the member insurer shall remit the excess amount to the
+Association. The Association shall apply such excess amounts to reduce future
+assessments in the appropriate account in accordance with the plan of
+operation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-280__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Any sum acquired by refund from the
+Association pursuant toNRS 686C.260which previously had been written off by the contributing member insurer and
+offset against premium taxes as provided in subsection 2 must be paid to the
+Department of Taxation and deposited by it with the State Treasurer for credit
+to the State General Fund. The Association shall notify the Commissioner and
+the Department of Taxation of each refund made.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+308; A1991,
+877;1995,
+1103;2001,
+1043;2019,
+1102)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-285">
+          <num>686C.285</num>
+          <heading>Protest by member insurer: Procedure.</heading>
+          <subsection eId="686C-285__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A member insurer that wishes to protest
+all or part of an assessment shall pay the full amount of the assessment when
+due, as set forth in the notice from the Association. The payment may be used
+to meet obligations of the Association during the pendency of the assessment
+and any subsequent appeal. Payment must be accompanied by a statement in
+writing that the payment is made under protest and setting forth briefly the
+grounds for the protest.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-285__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Within 60 days after the payment of an
+assessment under protest, the Association shall notify the member insurer in
+writing of the determination of the Association with respect to the protest,
+unless the Association notifies the member insurer that additional time is
+required to resolve the issues raised by the protest.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-285__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Within 30 days after a final decision
+is made, the Association shall notify the protesting member insurer in writing
+of the final decision. Within 60 days after receipt of that notice, the
+protesting member insurer may appeal the decision to the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-285__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As an alternative to making a final
+decision with respect to a protest concerning the basis of assessment, the
+Association may refer the protest to the Commissioner for a final decision,
+with or without a recommendation from the Association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-285__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If a protest or appeal is upheld, the
+amount paid in error or excess must be returned to the member insurer. Interest
+must be paid on the refund at the rate actually earned by the Association.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1029)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-290">
+          <num>686C.290</num>
+          <heading>Plan of operation: Submission; amendments; approval by
+Commissioner; compliance; contents; delegation of duties or powers.</heading>
+          <subsection eId="686C-290__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Association shall submit to the
+Commissioner a plan of operation and any amendments thereto necessary or
+suitable to ensure the fair, reasonable and equitable administration of the
+Association. The plan of operation and any amendments thereto become effective
+upon approval in writing by the Commissioner, or 30 days after submission if
+the Commissioner has not disapproved them. All member insurers shall comply
+with the plan of operation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-290__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If at any time the Association fails to
+submit suitable amendments to the plan, the Commissioner shall adopt, after
+notice and hearing, such reasonable regulations as are necessary or advisable
+to effectuate the provisions of this chapter. The regulations continue in force
+until modified by the Commissioner or superseded by a plan submitted by the
+Association and approved by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-290__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>In addition to satisfying the other
+requirements of this chapter, the plan of operation must:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-290__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Establish procedures for handling the assets
+of the Association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-290__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Establish the amount and method of
+reimbursing members of the Board of Directors underNRS 686C.140.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-290__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Establish regular places and times for
+meetings of the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-290__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Establish procedures for records to be kept
+of all financial transactions of the Association, its agents and the Board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-290__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Establish the procedures whereby selections
+for the Board will be made and submitted to the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-290__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Establish the methodology required by
+subsection 2 ofNRS 686C.240and any
+additional procedures for assessments underNRS
+686C.230to686C.270, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-290__subsec_3__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Establish the period of time over which a
+member insurer must determine whether the member insurer has recouped an excess
+amount pursuant to subsection 4 ofNRS
+686C.280, the manner in which the member insurer must remit any excess
+amount to the Association and the manner in which the Association must apply
+any such excess amount to reduce future assessments.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-290__subsec_3__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Contain additional provisions necessary or
+proper for the execution of the powers and duties of the Association.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-290__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The plan of operation may provide that
+any or all powers and duties of the Association, except those under subsection
+3 ofNRS 686C.220andNRS 686C.230to686C.285, inclusive, are delegated to a
+corporation, Association or other organization which performs or will perform
+functions similar to those of this Association, or its equivalent, in two or
+more states. Such an organization must be reimbursed for any payments made on
+behalf of the Association and paid for its performance of any function of the
+Association. A delegation under this subsection takes effect only with the
+approval of the Board of Directors and the Commissioner, and may be made only
+to an organization that extends protection not substantially less favorable and
+effective than that provided by this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+308; A1981,
+105;1991,
+878;2001,
+1043;2019,
+1102)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-300">
+          <num>686C.300</num>
+          <heading>Additional powers and duties of Commissioner; suspension or
+revocation of certificate of authority or levy of forfeiture; appeals to
+Commissioner; judicial review; notification of effect of chapter.</heading>
+          <subsection eId="686C-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to the duties and powers
+otherwise provided in this chapter, the Commissioner:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-300__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Shall, upon request of the Board of
+Directors, provide the Association with a statement of the premiums in this and
+any other appropriate states for each member insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-300__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Shall, when an impairment is declared and the
+amount of the impairment is determined, serve a demand upon the impaired
+insurer to make good the impairment within a reasonable time. Notice to the
+insurer is notice to its stockholders, if any. The failure of the insurer to
+comply with such demand promptly does not excuse the Association from the
+performance of its powers and duties under this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-300__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Must, in any liquidation or rehabilitation
+involving a domestic member insurer, be appointed as the liquidator or
+rehabilitator.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner may suspend or revoke,
+after notice and hearing, the certificate of authority to transact insurance or
+operate a health maintenance organization in this state, as applicable, of any
+member insurer which fails to pay an assessment when due or fails to comply
+with the plan of operation. As an alternative, the Commissioner may levy a forfeiture
+on any member insurer which fails to pay an assessment when due. The forfeiture
+may not exceed 5 percent of the unpaid assessment per month, but no forfeiture
+may be less than $100 per month.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-300__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A final action of the Board of
+Directors or the Association may be appealed to the Commissioner by any member
+insurer if the appeal is taken within 60 days after the insurer receives notice
+of the final action. A final action or order of the Commissioner is subject to
+judicial review in a court of competent jurisdiction pursuant to the procedure
+provided inchapter 233Bof NRS for
+contested cases.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-300__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The liquidator, rehabilitator or
+conservator of any impaired insurer may notify all interested persons of the
+effect of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+309; A1991,
+879;2001,
+1044;2019,
+1103)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-303">
+          <num>686C.303</num>
+          <heading>Action by Commissioner upon failure to act by Association.</heading>
+          <content>
+            <p>If the Association fails to act within a
+reasonable time with respect to an insolvent insurer, as provided inNRS 686C.150to686C.155, inclusive, the Commissioner may
+exercise the powers and perform the duties of the Association under this
+chapter with respect to the insolvent insurer.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+867; A2001,
+1045)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-306">
+          <num>686C.306</num>
+          <heading>Notice to other insurance commissioners of certain actions by
+Commissioner; reports by Commissioner of certain information to Board of
+Directors.</heading>
+          <subsection eId="686C-306__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner shall notify the
+commissioners of insurance of all the other states within 30 days after the
+Commissioner takes any of the following actions against a member insurer:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="686C-306__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Revokes a member insurerï¿½s license;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-306__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Suspends a member insurerï¿½s license; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="686C-306__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Makes any formal order that a member insurer
+is to restrict its premium writing, obtain additional contributions to surplus,
+withdraw from the state, reinsure all or any part of its business, or increase
+capital, surplus, or any other account for the security of the owners of its
+policies or contracts or its creditors.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="686C-306__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall report to the
+Board of Directors when the Commissioner has taken any of the actions set forth
+in subsection 1, or has received a report from any other commissioner
+indicating that any such action has been taken in another state. The report to
+the Board must contain all significant details of the action taken or the
+report received from another commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-306__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner shall report to the
+Board of Directors when the Commissioner has reasonable cause to believe from
+an examination of a member insurer, whether completed or in process, that the
+insurer may be impaired or insolvent.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-306__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Commissioner shall furnish to the
+Board the ratios of the ï¿½Insurance Regulatory Information Systemï¿½ developed by
+the National Association of Insurance Commissioners and listings of companies
+not included in those ratios, and the Board may use the information contained
+therein in carrying out its duties and responsibilities under this chapter.
+Such reports and the information contained therein must be kept confidential by
+the Board until such time as made public by the Commissioner or other lawful
+authority.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+867; A2001,
+1045;2019,
+1104)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-310">
+          <num>686C.310</num>
+          <heading>Provision of information and advice by Board of Directors
+relating to financial condition of insurers.</heading>
+          <subsection eId="686C-310__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Board of Directors may, upon
+majority vote, notify the Commissioner of any information indicating any member
+insurer may be impaired or insolvent.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-310__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Board may, upon majority vote, make
+reports and recommendations to the Commissioner upon any matter germane to the
+solvency, liquidation, rehabilitation or conservation of any member insurer or
+germane to the solvency of any person seeking admission to transact insurance
+or operate a health maintenance organization in this state. These reports and
+recommendations are not open to public inspection.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-310__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner may seek the advice
+and recommendations of the Board concerning any matter affecting the duties and
+responsibilities of the Commissioner regarding the financial condition of
+member insurers and of persons seeking admission to transact insurance or
+operate a health maintenance organization in this state.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-310__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Board may, upon majority vote, make
+recommendations to the Commissioner for the detection and prevention of the
+insolvency of member insurers.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+310; A1991,
+880;2001,
+1046;2019,
+1104)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-330">
+          <num>686C.330</num>
+          <heading>Impaired or insolvent insurers: Liability for unpaid assessments
+of insureds; maintenance and disclosure of records of Association; status of
+Association as creditor; distribution of ownership by court.</heading>
+          <subsection eId="686C-330__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>This chapter does not reduce the
+liability for unpaid assessments of the insureds of an impaired insurer
+operating under a plan with liability for assessments.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-330__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Records must be kept of all meetings of
+the Board of Directors to discuss the activities of the Association in carrying
+out its powers and duties underNRS
+686C.150to686C.220, inclusive.
+The records of the Association with respect to an impaired or insolvent insurer
+may not be disclosed before the termination of a proceeding for liquidation,
+rehabilitation or conservation involving the impaired or insolvent insurer or
+the termination of the impairment or insolvency of the insurer, except upon the
+order of a court of competent jurisdiction. This subsection does not limit the
+duty of the Association to render a report of its activities underNRS 686C.350.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-330__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>For the purpose of carrying out its
+obligations under this chapter, the Association shall be deemed to be a
+creditor of the impaired or insolvent insurer to the extent of assets
+attributable to covered policies reduced by any amounts to which the
+Association is entitled as subrogee pursuant toNRS 686C.200. Assets of the impaired or
+insolvent insurer attributable to covered policies or contracts must be used to
+continue all covered policies and contracts and pay all contractual obligations
+of the impaired or insolvent insurer as required by this chapter. Assets
+attributable to covered policies or contracts, as used in this subsection, are
+that proportion of the assets which the reserves that should have been
+established for covered policies or contracts bear to the reserves that should
+have been established for all policies or contracts written by the impaired or
+insolvent insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-330__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>As a creditor of the impaired or
+insolvent insurer under subsection 3 and consistent withNRS 696B.415, the Association and other
+similar associations are entitled to receive a disbursement out of the
+marshaled assets, from time to time as the assets become available to reimburse
+it, as a credit against contractual obligations under this chapter. If the
+liquidator has not, within 120 days after a final determination of insolvency
+of a member insurer by the court in the insolvent or impaired insurerï¿½s state
+which has jurisdiction over the conservation, rehabilitation or liquidation of
+the member insurer, made an application to the court for the approval of a
+proposal to disburse assets out of marshaled assets to guaranty associations
+having obligations because of the insolvency, the Association is entitled to
+make application to the court for approval of its own proposal to disburse
+those assets.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-330__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Before the termination of any
+proceeding for liquidation, rehabilitation or conservation, the court may take
+into consideration the contributions of the respective parties, including the
+Association, the shareholders, policy or contract owners, certificate holders
+and enrollees of the impaired or insolvent insurer, and any other party with a
+bona fide interest, in making an equitable distribution of the ownership of the
+impaired or insolvent insurer. In making such a determination, consideration
+must be given to the welfare of the policy or contract owners, certificate
+holders and enrollees of the continuing or successor insurer. No distribution
+to stockholders, if any, of an impaired or insolvent insurer may be made until
+the total amount of valid claims of the Association, with interest thereon, for
+money expended in exercising its powers and performing its duties underNRS 686C.150to686C.155, inclusive, with respect to that
+insurer have been fully recovered by the Association.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+310; A1991,
+881;2001,
+1047;2019,
+1105)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-333">
+          <num>686C.333</num>
+          <heading>Recovery of distributions made before petition for liquidation
+or rehabilitation of insurer.</heading>
+          <subsection eId="686C-333__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If an order for liquidation or
+rehabilitation of a member insurer domiciled in this state has been entered,
+the receiver appointed under such order is entitled to recover on behalf of the
+member insurer, from any affiliate that controlled it, the amount of
+distributions, other than stock dividends paid by the member insurer on its
+capital stock, made at any time during the 5 years preceding the petition for
+liquidation or rehabilitation, subject to the limitations of subsections 2, 3
+and 4.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-333__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>No distribution is recoverable if the
+member insurer shows that when paid the distribution was lawful and reasonable,
+and that the member insurer did not know and could not reasonably have known
+that the distribution might adversely affect the ability of the member insurer
+to fulfill its contractual obligations.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-333__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any person who was an affiliate that
+controlled the member insurer at the time the distributions were paid is liable
+up to the amount of distributions the person received. Any person who was an
+affiliate that controlled the member insurer at the time the distributions were
+declared, is liable up to the amount of distributions the person would have
+received if they had been paid immediately. If two or more persons are liable
+with respect to the same distributions, they are jointly and severally liable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-333__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The maximum amount recoverable pursuant
+to this subsection is the amount needed in excess of all other available assets
+of the impaired or insolvent insurer to pay the contractual obligations of the
+impaired or insolvent insurer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="686C-333__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If any person liable under subsection 3
+is insolvent, all its affiliates that controlled it at the time the dividend
+was paid are jointly and severally liable for any resulting deficiency in the
+amount recovered from the insolvent affiliate.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+868; A2019,
+1106)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-340">
+          <num>686C.340</num>
+          <heading>Impaired or insolvent insurers: Stay of proceedings; reopening
+of default judgments.</heading>
+          <content>
+            <p>All
+proceedings in which the impaired or insolvent insurer is a party in any court
+in this state must be stayed for 60 days from the date an order of liquidation,
+rehabilitation or conservation is final to permit proper legal action by the
+Association on any matters germane to its powers or duties. If a judgment has
+been entered under any decision, order, verdict or finding based on default,
+the Association may apply to have the judgment set aside by the same court that
+entered the judgment and is entitled to defend against the suit on the merits.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+312; A1991,
+882)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-350">
+          <num>686C.350</num>
+          <heading>Examination and regulation of Association by Commissioner;
+annual financial report.</heading>
+          <content>
+            <p>The
+Association is subject to examination and regulation by the Commissioner. The
+Board of Directors shall submit to the Commissioner, not later than 120 days
+after the end of its fiscal year, a financial report in a form approved by the Commissioner
+and a report of its activities during the preceding fiscal year. Upon the
+request of a member insurer, the Association shall provide the insurer with a
+copy of the report.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+312; A1991,
+882;2001,
+1048)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-360">
+          <num>686C.360</num>
+          <heading>Exemption of Association from payment of fees and taxes;
+exceptions.</heading>
+          <content>
+            <p>The Association is
+exempt from payment of all fees and all taxes levied by this state or any of
+its political subdivisions, except taxes on property and the commerce tax
+imposed pursuant tochapter 363Cof NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+312; A2015,
+2950)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-370">
+          <num>686C.370</num>
+          <heading>Immunity from liability.</heading>
+          <content>
+            <p>There
+is no liability on the part of and no cause of action of any nature arises
+against any member insurer or its agents or employees, the Association or its
+agents or employees, members of the Board or the Commissioner or the
+representatives of the Commissioner for any act or omission by them in the
+performance of their powers and duties under this chapter. This immunity
+extends to participation in any organization of other state associations whose
+purposes are similar, and to any such organization and its agents or employees.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+312; A1991,
+882)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-380">
+          <num>686C.380</num>
+          <heading>Actions arising under chapter: Venue; appeal bond not required
+of Association.</heading>
+          <content>
+            <p>Venue in an action
+against the Association arising under this chapter lies in Washoe County. No
+appeal bond may be required of the Association in an appeal that relates to a
+cause of action arising under this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1029)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_686C-390">
+          <num>686C.390</num>
+          <heading>Unlawful advertisement using existence of Association for sale,
+solicitation or inducement to purchase; exception.</heading>
+          <content>
+            <p>It
+is unlawful for a member insurer, agent or affiliate of a member insurer, or
+other person to make, publish, circulate or place before the public, or cause
+any other person to do so, in any publication, notice, circular, letter or
+poster, or over any radio or television station, any advertisement or
+statement, written or oral, which uses the existence of the Association for the
+sale, solicitation or inducement to purchase any form of insurance or coverage
+offered by a health maintenance organization that is covered by the
+Association. This section does not apply to the Association or any other person
+that does not sell or solicit insurance or coverage offered by a health
+maintenance organization.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2001,
+1030; A2019,
+1106)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

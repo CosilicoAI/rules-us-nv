@@ -1,0 +1,2210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-371"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-371"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="371"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-371/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-371/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-371/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-371/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_371">
+        <num>371</num>
+        <heading>GOVERNMENTAL SERVICES TAX</heading>
+        <section eId="sec_371-010">
+          <num>371.010</num>
+          <heading>Short title.</heading>
+          <content>
+            <p>This
+chapter may be cited as the Governmental Services Tax Law.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1118; A2001,
+289)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-020">
+          <num>371.020</num>
+          <heading>Definitions.</heading>
+          <subsection eId="371-020__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Departmentï¿½ means the Department of
+Motor Vehicles.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-020__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½Vehicleï¿½ means any vehicle required to
+be registered pursuant to the provisions ofchapter
+482or706of NRS, except mobile homes as
+defined inNRS 482.067.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1118; A1985,
+1987;2001,
+2601)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-030">
+          <num>371.030</num>
+          <heading>Basic governmental services tax: Imposition.</heading>
+          <content>
+            <p>A basic tax for governmental services is
+hereby imposed for the privilege of operating any vehicle upon the public
+highways of this State. Such tax is imposed in lieu of all taxes based on value
+and levied for state or local purpose on such vehicles.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1119; A2001,
+289)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-040">
+          <num>371.040</num>
+          <heading>Basic governmental services tax: Annual amount.</heading>
+          <subsection eId="371-040__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsections 2 and 3, the annual amount of the basic governmental services tax
+throughout the State is 4 cents on each $1 of valuation of the vehicle as
+determined by the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-040__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A full trailer or semitrailer
+registered pursuant to subsection 3 ofNRS
+482.483is subject to the basic governmental services tax in the
+nonrefundable amount of $86 each time such a full trailer or semitrailer is
+registered pursuant to subsection 3 ofNRS
+482.483.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-040__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The amount of the basic governmental
+services tax imposed on a moped registered pursuant toNRS 482.2155is 4 cents on each $1 of
+valuation of the moped as determined by the Department at the time of
+registration.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1119; A1991,
+39;2001,
+290;2013,
+2863;2015,
+1769)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-043">
+          <num>371.043</num>
+          <heading>Supplemental governmental services tax: Imposition, collection
+and use of proceeds by county whose population is 100,000 or more but less than
+700,000.</heading>
+          <subsection eId="371-043__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A board of county commissioners of a
+county whose population is 100,000 or more but less than 700,000 may by
+ordinance, but not as in a case of emergency, impose a supplemental
+governmental services tax of not more than 1 cent on each $1 of valuation of
+the vehicle for the privilege of operating upon the public streets, roads and
+highways of the county on each vehicle based in the county except:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-043__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A vehicle exempt from the governmental
+services tax pursuant to this chapter; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-043__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A vehicle subject toNRS 706.011to706.861, inclusive, which is engaged in
+interstate or intercounty operations.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-043__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Collection of the tax imposed pursuant
+to this section must not commence earlier than the first day of the second
+calendar month after adoption of the ordinance imposing the tax.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-043__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 4 andNRS 371.047, the county
+shall use the proceeds of the tax to pay the cost of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-043__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Projects related to the construction and
+maintenance of sidewalks, streets, avenues, boulevards, highways and other
+public rights-of-way used primarily for vehicular traffic, including, without
+limitation, overpass projects, street projects or underpass projects, as
+defined inNRS 244A.037,244A.053and244A.055, respectively:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="371-043__subsec_3__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Within the boundaries of the county;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="371-043__subsec_3__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Within 1 mile outside the boundaries
+of the county if the board of county commissioners finds that such projects
+outside the boundaries of the county will facilitate transportation within the
+county; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="371-043__subsec_3__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Within 30 miles outside the boundaries
+of the county and the boundaries of this State, where those boundaries are
+coterminous, if:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) The projects consist of
+improvements to a highway which is located wholly or partially outside the
+boundaries of this State and which connects this State to an interstate
+highway; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) The board of county
+commissioners finds that such projects will provide a significant economic
+benefit to the county;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="371-043__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Payment of principal and interest on notes,
+bonds or other obligations incurred to fund projects described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-043__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-043__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any combination of those uses.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-043__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The county may expend:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-043__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any proceeds of the supplemental governmental
+services tax authorized by this section, or any borrowing in anticipation of
+that tax, pursuant to an interlocal agreement between the county and the
+regional transportation commission of the county with respect to any projects
+to be financed with the proceeds of the tax.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-043__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any proceeds of the supplemental governmental
+services tax authorized by this section to pay the operating costs of the
+county and any other costs to carry out the governmental functions of the
+county.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-043__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>As used in this section, ï¿½basedï¿½ has
+the meaning ascribed to it inNRS 482.011.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2009,
+2077; A2011,
+1224)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-045">
+          <num>371.045</num>
+          <heading>Supplemental governmental services tax: Imposition, collection
+and use of proceeds by county whose population is less than 100,000 or is
+700,000 or more.</heading>
+          <subsection eId="371-045__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A board of county commissioners of a
+county whose population is less than 100,000 or is 700,000 or more may by
+ordinance, but not as in a case of emergency, after receiving the approval of a
+majority of the registered voters voting on the question at a primary, general
+or special election, impose a supplemental governmental services tax of not
+more than 1 cent on each $1 of valuation of the vehicle for the privilege of
+operating upon the public streets, roads and highways of the county on each
+vehicle based in the county except:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-045__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A vehicle exempt from the governmental
+services tax pursuant to this chapter; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-045__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A vehicle subject toNRS 706.011to706.861, inclusive, which is engaged in
+interstate or intercounty operations.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-045__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A county may combine this question with
+questions submitted pursuant toNRS
+244.3351,278.710or377A.020, or any combination thereof.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-045__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A special election may be held only if
+the board of county commissioners determines, by a unanimous vote, that an
+emergency exists. The determination made by the board is conclusive unless it
+is shown that the board acted with fraud or a gross abuse of discretion. An
+action to challenge the determination made by the board must be commenced within
+15 days after the boardï¿½s determination is final. As used in this subsection,
+ï¿½emergencyï¿½ means any unexpected occurrence or combination of occurrences which
+requires immediate action by the board of county commissioners to prevent or
+mitigate a substantial financial loss to the county or to enable the board to
+provide an essential service to the residents of the county.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-045__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Collection of the tax imposed pursuant
+to this section must not commence earlier than the first day of the second
+calendar month after adoption of the ordinance imposing the tax.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-045__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 6 andNRS 371.047, the county
+shall use the proceeds of the tax to pay the cost of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-045__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Projects related to the construction and
+maintenance of sidewalks, streets, avenues, boulevards, highways and other
+public rights-of-way used primarily for vehicular traffic, including, without
+limitation, overpass projects, street projects or underpass projects, as
+defined inNRS 244A.037,244A.053and244A.055, respectively:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="371-045__subsec_5__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Within the boundaries of the county;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="371-045__subsec_5__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Within 1 mile outside the boundaries
+of the county if the board of county commissioners finds that such projects
+outside the boundaries of the county will facilitate transportation within the
+county; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="371-045__subsec_5__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Within 30 miles outside the boundaries
+of the county and the boundaries of this State, where those boundaries are
+coterminous, if:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (I) The projects consist of
+improvements to a highway which is located wholly or partially outside the
+boundaries of this State and which connects this State to an interstate
+highway; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (II) The board of county
+commissioners finds that such projects will provide a significant economic
+benefit to the county;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="371-045__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Payment of principal and interest on notes,
+bonds or other obligations incurred to fund projects described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-045__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-045__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any combination of those uses.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-045__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The county may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-045__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Expend any proceeds of the supplemental
+governmental services tax authorized by this section, or any borrowing in
+anticipation of that tax, pursuant to an interlocal agreement between the
+county and the regional transportation commission of the county with respect to
+any projects to be financed with the proceeds of the tax.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-045__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the population of the county is 700,000 or
+more, expend any proceeds of the supplemental governmental services tax
+authorized by this section to pay the operating costs of the county and any
+other costs to carry out the governmental functions of the county.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-045__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>As used in this section, ï¿½basedï¿½ has
+the meaning ascribed to it inNRS 482.011.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1991,
+38; A1993,
+1070,2785,2825;1995,
+2746;1999,
+1669;2001,
+290,1668,1669;2009,
+2078;2011,
+1225)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-047">
+          <num>371.047</num>
+          <heading>Supplemental governmental services tax: Use of proceeds for
+certain purposes related to construction of highway with limited access.</heading>
+          <subsection eId="371-047__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A county may use the proceeds of the
+tax imposed pursuant toNRS 371.043or371.045, or of bonds, notes or other
+obligations incurred to which the proceeds of those taxes are pledged to
+finance a project related to the construction of a highway with limited access,
+to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-047__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Purchase residential real property which
+shares a boundary with a highway with limited access or a project related to
+the construction of a highway with limited access, and which is adversely
+affected by the highway. Not more than 1 percent of the proceeds of the tax or
+of any bonds to which the proceeds of the tax are pledged may be used for this
+purpose.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-047__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Pay for the cost of moving persons whose
+primary residences are condemned for a right-of-way for a highway with limited
+access and who qualify for such payments. The board of county commissioners
+shall, by ordinance, establish the qualifications for receiving payments for
+the cost of moving pursuant to this paragraph.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-047__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A county may, in accordance withNRS 244.265to244.296, inclusive, dispose of any
+residential real property purchased pursuant to this section, and may reserve
+and except easements, rights or interests related thereto, including, but not
+limited to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-047__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Abutterï¿½s rights of light, view or air.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-047__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Easements of access to and from abutting
+land.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-047__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Covenants prohibiting the use of signs,
+structures or devices advertising activities not conducted, services not
+rendered or goods not produced or available on the real property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-047__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Proceeds from the sale or lease of
+residential real property acquired pursuant to this section must be used for
+the purposes set forth in this section and inNRS
+371.043or371.045, as applicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-047__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>For the purposes of this section,
+residential real property is adversely affected by a highway with limited
+access if the construction or proposed use of the highway:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-047__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Constitutes a taking of all or any part of
+the property, or interest therein;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-047__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Lowers the value of the property; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-047__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Constitutes a nuisance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-047__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>As used in this section:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-047__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>ï¿½Highway with limited accessï¿½ means a divided
+highway for through traffic with full control of access and with grade
+separations at intersections.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-047__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>ï¿½Primary residenceï¿½ means a dwelling, whether
+owned or rented by the occupant, which is the sole principal place of residence
+of that occupant.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-047__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>ï¿½Residential real propertyï¿½ means a lot or
+parcel of not more than 1.5 acres upon which a single-family or multifamily
+dwelling is located.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2745; A1997,
+496;2001,
+593;2007,
+2837;2009,
+2079;2017,
+1357;2023,
+1129)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-050">
+          <num>371.050</num>
+          <heading>Valuation of vehicles.</heading>
+          <subsection eId="371-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsections 3 and 4, valuation of vehicles must be determined by the Department
+upon the basis of 35 percent of the manufacturerï¿½s suggested retail price in
+Nevada excluding options and extras, as of the time the particular make and
+model for that year is first offered for sale in Nevada.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the Department is unable to
+determine the manufacturerï¿½s suggested retail price in Nevada with respect to
+any vehicle because the vehicle is specially constructed, or for any other
+reason, the Department shall determine the valuation upon the basis of 35
+percent of the original retail price to the original purchaser of the vehicle
+as evidenced by such document or documents as the Department may require.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-050__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>For each:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-050__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Bus, truck, truck-tractor or combination of
+vehicles having a declared gross weight of 10,000 pounds or more; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-050__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Trailer or semitrailer having an unladen
+weight of 4,000 pounds or more,
+ï¿½the
+Department may use 85 percent of the original purchaserï¿½s cost price in lieu of
+the manufacturerï¿½s suggested retail price.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-050__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If the Department is unable to
+determine the original manufacturerï¿½s suggested retail price in Nevada, or the
+original retail price to the purchaser, the Department may determine the
+original value of the vehicle on the basis of 50 cents per pound.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-050__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>For motor carriers which register
+pursuant to the provisions of the Interstate Highway User Fee Apportionment
+Act, the Department may determine the original purchaserï¿½s cost price of the
+vehicle on the basis of its declared gross weight in a manner which the
+Department finds appropriate and equitable.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1119; A1965,
+978;1977,
+803;1985,
+1841;1989,
+1420)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-060">
+          <num>371.060</num>
+          <heading>Schedules for depreciation; minimum amount of tax.</heading>
+          <subsection eId="371-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 2, subsection 2 ofNRS 371.040andNRS 482.2155, each vehicle must be
+depreciated by the Department for the purposes of the annual governmental
+services tax according to the following schedule:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Percentage
+of
+ï¿½ï¿½ Ageï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Initial
+Value
+New............................................................................................................. 100
+percent
+1 year............................................................................................................ 95
+percent
+2 years........................................................................................................... 85
+percent
+3 years........................................................................................................... 75
+percent
+4 years........................................................................................................... 65
+percent
+5 years........................................................................................................... 55
+percent
+6 years........................................................................................................... 45
+percent
+7 years........................................................................................................... 35
+percent
+8 years........................................................................................................... 25
+percent
+9 years or more............................................................................................ 15
+percent
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsections 2 and 3 ofNRS 371.040, each
+bus, truck or truck-tractor having a declared gross weight of 10,000 pounds or
+more and each trailer or semitrailer having an unladen weight of 4,000 pounds
+or more must be depreciated by the Department for the purposes of the annual
+governmental services tax according to the following schedule:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Percentage
+of
+ï¿½ï¿½ Ageï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Initial
+Value
+New............................................................................................................. 100
+percent
+1 year............................................................................................................ 85
+percent
+2 years........................................................................................................... 69
+percent
+3 years........................................................................................................... 57
+percent
+4 years........................................................................................................... 47
+percent
+5 years........................................................................................................... 38
+percent
+6 years........................................................................................................... 33
+percent
+7 years........................................................................................................... 30
+percent
+8 years........................................................................................................... 27
+percent
+9 years........................................................................................................... 25
+percent
+10 years or more......................................................................................... 23
+percent
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-060__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Notwithstanding any other provision of
+this section, the minimum amount of the governmental services tax:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-060__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>On any trailer having an unladen weight of
+1,000 pounds or less is $3; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-060__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>On any other vehicle is $16.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-060__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>For the purposes of this section, a
+vehicle shall be deemed a ï¿½newï¿½ vehicle if the vehicle has never been
+registered with the Department and has never been registered with the
+appropriate agency of any other state, the District of Columbia, any territory
+or possession of the United States or any foreign state, province or country.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1119; A1967,
+358;1969,
+185;1971,
+6;1985,
+1842;1995,
+754;2001,
+291;2009,
+2190;2013,
+2864;2015,
+1769)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-070">
+          <num>371.070</num>
+          <heading>Reduction for initial registration of certain vehicles after
+beginning of period of registration.</heading>
+          <content>
+            <p>Except
+as otherwise provided in subsections 2 and 3 ofNRS 371.040, upon the registration for the
+first time in this State after the beginning of the period of registration of a
+vehicle which is registered pursuant to the provisions ofNRS 706.801to706.861, inclusive, or which has a declared
+gross weight in excess of 26,000 pounds, the amount of the governmental
+services tax must be reduced one-twelfth for each month which has elapsed since
+the beginning of the period of registration.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1120; A2001,
+292;2003,
+3380;2007,
+56;2013,
+2865;2015,
+1770)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-080">
+          <num>371.080</num>
+          <heading>Reduction on cessation of exemption of certain vehicles because
+of change of ownership.</heading>
+          <content>
+            <p>If any
+vehicle which is registered pursuant to the provisions ofNRS 706.801to706.861, inclusive, or has a declared gross
+weight in excess of 26,000 pounds, and which is exempt from the governmental
+services tax pursuant toNRS 371.100ceases to be exempt after the beginning of the period of registration by reason
+of a change of ownership, the amount of the tax must be reduced one-twelfth for
+each month which has elapsed since the beginning of that period of registration.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1120; A2001,
+292;2003,
+3381;2007,
+56)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-085">
+          <num>371.085</num>
+          <heading>Proration of tax by interstate motor carrier.</heading>
+          <content>
+            <p>Interstate motor carriers who register under
+the Interstate Highway User Fee Apportionment Act orNRS 482.482may prorate their governmental
+services tax by the same percentages as those set out in subsection 2 ofNRS 706.841orNRS 706.861.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1965,
+978; A1971,
+722;1987,
+611;2001,
+292)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-090">
+          <num>371.090</num>
+          <heading>Computation of tax and penalty.</heading>
+          <content>
+            <p>In
+computing any tax or penalty imposed by the provisions of this chapter, a
+fraction of $1 shall be disregarded, unless it exceeds 49 cents, in which case
+it shall be treated as $1. Computation of any penalty shall be made from the
+fee after the same has been computed as provided in this section.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1120)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-100">
+          <num>371.100</num>
+          <heading>Exemption of certain governmental vehicles, emergency vehicles
+and vehicles operated with public money; exceptions.</heading>
+          <subsection eId="371-100__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The governmental services tax imposed
+by this chapter does not apply to:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-100__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Vehicles owned by the United States, the
+State of Nevada, any political subdivision of the State of Nevada, or any
+county, municipal corporation, city, unincorporated town or school district in
+the State of Nevada;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-100__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except for vehicles used for commercial
+purposes, vehicles owned by the governing body of an Indian reservation or
+Indian colony in this State if:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="371-100__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The Indian tribe of the reservation or
+colony is recognized by federal law; and
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="371-100__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The governing body is located on the
+reservation or colony;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="371-100__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Vehicles for whose operation money is
+provided by the State or Federal Government and which are operated solely for
+the transportation of or furnishing services to elderly persons or persons with
+disabilities; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-100__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Emergency vehicles owned by any volunteer
+fire department or volunteer ambulance service based in this State.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-100__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any vehicle which ceases to be used
+exclusively for the purpose for which it is exempted from the governmental
+services tax by this section becomes immediately subject to that tax.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-100__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 4, vehicles exempted from the governmental services tax by this
+section which are leased, loaned or otherwise made available to and used by a
+private person, association or corporation in connection with a business
+conducted for profit are subject to taxation in the same amount and to the same
+extent as though the lessee or user were the owner of such vehicle.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-100__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Vehicles which are used by a private
+person and are dedicated for exclusive use as part of a system which:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-100__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Operates vehicles for public transportation
+in an urban area;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-100__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Transports persons who pay the established
+fare; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-100__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Uses public money to operate the system or
+acquire new equipment,
+ï¿½are exempted
+from the governmental services tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1120; A1965,
+610;1979,
+931;1983,
+1945;1995,
+2411;2001,
+292;2005,
+6)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-101">
+          <num>371.101</num>
+          <heading>Exemption of vehicle registered by surviving spouse.</heading>
+          <subsection eId="371-101__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Vehicles registered by surviving
+spouses, not to exceed the amount of $1,000 determined valuation, are exempt
+from taxation, but the exemption must not be allowed to anyone but actual bona
+fide residents of this State, and must be filed in but one county in this State
+to the same family.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-101__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For the purpose of this section,
+vehicles in which the surviving spouse has any interest shall be deemed to
+belong entirely to that surviving spouse.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-101__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The person claiming the exemption shall
+file with the Department in the county where the exemption is claimed an
+affidavit declaring his or her residency and that the exemption has been
+claimed in no other county in this State for that year. The affidavit must be
+made before the county assessor or a notary public. After the filing of the
+original affidavit, the county assessor shall, except as otherwise provided in
+this subsection, mail a form for renewal of the exemption to the person each
+year following a year in which the exemption was allowed for that person. The
+form must be designed to facilitate its return by mail by the person claiming
+the exemption. If so requested by the person claiming the exemption, the county
+assessor may provide the form to the person by electronic means in lieu of by
+mail.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-101__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A surviving spouse is not entitled to
+the exemption provided by this section in any fiscal year beginning after any
+remarriage, even if the remarriage is later annulled.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-101__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Beginning with the 2005-2006 Fiscal
+Year, the monetary amount in subsection 1 must be adjusted for each fiscal year
+by adding to each amount the product of the amount multiplied by the percentage
+increase in the Consumer Price Index (All Items) from December 2003 to the
+December preceding the fiscal year for which the adjustment is calculated.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+1489; A1989,
+716;1999,
+2775;2001,
+1557;2003,
+2773;2011,
+3526)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-102">
+          <num>371.102</num>
+          <heading>Exemption of vehicle registered by person who is blind.</heading>
+          <subsection eId="371-102__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Vehicles registered by a person who is
+blind, not to exceed the amount of $3,000 determined valuation, are exempt from
+taxation, but the exemption must not be allowed to anyone but bona fide
+residents of this State, and must be filed in but one county in this State on
+account of that person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-102__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The person claiming the exemption must
+file with the county assessor of the county where the exemption is claimed an
+affidavit declaring that the person is an actual bona fide resident of the
+State of Nevada, that he or she is a person who is blind and that the exemption
+is claimed in no other county in this State. The affidavit must be made before
+the county assessor or a notary public. After the filing of the original
+affidavit, the county assessor shall, except as otherwise provided in this
+subsection, mail a form for renewal of the exemption to the person each year
+following a year in which the exemption was allowed for that person. The form
+must be designed to facilitate its return by mail by the person claiming the
+exemption. If so requested by the person claiming the exemption, the county assessor
+may provide the form to the person by electronic means in accordance with the
+provisions ofchapter 719of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-102__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Upon first claiming the exemption in a
+county, the claimant shall furnish to the county assessor a certificate of a
+physician licensed under the laws of this State setting forth that the
+physician has examined the claimant and has found him or her to be a person who
+is blind.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-102__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Beginning with the 2005-2006 Fiscal
+Year, the monetary amount in subsection 1 must be adjusted for each fiscal year
+by adding to each amount the product of the amount multiplied by the percentage
+increase in the Consumer Price Index (All Items) from December 2003 to the
+December preceding the fiscal year for which the adjustment is calculated.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-102__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>As used in this section, ï¿½person who is
+blindï¿½ includes any person whose visual acuity with correcting lenses does not
+exceed 20/200 in the better eye, or whose vision in the better eye is
+restricted to a field which subtends an angle of not greater than 20 degrees.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+1489; A1989,
+717;1995,
+1088;1999,
+2775;2003,
+2774;2011,
+3527)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-103">
+          <num>371.103</num>
+          <heading>Exemption of vehicle registered by veteran; transfer of
+exemption to veteranï¿½s current spouse.</heading>
+          <subsection eId="371-103__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Vehicles, to the extent of $2,000
+determined valuation, registered by any actual bona fide resident of the State
+of Nevada who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-103__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Has served a minimum of 90 days on active
+duty, who was assigned to active duty at some time between April 21, 1898, and
+June 15, 1903, or between April 6, 1917, and November 11, 1918, or between
+December 7, 1941, and December 31, 1946, or between June 25, 1950, and May 7,
+1975, or between September 26, 1982, and December 1, 1987, or between October
+23, 1983, and November 21, 1983, or between December 20, 1989, and January 31,
+1990, or between August 2, 1990, and April 11, 1991, or between December 5, 1992,
+and March 31, 1994, or between November 20, 1995, and December 20, 1996;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-103__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has served a minimum of 90 continuous days on
+active duty none of which was for training purposes, who was assigned to active
+duty at some time between January 1, 1961, and May 7, 1975;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-103__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Has served on active duty in connection with
+carrying out the authorization granted to the President of the United States in
+Public Law 102-1; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-103__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Has served on active duty in connection with
+a campaign or expedition for service in which a medal has been authorized by
+the Government of the United States, regardless of the number of days served on
+active duty,
+ï¿½and who
+received, upon severance from service, an honorable discharge or certificate of
+satisfactory service from the Armed Forces of the United States, or who, having
+so served, is still serving in the Armed Forces of the United States, is exempt
+from taxation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-103__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In lieu of claiming the exemption from
+taxation set forth in subsection 1 in his or her name, a veteran may transfer
+the exemption to his or her current spouse. To transfer the exemption, the
+veteran must file an affidavit of transfer with the Department in the county
+where the exemption would otherwise have been claimed. The affidavit of
+transfer must be made before an authorized employee of the Department or a
+notary public. If a veteran makes such a transfer:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-103__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The spouse of the veteran is entitled to the
+exemption in the same manner as if the spouse were the veteran;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-103__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The veteran is not entitled to the exemption
+for the duration of the transfer;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-103__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The transfer expires upon the earlier of:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="371-103__subsec_2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The termination of the marriage;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="371-103__subsec_2__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The death of the veteran; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="371-103__subsec_2__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The revocation of the transfer by the
+veteran as described in paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="371-103__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-103__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The veteran may, at any time, revoke the
+transfer of the exemption by filing with the Department in the county where the
+exemption is claimed an affidavit made before an authorized employee of the
+Department or a notary public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-103__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>For the purpose of this section, the
+first $2,000 determined valuation of vehicles in which a person described in
+subsection 1 or 2 has any interest shall be deemed to belong to that person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-103__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 5, a person claiming the exemption shall file annually with the
+Department in the county where the exemption is claimed an affidavit declaring
+that he or she is an actual bona fide resident of the State of Nevada who meets
+all the other requirements of subsection 1 or 2, as applicable, and that the
+exemption is claimed in no other county in this State. The affidavit must be
+made before the county assessor or a notary public. After the filing of the
+original affidavit of exemption and after the transfer of the exemption, if
+any, pursuant to subsection 2, the county assessor shall, except as otherwise
+provided in this subsection, mail a form for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-103__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The renewal of the exemption; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-103__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The designation of any amount to be credited
+to the Gift Account for the Veterans Home in Southern Nevada or the Gift
+Account for the Veterans Home in Northern Nevada established pursuant toNRS 417.145,
+ï¿½to the
+person who claimed the exemption each year following a year in which the
+exemption was allowed for that person. The form must be designed to facilitate
+its return by mail by the person claiming the exemption. If so requested by the
+person claiming the exemption, the county assessor may provide the form to the
+person by electronic means in lieu of by mail.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-103__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Persons in actual military service are
+exempt during the period of such service from filing annual affidavits of
+exemption and the Department shall grant exemptions to those persons on the
+basis of the original affidavits filed. In the case of any person who has
+entered the military service without having previously made and filed an
+affidavit of exemption, the affidavit may be filed in his or her behalf during
+the period of such service by any person having knowledge of the facts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-103__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Before allowing any veteranï¿½s exemption
+pursuant to the provisions of this chapter, the Department shall require proof
+of status of the veteran or, if a transfer has been made pursuant to subsection
+2, proof of status of the veteran to whom the person claiming the exemption is
+married, and for that purpose shall require production of an honorable
+discharge or certificate of satisfactory service or a certified copy thereof,
+or such other proof of status as may be necessary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-103__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>If any person files a false affidavit
+or produces false proof to the Department, and as a result of the false
+affidavit or false proof a tax exemption is allowed to a person not entitled to
+the exemption, the person is guilty of a gross misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-103__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Beginning with the 2005-2006 Fiscal
+Year, the monetary amounts in subsections 1 and 3 must be adjusted for each
+fiscal year by adding to each amount the product of the amount multiplied by
+the percentage increase in the Consumer Price Index (All Items) from December
+2003 to the December preceding the fiscal year for which the adjustment is
+calculated.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+1489; A1987,
+1528;1989,
+717;1991,
+1926;1995,
+2298;1999,
+2776;2001,
+1529,1530;2003,
+2774,2776;2011,
+2540,3527;2013,
+295,2513)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-1035">
+          <num>371.1035</num>
+          <heading>Waiver of veteranï¿½s exemption; designation of any amount of
+exemption for credit to Gift Account for the Veterans Home in Southern Nevada
+or Gift Account for the Veterans Home in Northern Nevada.</heading>
+          <subsection eId="371-1035__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person who qualifies for an
+exemption pursuant toNRS 371.103or371.104may, in lieu of claiming the
+exemption:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-1035__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Pay to the Department all or any portion of
+the amount by which the tax would be reduced if the person claimed the
+exemption; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-1035__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Direct the Department to deposit that amount
+for credit to the Gift Account for the Veterans Home in Southern Nevada or the
+Gift Account for the Veterans Home in Northern Nevada established pursuant toNRS 417.145.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-1035__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any person who wishes to waive his or
+her exemption pursuant to this section shall designate the amount to be
+credited to a Gift Account on a form provided by the Department.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-1035__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Department shall deposit any money
+received pursuant to this section with the State Treasurer for credit to the
+Gift Account for the Veterans Home in Southern Nevada or the Gift Account for
+the Veterans Home in Northern Nevada established pursuant toNRS 417.145. The State Treasurer shall not
+accept more than a total of $2,000,000 for credit to a Gift Account pursuant to
+this section andNRS 361.0905during
+any fiscal year.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1995,
+2297; A2001,
+1531,1532;2003,
+2777;2013,
+2515)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-104">
+          <num>371.104</num>
+          <heading>Exemptions for veteran with a disability and surviving spouse;
+transfer of exemption to veteranï¿½s current spouse.</heading>
+          <subsection eId="371-104__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A bona fide resident of the State of
+Nevada who has incurred a permanent service-connected disability and has been
+honorably discharged from the Armed Forces of the United States, or his or her
+surviving spouse, is entitled to a veteranï¿½s exemption from the payment of
+governmental services taxes on vehicles of the following determined valuations:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-104__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If he or she has a disability of 100 percent,
+the first $20,000 of determined valuation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-104__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If he or she has a disability of 80 to 99
+percent, inclusive, the first $15,000 of determined valuation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-104__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If he or she has a disability of 60 to 79
+percent, inclusive, the first $10,000 of determined valuation.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-104__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In lieu of claiming the exemption from
+taxation set forth in subsection 1 in his or her name, a veteran may transfer
+the exemption to his or her current spouse. To transfer the exemption, the
+veteran must file an affidavit of transfer with the Department in the county
+where the exemption would otherwise have been claimed. The affidavit of
+transfer must be made before an authorized employee of the Department or a
+notary public. If a veteran makes such a transfer:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-104__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The spouse of the veteran is entitled to the
+exemption in the same manner as if the spouse were the veteran;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-104__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The veteran is not entitled to the exemption
+for the duration of the transfer;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-104__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The transfer expires upon the earlier of:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="371-104__subsec_2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The termination of the marriage;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="371-104__subsec_2__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The death of the veteran; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="371-104__subsec_2__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The revocation of the transfer by the
+veteran as described in paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="371-104__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-104__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The veteran may, at any time, revoke the
+transfer of the exemption by filing with the Department in the county where the
+exemption is claimed an affidavit made before an authorized employee of the
+Department or a notary public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-104__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>For the purpose of this section, the
+first $20,000 of determined valuation of vehicles in which a person described
+in subsection 1 or 2 has any interest shall be deemed to belong entirely to
+that person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-104__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A person claiming the exemption shall
+file annually with the Department in the county where the exemption is claimed
+an affidavit declaring that he or she is a bona fide resident of the State of
+Nevada who meets all the other requirements of subsection 1 or 2, as
+applicable, and that the exemption is claimed in no other county within this
+State. After the filing of the original affidavit of exemption and after the
+transfer of the exemption, if any, pursuant to subsection 2, the county assessor
+shall, except as otherwise provided in this subsection, mail a form for:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-104__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The renewal of the exemption; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-104__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The designation of any amount to be credited
+to the Gift Account for the Veterans Home in Southern Nevada or the Gift
+Account for the Veterans Home in Northern Nevada established pursuant toNRS 417.145,
+ï¿½to the
+person who claimed the exemption each year following a year in which the
+exemption was allowed for that person. The form must be designed to facilitate
+its return by mail by the person claiming the exemption. If so requested by the
+person claiming the exemption, the county assessor may provide the form to the
+person by electronic means in lieu of by mail.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-104__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Before allowing any exemption pursuant
+to the provisions of this section, the Department shall require proof of the
+veteranï¿½s status, and for that purpose shall require production of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-104__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A certificate from the Department of Veterans
+Affairs that the veteran has incurred a permanent service-connected disability,
+which shows the percentage of that disability; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-104__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any one of the following:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="371-104__subsec_5__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>An honorable discharge;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="371-104__subsec_5__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A certificate of satisfactory service;
+or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="371-104__subsec_5__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>A certified copy of either of these
+documents.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-104__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>A surviving spouse claiming an
+exemption pursuant to this section must file with the Department in the county
+where the exemption is claimed an affidavit declaring that:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-104__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The surviving spouse was married to and
+living with the veteran with a disability for the 5 years preceding his or her
+death;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-104__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The veteran with a disability was eligible
+for the exemption at the time of his or her death or, if not for a transfer of
+the exemption pursuant to subsection 2, would have been eligible for the
+exemption at the time of his or her death; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-104__subsec_6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The surviving spouse has not remarried.
+ï¿½The
+affidavit required by this subsection is in addition to the certification
+required pursuant to subsections 4 and 5. After the filing of the original affidavit
+required by this subsection, the county assessor shall, except as otherwise
+provided in this subsection, mail a form for renewal of the exemption to the
+person each year following a year in which the exemption was allowed for that
+person. The form must be designed to facilitate its return by mail by the
+person claiming the exemption. If so requested by the person claiming the
+exemption, the county assessor may provide the form to the person by electronic
+means in lieu of by mail.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-104__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>If a tax exemption is allowed under
+this section to a person who qualifies for the tax exemption:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="371-104__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>As a veteran or as the current spouse of a
+veteran who receives a transfer of an exemption pursuant to subsection 2, that
+person is not entitled to an exemption underNRS
+371.103.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="371-104__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Solely as the surviving spouse of a veteran
+with a permanent service-connected disability, the allowance of a tax exemption
+under this section does not affect the eligibility of that person for an
+exemption underNRS 371.103.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="371-104__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>If any person makes a false affidavit
+or produces false proof to the Department, and as a result of the false
+affidavit or false proof the person is allowed a tax exemption to which he or
+she is not entitled, the person is guilty of a gross misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-104__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>Beginning with the 2005-2006 Fiscal
+Year, the monetary amounts in subsections 1 and 3 must be adjusted for each
+fiscal year by adding to each amount the product of the amount multiplied by
+the percentage increase in the consumer price inflation index from July 2003 to
+the July preceding the fiscal year for which the adjustment is calculated.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-104__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>For the purposes of this section,
+ï¿½consumer price inflation indexï¿½ means the Consumer Price Index for All Urban
+Consumers, West Region (All Items), as published by the United States
+Department of Labor or, if that index ceases to be published by the United
+States Department of Labor, the published index selected by the Department of
+Taxation pursuant to subsection 11 ofNRS
+361.091.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+1490; A1979,
+1302;1981,
+1566;1989,
+718;1995,
+1089;2001,
+292,1532,1533;2003,
+2778,2779;2011,
+2542,3529;2013,
+297,2515;2015,
+3928)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-105">
+          <num>371.105</num>
+          <heading>Time for claiming exemption and making designation; limitation
+on total exemption per fiscal year.</heading>
+          <content>
+            <p>Claims
+pursuant toNRS 371.101,371.102,371.103or371.104for tax exemption on the
+governmental services tax and designations of any amount to be credited to the
+Gift Account for the Veterans Home in Southern Nevada or the Gift Account for
+the Veterans Home in Northern Nevada pursuant toNRS 371.1035must be filed annually at any
+time on or before the date when payment of the tax is due. All exemptions
+provided for in this section must not be in an amount which gives the taxpayer
+a total exemption greater than that to which the taxpayer is entitled during
+any fiscal year.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+1491; A1995,
+2299;2001,
+293;2003,
+2780;2013,
+2517)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-106">
+          <num>371.106</num>
+          <heading>Owner to notify Department of cessation of exemption; penalty.</heading>
+          <subsection eId="371-106__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Whenever any vehicle ceases to be
+exempt from taxation underNRS 371.101,371.102,371.103or371.104because the owner no longer
+meets the requirements for the exemption provided in those sections, its owner
+shall immediately notify the Department of the fact.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-106__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a person fails to notify the
+Department as required by subsection 1 and as a result of such failure is
+allowed a tax exemption to which he or she is not entitled, there shall be
+added to and collected with the tax otherwise due a penalty equal to double the
+amount of the tax. If the personï¿½s failure is fraudulent and results in his or
+her receiving a tax exemption to which he or she is not entitled, the person is
+also guilty of a gross misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+1491)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-107">
+          <num>371.107</num>
+          <heading>Duties of county assessor in county whose population is 55,000
+or more.</heading>
+          <content>
+            <p>The county assessor of
+each county whose population is 55,000 or more is designated as an agent to
+assist the Department in administering the exemptions provided in this chapter,
+and shall, after establishing the validity of an application for an exemption,
+issue a certificate for use by the Department to allow a claimant the
+appropriate exemption on his or her vehicle.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+1491; A1979,
+541;1981,
+244;1989,
+1922;2001,
+1986;2011,
+1226)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-110">
+          <num>371.110</num>
+          <heading>Due date.</heading>
+          <content>
+            <p>Except as
+otherwise provided inNRS 482.482, the
+governmental services tax is due on the first day of the registration year for
+the vehicle concerned and must be paid at the same time as, and in conjunction
+with, the registration or renewal of registration of the vehicle.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1120; A1989,
+1420;2001,
+294)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-120">
+          <num>371.120</num>
+          <heading>Collection; issuance of receipt.</heading>
+          <content>
+            <p>The
+Department shall collect the governmental services tax and issue to each person
+who pays the tax a receipt that sufficiently identifies the vehicle upon which
+the tax is paid.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1120; A2001,
+294)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-125">
+          <num>371.125</num>
+          <heading>Designation of county assessor of county whose population is
+less than 55,000 as agent to assist in collection of tax and administration of
+exemptions.</heading>
+          <content>
+            <p>The county assessor of
+each county whose population is less than 55,000 is designated as agent to
+assist in the collection of the tax required to be levied under this chapter.
+The county assessor of each county is designated as agent to assist the
+Department in administering the exemptions provided in this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+1491; A1979,
+541;1981,
+244;1989,
+1922;2001,
+1986;2011,
+1226)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-130">
+          <num>371.130</num>
+          <heading>Delinquency.</heading>
+          <content>
+            <p>Whenever
+any vehicle is operated upon any highway of this State without the governmental
+services tax having first been paid as required in this chapter, the tax is
+delinquent.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1120; A2001,
+294)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-140">
+          <num>371.140</num>
+          <heading>Penalty for delinquency; proof of nonoperation; exceptions.</heading>
+          <subsection eId="371-140__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as otherwise provided in
+subsection 3 andNRS 482.209and482.482, if the governmental services tax
+for a vehicle for the next period of registration is not paid before the
+expiration of the current period of registration for that vehicle, a penalty equal
+to 10 percent of the tax due, but not less than $6, plus the amount of the
+delinquent tax, must be added to the governmental services tax due for the next
+period of registration, unless the vehicle has not been operated on the
+highways since the expiration of the prior registration. The Department may
+retain any penalty so collected.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-140__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Evidence of the nonoperation of a
+vehicle must be made by an affidavit executed by a person having knowledge of
+the fact. The affidavit must accompany the application for renewal of
+registration.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-140__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The provisions of this section do not
+apply to vehicles registered pursuant toNRS
+706.841.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1120; A1969,
+491;1981,
+666;1987,
+1148;1989,
+1420;2001,
+294;2011,
+297)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-150">
+          <num>371.150</num>
+          <heading>Collection of current tax; circumstances precluding imposition
+of penalty.</heading>
+          <content>
+            <p>Upon receipt of an
+application for renewal of registration and an affidavit of nonoperation, the
+Department shall collect the tax for the current registration year. No penalty
+shall be imposed if the Department receives the application and affidavit
+within 30 days after the date of the first operation of the vehicle during the
+current registration year.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1120)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-160">
+          <num>371.160</num>
+          <heading>Effect of failure of bank to pay check in payment of tax or
+penalty on first presentation.</heading>
+          <content>
+            <p>If
+a check in payment of a tax or penalty is not paid by the bank on which it is
+drawn on its first presentation, the person tendering the check remains liable
+for the tax, or tax and penalty, as if the person had not tendered the check.
+The Department may redeposit a check in payment of a tax, or tax and penalty, a
+second time without assessing additional penalties.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1120)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-170">
+          <num>371.170</num>
+          <heading>Exemption from penalty when vehicle repossessed; conditions.</heading>
+          <subsection eId="371-170__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>After the date the tax became due, the
+vehicle is repossessed on behalf of the legal owner;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-170__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The tax is paid within 30 days after
+taking possession; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-170__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A transfer of registration to a new
+owner is applied for during that time.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1121; A2001,
+294)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-180">
+          <num>371.180</num>
+          <heading>Waiver of penalties accruing before transfer of vehicle.</heading>
+          <content>
+            <p>If a transferee applies for a transfer of registration
+and it is determined by the Department that penalties for the nonpayment of the
+governmental services tax accrued before the transfer of the vehicle, and that
+the transferee was not cognizant of the nonpayment of the governmental services
+tax for the current or prior years, and the whereabouts of the transferor or
+record owner are unknown, the Department may waive payment of the penalties
+upon payment of the governmental services taxes due.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1121; A2001,
+294)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-190">
+          <num>371.190</num>
+          <heading>Lien on vehicle for delinquent tax; seizure and sale of vehicle
+or removal of registration certificate and license plates; conduct of seizure
+and sale.</heading>
+          <subsection eId="371-190__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Every governmental services tax and any
+penalty added thereto constitute a lien upon the vehicle for which due from the
+date on which the tax becomes due.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-190__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Department may collect the tax and
+any penalty by seizure and sale of the vehicle or, if the Department determines
+that it is impractical to seize and sell the vehicle, the Nevada Highway Patrol
+shall remove the registration certificate and license plate or plates from the
+vehicle and retain the certificate and plate or plates until the governmental
+services tax and any penalty are paid.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="371-190__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The seizure and sale must be conducted
+by the Department in the same manner as is provided by law for the seizure and
+sale of personal property for the collection of taxes due on personal property.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1121; A1969,
+186;2001,
+295;2005,
+989)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-200">
+          <num>371.200</num>
+          <heading>Notice to legal owner before sale of vehicle.</heading>
+          <content>
+            <p>If the records of the Department indicate that
+the registered owner of a vehicle seized is not the legal owner thereof, the
+Department shall, before selling the vehicle, give notice to the legal owner of
+the vehicle. The notice shall be given by registered or certified mail
+addressed to the legal owner at his or her last known address as shown by the
+records of the Department at least 10 days prior to the sale.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1121; A1969,
+95)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-210">
+          <num>371.210</num>
+          <heading>Payment of tax, penalties and costs by legal owner before sale;
+return of vehicle.</heading>
+          <content>
+            <p>At any time
+before the sale, the legal owner of the vehicle to be sold may pay the
+Department the full amount of the delinquent tax and penalty, plus any costs
+incurred by the Department in arranging for the sale. In this event the sale
+shall not be held, and the Department shall return the vehicle seized to the
+person entitled to its possession.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1121)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-220">
+          <num>371.220</num>
+          <heading>Refund of tax or penalty erroneously collected.</heading>
+          <content>
+            <p>If the Department erroneously collects any
+governmental services tax or penalty not required to be paid under the
+provisions of this chapter, the amount must be refunded to the person who paid
+it upon application therefor within 3 years after the date of the payment.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1121; A2001,
+295)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_371-230">
+          <num>371.230</num>
+          <heading>Deposit of money collected to credit of Motor Vehicle Fund.</heading>
+          <content>
+            <p>Except as otherwise provided inNRS 371.1035,482.180,482.181and482.182, money collected by the
+Department for governmental services taxes and penalties pursuant to the provisions
+of this chapter must be deposited with the State Treasurer to the credit of the
+Motor Vehicle Fund.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1963,
+1121; A1975,
+213;1995,
+2299;1997,
+3288;2001,
+295;2001
+Special Session, 140,159;2009,
+2191)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

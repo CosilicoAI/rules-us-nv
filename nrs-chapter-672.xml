@@ -1,0 +1,4241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-672"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-672"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="672"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-672/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-672/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-672/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-672/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_672">
+        <num>672</num>
+        <heading>CREDIT UNIONS</heading>
+        <section eId="sec_672-010">
+          <num>672.010</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used in this chapter, unless the context otherwise requires, the words and
+terms defined inNRS 672.020to672.240, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+376; A1983,
+1830;1985,
+784;1987,
+2013)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-020">
+          <num>672.020</num>
+          <heading>ï¿½Accountï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Accountï¿½
+means a contract of deposit of funds between a member and a credit union and
+includes deposits, member or share accounts and other like arrangements
+regardless of whether they may be characterized as refundable capital
+investments.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+376)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-030">
+          <num>672.030</num>
+          <heading>ï¿½Beneficiaryï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Beneficiaryï¿½
+means any person to whom the deposits of an account are to be paid upon the
+occurrence of a specified condition.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+376)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-040">
+          <num>672.040</num>
+          <heading>ï¿½Boardï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Boardï¿½
+means the board of directors of a credit union formed pursuant to the
+provisions of this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+376)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-050">
+          <num>672.050</num>
+          <heading>ï¿½Chairï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Chairï¿½
+means the chair of the board of a credit union.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+376)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-061">
+          <num>672.061</num>
+          <heading>ï¿½Commissionerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Commissionerï¿½
+means the Commissioner of Financial Institutions.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+2013)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-070">
+          <num>672.070</num>
+          <heading>ï¿½Credit unionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Credit
+unionï¿½ means a cooperative, nonprofit corporation, organized for the purposes
+of promoting thrift among its members and creating a source of credit for such
+members at a fair and reasonable rate of interest.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+376)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-080">
+          <num>672.080</num>
+          <heading>ï¿½Demandï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Demandï¿½
+means a request for withdrawal or payment in accordance with all conditions of
+the account and bylaws of the credit union.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+376)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-090">
+          <num>672.090</num>
+          <heading>ï¿½Departmentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Departmentï¿½
+means the Department of Business and Industry.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+376; A1993,
+1896)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-100">
+          <num>672.100</num>
+          <heading>ï¿½Depositsï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Depositsï¿½
+means that part of the savings liability of a credit union which is credited to
+the account of the holder thereof.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+377)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-110">
+          <num>672.110</num>
+          <heading>ï¿½Directorï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Directorï¿½
+means the Director of the Department.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+377; A1993,
+1897)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-120">
+          <num>672.120</num>
+          <heading>ï¿½Dividendï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Dividendï¿½
+means that part of the net earnings of an association which is declared payable
+by the board to the holders of record of permanent capital stock.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+377)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-125">
+          <num>672.125</num>
+          <heading>ï¿½Fixed assetsï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Fixed
+assetsï¿½ means the real property which constitutes the premises of a credit
+union or any of its offices, and the furniture, fixtures and equipment of the
+credit union.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+783)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-130">
+          <num>672.130</num>
+          <heading>ï¿½Immediate familyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Immediate
+familyï¿½ includes any relative, by consanguinity or marriage, of a member living
+in the memberï¿½s household and includes foster and adopted children.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+377)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-140">
+          <num>672.140</num>
+          <heading>ï¿½Loan officerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Loan
+officerï¿½ means the officer appointed by the board of directors or by the credit
+committee to process all applications for loans from the members of the credit
+union.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+377)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-145">
+          <num>672.145</num>
+          <heading>ï¿½Memberï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Memberï¿½
+means a person who has an account with a credit union and meets the
+qualifications for membership specified in the articles of incorporation and
+bylaws of the credit union.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+783)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-150">
+          <num>672.150</num>
+          <heading>ï¿½Mergerï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Mergerï¿½
+means that consolidation of corporate structures which results in the uniting
+of substantially all the assets and liabilities of one state-chartered
+corporation with those of another such corporation or with those of a federal
+corporation.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+377)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-160">
+          <num>672.160</num>
+          <heading>ï¿½Multiple-party accountï¿½ defined.</heading>
+          <subsection eId="672-160__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Multiple-party accountï¿½ means:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-160__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An account in the name of two or more
+persons, any one or more of whom may make withdrawals;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-160__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An account in the name of one or more persons
+as trustee for one or more beneficiaries;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-160__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An account established for deposit of funds
+of a partnership, joint venture or other association; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-160__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An account controlled by two or more persons
+as the duly authorized agents or trustees for a corporation, unincorporated
+association, charitable or civil organization or any trust, except trusts of
+deposits evidenced solely by the form of the deposit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-160__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>At least one party to a multiple-party
+account shall be a member of the credit union in which the account is
+established.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+377)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-170">
+          <num>672.170</num>
+          <heading>ï¿½Net contributionï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Net
+contributionï¿½ means the sum of all deposits which a party to a multiple-party
+account has made added to any dividends or interest due, less all withdrawals.
+It includes, in addition, any deposit life insurance proceeds added to the
+account because of the death of a party whose net contribution is in question.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+377)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-180">
+          <num>672.180</num>
+          <heading>ï¿½Partyï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Partyï¿½
+means any person who, by the terms of the account, has a present right of
+withdrawal in a multiple-party account. Unless the context indicates otherwise,
+it includes a guardian, conservator-trustee, personal representative, assignee,
+an attaching creditor of a party or a trustee. This term does not include any
+named beneficiary.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+377)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-190">
+          <num>672.190</num>
+          <heading>ï¿½Paymentï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Paymentï¿½
+means the withdrawal and payment of sums on deposit on the directive of a
+party.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+377)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-210">
+          <num>672.210</num>
+          <heading>ï¿½Proof of deathï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Proof
+of deathï¿½ means a death certificate or other statement issued by an appropriate
+official which indicates that a named person is deceased.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+377)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-220">
+          <num>672.220</num>
+          <heading>ï¿½Sums on depositï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Sums
+on depositï¿½ means the balance payable on a multiple-party account including
+interest, dividends and any deposit life insurance proceeds added to the
+account because of the death of a party.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+377)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-230">
+          <num>672.230</num>
+          <heading>ï¿½Trust accountï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Trust
+accountï¿½ means any account which states that a party is a trustee for one or
+more identified persons, including but not limited to minors.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+378)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-240">
+          <num>672.240</num>
+          <heading>ï¿½Withdrawalï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Withdrawalï¿½
+means payment to a party or a third person pursuant to a directive of a party.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+378)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-250">
+          <num>672.250</num>
+          <heading>Administration of chapter; regulations of Commissioner.</heading>
+          <content>
+            <p>The Commissioner shall administer the provisions
+of this chapter, subject to administrative supervision by the Director. The
+Commissioner shall make the decisions and determinations and adopt regulations
+which are necessary or reasonably appropriate to accomplish the purposes of
+this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+378; A1977,
+96;1983,
+1830;1987,
+2013;2013,
+62)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-260">
+          <num>672.260</num>
+          <heading>Duties of Commissioner; regulations.</heading>
+          <subsection eId="672-260__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Adopt a regulation establishing the
+minimum surety bond required of credit unions in relation to the amount of
+property under their control.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-260__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Adopt a regulation that sets forth the
+records a credit union must keep and prescribes the period for which those
+records must be retained.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-260__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Maintain the original application of
+every credit union in a permanent file.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-260__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Maintain for at least 6 years, every
+report filed by a credit union with the Division of Financial Institutions.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-260__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 672.800and672.810, deposit all fees, charges for
+expenses, assessments and other money which is collected pursuant to the
+provisions of this chapter or any regulation adopted pursuant thereto in the
+State Treasury pursuant to the provisions ofNRS
+658.091.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-260__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Prepare copies of articles of
+incorporation and bylaws consistent with the provisions of this chapter which
+may be used by persons interested in organizing a credit union.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+378; A1977,
+102;1983,
+1328,1639,1830,2015;1985,
+784;1987,
+2013;1989,
+924;1999,
+1452;2003,
+3234)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-270">
+          <num>672.270</num>
+          <heading>Powers of Commissioner concerning regulations and legal actions.</heading>
+          <subsection eId="672-270__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Adopt regulations, subject to the
+advice of the Credit Union Advisory Council, establishing chartering,
+supervisory and examination fees; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-270__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Cause appropriate legal action to be
+taken in the district court of any county to secure an injunction or order
+restraining a violation of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+378; A1983,
+1831;1987,
+2013;2013,
+63)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-275">
+          <num>672.275</num>
+          <heading>Certain relationships between employee of Division of Financial
+Institutions and licensee prohibited; termination of prohibited relationship.</heading>
+          <subsection eId="672-275__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except as provided in subsections 3 and
+4, an officer or employee of the Division of Financial Institutions shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-275__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be directly or indirectly interested in or
+act on behalf of any credit union chartered by this state;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-275__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Receive, directly or indirectly, any payment
+from any such credit union;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-275__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Be indebted to any state credit union;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-275__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Engage in the negotiation of loans for others
+with any such credit union; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-275__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Obtain credit or services from a state credit
+union conditioned upon a fraudulent practice or undue or unfair preference over
+other customers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-275__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An employee of the Division of
+Financial Institutions in the unclassified service of the State shall not
+obtain new extensions of credit from a state credit union while in office.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-275__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any officer or employee of the Division
+of Financial Institutions may be indebted to a credit union on the same terms
+as are available to the public generally upon:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-275__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A mortgage loan on his or her own real
+property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-275__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A secured installment debt.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-275__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An unsecured debt.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-275__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Any officer or employee of the Division
+of Financial Institutions may establish and maintain savings deposits or share
+accounts with credit unions to the greatest amount insured, receive interest on
+those deposits or shares and borrow money secured by a pledge of those deposits
+or shares.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-275__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If an officer or employee of the
+Division of Financial Institutions has a service, a preferred consideration, an
+interest or a relationship prohibited by this section at the time of his or her
+appointment or employment, or obtains it during his or her employment, he or
+she shall terminate it within 120 days after the date of his or her appointment
+or employment or the discovery of the prohibited act.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+1829)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-282">
+          <num>672.282</num>
+          <heading>Application for license: Additional requirements; fingerprints;
+grounds for refusal to issue license.</heading>
+          <subsection eId="672-282__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to any other requirements
+set forth in this chapter, each applicant must submit:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-282__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Proof satisfactory to the Commissioner that
+the applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="672-282__subsec_1__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Has a good reputation for honesty,
+trustworthiness and integrity and is competent to transact the business for
+which the applicant seeks to be licensed in a manner which protects the
+interests of the general public.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="672-282__subsec_1__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Has not made a false statement of
+material fact on the application for the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="672-282__subsec_1__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Has not committed any of the acts
+specified in subsection 2.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="672-282__subsec_1__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Has not had a license issued pursuant
+to this chapter suspended or revoked within the 10 years immediately preceding
+the date of the application.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="672-282__subsec_1__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Has not been convicted of, or entered
+a plea of nolo contendere to, a felony or any crime involving fraud,
+misrepresentation or moral turpitude.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="672-282__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A complete set of his or her fingerprints and
+written permission authorizing the Division of Financial Institutions of the
+Department of Business and Industry to forward the fingerprints to the Central
+Repository for Nevada Records of Criminal History for submission to the Federal
+Bureau of Investigation for its report.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-282__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>In addition to any other lawful
+reasons, the Commissioner may refuse to issue a license to an applicant if the
+applicant:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-282__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Has committed or participated in any act
+which, if committed or done by a holder of a license, would be grounds for the
+suspension or revocation of the license.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-282__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has previously been refused a license
+pursuant to this chapter or has had such a license suspended or revoked.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-282__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Has participated in any act which was a basis
+for the refusal or revocation of a license pursuant to this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-282__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Has falsified any of the information
+submitted to the Commissioner in support of the application for the license.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+1889)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-284">
+          <num>672.284</num>
+          <heading>Suspension or revocation of license: Additional grounds.</heading>
+          <content>
+            <p>In addition to any other lawful reasons, the
+Commissioner may suspend or revoke a license if the licensee has engaged in any
+act that would be grounds for denying a license pursuant this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+1890)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-286">
+          <num>672.286</num>
+          <heading>Use or change of business name; prohibitions.</heading>
+          <subsection eId="672-286__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A licensee must obtain the approval of
+the Commissioner before using or changing a business name.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-286__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A licensee shall not:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-286__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Use any business name which is identical or
+similar to a business name used by another licensee under this chapter or which
+may mislead or confuse the public.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-286__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Use any printed forms which may mislead or
+confuse the public.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+1890)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-288">
+          <num>672.288</num>
+          <heading>Authorization of Commissioner to investigate business; free
+access required; compelling attendance of witnesses.</heading>
+          <subsection eId="672-288__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>For the purpose of discovering
+violations of this chapter or of securing information lawfully required under
+this chapter, the Commissioner or his or her duly authorized representatives
+may at any time investigate the business and examine the books, accounts,
+papers and records used therein of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-288__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any credit union;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-288__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any other person engaged in an activity for
+which a license is required pursuant to the provisions of this chapter; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-288__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any person whom the Commissioner has
+reasonable cause to believe is violating or is about to violate any provision
+of this chapter, whether or not the person claims to be within the authority or
+beyond the scope of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-288__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>For the purpose of examination, the
+Commissioner or his or her authorized representatives shall have and be given
+free access to the offices and places of business, files, safes and vaults of
+such persons.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-288__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner may require the
+attendance of any person and examine him or her under oath regarding:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-288__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any transaction or business regulated
+pursuant to the provisions of this chapter; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-288__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The subject matter of any audit, examination,
+investigation or hearing.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+1890)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-290">
+          <num>672.290</num>
+          <heading>Credit Union Advisory Council.</heading>
+          <subsection eId="672-290__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Credit Union Advisory Council,
+consisting of five members appointed by the Governor, is hereby created to
+consult with, advise and make recommendations to the Commissioner in all
+matters pertaining to credit unions.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-290__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Governor shall appoint members who
+have tested credit union experience from a list of recommended names submitted
+by the Nevada Credit Union League.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-290__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>After the initial terms, members serve
+terms of 4 years, except when appointed to fill unexpired terms.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-290__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Chair of the Advisory Council must
+be elected annually by and from the members thereof.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-290__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The meetings of the Advisory Council
+may be held at such times and places as the Chair or Commissioner determines
+and the Advisory Council may meet at least once every 6 months.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+378; A1977,
+1263;1981,
+71,1996;1983,
+1449,1831;1985,
+447;1987,
+2013;2023,
+3266)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-295">
+          <num>672.295</num>
+          <heading>Applicability of provisions concerning Regulatory
+Experimentation Program for Product Innovation.</heading>
+          <content>
+            <p>Except
+as otherwise required by the Director of the Department of Business and
+Industry pursuant toNRS 657A.430or657A.620, the provisions of this chapter
+do not apply to a participant in the Regulatory Experimentation Program for
+Product Innovation established and administered pursuant tochapter 657Aof NRS.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2019,
+4000)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-300">
+          <num>672.300</num>
+          <heading>Requirement of incorporation; exceptions; applicability ofNRS 81.410to81.540,
+inclusive; perpetual existence.</heading>
+          <subsection eId="672-300__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Except for a credit union organized
+under the Federal Credit Union Act or a foreign credit union which has been
+issued a certificate of authority by the Commissioner, any credit union whose
+principal business is to borrow, loan and invest money on behalf of its members
+and which issues membership certificates must be incorporated under the
+provisions of this chapter. For that purpose, the provisions ofNRS 81.410to81.540, inclusive, which are not in
+conflict with the provisions of this chapter, apply to such corporations and to
+the officers and stockholders thereof, except as otherwise provided inNRS 672.342to672.347, inclusive.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-300__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A credit union organized under the
+provisions of this chapter has perpetual existence, subject to dissolution as
+provided in this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+379; A1977,
+890;1983,
+2015;1985,
+315;1987,
+2014)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-310">
+          <num>672.310</num>
+          <heading>Procedure for incorporation; fees set by regulation.</heading>
+          <subsection eId="672-310__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Secretary of State shall not issue
+any certificate of incorporation to any credit union authorizing it to do
+business in this state until the articles of incorporation are approved by the
+Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-310__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>An amendment to the articles of
+incorporation may not be filed by the Secretary of State without the written
+approval of the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-310__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Not less than seven persons who are
+residents of Nevada, have a common bond and are of legal age who desire to
+organize a credit union under this chapter shall first execute in triplicate an
+application, upon forms to be issued by the Commissioner, for permission to
+organize an association. The applicants shall submit with or include in their application:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-310__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A copy of the articles of incorporation which
+must comply with the provisions ofNRS
+81.440except where those provisions conflict with the provisions of this
+chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-310__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The par value of the shares, which must be $5
+or some multiple thereof.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-310__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The names and addresses of the applicants and
+an itemized account of the financial condition of the applicants and the
+proposed credit union.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-310__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The name, which must include the words
+ï¿½credit union,ï¿½ and the principal place of business.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-310__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any additional information which the
+Commissioner may require to determine the character and responsibility of the
+applicants and the need for a credit union in the community to be served.
+ï¿½The
+incorporators shall submit a set of proposed bylaws to the Commissioner with
+their application and the bylaws when approved by the Commissioner are
+effective upon filing the articles of incorporation. The Commissioner shall
+approve or disapprove the application within 30 days following its receipt.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-310__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Every application for permission to
+organize, as provided for in this section, must be accompanied by an
+application fee and a fee payment to cover expenses attendant upon the
+investigation required for approval. The amount of the fees must be established
+by regulation adopted by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-310__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The subscribers for a credit union
+charter shall not transact any business until formal approval of the charter
+has been received.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+379; A1977,
+890;1983,
+1639,1831,2016;1987,
+2014)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-320">
+          <num>672.320</num>
+          <heading>Amendment of articles of incorporation; bylaws.</heading>
+          <subsection eId="672-320__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The articles of incorporation or bylaws
+may be amended as provided in the bylaws. Any amendment to the articles of
+incorporation or bylaws do not become effective until approved in writing by the
+Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-320__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner shall not charge any
+fee for approving amendments to the articles of incorporation or bylaws of any
+credit union organized pursuant to this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+380; A1977,
+891;1983,
+1832;1987,
+2015)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-330">
+          <num>672.330</num>
+          <heading>Offices; principal place of business.</heading>
+          <subsection eId="672-330__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A credit union may maintain, with the
+approval of the Commissioner, offices at locations other than its main office
+if the maintenance of the offices is reasonably necessary to furnish service to
+its members.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-330__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A credit union may change its principal
+place of business within this state upon providing written notice to the
+Division of Financial Institutions.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-330__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A credit union may share office space
+with one or more credit unions and contract with a corporation to provide
+facilities or personnel.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+380; A1983,
+1832;1987,
+2015)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-340">
+          <num>672.340</num>
+          <heading>Fiscal year.</heading>
+          <content>
+            <p>The
+fiscal year of all credit unions organized under this chapter shall end on the
+last day of December.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+380)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-342">
+          <num>672.342</num>
+          <heading>Certificate of authority required.</heading>
+          <content>
+            <p>No
+credit union organized under the laws of another state may commence or transact
+any business or maintain an office in this state without first obtaining a
+certificate of authority from the Commissioner.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2014; A1983,
+1645;1987,
+2015)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-343">
+          <num>672.343</num>
+          <heading>Application for certificate of authority: Filing; form;
+contents; withdrawal of application.</heading>
+          <subsection eId="672-343__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A copy of the instrument or authority
+by which the credit union was created and a copy of its bylaws.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-343__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A statement of its membership, if not
+contained in its bylaws.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-343__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A copy of the most recent report
+submitted by the credit union to the authorized officer of the state in which
+it was organized.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-343__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Any other information required by the
+Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-343__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The Commissioner shall consider an
+application to be withdrawn if the Commissioner has not received all
+information and fees required to complete the application within 12 months
+after the date the application is first submitted to the Commissioner or within
+such later period as the Commissioner determines in accordance with any existing
+policies of joint regulatory partners. If an application is deemed to be
+withdrawn pursuant to this subsection or if the applicant otherwise withdraws
+the application, the Commissioner may not issue a license to the applicant
+unless the applicant submits a new application and pays any required fees.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2014; A1983,
+1646;1987,
+177,2015;2005,
+1890)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-3435">
+          <num>672.3435</num>
+          <heading>Fee for initial investigation; annual fees; costs for additional
+investigations; regulations.</heading>
+          <subsection eId="672-3435__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner shall charge and
+collect a fee of not more than $1,000 for an initial investigation from each
+foreign credit union which applies for certification. The fee is not
+refundable. An annual fee of not more than $1,000 must be paid by each foreign
+credit union for its initial office and not more than $200 for each branch
+office. Costs for additional examinations and investigations must be paid by
+the credit union to the Commissioner at the rate established and, if
+applicable, adjusted pursuant toNRS 658.101.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-3435__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Except as otherwise provided inNRS 658.101, the Commissioner shall by
+regulation determine the amount of the fees required pursuant to this section.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+177; A2005,
+1891;2017,
+402)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-344">
+          <num>672.344</num>
+          <heading>Requirements for issuance of certificate.</heading>
+          <subsection eId="672-344__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The members of the credit union to be
+served in this State are adequately protected by any form of security which is
+comparable to that required of credit unions organized under the provisions of
+this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-344__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The officer who supervises the credit
+union in the state in which it was organized has authorized it to do business
+in Nevada and agrees to furnish, upon request, copies of reports relating to
+the credit union.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-344__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The members to be served in this State
+have a need for the service and adequate service is not available through
+existing credit unions.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-344__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A registered agent has been designated.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-344__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The state in which the credit union was
+organized issues comparable authorization to credit unions organized under the
+provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2014; A1983,
+1646;1985,
+784;1987,
+2015;2007,
+2727)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-345">
+          <num>672.345</num>
+          <heading>Applicable law; filing of annual report.</heading>
+          <subsection eId="672-345__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Serve its members in this state in
+accordance with its bylaws and the laws of the state in which it was organized,
+except where those laws conflict with the provisions of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-345__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>File with the Commissioner a copy of
+its annual report at the time it files a similar report with the officer of the
+state in which it was organized.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2014; A1983,
+1646;1987,
+2016)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-3455">
+          <num>672.3455</num>
+          <heading>Application for certificate of authority to open branch offices.</heading>
+          <content>
+            <p>A foreign credit union which has been issued a
+certificate of authority may apply to the Commissioner for a certificate of
+authority to open one or more branch offices in this state. Such an application
+must be made on a form prescribed by the Commissioner.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+177)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-346">
+          <num>672.346</num>
+          <heading>Examination of records; revocation of certificate.</heading>
+          <subsection eId="672-346__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Examine the records of any foreign
+credit union which holds a certificate of authority issued by the Commissioner
+at any time he or she deems necessary.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-346__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Revoke a certificate of authority
+issued to a credit union if he or she finds that the credit union has violated
+any provision of this chapter or the regulations of the Commissioner.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2015; A1983,
+1647;1987,
+2016)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-347">
+          <num>672.347</num>
+          <heading>Applicability of provisions ofchapter 80of NRS.</heading>
+          <content>
+            <p>The provisions ofchapter
+80of NRS which are not in conflict with the provisions of this chapter
+apply to any foreign credit union which holds a certificate of authority to
+transact business or maintain an office in this State.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1983,
+2015)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-350">
+          <num>672.350</num>
+          <heading>Board of directors: Number, election and terms of members;
+procedure for filling vacancy.</heading>
+          <subsection eId="672-350__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The business affairs of a credit union
+shall be directed by an odd-numbered board of not fewer than five directors to
+be elected at the annual meetings by and from the members, and an audit and
+credit committee if appointed by the board. The persons designated in the
+articles of incorporation shall be the first directors.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-350__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>All members of the board and such
+committees shall hold office for such terms as the bylaws may provide.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-350__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Vacancies in the board of directors
+shall be filled by vote of the members at the annual meeting or at a special
+meeting called for that purpose. The board may fill any vacancies occurring in
+the board until successors elected at the annual meeting or special meeting
+have qualified. The board shall also fill vacancies in the credit and audit
+committees.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+380)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-360">
+          <num>672.360</num>
+          <heading>Board of directors: Responsibilities; meetings; executive
+committee.</heading>
+          <subsection eId="672-360__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board of directors is responsible
+for the general direction of the affairs, funds and records of the credit union
+and shall meet as often as necessary to accomplish their duties, but not less
+than once a month.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-360__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The board may appoint an executive
+committee of not less than three directors who may be authorized, by a majority
+vote of the whole board, to act for the board subject to any conditions or
+limitations the board may prescribe.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+380)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-370">
+          <num>672.370</num>
+          <heading>Board of directors: Duties.</heading>
+          <subsection eId="672-370__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Purchase a blanket fidelity bond in
+accordance with the regulations of the Commissioner which provides the credit
+union with protection against losses from misappropriation, defalcation in
+breach of trust, negligence, acts of God or nature, fire, burglary, robbery or
+other cause over which the bonded officers, employers and agents had no
+control;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-370__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Declare dividends in the manner
+prescribed in the bylaws;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-370__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Determine the interest rate to be
+charged on loans and paid on deposits;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-370__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Limit the number of shares and the
+amount of deposits which may be owned by any member;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-370__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Establish the compensation of all
+employees and officers;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-370__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Establish the maximum secured and
+unsecured loan which may be made to any one member;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-370__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Designate a depository or depositories
+for the money of the credit union;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-370__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Suspend or remove any member who fails
+to perform or negligently performs his or her assigned duties;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-370__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>Establish compensation to be paid any
+employee, officer or other persons performing services on behalf of the credit
+union;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-370__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>Determine from time to time the
+interest rate, consistent with the provisions of this chapter, which will be
+charged on loans; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-370__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>Authorize interest refunds to members
+from income earned and received in proportion to interest paid by them on such
+classes of loans. Such refunds are subject to conditions imposed by the board.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+380; A1983,
+1833;1987,
+2016)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-380">
+          <num>672.380</num>
+          <heading>Board of directors: Powers.</heading>
+          <subsection eId="672-380__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Act upon applications for membership or
+appoint membership officers from the members of the credit union to act upon membership
+applications subject to conditions imposed by the board. If membership officers
+are appointed they shall submit at each board meeting a list of approved or
+pending applications for membership.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-380__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Invest surplus funds or designate an
+officer or committee to be responsible for making investments subject to rules
+and procedures established by the board of directors.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-380__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Authorize the employment of persons
+necessary to carry on the business of the credit union.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-380__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Authorize the conveyance of property.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-380__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Borrow or lend money to carry on the
+functions of the credit union.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-380__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Appoint any special committees which
+the board feels necessary to carry on the business of the credit union.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-380__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Perform or authorize any action not
+inconsistent with this chapter and not specifically reserved by the bylaws for
+the members.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-380__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Employ a general manager to be in
+charge of operations or, in lieu thereof, designate the treasurer to act as
+general manager and be in active charge of the affairs of the credit union.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-380__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>Amend the bylaws of the credit union.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+381)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-390">
+          <num>672.390</num>
+          <heading>Appointment of audit committee: Duties; powers; suspension of
+member; employment of certified public accountant.</heading>
+          <subsection eId="672-390__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board may appoint an audit
+committee to make an annual audit of the financial records of the credit union
+and any interim audits as may be deemed necessary by the board or as may be
+directed by the Commissioner. A copy of the report must be submitted to the
+board and the Commissioner and a summary presented to the members at the next
+annual meeting.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-390__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The audit committee may by unanimous
+vote suspend any director, officer or member of the credit union following an
+audit, for any violation of this chapter, the charter or bylaws or for any
+other practice which the audit committee deems to be unsafe or unauthorized. In
+such cases, the audit committee shall call a special meeting of the members not
+less than 7 nor more than 21 days following the suspension and the suspension
+must be ratified or overturned by the members.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-390__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any member of the audit committee may
+be suspended by the board for the same reasons and in the same manner as
+provided in subsection 2.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-390__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The audit committee may by a majority
+vote call a special meeting of the members to consider any violation of this
+chapter, the charter or bylaws or any practice of the credit union deemed by
+the audit committee to be unsafe or unauthorized.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-390__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The board of directors or the audit
+committee may employ the services of a certified public accountant to complete
+the necessary audit of the records of the credit union.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+381; A1981,
+1813;1983,
+1640,1833,2016;1987,
+2017;2017,
+3486)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-400">
+          <num>672.400</num>
+          <heading>Credit committee; loan officer.</heading>
+          <subsection eId="672-400__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board may appoint a:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-400__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Credit committee consisting of an odd number
+of members of the credit union, but not less than three members; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-400__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Loan officer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-400__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If a credit committee is appointed by
+the board, it shall hold such meetings as the business of the credit union may
+require but it shall meet at least once a month to consider applications for
+loans. A loan may not be made unless it is approved by a majority of the
+members of the committee who are present at the meeting at which the
+application is considered.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-400__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The credit committee may appoint a loan
+officer from among its members and delegate to him or her the power to approve
+loans. Only one member of the credit committee may be appointed as loan officer
+or assistant loan officer.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-400__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>If a loan is not approved by a loan
+officer, the application for the loan must be reviewed by the credit committee
+or the board of directors, whomever appointed the loan officer. All the members
+of the credit committee or the board present at the review must approve the
+application before the loan may be made.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-400__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>For purposes of internal control, a
+loan officer may not disburse funds of the credit union for any loan which has
+been approved by him or her in his or her capacity as loan officer.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+382; A1983,
+2017)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-410">
+          <num>672.410</num>
+          <heading>Removal of director, officer or employee on objection of
+Commissioner.</heading>
+          <content>
+            <p>If the Commissioner
+notifies the board in writing that he or she has information that any director,
+officer or employee of a credit union is failing in the performance of his or
+her duties, the board shall meet and consider such matter forthwith. The
+Commissioner must have notice of the time and place of the meeting. If the
+board of directors finds the Commissionerï¿½s objection to be well founded, such
+director, officer or employee shall be removed immediately.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+382; A1983,
+1834;1987,
+2017)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-420">
+          <num>672.420</num>
+          <heading>Officers: Election; designation; bonds; terms; duties.</heading>
+          <subsection eId="672-420__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>At the organizational meeting and
+within 30 days following each annual meeting, the directors shall elect, from
+their own number, the executive officers of the corporation. The officers must
+be designated as:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-420__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Chair of the board;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-420__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Vice chair of the board;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-420__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Treasurer; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-420__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Secretary.
+ï¿½The
+treasurer and secretary may be the same person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-420__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The treasurer or general manager shall
+give a fidelity bond with good and sufficient surety in an amount and character
+to be determined by the board in compliance with regulations prescribed by the
+Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-420__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Each officer shall serve a term of 1
+year or until such time as successors are chosen and have qualified.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-420__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The duties of each office must be as
+prescribed in the bylaws of the credit union.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+382; A1983,
+1834;1987,
+2017)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-430">
+          <num>672.430</num>
+          <heading>List of directors, officers and committee members.</heading>
+          <content>
+            <p>Within 30 days following the election of the
+executive officers, the secretary shall submit to the Commissioner a list of
+the names and addresses of the directors, officers and committee members who
+have been elected or appointed.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+383; A1983,
+1834;1987,
+2018)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-440">
+          <num>672.440</num>
+          <heading>Fiduciary relationship of directors and officers.</heading>
+          <content>
+            <p>Directors and officers of an association shall
+be deemed to stand in a fiduciary relation to the credit union and shall
+discharge the duties of their respective positions in good faith and with the
+diligence, care and skill which ordinary, prudent persons would exercise under
+similar circumstances in similar positions.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+383; A1997,
+1623)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-450">
+          <num>672.450</num>
+          <heading>Compensation and expenses of directors, officers and members.</heading>
+          <subsection eId="672-450__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A director or committee member may not
+be compensated for his or her services except that he or she may be provided
+reasonable life, health, accident and similar insurance protection.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-450__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any member of the credit union may be
+reimbursed for necessary expenses incidental to the performance of credit union
+business. All such expenses shall be approved by the board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-450__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Subsection 1 does not apply to officers
+of the credit union who also serve as members of the board or a committee.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+383)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-460">
+          <num>672.460</num>
+          <heading>General powers; waiver or modification of law by Commissioner.</heading>
+          <subsection eId="672-460__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Has all the powers granted byNRS 81.500that are not inconsistent with
+the provisions of this chapter and in addition thereto, the powers enumerated
+inNRS 672.470to672.500, inclusive; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-460__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>May exercise any authority and perform
+all acts that a federal credit union may exercise or perform, with the consent
+and written approval of the Commissioner. The Commissioner may, by regulation,
+waive or modify a requirement of Nevada law if the corresponding requirement
+for federal credit unions has been or is eliminated or modified.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+386; A2001,
+2050)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-470">
+          <num>672.470</num>
+          <heading>Receiving and paying out deposits; borrowing, selling and
+purchasing assets.</heading>
+          <subsection eId="672-470__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Receive from its members or from the
+members of another credit union deposits which are payable on demand and honor
+requests for withdrawals in the form of checks or drafts.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-470__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Receive deposits from the State
+Treasurer which are payable on demand pursuant to the provisions ofchapter 356of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-470__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Borrow from any source in accordance
+with the policy established by the board of directors and discount and sell any
+eligible obligations.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-470__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Sell all or any part of its assets or
+purchase all or any part of the assets of another credit union.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+386; A1981,
+1368;1983,
+1835;1987,
+2018)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-480">
+          <num>672.480</num>
+          <heading>Fees and assessments.</heading>
+          <subsection eId="672-480__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Require, at the discretion of the
+directors, the payment of an entrance fee or annual membership fee of any
+person admitted to membership;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-480__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Collect, receive and disburse moneys
+and charge a fee for services rendered in connection with the sale of
+negotiable checks, money orders and other money-type instruments and for such
+other purposes as may provide benefit or convenience to its members; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-480__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Assess charges to members in accordance
+with the bylaws for failure to promptly meet their obligations to the credit
+union.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+387)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-490">
+          <num>672.490</num>
+          <heading>Membership in other credit union or organization; performance of
+certain services.</heading>
+          <subsection eId="672-490__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Hold membership in other credit unions
+organized under this chapter, in the Nevada Credit Union League and in other
+organizations composed of credit unions;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-490__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Perform such tasks and missions as may
+be requested by the Federal Government, the State of Nevada or any agency or
+political subdivision thereof, including, without limitation, a city, county or
+school district, when approved by the board of directors and not inconsistent
+with the provisions of this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-490__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Act as fiscal agent for and receive
+deposits from the Federal Government, the State of Nevada or an agency or
+political subdivision thereof, including, without limitation, a city, county or
+school district; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-490__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Perform trust services for its members,
+including the trust estates of deceased members, and act as a custodian of
+qualified pension funds of self-employed individuals under the provisions of 26
+U.S.C. ï¿½ï¿½ 861 et seq.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+387; A1999,
+1453)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-500">
+          <num>672.500</num>
+          <heading>Donations and contributions.</heading>
+          <subsection eId="672-500__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Contribute to, support or participate
+in any nonprofit service facility whose services will benefit the credit union
+or its membership; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-500__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Make donations or contributions to any
+nonprofit civic, charitable or community organization as authorized by the
+board of directors.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+387)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-510">
+          <num>672.510</num>
+          <heading>Eligibility for membership.</heading>
+          <subsection eId="672-510__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The membership of a particular credit
+union shall be limited to the subscribers to the articles of incorporation and
+such other persons who have:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-510__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The common bond set forth in the bylaws;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-510__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Paid the entrance fee provided in the bylaws;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-510__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Subscribed for one or more shares and have
+paid the initial installment thereon; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-510__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Complied with other requirements specified in
+the articles of incorporation or bylaws.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-510__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The common bond required for membership
+in credit unions organized under the provisions of this chapter may include,
+but are not limited to persons who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-510__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Have a similar occupation, association or
+interest;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-510__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Reside within an identifiable neighborhood,
+community or rural district; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-510__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Are employed by the same employer,
+ï¿½and members
+of the immediate families of such persons.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-510__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any member of a credit union who loses
+the bond that is characteristic of all other members may be permitted to retain
+his or her membership in the credit union at the discretion of the board of
+directors.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+383)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-520">
+          <num>672.520</num>
+          <heading>Eligibility of minor; limitations.</heading>
+          <subsection eId="672-520__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Shares may be issued to and deposits
+received from a minor and such minor may withdraw the shares and deposits,
+including the dividends and interest thereon. For purposes of making deposits,
+share investments and withdrawals a minor shall be deemed of legal age.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-520__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A minor under 16 years of age is not
+entitled to vote in the meeting of the members either personally or through his
+or her parent or guardian. A person may not become a director until he or she
+has reached the age of majority.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+383)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-530">
+          <num>672.530</num>
+          <heading>Subscription to and transfer of shares; lien for sums due;
+reduction in shares.</heading>
+          <subsection eId="672-530__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Shares may be subscribed to, paid for
+and transferred in such manner as the bylaws may prescribe. A certificate shall
+not be issued to denote ownership of a share in a credit union.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-530__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The credit union may impress a lien on
+the shares, deposits, accumulated dividends or interest of a member in his or
+her individual, joint or trust account for any sum due the credit union from
+such member or for any loan endorsed by him or her.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-530__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the losses of any credit union,
+resulting from a depreciation in value of its loans or investments or
+otherwise, exceed its undivided earnings and reserve fund so that the estimated
+value of its assets is less than the total amount due the shareholders, the
+credit union may, by a majority vote of the entire membership, order a
+reduction in the shares of each of its shareholders to divide the loss
+proportionately among the members. If thereafter the credit union realizes from
+such assets a greater amount than was fixed by the order of reduction, such
+excess shall be divided among the shareholders whose assets were reduced, but
+only to the extent of such reduction.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+387)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-540">
+          <num>672.540</num>
+          <heading>Real and personal property subject to taxation.</heading>
+          <content>
+            <p>The real property and any tangible personal
+property owned by a credit union organized pursuant to this chapter or any
+other provision of law is subject to taxation to the same extent as other similar
+property is taxed.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+394; A1985,
+1182)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-550">
+          <num>672.550</num>
+          <heading>Meetings of members.</heading>
+          <subsection eId="672-550__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The annual meeting and any special
+meetings of the members of the credit union shall be held at the time and place
+and in the manner indicated in the bylaws.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-550__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A member may not vote by proxy, but a
+society, association, copartnership or corporation having membership in the
+credit union may be represented and vote by one of its members or shareholders
+if such person has been fully authorized by the governing body of the society,
+association, copartnership or corporation to represent it.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-550__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>At all meetings a member has but one
+vote irrespective of his or her share holdings.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+386)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-560">
+          <num>672.560</num>
+          <heading>Savings deposits; special clubs and accounts.</heading>
+          <subsection eId="672-560__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A credit union may receive savings
+deposits from its members, subject to such conditions and such return as may be
+established by the board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-560__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Christmas clubs, vacation clubs and
+other thrift accounts may be operated in accordance with the provisions of the
+bylaws.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+383)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-570">
+          <num>672.570</num>
+          <heading>Multiple-party accounts: Authorization; disbursement of money;
+limitations.</heading>
+          <subsection eId="672-570__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A credit union may enter into
+multiple-party accounts to the same extent that they may enter into
+single-party accounts. Any multiple-party account may be paid, on demand, to
+any one or more of the parties unless the terms of the account expressly
+stipulate that joint signatures are required.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-570__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A credit union is not required to inquire
+as to the source of funds received for deposit to a multiple-party account or
+to inquire as to the proposed application of any sum withdrawn from an account.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-570__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A multiple-party account may be created
+with any person designated by the credit union member, but a joint tenant shall
+not be permitted to vote, obtain loans or hold office unless he or she is a
+qualified member.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+385)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-630">
+          <num>672.630</num>
+          <heading>Payment of trust accounts.</heading>
+          <subsection eId="672-630__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any account payable to a trustee for
+another person may be paid to the trustee on demand.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-630__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The protection provided a credit union
+in subsection 1 has no bearing on the rights of parties in disputes between
+themselves or their successors concerning the beneficial ownership of funds in,
+or withdrawn from, multiple-party accounts.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+385; A2011,
+1483)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-650">
+          <num>672.650</num>
+          <heading>Right to setoff against multiple-party accounts.</heading>
+          <content>
+            <p>Without qualifying any other statutory right
+to setoff or lien and subject to any contractual provision, when a party to a
+multiple-party account is indebted to a credit union, the credit union has a
+right to setoff against the entire amount of the account.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+386)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-670">
+          <num>672.670</num>
+          <heading>Regular reserves.</heading>
+          <subsection eId="672-670__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Before the payment of any dividend, the
+gross earnings of the credit union must be determined. From the gross earnings
+a regular reserve against losses must be set aside according to the following
+schedule:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-670__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Until the regular reserve equals 7.5 percent
+of the outstanding loans and risk assets, all credit unions with assets of
+$500,000 or less shall withhold 10 percent of the gross earnings. Thereafter, 5
+percent of the gross income must be withheld until the regular reserve reaches
+10 percent of the outstanding loans and risk assets.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-670__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Whenever a credit union has assets of more
+than $500,000 and has been in operation for at least 4 years, it shall maintain
+its regular reserve as follows:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="672-670__subsec_1__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Until the regular reserve equals 4
+percent of the outstanding loans and risk assets, the credit union shall
+withhold 10 percent of its gross earnings.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="672-670__subsec_1__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Thereafter, until the regular reserve
+equals 6 percent of its outstanding loan and risk assets, the credit union
+shall withhold 5 percent of its gross earnings.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="672-670__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Whenever the regular reserve falls below the
+required levels, it must be replenished by regular contributions sufficient to
+maintain the regular reserve at the levels required by paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-670__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-670__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-670__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The regular reserve belongs to the
+credit union and must not be distributed except on liquidation of the credit
+union or in accordance with a plan approved by the Commissioner.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+387; A1977,
+891;1983,
+1641,1835,2018;1987,
+2018)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-680">
+          <num>672.680</num>
+          <heading>Special reserves.</heading>
+          <subsection eId="672-680__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Required by regulations issued by the
+Commissioner; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-680__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Directed by the board of the credit
+union.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+388; A1983,
+1835;1987,
+2019)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-690">
+          <num>672.690</num>
+          <heading>Assets qualified for reserves.</heading>
+          <subsection eId="672-690__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Cash on hand;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-690__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Deposits or shares in federal or state
+banks, savings and loan associations, savings banks and credit unions;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-690__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Assets which are insured by, fully
+guaranteed as to principal and interest by, or due from the United States
+Government, its agencies, the Federal National Mortgage Association or the
+Government National Mortgage Association;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-690__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Loans to other credit unions;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-690__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Loans to members of the credit union
+which are fully secured by the shares of the member applying therefor;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-690__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Loans to students insured under the
+provisions of the Higher Education Act of 1965, 20 U.S.C. ï¿½ï¿½ 1071 et seq., or
+similar state insurance programs;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-690__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Loans insured under the National
+Housing Act, as amended, 12 U.S.C. ï¿½ 1703, by the Federal Housing Administration;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-690__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Shares or deposits in central credit
+unions organized under the provisions ofNRS
+672.850, or of any other state law or the Federal Credit Union Act of 1934,
+as amended, 12 U.S.C. ï¿½ï¿½ 1751 et seq.;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-690__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>Common trust investments which deal in
+investments authorized by this chapter;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-690__subsec_10">
+            <num>10.</num>
+            <content>
+              <p>Prepaid expenses;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-690__subsec_11">
+            <num>11.</num>
+            <content>
+              <p>Accrued interest on nonrisk
+investments;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-690__subsec_12">
+            <num>12.</num>
+            <content>
+              <p>Furniture and equipment;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-690__subsec_13">
+            <num>13.</num>
+            <content>
+              <p>Land and buildings; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-690__subsec_14">
+            <num>14.</num>
+            <content>
+              <p>A deposit for insurance for membersï¿½
+accounts required pursuant to subsection 3 ofNRS
+672.750.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+388; A1981,
+1814;1999,
+1453)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-700">
+          <num>672.700</num>
+          <heading>Dividends.</heading>
+          <subsection eId="672-700__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board may, after provision for the
+required reserves, declare a dividend to be paid from the remaining net
+earnings at a rate, interval and upon such shares as they determine. Dividends
+shall be paid on all paid-up shares outstanding at the close of the period for
+which the dividend is declared.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-700__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Shares which become fully paid-up
+during such dividend period and are outstanding at the close of the period are
+entitled to a proportional part of such dividend.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-700__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Dividend credit for a month may be
+accrued on shares which are or become fully paid up during that month.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+388)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-710">
+          <num>672.710</num>
+          <heading>Loans to members: Application; approval; limitations;
+participation loans; payment.</heading>
+          <subsection eId="672-710__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A credit union may make loans to
+members in accordance with the provisions of the bylaws upon receipt of
+approval by the credit committee or loan officer at a rate of interest agreed
+upon by the credit union and member.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-710__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Every application for a loan must be
+made in writing upon a form furnished by the credit union which has been
+approved by the board. The application must include the purpose for which the
+loan is desired and the security, if any, offered.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-710__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A loan must not be made to any member
+in an aggregate amount in excess of 10 percent of the credit unionï¿½s unimpaired
+capital and surplus.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-710__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>A credit union may participate with
+other credit unions, corporations or financial institutions in making loans to
+credit union members.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-710__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>A member may receive a loan in
+installments or in one sum and may pay the whole or any part of his or her loan
+on any day on which the office of the credit union is open for business.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+389; A1981,
+1596)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-720">
+          <num>672.720</num>
+          <heading>Loans to members: Extension of previous maximum credit; review.</heading>
+          <subsection eId="672-720__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The credit committee or loan officer
+may approve, at his or her own discretion or upon application by a member, an
+extension of the maximum credit any member had previously been allowed. If an
+extension of credit is permitted, applications for loans within the credit
+limitation need no further consideration so long as the aggregate obligation of
+the member does not exceed the credit limit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-720__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The credit committee or loan officer
+shall, at least once each year, review all extensions of credit and any
+extension of credit shall expire if the member becomes more than 90 days
+delinquent in his or her obligations to the credit union.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+390)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-730">
+          <num>672.730</num>
+          <heading>Loans to and guaranties by directors and members of committees.</heading>
+          <subsection eId="672-730__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A credit union may make loans to its
+directors and to members of its committees, except that any loan or aggregate of
+loans to any one director or member of a committee which is more than $30,000
+plus pledged shares must be approved by the board.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-730__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A credit union may permit its directors
+and members of its committees to act as guarantor or endorser of loans to other
+members, except that when such a loan standing alone or when added to any
+outstanding loan to the guarantor is more than $30,000, approval of the board
+is required.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+390; A1983,
+2018;1999,
+1454)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-740">
+          <num>672.740</num>
+          <heading>Security for loans.</heading>
+          <subsection eId="672-740__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In addition to generally accepted types
+of security, the endorsement of a note by a guarantor or assignment of shares
+or wages, in a manner consistent with the laws of this state, shall be deemed
+security within the meaning of this chapter.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-740__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The credit committee or loan officer,
+subject to the provisions of this chapter and the bylaws, is responsible for determining
+the adequacy of security for any loans.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+390)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-750">
+          <num>672.750</num>
+          <heading>Insurance of members and accounts.</heading>
+          <subsection eId="672-750__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A credit union may purchase insurance
+on the lives of its members in an amount equal to their respective shares,
+deposits and balances on a loan or any of them.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-750__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A credit union may enter into
+cooperative marketing arrangements for its members covering such services as
+group life insurance, coverage for temporary disability, plans for health and
+accident and such other programs which are demonstrated to be in the interest
+of improving the economic and social conditions of the credit unionï¿½s members.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-750__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A credit union must apply to the
+Commissioner for approval of a plan of insurance for membersï¿½ accounts, either
+pursuant to the Federal Credit Union Act of 1934, as amended, (12 U.S.C. ï¿½ï¿½
+1781 et seq.), or under a contract of insurance issued by an insurer, which
+must be approved by the Commissioner and the Commissioner of Insurance pursuant
+toNRS 672.755. The issuance of such a
+contract is not transacting insurance under title 57 of NRS.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-750__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>The Commissioner shall make available
+reports of the financial condition of credit unions, reports of examinations
+made pursuant toNRS 672.790and any
+other reports that may be required by the insurer and deemed appropriate by the
+Commissioner.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+389; A1981,
+1814;1983,
+1836;1985,
+785;1987,
+2019)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-755">
+          <num>672.755</num>
+          <heading>Approval of private insurer and contract of insurance;
+regulations; reserve.</heading>
+          <subsection eId="672-755__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>In determining whether a private
+insurer is acceptable to issue a contract for the insurance of deposits, the
+Commissioner and the Commissioner of Insurance must consider:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-755__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The value of the insurerï¿½s capital.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-755__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The ratio of the insurerï¿½s assets, including
+reinsurance, which are readily available to cover any losses incurred by
+depositors, to its insured deposits. This ratio must be adequate to reimburse
+depositors for any losses which they may incur and may not be less than the
+ratio maintained by the share insurance fund established under the Federal
+Credit Union Act of 1934, as amended, (12 U.S.C. ï¿½ï¿½ 1781 et seq.).
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-755__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The qualifications of the directors, officers
+and managers of the insurance company.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-755__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The insurerï¿½s articles of incorporation and
+its bylaws and all amendments thereto.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-755__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The insurerï¿½s policies for investments.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-755__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The form of all insurance contracts entered
+into by the insurer, including contracts for reinsurance.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-755__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The insurerï¿½s requirements for premiums or
+deposits.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-755__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The insurerï¿½s policies for the management of
+risk.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-755__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Such other considerations as the Commissioner
+may provide by regulation which are necessary to carry out the provisions of
+chapter 248, Statutes of Nevada 1985.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-755__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Commissioner and the Commissioner
+of Insurance shall not approve a contract of insurance unless the protection
+afforded thereby to the depositors is substantially equivalent to the
+protection afforded by the Federal Credit Union Act of 1934, as amended, (12
+U.S.C. ï¿½ï¿½ 1781 et seq.) to the depositors.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-755__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>After a private insurer obtains the
+approval of the Commissioner and the Commissioner of Insurance, the
+Commissioner, after consultation with the Commissioner of Insurance may, for
+cause, require the insurer to establish and maintain for such a time as the
+Commissioner may require, a reserve, in cash or United States treasury bills or
+notes, in an amount fixed by the Commissioner. If required, the reserve must be
+kept in an account approved by the Commissioner in a federally insured
+financial institution located in this state.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+783; A1987,
+2019)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-760">
+          <num>672.760</num>
+          <heading>Authorized investments.</heading>
+          <subsection eId="672-760__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Securities, obligations, participations
+or other instruments of or issued by or fully guaranteed as to principal and
+interest by the United States of America or any agency thereof or in any trust
+or trusts established for investing directly or collectively in these
+instruments;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-760__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Obligations of this state or any
+political subdivision thereof, including, without limitation, a city, county or
+school district;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-760__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Certificates of deposit or passbook
+type accounts issued by a state or national bank, mutual savings bank, savings
+and loan association or savings bank;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-760__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>Loans to or shares or deposits of other
+credit unions as permitted by the bylaws;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-760__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>Capital shares, obligations or
+preferred stock issues of any agency or association organized either as a stock
+company, mutual association or membership corporation if the membership or
+stockholdings, as the case may be, of the agency or association are confined or
+restricted to credit unions or organizations of credit unions, and the purposes
+for which the agency or association is organized are designed to service or
+otherwise assist credit union operations;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-760__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>Shares of a cooperative society
+organized under the laws of this state or the United States in a total amount
+not exceeding 10 percent of the shares, deposits and surplus of the credit
+union;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-760__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>Stocks and bonds of United States
+corporations to a maximum of 5 percent of unallocated reserves, except that such
+an investment must be limited to stocks or bonds yielding income which are
+approved by the Commissioner;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-760__subsec_8">
+            <num>8.</num>
+            <content>
+              <p>Loans to any credit union association,
+national or state, of which the credit union is a member, except that such an
+investment must be limited to 1 percent of the shares, capital deposits and
+unimpaired surplus of the credit union; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-760__subsec_9">
+            <num>9.</num>
+            <content>
+              <p>Negotiable obligations of federal or
+state banks.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+389; A1981,
+1815;1983,
+1280,1641,1836;1987,
+2020;1989,
+1675;1999,
+1454;2013,
+1251)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-765">
+          <num>672.765</num>
+          <heading>Limitation on investment in fixed assets.</heading>
+          <content>
+            <p>A credit union must not invest in fixed assets
+without the prior approval of the Commissioner if the aggregate value of the
+credit unionï¿½s existing fixed assets exceeds 7 percent of its total assets.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1985,
+783; A1987,
+2021)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-767">
+          <num>672.767</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As
+used inNRS 672.767to672.779, inclusive, unless the context
+otherwise requires, the words and terms defined inNRS 672.769to672.777, inclusive, have the meanings
+ascribed to them in those sections.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+1494)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-769">
+          <num>672.769</num>
+          <heading>ï¿½Designated reporterï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Designated
+reporterï¿½ means a person designated by a credit union to receive reports of
+known or suspected exploitation of an older person or vulnerable person
+pursuant toNRS 672.779.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+1494)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-771">
+          <num>672.771</num>
+          <heading>ï¿½Exploitationï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Exploitationï¿½
+has the meaning ascribed to it inNRS
+200.5092.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+1494; A2015,
+841)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-773">
+          <num>672.773</num>
+          <heading>ï¿½Older personï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Older
+personï¿½ has the meaning ascribed to it inNRS
+200.5092.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+1494; A2015,
+841)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-775">
+          <num>672.775</num>
+          <heading>ï¿½Reasonable cause to believeï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Reasonable
+cause to believeï¿½ has the meaning ascribed to it inNRS 200.50925.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+1494)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-777">
+          <num>672.777</num>
+          <heading>ï¿½Vulnerable personï¿½ defined.</heading>
+          <content>
+            <p>ï¿½Vulnerable
+personï¿½ has the meaning ascribed to it inNRS
+200.5092.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+1494; A2015,
+841)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-778">
+          <num>672.778</num>
+          <heading>Training; reporting to designated reporter.</heading>
+          <subsection eId="672-778__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each credit union shall provide
+training concerning the identification and reporting of the suspected
+exploitation of an older person or vulnerable person to each employee of the
+credit union who:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-778__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>May, as part of his or her regular duties for
+the credit union, come into direct contact with an older person or vulnerable
+person; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-778__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>May review or approve the financial
+documents, records or transactions of an older person or vulnerable person in
+connection with providing financial services to the older person or vulnerable
+person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-778__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The training required pursuant to
+subsection 1 must be provided as soon as reasonably practicable, but not later
+than 6 months after the employee is employed by the credit union.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-778__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The training required pursuant to
+subsection 1 must include, without limitation:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-778__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An explanation of the conduct which
+constitutes exploitation of an older person or vulnerable person;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-778__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The manner in which exploitation of an older
+person or vulnerable person may be recognized;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-778__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Information concerning the manner in which
+reports of exploitation are investigated; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-778__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Instruction concerning when and how to report
+known or suspected exploitation of an older person or vulnerable person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-778__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>An employee who has observed or has
+knowledge of an incident that is directly related to a transaction or matter
+which is within his or her scope of practice and which reasonably appears to be
+exploitation of an older person or vulnerable person shall report the known or
+suspected exploitation to the designated reporter.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+1494)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-779">
+          <num>672.779</num>
+          <heading>Designated reporter: Designation; duty to report; immunity.</heading>
+          <subsection eId="672-779__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Each credit union shall designate a
+person or persons to whom an employee of the credit union must report known or
+suspected exploitation of an older person or vulnerable person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-779__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If an employee reports known or
+suspected exploitation of an older person or vulnerable person to a designated
+reporter and, based on such a report or based on his or her own observations or
+knowledge, the designated reporter knows or has reasonable cause to believe
+that an older person or vulnerable person has been exploited, the designated
+reporter shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-779__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided in subsection 3,
+report the known or suspected exploitation of the older person or vulnerable
+person to:
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+              <subparagraph eId="672-779__subsec_2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The local office of the Aging and
+Disability Services Division of the Department of Health and Human Services;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="672-779__subsec_2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A police department or sheriffï¿½s
+office;
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="672-779__subsec_2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The countyï¿½s office for protective
+services, if one exists in the county where the suspected action occurred; or
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="672-779__subsec_2__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>A toll-free telephone service
+designated by the Aging and Disability Services Division of the Department of
+Health and Human Services; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="672-779__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Make such a report as soon as reasonably
+practicable.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-779__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the designated reporter knows or has
+reasonable cause to believe that the exploitation of the older person or
+vulnerable person involves an act or omission of the Aging and Disability
+Services Division, another division of the Department of Health and Human
+Services or a law enforcement agency, the designated reporter shall make the report
+to an agency other than the one alleged to have committed the act or omission.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-779__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>In accordance with the provisions of
+subsection 3 ofNRS 239A.070, in
+making a report pursuant to this section, a designated reporter may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-779__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Disclose any facts or information that form
+the basis of the determination that the designated reporter knows or has
+reasonable cause to believe that an older person or vulnerable person has been
+exploited, including, without limitation, the identity of any person believed
+to be involved in the exploitation of the older person or vulnerable person;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-779__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Provide any financial records or other
+documentation relating to the exploitation of the older person or vulnerable
+person.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-779__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>An employee and the designated reporter
+are entitled to the immunity from liability set forth inNRS 200.5096for making a report in good
+faith.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2007,
+1495; A2019,
+3502)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-780">
+          <num>672.780</num>
+          <heading>Annual financial report.</heading>
+          <content>
+            <p>Every
+credit union organized under this chapter shall submit an annual financial
+report for the calendar year to the Commissioner on or before the first day of
+February on forms supplied by him or her for that purpose.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+390; A1983,
+1328,1837;1987,
+2021)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-790">
+          <num>672.790</num>
+          <heading>Examinations and audits; exceptions; fees.</heading>
+          <subsection eId="672-790__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The Commissioner shall make a thorough
+examination of and into the affairs of each credit union organized under the
+provisions of this chapter, as often as the Commissioner may deem necessary,
+but at least once within each 18-month period. In lieu thereof, the
+Commissioner may accept any or all of a report of an examination of a credit
+union made by a federal regulatory agency. If the Commissioner accepts any part
+of such a report in one 18-month period, he or she shall examine the credit
+union to which the report pertains in the succeeding 18-month period. For the
+purpose of performing the examination, the Commissioner may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-790__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subpoena witnesses and documents;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-790__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Administer oaths; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-790__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Compel the giving of testimony.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-790__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The report of the examination must
+contain comments to the members relative to the management of the affairs of
+the credit union and the general condition of the assets. Within 30 days
+following the receipt of the report, the directors shall call a general meeting
+of key personnel to consider matters contained in the report.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-790__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The Commissioner shall forward a copy
+of the report to the chair of each credit union within 30 days after it is
+completed. The board of directors shall inform the members of the credit union
+of its general condition at the next annual meeting.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-790__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>For each examination the credit union
+shall pay a fee based on the rate established and, if applicable, adjusted
+pursuant toNRS 658.101.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-790__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>The board of directors may engage a
+certified public accountant to perform such an examination in lieu of the
+Commissioner. In such cases, the examination must be equivalent to the type of
+examination made by the Commissioner and the expense must be borne by the
+credit union being inspected.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-790__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Commissioner shall determine
+whether an examination performed by an accountant pursuant to subsection 5 is
+equivalent to an examination conducted by the Commissioner. The Commissioner
+may examine any area of the operation of a credit union if the Commissioner
+determines that the examination of that area is not equivalent to an
+examination conducted by the Commissioner.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+391; A1983,
+2018;1987,
+2227;1989,
+1676;2005,
+1891;2017,
+402)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-795">
+          <num>672.795</num>
+          <heading>Independent audit and examination: Payment of assessment;
+cooperation.</heading>
+          <content>
+            <p>Each credit union
+shall pay the assessment levied pursuant toNRS
+658.055and cooperate fully with the audits and examinations performed
+pursuant thereto.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1987,
+827)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-800">
+          <num>672.800</num>
+          <heading>Merger; fees set by regulation; regulations.</heading>
+          <subsection eId="672-800__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any credit union may, with the approval
+of the Commissioner, merge with another credit union under the existing charter
+of the other credit union, pursuant to any plan agreed upon by the majority of
+the board of each credit union joining in the merger and approved by the
+affirmative vote of:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-800__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A majority of the members of the merging
+credit union present at a meeting called for that purpose; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-800__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A majority of the members of the merging
+credit union voting by mail on the question.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-800__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>After agreement by the directors of
+each credit union and approval by the members of the merging credit union, the
+chair and secretary of each credit union shall execute a certificate of merger,
+which must set forth:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-800__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The time and place of the meeting of the
+board of directors at which the plan was agreed upon;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-800__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The vote in favor of adoption of the plan;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-800__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A copy of the resolution or other action by
+which the plan was agreed upon;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-800__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The circumstances of the vote in which the
+members approved the plan agreed upon, if a vote was required; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-800__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The vote by which the plan was approved by
+the members, if a vote was required.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-800__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>A copy of each of the certificates
+executed pursuant to subsection 2 and a copy of the plan of merger agreed upon
+by the credit unions joining in the merger must be forwarded to the Division of
+Financial Institutions for certification and returned to the credit unions
+within 30 days.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-800__subsec_4">
+            <num>4.</num>
+            <content>
+              <p>After a merger is effected, all
+property, property rights and interest of the merged credit union vest in the
+surviving credit union without deed, endorsement or other instrument of
+transfer, and all debts, obligations and liabilities of the merged credit union
+are deemed to be assumed by the surviving credit union under whose charter the
+merger was effected.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-800__subsec_5">
+            <num>5.</num>
+            <content>
+              <p>If the surviving credit union is to be
+a credit union chartered in accordance with the laws of this state, the
+application for approval of the merger must be accompanied by an application
+fee in an amount prescribed by regulation of the Commissioner. The applicant
+shall also pay such additional expenses incurred in the process of
+investigation as the Commissioner deems necessary. All money received by the
+Commissioner pursuant to this subsection must be placed in the Investigative
+Account created byNRS 232.545.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-800__subsec_6">
+            <num>6.</num>
+            <content>
+              <p>The Commissioner shall adopt
+regulations pursuant to which he or she may order any credit union chartered in
+accordance with the provisions of this chapter to merge with:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-800__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Another credit union chartered in accordance
+with the provisions of this chapter; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-800__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A credit union chartered in accordance with
+the laws of another state or of the United States, if a majority of the board
+of that credit union approves the merger,
+ï¿½when he or
+she determines that the merger is in the best interest of the members of the
+merging credit union.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-800__subsec_7">
+            <num>7.</num>
+            <content>
+              <p>This section is to be liberally
+construed to permit a credit union chartered in accordance with this chapter to
+merge with a credit union chartered in accordance with this chapter or any
+other provisions of law.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+392; A1983,
+1329,1642,1837,2019;1987,
+2021;1991,
+1816)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-810">
+          <num>672.810</num>
+          <heading>Conversions; fee set by regulation.</heading>
+          <subsection eId="672-810__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A credit union chartered in accordance
+with the laws of this state may be converted to a credit union chartered in
+accordance with the laws of any other state or the laws of the United States,
+subject to regulations adopted by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-810__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A credit union chartered in accordance
+with the laws of the United States or of any other state may convert to a
+credit union chartered in accordance with the laws of this state. To effect
+such a conversion, a credit union must comply with all the requirements of the
+authority under which it was originally chartered and the requirements of the
+Commissioner and file proof of such compliance with the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-810__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Every application for permission to
+convert to a credit union chartered in accordance with the laws of this state
+must be accompanied by an application fee in an amount prescribed by regulation
+of the Commissioner. The applicant shall also pay such additional expenses
+incurred in the process of investigation as the Commissioner deems necessary.
+All money received by the Commissioner pursuant to this subsection must be
+placed in the Investigative Account created byNRS 232.545.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+393; A1983,
+1329,1838;1987,
+2022;1991,
+1818)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-820">
+          <num>672.820</num>
+          <heading>Voluntary dissolution.</heading>
+          <subsection eId="672-820__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>At a meeting called to consider
+dissolution, the membership may vote to dissolve a credit union if notice of
+the meeting is mailed to the members at least 10 days prior thereto. Any member
+who is not present at the meeting may, within 20 days after the meeting, vote
+by signing a form furnished by the Division of Financial Institutions and
+filing the form with the secretary of the credit union. An affirmative vote of
+a majority of the members who vote at the meeting or by filing the form is
+required to dissolve the credit union.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-820__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>If the members vote to dissolve, the
+credit union shall, except for the purpose of liquidation, cease its business
+operations immediately.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-820__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>The chair shall, within 5 days after an
+affirmative vote to dissolve the credit union, notify the Division of Financial
+Institutions by mail of the credit unionï¿½s intention to liquidate and include
+with the notice a list of the names and addresses of the directors and
+officers.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+391; A1983,
+2020)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-830">
+          <num>672.830</num>
+          <heading>Involuntary dissolution: Suspension of operations; corrective
+actions; declaration of insolvency; liquidation.</heading>
+          <subsection eId="672-830__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>If the Division of Financial
+Institutions determines that any credit union organized pursuant to the
+provisions of this chapter is bankrupt or insolvent, has willfully violated the
+provisions of this chapter or is operating in an unsafe or unsound manner, the
+Division of Financial Institutions may, if emergency action is required to
+protect the assets of the members, issue an order temporarily suspending the
+credit unionï¿½s operations. Reasonable notice of the suspension of operations
+and of the impending hearing shall be given to the board. Operations of the
+credit union shall cease upon receipt of notice from the Division of Financial
+Institutions.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-830__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>At the scheduled hearing, the board
+shall, if it desires to continue operations, submit a plan of corrective
+actions. If the board desires, it may, prior to the hearing, request the
+Commissioner to declare the credit union insolvent and appoint a liquidating
+agent.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-830__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>If the credit union is not represented
+at the scheduled hearing or the Division of Financial Institutions rejects the
+credit unionï¿½s plan to continue operations, the Commissioner may appoint a
+liquidating agent and dissolve the credit union.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+391; A1977,
+96)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-835">
+          <num>672.835</num>
+          <heading>Involuntary dissolution: Appointment of liquidating agent for
+credit union closed by bankruptcy or insolvency.</heading>
+          <content>
+            <p>If
+a credit union is closed because of bankruptcy or insolvency, the Commissioner
+may appoint a liquidating agent.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+389; A1981,
+1814;1983,
+1836;1985,
+785;1987,
+2019)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-840">
+          <num>672.840</num>
+          <heading>Procedure for liquidation.</heading>
+          <subsection eId="672-840__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A liquidating credit union shall
+continue in existence for the purpose of discharging its debts, collecting and
+distributing its assets, and doing any other acts required to wind up its
+business.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-840__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The board or, in the case of
+involuntary dissolution, the liquidating agent, shall pay from the assets, the
+obligations of the credit union in the following order:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-840__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Expenses incidental to liquidation including
+any surety bond that may be required.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-840__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any liability due to nonmembers.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-840__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Deposits and savings club accounts.
+ï¿½If any
+assets remain, they shall be distributed to the members proportionately to the
+number of shares held by each member as of the date dissolution was approved by
+the members or ordered by the Commissioner.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-840__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>As soon as the board or the liquidating
+agent determines that all assets from which there is a reasonable expectancy of
+realization have been liquidated and distributed as set forth in this section,
+he or she shall execute a certificate of dissolution on a form provided by the
+Division of Financial Institutions and shall file such form with the proper
+recording authority within the county in which the credit union has its
+principal place of business. After filing or recording, and indexing the
+original form shall be forwarded to the Division of Financial Institutions and
+upon its receipt and filing such credit union shall be officially dissolved.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+392)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-850">
+          <num>672.850</num>
+          <heading>Organization and operation; rights and powers.</heading>
+          <subsection eId="672-850__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>A central credit union may be organized
+and operated under the provisions of this chapter by any three credit unions
+incorporated within this state. A central credit union is subject to all
+provisions not inconsistent with this section and shall use the term ï¿½centralï¿½
+in its official name.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-850__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>A central credit union has all the
+rights and powers of any other credit union organized under this chapter and,
+in addition, a central credit union may:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-850__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Make loans to other credit unions;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-850__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Purchase shares and make deposits in other
+credit unions;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-850__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Obtain the assets and liabilities of any
+credit union operating in this state which enters into liquidation;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-850__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Invest in and grant loans to associations of
+credit unions or organizations chartered to provide exclusive service to credit
+unions; and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-850__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Borrow money from any source and issue notes
+or debentures.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+393; A1977,
+891)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-860">
+          <num>672.860</num>
+          <heading>Membership.</heading>
+          <subsection eId="672-860__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Credit unions;
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-860__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The Nevada Credit Union League, Inc.;
+and
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-860__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Organizations affiliated with the
+Nevada Credit Union League, Inc.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+393; A1977,
+892)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-870">
+          <num>672.870</num>
+          <heading>Voting representatives.</heading>
+          <subsection eId="672-870__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>The board of each credit union that
+becomes a member of a central credit union shall designate one person to be its
+voting representative in the central credit union.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-870__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>The voting representative of a member
+credit union is eligible to hold office in the central credit union.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+393; A1977,
+892)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-875">
+          <num>672.875</num>
+          <heading>Regular reserves.</heading>
+          <subsection eId="672-875__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Before the payment of any dividend by a
+central credit union, a regular reserve against loan losses shall be set aside
+according to the following schedule:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="672-875__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Until the regular reserve equals 5 percent of
+the outstanding loans and risk assets, 2 percent of the gross earnings shall be
+withheld.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-875__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Whenever the regular reserve falls below 5
+percent of the outstanding loans and risk assets it shall be replenished in
+accordance with the formula set forth in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="672-875__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="672-875__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>No other reserves need be maintained by
+the central credit union.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1977,
+889)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-880">
+          <num>672.880</num>
+          <heading>Use of words ï¿½credit unionï¿½ or conducting business as credit
+union by person not organized as credit union; spreading false report
+concerning management or finances of credit union.</heading>
+          <subsection eId="672-880__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Any person, except a credit union
+organized under the provisions of this chapter or the Nevada Credit Union
+League, which uses a name or title containing the words ï¿½credit unionï¿½ or any
+derivation thereof or representing themselves in their advertising or otherwise
+as conducting business as a credit union is guilty of a gross misdemeanor.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-880__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Any person who maliciously and
+knowingly spreads false reports about the management or finances of any credit
+union is guilty of a gross misdemeanor.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1975,
+394)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_672-890">
+          <num>672.890</num>
+          <heading>Administrative fines.</heading>
+          <subsection eId="672-890__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Without a license, conducts any
+business or activity for which a license is required pursuant to the provisions
+of this chapter; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="672-890__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Violates any provision of this chapter
+or any regulation adopted pursuant thereto.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by2005,
+1890)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

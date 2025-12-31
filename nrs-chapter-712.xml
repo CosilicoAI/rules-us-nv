@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="NRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-712"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-712"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#nevada-legislature"/>
+          <FRBRcountry value="us-nv"/>
+          <FRBRnumber value="712"/>
+          <FRBRname value="NRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-712/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-712/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-nv/act/nrs/chapter-712/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-nv/act/nrs/chapter-712/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="nevada-legislature" href="https://www.leg.state.nv.us" showAs="Nevada State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_712">
+        <num>712</num>
+        <heading>STORAGE OF HOUSEHOLD GOODS</heading>
+        <section eId="sec_712-010">
+          <num>712.010</num>
+          <heading>Short title.</heading>
+          <content>
+            <p>This
+chapter shall be known and may be cited as the Household Goods and Effects
+Storage Act.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+1025)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_712-020">
+          <num>712.020</num>
+          <heading>Legislative declaration.</heading>
+          <content>
+            <p>The
+Legislature hereby finds and declares that the storage of household goods and
+effects in warehouses affects the public interest and the public welfare, and
+in the exercise of its police power it is necessary to vest in the Nevada
+Transportation Authority the authority to set certain standards as to fitness
+and financial stability, and to require certain insurance as a condition for
+engaging in such storage business.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+1025; A1997,
+1960)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_712-030">
+          <num>712.030</num>
+          <heading>ï¿½Storage of household goods and effectsï¿½ defined.</heading>
+          <subsection eId="712-030__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>ï¿½Storage of household goods and
+effectsï¿½ means the storage for compensation of the personal household goods and
+effects of another where the operator of a warehouse is held out to the public
+to provide such storage.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="712-030__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>ï¿½Storage of household goods and
+effectsï¿½ does not include:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="712-030__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The storage of personal household goods and
+effects when the owner rents for the ownerï¿½s exclusive use separate and
+distinct storage facilities from another and the lessor assumes no
+responsibility for the care, maintenance or safety of the stored property; or
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="712-030__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Personal property consigned to a warehouse
+under circumstances described inSection
+1 of Article 10of the Constitution of the State of Nevada.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+1025)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_712-040">
+          <num>712.040</num>
+          <heading>Permit for warehouse required.</heading>
+          <content>
+            <p>A
+person shall not engage in the storage of household goods and effects without first
+having obtained from the Nevada Transportation Authority a warehouse permit to
+conduct such service.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+1025; A1997,
+1960)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_712-050">
+          <num>712.050</num>
+          <heading>Requirements for permit; grounds for revocation; fee; penalty.</heading>
+          <subsection eId="712-050__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Before issuing a warehouse permit, the
+Nevada Transportation Authority shall:
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+            <paragraph eId="712-050__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Require proof of financial ability to protect
+persons storing property from loss or damage, and a showing of sufficient
+assets, including working capital, to carry out the proposed service.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="712-050__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Determine that the applicant has sufficient
+experience in and knowledge of the storage in a warehouse of household goods
+and effects, and the regulations of the Authority governing the storage of
+household goods and effects.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="712-050__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Require proof that the applicant carries a
+legal policy of liability insurance evidencing coverage against fire, theft,
+loss and damage for stored property and effects in an amount not less than the
+base release value set forth in the tariff approved by the Authority governing
+the transportation of household goods and effects for those articles not
+covered by private insurance. Except upon 30 daysï¿½ written notice to the
+Authority, the insurance must not be cancelled during the period for which any
+permit is issued. Failure to keep the insurance in effect is cause for
+revocation of any warehouse permit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="712-050__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Require information showing that the property
+to be used for storage of household goods and effects is reasonably suitable
+for that purpose. Failure to maintain the property in suitable condition is
+cause for revocation of any warehouse permit.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+            <paragraph eId="712-050__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Collect an initial fee for the permit as set
+by the Authority according to the gross volume of business in an amount not
+less than $25 nor more than $50.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="712-050__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>On or before January 1 of each year,
+the holder of a warehouse permit shall pay to the Authority an annual fee as
+set by the Authority pursuant to paragraph</p>
+            </content>
+            <paragraph eId="712-050__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>of subsection 1.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="712-050__subsec_3">
+            <num>3.</num>
+            <content>
+              <p>Any person who fails to pay the annual
+fee on or before the date provided in this section shall pay a penalty of 10
+percent of the amount of the fee plus interest on the amount of the fee at the
+rate of 1 percent per month or fraction of a month from the date the fee is due
+until the date of payment.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+1025; A1981,
+1598;1987,
+897;1997,
+1960)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_712-060">
+          <num>712.060</num>
+          <heading>Inspection by Nevada Transportation Authority.</heading>
+          <subsection eId="712-060__subsec_1">
+            <num>1.</num>
+            <content>
+              <p>Inspect any property proposed to be
+used for storage of household goods and effects to determine its suitability.
+ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+            </content>
+          </subsection>
+          <subsection eId="712-060__subsec_2">
+            <num>2.</num>
+            <content>
+              <p>Examine the premises, books and records
+of any permit holder.</p>
+            </content>
+          </subsection>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+1026; A1997,
+1961)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_712-070">
+          <num>712.070</num>
+          <heading>Rules and regulations of Nevada Transportation Authority.</heading>
+          <content>
+            <p>The Nevada Transportation Authority shall
+adopt such rules or regulations as may be required for the administration of
+this chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+1026; A1997,
+1961)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_712-080">
+          <num>712.080</num>
+          <heading>Disciplinary proceedings; judicial review.</heading>
+          <content>
+            <p>The provisions ofNRS 703.373to703.376, inclusive, relating to revocation
+and suspension of certificates, permits and licenses and judicial review
+thereof, apply to proceedings to suspend or revoke any permit issued under this
+chapter.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+1026; A1983,
+970)</p>
+          </authorialNote>
+        </section>
+        <section eId="sec_712-090">
+          <num>712.090</num>
+          <heading>Penalty.</heading>
+          <content>
+            <p>Any person
+who violates any provision of this chapter, or any rule or regulation adopted
+pursuant to this chapter, is, in addition to any civil penalties which may be
+provided, guilty of a misdemeanor.</p>
+          </content>
+          <authorialNote marker="history">
+            <p>ï¿½ï¿½ï¿½ï¿½ï¿½ (Added to NRS by1973,
+1026; A1981,
+1598)</p>
+          </authorialNote>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
